@@ -12,6 +12,7 @@ parents:
 spouses:
   - charles-eesley
   - ben-bain
+portrait: ../../assets/family/originals/IMG_0004.jpeg
 death:
   date: "2017-05-16"
   place: "Marietta, Ohio (her residence)"
@@ -56,6 +57,16 @@ She married [Charles M. Eesley](/family/charles-eesley/) in the 1970s and they r
 - Her brother [**Robert E. Wildermuth Jr.**](/family/rob-wildermuth/) (wife [**Dawn**](/family/dawn-wildermuth/)) of Venice, Florida.
 - Nieces **Briana Massaro** and **Sarah Wildermuth**; nephews **Gian Carlo Massaro**, **Trey Wildermuth**, and **Thomas Wildermuth**.
 - The obituary also names **Betty and Norm Wolfe** as close relatives by way of long entertainment of visiting family.
+
+## In her garden, May 2011
+
+The captioned photograph — in her own household's hand, *"May 6, 2011 — Our south side gardens, featuring a huge dark pink azalea — Terrie (Wildermuth) Bain"* — is the literal image of the line *"warmed by God's sun with flowers my best"* in her poem. The full artifact entry, with provenance, is [here](/archive/terrie-azalea-garden-2011/).
+
+## The portrait
+
+The photograph at the head of this page shows Terrie at the **Stanford Alumni Center**, looking through her father Robert Earl Wildermuth's **Class of '48 yearbook** — the volume that holds [his graduation from Stanford on the GI Bill](/archive/robert-earl-wildermuth-stanford-ba-1948/). It is the family's quietest single statement of why this campus matters to it: the daughter on the same campus, with her father's record open in front of her, in the same building her son had become a faculty member of. The Stanford thread runs through her too &mdash; not as a graduate, but as the keeper of her father's record on the campus where her son now works. Three generations meeting across an open yearbook page.
+
+## The memorial service
 
 A memorial service was held **July 8, 2017 at 2:00 p.m.** at the Hadley Funeral Reno Chapel, 1021 Pike Street, Marietta. Cremation. The printed program shows speakers in order: **Chuck Eesley, son; Sandy Clement, sister; Debbie Massaro, sister; [Daniel Ebaugh](/family/daniel-ebaugh/), friend; Tribute from the Teachers and Students of Harmar School (read by Chuck Eesley).** Terrie's own poem was printed alongside the obituary.
 

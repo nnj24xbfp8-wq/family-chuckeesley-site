@@ -32,6 +32,12 @@ visits:
   - year: "1965-08-24"
     caption: "Family at the White Memorial Fountain (the bronze 'Claw' by Aristides Demetrios, installed only a year earlier in 1964) in the heart of campus, on **24 August 1965**. Identified by Chuck: Uncle Rob Wildermuth, Chuck's mother Terrie Lee (then about sixteen), Sandy (Sandra Sue Wildermuth Clement), and Debbie Wildermuth, with their mother Dorothy 'Dottie' Davis Wildermuth holding the youngest. The original print was black-and-white; the version surfaced here is AI-colorized by Chuck, which is why the tones and saturations don't read as authentically period."
     alignmentNote: "The fountain and the open arches behind are unchanged in present-day Stanford — a re-shootable frame at any future generation's distance. The colorization is documentary fiction: an aid to imagining the day, not a literal record."
+  - year: "2010s"
+    photographer: charles-eric-eesley
+    caption: "Terrie Lee at the Stanford Alumni Center, looking through her father Robert Earl Wildermuth's *Class of '48* yearbook — the volume that holds his graduation from Stanford on the GI Bill. The photograph is the family's quietest single statement of why Stanford matters to it: the daughter, on the same campus, with her father's record open in front of her, in the same room where her son had become a faculty member. Three generations meet across the open page."
+    alignmentNote: "This is the photograph that turns the Stanford thread from a coincidence into a passage. Set as the portrait image on Terrie's person page."
+    images:
+      - ../../assets/family/originals/IMG_0004.jpeg
     images:
       - ../../assets/family/originals/IMG_1334.jpeg
 ---
