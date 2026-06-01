@@ -1,15 +1,31 @@
 ---
-name: Don Eesley
+name: "Donald Stuart Eesley"
+aka: "Don"
 line: paternal
+birth:
+  date: "1908-09-24"
+  place: "Lebanon, Ohio"
+death:
+  date: "1975-05-15"
+  place: "Tulsa, Oklahoma"
 generation: 5
 parents:
   - charles-leonard-eesley
   - lillie-dale-chenoweth
 spouses:
   - peggy-don-eesley
-summary: "Brother of Will Eesley. Married to a Peggy of his own (not to be confused with Will's Peggy McMaster). One of the four Eesley brothers who predeceased Will."
+summary: "Brother of Will Eesley; born 24 September 1908 in Lebanon, Ohio; died 15 May 1975 in Tulsa, Oklahoma. Married Margaret Adelyne Youman (b. 24 June 1913) — the family's second 'Peggy.' Father of five: Lyle Stuart (1948), Robert Douglas (1950), Marilyn (1951), Charles Stuart (1955), Donald Steven (1975)."
 ---
 
-Don Eesley appears in the late-1940s/early-1950s family group photo with his wife Peggy beside him. Dates of birth and death not yet recorded; he predeceased his brother Will (d. 1986).
+Donald Stuart Eesley was born September 24, 1908 in Lebanon, Ohio — born almost the same year as his brother [James Michael "Mike"](/family/charles-leonard-eesley/) (October 26, 1908) — and died May 15, 1975 in Tulsa, Oklahoma. He married **Margaret Adelyne Youman** (born June 24, 1913) — and so the Eesleys of this generation had **two Peggys** in the family by marriage: Will's wife Peggy McMaster and Don's wife Margaret Adelyne Youman, both called Peggy.
 
-The Eesley family of this generation had **two Peggys** by coincidence of marriage — Will's wife Peggy McMaster, and Don's wife Peggy — and both appear together in the group portrait.
+Don and Margaret had five children:
+- **Lyle Stuart Eesley** (b. January 9, 1948) — named for Don's brother who died at Cabanatuan, and whose son Daniel Stewart was born October 31, 1973
+- **Robert Douglas Eesley** (b. December 1, 1950)
+- **Marilyn Eesley** (b. December 24, 1951)
+- **Charles Stuart Eesley** (b. December 24, 1955)
+- **Donald Steven Eesley** (b. June 24, 1975)
+
+He appears with Margaret in the [late-1940s/'60s Eesley family group portrait](/archive/eesley-family-group-portrait-late-1940s/), taken at his parents' home in Bexley.
+
+> *Source: Mary Eesley Bean, *[Eesley Family History](/docs/eesley-family-history-1985/)*, p. 8.*

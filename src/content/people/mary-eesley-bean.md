@@ -1,15 +1,21 @@
 ---
-name: Mary Eesley Bean
+name: "Mary Elizabeth (Eesley) Bean"
+aka: "Mary Eesley, maiden"
 line: paternal
+birth:
+  date: "1913-08-25"
+  place: "Shelby, Michigan"
 generation: 5
 parents:
   - charles-leonard-eesley
   - lillie-dale-chenoweth
-summary: "Sister of Will Eesley; great-aunt of Chuck. Author of the 1985 Eesley Family History — the indented descendant register that is this archive's relationship backbone. Of Narberth, Pennsylvania."
+summary: "Sister of Will Eesley; Chuck's great-aunt. Author of the 1985 Eesley Family History — the indented descendant register that is this archive's relationship backbone. Married William Thomas Bean (b. 13 November 1909). Of Narberth, Pennsylvania."
 ---
 
-Mary Eesley Bean wrote the book that made this site possible. Her 1985 *Eesley Family History* gathered the indented descendant register (gens I–VII), the Goldie immigration story, the flour-mill prehistory, and the address appendix that — minus the addresses, per the project's privacy rules — still anchors everything we have on the paternal side. Will Eesley drew the cover.
+Mary Elizabeth Eesley was born **August 25, 1913 in Shelby, Michigan** — the seventh of Charles Leonard and Lillie Dale Chenoweth Eesley's ten children, and the second of their three daughters. She married **William Thomas Bean** (born November 13, 1909). They had one daughter, **Margaret Louise Bean** (b. December 11, 1941), who married Jay Albert Kirkpatrick.
 
-She was living in Narberth, Pennsylvania at the time of Will's death in 1986. Biography otherwise pending.
+In March 1985, working in her early seventies from her home in Narberth, Pennsylvania, she wrote the book that made this site possible: the [Eesley Family History](/docs/eesley-family-history-1985/) — a chronological listing of her father Charles Leonard Eesley's family, traced back through her grandfather Albert, and forward through every descendant she could trace. Her brother Will drew the cover.
 
-The 1985 register is the foundational document for this archive's paternal line and is queued as a `documents` entry of type `register`. Many of the people seeded here trace through her work first.
+It is the relationship backbone of this archive's paternal line and the founding document of the line's record-keeping habit. She is not just a source; she is the most important figure in the previous generation of family record-keepers.
+
+> *Source: Mary Eesley Bean, *[Eesley Family History](/docs/eesley-family-history-1985/)*, p. 8; her own preface, March 1985.*

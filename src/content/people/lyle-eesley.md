@@ -1,13 +1,31 @@
 ---
 name: "Lyle Eesley"
 line: paternal
+birth:
+  date: "1914-08-13"
+  place: "Grove City, Ohio"
+death:
+  date: "1942-07-25"
+  place: "Cabanatuan Prison Camp, Luzon, Philippines"
 generation: 5
 parents:
   - charles-leonard-eesley
   - lillie-dale-chenoweth
-summary: "Brother of Will Eesley; one of the four Eesley brothers who predeceased Will. His death may mark the period in which Stella Sunn arrived in the Bexley household, per a 2019 note from cousin Roberta: 'She may have joined the scene after Lyle died.'"
+summary: "Brother of Will Eesley. Born 13 August 1914 in Grove City, Ohio; died 25 July 1942, age 27, in Japanese captivity at Cabanatuan Prison Camp on Luzon — almost certainly a Bataan Death March survivor who did not survive the camp."
 ---
 
-Lyle Eesley is one of the four Eesley brothers — Dale, Don, Lyle, and one not yet identified — who predeceased Will (d. 1986). Dates of birth and death are not yet recorded in this archive.
+Lyle Eesley was born August 13, 1914, in Grove City, Ohio — the seventh of Charles Leonard and Lillie Dale Chenoweth Eesley's ten children. He died on **July 25, 1942**, at age 27, in the **Cabanatuan Prison Camp** on Luzon in the Philippines, where the Imperial Japanese Army had concentrated American and Filipino prisoners of war captured during the fall of the Philippines.
 
-His name surfaces in a 2019 family email exchange in connection with the question of when Stella Sunn arrived in the Eesley household: their cousin Roberta speculated that Stella *"may have joined the scene after Lyle died."* That timing isn't independently confirmed, but it puts Lyle's death somewhere in the late 1930s or very early 1940s — before the wartime shelter began.
+That his name appears in the 1985 *Eesley Family History* with the bare facts and that place name — *"died July 25, 1942, Cabanatuan Prison Camp, Luzon, Philippines"* — is itself the family's record of what happened. Cabanatuan was the largest of the Japanese camps in the Philippines; the men who arrived there in mid-1942 had survived the Bataan Death March. The death rate in the first six months was catastrophic.
+
+## What the rest of the family's wartime then looks like in light of this
+
+Lyle's death is the date that reshapes the Stella story. Cousin Roberta's 2019 reconstruction — *"she may have joined the scene after Lyle died"* — turns out to put Stella's arrival in the Eesley household within months of Lyle's death in the Philippines.
+
+The shape of it: Charles Leonard's son was killed in a Japanese prisoner-of-war camp in the summer of 1942. The U.S. government in the same months was rounding up Japanese-Americans on the West Coast and putting them in camps. Charles Leonard, a few months after losing his son in one war camp, brought a Chinese-American teenager — whose appearance was the sole reason she was at risk of ending up in the other one — across the country and into his house in Bexley, Ohio.
+
+That refusal — to let the loss of his son turn him into someone who would inflict a related loss on someone else — is the act that the next two generations remembered. Stella stayed in the house through the 1950s. The family gathered around her in the photographs that became this archive. [Charles Leonard fell into depression when she finally left.](/family/charles-leonard-eesley/)
+
+Lyle has no surviving children in the family register; his line ends at this entry. He is the brother whose absence the next generation lived around.
+
+> *Sources: Mary Eesley Bean, *[Eesley Family History](/docs/eesley-family-history-1985/)*, March 1985, p. 8; cousin Roberta's 2019 oral note; the historical record of the Cabanatuan POW camp.*

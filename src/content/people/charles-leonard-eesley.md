@@ -3,32 +3,43 @@ name: "Charles Leonard Eesley"
 aka: "Grandpa Eesley, in the next generations' memory"
 line: paternal
 birth:
-  date: "1879"
+  date: "1879-09-26"
 death:
-  date: "~1972"
+  date: "1972-10"
 generation: 4
 parents:
   - albert-robert-eesley
   - jeanie-goldie
 spouses:
   - lillie-dale-chenoweth
-summary: "Son of Albert Robert Eesley and Jeanie Goldie; husband of Lillie Dale Chenoweth (1877–1970); father of Will, Dale, Don, Lyle, Mary Bean, Helen Burnes, and others — seven or eight children in the Bexley, Ohio family home. During the Second World War he brought Stella Sunn — a Chinese-American teenager from Honolulu at risk of West Coast Japanese-American internment — into the household; she stayed for over a decade, and the family stayed hers."
+summary: "Son of Albert Robert Eesley and Jeanie Goldie; husband of Lillie Dale Chenoweth (1877–1970); father of ten children — Leonard David (1904), Thomas Leonard (1906), James Michael 'Mike' (1908), Donald Stuart (1908), Wilbur 'Will' (1910), Jean Goldie (1912, died age 12), Mary Elizabeth (Bean, 1913), Lyle (1914–1942, Cabanatuan), Dale Dudley George (1916–1939), and Helen Louise (Burnes, 1924). The household was in Bexley, Ohio. Brought Stella Sunn into the family during the war and kept her there for over a decade."
 ---
 
-Charles Leonard Eesley is the bridge generation in two senses. Biographically he is the child of the emigrant Albert and his Scottish wife Jeanie Goldie, and the husband of Lillie Dale Chenoweth who carried the Chenoweth and Timmons lines into the family. But the acts that give him his own place in the story are from the next generation's wartime &mdash; and the long aftermath that followed.
+Charles Leonard Eesley was born **September 26, 1879**, the ninth of ten children of [Albert Robert Eesley](/family/albert-robert-eesley/) and [Jeanie Goldie](/family/jeanie-goldie/). He married **[Lillie Dale Chenoweth](/family/lillie-dale-chenoweth/)** (b. August 9, 1877). Their family home was in **Bexley, Ohio** — the leafy independent municipality embedded in eastern Columbus — and the house often took in boarders.
 
-He and Lillie Dale kept their family home in **Bexley, Ohio** &mdash; the leafy independent municipality embedded in eastern Columbus. Their household took in boarders; Charles's handwriting was, in cousin Roberta's later judgment, *"almost indecipherable."* He raised seven or eight children there; Will the architect, Mary Bean the family historian, Helen Burnes, and at least four sons (Dale, Don, Lyle, and one unnamed brother) who would all predecease their brother Will.
+Together they raised **ten children**, with two losses along the way:
 
-## The wartime shelter
+- **Leonard David** (1904, Geneva OH – 1976, Silver Spring MD)
+- **Thomas Leonard** (1906)
+- **James Michael "Mike"** (October 26, 1908)
+- **Donald Stuart "Don"** (September 24, 1908 – May 15, 1975, Tulsa OK)
+- **Wilbur "Will" Chenoweth** (October 6, 1910 – 1986)
+- **[Jean Goldie](/family/jean-goldie-eesley/)** (October 28, 1912 – 1924) — died at age 12 in Columbus
+- **[Mary Elizabeth](/family/mary-eesley-bean/)** (August 25, 1913, Shelby MI), who married William Thomas Bean and wrote the 1985 family history
+- **[Lyle](/family/lyle-eesley/)** (August 13, 1914, Grove City OH – July 25, 1942, Cabanatuan Prison Camp, Luzon, Philippines) — died as a Japanese POW
+- **Dale Dudley George** (August 5, 1916, Lebanon OH – July 12, 1939) — died at age 22; engaged to Thelma Haughn
+- **[Helen Louise](/family/helen-burnes/)** (January 16, 1924, Columbus OH), who married Edwin William Burnes — Roberta Burnes's mother
 
-During the Second World War he brought **[Stella Sunn](/family/stella/)**, a Chinese-American teenager from Honolulu at risk of being caught up in the West Coast Japanese-American internment, into his household. Aunt Maggie's recollection, from a 2019 family email: *"They were Chinese, not Japanese. Grandpa felt very protective of them."* Aunt Jeanne's: *"Grandpa Eesley brought her over to live with them during the war and she became part of the family at that time."* Roberta's, kept in the 1940s letters Charles wrote about the household but not yet deciphered: that Stella may have arrived shortly after [Lyle Eesley](/family/lyle-eesley/)'s death &mdash; one absence in the house perhaps making space for one arrival.
+## The two acts that define him
 
-## The afterward
+**1942 — losing Lyle, sheltering Stella.** In July 1942 his son [Lyle died in a Japanese prison camp on Luzon](/family/lyle-eesley/). In the months that followed Charles Leonard brought [Stella Sunn](/family/stella/) — a Chinese-American teenager from Honolulu at risk of West Coast Japanese-American internment — across the country and into the Bexley house. The two events are almost certainly connected: cousin Roberta's 2019 note that Stella *"may have joined the scene after Lyle died"* puts them within months of each other. Charles Leonard's grief did not turn into a grievance against any East-Asian face that crossed his door. The opposite. He took her in.
 
-Stella lived in the Bexley house *"until sometime in the 50s,"* by Roberta's account. By then all of Charles and Lillie Dale's own children had grown and left. When Stella left too, Roberta writes, *"Grandpa fell into a deep depression."* The house had been full for forty years; suddenly it wasn't.
+Aunt Maggie's recollection from a 2019 family email confirms the disposition: *"They were Chinese, not Japanese. Grandpa felt very protective of them."* Aunt Jeanne's: *"Grandpa Eesley brought her over to live with them during the war and she became part of the family at that time."*
 
-He died in the early 1970s, two years after Lillie Dale. The Chongs, by then in their own household on the East Coast, **sent flowers from Hawaii** to the funeral &mdash; the last and quietest of the threads connecting the wartime shelter to the rest of his life.
+**1950s — the depression after Stella left.** Stella lived in the Bexley house *"until sometime in the 50s,"* by Roberta's account, by which point all his own children had grown and left. When Stella left too — by then in her own marriage and her own household — Roberta writes that *"Grandpa fell into a deep depression."* The house had been full for forty years; suddenly it wasn't.
 
-He appears in the [family group portrait](/archive/eesley-family-group-portrait-late-1940s/) &mdash; taken at his own home in Bexley &mdash; behind his wife Lillie Dale, the matriarch at the center of the frame.
+He died around October 1972, two years after Lillie Dale. The Chongs, by then on the East Coast, **sent flowers from Hawaii** for the funeral — the last and quietest of the threads connecting the wartime shelter to the rest of his life.
 
-> *Sources: July 2019 family email exchange among Chuck, Aunt Maggie, Aunt Jeanne, and cousin Roberta; the 1940s letter collection Roberta still holds; the [late-1940s/'60s group portrait](/archive/eesley-family-group-portrait-late-1940s/).*
+He appears in the [family group portrait](/archive/eesley-family-group-portrait-late-1940s/) — taken at his own home in Bexley — behind his wife Lillie Dale, the matriarch at the center of the frame.
+
+> *Sources: Mary Eesley Bean, *[Eesley Family History](/docs/eesley-family-history-1985/)*, March 1985, p. 8; July 2019 family email exchange among Chuck, Aunt Maggie, Aunt Jeanne, and cousin Roberta; the 1940s letter collection Roberta still holds.*
