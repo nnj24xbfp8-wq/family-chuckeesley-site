@@ -31,4 +31,6 @@ Surviving extended family in 2013 included his sister **Marietta Eng** of Honolu
 
 He appears in the [late-1960s family group portrait](/archive/eesley-family-group-portrait-late-1940s/) standing beside Stella, with Uncle Will in front.
 
+Aunt Jeanne's most durable memory of Ted is a non-memory: he was at work the afternoon she visited Stella and Ted's home on the East Coast, hadn't come home yet, and Jeanne ate the last cookie Stella had set out for him. She was "fussed at" for it. Fifty years later that was the detail that came back when she thought about Stella and Ted &mdash; *"that cookie is probably why I remember the visit."*
+
 > *Sources: [FamilySearch GDG6-3J1](https://www.familysearch.org/en/tree/person/GDG6-3J1); Ted Chong's published obituary (Burlington County Times, January 2013).*

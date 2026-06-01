@@ -26,6 +26,6 @@ In Marietta he was a longtime member of the First Congregational United Church o
 
 He drew. The 1985 Family History cover — the Goldie flour mill of his grandfather's emigration — is his hand. So is the [1942 ration-card Christmas card](/archive/wilbur-eesley-1942-christmas-card/) now in Maggie's archive. The visual signature of the paternal line is his.
 
-His sisters **Mary Eesley Bean** of Narberth, PA and **Helen Burnes** of Worthington, OH survived him; four brothers (Dale and Don are named in the family group photo; the other two are not yet documented here) and one other sister did not. Mary would write the 1985 *Eesley Family History* that became the relationship backbone for this archive — making her, on a project like this one, the single most important figure in the previous generation of family record-keepers.
+His sisters **Mary Eesley Bean** of Narberth, PA and **Helen Burnes** of Worthington, OH survived him; four brothers &mdash; **Dale**, **Don**, **[Lyle](/family/lyle-eesley/)**, and one not yet named in the family record &mdash; and one other sister did not. Mary would write the 1985 *Eesley Family History* that became the relationship backbone for this archive — making her, on a project like this one, the single most important figure in the previous generation of family record-keepers.
 
 > *Source: Will's obituary, Marietta paper, June 1986.*

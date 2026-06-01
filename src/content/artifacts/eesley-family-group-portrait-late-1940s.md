@@ -5,7 +5,7 @@ image: ../../assets/family/originals/20190728_150931.jpeg
 medium: "Sepia print, photographed 2019-07-28"
 creator: "Unknown"
 dateCreated: "before 1970 (Lillie Dale Chenoweth Eesley is present and she died 1970)"
-placeCreated: "United States (likely Ohio)"
+placeCreated: "Charles and Lillie Dale Eesley's home, Bexley, Ohio"
 idNumber: "EESLEY-GP-001"
 provenance: "Family collection; digitized 28 July 2019."
 rights: "Family use; permission required for republication"
@@ -23,7 +23,7 @@ people:
   - terrie-lee-eesley
 ---
 
-A formal Eesley family group portrait, taken sometime between the late 1940s and **1970**. The upper bound is set by two deaths: **Lillie Dale Chenoweth Eesley** ("Grandma Eesley") died in 1970, and **Stella Sunn Chong** died February 15, 1971 at age 45. Both are present, so the photograph is no later than 1970. Eleven people, all identified by Chuck from family memory, with additional context from Aunt Jeanne and confirmation from FamilySearch records and Ted Chong's 2013 obituary.
+A formal Eesley family group portrait, taken sometime between the late 1940s and **1970**, at **Charles and Lillie Dale Eesley's home in Bexley, Ohio** &mdash; the leafy Columbus suburb that was the family's center for forty years. The upper bound is set by two deaths: **Lillie Dale Chenoweth Eesley** ("Grandma Eesley") died in 1970, and **Stella Sunn Chong** died February 15, 1971 at age 45. Both are present, so the photograph is no later than 1970. The Bexley location is per Aunt Maggie's identification in a 2019 family email thread: *"The first photo was taken at Charles and Lilly's home. Stella and Ted there too."* Eleven people, all identified by Chuck from family memory, with additional context from Aunt Jeanne, Aunt Maggie, cousin Roberta, FamilySearch records, and Ted Chong's 2013 obituary.
 
 **Left to right:**
 
