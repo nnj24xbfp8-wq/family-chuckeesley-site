@@ -58,6 +58,16 @@ She married [Charles M. Eesley](/family/charles-eesley/) in the 1970s and they r
 - Nieces **Briana Massaro** and **Sarah Wildermuth**; nephews **Gian Carlo Massaro**, **Trey Wildermuth**, and **Thomas Wildermuth**.
 - The obituary also names **Betty and Norm Wolfe** as close relatives by way of long entertainment of visiting family.
 
+## The photographs that match the lines of her poem
+
+Three photographs in the archive answer most directly to the lines Terrie wrote about herself:
+
+- [**Terrie reading Star Wars to small Chuck, c. 1983-84**](/archive/terrie-reading-to-chuck-c1984/) &mdash; the literal image of *"what I thank her for the most: making such a big effort to read to me when I was very little."*
+- [**Terrie at the library information desk, c. 1970s**](/archive/terrie-at-library-desk/) &mdash; the *"former children's librarian"* of [Chuck's memorial speech](/docs/memorial-speech-terrie-lee-bain/), the *"my books and students"* of her [poem](/docs/please-dont-cry-for-me-terrie-bain/).
+- [**Terrie in the south-side garden, 6 May 2011**](/archive/terrie-azalea-garden-2011/) &mdash; the *"warmed by God's sun with flowers my best"* line as a single frame.
+
+A fourth photograph &mdash; [Chuck's MIT PhD graduation on 5 June 2009 with Terrie at the M.I.T. dome](/archive/mit-phd-graduation-chuck-terrie-2009/) &mdash; closes the loop on her *"don't worry, I will find a way"* moment with the Duke acceptance: that was the decision, this was the diploma.
+
 ## In her garden, May 2011
 
 The captioned photograph — in her own household's hand, *"May 6, 2011 — Our south side gardens, featuring a huge dark pink azalea — Terrie (Wildermuth) Bain"* — is the literal image of the line *"warmed by God's sun with flowers my best"* in her poem. The full artifact entry, with provenance, is [here](/archive/terrie-azalea-garden-2011/).

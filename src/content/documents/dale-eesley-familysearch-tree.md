@@ -9,7 +9,7 @@ source: "eesley-wildermuth-tree.ged"
 
 The full GEDCOM file is available here: **[Download the Eesley · Wildermuth GEDCOM](/docs/eesley-wildermuth-tree.ged)** (1.3 MB, plain text).
 
-This is the structured companion to the narrative record on the rest of this site. It carries **3,428 individuals** and **1,510 families** — about fifty times the people-count that this site's hand-curated `people/` collection currently surfaces — and is the work of [Dale Eesley](https://www.familysearch.org/), maintained over many years on FamilySearch with what Chuck has described as careful and well-sourced research.
+This is the structured companion to the narrative record on the rest of this site. It carries (as of June 2026 with the Zhou side merged in) **3,465 individuals** and **1,529 families** — about fifty times the people-count that this site's hand-curated `people/` collection currently surfaces — and is the work of [Dale Eesley](https://www.familysearch.org/), maintained over many years on FamilySearch with what Chuck has described as careful and well-sourced research.
 
 ## What's in it
 
