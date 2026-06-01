@@ -20,7 +20,7 @@ summary: "Architect. Drew the 1985 family history cover and the 1942 ration-card
 
 Wilbur "Will" Eesley was born October 6, 1910 in Columbus, Ohio, to Charles Leonard Eesley and Lillie Dale Chenoweth Eesley — one of six children, with at least four brothers and two sisters surviving into adulthood. He took his degree at the Ohio State University School of Architecture and worked in the Columbus area until 1949, when he moved his young family to Marietta. There he practiced architecture for the rest of his career, first with Scott and Eesley and then with **Eesley, Lee, Vargo and Cassady**, from which he retired around 1978.
 
-He married **Margaret "Peggy" McMaster** on June 20, 1942. They had four children: **Charles** (Chuck's father), **Jeanne**, **Anne**, and **Margaret** ("Maggie," who would later build the four-generation photo archive that is now this site's paternal image layer).
+He married **Margaret "Peggy" McMaster** on June 20, 1942. They had four children: **Charles** (Chuck's father, 1947&ndash;2015), **[Jeanne](/family/jeanne-eesley-kamiab/)** (b. 1938, living), **[Anne](/family/anne-eesley/)** (1946&ndash;2019), and **[Margaret "Maggie"](/family/margaret-maggie-eesley/)** (b. 1951, living &mdash; who would later build the four-generation photo archive that is now this site's paternal image layer).
 
 In Marietta he was a longtime member of the First Congregational United Church of Christ, serving on its business committee for many years. He served on the Marietta Tree Commission and the Bicentennial Commission, was past president of the Marietta Kiwanis Club, and sat on the Betsey Mills Advisory Board.
 
