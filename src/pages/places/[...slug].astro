@@ -49,7 +49,38 @@ const relatedDocs = d.relatedDocuments
       </section>
     )}
 
-    {/* Diptych: visits side by side, sorted oldest → newest */}
+    {/* Explicit then/now pairings — true diptychs of the same subject */}
+    {d.pairs && d.pairs.length > 0 && (
+      <section class="mb-12">
+        <h2 class="text-xl font-serif mb-4">Then &amp; now</h2>
+        <div class="space-y-10">
+          {d.pairs.map((p) => (
+            <div>
+              {p.caption && <p class="text-sm text-ink/70 italic mb-3">{p.caption}</p>}
+              <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                <figure>
+                  <Image src={p.thenImage} alt={`${p.subject} — ${p.thenYear}`} class="w-full" />
+                  <figcaption class="text-xs text-ink/60 mt-1">
+                    <span class="uppercase tracking-wider">{p.thenYear}</span>
+                    {p.thenCaption && <> &middot; {p.thenCaption}</>}
+                  </figcaption>
+                </figure>
+                <figure>
+                  <Image src={p.nowImage} alt={`${p.subject} — ${p.nowYear}`} class="w-full" />
+                  <figcaption class="text-xs text-ink/60 mt-1">
+                    <span class="uppercase tracking-wider">{p.nowYear}</span>
+                    {p.nowCaption && <> &middot; {p.nowCaption}</>}
+                  </figcaption>
+                </figure>
+              </div>
+              <p class="text-xs text-ink/50 mt-2 font-serif italic">{p.subject}</p>
+            </div>
+          ))}
+        </div>
+      </section>
+    )}
+
+    {/* Visits: gallery view per visit (used for loose images not in a pair) */}
     {visits.length > 0 && (
       <section class="mb-10">
         <h2 class="text-xl font-serif mb-4">Across generations</h2>

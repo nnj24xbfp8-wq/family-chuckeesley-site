@@ -12,6 +12,9 @@ relatedPeople:
   - robert-earl-wildermuth
   - dorothy-davis-wildermuth
   - terrie-lee-eesley
+  - sandra-sue-wildermuth-clement
+  - rob-wildermuth
+  - debbie-wildermuth
   - charles-eric-eesley
 status: photographed
 visits:
@@ -24,9 +27,9 @@ visits:
     alignmentNote: "The Stanford Memorial Church mosaic on the façade visible behind the family is the original 1903 facade restored after the 1906 earthquake."
     images:
       - ../../assets/family/originals/IMG_0257.jpeg
-  - year: "1980s-90s"
-    caption: "Family at the White Memorial Fountain (the bronze 'Claw' by Aristides Demetrios, installed 1964) in the heart of campus. People not yet definitively identified; if the baby in the woman's lap is Chuck (born 1979), the photograph is from the early 1980s. Chuck to confirm."
-    alignmentNote: "The fountain and the open arches behind are the same as today — this is a frame that can be re-shot at a generation's distance."
+  - year: "1980s"
+    caption: "Family at the White Memorial Fountain (the bronze 'Claw' by Aristides Demetrios, installed 1964) in the heart of campus. Identified by Chuck: Uncle Rob Wildermuth, Chuck's mother Terrie Lee, Sandy (Sandra Sue Wildermuth Clement), and Debbie Wildermuth, with their mother Dorothy 'Dottie' Davis Wildermuth — the baby in Dorothy's lap is a grandchild, not Chuck."
+    alignmentNote: "The fountain and the open arches behind are unchanged in present-day Stanford — a re-shootable frame at any future generation's distance."
     images:
       - ../../assets/family/originals/IMG_1334.jpeg
 ---

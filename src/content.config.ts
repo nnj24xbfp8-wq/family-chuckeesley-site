@@ -121,6 +121,24 @@ const places = defineCollection({
           })
         )
         .default([]),
+      // Explicit then-and-now pairings: same subject, different visits.
+      // Renders as side-by-side diptychs above the per-visit galleries.
+      pairs: z
+        .array(
+          z.object({
+            subject: z.string(),
+            caption: z.string().optional(),
+            thenYear: z.string(),
+            thenImage: image(),
+            thenCaption: z.string().optional(),
+            thenPhotographer: reference('people').optional(),
+            nowYear: z.string(),
+            nowImage: image(),
+            nowCaption: z.string().optional(),
+            nowPhotographer: reference('people').optional(),
+          })
+        )
+        .default([]),
     }),
 });
 
