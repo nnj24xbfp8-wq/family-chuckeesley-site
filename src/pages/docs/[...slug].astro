@@ -1,0 +1,60 @@
+---
+import { getCollection, render } from 'astro:content';
+import { Image } from 'astro:assets';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { resolvePeople } from '../../lib/relations';
+
+export async function getStaticPaths() {
+  const docs = await getCollection('documents');
+  return docs.map((doc) => ({
+    params: { slug: doc.id },
+    props: { doc },
+  }));
+}
+
+const { doc } = Astro.props;
+const author = doc.data.author
+  ? (await resolvePeople([doc.data.author]))[0]
+  : undefined;
+const people = await resolvePeople(doc.data.people);
+const { Content } = await render(doc);
+---
+<BaseLayout title={doc.data.title} description={doc.data.summary}>
+  <article>
+    <header class="mb-8 pb-4 border-b border-rule">
+      <p class="uppercase tracking-wider text-ink/50 text-xs">{doc.data.type}</p>
+      <h1 class="text-4xl font-serif mt-1 mb-2">{doc.data.title}</h1>
+      <p class="text-ink/70 italic">{doc.data.summary}</p>
+      <div class="text-sm text-ink/60 mt-3">
+        {author && <>by <a href={`/family/${author.id}/`}>{author.data.name}</a></>}
+        {doc.data.dateRange?.start && <> &middot; {doc.data.dateRange.start}{doc.data.dateRange.end ? `–${doc.data.dateRange.end}` : ''}</>}
+      </div>
+    </header>
+
+    <div class="prose prose-stone max-w-prose">
+      <Content />
+    </div>
+
+    {doc.data.scans.length > 0 && (
+      <section class="mt-12 pt-6 border-t border-rule">
+        <h2 class="text-xl font-serif mb-4">Scans</h2>
+        <div class="space-y-6">
+          {doc.data.scans.map((img, i) => (
+            <figure>
+              <Image src={img} alt={`${doc.data.title} — scan ${i + 1}`} class="w-full max-w-2xl" />
+            </figure>
+          ))}
+        </div>
+      </section>
+    )}
+
+    {people.length > 0 && (
+      <section class="mt-12 pt-6 border-t border-rule">
+        <h2 class="text-xl font-serif mb-3">People in this document</h2>
+        <ul class="text-sm space-y-1">
+          {people.map((p) => <li><a href={`/family/${p.id}/`}>{p.data.name}</a></li>)}
+        </ul>
+      </section>
+    )}
+  </article>
+</BaseLayout>

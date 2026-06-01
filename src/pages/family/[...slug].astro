@@ -1,0 +1,106 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import {
+  resolvePeople,
+  childrenOf,
+  siblingsOf,
+  documentsAbout,
+  artifactsOf,
+  publicDisplay,
+} from '../../lib/relations';
+
+export async function getStaticPaths() {
+  const people = await getCollection('people');
+  return people.map((person) => ({
+    params: { slug: person.id },
+    props: { person },
+  }));
+}
+
+const { person } = Astro.props;
+const d = publicDisplay(person);
+
+const parents = await resolvePeople(person.data.parents);
+const spouses = await resolvePeople(person.data.spouses);
+const children = await childrenOf(person);
+const siblings = await siblingsOf(person);
+const docs = await documentsAbout(person.id);
+const arts = await artifactsOf(person.id);
+
+const { Content } = await render(person);
+
+const personLink = (p: { id: string; data: { name: string } }) =>
+  `<a href="/family/${p.id}/">${p.data.name}</a>`;
+---
+<BaseLayout title={d.name} description={d.summary}>
+  <article>
+    <header class="mb-8 pb-4 border-b border-rule">
+      <h1 class="text-4xl font-serif mb-1">{d.name}</h1>
+      {d.aka && <p class="text-ink/60 italic">also known as {d.aka}</p>}
+      {!d.living && (d.birth?.date || d.birth?.place || d.death?.date) && (
+        <p class="text-ink/70 mt-2">
+          {d.birth?.date && <>b. {d.birth.date}{d.birth.place ? `, ${d.birth.place}` : ''}</>}
+          {d.death?.date && <><br />d. {d.death.date}{d.death.place ? `, ${d.death.place}` : ''}</>}
+        </p>
+      )}
+      {d.living && <p class="text-ink/50 italic text-sm mt-2">Details withheld &mdash; living person.</p>}
+    </header>
+
+    {/* Family-group navigation */}
+    <aside class="mb-10 not-prose grid grid-cols-2 gap-x-8 gap-y-4 text-sm">
+      {parents.length > 0 && (
+        <div>
+          <div class="uppercase tracking-wider text-ink/50 text-xs mb-1">Parents</div>
+          <ul>{parents.map((p) => <li><a href={`/family/${p.id}/`}>{p.data.name}</a></li>)}</ul>
+        </div>
+      )}
+      {spouses.length > 0 && (
+        <div>
+          <div class="uppercase tracking-wider text-ink/50 text-xs mb-1">Spouse</div>
+          <ul>{spouses.map((p) => <li><a href={`/family/${p.id}/`}>{p.data.name}</a></li>)}</ul>
+        </div>
+      )}
+      {siblings.length > 0 && (
+        <div>
+          <div class="uppercase tracking-wider text-ink/50 text-xs mb-1">Siblings</div>
+          <ul>{siblings.map((p) => <li><a href={`/family/${p.id}/`}>{p.data.name}</a></li>)}</ul>
+        </div>
+      )}
+      {children.length > 0 && (
+        <div>
+          <div class="uppercase tracking-wider text-ink/50 text-xs mb-1">Children</div>
+          <ul>{children.map((p) => <li><a href={`/family/${p.id}/`}>{p.data.name}</a></li>)}</ul>
+        </div>
+      )}
+    </aside>
+
+    {!d.living && (
+      <div class="prose prose-stone max-w-prose">
+        <Content />
+      </div>
+    )}
+
+    {docs.length > 0 && (
+      <section class="mt-12 pt-6 border-t border-rule">
+        <h2 class="text-xl font-serif mb-3">Appears in</h2>
+        <ul class="space-y-1 text-sm">
+          {docs.map((doc) => (
+            <li><a href={`/docs/${doc.id}/`}>{doc.data.title}</a> <span class="text-ink/60">&mdash; {doc.data.type}</span></li>
+          ))}
+        </ul>
+      </section>
+    )}
+
+    {arts.length > 0 && (
+      <section class="mt-8">
+        <h2 class="text-xl font-serif mb-3">Pictured in</h2>
+        <ul class="space-y-1 text-sm">
+          {arts.map((a) => (
+            <li><a href={`/archive/${a.id}/`}>{a.data.title}</a> <span class="text-ink/60">&mdash; {a.data.type}</span></li>
+          ))}
+        </ul>
+      </section>
+    )}
+  </article>
+</BaseLayout>

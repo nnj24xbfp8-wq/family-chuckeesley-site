@@ -1,0 +1,37 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const people = await getCollection('people');
+const docs = await getCollection('documents');
+const arts = await getCollection('artifacts');
+const places = await getCollection('places');
+---
+<BaseLayout title="Eesley · Wildermuth" description="A narrative archive of the Eesley and Wildermuth families.">
+  <section class="prose max-w-prose">
+    <h1 class="text-4xl font-serif mb-2">Eesley · Wildermuth</h1>
+    <p class="text-ink/70 italic mt-0">
+      A narrative archive of two American families &mdash; one out of Stratford-on-Avon
+      by way of a Scottish flour mill, one out of Württemberg by way of Marietta &mdash;
+      meeting in a single generation.
+    </p>
+
+    <p>
+      Built on the work of three keepers before me: <strong>Mary Eesley Bean</strong>, whose 1985
+      register laid down the relationships; <strong>Margaret &ldquo;Maggie&rdquo; Eesley</strong>,
+      whose four-generation photo archive carries the faces; and <strong>Robert Earl Wildermuth</strong>,
+      whose memoirs and combat log carry the voice. Their work is the archive; this site is the
+      next layer of it.
+    </p>
+
+    <hr class="my-8 border-rule" />
+
+    <h2 class="text-2xl mt-8">Enter</h2>
+    <ul class="not-prose space-y-2 mt-4">
+      <li><a href="/family/">The family</a> &nbsp;&middot;&nbsp; <span class="text-ink/60 text-sm">{people.length} people</span></li>
+      <li><a href="/docs/">Stories &amp; memoirs</a> &nbsp;&middot;&nbsp; <span class="text-ink/60 text-sm">{docs.length} documents</span></li>
+      <li><a href="/places/">Places, then &amp; now</a> &nbsp;&middot;&nbsp; <span class="text-ink/60 text-sm">{places.length} sites &mdash; the German villages, photographed across generations</span></li>
+      <li><a href="/archive/">Photo &amp; letter archive</a> &nbsp;&middot;&nbsp; <span class="text-ink/60 text-sm">{arts.length} artifacts</span></li>
+    </ul>
+  </section>
+</BaseLayout>

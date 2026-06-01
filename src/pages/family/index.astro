@@ -1,0 +1,34 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getAllPeople, publicDisplay } from '../../lib/relations';
+
+const people = await getAllPeople();
+const byLine = {
+  paternal: people.filter((p) => p.data.line === 'paternal'),
+  maternal: people.filter((p) => p.data.line === 'maternal'),
+  crew: people.filter((p) => p.data.line === 'crew'),
+  other: people.filter((p) => !p.data.line || p.data.line === 'other'),
+};
+---
+<BaseLayout title="The family">
+  <h1 class="text-3xl font-serif mb-6">The family</h1>
+
+  {Object.entries(byLine).map(([line, list]) => list.length > 0 && (
+    <section class="mb-10">
+      <h2 class="text-xl font-serif capitalize mb-3">{line === 'crew' ? "Robert Earl's crew (B-24, 400th Sq)" : line}</h2>
+      <ul class="space-y-1">
+        {list.map((p) => {
+          const d = publicDisplay(p);
+          const years = !d.living && (d.birth?.date || d.death?.date)
+            ? ` (${d.birth?.date ?? '?'}–${d.death?.date ?? ''})`
+            : '';
+          return (
+            <li>
+              <a href={`/family/${p.id}/`}>{d.name}</a><span class="text-ink/60 text-sm">{years}</span>
+            </li>
+          );
+        })}
+      </ul>
+    </section>
+  ))}
+</BaseLayout>

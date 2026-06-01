@@ -1,0 +1,48 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const places = (await getCollection('places')).sort((a, b) => {
+  // Photographed first, described-only, unreached at the bottom.
+  const order = { photographed: 0, 'described-only': 1, unreached: 2 } as const;
+  const da = order[a.data.status];
+  const db = order[b.data.status];
+  if (da !== db) return da - db;
+  return a.data.title.localeCompare(b.data.title);
+});
+
+const statusLabel: Record<string, string> = {
+  photographed: 'Photographed',
+  'described-only': 'Described only',
+  unreached: 'Unreached',
+};
+---
+<BaseLayout title="Places" description="Württemberg ancestral villages, photographed across generations.">
+  <h1 class="text-3xl font-serif mb-2">Places</h1>
+  <p class="text-ink/70 italic mb-2">
+    The Württemberg villages and the Pfalz one — most photographed twice,
+    a generation apart, and one held open intentionally for whoever gets there next.
+  </p>
+  <p class="text-ink/60 text-sm mb-8">
+    Status: <em>photographed</em> = at least one visit with images; <em>described only</em> = visited but no surviving photographs; <em>unreached</em> = no one in the family has been yet.
+  </p>
+
+  <ul class="space-y-6">
+    {places.map((place) => (
+      <li class="border-l-2 border-rule pl-4">
+        <a href={`/places/${place.id}/`} class="text-xl font-serif">{place.data.title}</a>
+        <div class="text-xs uppercase tracking-wider text-ink/50 mt-1">
+          {[place.data.village, place.data.region, place.data.country].filter(Boolean).join(' · ')}
+          {' · '}
+          <span class:list={["italic", place.data.status === 'unreached' && 'text-sepia']}>{statusLabel[place.data.status]}</span>
+        </div>
+        <p class="text-ink/80 mt-2">{place.data.summary}</p>
+        {place.data.visits.length > 0 && (
+          <div class="text-xs text-ink/60 mt-2">
+            Visits: {place.data.visits.map((v) => v.year).join(', ')}
+          </div>
+        )}
+      </li>
+    ))}
+  </ul>
+</BaseLayout>

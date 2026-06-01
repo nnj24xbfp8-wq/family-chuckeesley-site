@@ -1,0 +1,124 @@
+---
+import { getCollection, render } from 'astro:content';
+import { Image } from 'astro:assets';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { resolvePeople } from '../../lib/relations';
+
+export async function getStaticPaths() {
+  const places = await getCollection('places');
+  return places.map((place) => ({
+    params: { slug: place.id },
+    props: { place },
+  }));
+}
+
+const { place } = Astro.props;
+const d = place.data;
+const { Content } = await render(place);
+
+// Resolve photographer/narrator references on each visit.
+const peopleAll = await getCollection('people');
+const personById = new Map(peopleAll.map((p) => [p.id, p]));
+
+const visits = d.visits.map((v) => ({
+  ...v,
+  photographerEntry: v.photographer ? personById.get(v.photographer.id) : undefined,
+  narratorEntry: v.narrator ? personById.get(v.narrator.id) : undefined,
+}));
+
+const relatedPeople = await resolvePeople(d.relatedPeople);
+const allDocs = await getCollection('documents');
+const relatedDocs = d.relatedDocuments
+  .map((ref) => allDocs.find((doc) => doc.id === ref.id))
+  .filter((doc): doc is (typeof allDocs)[number] => Boolean(doc));
+---
+<BaseLayout title={d.title} description={d.summary}>
+  <article>
+    <header class="mb-6 pb-4 border-b border-rule">
+      <p class="uppercase tracking-wider text-ink/50 text-xs">
+        {[d.village, d.region, d.country].filter(Boolean).join(' · ')}
+      </p>
+      <h1 class="text-4xl font-serif mt-1 mb-2">{d.title}</h1>
+      <p class="text-ink/70 italic">{d.summary}</p>
+    </header>
+
+    {d.significance && (
+      <section class="mb-10 prose prose-stone max-w-prose">
+        <h2 class="text-xl font-serif mt-0">Why this place matters</h2>
+        <p>{d.significance}</p>
+      </section>
+    )}
+
+    {/* Diptych: visits side by side, sorted oldest → newest */}
+    {visits.length > 0 && (
+      <section class="mb-10">
+        <h2 class="text-xl font-serif mb-4">Across generations</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+          {visits
+            .slice()
+            .sort((a, b) => a.year.localeCompare(b.year))
+            .map((v) => (
+              <div>
+                <div class="text-sm uppercase tracking-wider text-ink/60 mb-2">
+                  {v.year}
+                  {v.photographerEntry && <> &middot; photographs by <a href={`/family/${v.photographerEntry.id}/`}>{v.photographerEntry.data.name}</a></>}
+                  {!v.photographerEntry && v.narratorEntry && <> &middot; described by <a href={`/family/${v.narratorEntry.id}/`}>{v.narratorEntry.data.name}</a></>}
+                </div>
+                {v.images.length > 0 ? (
+                  <div class="space-y-3">
+                    {v.images.map((img) => (
+                      <Image src={img} alt={v.caption ?? d.title} class="w-full" />
+                    ))}
+                  </div>
+                ) : (
+                  <div class="aspect-[4/3] bg-rule/40 flex items-center justify-center text-ink/50 text-sm italic">
+                    {v.photographerEntry ? 'photographs pending' : 'no photographs survive'}
+                  </div>
+                )}
+                {v.caption && <p class="text-sm text-ink/70 mt-2 italic">{v.caption}</p>}
+                {v.alignmentNote && (
+                  <p class="text-xs text-ink/50 mt-1">Alignment: {v.alignmentNote}</p>
+                )}
+                {v.travelogueExcerpt && (
+                  <blockquote class="text-sm text-ink/80 mt-3 pl-3 border-l border-rule italic">
+                    {v.travelogueExcerpt}
+                  </blockquote>
+                )}
+              </div>
+            ))}
+        </div>
+      </section>
+    )}
+
+    {d.status === 'unreached' && (
+      <section class="mb-10 border border-sepia/40 bg-sepia/5 p-5">
+        <p class="text-sepia uppercase tracking-wider text-xs mb-1">Open chapter</p>
+        <p class="text-ink/80">
+          This place is named in the records but no one in the family has yet visited.
+          The page is held open intentionally — a future trip closes it.
+        </p>
+      </section>
+    )}
+
+    <div class="prose prose-stone max-w-prose">
+      <Content />
+    </div>
+
+    {(relatedPeople.length > 0 || relatedDocs.length > 0) && (
+      <section class="mt-12 pt-6 border-t border-rule text-sm">
+        {relatedPeople.length > 0 && (
+          <div class="mb-4">
+            <div class="uppercase tracking-wider text-ink/50 text-xs mb-1">Related people</div>
+            <ul>{relatedPeople.map((p) => <li><a href={`/family/${p.id}/`}>{p.data.name}</a></li>)}</ul>
+          </div>
+        )}
+        {relatedDocs.length > 0 && (
+          <div>
+            <div class="uppercase tracking-wider text-ink/50 text-xs mb-1">Related documents</div>
+            <ul>{relatedDocs.map((doc) => doc && <li><a href={`/docs/${doc.id}/`}>{doc.data.title}</a></li>)}</ul>
+          </div>
+        )}
+      </section>
+    )}
+  </article>
+</BaseLayout>

@@ -1,0 +1,24 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const arts = (await getCollection('artifacts')).sort((a, b) =>
+  (a.data.dateCreated ?? '').localeCompare(b.data.dateCreated ?? '')
+);
+---
+<BaseLayout title="Archive">
+  <h1 class="text-3xl font-serif mb-2">Photo &amp; letter archive</h1>
+  <p class="text-ink/70 italic mb-8">Catalogued objects, mostly out of Maggie Eesley's four-generation collection.</p>
+
+  <ul class="grid grid-cols-2 gap-6">
+    {arts.map((a) => (
+      <li>
+        <a href={`/archive/${a.id}/`} class="block no-underline">
+          <div class="aspect-square bg-rule/40 mb-2"></div>
+          <div class="font-serif">{a.data.title}</div>
+          <div class="text-xs text-ink/60">{a.data.type}{a.data.dateCreated ? ` · ${a.data.dateCreated}` : ''}</div>
+        </a>
+      </li>
+    ))}
+  </ul>
+</BaseLayout>

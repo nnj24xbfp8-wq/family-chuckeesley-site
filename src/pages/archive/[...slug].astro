@@ -1,0 +1,68 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { resolvePeople } from '../../lib/relations';
+import { Image } from 'astro:assets';
+
+export async function getStaticPaths() {
+  const arts = await getCollection('artifacts');
+  return arts.map((artifact) => ({
+    params: { slug: artifact.id },
+    props: { artifact },
+  }));
+}
+
+const { artifact } = Astro.props;
+const people = await resolvePeople(artifact.data.people);
+const { Content } = await render(artifact);
+const d = artifact.data;
+
+// Pairs in catalogue order — only render rows with values
+const catalogue: [string, string | undefined][] = [
+  ['Type', d.type],
+  ['Medium', d.medium],
+  ['Measurement', d.measurement],
+  ['Condition', d.condition],
+  ['Creator', d.creator],
+  ['Date created', d.dateCreated],
+  ['Place created', d.placeCreated],
+  ['ID number', d.idNumber],
+  ['Provenance', d.provenance],
+  ['Inscription', d.inscription],
+  ['Rights', d.rights],
+];
+---
+<BaseLayout title={d.title}>
+  <article>
+    <h1 class="text-3xl font-serif mb-4">{d.title}</h1>
+
+    <figure class="mb-8">
+      <Image src={d.image} alt={d.title} class="w-full max-w-2xl" />
+    </figure>
+
+    <div class="prose prose-stone max-w-prose mb-10">
+      <Content />
+    </div>
+
+    <section class="text-sm">
+      <h2 class="font-serif text-lg mb-2 uppercase tracking-wider text-ink/60">Catalogue</h2>
+      <dl class="grid grid-cols-[10rem_1fr] gap-y-1 border-t border-rule pt-2">
+        {catalogue.filter(([, v]) => v).map(([k, v]) => (
+          <>
+            <dt class="text-ink/60">{k}</dt>
+            <dd>{v}</dd>
+          </>
+        ))}
+      </dl>
+    </section>
+
+    {people.length > 0 && (
+      <section class="mt-10 pt-6 border-t border-rule">
+        <h2 class="font-serif text-lg mb-2">Pictured</h2>
+        <ul class="text-sm space-y-1">
+          {people.map((p) => <li><a href={`/family/${p.id}/`}>{p.data.name}</a></li>)}
+        </ul>
+      </section>
+    )}
+  </article>
+</BaseLayout>

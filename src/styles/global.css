@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    @apply bg-cream text-ink;
+    font-family: 'Cormorant Garamond', Georgia, serif;
+  }
+  body {
+    @apply leading-relaxed;
+  }
+  a {
+    @apply text-sepia underline decoration-rule decoration-1 underline-offset-2 hover:decoration-sepia;
+  }
+  h1, h2, h3 {
+    @apply font-serif tracking-tight;
+  }
+}

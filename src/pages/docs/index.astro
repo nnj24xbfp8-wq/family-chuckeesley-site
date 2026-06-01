@@ -1,0 +1,26 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const docs = (await getCollection('documents')).sort((a, b) => {
+  const da = a.data.dateRange?.start ?? '';
+  const db = b.data.dateRange?.start ?? '';
+  return da.localeCompare(db);
+});
+---
+<BaseLayout title="Stories &amp; memoirs">
+  <h1 class="text-3xl font-serif mb-2">Stories &amp; memoirs</h1>
+  <p class="text-ink/70 italic mb-8">Long-form narrative: memoirs, the combat log, the register, travelogues, ancestor sketches, letters.</p>
+  <ul class="space-y-6">
+    {docs.map((doc) => (
+      <li>
+        <a href={`/docs/${doc.id}/`} class="text-xl font-serif">{doc.data.title}</a>
+        <div class="text-sm text-ink/60 mt-1">
+          {doc.data.type}
+          {doc.data.dateRange?.start && <> &middot; {doc.data.dateRange.start}{doc.data.dateRange.end ? `–${doc.data.dateRange.end}` : ''}</>}
+        </div>
+        <p class="text-ink/80 mt-1">{doc.data.summary}</p>
+      </li>
+    ))}
+  </ul>
+</BaseLayout>

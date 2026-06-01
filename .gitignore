@@ -1,0 +1,23 @@
+# build
+dist/
+.astro/
+
+# deps
+node_modules/
+
+# env
+.env
+.env.production
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# macOS
+.DS_Store
+
+# local zip artifact (drag-to-deploy, not for the repo)
+family-history-site.zip
+_build-tmpcache.mjs
