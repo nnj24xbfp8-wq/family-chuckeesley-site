@@ -42,6 +42,7 @@ const documents = defineCollection({
         'register',
         'ancestor-sketch',
         'letter',
+        'eulogy',
       ]),
       author: reference('people').optional(),
       people: z.array(reference('people')).default([]),
