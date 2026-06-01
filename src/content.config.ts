@@ -10,7 +10,13 @@ const people = defineCollection({
     z.object({
       name: z.string(),
       aka: z.string().optional(),                  // "Will", "Fuzzy", "Bus", maiden names
-      line: z.enum(['paternal', 'maternal', 'crew', 'other']).optional(),
+      // line distinguishes the major family threads in this archive.
+      //   'paternal'  = Chuck's father's side (Eesley / Chenoweth / McMaster / Anderson)
+      //   'maternal'  = Chuck's mother's side (Wildermuth / Davis / Fleming / German line)
+      //   'zhou'      = Lijie's side (Zhou family of Qingdao, Shandong — and its branches)
+      //   'crew'      = Robert Earl's B-24 crew, non-family individuals he served with
+      //   'other'     = family-by-marriage, family-by-friendship, and other adjacencies
+      line: z.enum(['paternal', 'maternal', 'zhou', 'crew', 'other']).optional(),
       birth: z
         .object({ date: z.string().optional(), place: z.string().optional() })
         .optional(),
