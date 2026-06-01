@@ -44,6 +44,8 @@ He appears in the [family group portrait](/archive/eesley-family-group-portrait-
 
 > *Sources: Mary Eesley Bean, *[Eesley Family History](/docs/eesley-family-history-1985/)*, March 1985, p. 8; July 2019 family email exchange among Chuck, Aunt Maggie, Aunt Jeanne, and cousin Roberta; the 1940s letter collection Roberta still holds.*
 
+> *Structured record: [Dale Eesley / FamilySearch — Charles Leonard Eesley (LY6G-W9Y)](https://www.familysearch.org/tree/person/details/LY6G-W9Y).*
+
 ## Further reading
 
 On the two histories Charles Leonard's 1942 found himself between:

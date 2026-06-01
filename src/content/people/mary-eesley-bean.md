@@ -18,4 +18,4 @@ In March 1985, working in her early seventies from her home in Narberth, Pennsyl
 
 It is the relationship backbone of this archive's paternal line and the founding document of the line's record-keeping habit. She is not just a source; she is the most important figure in the previous generation of family record-keepers.
 
-> *Source: Mary Eesley Bean, *[Eesley Family History](/docs/eesley-family-history-1985/)*, p. 8; her own preface, March 1985.*
+> *Sources: Mary Eesley Bean, *[Eesley Family History](/docs/eesley-family-history-1985/)*, p. 8; her own preface, March 1985. Structured record: [Dale Eesley / FamilySearch — Mary Elizabeth Eesley (LB4H-N33)](https://www.familysearch.org/tree/person/details/LB4H-N33).*

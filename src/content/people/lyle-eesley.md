@@ -28,7 +28,7 @@ That refusal — to let the loss of his son turn him into someone who would infl
 
 Lyle has no surviving children in the family register; his line ends at this entry. He is the brother whose absence the next generation lived around.
 
-> *Sources: Mary Eesley Bean, *[Eesley Family History](/docs/eesley-family-history-1985/)*, March 1985, p. 8; cousin Roberta's 2019 oral note; the historical record of the Cabanatuan POW camp.*
+> *Sources: Mary Eesley Bean, *[Eesley Family History](/docs/eesley-family-history-1985/)*, March 1985, p. 8; cousin Roberta's 2019 oral note; the historical record of the Cabanatuan POW camp. Structured record: [Dale Eesley / FamilySearch — Lyle Eesley (LB4C-DH3)](https://www.familysearch.org/tree/person/details/LB4C-DH3).*
 
 ## Further reading
 

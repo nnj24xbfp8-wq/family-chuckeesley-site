@@ -28,4 +28,4 @@ Don and Margaret had five children:
 
 He appears with Margaret in the [late-1940s/'60s Eesley family group portrait](/archive/eesley-family-group-portrait-late-1940s/), taken at his parents' home in Bexley.
 
-> *Source: Mary Eesley Bean, *[Eesley Family History](/docs/eesley-family-history-1985/)*, p. 8.*
+> *Sources: Mary Eesley Bean, *[Eesley Family History](/docs/eesley-family-history-1985/)*, p. 8. Structured record: [Dale Eesley / FamilySearch — Donald Stuart Eesley (MCZ8-WYV)](https://www.familysearch.org/tree/person/details/MCZ8-WYV).*

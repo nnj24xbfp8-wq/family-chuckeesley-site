@@ -1,25 +1,28 @@
 ---
-name: "John F. Eesley"
+name: "John Franklin Eesley"
 aka: "J. F. Eesley"
 line: paternal
+birth:
+  date: "1859-12-11"
+  place: "Hamilton, Ontario, Canada"
 death:
-  date: "1929"
-  place: "Plainwell, Michigan"
-generation: 3
+  date: "1929-07-09"
+  place: "Kalamazoo, Michigan, United States (buried Plainwell)"
+generation: 4
 parents:
-  - john-eesley-1800
-  - susan-babbs
-summary: "The American miller. Son of John Eesley (1800–1870) of Old Stratford and Susan Babbs of Charlecote; brother of Albert Robert. Emigrated from Stratford-on-Avon (from the address that is now the Shakespeare Hospice Bookshop) to the United States, settled eventually in Plainwell, Michigan, and founded the Sunshine Flour Mill — the J. F. Eesley Milling Co. — which became the nation's second-largest producer of buckwheat flour. He ran the mill until his death in 1929."
+  - albert-robert-eesley
+  - jeanie-goldie
+spouses:
+  - kittie-belle-scott
+summary: "The American miller. Son — not brother — of Albert Robert Eesley and Jennie Goldie. Born 11 December 1859 in Hamilton, Ontario, Canada; reached Plainwell, Michigan by 1887 and bought the downtown roller rink that he would convert into the Sunshine Flour Mill — the J. F. Eesley Milling Co., which became the nation's second-largest producer of buckwheat flour. Married Kittie Belle Scott in Plainwell on 8 September 1885. Died 9 July 1929 in Kalamazoo; buried Plainwell."
 ---
 
-John F. Eesley is the missing piece that turns the family's milling thread from biography into a public, listed landmark.
+The older brief framing put John Franklin Eesley as **Albert Robert's brother**, both of them emigrants from Old Stratford going in different directions. Dale's tree settles a different relationship: **John Franklin is Albert's son**, born in Hamilton, Ontario in 1859, two years before his parents' Ontario marriage record. The milling thread runs not John (1799) → Albert and John F. as parallel emigrants but **John (1799) → Albert (the emigrant to Canada) → John Franklin (the next-generation emigrant from Canada to Michigan)**.
 
-Born in Old Stratford to **John Eesley the journeyman miller** and **Susan Babbs** — almost certainly the "John" recorded as age two in the 1841 census, who has no entry in the 1851 household listing because he had already left it — he sailed for America as a young man. The Stratford-on-Avon address he left from is the building Chuck and Lijie [photographed in 2018, now serving as the Shakespeare Hospice Bookshop](/places/old-stratford-rother-street/).
+Born **11 December 1859** in Hamilton, Ontario, he made his way south and west across the international border to **Plainwell, Allegan County, Michigan** by 1887. There he bought the 1869 roller rink on West Bridge Street, converted it into the **Sunshine Flour Mill** under the *Sunshine Brand Flour* label, and made it the nation's second-largest producer of buckwheat flour at its peak. In 1903–04 he physically split the timber-frame mill building, moved it to East Bridge Street, and merged it with a grain elevator to create a unified mill-and-elevator landmark.
 
-By 1887 he had reached Plainwell, Michigan, having moved up from Birmingham. He bought a downtown Plainwell roller rink, converted it into the **Sunshine Flour Mill** under the "Sunshine Brand Flour" label, and made it the nation's second-largest producer of buckwheat flour, peaking at six hundred barrels a day. In 1903–04 he physically split the timber-frame mill building, moved it to East Bridge Street, and merged it with a grain elevator to create a unified mill-and-elevator landmark. He ran the operation until his death in 1929.
+He married **[Kittie Belle Scott](/family/kittie-belle-scott/)** in Plainwell on **8 September 1885** &mdash; Kittie had been born across the township line in Gun Plain Township, Allegan County. They had no children recorded in Dale's tree, and the Plainwell mill's Eesley line ends at John Franklin himself.
 
-The building survives. In 2010 it was added to the National Register of Historic Places, and it now operates as **The Old Mill Brewpub**, with the original 1869 timber-frame interior preserved. The page for the mill itself is [here](/places/plainwell-eesley-mill/).
+He ran the operation until his death &mdash; **9 July 1929 in Kalamazoo, Michigan**; buried in Plainwell two days later. The mill outlasted him by a century: the [building is on the National Register of Historic Places](/places/plainwell-eesley-mill/) and now operates as The Old Mill Brewpub.
 
-**The pattern of the line, made visible:** Joseph & Frances Eesley of Hanwell → John the journeyman miller of Old Stratford → John F. the American mill founder in Plainwell *and* Albert Robert the Goldie-mill worker in Scotland. The same trade, three generations, three countries.
-
-> *Sources: [J. F. Eesley Milling Co. Flour Mill–Elevator, Wikipedia](https://en.wikipedia.org/wiki/J._F._Eesley_Milling_Co._Flour_Mill%E2%80%93Elevator); [mlive.com](https://www.mlive.com/penaseeglobe/2010/03/eesley_mill.html); historical marker hmdb.org/m.asp?m=74530.*
+> *Source: [Dale Eesley / FamilySearch &mdash; John Franklin Eesley (LQY3-K8S)](https://www.familysearch.org/tree/person/details/LQY3-K8S); [J. F. Eesley Milling Co., Wikipedia](https://en.wikipedia.org/wiki/J._F._Eesley_Milling_Co._Flour_Mill%E2%80%93Elevator).*

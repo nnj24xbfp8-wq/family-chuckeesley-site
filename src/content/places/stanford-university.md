@@ -29,9 +29,9 @@ visits:
     alignmentNote: "The Stanford Memorial Church mosaic on the façade visible behind the family is the original 1903 facade restored after the 1906 earthquake."
     images:
       - ../../assets/family/originals/IMG_0257.jpeg
-  - year: "1980s"
-    caption: "Family at the White Memorial Fountain (the bronze 'Claw' by Aristides Demetrios, installed 1964) in the heart of campus. Identified by Chuck: Uncle Rob Wildermuth, Chuck's mother Terrie Lee, Sandy (Sandra Sue Wildermuth Clement), and Debbie Wildermuth, with their mother Dorothy 'Dottie' Davis Wildermuth — the baby in Dorothy's lap is a grandchild, not Chuck."
-    alignmentNote: "The fountain and the open arches behind are unchanged in present-day Stanford — a re-shootable frame at any future generation's distance."
+  - year: "1965-08-24"
+    caption: "Family at the White Memorial Fountain (the bronze 'Claw' by Aristides Demetrios, installed only a year earlier in 1964) in the heart of campus, on **24 August 1965**. Identified by Chuck: Uncle Rob Wildermuth, Chuck's mother Terrie Lee (then about sixteen), Sandy (Sandra Sue Wildermuth Clement), and Debbie Wildermuth, with their mother Dorothy 'Dottie' Davis Wildermuth holding the youngest. The original print was black-and-white; the version surfaced here is AI-colorized by Chuck, which is why the tones and saturations don't read as authentically period."
+    alignmentNote: "The fountain and the open arches behind are unchanged in present-day Stanford — a re-shootable frame at any future generation's distance. The colorization is documentary fiction: an aid to imagining the day, not a literal record."
     images:
       - ../../assets/family/originals/IMG_1334.jpeg
 ---

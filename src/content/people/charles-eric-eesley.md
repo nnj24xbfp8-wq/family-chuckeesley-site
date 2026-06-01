@@ -20,3 +20,5 @@ This site is Chuck's contribution to the family record &mdash; the narrative arc
 The eulogy he wrote for [his father](/family/charles-eesley/) and the [Oxford library research](/docs/eesley-line-research-notes/) he and Lijie commissioned together in 2018 are the two pieces of original work he has so far contributed to the line's documentary record.
 
 Other details withheld &mdash; living.
+
+> *Structured record: [Dale Eesley / FamilySearch — Charles Eric Eesley (GMLW-PXW)](https://www.familysearch.org/tree/person/details/GMLW-PXW).*

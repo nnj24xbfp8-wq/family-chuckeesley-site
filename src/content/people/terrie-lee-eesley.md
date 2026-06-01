@@ -17,3 +17,5 @@ summary: "Daughter of Robert Earl and Dottie Wildermuth; mother of Chuck; the hi
 ---
 
 Biography pending — Chuck to write from memory. Born January 13, 1949; died May 16, 2017, in Marietta. Service at Hadley Funeral Home.
+
+> *Structured record: [Dale Eesley / FamilySearch — Terrie Lee Wildermuth (GMLH-T4J)](https://www.familysearch.org/tree/person/details/GMLH-T4J).*

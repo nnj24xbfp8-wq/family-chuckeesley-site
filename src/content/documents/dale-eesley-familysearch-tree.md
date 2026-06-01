@@ -39,6 +39,13 @@ The two are designed to complement, not duplicate. The site's people pages will 
 
 Open the file in any genealogy program that supports GEDCOM 5.5.1 (Family Tree Maker, MacFamilyTree, Reunion, Gramps, the FamilySearch viewer itself, etc.) to navigate it as a tree.
 
+## The live tree
+
+The GEDCOM here is a frozen snapshot. The live version &mdash; **the canonical one** &mdash; sits on FamilySearch, where Dale and Chuck continue to add and source individuals. The live tree is where any future research should land, and where reconciliations with new records (parish registers, census matches, immigration records, obituaries) get applied.
+
+- [Dale Eesley & Chuck Eesley's FamilySearch family tree, rooted at Chuck](https://www.familysearch.org/tree/person/details/GMLW-PXW) &mdash; navigate ancestrally from there to any individual in the structured archive.
+- A parallel version of the tree exists on **Ancestry.com**. Dale and Chuck treat the FamilySearch version as canonical for cross-referencing and sourcing; the Ancestry version is kept in rough sync but should be considered secondary.
+
 > *Source: Exported from RootsMagic on 1 June 2026 by Dale Eesley; rooted at Charles Eric Eesley (@I1@).*
 
 ## Further reading

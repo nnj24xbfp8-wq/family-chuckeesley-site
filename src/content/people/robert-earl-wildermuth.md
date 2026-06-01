@@ -26,6 +26,8 @@ He served again in Korea, worked at the Pentagon, retired as a lieutenant colone
 
 That his grandson Chuck would join the [Stanford](/places/stanford-university/) faculty seventy-some years later is the generational rhyme this archive was built to record. Robert Earl closed his last manuscript by addressing "future genealogists." This site is one of them answering.
 
+> *Structured record: [Dale Eesley / FamilySearch — Robert Earl Wildermuth (GMLH-NYT)](https://www.familysearch.org/tree/person/details/GMLH-NYT).*
+
 ## Further reading
 
 For historical context on the world Robert Earl was navigating through:

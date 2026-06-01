@@ -1,10 +1,22 @@
 ---
-name: Joseph Eesley
+name: "Joseph Eesley"
 line: paternal
+birth:
+  date: "1764-12-06"
+  place: "Banbury, Oxfordshire, England"
+death:
+  date: "1837"
+  place: "Banbury, Oxfordshire, England"
 generation: 1
 spouses:
   - frances-eesley
-summary: "Earliest confirmed Eesley patriarch in the paternal line — Hanwell, Oxfordshire. Father of John Eesley (1800–1870), the journeyman miller. Name appears as 'Joseph' in parish records and (occasionally) as 'John' in the Stratford Society register — a transcription ambiguity the Oxford library notes were working to resolve."
+summary: "Earliest documented Eesley patriarch in the line that reaches Chuck. Born and christened 6 December 1764 in Banbury, Oxfordshire; died in Banbury in 1837. Married Frances Fanny Ayris at Bloxham on 16 April 1787. Father of John Eesley (1799–1870), the Stratford miller."
 ---
 
-Joseph Eesley was confirmed by the 1799 baptism record at Hanwell as the father of John Eesley, the Stratford miller, but his own parents and earlier life are unresolved. Candidates surface in the [Oxford library research notes](/docs/eesley-line-research-notes/) — competing Williams of Bloxham, Banbury, and Oxford St Aldate baptized variously in 1716, 1731, 1740, and 1743; a Francis Easley of Hanwell who died aged 73 in 1829 (implied birth ~1756); a Joseph who died 69 at Hanwell in 1833 (implied birth ~1764) — but none has been tied to Joseph by a clean record. He stands at the floor of the documented line for now.
+Joseph Eesley was born and christened **6 December 1764 in Banbury, Oxfordshire**, and died seventy-two years later in the same town, in 1837. He married **[Frances "Fanny" Ayris](/family/frances-eesley/)** of Horley at Bloxham on **16 April 1787** — the entry the [Oxford library volunteer in 2018](/docs/eesley-line-research-notes/) had marked with a red question mark, and which Dale's tree confirms as the right one.
+
+Joseph and Frances had at least four children: William (bp. 19 August 1787, only months after the wedding), Hannah (bp. 23 May 1790), Mary (bp. 25 December 1794), and **John Eesley** (bp. January 1799 at Hanwell) — the journeyman miller whose marriage to Susannah Bubb is the next generation's hinge.
+
+His own parents and earlier life are not yet recorded in this archive; the line could be pushed further back via Dale's tree if pursued.
+
+> *Source: [Dale Eesley / FamilySearch — Joseph Eesley (M7YN-TP5)](https://www.familysearch.org/tree/person/details/M7YN-TP5).*

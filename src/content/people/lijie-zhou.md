@@ -8,3 +8,5 @@ summary: "Wife of Chuck Eesley; accompanied him on the 2018 England research tri
 ---
 
 Details withheld &mdash; living. Lijie joined Chuck on the [2018 visit to the Oxford public library](/docs/eesley-line-research-notes/) where the volunteer genealogist worked through the Eesley line back to Joseph and Frances. The Oxfordshire half of the surviving research record bears her presence as well as Chuck's.
+
+> *Structured record: [Dale Eesley / FamilySearch — Lijie Zhou (GMLV-Q8P)](https://www.familysearch.org/tree/person/details/GMLV-Q8P).*
