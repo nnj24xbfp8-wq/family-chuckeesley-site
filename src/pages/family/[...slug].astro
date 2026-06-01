@@ -1,5 +1,6 @@
 ---
 import { getCollection, render } from 'astro:content';
+import { Image } from 'astro:assets';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import {
   resolvePeople,
@@ -35,6 +36,11 @@ const personLink = (p: { id: string; data: { name: string } }) =>
 ---
 <BaseLayout title={d.name} description={d.summary}>
   <article>
+    {person.data.portrait && (
+      <figure class="mb-6">
+        <Image src={person.data.portrait} alt={d.name} class="w-full max-w-2xl mx-auto" />
+      </figure>
+    )}
     <header class="mb-8 pb-4 border-b border-rule">
       <h1 class="text-4xl font-serif mb-1">{d.name}</h1>
       {d.aka && <p class="text-ink/60 italic">also known as {d.aka}</p>}
