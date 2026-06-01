@@ -41,3 +41,9 @@ Stanford is not an ancestral village or a wartime objective. It is a school. But
 The two visit photographs on this page were taken on family return trips between those two endpoints. They are the only known images in the archive of the Wildermuths and their descendants *on* the campus &mdash; Robert Earl never appeared in any photographs of his own undergraduate years that survived.
 
 When Robert Earl closed his "Big One" combat log and his memoirs by addressing himself to *"future genealogists,"* this is the address he was writing to.
+
+## Further reading
+
+- [The G.I. Bill](https://en.wikipedia.org/wiki/G.I._Bill) on Wikipedia &mdash; the policy that put Robert Earl on this campus in two years.
+- [*When Dreams Came True: The GI Bill and the Making of Modern America*](https://www.goodreads.com/book/show/1011577.When_Dreams_Came_True) by Edward Humes &mdash; the social history of how the program reshaped American education.
+- [Stanford in WWII / The "Forty-Niners"](https://exhibits.stanford.edu/) and the [Stanford University Archives](https://library.stanford.edu/spc) &mdash; for context on what the campus looked like to a 1948 graduating veteran.

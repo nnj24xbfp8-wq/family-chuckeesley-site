@@ -15,3 +15,9 @@ Ottilie Wildermuth — born **Ottilie Rooschüz** on February 22, 1817 in Marbac
 Her connection to the family is by marriage: she married **Johannes David Wildermuth**. Whether Johannes David is a direct ancestor of the Marietta Wildermuths or a collateral relative is not yet established in this archive.
 
 Chuck's 2018 photograph of the [memorial plaque on her childhood home](/places/marbach-wildermuthstrasse/) is the source of her exact dates, her maiden name, and her father's identity — none of which appeared in the family's prior records.
+
+## Further reading
+
+- [Ottilie Wildermuth on the German Wikipedia](https://de.wikipedia.org/wiki/Ottilie_Wildermuth) — the more substantial biographical entry on her life and writing.
+- [Project Gutenberg page for her works](https://www.gutenberg.org/ebooks/author/4498) — full-text scans of her 19th-century books for young readers, in the original German.
+- [Marbach am Neckar](https://en.wikipedia.org/wiki/Marbach_am_Neckar) on Wikipedia — the town she grew up in, also Schiller's birthplace.

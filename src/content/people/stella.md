@@ -54,3 +54,13 @@ After the war Stella married **[Dr. Ted Wah Sing Chong](/family/ted-chong/)**, a
 She appears in the [family group portrait taken at Charles and Lillie Dale's home in Bexley](/archive/eesley-family-group-portrait-late-1940s/) standing beside Ted, with Uncle Will in front. That photograph and her early death in 1971 bracket roughly twenty-five years of her adult life inside this family. She had been part of the family for close to thirty years when she died.
 
 > *Sources: [FamilySearch L614-Z2P](https://www.familysearch.org/en/tree/person/L614-Z2P); Ted Chong's published obituary (Burlington County Times, 2013); Aunt Jeanne's oral account (May 2026); July 2019 family email exchange among Chuck, Maggie, Jeanne, and Roberta.*
+
+## Further reading
+
+On the larger history Stella's wartime sits inside:
+
+- [Densho](https://densho.org) &mdash; the most thorough public archive of Japanese-American incarceration during WWII, including the experience of Hawaiian residents and people of mixed East-Asian heritage.
+- [*Farewell to Manzanar*](https://www.goodreads.com/book/show/77640.Farewell_to_Manzanar) by Jeanne Wakatsuki Houston &mdash; the canonical memoir of West Coast internment.
+- [*By Order of the President: FDR and the Internment of Japanese Americans*](https://www.goodreads.com/book/show/1147019.By_Order_of_the_President) by Greg Robinson &mdash; the policy history.
+- [The Chinese in Hawaii](https://en.wikipedia.org/wiki/Chinese_in_Hawaii) on Wikipedia &mdash; the community Stella's family belonged to, distinct from the Japanese-American community that bore the brunt of the internment program.
+- [PBS *The War*](https://www.pbs.org/kenburns/the-war/) (Ken Burns and Lynn Novick) &mdash; episodes on the Pacific theater and the home-front internment.

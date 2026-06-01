@@ -34,3 +34,12 @@ A few of the things that page carries that the obituary's prose does not: the po
 The places Chuck named at the end of the eulogy &mdash; **the track at Marietta Middle School, the house on Highland Ridge, Grandma Peggy's house on 7th Street, any TV that can pull up CNBC** &mdash; are the places that should hold his name longest.
 
 > _Biographical summary above draws on his published obituary at Cawley &amp; Peoples Funeral Home; the rest of the page comes from Chuck's eulogy._
+
+## Further reading
+
+On the war that came home with him:
+
+- [*The Vietnam War*](https://www.pbs.org/kenburns/the-vietnam-war/) (Ken Burns and Lynn Novick, 2017) &mdash; the same documentary series, ten-part &mdash; alongside the [Ken Burns *Roosevelts*](https://www.pbs.org/kenburns/the-roosevelts/) Chuck referenced at the end of the eulogy.
+- [*Dispatches*](https://www.goodreads.com/book/show/107772.Dispatches) by Michael Herr &mdash; the war as it sounded.
+- [*Matterhorn*](https://www.goodreads.com/book/show/7372894-matterhorn) by Karl Marlantes &mdash; the war as it felt.
+- The [Vietnam Veterans Memorial Fund](https://www.vvmf.org/) and its searchable wall directory &mdash; for the names of those who didn't come home from Charlie's years (1969&ndash;71).

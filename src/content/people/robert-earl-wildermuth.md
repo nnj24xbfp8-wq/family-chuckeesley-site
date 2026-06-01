@@ -18,6 +18,19 @@ Robert Earl Wildermuth was born in 1924 in Marietta, Ohio &mdash; the river town
 
 After the war he came to **Stanford** on the GI Bill and earned his **Bachelor of Arts in Biological Sciences** &mdash; conferred on **October 1, 1948**, signed by President J. Wallace Sterling. The [diploma itself](/archive/robert-earl-wildermuth-stanford-ba-1948/) survives in the family's keeping. A young portrait of Bob from the same period &mdash; suit, leaves behind him, the unmistakable Stanford post-war light &mdash; is now this entry's lead image. The next Christmas, 1949, he and his fianc&eacute;e Dot sent out a [photo greeting](/archive/dot-and-bob-christmas-card-1949/) signed *"Love, Dot + Bob &mdash; 1949."*
 
+## The MGM camera mission
+
+Family memory holds &mdash; and the [combat log](/docs/the-big-one/) carries &mdash; that in the summer of 1945, after Hiroshima and Nagasaki, **Robert Earl was the navigator on the B-24 that flew MGM Studios cameras over the bombed cities to film the aftermath.** It is one of the most consequential single flights of his career: the cinematic record of the first atomic strikes &mdash; the footage the postwar world would form its understanding of nuclear weapons from &mdash; needed someone to navigate the plane the cameras rode in. He was that navigator.
+
 He served again in Korea, worked at the Pentagon, retired as a lieutenant colonel, and spent the rest of his life teaching and researching the family back to the early 1700s in W&uuml;rttemberg.
 
 That his grandson Chuck would join the [Stanford](/places/stanford-university/) faculty seventy-some years later is the generational rhyme this archive was built to record. Robert Earl closed his last manuscript by addressing "future genealogists." This site is one of them answering.
+
+## Further reading
+
+For historical context on the world Robert Earl was navigating through:
+
+- [*Hiroshima*](https://en.wikipedia.org/wiki/Hiroshima_(book)) by John Hersey &mdash; the founding account of what happened on the ground at the cities his camera plane filmed from the air.
+- [The 90th Bomb Group "Jolly Rogers"](https://en.wikipedia.org/wiki/90th_Operations_Group) on Wikipedia &mdash; the unit, the B-24s, the Pacific airfields he flew out of.
+- [*Wings of Morning: The Story of the Last American Bomber Shot Down over Germany in World War II*](https://www.goodreads.com/book/show/186729.Wings_of_Morning) by Thomas Childers &mdash; on what a B-24 crew was, and was to each other.
+- [The GI Bill](https://en.wikipedia.org/wiki/G.I._Bill) on Wikipedia &mdash; the program that took Robert Earl from a Pacific airfield to Stanford in two years.

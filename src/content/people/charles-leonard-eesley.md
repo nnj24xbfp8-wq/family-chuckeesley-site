@@ -43,3 +43,11 @@ He died around October 1972, two years after Lillie Dale. The Chongs, by then on
 He appears in the [family group portrait](/archive/eesley-family-group-portrait-late-1940s/) — taken at his own home in Bexley — behind his wife Lillie Dale, the matriarch at the center of the frame.
 
 > *Sources: Mary Eesley Bean, *[Eesley Family History](/docs/eesley-family-history-1985/)*, March 1985, p. 8; July 2019 family email exchange among Chuck, Aunt Maggie, Aunt Jeanne, and cousin Roberta; the 1940s letter collection Roberta still holds.*
+
+## Further reading
+
+On the two histories Charles Leonard's 1942 found himself between:
+
+- [*Ghost Soldiers*](https://www.goodreads.com/book/show/144283.Ghost_Soldiers) by Hampton Sides &mdash; the camp where his son Lyle died.
+- [Densho](https://densho.org) &mdash; the archive of the Japanese-American internment Stella was at risk from.
+- [*Bexley: Heart of Columbus*](https://www.amazon.com/dp/1467136441) by James A. Hopper &mdash; the neighborhood the wartime household kept itself together in.

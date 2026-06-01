@@ -38,3 +38,10 @@ Robert Earl's November 1992 caption on the back of the Wildermuthstraße print, 
 > *"This is part of the residential district on Markt Platz, Wildermuth Strassg (Street) in Marbach, Germany. The street is named in honor of Ottilie Wildermuth, wife of Johannes David Wildermuth. She was Germany's most famous female poetess and publisher in the early 1800s. Marbach is an old walled in city with a Wildermuth gate through the wall. It is about 25 miles north of Stuttgart. The town is a famous tourist center and it is the birthplace of Johannes Schiller (early 1700s) who was Germany's most famous poet and playwright — Germany's Shakespeare. Note Germany's unique 'Ginger bread' type architecture. All autos parked here were Mercedes Benz an everyday car in Germany." — R.E.W. I*
 
 Chuck's 2018 plaque photograph adds what the 1992 visit hadn't yet documented: that Ottilie Wildermuth was born **22 February 1817** and died **12 July 1877**, that her maiden name was **Rooschüz**, that her father Gottlob Rooschüz was the local district judge, and that the house was built in 1824–25 as a district court — she lived there from 1825 until 1839, when the court moved to Strohgasse.
+
+## Further reading
+
+- [Marbach am Neckar](https://en.wikipedia.org/wiki/Marbach_am_Neckar) on Wikipedia — the walled town, its Wildermuthtor (Wildermuth gate), and Schiller's birthplace.
+- [Deutsches Literaturarchiv Marbach](https://www.dla-marbach.de/en/) — the German national literary archive in Marbach; holds Schiller's papers alongside a German literature collection that includes Ottilie Wildermuth's correspondence.
+- [Schillers Geburtshaus](https://www.schillerverein-marbach.de/) — the preserved Schiller birth house, a few blocks from Ottilie's house on Marktstraße.
+- [Ottilie Wildermuth on the German Wikipedia](https://de.wikipedia.org/wiki/Ottilie_Wildermuth) — biography of the writer whose name carried the surname into the street.

@@ -29,3 +29,13 @@ That refusal — to let the loss of his son turn him into someone who would infl
 Lyle has no surviving children in the family register; his line ends at this entry. He is the brother whose absence the next generation lived around.
 
 > *Sources: Mary Eesley Bean, *[Eesley Family History](/docs/eesley-family-history-1985/)*, March 1985, p. 8; cousin Roberta's 2019 oral note; the historical record of the Cabanatuan POW camp.*
+
+## Further reading
+
+On what Lyle was in the middle of when he died:
+
+- [*Ghost Soldiers: The Forgotten Epic Story of World War II's Most Dramatic Mission*](https://www.goodreads.com/book/show/144283.Ghost_Soldiers) by Hampton Sides &mdash; the definitive account of Cabanatuan, the prisoners held there, and the eventual American raid that liberated the camp in January 1945, three years too late for Lyle.
+- [*Tears in the Darkness: The Story of the Bataan Death March and Its Aftermath*](https://www.goodreads.com/book/show/6577354-tears-in-the-darkness) by Michael and Elizabeth Norman &mdash; the march that delivered most of the prisoners to Cabanatuan.
+- [*Some Survived: An Eyewitness Account of the Bataan Death March*](https://www.amazon.com/dp/156512218X) by Manny Lawton.
+- The [Cabanatuan POW Camp](https://en.wikipedia.org/wiki/Cabanatuan) and [Bataan Death March](https://en.wikipedia.org/wiki/Bataan_Death_March) entries on Wikipedia.
+- [American Battle Monuments Commission](https://www.abmc.gov/) &mdash; the federal record of US service members buried or memorialized overseas; the Manila American Cemetery records those who died in the Philippines campaign.
