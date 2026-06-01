@@ -18,10 +18,12 @@ relatedPeople:
   - charles-eric-eesley
 status: photographed
 visits:
-  - year: "1948"
-    photographer: robert-earl-wildermuth
-    caption: "Robert Earl's [Bachelor of Arts diploma](/archive/robert-earl-wildermuth-stanford-ba-1948/), conferred 1 October 1948 in Biological Sciences. He came on the GI Bill after the war and finished in two years."
-    alignmentNote: "No surviving photograph of Bob on campus during his student years is yet in this archive; the diploma is the document of record for this visit."
+  - year: "1948–49"
+    caption: "Robert Earl in the suit he wore for graduation day &mdash; B.A. in Biological Sciences, conferred 1 October 1948; and Dot &amp; Bob's photo Christmas card from the following December, signed *Love, Dot + Bob &mdash; 1949,* with the pencil annotation reading 'Stanford senior.' His [diploma](/archive/robert-earl-wildermuth-stanford-ba-1948/) is the formal record; these are the personal one."
+    alignmentNote: "No photographs of Bob on campus during his student years exist in the archive beyond these two portraits, which were taken nearby. The architecture of his Stanford years is in the diploma; the face of them is here."
+    images:
+      - ../../assets/family/originals/IMG_3874.jpeg
+      - ../../assets/family/originals/IMG_2649.jpeg
   - year: "1960s"
     caption: "Family at the façade of Stanford Memorial Church — likely a return visit to campus after Robert Earl had moved on to the rest of his career. People not yet definitively identified; tentatively Robert Earl holding a baby (possibly a grandchild), Dottie, Terrie Lee, and one other child. Chuck to confirm."
     alignmentNote: "The Stanford Memorial Church mosaic on the façade visible behind the family is the original 1903 facade restored after the 1906 earthquake."
