@@ -27,7 +27,7 @@ He is the deepest documented Zhou ancestor in this archive's present scaffolding
 
 **周兆祥**（姓氏确定；名字汉字"兆祥"系据拼音及周家辈分用字推测，待家族确认），1930年8月1日生于**山东省青岛市胶州市** &mdash; 即此支周氏的远祖之地。胶州为半岛上的历史名城（现在的青岛市本身是19世纪末德国租借期以来才崛起的现代港口），是周家更深的地理之根。
 
-他经历了战争年代和共和国初创时期，与[孙运哲](/family/yunzhe-sun/)成婚，在青岛养育四个子女 &mdash; 包括[Lijie的父亲周凌](/family/ling-zhou/)及其弟妹周泉、周爱琴、周爱华。**2022年12月9日卒于青岛**，享年92岁。
+他经历了战争年代和共和国初创时期，与[孙云哲](/family/yunzhe-sun/)成婚，在青岛养育四个子女 &mdash; 包括[Lijie的父亲周玲](/family/ling-zhou/)及其弟妹周全、周爱琴、周爱华。**2022年12月9日卒于青岛**，享年92岁。
 
 他是本档案目前周氏一脉记载最深的祖辈。再往前可追溯至他的父母 [周慧亭](/family/huiting-zhou/) 与 [冷氏](/family/leng-zhou/)、以及他自己的父亲 [周茂礼](/family/maoli-zhou/)（1935年卒于胶州）。
 

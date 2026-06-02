@@ -8,3 +8,11 @@ summary: "Lijie's maternal great-grandfather. Husband of Rongjing Qiu; father of
 ---
 
 Li Fengting is named in the GEDCOM as the father of [Zhongchu Li](/family/zhongchu-li/) (Lijie's grandfather) and his three siblings &mdash; [Yunhua Li](/family/yunhua-li/), [Chengwu Li](/family/chengwu-li/), and [Yunying Li](/family/yunying-li/). His own dates and earlier life are not yet recorded.
+
+---
+
+## 中文
+
+**李凤廷**（姓氏确定；名字汉字待家族确认）&mdash; Lijie的外曾祖父，李氏一脉。[邱荣敬](/family/rongjing-qiu/)之夫，育有四子女：[李忠初](/family/zhongchu-li/)（Lijie之外祖父）、[李云华](/family/yunhua-li/)、[李承武](/family/chengwu-li/)、[李云英](/family/yunying-li/)。生卒及早年事迹待补。
+
+> *注：除姓氏外人名汉字为推测，待家族确认。*

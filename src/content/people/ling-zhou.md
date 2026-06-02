@@ -1,5 +1,5 @@
 ---
-name: "Zhou Ling 周凌"
+name: "Zhou Ling 周玲"
 aka: "Ling Zhou"
 line: zhou
 birth:
@@ -22,8 +22,8 @@ Details withheld &mdash; living. Father of [Lijie](/family/lijie-zhou/).
 
 ## 中文
 
-**周凌**（音译；姓氏确定，名字汉字待确认），1955年12月1日生于山东省青岛市。Lijie之父。[周兆祥](/family/zhaoxiang-zhou/)（1930&ndash;2022）与[孙运哲](/family/yunzhe-sun/)（卒于2023年）之子。1982年9月18日在青岛与[李迅](/family/xun-li/)成婚。
+**周玲**（音译；姓氏确定，名字汉字待确认），1955年12月1日生于山东省青岛市。Lijie之父。[周兆祥](/family/zhaoxiang-zhou/)（1930&ndash;2022）与[孙运哲](/family/yunzhe-sun/)（卒于2023年）之子。1982年9月18日在青岛与[李迅](/family/xun-li/)成婚。
 
 兄弟姊妹：[周泉](/family/quan-zhou/)、[周爱琴](/family/ai-qin-zhou/)、[周爱华](/family/ai-hua-zhou/)。
 
-> *详细生平从略 &mdash; 在世。除姓氏外人名汉字均为推测，待家族确认。*
+> *详细生平从略 &mdash; 在世。姓名汉字已由家族确认：周玲。*

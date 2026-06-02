@@ -16,3 +16,11 @@ summary: "Lijie's maternal great-aunt. Sister of Zhongchu Li (Lijie's grandfathe
 Yunhua was the eldest sibling on the Li side at this generation, born **30 June 1911 in Qingdao** &mdash; ten years before her brother [Zhongchu](/family/zhongchu-li/) (Lijie's grandfather). She married **[Yaofu Shang](/family/yaofu-shang/)** &mdash; brother of [Yaozhen Shang](/family/yaozhen-shang/) (Lijie's grandmother) &mdash; making her also Lijie's great-aunt by marriage on the Shang side. This is the [Shang-Li double intermarriage](/family/yaofu-shang/) at the great-aunt/uncle generation.
 
 > *Structured record: [FamilySearch — Yunhua Li (G9QD-KZD)](https://www.familysearch.org/tree/person/details/G9QD-KZD).*
+
+---
+
+## 中文
+
+**李云华**（姓氏确定；名字汉字"云华"系据拼音推测，待家族确认）&mdash; Lijie的姨外祖母，[李忠初](/family/zhongchu-li/)（Lijie之外祖父）之姐妹。**1911年6月30日生于青岛** &mdash; 比弟弟忠初早十年。迎娶[商耀福](/family/yaofu-shang/) &mdash; 即[商耀珍](/family/yaozhen-shang/)（Lijie之外祖母）之兄弟，亦即Lijie的姨外祖父。是[商李两家在本代的双重通婚](/family/yaofu-shang/)之一。
+
+> *注：除姓氏外人名汉字为推测，待家族确认。*
