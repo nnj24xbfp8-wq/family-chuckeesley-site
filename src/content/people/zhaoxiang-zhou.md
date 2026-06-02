@@ -10,15 +10,12 @@ death:
   place: "Qingdao, Shandong, China"
 spouses:
   - yunzhe-sun
-portrait: ../../assets/family/originals/IMG_1635.jpeg
 summary: "Lijie's paternal grandfather. Born 1 August 1930 in Jiaozhou Shi (the city-region just inland from Qingdao on the Shandong peninsula) — the ancestral place for this branch of the Zhou family. Died 9 December 2022 in Qingdao, age 92."
 ---
 
 Zhou Zhaoxiang was born **1 August 1930 in Jiaozhou Shi (胶州市)** — the historic city-region just inland from Qingdao on the Shandong peninsula. Jiaozhou is the **ancestral place** for this branch of the Zhou family: it long predates the modern city of Qingdao (which itself only emerged as a major urban center after the late-19th-century German concession period) and remains the family's deeper geographic root.
 
 He spent the war years and the founding years of the People's Republic as a young man, married [Yunzhe Sun](/family/yunzhe-sun/), and raised four children in Qingdao &mdash; including [Lijie's father Ling Zhou](/family/ling-zhou/) and his siblings Quan, Ai Qin, and Ai Hua. He died **9 December 2022 in Qingdao**, age 92.
-
-The portrait at the head of this page &mdash; a young Zhou Zhaoxiang in a winter cap and plaid scarf &mdash; is the earliest surviving photograph of him in the family's keeping, family-estimated to the early 1930s (close to his birth year of 1930, which would place him in childhood; the apparent age in the portrait may push it later into the 1940s or early 1950s. Family to refine the date.).
 
 He is the deepest documented Zhou ancestor in this archive's present scaffolding; further generations may follow as Lijie's family is able to add them.
 
