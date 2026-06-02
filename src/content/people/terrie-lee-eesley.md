@@ -77,7 +77,7 @@ Two newly placed photographs anchor the *"traveled the U.S. and Japan until grad
 
 And one Stanford frame outside the [Alumni Center yearbook photograph](/archive/terrie-azalea-garden-2011/) above:
 
-- [**Terrie at the Stanford fountain**](/archive/terrie-at-stanford-fountain/) &mdash; the only photograph of Terrie alone on the Stanford campus, at the same fountain her mother had held her grandchild in front of in 1965.
+- [**Terrie at the Stanford fountain**](/archive/terrie-at-stanford-fountain/) &mdash; the only photograph of Terrie alone on the Stanford campus, at the same fountain her mother Dottie had stood at in 1965 holding **Terrie's own youngest brother Rob** as a toddler.
 
 ## In her garden, May 2011
 

@@ -32,6 +32,11 @@ The Zhou side of this archive now opens. From the updated GEDCOM:
 
 Ling and Xun married **18 September 1982 in [Qingdao](/places/qingdao/)**. Lijie was born just over a year later. The ancestral place behind the modern Qingdao life is [**Jiaozhou Shi**](/places/qingdao/) &mdash; the inland city-region from which Zhou Zhaoxiang's family came.
 
+## Childhood photographs newly placed
+
+- A flash portrait from the early 1990s shows **young Lijie (~10) standing next to her father [Ling Zhou](/family/ling-zhou/) in his People's Police service uniform**, indoors against venetian blinds. Set as Ling Zhou's portrait on his page.
+- A second 2010s frame from [St Michael's Cathedral, Qingdao](/places/qingdao/) &mdash; Lijie in a dark coat and red gloves, waving across the schoolyard fence of **her own elementary school**, the twin red-roofed towers of the cathedral visible just beyond. The companion frame to the cathedral close-up already on the Qingdao page: school in front, church behind, the geography of her Qingdao childhood in one image.
+
 ## What's still to add
 
 - **The earlier Zhou and Li generations** &mdash; great-grandparents and beyond &mdash; where Lijie's family is able to name them.

@@ -25,7 +25,7 @@ visits:
       - ../../assets/family/originals/IMG_3874.jpeg
       - ../../assets/family/originals/IMG_2649.jpeg
   - year: "1960s"
-    caption: "Family at the façade of Stanford Memorial Church — likely a return visit to campus after Robert Earl had moved on to the rest of his career. People not yet definitively identified; tentatively Robert Earl holding a baby (possibly a grandchild), Dottie, Terrie Lee, and one other child. Chuck to confirm."
+    caption: "Family at the façade of Stanford Memorial Church — likely a return visit to campus after Robert Earl had moved on to the rest of his career. People not yet fully identified; tentatively Robert Earl holding the youngest Wildermuth child (Uncle Rob as a toddler), Dottie, Terrie Lee, and one other child. Chuck to confirm."
     alignmentNote: "The Stanford Memorial Church mosaic on the façade visible behind the family is the original 1903 facade restored after the 1906 earthquake."
     images:
       - ../../assets/family/originals/IMG_0257.jpeg
@@ -43,7 +43,7 @@ visits:
       - ../../assets/family/originals/IMG_0004.jpeg
   - year: "2010s"
     photographer: charles-eric-eesley
-    caption: "Terrie alone at the **White Memorial Fountain** in a green blouse, Memorial Court behind her — the same fountain her mother Dottie had held a grandchild in front of in the [24 August 1965 family return-visit photograph](#1965-08-24). The single frame of Terrie by herself on the Stanford campus, on a later visit to see her son in the years he had joined the faculty."
+    caption: "Terrie alone at the **White Memorial Fountain** in a green blouse, Memorial Court behind her — the same fountain her mother Dottie had stood at on 24 August 1965 holding **Terrie's own youngest brother Rob** as a toddler. The single frame of Terrie by herself on the Stanford campus, on a later visit to see her son in the years he had joined the faculty."
     alignmentNote: "Re-shoots the same fountain frame as the 1965 family photograph one generation later — Terrie now the elder rather than the teenager in the earlier picture."
     images:
       - ../../assets/family/originals/00000000_00000015_015.jpeg

@@ -16,6 +16,14 @@ summary: "Lijie's mother. Born 20 June 1956 in Qingdao, Shandong. Daughter of Zh
 
 Details withheld &mdash; living. Mother of [Lijie](/family/lijie-zhou/).
 
+## Newly placed photographs
+
+- A **1960s studio portrait of three Chinese children** &mdash; an older boy in a white shirt and red Young Pioneer scarf between two younger girls in patterned dresses &mdash; survives in the family's keeping. Chuck believes **Xun Li is the girl on the right**. The identifications of the other two children are not yet confirmed; family to refine. *[Photograph: `IMG_1485.jpeg` &mdash; embedded below.]*
+
+  ![Three Chinese children, 1960s studio portrait — Chuck believes Xun Li is the girl on the right; the boy and the other girl are not yet confirmed.](../../assets/family/originals/IMG_1485.jpeg)
+
+- The **honeymoon portrait of Xun and Ling at Hangzhou's Lingyin Temple in 1982**, just after their 18 September wedding &mdash; paired with their return visit decades later on the new [Lingyin Temple, Hangzhou](/places/lingyin-temple-hangzhou/) place page.
+
 > *Structured record: [Dale Eesley & Chuck Eesley / FamilySearch &mdash; Xun Li (GMLK-HBZ)](https://www.familysearch.org/tree/person/details/GMLK-HBZ).*
 
 ---

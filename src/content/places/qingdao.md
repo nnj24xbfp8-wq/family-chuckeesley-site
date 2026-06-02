@@ -20,9 +20,10 @@ status: photographed
 visits:
   - year: "2010s"
     photographer: charles-eric-eesley
-    caption: "Lijie at St Michael's Catholic Cathedral (青岛天主教堂), the most iconic of Qingdao's surviving German-period landmarks. The twin red-roofed towers were built 1934 under German Catholic mission; the building survived the war years, Japanese occupation, the Cultural Revolution, and continues as an active parish today. It is the architectural centerpiece of the old German concession quarter where Lijie grew up."
+    caption: "Lijie at St Michael's Catholic Cathedral (青岛天主教堂), the most iconic of Qingdao's surviving German-period landmarks. The twin red-roofed towers were built 1934 under German Catholic mission; the building survived the war years, Japanese occupation, the Cultural Revolution, and continues as an active parish today. It is the architectural centerpiece of the old German concession quarter where Lijie grew up. The companion frame, photographed the same visit at the **schoolyard fence of Lijie's own elementary school** with the cathedral's twin towers visible just beyond, captures the precise geography of her Qingdao childhood: school in front, church behind."
     images:
       - ../../assets/family/originals/IMG_0999.jpeg
+      - ../../assets/family/originals/IMG_0998.jpeg
 ---
 
 Qingdao sits on the southern coast of the Shandong peninsula, on the Yellow Sea. It is the geographic anchor of [Lijie](/family/lijie-zhou/)'s family as so far documented &mdash; both grandparents on her [father's side](/family/zhaoxiang-zhou/) (in adulthood) and both on her [mother's side](/family/zhongchu-li/) (in birth and life) are Qingdao people, her parents were born and raised here, and she was born here in 1983.
