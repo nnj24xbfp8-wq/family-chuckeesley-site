@@ -64,9 +64,20 @@ Three photographs in the archive answer most directly to the lines Terrie wrote 
 
 - [**Terrie reading Star Wars to small Chuck, c. 1983-84**](/archive/terrie-reading-to-chuck-c1984/) &mdash; the literal image of *"what I thank her for the most: making such a big effort to read to me when I was very little."*
 - [**Terrie at the library information desk, c. 1970s**](/archive/terrie-at-library-desk/) &mdash; the *"former children's librarian"* of [Chuck's memorial speech](/docs/memorial-speech-terrie-lee-bain/), the *"my books and students"* of her [poem](/docs/please-dont-cry-for-me-terrie-bain/).
-- [**Terrie in the south-side garden, 6 May 2011**](/archive/terrie-azalea-garden-2011/) &mdash; the *"warmed by God's sun with flowers my best"* line as a single frame.
+- [**Terrie in the south-side garden, 6 May 2011**](/archive/terrie-azalea-garden-2011/) and again [**a few years later**](/archive/terrie-azalea-garden-later/) &mdash; the *"warmed by God's sun with flowers my best"* line as two frames of the same azalea, the family's own then-and-now of continuity.
 
 A fourth photograph &mdash; [Chuck's MIT PhD graduation on 5 June 2009 with Terrie at the M.I.T. dome](/archive/mit-phd-graduation-chuck-terrie-2009/) &mdash; closes the loop on her *"don't worry, I will find a way"* moment with the Duke acceptance: that was the decision, this was the diploma.
+
+## The Air-Force-childhood frames
+
+Two newly placed photographs anchor the *"traveled the U.S. and Japan until graduating high school"* line of her obituary:
+
+- [**Terrie's high school graduation in Japan, c. 1967**](/archive/terrie-high-school-graduation-japan/) &mdash; in cap and gown with the diploma in one frame, and with her parents (Robert Earl in U.S. Air Force dress blues, Dottie in a leaf brooch) and a *"1st Place"* plaque in the companion frame. The closing image of the Air-Force-childhood years.
+- [**The Wildermuth family portrait, mid-1960s**](/archive/wildermuth-family-portrait-1960s/) &mdash; Robert Earl and Dottie with all four children: Terrie and Sandy as teenagers, Debbie school-age, Rob a toddler. The fullest single frame of all four siblings together.
+
+And one Stanford frame outside the [Alumni Center yearbook photograph](/archive/terrie-azalea-garden-2011/) above:
+
+- [**Terrie at the Stanford fountain**](/archive/terrie-at-stanford-fountain/) &mdash; the only photograph of Terrie alone on the Stanford campus, at the same fountain her mother had held her grandchild in front of in 1965.
 
 ## In her garden, May 2011
 

@@ -18,3 +18,7 @@ people:
 In the second Christmas of the war, Will Eesley turned the war's most universal small object — the ration book — into a private joke shared with friends and family. The card is a hand-drawn parody of a 1942 OPA Unlimited Ration Book, "United Wishes for Happiness," numbered like a real one (No. 457-230-0753), with four "stamps" wishing the recipient a Merry Christmas, a Happy New Year, Good Health, and Good Cheer — and along the bottom edge a strip of additional rationable virtues: Faith, Peace, Kindness, Friendship, Laughter, Success, Contentment.
 
 It is, in a single object, the architect's hand, the wartime moment, and the family's habit of using craft to keep ordinary life intact. Signed *Peggy and Will Eesley* on the registrar's certificate inside.
+
+The card opens to a two-panel spread: the left panel a *Certificate of Book Holder* "issued by the Office of Saint Nicholas," the right panel the rationable-virtues stamps (*MERRY CHRISTMAS · NOEL · JOYFUL HOLIDAYS · GOOD CHEER · GOOD HEALTH · GOOD LUCK · GOOD FUN · HAPPINESS · LOVE · SEASONS GREETINGS · PROSPERITY · FAITH · XMAS SPIRITS · PEACE · KINDNESS · FRIENDSHIP · LAUGHTER · SUCCESS · CONTENTMENT*) and the *Certificate of Registrar* signed *Peggy and Will Eesley · 457 Eastmoor Blvd · 25 December 1942.*
+
+![The opened card: left panel — Saint Nicholas certificate; right panel — wishing stamps and registrar's signature.](../../assets/family/originals/Will_Christmas_card.jpeg)

@@ -41,6 +41,12 @@ visits:
     alignmentNote: "This is the photograph that turns the Stanford thread from a coincidence into a passage. Set as the portrait image on Terrie's person page."
     images:
       - ../../assets/family/originals/IMG_0004.jpeg
+  - year: "2010s"
+    photographer: charles-eric-eesley
+    caption: "Terrie alone at the **White Memorial Fountain** in a green blouse, Memorial Court behind her — the same fountain her mother Dottie had held a grandchild in front of in the [24 August 1965 family return-visit photograph](#1965-08-24). The single frame of Terrie by herself on the Stanford campus, on a later visit to see her son in the years he had joined the faculty."
+    alignmentNote: "Re-shoots the same fountain frame as the 1965 family photograph one generation later — Terrie now the elder rather than the teenager in the earlier picture."
+    images:
+      - ../../assets/family/originals/00000000_00000015_015.jpeg
 ---
 
 Stanford is not an ancestral village or a wartime objective. It is a school. But this is also the place where, by the project's own framing, the family record turns into a continuous line: Robert Earl came home from the Pacific, finished his BA here in 1948, sent out a Christmas card from the campus the next year with his fiancée Dot — and a long arc later, his grandson [Chuck](/family/charles-eric-eesley/) is on the faculty.

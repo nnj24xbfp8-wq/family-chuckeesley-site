@@ -10,8 +10,13 @@ summary: "The flour mill John F. Eesley built in Plainwell, Michigan in 1887 —
 significance: "The family surname literally on the historical register. Three generations of Eesley millers — Joseph in Hanwell, John in Old Stratford, John F. in Plainwell — and this is the building that closed the chain. It is the only piece of physical Eesley infrastructure to survive into the 21st century."
 relatedPeople:
   - john-f-eesley
-status: described-only
-visits: []
+status: photographed
+visits:
+  - year: "2010s"
+    photographer: charles-eric-eesley
+    caption: "The mill sign at 700 East Bridge Street, Plainwell — *EESLEY MILL · BUILT 1903*, with the *Old Mill Brewpub* tenant signage below. The building had been listed on the National Register of Historic Places in 2010 by the time of Chuck's visit; the EESLEY name on the sign is, at present, the only piece of the family surname still standing on a building in the United States."
+    images:
+      - ../../assets/family/originals/Mill sign.jpeg
 ---
 
 **The roller-rink beginning (1869):** A roller-rink structure was built on West Bridge Street in downtown Plainwell.
@@ -26,6 +31,6 @@ visits: []
 
 **Recognition and reuse (2010 – ):** Listed on the National Register of Historic Places in 2010. The building's 100-year-old wooden floors, posts, and post-and-beam architecture were preserved during renovation, and the site now operates as **The Old Mill Brewpub** — a local restaurant, coffee shop, and brewery.
 
-> *No family photographs of the mill in operation are yet in this archive. If any descendants of John F. Eesley's American line surface — and they almost certainly exist — their photographs would fill this page. Until then this is a description-only entry, with the building's status as a public landmark standing in for what the family record cannot yet show.*
+> *No family photographs of the mill in operation are yet in this archive. If any descendants of John F. Eesley's American line surface — and they almost certainly exist — their photographs would fill this page. Until then, the surviving evidence is what's on the building itself: the **EESLEY MILL · BUILT 1903** sign on the present-day façade, photographed by Chuck on a Plainwell visit.*
 
 > *Sources: [J. F. Eesley Milling Co. Flour Mill–Elevator, Wikipedia](https://en.wikipedia.org/wiki/J._F._Eesley_Milling_Co._Flour_Mill%E2%80%93Elevator); [Plainwell mill history at mlive.com](https://www.mlive.com/penaseeglobe/2010/03/eesley_mill.html); historical marker at hmdb.org/m.asp?m=74530; [The Old Mill Brewpub opening, mlive.com](https://www.mlive.com/business/west-michigan/2012/02/new_brewpub_opens_this_week_in.html).*
