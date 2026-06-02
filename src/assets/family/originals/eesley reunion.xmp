@@ -1,0 +1,28 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="XMP Core 6.0.0">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:exif="http://ns.adobe.com/exif/1.0/"
+            xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/"
+            xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/">
+         <exif:GPSLongitude>81.456074599999994</exif:GPSLongitude>
+         <exif:GPSLongitudeRef>W</exif:GPSLongitudeRef>
+         <exif:GPSHPositioningError>0.0</exif:GPSHPositioningError>
+         <exif:GPSLatitude>39.500579600000002</exif:GPSLatitude>
+         <exif:GPSLatitudeRef>N</exif:GPSLatitudeRef>
+         <exif:GPSTimeStamp>2018-01-02T05:05:51Z</exif:GPSTimeStamp>
+         <Iptc4xmpExt:ArtworkContentDescription>1041 Highland Ridge Rd. Lowell, OH</Iptc4xmpExt:ArtworkContentDescription>
+         <photoshop:DateCreated>1970-12-17T20:03:24+07:30</photoshop:DateCreated>
+         <dc:description>1041 Highland Ridge Rd. Lowell, OH</dc:description>
+         <dc:subject>
+            <rdf:Seq>
+               <rdf:li>Mary Eesley Bean</rdf:li>
+               <rdf:li>Peggy Eesley</rdf:li>
+               <rdf:li>Donald Eesley</rdf:li>
+               <rdf:li>Will Eesley</rdf:li>
+               <rdf:li>Helen Eesley Burnes</rdf:li>
+            </rdf:Seq>
+         </dc:subject>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
