@@ -34,4 +34,4 @@ Details withheld &mdash; living. Mother of [Lijie](/family/lijie-zhou/).
 
 兄弟姊妹：[李孟灵](/family/mengling-li/)（生于1952年8月18日）、[李波](/family/bo-li/)（生于1957年7月16日）。
 
-> *详细生平从略 &mdash; 在世。除姓氏外人名汉字均为推测，待家族确认。*
+> *详细生平从略 &mdash; 在世。姓名汉字已由家族确认：李恂。*
