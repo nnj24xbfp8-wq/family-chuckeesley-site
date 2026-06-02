@@ -27,7 +27,7 @@ He and Lijie's mother [Xun Li](/family/xun-li/) made the **honeymoon trip to Han
 
 ## 中文
 
-**周玲**（音译；姓氏确定，名字汉字待确认），1955年12月1日生于山东省青岛市。Lijie之父。[周兆祥](/family/zhaoxiang-zhou/)（1930&ndash;2022）与[孙运哲](/family/yunzhe-sun/)（卒于2023年）之子。1982年9月18日在青岛与[李迅](/family/xun-li/)成婚。
+**周玲**（音译；姓氏确定，名字汉字待确认），1955年12月1日生于山东省青岛市。Lijie之父。[周兆祥](/family/zhaoxiang-zhou/)（1930&ndash;2022）与[孙运哲](/family/yunzhe-sun/)（卒于2023年）之子。1982年9月18日在青岛与[李恂](/family/xun-li/)成婚。
 
 兄弟姊妹：[周泉](/family/quan-zhou/)、[周爱琴](/family/ai-qin-zhou/)、[周爱华](/family/ai-hua-zhou/)。
 

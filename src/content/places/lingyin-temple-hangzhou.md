@@ -35,7 +35,7 @@ For this archive, Lingyin matters as the **then-and-now pair** above: the same c
 
 **灵隐寺**位于杭州西部群山之间，始建于东晋咸和元年（公元328年），是中国最古老、规模最大的禅宗寺院之一，至今仍是杭州西湖文化景观的重要组成部分。
 
-在本档案中，灵隐寺承载的是上面那组"昔与今"的对照&mdash;Lijie的父母[周玲](/family/ling-zhou/)和[李迅](/family/xun-li/)，**1982年9月18日在[青岛](/places/qingdao/)结婚后即赴杭州度蜜月**，在灵隐寺的山门前留下了一帧黑白合影；几十年后重访，同一座山门前的同一对夫妻，又是一帧。这是周氏一脉在本档案中的第一组"同地同人，跨代重摄"&mdash;与维尔德穆特家族在德国[Rielingshausen教堂](/places/rielingshausen-church/)和[Marbach维尔德穆特街牌](/places/marbach-wildermuthstrasse/)的朝圣摄影形成跨大陆的呼应。
+在本档案中，灵隐寺承载的是上面那组"昔与今"的对照&mdash;Lijie的父母[周玲](/family/ling-zhou/)和[李恂](/family/xun-li/)，**1982年9月18日在[青岛](/places/qingdao/)结婚后即赴杭州度蜜月**，在灵隐寺的山门前留下了一帧黑白合影；几十年后重访，同一座山门前的同一对夫妻，又是一帧。这是周氏一脉在本档案中的第一组"同地同人，跨代重摄"&mdash;与维尔德穆特家族在德国[Rielingshausen教堂](/places/rielingshausen-church/)和[Marbach维尔德穆特街牌](/places/marbach-wildermuthstrasse/)的朝圣摄影形成跨大陆的呼应。
 
 ## Further reading
 

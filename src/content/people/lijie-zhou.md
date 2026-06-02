@@ -26,7 +26,7 @@ The Zhou side of this archive now opens. From the updated GEDCOM:
 - **Father: [Zhou Ling 周玲](/family/ling-zhou/)** (b. 1 December 1955, Qingdao). His parents:
   - **[Zhou Zhaoxiang 周兆祥](/family/zhaoxiang-zhou/)** (1 August 1930, **Jiaozhou Shi** &mdash; the ancestral inland city-region &mdash; to 9 December 2022, Qingdao).
   - **[Sun Yunzhe 孙云哲](/family/yunzhe-sun/)** (d. December 2023, Qingdao).
-- **Mother: [Li Xun 李迅](/family/xun-li/)** (b. 20 June 1956, Qingdao). Her parents:
+- **Mother: [Li Xun 李恂](/family/xun-li/)** (b. 20 June 1956, Qingdao). Her parents:
   - **[Li Zhongchu 李忠初](/family/zhongchu-li/)** (15 September 1921 &ndash; 1 November 1982, Qingdao). Died six weeks after his daughter's marriage; never met Lijie.
   - **[Shang Yaozhen 商耀珍](/family/yaozhen-shang/)** (11 September 1921 &ndash; 10 January 2013). Outlived her husband by thirty years; the one grandparent on Lijie's side who lived to know her grown.
 
@@ -60,10 +60,10 @@ Ling and Xun married **18 September 1982 in [Qingdao](/places/qingdao/)**. Lijie
 - **父亲：[周玲](/family/ling-zhou/)**（1955年12月1日生于青岛）。父之父母：
   - **[周兆祥](/family/zhaoxiang-zhou/)**（1930年8月1日生于胶州市 &mdash; 周氏远祖之地 &mdash; 2022年12月9日卒于青岛）。
   - **[孙云哲](/family/yunzhe-sun/)**（2023年12月卒于青岛）。
-- **母亲：[李迅](/family/xun-li/)**（1956年6月20日生于青岛）。母之父母：
-  - **[李忠初](/family/zhongchu-li/)**（1921年9月15日 &ndash; 1982年11月1日，青岛）。1982年9月18日女儿李迅与周玲成婚后六周辞世；未及与外孙女Lijie相见。
+- **母亲：[李恂](/family/xun-li/)**（1956年6月20日生于青岛）。母之父母：
+  - **[李忠初](/family/zhongchu-li/)**（1921年9月15日 &ndash; 1982年11月1日，青岛）。1982年9月18日女儿李恂与周玲成婚后六周辞世；未及与外孙女Lijie相见。
   - **[商耀珍](/family/yaozhen-shang/)**（1921年9月11日 &ndash; 2013年1月10日）。守寡三十年，亲眼见证外孙女Lijie长大成人。
 
-周玲和李迅于**1982年9月18日在[青岛](/places/qingdao/)成婚**。Lijie次年出生。这一支周氏现代青岛生活背后的远祖之地是[**胶州市**](/places/qingdao/) &mdash; 周兆祥家族的起源地。
+周玲和李恂于**1982年9月18日在[青岛](/places/qingdao/)成婚**。Lijie次年出生。这一支周氏现代青岛生活背后的远祖之地是[**胶州市**](/places/qingdao/) &mdash; 周兆祥家族的起源地。
 
 > *注：除姓氏（周、李、孙、商等）外，本页所用人名汉字均系据拼音和家族常见汉字推测，待Lijie及其家人确认或修正。*
