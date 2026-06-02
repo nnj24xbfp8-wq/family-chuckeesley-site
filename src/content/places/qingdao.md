@@ -26,7 +26,16 @@ The city's modern history is comparatively recent in Chinese terms. Qingdao was 
 
 The deeper Chinese ancestry the Zhou family carries is from [**Jiaozhou Shi**](/family/zhaoxiang-zhou/), just inland from Qingdao on the same peninsula &mdash; centuries-older as an administrative center and the ancestral place of Lijie's paternal grandfather Zhaoxiang.
 
-## Further reading
+---
+
+## 中文
+
+**青岛** 位于山东半岛南岸，黄海之滨。是本档案[Lijie](/family/lijie-zhou/)一系所记载家族成员的地理中心 &mdash; 父亲[周凌](/family/ling-zhou/)、母亲[李迅](/family/xun-li/)，外祖父[李忠初](/family/zhongchu-li/)（1921年生于青岛）、外祖母[商耀珍](/family/yaozhen-shang/)（1921年生于青岛）、祖父[周兆祥](/family/zhaoxiang-zhou/)成年后定居青岛、祖母[孙运哲](/family/yunzhe-sun/)亦居青岛 &mdash; 而Lijie本人也于1983年在此出生。
+
+按中国历史尺度，青岛是一座年轻的城市。**1897年**德意志帝国租借胶州湾以前，这里只是一个小渔村；德国人规划了市中心、栽下了欧式建筑，并于**1903年**创办了至今仍以同名行销世界的**青岛啤酒厂**。一战期间日本接管，民国收回，新中国延续。德占期留下的城市肌理至今仍是青岛主城的骨架。
+
+周氏一支更深的远祖之地是[**胶州市**](/family/zhaoxiang-zhou/) &mdash; 即青岛市内陆方向上的胶州，作为行政中心比青岛本身古老得多。Lijie的祖父周兆祥1930年正是出生于胶州市。
+
 
 - [Qingdao (Wikipedia)](https://en.wikipedia.org/wiki/Qingdao) &mdash; the city's full history.
 - [Kiautschou Bay concession (Wikipedia)](https://en.wikipedia.org/wiki/Kiautschou_Bay_concession) &mdash; the German concession period 1897&ndash;1914.

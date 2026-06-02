@@ -17,3 +17,17 @@ Shang Yaozhen was born in Qingdao on **11 September 1921**, three days before he
 She is the one grandparent on Lijie's side who lived to meet her granddaughter — and Chuck.
 
 > *Structured record: [FamilySearch &mdash; Yaozhen Shang (GMGD-CVV)](https://www.familysearch.org/tree/person/details/GMGD-CVV).*
+
+---
+
+## 中文
+
+**商耀珍**（姓氏确定；名字汉字"耀珍"系据拼音及辈分常用字推测，待家族确认）&mdash; Lijie的外祖母。1921年9月11日生于青岛，比未来丈夫[李忠初](/family/zhongchu-li/)早三天出生于同一城市。育有三子女，包括[Lijie的母亲李迅](/family/xun-li/)（1956年生）。1982年丈夫辞世后，**独自寡居三十年**，亲眼见证外孙女Lijie从婴儿长大成人。**2013年1月10日辞世，享年91岁。**
+
+她是Lijie这一脉中唯一活着见到外孙女长大、并见到Chuck的祖辈。
+
+### 耀字辈
+
+**"耀"字可能是商氏字辈诗中的一个字** &mdash; 耀珍的兄弟[商耀祥](/family/yaoxiang-shang/)（1911年生于平度市）、[商耀福](/family/yaofu-shang/)（1925&ndash;2014）及姐妹[商耀莉](/family/yaoli-shang/)名字中均带"耀"字。这通常意味着同辈共用一字。若商家保存有字辈口诀或家谱，请尽量记录。
+
+> *注：除姓氏外，人名汉字均为推测，待家族确认。*

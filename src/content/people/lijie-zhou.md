@@ -40,3 +40,24 @@ Ling and Xun married **18 September 1982 in [Qingdao](/places/qingdao/)**. Lijie
 - **Photographs and oral history** &mdash; the Zhou side's analog to Robert Earl's memoirs and Aunt Maggie's photo deck.
 
 > *Structured record: [Dale Eesley / FamilySearch &mdash; Lijie Zhou (GMLV-Q8P)](https://www.familysearch.org/tree/person/details/GMLV-Q8P).*
+
+---
+
+## 中文
+
+**周丽洁**（音译；姓氏确定，名字汉字待家族确认），1983年9月30日生于中国山东省青岛市。Chuck Eesley之妻，斯坦福大学家族档案的另一半建立者。她于2018年陪同丈夫前往英国牛津公共图书馆，参与了将Eesley家族世系追溯到18世纪初期Hanwell教区Joseph Eesley和Frances Ayris夫妇的研究工作。
+
+### 她的家族
+
+更新后的家谱（GEDCOM）现已开启周氏一脉的记录：
+
+- **父亲：[周凌](/family/ling-zhou/)**（1955年12月1日生于青岛）。父之父母：
+  - **[周兆祥](/family/zhaoxiang-zhou/)**（1930年8月1日生于胶州市 &mdash; 周氏远祖之地 &mdash; 2022年12月9日卒于青岛）。
+  - **[孙运哲](/family/yunzhe-sun/)**（2023年12月卒于青岛）。
+- **母亲：[李迅](/family/xun-li/)**（1956年6月20日生于青岛）。母之父母：
+  - **[李忠初](/family/zhongchu-li/)**（1921年9月15日 &ndash; 1982年11月1日，青岛）。1982年9月18日女儿李迅与周凌成婚后六周辞世；未及与外孙女Lijie相见。
+  - **[商耀珍](/family/yaozhen-shang/)**（1921年9月11日 &ndash; 2013年1月10日）。守寡三十年，亲眼见证外孙女Lijie长大成人。
+
+周凌和李迅于**1982年9月18日在[青岛](/places/qingdao/)成婚**。Lijie次年出生。这一支周氏现代青岛生活背后的远祖之地是[**胶州市**](/places/qingdao/) &mdash; 周兆祥家族的起源地。
+
+> *注：除姓氏（周、李、孙、商等）外，本页所用人名汉字均系据拼音和家族常见汉字推测，待Lijie及其家人确认或修正。*
