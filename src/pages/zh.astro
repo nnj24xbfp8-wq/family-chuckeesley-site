@@ -1,0 +1,126 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const allPeople = await getCollection('people');
+const zhouPeople = allPeople.filter((p) => p.data.line === 'zhou');
+
+// Group by relationship to Lijie for the Chinese-language listing.
+// We do this by id since names are mixed-language.
+const groups: Record<string, string[]> = {
+  '丽洁本人': ['lijie-zhou'],
+  '父母 — Lijie\'s parents': ['ling-zhou', 'xun-li'],
+  '祖父母与外祖父母 — grandparents': ['zhaoxiang-zhou', 'yunzhe-sun', 'zhongchu-li', 'yaozhen-shang'],
+  '叔伯姑舅 — aunts and uncles': ['quan-zhou', 'ai-qin-zhou', 'ai-hua-zhou', 'mengling-li', 'bo-li'],
+  '曾祖父母 — great-grandparents': ['maoli-zhou', 'huancai-pang', 'fengting-li', 'rongjing-qiu', 'dechen-shang', 'chune-tan'],
+  '高祖父母 — great-great-grandparents': ['huiting-zhou', 'leng-zhou'],
+  '叔祖、姨祖、舅祖 — great-aunts and great-uncles': [
+    'zhaozheng-zhou', 'xiuzhen-zhou',
+    'yaoxiang-shang', 'yaofu-shang', 'yaoli-shang',
+    'yunhua-li', 'chengwu-li', 'yunying-li',
+  ],
+};
+
+const peopleById = new Map(allPeople.map((p) => [p.id, p]));
+---
+<BaseLayout title="周家档案 — Zhou Family Archive" description="The Zhou (Qingdao) side of the Eesley·Wildermuth·Zhou family archive — navigable in Chinese.">
+  <section class="prose max-w-prose">
+    <h1 class="text-4xl font-serif mb-2">Eesley · Wildermuth · 周家</h1>
+    <p class="text-ink/70 italic mt-0">
+      青岛周氏一脉 &mdash; 中文导览。
+    </p>
+
+    <p>
+      欢迎进入家族档案的中文部分。本档案由 <strong><a href="/family/charles-eric-eesley/">Chuck Eesley</a></strong>（中文名：陈澈， <em>暂用音译</em>）和 <strong><a href="/family/lijie-zhou/">Lijie 周丽洁</a></strong>（音译，姓名汉字待家族确认）共同建立，记录Chuck的Eesley、Wildermuth两支美国家族，以及Lijie的青岛周氏一支的家族历史。
+    </p>
+
+    <p>
+      Chuck的祖父 <strong><a href="/family/robert-earl-wildermuth/">Robert Earl Wildermuth</a></strong> &mdash; 二战B-24轰炸机领航员、1948年Stanford大学生物学学士、退役后转向家族谱研究 &mdash; 在他的回忆录末页对"未来的家谱研究者"留下寄语。本档案即为后辈对他的回应。
+    </p>
+
+    <p>
+      美国Eesley一支的关系骨架来自Chuck的姑奶奶 <strong>Mary Eesley Bean</strong> 1985年所编的家族史；现代家谱由 <strong>Dale Eesley</strong> 在 <strong>FamilySearch</strong> 平台上长期维护，目前已收录超过<strong>三千四百位</strong>家族成员。结构化家谱可从档案的<a href="/docs/dale-eesley-familysearch-tree/">GEDCOM下载页</a>获取。
+    </p>
+
+    <h2 class="text-2xl mt-8">青岛周氏一脉</h2>
+    <p>
+      Lijie的家族世系经更新后的家谱（2026年6月）现已正式记入本档案，可按以下层级浏览：
+    </p>
+  </section>
+
+  <section class="mt-8 space-y-8">
+    {Object.entries(groups).map(([groupLabel, ids]) => (
+      <div>
+        <h3 class="text-xl font-serif mb-3 border-b border-rule pb-1">{groupLabel}</h3>
+        <ul class="space-y-2">
+          {ids.map((id) => {
+            const p = peopleById.get(id);
+            if (!p) return null;
+            const fullName = p.data.name;
+            // Extract Chinese characters from the name if present (the part after the space)
+            const chineseMatch = fullName.match(/([一-鿿].*)$/);
+            const chinese = chineseMatch ? chineseMatch[1].trim() : null;
+            const pinyin = fullName.replace(/\s+[一-鿿].*$/, '').trim();
+            return (
+              <li>
+                <a href={`/family/${p.id}/`} class="text-lg">
+                  {chinese && <span class="font-serif">{chinese}</span>}
+                  {chinese && <span class="text-ink/50 text-sm ml-2">&middot; {pinyin}</span>}
+                  {!chinese && <span>{fullName}</span>}
+                </a>
+                {p.data.summary && (
+                  <div class="text-sm text-ink/60 mt-1">{p.data.summary.split('.')[0]}.</div>
+                )}
+              </li>
+            );
+          })}
+        </ul>
+      </div>
+    ))}
+  </section>
+
+  <section class="prose max-w-prose mt-12">
+    <h2 class="text-2xl">地点 — Places</h2>
+    <ul class="not-prose space-y-2">
+      <li><a href="/places/qingdao/" class="text-lg"><span class="font-serif">青岛</span> <span class="text-ink/50 text-sm ml-2">&middot; Qingdao</span></a> &mdash; 周氏与李氏、商氏一脉的现代家乡。</li>
+      <li><a href="/family/zhaoxiang-zhou/" class="text-lg"><span class="font-serif">胶州市</span> <span class="text-ink/50 text-sm ml-2">&middot; Jiaozhou Shi</span></a> &mdash; 周兆祥（1930年生于此）所代表的周氏远祖之地。</li>
+    </ul>
+
+    <h2 class="text-2xl mt-8">关于姓名汉字</h2>
+    <p>
+      本档案中周家、李家、商家的姓氏均已确认。**人名（即姓名中除姓氏外的部分）的汉字**在Lijie家族确认前为编者音译推测。家族确认者会标注"姓名汉字已由家族确认"。
+    </p>
+    <p>
+      <strong>已由家族确认的姓名：</strong>
+    </p>
+    <ul>
+      <li><a href="/family/yunzhe-sun/">孙云哲</a> &mdash; Lijie的祖母</li>
+      <li><a href="/family/ling-zhou/">周玲</a> &mdash; Lijie的父亲</li>
+      <li><a href="/family/quan-zhou/">周全</a> &mdash; Lijie的叔父</li>
+    </ul>
+
+    <h2 class="text-2xl mt-8">关于字辈诗</h2>
+    <p>
+      家谱中显示，周氏一支祖父辈似乎按 <strong>"兆"</strong>（或"肇"）字命名 &mdash; Lijie的祖父<a href="/family/zhaoxiang-zhou/">周兆祥</a>与其弟<a href="/family/zhaozheng-zhou/">周肇正</a>同辈共用此字。商氏一支外祖父辈似乎按 <strong>"耀"</strong>字命名 &mdash; <a href="/family/yaozhen-shang/">商耀珍</a>（Lijie外祖母）与兄弟姊妹<a href="/family/yaoxiang-shang/">商耀祥</a>、<a href="/family/yaofu-shang/">商耀福</a>、<a href="/family/yaoli-shang/">商耀莉</a>同辈共用"耀"字。
+    </p>
+    <p>
+      若家中保存有<strong>家谱</strong>或<strong>字辈口诀</strong>，敬请告知。这是中国家族最深的世系记录之一。
+    </p>
+
+    <h2 class="text-2xl mt-8">本档案的其余部分</h2>
+    <p>
+      Chuck美国家族（Eesley与Wildermuth两支）的部分以英文为主，可由这里进入：
+    </p>
+    <ul class="not-prose space-y-2">
+      <li><a href="/">英文首页（English home）</a></li>
+      <li><a href="/family/">全部家族成员（All family members）</a></li>
+      <li><a href="/docs/">文献档案（Long-form documents & memoirs）</a></li>
+      <li><a href="/places/">地点（All places, including Germany and England）</a></li>
+      <li><a href="/archive/">影像与文物档案（Photo & letter archive）</a></li>
+    </ul>
+
+    <p class="text-ink/60 text-sm mt-10">
+      <em>本中文导览页由Chuck与Lijie建立。任何修订、补充、姓名汉字确认，请直接联系Chuck。</em>
+    </p>
+  </section>
+</BaseLayout>
