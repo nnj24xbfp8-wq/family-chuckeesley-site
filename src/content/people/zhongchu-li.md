@@ -9,8 +9,11 @@ death:
   date: "1982-11-01"
 spouses:
   - yaozhen-shang
+portrait: ../../assets/family/originals/IMG_0824.jpeg
 summary: "Lijie's maternal grandfather. Born 15 September 1921 in Qingdao — the same year and the same city as his future wife Yaozhen Shang. Died 1 November 1982, age 61, just six weeks after the marriage of his daughter Xun Li to Ling Zhou — the marriage from which Lijie would come a year later."
 ---
+
+The portrait above &mdash; the studio photograph showing him in a dark high-collared Chinese-style jacket, looking directly at the camera with the serious composure of mid-century Chinese formal portraiture &mdash; is the **only image of Zhongchu Li in this archive**, and the only way his face enters the visual record of the family at all. He died before Lijie was born, so no one in the next generation knew him in person. The print is aged, edges spotted with mottling typical of pre-1980 Chinese photographic paper. It is among the most precious single objects on the Zhou side.
 
 Li Zhongchu and his future wife [Yaozhen Shang](/family/yaozhen-shang/) were both born in Qingdao in **1921** — just three days apart, in fact (he on September 15, she on September 11). They grew up under what had been the city's late-German and Japanese-occupation periods, came of age through the Republican and Civil War years, and lived their adult lives in the People's Republic. They had three children, including [Lijie's mother Xun Li](/family/xun-li/) (b. 1956).
 

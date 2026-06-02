@@ -24,4 +24,6 @@ She is the mother of [Lijie's father Ling Zhou](/family/ling-zhou/) and his thre
 
 她的生卒年月及娘家事迹尚待补全。
 
+本档案中存有的最早一张孙云哲的照片，是1986–87年间一张多代合影 &mdash; [孙云哲与外亲家商耀珍（Lijie的外祖母）以及幼时Lijie同坐桌前](/archive/lijie-with-two-grandmothers-c1986/)，正是中国家庭典型的团圆饭三代同堂照。
+
 > *姓名汉字已由家族确认：孙云哲。*

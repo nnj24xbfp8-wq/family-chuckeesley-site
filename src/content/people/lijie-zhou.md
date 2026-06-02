@@ -8,6 +8,7 @@ parents:
   - xun-li
 spouses:
   - charles-eric-eesley
+portrait: ../../assets/family/originals/IMG_4618.jpeg
 living: true
 summary: "Wife of Chuck Eesley. Born in Qingdao, Shandong, China. Came to the United States and to Stanford, where she and Chuck made their life. Co-traveler with Chuck on the 2018 England research trip that produced the Oxford library notes — the document set that pushed the Eesley line back another generation."
 ---

@@ -16,6 +16,8 @@ Shang Yaozhen was born in Qingdao on **11 September 1921**, three days before he
 
 She is the one grandparent on Lijie's side who lived to meet her granddaughter — and Chuck.
 
+The earliest photograph of her in this archive is the c. 1986–87 family-table portrait of [her with Lijie as a small child, alongside Lijie's paternal grandmother Yunzhe Sun](/archive/lijie-with-two-grandmothers-c1986/) &mdash; the kind of three-generation New Year photograph that Chinese families take and keep.
+
 > *Structured record: [FamilySearch &mdash; Yaozhen Shang (GMGD-CVV)](https://www.familysearch.org/tree/person/details/GMGD-CVV).*
 
 ---
