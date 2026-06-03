@@ -7,17 +7,17 @@ people:
   - wilbur-eesley
   - margaret-mcmaster-eesley
 dateRange:
-  start: "1970"
+  start: "1969"
   end: "1971"
-summary: "Charles McMaster 'Charlie' Eesley's letters home from his U.S. Army tour in Vietnam, 1970–71. A curated selection is published in full; the remainder are catalogued here by date and recipient with their bodies withheld at the family's request."
+summary: "Charles McMaster 'Charlie' Eesley's letters home from his U.S. Army tour in Vietnam, 1969–1971. A curated selection is published in full; the remainder are catalogued here by date and recipient with their bodies withheld at the family's request."
 source: "Original letters held in the family archive (Chuck Eesley)."
 ---
 
 ## What this collection is
 
-In 1970 [Charlie Eesley](/family/charles-eesley/) &mdash; twenty-three, with a Marietta College economics degree and a U.S. Army uniform on him &mdash; shipped to Vietnam. He wrote home to his parents in Marietta, Ohio &mdash; [Will](/family/wilbur-eesley/) the architect, [Peggy](/family/margaret-mcmaster-eesley/) the mother &mdash; over the year that followed. The letters survived. They are the primary record of the year he spent in [Saigon](/places/saigon-1970/) in his own voice, written as he was living it.
+In 1969 [Charlie Eesley](/family/charles-eesley/) &mdash; twenty-two, with a Marietta College economics degree and a U.S. Army uniform on him &mdash; shipped to Vietnam. He wrote home to his parents in Marietta, Ohio &mdash; [Will](/family/wilbur-eesley/) the architect, [Peggy](/family/margaret-mcmaster-eesley/) the mother &mdash; over the two years that followed, rotating back in 1971. The letters survived. They are the primary record of the two years he spent in [Saigon](/places/saigon-1970/) in his own voice, written as he was living them.
 
-His son's [eulogy](/docs/eulogy-charles-mcmaster-eesley/) for him in 2015 noted that "most long conversations with dad would wind their way eventually back to what he experienced in Vietnam from 70&ndash;71." The letters are the prior layer underneath those conversations &mdash; what he was telling his parents in real time, before the year became the thing he had carried for four and a half decades.
+His son's [eulogy](/docs/eulogy-charles-mcmaster-eesley/) for him in 2015 noted that "most long conversations with dad would wind their way eventually back to what he experienced in Vietnam from 69&ndash;71." The letters are the prior layer underneath those conversations &mdash; what he was telling his parents in real time, before the years became the thing he had carried for four and a half decades.
 
 ## The curation principle
 
@@ -41,11 +41,11 @@ If you are a family member who has additional letters &mdash; or who knew Charli
 
 ## The letters
 
-*(This section is held open as letters are catalogued. When letters are added, they will appear below grouped by date.)*
+*The list of individual letter pages renders automatically below this body, sorted by postmark date. Each entry links to its own page — the published letters carry the transcription and scans; the withheld letters carry the metadata only and a "Withheld at the family's request" panel where the body would be.*
 
-## On reading him at twenty-three
+## On reading him at twenty-two
 
-Charlie was twenty-three when he arrived in Saigon and twenty-four when he rotated out. He had not yet met Terrie, not yet had Chuck, not yet been a stockbroker, not yet sat on the church board, not yet flipped the tractor over on himself on Highland Ridge. The voice in these letters is the voice of a young man whose adult life was, in important ways, about to begin and was, in other important ways, being formed by the year he was living through. He is recognizably himself &mdash; the dry-to-dark humor, the sense for absurdity, the moral clarity about what was and was not worth getting court-martialed for &mdash; and he is also not yet the man his son would later eulogize. Both layers matter.
+Charlie was twenty-two when he arrived in Saigon and twenty-four when he rotated out. He had not yet met Terrie, not yet had Chuck, not yet been a stockbroker, not yet sat on the church board, not yet flipped the tractor over on himself on Highland Ridge. The voice in these letters is the voice of a young man whose adult life was, in important ways, about to begin and was, in other important ways, being formed by the two years he was living through. He is recognizably himself &mdash; the dry-to-dark humor, the sense for absurdity, the moral clarity about what was and was not worth getting court-martialed for &mdash; and he is also not yet the man his son would later eulogize. Both layers matter.
 
 ## Further reading on the war
 

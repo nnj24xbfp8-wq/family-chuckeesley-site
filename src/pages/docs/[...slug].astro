@@ -22,10 +22,36 @@ const recipient = doc.data.recipient
 const people = await resolvePeople(doc.data.people);
 const { Content } = await render(doc);
 const isPrivate = doc.data.private === true;
+
+// partOf — if this doc anchors to a parent collection, resolve the parent for a backlink.
+const allDocs = await getCollection('documents');
+const parent = doc.data.partOf
+  ? allDocs.find((d) => d.id === doc.data.partOf.id)
+  : undefined;
+
+// Child letters — if this doc IS a letter-collection, gather every doc with partOf == this.id.
+// Sorted by postmarkDate (falling back to dateRange.start) ascending.
+const isCollection = doc.data.type === 'letter-collection';
+const childLetters = isCollection
+  ? allDocs
+      .filter((d) => d.data.partOf?.id === doc.id)
+      .sort((a, b) => {
+        const da = a.data.postmarkDate ?? a.data.dateRange?.start ?? '';
+        const db = b.data.postmarkDate ?? b.data.dateRange?.start ?? '';
+        return da.localeCompare(db);
+      })
+  : [];
 ---
 <BaseLayout title={doc.data.title} description={doc.data.summary}>
   <article>
     <header class="mb-8 pb-4 border-b border-rule">
+      {parent && (
+        <p class="text-xs mb-1">
+          <a href={`/docs/${parent.id}/`} class="text-ink/60 hover:text-ink">
+            &larr; Part of <em>{parent.data.title}</em>
+          </a>
+        </p>
+      )}
       <p class="uppercase tracking-wider text-ink/50 text-xs">{doc.data.type}</p>
       <h1 class="text-4xl font-serif mt-1 mb-2">{doc.data.title}</h1>
       <p class="text-ink/70 italic">{doc.data.summary}</p>
@@ -72,6 +98,27 @@ const isPrivate = doc.data.private === true;
             </figure>
           ))}
         </div>
+      </section>
+    )}
+
+    {isCollection && childLetters.length > 0 && (
+      <section class="mt-12 pt-6 border-t border-rule">
+        <h2 class="text-xl font-serif mb-3">Letters in this collection</h2>
+        <ul class="text-sm space-y-1">
+          {childLetters.map((d) => {
+            const date = d.data.postmarkDate ?? d.data.dateRange?.start ?? '';
+            const isPrivateChild = d.data.private === true;
+            return (
+              <li>
+                <a href={`/docs/${d.id}/`}>{d.data.title}</a>
+                {date && <span class="text-ink/50"> &middot; {date}</span>}
+                {isPrivateChild && (
+                  <span class="text-sepia/80 uppercase tracking-wider text-xs ml-2">[withheld]</span>
+                )}
+              </li>
+            );
+          })}
+        </ul>
       </section>
     )}
 

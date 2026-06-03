@@ -14,7 +14,7 @@ The Vietnam letters scaffold is in place. To add an individual letter:
    - `recipient` — `wilbur-eesley`, `margaret-mcmaster-eesley`, or whoever it was sent to.
    - `partOf: letters-from-vietnam` — anchors the letter to the parent collection.
    - `locationFrom` / `locationTo` — `"Saigon, Republic of Vietnam"` and `"Marietta, Ohio"` cover most.
-   - `postmarkDate` — the postmark, ISO `YYYY-MM-DD` when known.
+   - `postmarkDate` — the postmark, ISO `YYYY-MM-DD` when known. **This is the canonical date field for letters; do not also fill `dateRange`.** The renderer falls back to `dateRange.start` only on documents that aren't letters.
    - `private` — `false` for the curated public 5–7; `true` for everything else catalogued.
    - `scans` — path(s) to scan files under `src/assets/family/originals/` (envelope, page 1, page 2, …). Only on published letters.
 

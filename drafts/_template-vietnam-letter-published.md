@@ -11,9 +11,8 @@ people:
 partOf: letters-from-vietnam
 locationFrom: "Saigon, Republic of Vietnam"
 locationTo: "Marietta, Ohio"
-postmarkDate: "1970-MM-DD"
-dateRange:
-  start: "1970-MM-DD"
+postmarkDate: "1970-MM-DD"        # canonical date field for letters — ISO YYYY-MM-DD when known
+# (Do not also fill `dateRange` for letters — postmarkDate is the single source of truth.)
 summary: "One-line context — what the letter is about, in his voice."
 source: "Original held in family archive — IMG_XXXX.jpeg / IMG_XXXX.jpeg (envelope, pages 1–2)."
 private: false                            # PUBLISHED: body renders
