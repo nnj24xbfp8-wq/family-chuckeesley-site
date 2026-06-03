@@ -48,11 +48,24 @@ const documents = defineCollection({
         'register',
         'ancestor-sketch',
         'letter',
+        'letter-collection',                       // a curated set of letters w/ introduction
         'eulogy',
         'tree-export',
       ]),
       author: reference('people').optional(),
       people: z.array(reference('people')).default([]),
+      // Letter-specific (optional on all documents; populated only on type === 'letter').
+      recipient: reference('people').optional(),
+      locationFrom: z.string().optional(),          // place written from (e.g. "Saigon, Vietnam")
+      locationTo: z.string().optional(),            // place mailed to (e.g. "Marietta, Ohio")
+      postmarkDate: z.string().optional(),          // exact postmark when known
+      // Collection membership — letters that belong to a curated parent document
+      // (e.g. all Vietnam letters reference letters-from-vietnam).
+      partOf: reference('documents').optional(),
+      // Privacy gate. When true the body markdown is NOT rendered publicly;
+      // the document's metadata (title, date, recipient) still renders so the
+      // archive remains complete, but the intimate content is withheld.
+      private: z.boolean().default(false),
       dateRange: z
         .object({ start: z.string(), end: z.string().optional() })
         .optional(),

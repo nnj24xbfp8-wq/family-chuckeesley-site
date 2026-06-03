@@ -16,8 +16,12 @@ const { doc } = Astro.props;
 const author = doc.data.author
   ? (await resolvePeople([doc.data.author]))[0]
   : undefined;
+const recipient = doc.data.recipient
+  ? (await resolvePeople([doc.data.recipient]))[0]
+  : undefined;
 const people = await resolvePeople(doc.data.people);
 const { Content } = await render(doc);
+const isPrivate = doc.data.private === true;
 ---
 <BaseLayout title={doc.data.title} description={doc.data.summary}>
   <article>
@@ -25,17 +29,40 @@ const { Content } = await render(doc);
       <p class="uppercase tracking-wider text-ink/50 text-xs">{doc.data.type}</p>
       <h1 class="text-4xl font-serif mt-1 mb-2">{doc.data.title}</h1>
       <p class="text-ink/70 italic">{doc.data.summary}</p>
-      <div class="text-sm text-ink/60 mt-3">
-        {author && <>by <a href={`/family/${author.id}/`}>{author.data.name}</a></>}
-        {doc.data.dateRange?.start && <> &middot; {doc.data.dateRange.start}{doc.data.dateRange.end ? `–${doc.data.dateRange.end}` : ''}</>}
+      <div class="text-sm text-ink/60 mt-3 space-y-0.5">
+        <div>
+          {author && <>by <a href={`/family/${author.id}/`}>{author.data.name}</a></>}
+          {recipient && <> &middot; to <a href={`/family/${recipient.id}/`}>{recipient.data.name}</a></>}
+          {doc.data.postmarkDate && <> &middot; postmarked {doc.data.postmarkDate}</>}
+          {!doc.data.postmarkDate && doc.data.dateRange?.start && <> &middot; {doc.data.dateRange.start}{doc.data.dateRange.end ? `–${doc.data.dateRange.end}` : ''}</>}
+        </div>
+        {(doc.data.locationFrom || doc.data.locationTo) && (
+          <div class="text-ink/50">
+            {doc.data.locationFrom && <>from {doc.data.locationFrom}</>}
+            {doc.data.locationFrom && doc.data.locationTo && <> &rarr; </>}
+            {doc.data.locationTo && <>to {doc.data.locationTo}</>}
+          </div>
+        )}
       </div>
     </header>
 
-    <div class="prose prose-stone max-w-prose">
-      <Content />
-    </div>
+    {isPrivate ? (
+      <div class="mb-8 border border-sepia/40 bg-sepia/5 p-5 not-prose">
+        <p class="uppercase tracking-wider text-sepia text-xs mb-1">Withheld at the family's request</p>
+        <p class="text-ink/80 text-sm">
+          The body of this letter is held in the private family archive and is not published here.
+          The metadata above &mdash; sender, recipient, date, and place &mdash; is published so the
+          archive's index remains complete. To inquire about the full text, contact the family
+          directly.
+        </p>
+      </div>
+    ) : (
+      <div class="prose prose-stone max-w-prose">
+        <Content />
+      </div>
+    )}
 
-    {doc.data.scans.length > 0 && (
+    {!isPrivate && doc.data.scans.length > 0 && (
       <section class="mt-12 pt-6 border-t border-rule">
         <h2 class="text-xl font-serif mb-4">Scans</h2>
         <div class="space-y-6">

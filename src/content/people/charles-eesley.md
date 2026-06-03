@@ -23,6 +23,14 @@ For most of Chuck's childhood the family lived **on Highland Ridge Road, in a ho
 
 He was a longtime, active member of First Congregational United Church of Christ in Marietta, where he served on boards and helped manage the endowment. He read the Civil War. He read Vietnam. He read the financial pages. He believed strongly in the responsibility of voting. He remarried, to Diana Hoffer, in 1999. He died November 26, 2015 at sixty-eight, in Marietta.
 
+## Vietnam, 1969&ndash;71
+
+The Army tour is the year his life turned on. He shipped to **[Saigon](/places/saigon-1970/)** in 1970, twenty-three years old, and rotated out in 1971. He never went back. He never wanted to. His son's [eulogy](/docs/eulogy-charles-mcmaster-eesley/) names it directly: *"most long conversations with dad would wind their way eventually back to what he experienced in Vietnam from 70&ndash;71."*
+
+The **letters he wrote home** to Will and Peggy from Saigon survived the trip back to Marietta. They are the period record on his side of that year &mdash; what he was telling his parents in real time, before any of it had become the thing he carried for the rest of his life. Those letters are catalogued in this archive as the **[Letters from Vietnam](/docs/letters-from-vietnam/)** collection: a curated set of five-to-seven letters are published in full; the rest are catalogued by metadata only, with the body held in the private family archive. The collection page states the curation principle and points to the individual letters as they are added.
+
+A few of the things this layer carries that the rest of the page does not: the **stereo and record player** that was the first thing he bought when he got back, the Beatles and the Rolling Stones as the music of the year of his life he had been living through, the "**smart-ass comments that probably nearly got him court-marshaled**" he kept making across the rest of his life, the Skype call decades later when Chuck was visiting Saigon and Charlie, on the other end, declined to come.
+
 ## The eulogy
 
 The fullest portrait of him by far is the eulogy Chuck delivered at the memorial service. It is the most personal document in this archive in Chuck's own voice and stands in the documents collection as itself a piece of the family record:

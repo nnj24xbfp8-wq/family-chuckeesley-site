@@ -15,19 +15,19 @@ relatedPeople:
   - lijie-zhou
 status: photographed
 pairs:
-  - subject: "The same temple gate, three frames — Ling & Xun 1982, Ling & Xun 2019, Chuck & Lijie 2019"
-    caption: "The same gate, the same pose, across one wedding and the next generation."
+  - subject: "The same temple gate, three frames — Ling & Xun 1982, Ling & Xun 2019, Chuck & Lijie 2019<br /><span class='font-sans not-italic'>同一座山门，三帧合影 — 周玲与李恂 1982、周玲与李恂 2019、Chuck与Lijie 2019</span>"
+    caption: "The same gate, the same pose, across one wedding and the next generation.<br /><br /><strong>中文：</strong>同一座山门，同一姿态，跨越一场婚礼与下一代。"
     thenYear: "1982"
     thenImage: ../../assets/family/originals/IMG_2529_cropped.jpeg
-    thenCaption: "Ling Zhou and Xun Li on their honeymoon at Lingyin Temple, just after their 18 September 1982 wedding in Qingdao. Black-and-white print; the temple's main gate signage behind them. Cropped from the original scan to roughly match the framing of the two 2019 frames."
+    thenCaption: "Ling Zhou and Xun Li on their honeymoon at Lingyin Temple, just after their 18 September 1982 wedding in Qingdao. Black-and-white print; the temple signage behind them. Cropped from the original scan to roughly match the framing of the two 2019 frames.<br /><br /><strong>中文：</strong>周玲与李恂蜜月时摄于灵隐寺山门前，时为1982年9月18日青岛婚礼之后。黑白照片，身后可见寺院牌匾。原扫描件已裁切，以与2019年两帧合影构图相近。"
     thenPhotographer: ling-zhou
     nowYear: "2019"
     nowImage: ../../assets/family/originals/IMG_3615.jpeg
-    nowCaption: "Ling and Xun at the same gate, **29 May 2019** &mdash; 37 years after the honeymoon frame. Color photograph; the same temple signage just visible at left."
+    nowCaption: "Ling and Xun at the same gate, <strong>29 May 2019</strong> &mdash; 37 years after the honeymoon frame. Color photograph; the same temple signage just visible at left.<br /><br /><strong>中文：</strong>周玲与李恂于同一座山门前，<strong>2019年5月29日</strong> &mdash; 距蜜月合影37年后。彩色照片，左侧依稀可见同样的寺院牌匾。"
     nowPhotographer: charles-eric-eesley
     echoYear: "2019"
     echoImage: ../../assets/family/originals/IMG_1807.jpeg
-    echoCaption: "Chuck and Lijie at the same gate, **29 May 2019** &mdash; same visit as the frame to the left, the pose echoed by the daughter and her husband one generation on."
+    echoCaption: "Chuck and Lijie at the same gate, <strong>29 May 2019</strong> &mdash; same visit as the frame to the left, the pose echoed by the daughter and her husband one generation on.<br /><br /><strong>中文：</strong>Chuck与Lijie于同一座山门前，<strong>2019年5月29日</strong> &mdash; 与左侧合影摄于同次探访；下一代以女儿与女婿之姿重摄上一代之合影。"
 ---
 
 **Lingyin Temple (灵隐寺)** &mdash; "Temple of the Soul's Retreat" &mdash; is one of the oldest and largest Chan Buddhist monasteries in China, founded in **AD 328** in the western hills of Hangzhou. It is among the most-visited Buddhist sites in the country and the architectural anchor of the West Lake / Feilai Feng cultural landscape.
