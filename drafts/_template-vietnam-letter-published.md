@@ -4,13 +4,16 @@
 title: "Letter to <recipient>, <date>"
 type: letter
 author: charles-eesley
-recipient: wilbur-eesley                 # or margaret-mcmaster-eesley etc.
+recipient: terrie-lee-eesley             # default — most letters are to Terrie.
+                                         # use wilbur-eesley or margaret-mcmaster-eesley for the smaller set to his parents.
 people:
   - charles-eesley
-  - wilbur-eesley
+  - terrie-lee-eesley
 partOf: letters-from-vietnam
 locationFrom: "Saigon, Republic of Vietnam"
-locationTo: "Marietta, Ohio"
+locationTo: "Marietta, Ohio"             # Terrie was at Marietta College for most of the tour;
+                                         # later letters may have gone to her at University of Maryland.
+                                         # Letters to Will/Peggy went to Marietta, Ohio.
 postmarkDate: "1970-MM-DD"        # canonical date field for letters — ISO YYYY-MM-DD when known
 # (Do not also fill `dateRange` for letters — postmarkDate is the single source of truth.)
 summary: "One-line context — what the letter is about, in his voice."

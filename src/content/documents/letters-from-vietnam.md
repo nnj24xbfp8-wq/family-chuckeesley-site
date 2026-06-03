@@ -4,24 +4,27 @@ type: letter-collection
 author: charles-eesley
 people:
   - charles-eesley
+  - terrie-lee-eesley
   - wilbur-eesley
   - margaret-mcmaster-eesley
 dateRange:
   start: "1969"
   end: "1971"
-summary: "Charles McMaster 'Charlie' Eesley's letters home from his U.S. Army tour in Vietnam, 1969–1971. A curated selection is published in full; the remainder are catalogued here by date and recipient with their bodies withheld at the family's request."
+summary: "Charles McMaster 'Charlie' Eesley's letters home from his U.S. Army tour in Vietnam, 1969–1971 — most of them to Terrie Lee Wildermuth, his then-girlfriend and the woman he would marry after the war. A curated selection is published in full; the remainder are catalogued here by date and recipient with their bodies withheld at the family's request."
 source: "Original letters held in the family archive (Chuck Eesley)."
 ---
 
 ## What this collection is
 
-In 1969 [Charlie Eesley](/family/charles-eesley/) &mdash; twenty-two, with a Marietta College economics degree and a U.S. Army uniform on him &mdash; shipped to Vietnam. He wrote home to his parents in Marietta, Ohio &mdash; [Will](/family/wilbur-eesley/) the architect, [Peggy](/family/margaret-mcmaster-eesley/) the mother &mdash; over the two years that followed, rotating back in 1971. The letters survived. They are the primary record of the two years he spent in [Saigon](/places/saigon-1970/) in his own voice, written as he was living them.
+In 1969 [Charlie Eesley](/family/charles-eesley/) &mdash; twenty-two, with a Marietta College economics degree and a U.S. Army uniform on him &mdash; shipped to Vietnam. **Most of the letters he wrote home over the next two years were to [Terrie Lee Wildermuth](/family/terrie-lee-eesley/)** &mdash; the woman who would become his wife and Chuck's mother. They had already met. He wrote her, almost the whole tour. A smaller set went to his parents in Marietta &mdash; [Will](/family/wilbur-eesley/) the architect and [Peggy](/family/margaret-mcmaster-eesley/) the mother. The letters survived. They are the primary record of the two years he spent in [Saigon](/places/saigon-1970/) in his own voice, written as he was living them.
 
-His son's [eulogy](/docs/eulogy-charles-mcmaster-eesley/) for him in 2015 noted that "most long conversations with dad would wind their way eventually back to what he experienced in Vietnam from 69&ndash;71." The letters are the prior layer underneath those conversations &mdash; what he was telling his parents in real time, before the years became the thing he had carried for four and a half decades.
+His son's [eulogy](/docs/eulogy-charles-mcmaster-eesley/) for him in 2015 noted that "most long conversations with dad would wind their way eventually back to what he experienced in Vietnam from 69&ndash;71." The letters are the prior layer underneath those conversations &mdash; what he was telling Terrie and his parents in real time, before the years became the thing he had carried for four and a half decades.
+
+The biographical detail the recipient list surfaces, almost as a side effect: **Charlie and Terrie were already together before he shipped.** The marriage in the 1970s that produced Chuck is the resolution of a courtship that had to survive a tour in Saigon first &mdash; and these letters are the record of how it did.
 
 ## The curation principle
 
-Charlie wrote home often. Some of what he wrote was the news of the week. Some of it was sharper. Some of it was the kind of thing a son writes only to his own parents, in a war, knowing that it might be the last letter. **Not all of it belongs on a public page.**
+Charlie wrote often. Some of what he wrote was the news of the week. Some of it was sharper. Some of it was the kind of thing a young man writes only to his girlfriend &mdash; or only to his own parents &mdash; in a war, knowing that it might be the last letter. **Not all of it belongs on a public page.**
 
 This archive treats the collection as follows:
 
@@ -45,7 +48,7 @@ If you are a family member who has additional letters &mdash; or who knew Charli
 
 ## On reading him at twenty-two
 
-Charlie was twenty-two when he arrived in Saigon and twenty-four when he rotated out. He had not yet met Terrie, not yet had Chuck, not yet been a stockbroker, not yet sat on the church board, not yet flipped the tractor over on himself on Highland Ridge. The voice in these letters is the voice of a young man whose adult life was, in important ways, about to begin and was, in other important ways, being formed by the two years he was living through. He is recognizably himself &mdash; the dry-to-dark humor, the sense for absurdity, the moral clarity about what was and was not worth getting court-martialed for &mdash; and he is also not yet the man his son would later eulogize. Both layers matter.
+Charlie was twenty-two when he arrived in Saigon and twenty-four when he rotated out. He had already met Terrie &mdash; most of these letters are to her &mdash; but he had not yet married her, not yet had Chuck, not yet been a stockbroker, not yet sat on the church board, not yet flipped the tractor over on himself on Highland Ridge. The voice in these letters is the voice of a young man whose adult life was, in important ways, about to begin and was, in other important ways, being formed by the two years he was living through. He is recognizably himself &mdash; the dry-to-dark humor, the sense for absurdity, the moral clarity about what was and was not worth getting court-martialed for &mdash; and he is also not yet the man his son would later eulogize. Both layers matter.
 
 ## Further reading on the war
 

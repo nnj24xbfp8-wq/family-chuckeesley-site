@@ -6,14 +6,14 @@ The Vietnam letters scaffold is in place. To add an individual letter:
    - `_template-vietnam-letter-published.md` — letter body and scans render publicly.
    - `_template-vietnam-letter-private.md` — only metadata renders; a "Withheld at the family's request" panel replaces the body.
 
-2. Copy the template to `src/content/documents/letters/<slug>.md`. Slug examples: `to-will-1970-07-04.md`, `to-peggy-1970-12-monsoons.md`. Keep it descriptive.
+2. Copy the template to `src/content/documents/letters/<slug>.md`. Slug examples: `to-terrie-1970-07-04.md`, `to-terrie-1970-12-monsoons.md`, `to-will-and-peggy-1970-thanksgiving.md`. Keep it descriptive.
 
 3. Fill in the frontmatter:
    - `title` — short title visitors will see. Convention: `"Letter to <recipient>, <date>"`.
    - `author` — `charles-eesley` always for this collection.
-   - `recipient` — `wilbur-eesley`, `margaret-mcmaster-eesley`, or whoever it was sent to.
+   - `recipient` — defaults to `terrie-lee-eesley` (most of the letters). Use `wilbur-eesley` or `margaret-mcmaster-eesley` for the smaller set to Charlie's parents.
    - `partOf: letters-from-vietnam` — anchors the letter to the parent collection.
-   - `locationFrom` / `locationTo` — `"Saigon, Republic of Vietnam"` and `"Marietta, Ohio"` cover most.
+   - `locationFrom` / `locationTo` — `"Saigon, Republic of Vietnam"` and `"Marietta, Ohio"` cover most. Terrie was at Marietta College for most of the tour; if a later letter went to her at University of Maryland, set `locationTo` accordingly.
    - `postmarkDate` — the postmark, ISO `YYYY-MM-DD` when known. **This is the canonical date field for letters; do not also fill `dateRange`.** The renderer falls back to `dateRange.start` only on documents that aren't letters.
    - `private` — `false` for the curated public 5–7; `true` for everything else catalogued.
    - `scans` — path(s) to scan files under `src/assets/family/originals/` (envelope, page 1, page 2, …). Only on published letters.

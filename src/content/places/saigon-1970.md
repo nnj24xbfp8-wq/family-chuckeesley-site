@@ -10,6 +10,7 @@ summary: "The city Charles McMaster 'Charlie' Eesley wrote home from during his 
 significance: "The Vietnam tour was the formative experience of Charlie's adult life. The eulogy describes him as 'broken by life and the legacy of his time in Vietnam' and yet, in Hemingway's phrase, 'strong in the broken places.' Most long conversations with his son returned, eventually, to what he had seen and done in Saigon. The city is named here as the place those letters were written from, the place those long conversations kept returning to, and the place he never wanted to revisit even when his son, decades later, was a stone's throw away."
 relatedPeople:
   - charles-eesley
+  - terrie-lee-eesley
   - charles-eric-eesley
 relatedDocuments:
   - letters-from-vietnam

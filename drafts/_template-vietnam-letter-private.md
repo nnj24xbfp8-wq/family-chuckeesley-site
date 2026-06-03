@@ -6,13 +6,14 @@
 title: "Letter to <recipient>, <date>"
 type: letter
 author: charles-eesley
-recipient: wilbur-eesley
+recipient: terrie-lee-eesley             # default — most letters are to Terrie.
+                                         # use wilbur-eesley or margaret-mcmaster-eesley for the smaller set to his parents.
 people:
   - charles-eesley
-  - wilbur-eesley
+  - terrie-lee-eesley
 partOf: letters-from-vietnam
 locationFrom: "Saigon, Republic of Vietnam"
-locationTo: "Marietta, Ohio"
+locationTo: "Marietta, Ohio"             # or University of Maryland if Terrie was there at the time
 postmarkDate: "1970-MM-DD"        # canonical date field for letters — ISO YYYY-MM-DD when known
 # (Do not also fill `dateRange` for letters — postmarkDate is the single source of truth.)
 summary: "One-line outward description that doesn't compromise the contents. Optional."
