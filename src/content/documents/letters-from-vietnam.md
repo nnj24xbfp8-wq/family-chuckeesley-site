@@ -50,6 +50,16 @@ If you are a family member who has additional letters &mdash; or who knew Charli
 
 Charlie was twenty-two when he arrived in Saigon and twenty-four when he rotated out. He had already met Terrie &mdash; most of these letters are to her &mdash; but he had not yet married her, not yet had Chuck, not yet been a stockbroker, not yet sat on the church board, not yet flipped the tractor over on himself on Highland Ridge. The voice in these letters is the voice of a young man whose adult life was, in important ways, about to begin and was, in other important ways, being formed by the two years he was living through. He is recognizably himself &mdash; the dry-to-dark humor, the sense for absurdity, the moral clarity about what was and was not worth getting court-martialed for &mdash; and he is also not yet the man his son would later eulogize. Both layers matter.
 
+## Other war-letter archives, for readers who came in through the door
+
+If you're here because you're interested in the **letters-home genre** itself &mdash; the soldier's correspondence as a primary source &mdash; the institutions and projects below are where the larger version of this archive lives. Charlie's letters are a single family's small contribution to a much larger documentary effort, and they are read best alongside it.
+
+- [**Dear America: Letters Home from Vietnam**](https://www.goodreads.com/book/show/570543) (Bernard Edelman, ed., for the New York Vietnam Veterans Memorial Commission, 1985 / repr. Norton 2002) &mdash; the closest literary sibling to what this page is doing. Two hundred and odd Vietnam letters, curated with editorial framing, organized by the soldier's arc through the tour. Basis for the [1987 HBO documentary of the same name](https://en.wikipedia.org/wiki/Dear_America:_Letters_Home_from_Vietnam) (Emmy winner; letters read by Robert De Niro, Robin Williams, Sean Penn, others). If the reader picks up one book after this page, it is probably this one.
+- [**The Virtual Vietnam Archive**](https://www.vietnam.ttu.edu/virtualarchive/) at Texas Tech University &mdash; the largest single online collection of Vietnam War material, founded by veterans in 1989; over seven million pages scanned, with a heavy personal component (letters home, photographs, oral histories). Charlie's letters are not in it; many like them are.
+- [**Veterans History Project**](https://www.loc.gov/programs/veterans-history-project/) at the Library of Congress &mdash; the federal collection of veterans' firsthand recollections from WWI forward. The [*Please Write Often: Wartime Correspondence*](https://www.loc.gov/collections/veterans-history-project-collection/serving-our-voices/creative-expressions-of-service/please-write-often-wartime-correspondence/) feature within it is the most direct institutional analog to this page. Vietnam-specific holdings (25,000+ collections) are surveyed in their [Vietnam War Veterans research guide](https://guides.loc.gov/vietnam-war-veterans).
+- [**Center for American War Letters**](https://www.chapman.edu/research/institutes-and-centers/cawl/index.aspx) at Chapman University &mdash; the umbrella archive for American war correspondence across every conflict, Revolutionary War to Iraq and Afghanistan, founded around historian Andrew Carroll's life-work donation; now over 240,000 letters. The framing institution for the entire letters-home genre in American history.
+- [**Vietnam Veterans Memorial Fund**](https://www.vvmf.org/) &mdash; the wall, and the searchable directory of the names on it.
+
 ## Further reading on the war
 
 The same list runs on his [person page](/family/charles-eesley/) and on the [Saigon place page](/places/saigon-1970/):
@@ -57,6 +67,5 @@ The same list runs on his [person page](/family/charles-eesley/) and on the [Sai
 - [*The Vietnam War*](https://www.pbs.org/kenburns/the-vietnam-war/) (Ken Burns &amp; Lynn Novick, 2017).
 - [*Dispatches*](https://www.goodreads.com/book/show/107772.Dispatches) by Michael Herr &mdash; the war as it sounded.
 - [*Matterhorn*](https://www.goodreads.com/book/show/7372894-matterhorn) by Karl Marlantes &mdash; the war as it felt.
-- [Vietnam Veterans Memorial Fund](https://www.vvmf.org/) &mdash; the names of those who didn't come home from Charlie's years.
 
 > *Companion document: [Eulogy for Charles McMaster Eesley](/docs/eulogy-charles-mcmaster-eesley/) (Chuck Eesley, 2015) &mdash; what the year became, told by his son.*
