@@ -20,11 +20,23 @@ He spent the war years and the founding years of the People's Republic as a youn
 
 The portrait at the head of this page &mdash; Zhou Zhaoxiang in a winter cap and plaid scarf, formal photograph &mdash; is the earliest surviving studio frame of him in the family's keeping.
 
+Two late-life photographs of Zhaoxiang are also in the archive, taken on what appears to be the same family visit to a community gathering room with a colorful folk-art mural behind:
+
+- [**With Ling Zhou and Xun Li (Lijie's parents)**](/archive/visit-with-zhaoxiang-zhou-and-family/) &mdash; Zhaoxiang seated between his son and daughter-in-law, Lijie and Chuck standing behind.
+- [**With Ai Hua Zhou and her husband**](/archive/visit-with-zhaoxiang-and-ai-hua-zhou/) &mdash; Zhaoxiang seated in front of his daughter and son-in-law, Lijie and Chuck again standing behind.
+
 He is the deepest documented Zhou ancestor in this archive's present scaffolding; further generations may follow as Lijie's family is able to add them.
 
 > *Structured record: [FamilySearch &mdash; Zhaoxiang Zhou (GM57-BKY)](https://www.familysearch.org/tree/person/details/GM57-BKY).*
 
 ---
+
+## 同次探访的两张晚年照
+
+本档案中收有周兆祥晚年同次探访的两张照片，皆摄于一带有彩色花卉民间艺术墙画的活动室：
+
+- [**与周玲、李恂（Lijie父母）合影**](/archive/visit-with-zhaoxiang-zhou-and-family/) &mdash; 周兆祥居中，左右为儿子与儿媳；后排立Lijie与Chuck。
+- [**与周爱华夫妇合影**](/archive/visit-with-zhaoxiang-and-ai-hua-zhou/) &mdash; 周兆祥前坐，女儿与女婿立后；同次探访中的另一构图。
 
 ## 中文
 

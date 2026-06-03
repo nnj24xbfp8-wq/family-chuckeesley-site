@@ -17,7 +17,9 @@ summary: "Lijie's father. Born 1 December 1955 in Qingdao, Shandong. Son of Zhao
 
 Details withheld &mdash; living. Father of [Lijie 周丽婕](/family/lijie-zhou/).
 
-The portrait at the head of this page shows Ling Zhou in a **People's Police-style service uniform** with red epaulets, standing beside a young Lijie (~10) in a red pinafore over a white turtleneck &mdash; an indoor flash photograph from the early 1990s, the years he was a working public-safety officer in Qingdao and his daughter was in primary school. It is, as of this writing, the only photograph in the archive of the two of them together.
+The portrait at the head of this page shows Ling Zhou in a **People's Police-style service uniform** with red epaulets, standing beside a young Lijie (~10) in a red pinafore over a white turtleneck &mdash; an indoor flash photograph from the early 1990s, the years he was a working public-safety officer in Qingdao and his daughter was in primary school. It is, as of this writing, the only photograph in the archive of the two of them together. Full artifact entry with provenance and bilingual context: [Ling Zhou with teenage Lijie, c. 1990s](/archive/ling-zhou-with-teen-lijie-1990s/).
+
+A later photograph of Ling Zhou is in the archive too: [a family visit with his father Zhaoxiang and his wife Xun Li](/archive/visit-with-zhaoxiang-zhou-and-family/), Ling seated in a dark leather jacket to the right of Zhaoxiang.
 
 He and Lijie's mother [Xun Li](/family/xun-li/) made the **honeymoon trip to Hangzhou** documented at [Lingyin Temple](/places/lingyin-temple-hangzhou/) in 1982, just after their 18 September wedding &mdash; the [then-and-now pair](/places/lingyin-temple-hangzhou/) on that page is theirs.
 
