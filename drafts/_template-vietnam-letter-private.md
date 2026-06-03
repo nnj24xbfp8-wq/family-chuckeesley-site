@@ -17,9 +17,12 @@ locationTo: "Marietta, Ohio"             # or University of Maryland if Terrie w
 postmarkDate: "1970-MM-DD"        # canonical date field for letters — ISO YYYY-MM-DD when known
 # (Do not also fill `dateRange` for letters — postmarkDate is the single source of truth.)
 summary: "One-line outward description that doesn't compromise the contents. Optional."
-source: "Original held in family archive — IMG_XXXX.jpeg (kept private)."
+source: "Original held in family archive — src/assets/family/originals/vietnam-letters/IMG_XXXX.jpeg (kept private)."
 private: true                             # WITHHELD: body and scans suppressed publicly
-# scans intentionally omitted — even if scans exist, do not list them here on private letters.
+# scans intentionally omitted — even if scan files live alongside other letters in
+# src/assets/family/originals/vietnam-letters/, do NOT list them here on private letters.
+# The doc template suppresses scans on private:true regardless, but omitting them
+# from the frontmatter is the explicit signal that the family means them held back.
 ---
 
 <!-- Even though this body won't render publicly, you can leave editorial notes here for

@@ -1,6 +1,11 @@
 # Vietnam letters — how to add a letter to the archive
 
-The Vietnam letters scaffold is in place. To add an individual letter:
+The Vietnam letters scaffold is in place. **Folder layout:**
+
+- Letter markdown docs live in `src/content/documents/letters/<slug>.md`. URLs render at `/docs/letters/<slug>/`.
+- Letter scans (envelope + pages) live in `src/assets/family/originals/vietnam-letters/`. Reference them from the doc frontmatter as `../../assets/family/originals/vietnam-letters/IMG_XXXX.jpeg`.
+
+To add an individual letter:
 
 1. Pick the template that matches the privacy choice for that letter:
    - `_template-vietnam-letter-published.md` — letter body and scans render publicly.
@@ -16,7 +21,7 @@ The Vietnam letters scaffold is in place. To add an individual letter:
    - `locationFrom` / `locationTo` — `"Saigon, Republic of Vietnam"` and `"Marietta, Ohio"` cover most. Terrie was at Marietta College for most of the tour; if a later letter went to her at University of Maryland, set `locationTo` accordingly.
    - `postmarkDate` — the postmark, ISO `YYYY-MM-DD` when known. **This is the canonical date field for letters; do not also fill `dateRange`.** The renderer falls back to `dateRange.start` only on documents that aren't letters.
    - `private` — `false` for the curated public 5–7; `true` for everything else catalogued.
-   - `scans` — path(s) to scan files under `src/assets/family/originals/` (envelope, page 1, page 2, …). Only on published letters.
+   - `scans` — path(s) to scan files under `src/assets/family/originals/vietnam-letters/` (envelope, page 1, page 2, …). Only on published letters.
 
 4. For published letters, transcribe the body below the frontmatter. Preserve his line breaks and idiosyncratic spelling. Use `[square brackets]` for editorial notes inline.
 
@@ -24,7 +29,7 @@ The Vietnam letters scaffold is in place. To add an individual letter:
 
 ## Scan ingestion checklist (before creating the doc file)
 
-1. Drop scans into `src/assets/family/originals/`. Keep the original filenames (`IMG_XXXX.jpeg`).
+1. Drop scans into `src/assets/family/originals/vietnam-letters/`. Keep the original filenames (`IMG_XXXX.jpeg`). Even for letters you intend to keep `private: true`, the scans live here — the doc template suppresses scans on the public page when private is true, but they're still part of the family record on disk.
 2. Note which IMG numbers belong to which letter (envelope front, page 1, page 2, …).
 3. Note the postmark date and recipient from the envelope.
 4. Decide whether the letter is in the public 5–7 or in the withheld set.

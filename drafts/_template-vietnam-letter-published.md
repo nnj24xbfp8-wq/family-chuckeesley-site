@@ -20,9 +20,10 @@ summary: "One-line context — what the letter is about, in his voice."
 source: "Original held in family archive — IMG_XXXX.jpeg / IMG_XXXX.jpeg (envelope, pages 1–2)."
 private: false                            # PUBLISHED: body renders
 scans:
-  - ../../assets/family/originals/IMG_XXXX.jpeg   # envelope front
-  - ../../assets/family/originals/IMG_YYYY.jpeg   # page 1
-  - ../../assets/family/originals/IMG_ZZZZ.jpeg   # page 2 (etc)
+  # Drop scans into src/assets/family/originals/vietnam-letters/ and reference them here.
+  - ../../assets/family/originals/vietnam-letters/IMG_XXXX.jpeg   # envelope front
+  - ../../assets/family/originals/vietnam-letters/IMG_YYYY.jpeg   # page 1
+  - ../../assets/family/originals/vietnam-letters/IMG_ZZZZ.jpeg   # page 2 (etc)
 ---
 
 <!-- Transcribed body of the letter goes here. Preserve his line breaks and idiosyncratic spelling.
