@@ -6,7 +6,7 @@ birth:
   date: "1910-10-06"
   place: "Columbus, Ohio"
 death:
-  date: "1986"
+  date: "1986-06-02"
   place: "Lowell, Ohio"
 generation: 5
 parents:
