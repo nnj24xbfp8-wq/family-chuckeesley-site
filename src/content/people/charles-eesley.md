@@ -31,6 +31,10 @@ The **letters he wrote home** from Saigon survived the trip back to Marietta. **
 
 A few of the things this layer carries that the rest of the page does not: the **stereo and record player** that was the first thing he bought when he got back, the Beatles and the Rolling Stones as the music of the year of his life he had been living through, the "**smart-ass comments that probably nearly got him court-marshaled**" he kept making across the rest of his life, the Skype call decades later when Chuck was visiting Saigon and Charlie, on the other end, declined to come.
 
+## The wedding photograph
+
+The [**Charlie and Terrie wedding photograph (early 1970s)**](/archive/charlie-and-terrie-wedding-1970s/) is the resolution of the [Letters from Vietnam](/docs/letters-from-vietnam/): the two of them married after the courtship-during-a-war that the letters had been. The frame catches Will and Peggy mid-laugh on the church steps, parents-of-the-groom.
+
 ## The eulogy
 
 The fullest portrait of him by far is the eulogy Chuck delivered at the memorial service. It is the most personal document in this archive in Chuck's own voice and stands in the documents collection as itself a piece of the family record:

@@ -28,4 +28,10 @@ He drew, but he also **built**. He designed the **Highland Ridge Road house** in
 
 He was one of Charles Leonard and Lillie Dale's ten children. By 1986, when he died, the surviving siblings were his two sisters: **[Mary Eesley Bean](/family/mary-eesley-bean/)** of Narberth, PA (who had just published the family history) and **[Helen Burnes](/family/helen-burnes/)** of Worthington, OH. Four brothers and one sister had gone before him: **Leonard David** Eesley (1904–1976), **[Donald Stuart "Don"](/family/don-eesley/)** (1908–1975), **[Lyle](/family/lyle-eesley/)** (1914–1942, lost as a POW at Cabanatuan), **Dale Dudley George** (1916–1939, engaged to Thelma when he died at twenty-two), and his sister **[Jean Goldie](/family/jean-goldie-eesley/)** (1912–1924, age twelve). Two other brothers — **Thomas Leonard** (b. 1906) and **James Michael "Mike"** (b. 1908) — appear in the 1985 register without death dates and were also gone by 1986. Mary would write the 1985 *Eesley Family History* that became the relationship backbone for this archive — making her, on a project like this one, the single most important figure in the previous generation of family record-keepers.
 
+## Photographs in the archive
+
+- The [**1942 ration-book Christmas card**](/archive/wilbur-eesley-1942-christmas-card/) drawn in his own hand, the second Christmas of the war, signed *Peggy and Will Eesley.*
+- The [**late-1940s Eesley family group portrait**](/archive/eesley-family-group-portrait-late-1940s/) at his parents' Bexley home.
+- The [**Charlie and Terrie wedding photograph (early 1970s)**](/archive/charlie-and-terrie-wedding-1970s/) &mdash; Will mid-laugh beside Peggy on the church steps, as the groom's father. The last surviving photograph of him at a family wedding before his 1986 death.
+
 > *Source: Will's obituary, Marietta paper, June 1986. Structured record: [Dale Eesley / FamilySearch — Wilbur Chenoweth Eesley (L2J9-LS3)](https://www.familysearch.org/tree/person/details/L2J9-LS3).*

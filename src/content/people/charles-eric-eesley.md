@@ -28,6 +28,13 @@ He grew up on the [Highland Ridge Road house](/family/wilbur-eesley/) his grandf
 
 He and [Lijie](/family/lijie-zhou/) made their life together at Stanford. The Zhou side of the family &mdash; Lijie's parents, grandparents, and the line behind them &mdash; is held open as the next major thread of this archive to build, in parallel with the Eesley and Wildermuth sides.
 
+## Photographs in the archive (Chuck-side)
+
+- The [**Duke years, March 2001**](/archive/chuck-spring-break-2001-meditation/) &mdash; the *News & Observer* feature on a spring-break meditation visit to a North Carolina Buddhist monastery, with Chuck identifiable in the inset photograph. Earliest public press in the archive.
+- The [**MIT PhD graduation, 5 June 2009**](/archive/mit-phd-graduation-chuck-terrie-2009/) &mdash; with Terrie at the M.I.T. dome.
+- The [**Tsinghua University gate (清華園), Beijing**](/archive/chuck-at-tsinghua/) &mdash; Chuck at the famous Republican-era main gate of Tsinghua, the closest Chinese counterpart to his Stanford appointment.
+- The various [**Stanford**](/places/stanford-university/), [**Old Stratford Rother Street**](/places/old-stratford-rother-street/), [**Banbury**](/places/banbury/), [**Rielingshausen church**](/places/rielingshausen-church/), and [**Lingyin Temple**](/places/lingyin-temple-hangzhou/) place pages carry the rest of his pilgrimage photography.
+
 Other details withheld &mdash; living.
 
 > *Structured record: [Dale Eesley / FamilySearch &mdash; Charles Eric Eesley (GMLW-PXW)](https://www.familysearch.org/tree/person/details/GMLW-PXW).*
