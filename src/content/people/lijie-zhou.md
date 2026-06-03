@@ -36,7 +36,7 @@ Ling and Xun married **18 September 1982 in [Qingdao](/places/qingdao/)**. Lijie
 ## Childhood photographs newly placed
 
 - A flash portrait from the early 1990s shows **young Lijie (~10) standing next to her father [Ling Zhou](/family/ling-zhou/) in his People's Police service uniform**, indoors against venetian blinds. Set as Ling Zhou's portrait on his page.
-- A second 2010s frame from [St Michael's Cathedral, Qingdao](/places/qingdao/) &mdash; Lijie in a dark coat and red gloves, waving across the schoolyard fence of **her own elementary school**, the twin red-roofed towers of the cathedral visible just beyond. The companion frame to the cathedral close-up already on the Qingdao page: school in front, church behind, the geography of her Qingdao childhood in one image.
+- A second 2010s frame from the heart of Qingdao &mdash; Lijie in a dark coat and red gloves, waving at the gate of [**Dexian Road Elementary School (德县路小学)**](/archive/lijie-at-dexian-road-elementary/) in the **Shinan district** old town, with the twin red-roofed towers of [St Michael's Cathedral](/places/qingdao/) visible just beyond the schoolyard. Her primary school in front, the cathedral behind &mdash; the entire walking-radius geography of her Qingdao childhood in one image.
 
 ## What's still to add
 

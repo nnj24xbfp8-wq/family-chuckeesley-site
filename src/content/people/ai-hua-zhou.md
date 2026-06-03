@@ -9,7 +9,9 @@ living: true
 summary: "Lijie's paternal aunt; sister of Ling Zhou (Lijie's father). Daughter of Zhaoxiang Zhou and Yunzhe Sun."
 ---
 
-Details withheld &mdash; living.
+She appears in the archive's first photograph of her: [a late-life visit with her father Zhaoxiang, alongside her husband, Lijie, and Chuck](/archive/visit-with-zhaoxiang-and-ai-hua-zhou/) &mdash; standing in a white-and-blue flowered top beside the elder she takes after.
+
+Details otherwise withheld &mdash; living.
 
 > *Structured record: [FamilySearch — Ai Hua Zhou (G9MN-H5C)](https://www.familysearch.org/tree/person/details/G9MN-H5C).*
 
