@@ -81,11 +81,9 @@ const personLink = (p: { id: string; data: { name: string } }) =>
       )}
     </aside>
 
-    {!d.living && (
-      <div class="prose prose-stone max-w-prose">
-        <Content />
-      </div>
-    )}
+    <div class="prose prose-stone max-w-prose">
+      <Content />
+    </div>
 
     {docs.length > 0 && (
       <section class="mt-12 pt-6 border-t border-rule">
@@ -99,13 +97,21 @@ const personLink = (p: { id: string; data: { name: string } }) =>
     )}
 
     {arts.length > 0 && (
-      <section class="mt-8">
-        <h2 class="text-xl font-serif mb-3">Pictured in</h2>
-        <ul class="space-y-1 text-sm">
+      <section class="mt-12 pt-6 border-t border-rule">
+        <h2 class="text-xl font-serif mb-4">Pictured in</h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-6">
           {arts.map((a) => (
-            <li><a href={`/archive/${a.id}/`}>{a.data.title}</a> <span class="text-ink/60">&mdash; {a.data.type}</span></li>
+            <figure class="m-0">
+              <a href={`/archive/${a.id}/`} class="block no-underline">
+                <Image src={a.data.image} alt={a.data.title} class="w-full" />
+                <figcaption class="text-sm mt-2">
+                  <span class="font-serif">{a.data.title}</span>
+                  {a.data.dateCreated && <span class="text-ink/60"> &middot; {a.data.dateCreated}</span>}
+                </figcaption>
+              </a>
+            </figure>
           ))}
-        </ul>
+        </div>
       </section>
     )}
   </article>
