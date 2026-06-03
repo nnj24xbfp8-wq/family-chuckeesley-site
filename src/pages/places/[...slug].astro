@@ -49,33 +49,48 @@ const relatedDocs = d.relatedDocuments
       </section>
     )}
 
-    {/* Explicit then/now pairings — true diptychs of the same subject */}
+    {/* Explicit then/now pairings — true diptychs (or triptychs) of the same subject */}
     {d.pairs && d.pairs.length > 0 && (
       <section class="mb-12">
         <h2 class="text-xl font-serif mb-4">Then &amp; now</h2>
         <div class="space-y-10">
-          {d.pairs.map((p) => (
-            <div>
-              {p.caption && <p class="text-sm text-ink/70 italic mb-3">{p.caption}</p>}
-              <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-                <figure>
-                  <Image src={p.thenImage} alt={`${p.subject} — ${p.thenYear}`} class="w-full" />
-                  <figcaption class="text-xs text-ink/60 mt-1">
-                    <span class="uppercase tracking-wider">{p.thenYear}</span>
-                    {p.thenCaption && <> &middot; {p.thenCaption}</>}
-                  </figcaption>
-                </figure>
-                <figure>
-                  <Image src={p.nowImage} alt={`${p.subject} — ${p.nowYear}`} class="w-full" />
-                  <figcaption class="text-xs text-ink/60 mt-1">
-                    <span class="uppercase tracking-wider">{p.nowYear}</span>
-                    {p.nowCaption && <> &middot; {p.nowCaption}</>}
-                  </figcaption>
-                </figure>
+          {d.pairs.map((p) => {
+            const hasEcho = !!p.echoImage;
+            const gridClass = hasEcho
+              ? 'grid grid-cols-1 md:grid-cols-3 gap-4'
+              : 'grid grid-cols-1 md:grid-cols-2 gap-4';
+            return (
+              <div>
+                {p.caption && <p class="text-sm text-ink/70 italic mb-3">{p.caption}</p>}
+                <div class={gridClass}>
+                  <figure>
+                    <Image src={p.thenImage} alt={`${p.subject} — ${p.thenYear}`} class="w-full" />
+                    <figcaption class="text-xs text-ink/60 mt-1">
+                      <span class="uppercase tracking-wider">{p.thenYear}</span>
+                      {p.thenCaption && <> &middot; {p.thenCaption}</>}
+                    </figcaption>
+                  </figure>
+                  <figure>
+                    <Image src={p.nowImage} alt={`${p.subject} — ${p.nowYear}`} class="w-full" />
+                    <figcaption class="text-xs text-ink/60 mt-1">
+                      <span class="uppercase tracking-wider">{p.nowYear}</span>
+                      {p.nowCaption && <> &middot; {p.nowCaption}</>}
+                    </figcaption>
+                  </figure>
+                  {hasEcho && p.echoImage && (
+                    <figure>
+                      <Image src={p.echoImage} alt={`${p.subject} — ${p.echoYear ?? 'echo'}`} class="w-full" />
+                      <figcaption class="text-xs text-ink/60 mt-1">
+                        {p.echoYear && <span class="uppercase tracking-wider">{p.echoYear}</span>}
+                        {p.echoCaption && <> &middot; {p.echoCaption}</>}
+                      </figcaption>
+                    </figure>
+                  )}
+                </div>
+                <p class="text-xs text-ink/50 mt-2 font-serif italic">{p.subject}</p>
               </div>
-              <p class="text-xs text-ink/50 mt-2 font-serif italic">{p.subject}</p>
-            </div>
-          ))}
+            );
+          })}
         </div>
       </section>
     )}

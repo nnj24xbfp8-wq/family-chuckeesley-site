@@ -131,6 +131,9 @@ const places = defineCollection({
         .default([]),
       // Explicit then-and-now pairings: same subject, different visits.
       // Renders as side-by-side diptychs above the per-visit galleries.
+      // Optionally a third "echo" frame can be added — same pose by the next
+      // generation, turning the pair into a triptych (e.g. parents' 1982
+      // honeymoon → parents' 2019 return → child + spouse same pose 2019).
       pairs: z
         .array(
           z.object({
@@ -144,6 +147,10 @@ const places = defineCollection({
             nowImage: image(),
             nowCaption: z.string().optional(),
             nowPhotographer: reference('people').optional(),
+            echoYear: z.string().optional(),
+            echoImage: image().optional(),
+            echoCaption: z.string().optional(),
+            echoPhotographer: reference('people').optional(),
           })
         )
         .default([]),
