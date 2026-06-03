@@ -36,6 +36,17 @@ This archive treats the collection as follows:
 
 This is the same principle the [Vietnam Veterans Memorial](https://www.vvmf.org/) uses, in a way: every name belongs on the wall; not every story belongs on every wall.
 
+## On a possible eventual deposit at the Library of Congress
+
+The family is **considering, but has not committed to**, depositing some of these letters with the [**Library of Congress Veterans History Project**](https://www.loc.gov/programs/veterans-history-project/) at some point in the future. VHP welcomes posthumous donations from family members, accepts letters specifically, and can hold materials under donor-imposed access restrictions when the family wants them on the shelf but not on the open record.
+
+The shape that would most likely take, if it happens at all:
+
+- The smaller set of letters to [**Will**](/family/wilbur-eesley/) and [**Peggy**](/family/margaret-mcmaster-eesley/) &mdash; the ones that read closer to dispatches than to confessions &mdash; as a candidate for full deposit with no restrictions.
+- The larger set to [**Terrie**](/family/terrie-lee-eesley/) &mdash; the courtship-during-a-war set &mdash; **kept in the family**, with at most metadata sent to VHP. These are intimate enough that the family's custody is the right custody.
+
+No timeline. The site itself is the first round of curation; whatever happens with VHP, if anything, comes after that work is done. This note exists so the deliberation is visible &mdash; not so it's promised.
+
 ## How to read this page
 
 Below, as the scans and transcriptions come in, the individual letter pages will appear &mdash; some as full transcriptions, some as metadata-only entries with a "Withheld at the family's request" panel where the body would be. Both are part of the same record.
