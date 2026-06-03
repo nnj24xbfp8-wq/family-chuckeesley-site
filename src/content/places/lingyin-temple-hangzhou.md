@@ -18,8 +18,8 @@ pairs:
   - subject: "The same temple gate, three frames — Ling & Xun 1982, Ling & Xun 2019, Chuck & Lijie 2019"
     caption: "The same gate, the same pose, across one wedding and the next generation."
     thenYear: "1982"
-    thenImage: ../../assets/family/originals/IMG_2529.jpeg
-    thenCaption: "Ling Zhou and Xun Li on their honeymoon at Lingyin Temple, just after their 18 September 1982 wedding in Qingdao. Black-and-white print; the temple's main gate signage behind them."
+    thenImage: ../../assets/family/originals/IMG_2529_cropped.jpeg
+    thenCaption: "Ling Zhou and Xun Li on their honeymoon at Lingyin Temple, just after their 18 September 1982 wedding in Qingdao. Black-and-white print; the temple's main gate signage behind them. Cropped from the original scan to roughly match the framing of the two 2019 frames."
     thenPhotographer: ling-zhou
     nowYear: "2019"
     nowImage: ../../assets/family/originals/IMG_3615.jpeg
