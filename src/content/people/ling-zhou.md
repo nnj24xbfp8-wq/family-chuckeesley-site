@@ -15,7 +15,7 @@ living: true
 summary: "Lijie's father. Born 1 December 1955 in Qingdao, Shandong. Son of Zhaoxiang Zhou (1930–2022) and Yunzhe Sun (d. 2023). Married Xun Li on 18 September 1982 in Qingdao."
 ---
 
-Details withheld &mdash; living. Father of [Lijie](/family/lijie-zhou/).
+Details withheld &mdash; living. Father of [Lijie 周丽婕](/family/lijie-zhou/).
 
 The portrait at the head of this page shows Ling Zhou in a **People's Police-style service uniform** with red epaulets, standing beside a young Lijie (~10) in a red pinafore over a white turtleneck &mdash; an indoor flash photograph from the early 1990s, the years he was a working public-safety officer in Qingdao and his daughter was in primary school. It is, as of this writing, the only photograph in the archive of the two of them together.
 
@@ -27,7 +27,7 @@ He and Lijie's mother [Xun Li](/family/xun-li/) made the **honeymoon trip to Han
 
 ## 中文
 
-**周玲**（音译；姓氏确定，名字汉字待确认），1955年12月1日生于山东省青岛市。Lijie之父。[周兆祥](/family/zhaoxiang-zhou/)（1930&ndash;2022）与[孙运哲](/family/yunzhe-sun/)（卒于2023年）之子。1982年9月18日在青岛与[李恂](/family/xun-li/)成婚。
+**周玲**（音译；姓氏确定，名字汉字待确认），1955年12月1日生于山东省青岛市。周丽婕之父。[周兆祥](/family/zhaoxiang-zhou/)（1930&ndash;2022）与[孙运哲](/family/yunzhe-sun/)（卒于2023年）之子。1982年9月18日在青岛与[李恂](/family/xun-li/)成婚。
 
 兄弟姊妹：[周泉](/family/quan-zhou/)、[周爱琴](/family/ai-qin-zhou/)、[周爱华](/family/ai-hua-zhou/)。
 

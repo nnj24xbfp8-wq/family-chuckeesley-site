@@ -13,6 +13,6 @@ The surname **Leng (冷)** is one of the rarer Chinese family surnames; her maid
 
 ## 中文
 
-**冷氏**（姓氏确定 &mdash; 冷为汉族较稀有姓氏；名字尚未记录）&mdash; Lijie的高祖母，[周慧亭](/family/huiting-zhou/)之妻，[周茂礼](/family/maoli-zhou/)之母。其娘家事迹尚待研究。
+**冷氏**（姓氏确定 &mdash; 冷为汉族较稀有姓氏；名字尚未记录）&mdash; 周丽婕的高祖母，[周慧亭](/family/huiting-zhou/)之妻，[周茂礼](/family/maoli-zhou/)之母。其娘家事迹尚待研究。
 
 > *本页所记仅为家谱中已知信息；姓名细节有待家族补全。*

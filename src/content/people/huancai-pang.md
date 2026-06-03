@@ -13,6 +13,6 @@ Pang Huancai is the mother of the three Zhou siblings — [Zhaoxiang](/family/zh
 
 ## 中文
 
-**庞焕彩**（姓氏确定；名字汉字待家族确认）&mdash; Lijie的曾祖母，[周茂礼](/family/maoli-zhou/)之妻，育有三子女：[周兆祥](/family/zhaoxiang-zhou/)（Lijie之祖父）、[周肇正](/family/zhaozheng-zhou/)、[周秀珍](/family/xiuzhen-zhou/)。她伴这一代经历了二十世纪中叶山东省的政治动荡岁月。其生卒年月及娘家事迹尚待补全。
+**庞焕彩**（姓氏确定；名字汉字待家族确认）&mdash; 周丽婕的曾祖母，[周茂礼](/family/maoli-zhou/)之妻，育有三子女：[周兆祥](/family/zhaoxiang-zhou/)（周丽婕之祖父）、[周肇正](/family/zhaozheng-zhou/)、[周秀珍](/family/xiuzhen-zhou/)。她伴这一代经历了二十世纪中叶山东省的政治动荡岁月。其生卒年月及娘家事迹尚待补全。
 
 > *注：除姓氏外人名汉字为推测，待家族确认。*

@@ -19,6 +19,6 @@ Zhaozheng was born in Jiaozhou Shi eight years after his elder brother [Zhaoxian
 
 ## 中文
 
-**周肇正**（姓氏确定；名字汉字"肇正"系据拼音推测，待家族确认 &mdash; 与其兄[周兆祥](/family/zhaoxiang-zhou/)同辈，按字辈或为"肇"或"兆"，二者拼音同为Zhao）&mdash; Lijie之叔祖父。1938年生于胶州市 &mdash; 比兄长晚八年，出生地相同。与轩苏英成婚。
+**周肇正**（姓氏确定；名字汉字"肇正"系据拼音推测，待家族确认 &mdash; 与其兄[周兆祥](/family/zhaoxiang-zhou/)同辈，按字辈或为"肇"或"兆"，二者拼音同为Zhao）&mdash; 周丽婕之叔祖父。1938年生于胶州市 &mdash; 比兄长晚八年，出生地相同。与轩苏英成婚。
 
 > *注：除姓氏外人名汉字为推测，待家族确认。*
