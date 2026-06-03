@@ -22,9 +22,9 @@ Seated in the front row: **Zhaoxiang Zhou 周兆祥** (Lijie's paternal grandfat
 
 Standing behind: **Lijie** and **Chuck**, both in dark coats &mdash; visiting from Stanford.
 
-The colorful flower-and-vine **folk-art mural** behind the seated row places the room in a Chinese community or senior gathering space. A companion photograph from the same visit shows [Zhaoxiang seated with his daughter Ai Hua Zhou and her husband, also with Lijie and Chuck](/archive/visit-with-zhaoxiang-and-ai-hua-zhou/) &mdash; the two photographs together cover Zhaoxiang with two of his children's households on what appears to be the same visit.
+The colorful flower-and-vine **folk-art mural** behind the seated row places the room in a Chinese community or senior gathering space. A companion frame from the same visit, showing Zhaoxiang with his daughter Ai Hua Zhou and her husband, is held in the family and will be placed when re-uploaded.
 
-This is one of two late-life photographs of Zhaoxiang Zhou in the archive; the [studio portrait at the head of his page](/family/zhaoxiang-zhou/) shows him as a younger man. He died less than a decade after Yaozhen Shang (Lijie's maternal grandmother, d. 2013) and a year before his own wife Yunzhe Sun (d. 2023). After his death, the elder generation on the Zhou side passed entirely into the family record.
+This is the late-life photograph of Zhaoxiang Zhou in the archive; the family also holds a younger-man studio portrait of him not yet placed here. He died less than a decade after Yaozhen Shang (Lijie's maternal grandmother, d. 2013) and a year before his own wife Yunzhe Sun (d. 2023). After his death, the elder generation on the Zhou side passed entirely into the family record.
 
 ---
 
@@ -36,6 +36,6 @@ This is one of two late-life photographs of Zhaoxiang Zhou in the archive; the [
 
 后排立者：**Lijie与Chuck**，二人穿深色外套，由斯坦福返国探亲。
 
-背后彩色花卉藤蔓**民间艺术墙画**将此画面置于中国社区或老年活动空间。同次探访中的另一张照片显示[周兆祥与女儿周爱华及其夫合影](/archive/visit-with-zhaoxiang-and-ai-hua-zhou/)，两张照片共同记录了周兆祥与两支子女家庭同访的场景。
+背后彩色花卉藤蔓**民间艺术墙画**将此画面置于中国社区或老年活动空间。同次探访中另有一张周兆祥与女儿周爱华及其夫的合影，存于家中，待补上传。
 
-这是本档案中关于周兆祥晚年的两张照片之一；他壮年时另有一张[黑白单人正装照置于其个人页顶端](/family/zhaoxiang-zhou/)。他比[商耀珍](/family/yaozhen-shang/)（Lijie的外祖母，2013年辞世）晚了不到十年，比自己的妻子[孙云哲](/family/yunzhe-sun/)（2023年辞世）早了一年辞世。他之后，周氏一脉的祖辈全部进入家族档案之中。
+这是本档案中关于周兆祥晚年的合影；家中另存有一张他壮年时的单人正装照，尚未录入档案。他比[商耀珍](/family/yaozhen-shang/)（Lijie的外祖母，2013年辞世）晚了不到十年，比自己的妻子[孙云哲](/family/yunzhe-sun/)（2023年辞世）早了一年辞世。他之后，周氏一脉的祖辈全部进入家族档案之中。

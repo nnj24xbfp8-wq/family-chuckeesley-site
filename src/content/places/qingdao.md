@@ -22,7 +22,6 @@ visits:
     photographer: charles-eric-eesley
     caption: "Lijie at St Michael's Catholic Cathedral (青岛天主教堂), the most iconic of Qingdao's surviving German-period landmarks. The twin red-roofed towers were built 1934 under German Catholic mission; the building survived the war years, Japanese occupation, the Cultural Revolution, and continues as an active parish today. It is the architectural centerpiece of the old German concession quarter where Lijie grew up. The companion frame, photographed the same visit at the **schoolyard fence of [Dexian Road Elementary School 德县路小学](/archive/lijie-at-dexian-road-elementary/) — her own primary school**, a block south of the cathedral in the Shinan district — with the cathedral's twin towers visible just beyond, captures the precise geography of her Qingdao childhood: school in front, church behind."
     images:
-      - ../../assets/family/originals/IMG_0999.jpeg
       - ../../assets/family/originals/IMG_0998.jpeg
 ---
 

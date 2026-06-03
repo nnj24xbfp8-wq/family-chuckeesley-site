@@ -27,7 +27,6 @@ visits:
       - ../../assets/family/originals/IMG_3565.jpeg
       - ../../assets/family/originals/IMG_3571.jpeg
       - ../../assets/family/originals/IMG_3572.jpeg
-      - ../../assets/family/originals/IMG_3573.jpeg
 ---
 
 **Banbury** sits in northern Oxfordshire, about four miles east of **Hanwell** — the parish from which the volunteer at the Oxford public library worked back the Eesley line to **Joseph Eesley** and **Frances Ayris** in the early 18th century. For the Eesleys at Hanwell, Banbury would have been the obvious market town: where you took grain, sold flour, bought what the household couldn't grow, attended the wider parish and county business. By the time **John Eesley** (b. 1800) moved the family across the county line into [Old Stratford](/places/old-stratford-rother-street/) some time before the 1851 census, Banbury had been the family's center of trade for generations.
