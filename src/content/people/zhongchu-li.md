@@ -15,6 +15,24 @@ summary: "Lijie's maternal grandfather. Born 15 September 1921 in Qingdao — th
 
 The portrait above &mdash; the studio photograph showing him in a dark high-collared Chinese-style jacket, looking directly at the camera with the serious composure of mid-century Chinese formal portraiture &mdash; is the **only image of Zhongchu Li in this archive**, and the only way his face enters the visual record of the family at all. He died before Lijie was born, so no one in the next generation knew him in person. The print is aged, edges spotted with mottling typical of pre-1980 Chinese photographic paper. It is among the most precious single objects on the Zhou side.
 
+<figure class="my-8 max-w-md mx-auto not-prose">
+  <video src="/family/zhongchu-li-portrait-animated.mp4" controls muted loop playsinline class="w-full"></video>
+  <figcaption class="text-sm text-ink/70 mt-2 italic">
+    The same portrait, AI-animated to subtle motion &mdash; a gesture toward how he might have moved, breathed, blinked. This is **interpretive fiction, not a record**: a documentary aid for descendants who never met him, generated from the still photograph above. Like the AI-colorization of the 1965 Stanford fountain photograph elsewhere in this archive, the original still is the historical record; this animation is an aid to imagining his presence, not a literal trace of it.
+  </figcaption>
+</figure>
+
+---
+
+## 中文：照片动画
+
+<figure class="my-6 max-w-md mx-auto not-prose">
+  <video src="/family/zhongchu-li-portrait-animated.mp4" controls muted loop playsinline class="w-full"></video>
+  <figcaption class="text-sm text-ink/70 mt-2 italic">
+    此为本页顶部李忠初照片之**人工智能动画化**版本 &mdash; 让他的面容微微动起来、眨眼、呼吸。<strong>此为诠释性影像，非真实记录</strong>：以静态照片为底，AI生成的微动效果，作为未曾谋面的后辈想象他生前神态的一种辅助。原始照片仍是历史档案，此动画仅为想象的工具，非实际影像。
+  </figcaption>
+</figure>
+
 Li Zhongchu and his future wife [Yaozhen Shang](/family/yaozhen-shang/) were both born in Qingdao in **1921** — just three days apart, in fact (he on September 15, she on September 11). They grew up under what had been the city's late-German and Japanese-occupation periods, came of age through the Republican and Civil War years, and lived their adult lives in the People's Republic. They had three children, including [Lijie's mother Xun Li](/family/xun-li/) (b. 1956).
 
 He died **1 November 1982**, age 61 &mdash; six weeks after [his daughter Xun's marriage to Ling Zhou](/family/xun-li/) on 18 September 1982, and a little over a year before Lijie was born. He did not live to meet his granddaughter.
