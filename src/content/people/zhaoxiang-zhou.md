@@ -18,7 +18,18 @@ Zhou Zhaoxiang was born **1 August 1930 in Jiaozhou Shi (胶州市)** — the hi
 
 He spent the war years and the founding years of the People's Republic as a young man, married [Yunzhe Sun](/family/yunzhe-sun/), and raised four children in Qingdao &mdash; including [Lijie's father Ling Zhou](/family/ling-zhou/) and his siblings Quan, Ai Qin, and Ai Hua. He died **9 December 2022 in Qingdao**, age 92.
 
+His working life centered on photography: **he founded the first photography studio in Qingdao**, which gives the formal studio portraits of him on this page an extra layer of meaning &mdash; the man who made portraits of other people's faces is himself the subject of one of the kind he spent his life producing. The civic-business history of mid-20th-century Qingdao runs partly through his shop.
+
+Outside the studio he kept a daily **tai chi (太极拳)** practice &mdash; the slow standing-meditation form that has shaped the bodies of generations of older Chinese practitioners. The combination &mdash; the precision of the studio camera and the unhurried rhythm of tai chi in the morning &mdash; is a fair index of how he carried himself across nine decades.
+
 The portrait at the head of this page &mdash; Zhou Zhaoxiang in a winter cap and plaid scarf, formal photograph &mdash; is the earliest surviving studio frame of him in the family's keeping.
+
+<figure class="my-8 max-w-md mx-auto not-prose">
+  <video src="/family/zhaoxiang-zhou-portrait-animated.mp4" controls muted loop playsinline class="w-full"></video>
+  <figcaption class="text-sm text-ink/70 mt-2 italic">
+    A still portrait of Zhaoxiang as a younger man, AI-animated to subtle motion. <strong>Interpretive fiction, not a record</strong> &mdash; a documentary aid for descendants and visitors imagining his presence, generated from a still photograph. The original still is the historical artifact; this animation is an aid to imagining how he might have moved.
+  </figcaption>
+</figure>
 
 Two late-life photographs of Zhaoxiang are also in the archive, taken on what appears to be the same family visit to a community gathering room with a colorful folk-art mural behind:
 
@@ -30,6 +41,15 @@ He is the deepest documented Zhou ancestor in this archive's present scaffolding
 > *Structured record: [FamilySearch &mdash; Zhaoxiang Zhou (GM57-BKY)](https://www.familysearch.org/tree/person/details/GM57-BKY).*
 
 ---
+
+## 照片动画
+
+<figure class="my-6 max-w-md mx-auto not-prose">
+  <video src="/family/zhaoxiang-zhou-portrait-animated.mp4" controls muted loop playsinline class="w-full"></video>
+  <figcaption class="text-sm text-ink/70 mt-2 italic">
+    壮年时期周兆祥静态照片之**人工智能动画化**版本。<strong>诠释性影像，非真实记录</strong> &mdash; 以静态照片为底，AI生成的微动效果，作为后辈与访客想象他生前神态的一种辅助。原始照片为历史档案，此动画仅为想象的工具，非实际影像。
+  </figcaption>
+</figure>
 
 ## 同次探访的两张晚年照
 
