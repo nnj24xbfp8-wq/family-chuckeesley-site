@@ -10,6 +10,7 @@ generation: 5
 parents:
   - robert-thompson-mcmaster
   - alice-anderson-mcmaster
+portrait: ../../assets/family/maggie-deck/donald-anderson-mcmaster.jpeg
 summary: "Brother of Peggy McMaster Eesley; Chuck's great-uncle. Born 1903, died 1967, age 64. Dedicated photographer; in WWII ran the communications power grid for the northeastern United States. Son of Robert Thompson McMaster (civil engineer, d. 1919) and Alice Anderson McMaster (Clifton School teacher). Multiple photographs in the family archive — including ones taken by him in his role as the family's photographer."
 ---
 

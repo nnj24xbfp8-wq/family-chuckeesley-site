@@ -12,6 +12,7 @@ parents:
   - jeanie-goldie
 spouses:
   - lillie-dale-chenoweth
+portrait: ../../assets/family/maggie-deck/charles-leonard-eesley.jpeg
 summary: "Son of Albert Robert Eesley and Jeanie Goldie; husband of Lillie Dale Chenoweth (1877–1970); father of ten children — Leonard David (1904), Thomas Leonard (1906), James Michael 'Mike' (1908), Donald Stuart (1908), Wilbur 'Will' (1910), Jean Goldie (1912, died age 12), Mary Elizabeth (Bean, 1913), Lyle (1914–1942, Cabanatuan), Dale Dudley George (1916–1939), and Helen Louise (Burnes, 1924). The household was in Bexley, Ohio. Brought Stella Sunn into the family during the war and kept her there for over a decade."
 ---
 

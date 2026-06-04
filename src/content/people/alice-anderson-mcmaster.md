@@ -12,6 +12,7 @@ parents:
   - nancy-jane-shaw-anderson
 spouses:
   - robert-thompson-mcmaster
+portrait: ../../assets/family/maggie-deck/alice-anderson-mcmaster.jpeg
 summary: "Mother of Peggy McMaster Eesley (Chuck's grandmother); schoolteacher. Born 1871, died 1961, age 90. Daughter of Rev. Abraham Ramsey Anderson the Presbyterian minister and Nancy Jane Shaw Anderson. Married Robert Thompson McMaster. Widowed in 1919 when Peggy was only five; raised her children alone. Ran the Clifton School in Pennsylvania — a 1928 class photo with her students survives. Multiple photographs in the family archive span from a young-woman cabinet card in McDonald, Pennsylvania (late 1880s) to her schoolroom years."
 ---
 

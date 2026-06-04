@@ -12,6 +12,7 @@ parents:
   - susan-babbs
 spouses:
   - jeanie-goldie
+portrait: ../../assets/family/maggie-deck/albert-robert-eesley.jpeg
 summary: "The emigrant — to Canada, not Scotland. Born 25 December 1837 in Stratford-on-Avon; emigrated to Ontario to work for the Goldie milling family, who had themselves emigrated from Ayrshire Scotland to Canada in 1841. Married Jennie Goldie in Ontario in 1861. Their son John Franklin would found the Plainwell mill; their son Charles Leonard would father Will. Died 5 April 1902."
 ---
 

@@ -10,6 +10,7 @@ death:
 generation: 3
 spouses:
   - mary-ohio-timmons-chenoweth
+portrait: ../../assets/family/maggie-deck/joseph-hill-chenoweth.jpeg
 summary: "Father of Lillie Dale Chenoweth Eesley; Chuck's great-great-grandfather on the Chenoweth side. Born 30 December 1832 in Pleasant Township, Franklin County, Ohio. Died June 1910, age 77, and buried at Otterbein Cemetery, Westerville, Franklin County, Ohio. Married Mary O. Timmons on 25 November 1864. Father of at least five children: Lilly Dale, Howard Glen, Elsie, Scioto Mafry, and Dwight Kennedy. FamilySearch ID KCBL-7P4."
 ---
 

@@ -13,6 +13,7 @@ parents:
   - john-k-timmons
 spouses:
   - joseph-hill-chenoweth
+portrait: ../../assets/family/maggie-deck/mary-ohio-timmons-chenoweth.jpeg
 summary: "Mother of Lillie Dale Chenoweth Eesley; Chuck's great-great-grandmother on the Chenoweth side. Born March 1845 in Ohio. Married Joseph Hill Chenoweth on 25 November 1864 in Franklin County, Ohio. The structured record gives her name as 'Mary O.' — Maggie Eesley's deck expands the O. to Ohio with the etymology note that Ohio means 'beautiful river.' One of her daughters, Scioto Mafry Chenoweth, was named after the river and became, in family memory, one of the first women medical doctors in the United States in the late 1800s. Daughter of John K. Timmons; mother of at least five children. FamilySearch ID KCCC-MTP."
 ---
 

@@ -12,6 +12,7 @@ parents:
   - mary-ohio-timmons-chenoweth
 spouses:
   - charles-leonard-eesley
+portrait: ../../assets/family/maggie-deck/lillie-dale-chenoweth.jpeg
 summary: "Wife of Charles Leonard Eesley. Born 9 August 1877; died January 1970, age 92. Mother of ten children — three of whom died before she did: Jean Goldie at twelve in 1924, Dale Dudley George at twenty-two in 1939, and Lyle at twenty-seven in 1942 at the Cabanatuan POW camp. Through her the Chenoweth and Timmons lines enter the family. Sits at the center of the family group portrait."
 ---
 

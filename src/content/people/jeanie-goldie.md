@@ -11,6 +11,7 @@ death:
 generation: 3
 spouses:
   - albert-robert-eesley
+portrait: ../../assets/family/maggie-deck/jeanie-goldie.jpeg
 summary: "Born 12 December 1836 in Ayrshire, Scotland. Emigrated to Canada as a young child with the Goldie family in 1841. Married Albert Robert Eesley in Ontario in 1861. Mother of ten, including John Franklin Eesley (the Plainwell mill founder) and Charles Leonard Eesley (Will's father). Died 12 August 1911 in Toronto and was buried there 14 August 1911."
 ---
 

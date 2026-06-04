@@ -8,6 +8,7 @@ death:
   date: "1888-05-13"
   place: "Ohio (buried Scioto Township, Pickaway, Ohio)"
 generation: 2
+portrait: ../../assets/family/maggie-deck/john-k-timmons.jpeg
 summary: "Chuck's great-great-great-grandfather on the paternal Chenoweth–Timmons branch. Born 16 May 1806 in Ohio, died 13 May 1888 — three days short of his eighty-second birthday. Father of Mary O. Timmons Chenoweth (1845–1919), grandfather of Lillie Dale Chenoweth Eesley (1877–1970), great-grandfather of Wilbur 'Will' Eesley (1910–1986). The deepest documented ancestor on the Chenoweth side of this archive. FamilySearch ID K633-3T8."
 ---
 

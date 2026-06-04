@@ -8,6 +8,7 @@ death:
 generation: 3
 spouses:
   - gilbert-clement-mcmaster
+portrait: ../../assets/family/maggie-deck/margaret-thompson-mcmaster.jpeg
 summary: "Mother of Robert Thompson McMaster (Chuck's great-grandfather on Peggy's side). Born 1835, died 1910, age 75. Photographed in 1866 by B. L. H. Dabbs of Pittsburg, Pennsylvania holding her twin sons — Erasmus Darwin and Robert T. — one of whom would die young of a weakened heart and the other of whom would live to age 55 with the same condition. Wife of Gilbert Clement McMaster."
 ---
 

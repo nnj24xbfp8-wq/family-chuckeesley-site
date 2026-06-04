@@ -9,6 +9,7 @@ death:
 generation: 3
 spouses:
   - margaret-thompson-mcmaster
+portrait: ../../assets/family/maggie-deck/gilbert-clement-mcmaster.jpeg
 summary: "Father of Robert Thompson McMaster (Chuck's great-grandfather on Peggy's side). Born 1833, died 1906. Photographed in his late 20s/early 30s by the Richards studio of Pittsburg, Pennsylvania — the cabinet card preserves a serious-faced young man with a 'walrus mustache.' Husband of Margaret Thompson McMaster."
 ---
 

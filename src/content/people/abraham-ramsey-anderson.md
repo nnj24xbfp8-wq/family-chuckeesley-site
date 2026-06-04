@@ -9,6 +9,7 @@ death:
 generation: 3
 spouses:
   - nancy-jane-shaw-anderson
+portrait: ../../assets/family/maggie-deck/abraham-ramsey-anderson.jpeg
 summary: "Presbyterian minister for over fifty years; father of Alice Anderson McMaster (Chuck's great-grandmother on the Eesley side, via Peggy). Born 1832, died 1919. Photographed around 1860 with the 'pronounced sideburns modeled after General Burnside of the Civil War.' Author of a long, elegantly-penned May 1894 letter to his daughter Margaret Anderson — one of the few primary documents this archive carries in his own hand. Husband of Nancy Jane Shaw Anderson."
 ---
 

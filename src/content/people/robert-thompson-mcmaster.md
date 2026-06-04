@@ -12,6 +12,7 @@ parents:
   - margaret-thompson-mcmaster
 spouses:
   - alice-anderson-mcmaster
+portrait: ../../assets/family/maggie-deck/robert-thompson-mcmaster.jpeg
 summary: "Father of Peggy McMaster Eesley (Chuck's grandmother); civil engineer. Born 1866, died 1919, age 53. Twin brother of Erasmus Darwin McMaster, who died young of a weakened heart; Robert lived with the same condition until age 55. Married Alice Anderson McMaster (daughter of Rev. Abraham Ramsey Anderson). Father of Donald A. McMaster and Margaret 'Peggy' McMaster Eesley."
 ---
 

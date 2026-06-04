@@ -9,6 +9,7 @@ death:
 generation: 3
 spouses:
   - abraham-ramsey-anderson
+portrait: ../../assets/family/maggie-deck/nancy-jane-shaw-anderson.jpeg
 summary: "Wife of Rev. Abraham Ramsey Anderson; mother of Alice Anderson McMaster. Born 1834, died 1910. Two photographs survive — a 1860 marriage-year double portrait with Abraham, and an 1888 cabinet card of her in her sixties. Known with her husband for 'sense of humor, kindness, and love of children.' Mother of six."
 ---
 
