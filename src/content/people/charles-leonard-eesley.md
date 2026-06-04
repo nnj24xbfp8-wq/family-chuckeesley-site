@@ -51,6 +51,6 @@ He appears in the [family group portrait](/archive/eesley-family-group-portrait-
 
 On the two histories Charles Leonard's 1942 found himself between:
 
-- [*Ghost Soldiers*](https://www.goodreads.com/book/show/144283.Ghost_Soldiers) by Hampton Sides &mdash; the camp where his son Lyle died.
+- [*Ghost Soldiers: The Epic Account of World War II's Greatest Rescue Mission*](https://www.goodreads.com/book/show/94799.Ghost_Soldiers) by Hampton Sides &mdash; the camp where his son Lyle died.
 - [Densho](https://densho.org) &mdash; the archive of the Japanese-American internment Stella was at risk from.
-- [*Bexley: Heart of Columbus*](https://www.amazon.com/dp/1467136441) by James A. Hopper &mdash; the neighborhood the wartime household kept itself together in.
+- [*Bexley (Images of America)*](https://www.arcadiapublishing.com/products/bexley-9781467112178) by the Bexley Historical Society (Arcadia Publishing, 2014) &mdash; the neighborhood the wartime household kept itself together in.
