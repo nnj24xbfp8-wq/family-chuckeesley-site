@@ -57,14 +57,18 @@ Eleven people, all now identified by Chuck via face-tagging the print in 2026, w
 
 **Four Eesley siblings of Will's generation are in this photograph:** [Will](/family/wilbur-eesley/) himself, **[Don](/family/don-eesley/)**, **[Mary (Bean)](/family/mary-eesley-bean/)**, and **[Helen (Burnes)](/family/helen-burnes/)**. With both their parents — Charles Leonard and Lily Dale — in the same frame, plus the in-laws and Stella, the photograph is a substantial gathering of the wartime-and-postwar Eesley household.
 
-The "corner figure" the family label originally read as Chuck's mother **[Terrie Lee Wildermuth](/family/terrie-lee-eesley/)** has been retracted by Chuck after a closer look at the print.
+## Stella's route to Bexley
 
-## Two corrections to the family label
+The family label reads *"Stella was from the Philippines"* &mdash; in fact the **Philippines was a waypoint, not her origin.** Her route went **Hawaii &rarr; Philippines &rarr; Ohio**, and the middle leg is the part the family memory preserves but the structured record cannot yet explain.
 
-The label that came with the print is the family's accumulated memory of this group, mostly accurate but with two known drifts that the structured record corrects:
+What is documented:
 
-1. **The label reads "Stella was from the Philippines"; the structured record places her birth in Hawaii.** Stella Elaine Sunn was born **October 5, 1925, in Honolulu, Oahu, Territory of Hawaii** (FamilySearch L614-Z2P, seven supporting sources). Her parents Koon Hung Sunn and Mabel Lee Sunn were both Hawaii-born Chinese-Americans, and in 1940 the family was recorded in Representative District 5, Oahu. The "Philippines" line in the family label is most likely a generational misremembering of "the Pacific" or "Asian-American girl during the war"; it predates the FamilySearch work that documented her actual provenance.
+- **Stella Elaine Sunn was born October 5, 1925, in Honolulu, Oahu, Territory of Hawaii** (FamilySearch L614-Z2P, seven supporting sources). Her parents Koon Hung Sunn and Mabel Lee Sunn were both Hawaii-born Chinese-Americans.
+- In **1940** the Sunns were recorded in Representative District 5, Oahu (her mother Mabel returned to Honolulu that same year aboard the SS *Monterey*, Hawaii passenger lists).
+- By **1942 or 1943** Stella was in Bexley, Ohio, in [Charles Leonard Eesley](/family/charles-leonard-eesley/)'s household &mdash; the wartime shelter [Aunt Jeanne described](/family/charles-leonard-eesley/) in 2019, framed in family memory as Charles Leonard refusing to let a young Chinese-American on the West Coast end up in an internment camp.
 
-2. **The corner figure is not Terrie.** Chuck himself wrote the original label note ("I think that's my mom hiding in the corner") and has since looked at the print again and retracted that identification. The figure remains unidentified.
+What is not yet documented &mdash; **how Stella reached the Philippines from Hawaii in the first place,** and what brought her from there to Ohio. The boat from Manila is the family-memory trace of the second leg, recoverable in principle from wartime civilian passenger manifests. The first leg &mdash; the Hawaii-to-Philippines move &mdash; is the open question. Stella was seventeen or eighteen when she arrived in Bexley.
 
-That Stella and Ted are in it — by the late 1940s or '60s, with their own household and lives — is the proof that the wartime shelter Aunt Jeanne described had become permanent kinship.
+[Roberta Burnes](/family/roberta-burnes/)'s collection of [Charles Leonard's 1940s letters](/family/roberta-burnes/) is the single most consequential undeciphered source on this question; the handwriting has not yet been worked through.
+
+That Stella and Ted are in this 1948–1949 frame &mdash; by then with their own household and lives, the wartime shelter having become permanent kinship &mdash; is the same record viewed from five or six years downstream.
