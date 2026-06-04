@@ -30,7 +30,7 @@ Lyle has no surviving children in the family register; his line ends at this ent
 
 ## The one photograph
 
-A **[group portrait of Charles Leonard with five of his adult sons, c. 1939&ndash;1942](/archive/charles-leonard-and-sons-late-1930s/)** &mdash; six men in formal suits against a hedge, with a young grandson at the patriarch's right &mdash; is the only photograph of Lyle currently in the archive. The date window is bounded by **Dale's death in July 1939** at one end and **Lyle's death in July 1942** at the other. The frame catches him as a young man at home in Bexley, in the last years before he shipped to the Philippines. **Which figure in the frame is Lyle, by name, is pending family identification.**
+A **[group portrait of Charles Leonard with five of his adult sons and his grandson Tommy, c. 1937&ndash;1939](/archive/charles-leonard-and-sons-late-1930s/)** &mdash; six men in formal suits against a hedge &mdash; is the only photograph of Lyle currently in the archive. **Lyle is second from the left**: fair-haired, in his early-to-mid twenties, head turned slightly toward Leonard David at his left. The frame catches him at home in Bexley three to five years before he shipped to the Philippines and never came home. The frame's date is bounded on the latest end by **Dale Eesley's death in July 1939** &mdash; Dale is the youngest of the five sons in the photograph, on the far right of the brothers' line.
 
 > *Sources: Mary Eesley Bean, *[Eesley Family History](/docs/eesley-family-history-1985/)*, March 1985, p. 8; cousin Roberta's 2019 oral note; the historical record of the Cabanatuan POW camp. Structured record: [Dale Eesley / FamilySearch — Lyle Eesley (LB4C-DH3)](https://www.familysearch.org/tree/person/details/LB4C-DH3).*
 
