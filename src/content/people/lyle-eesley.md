@@ -2,7 +2,7 @@
 name: "Lyle Eesley"
 line: paternal
 birth:
-  date: "1914-08-13"
+  date: "1916-08-12"
   place: "Grove City, Ohio"
 death:
   date: "1942-07-25"
@@ -11,10 +11,10 @@ generation: 5
 parents:
   - charles-leonard-eesley
   - lillie-dale-chenoweth
-summary: "Brother of Will Eesley. Born 13 August 1914 in Grove City, Ohio; died 25 July 1942, age 27, in Japanese captivity at Cabanatuan Prison Camp on Luzon — almost certainly a Bataan Death March survivor who did not survive the camp."
+summary: "Brother of Will Eesley. Born 12 August 1916 in Grove City, Ohio; died 25 July 1942, age 25, in Japanese captivity at Cabanatuan Prison Camp on Luzon — almost certainly a Bataan Death March survivor who did not survive the camp. (Earlier site versions of this page gave his birth as 13 August 1914; the GEDCOM and FamilySearch LB4C-DH3 record give 12 August 1916, which is consistent with the dates given for his siblings and is treated as authoritative.)"
 ---
 
-Lyle Eesley was born August 13, 1914, in Grove City, Ohio — the seventh of Charles Leonard and Lillie Dale Chenoweth Eesley's ten children. He died on **July 25, 1942**, at age 27, in the **Cabanatuan Prison Camp** on Luzon in the Philippines, where the Imperial Japanese Army had concentrated American and Filipino prisoners of war captured during the fall of the Philippines.
+Lyle Eesley was born **August 12, 1916**, in Grove City, Ohio &mdash; one of Charles Leonard and Lillie Dale Chenoweth Eesley's ten children. He died on **July 25, 1942**, at age **twenty-five**, in the **Cabanatuan Prison Camp** on Luzon in the Philippines, where the Imperial Japanese Army had concentrated American and Filipino prisoners of war captured during the fall of the Philippines.
 
 That his name appears in the 1985 *Eesley Family History* with the bare facts and that place name — *"died July 25, 1942, Cabanatuan Prison Camp, Luzon, Philippines"* — is itself the family's record of what happened. Cabanatuan was the largest of the Japanese camps in the Philippines; the men who arrived there in mid-1942 had survived the Bataan Death March. The death rate in the first six months was catastrophic.
 
@@ -30,7 +30,7 @@ Lyle has no surviving children in the family register; his line ends at this ent
 
 ## The one photograph
 
-A **[group portrait of Charles Leonard with five of his adult sons and his grandson Tommy, c. 1937&ndash;1939](/archive/charles-leonard-and-sons-late-1930s/)** &mdash; six men in formal suits against a hedge &mdash; is the only photograph of Lyle currently in the archive. **Lyle is second from the left**: fair-haired, in his early-to-mid twenties, head turned slightly toward Leonard David at his left. The frame catches him at home in Bexley three to five years before he shipped to the Philippines and never came home. The frame's date is bounded on the latest end by **Dale Eesley's death in July 1939** &mdash; Dale is the youngest of the five sons in the photograph, on the far right of the brothers' line.
+A **[group portrait of Charles Leonard with five of his adult sons and his grandson Tommy, July 1940](/archive/charles-leonard-and-sons-late-1930s/)** &mdash; six men in formal suits against a hedge &mdash; is the only photograph of Lyle currently in the archive. **Lyle is second from the left**: fair-haired, twenty-three years old, head turned slightly toward his older brother Leonard David at his left. The frame catches him at home in Bexley **two years before he shipped to the Philippines and never came home**.
 
 > *Sources: Mary Eesley Bean, *[Eesley Family History](/docs/eesley-family-history-1985/)*, March 1985, p. 8; cousin Roberta's 2019 oral note; the historical record of the Cabanatuan POW camp. Structured record: [Dale Eesley / FamilySearch — Lyle Eesley (LB4C-DH3)](https://www.familysearch.org/tree/person/details/LB4C-DH3).*
 
