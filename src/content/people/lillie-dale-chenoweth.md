@@ -13,10 +13,10 @@ parents:
 spouses:
   - charles-leonard-eesley
 portrait: ../../assets/family/maggie-deck/lillie-dale-chenoweth.jpeg
-summary: "Wife of Charles Leonard Eesley. Born 9 August 1877; died January 1970, age 92. Mother of ten children — three of whom died before she did: Jean Goldie at twelve in 1924, Dale Dudley George at twenty-two in 1939, and Lyle at twenty-seven in 1942 at the Cabanatuan POW camp. Through her the Chenoweth and Timmons lines enter the family. Sits at the center of the family group portrait."
+summary: "Wife of Charles Leonard Eesley. Born 9 August 1877; died January 1970, age 92. Mother of ten children — three of whom died before she did: Jean Goldie at twelve in 1924, Dale Dudley at thirty-two in 1939, and Lyle at twenty-five in 1942 at the Cabanatuan POW camp. Through her the Chenoweth and Timmons lines enter the family. Sits at the center of the family group portrait."
 ---
 
-Lillie Dale Chenoweth was born **August 9, 1877**. She married Charles Leonard Eesley and raised ten children with him in Geneva, Lebanon, Shelby, Grove City, and Columbus Ohio (with one daughter, Mary, born in Shelby, Michigan during a Michigan stay). She **outlived three of her children**: Jean Goldie died at twelve in 1924, Dale at twenty-two in 1939, and Lyle at twenty-seven in 1942 at a Japanese POW camp.
+Lillie Dale Chenoweth was born **August 9, 1877**. She married Charles Leonard Eesley and raised ten children with him in Geneva, Lebanon, Shelby, Grove City, and Columbus Ohio (with one daughter, Mary, born in Shelby, Michigan during a Michigan stay). She **outlived three of her children**: Jean Goldie died at twelve in 1924, Dale at thirty-two in 1939, and Lyle at twenty-five in 1942 at a Japanese POW camp.
 
 She died in **January 1970**, age 92, less than three years before her husband Charles Leonard. She is the matriarch at the center of the [late-1940s/'60s family group portrait](/archive/eesley-family-group-portrait-late-1940s/), photographed at the Bexley home where she had raised everyone.
 

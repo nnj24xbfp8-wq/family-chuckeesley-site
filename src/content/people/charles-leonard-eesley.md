@@ -13,7 +13,7 @@ parents:
 spouses:
   - lillie-dale-chenoweth
 portrait: ../../assets/family/maggie-deck/charles-leonard-eesley.jpeg
-summary: "Son of Albert Robert Eesley and Jeanie Goldie; husband of Lillie Dale Chenoweth (1877–1970); father of ten children — Leonard David (1904), Thomas Leonard (1906), James Michael 'Mike' (1908), Donald Stuart (1908), Wilbur 'Will' (1910), Jean Goldie (1912, died age 12), Mary Elizabeth (Bean, 1913), Lyle (1914–1942, Cabanatuan), Dale Dudley George (1916–1939), and Helen Louise (Burnes, 1924). The household was in Bexley, Ohio. Brought Stella Sunn into the family during the war and kept her there for over a decade."
+summary: "Son of Albert Robert Eesley and Jeanie Goldie; husband of Lillie Dale Chenoweth (1877–1970); father of ten children — Leonard David (1904), Thomas Leonard (1906), Dale Dudley (1906–1939), James Michael 'Mike' (1908), Donald Stuart (1908), Wilbur 'Will' (1910), Jean Goldie (1912, died age 12), Mary Elizabeth (Bean, 1913), Lyle (1916–1942, Cabanatuan), and Helen Louise (Burnes, 1924). Per the GEDCOM (FamilySearch MCZ8-WYX for Dale, LB4C-DH3 for Lyle), Dale's birth year is 1906 not 1916 and Lyle's is 1916 not 1914 — Bean's 1985 register has these two swapped. The household was in Bexley, Ohio. Brought Stella Sunn into the family during the war and kept her there for over a decade."
 ---
 
 Charles Leonard Eesley was born **September 26, 1879**, the ninth of ten children of [Albert Robert Eesley](/family/albert-robert-eesley/) and [Jeanie Goldie](/family/jeanie-goldie/). He married **[Lillie Dale Chenoweth](/family/lillie-dale-chenoweth/)** (b. August 9, 1877). Their family home was in **Bexley, Ohio** — the leafy independent municipality embedded in eastern Columbus — and the house often took in boarders.
@@ -27,8 +27,8 @@ Together they raised **ten children**, with two losses along the way:
 - **Wilbur "Will" Chenoweth** (October 6, 1910 – 1986)
 - **[Jean Goldie](/family/jean-goldie-eesley/)** (October 28, 1912 – 1924) — died at age 12 in Columbus
 - **[Mary Elizabeth](/family/mary-eesley-bean/)** (August 25, 1913, Shelby MI), who married William Thomas Bean and wrote the 1985 family history
-- **[Lyle](/family/lyle-eesley/)** (August 13, 1914, Grove City OH – July 25, 1942, Cabanatuan Prison Camp, Luzon, Philippines) — died as a Japanese POW
-- **Dale Dudley George** (August 5, 1916, Lebanon OH – July 12, 1939) — died at age 22; engaged to Thelma Haughn
+- **[Lyle](/family/lyle-eesley/)** (August 12, 1916, Grove City OH – July 25, 1942, Cabanatuan Prison Camp, Luzon, Philippines) — died as a Japanese POW at age 25
+- **[Dale Dudley](/family/dale-eesley/)** (August 5, 1906, Pleasant Township, Franklin OH – July 14, 1939) — died at age 32; engaged to Thelma Haughn. (Bean's 1985 register gives his middle name as "George" and his birth year as 1916; the GEDCOM and FamilySearch MCZ8-WYX correct both to "Dale Dudley" and 1906.)
 - **[Helen Louise](/family/helen-burnes/)** (January 16, 1924, Columbus OH), who married Edwin William Burnes — Roberta Burnes's mother
 
 ## The two acts that define him
