@@ -21,3 +21,6 @@ pnpm-debug.log*
 # local zip artifact (drag-to-deploy, not for the repo)
 family-history-site.zip
 _build-tmpcache.mjs
+
+# Large files (>100 MB) that can't be pushed to GitHub. Keep them locally outside the repo's tracked tree.
+large-files/
