@@ -53,10 +53,6 @@ Below, as the scans and transcriptions come in, the individual letter pages will
 
 If you are a family member who has additional letters &mdash; or who knew Charlie during those years and has letters of your own that should sit alongside his &mdash; please contact Chuck.
 
-## The letters
-
-*The list of individual letter pages renders automatically below this body, sorted by postmark date. Each entry links to its own page — the published letters carry the transcription and scans; the withheld letters carry the metadata only and a "Withheld at the family's request" panel where the body would be.*
-
 ## On reading him at twenty-two
 
 Charlie was twenty-two when he arrived in Saigon and twenty-four when he rotated out. He had already met Terrie &mdash; most of these letters are to her &mdash; but he had not yet married her, not yet had Chuck, not yet been a stockbroker, not yet sat on the church board, not yet flipped the tractor over on himself on Highland Ridge. The voice in these letters is the voice of a young man whose adult life was, in important ways, about to begin and was, in other important ways, being formed by the two years he was living through. He is recognizably himself &mdash; the dry-to-dark humor, the sense for absurdity, the moral clarity about what was and was not worth getting court-martialed for &mdash; and he is also not yet the man his son would later eulogize. Both layers matter.
