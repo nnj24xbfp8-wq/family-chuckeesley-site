@@ -9,6 +9,9 @@ death:
   date: "2007-05-21"
   place: "Harmar Place, Marietta, Ohio"
 generation: 5
+parents:
+  - robert-thompson-mcmaster
+  - alice-anderson-mcmaster
 spouses:
   - wilbur-eesley
 portrait: ../../assets/family/originals/Picture1.jpeg
@@ -17,7 +20,7 @@ summary: "Wife of Will Eesley (m. 20 June 1942); daughter of Robert T. and Alice
 
 ## Coraopolis, Bethel, Penn State
 
-Peggy was born **September 10, 1914 in Coraopolis, Pennsylvania** &mdash; the small borough on the Ohio River just northwest of Pittsburgh &mdash; to [Robert T. McMaster](/family/) (civil engineer) and [Alice Anderson McMaster](/family/) (schoolteacher). She graduated from **Bethel High School (Bethel, Pennsylvania)** in **1930** &mdash; finishing high school not quite sixteen &mdash; and from **Pennsylvania State University** in **1936**, having gone up at seventeen and joined **Phi Mu Sorority** there. The line about the Penn State years that survived into the family memory: *"I never lacked for a dance partner."* It is the only surviving sentence from before Will, and it sits in the record the way her dry humor later would &mdash; one phrase that says exactly the kind of person she had been.
+Peggy was born **September 10, 1914 in Coraopolis, Pennsylvania** &mdash; the small borough on the Ohio River just northwest of Pittsburgh &mdash; to [Robert Thompson McMaster](/family/robert-thompson-mcmaster/) (civil engineer) and [Alice Anderson McMaster](/family/alice-anderson-mcmaster/) (schoolteacher). She graduated from **Bethel High School (Bethel, Pennsylvania)** in **1930** &mdash; finishing high school not quite sixteen &mdash; and from **Pennsylvania State University** in **1936**, having gone up at seventeen and joined **Phi Mu Sorority** there. The line about the Penn State years that survived into the family memory: *"I never lacked for a dance partner."* It is the only surviving sentence from before Will, and it sits in the record the way her dry humor later would &mdash; one phrase that says exactly the kind of person she had been.
 
 ## The Home Ec classroom
 
@@ -51,7 +54,7 @@ A memorial service was held at **First Congregational Church** in Marietta on th
 
 She did not live to see Chuck finish the MIT PhD (2009) or take the Stanford appointment in the years after. But the four-generation chain her investing had set running &mdash; Marietta dollars compounding for half a century into a Stanford education and onto a Stanford faculty appointment &mdash; was already in motion. She had done her half of the arc by the time she went.
 
-The McMaster and Anderson lines on Peggy's side &mdash; Robert Thompson McMaster the civil engineer, Alice Anderson McMaster the schoolteacher, Gilbert Clement and Margaret Thompson McMaster, Rev. Abraham Ramsey Anderson and Nancy Jane Shaw, plus Donald A. McMaster who ran the northeastern U.S. communications power grid in WWII &mdash; are documented in Bean's 1985 register and queued as future entries.
+The McMaster and Anderson lines on Peggy's side are now seeded in the archive: **[Robert Thompson McMaster](/family/robert-thompson-mcmaster/)** the civil engineer, **[Alice Anderson McMaster](/family/alice-anderson-mcmaster/)** the Clifton-School teacher, **[Gilbert Clement](/family/gilbert-clement-mcmaster/)** and **[Margaret Thompson McMaster](/family/margaret-thompson-mcmaster/)** (Margaret photographed in 1866 holding the twin sons Erasmus Darwin and Robert T.), **[Rev. Abraham Ramsey Anderson](/family/abraham-ramsey-anderson/)** the Presbyterian minister and **[Nancy Jane Shaw](/family/nancy-jane-shaw-anderson/)**, plus Peggy's brother **[Donald Anderson McMaster](/family/donald-anderson-mcmaster/)**, who ran the northeastern U.S. communications power grid in WWII. The deepest documented McMaster ancestor here is Gilbert Clement (b. 1833); on the Chenoweth side it reaches one generation further to **[John K. Timmons](/family/john-k-timmons/)** (1806&ndash;1899). All eleven new entries draw on Aunt Maggie Eesley's *Four Generations* archive.
 
 ## Photographs in the archive
 
