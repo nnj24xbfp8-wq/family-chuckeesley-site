@@ -44,5 +44,5 @@ For historical context on the world Robert Earl was navigating through:
 
 - [*Hiroshima*](https://en.wikipedia.org/wiki/Hiroshima_(book)) by John Hersey &mdash; the founding account of what happened on the ground at the cities his camera plane filmed from the air.
 - [The 90th Bomb Group "Jolly Rogers"](https://en.wikipedia.org/wiki/90th_Operations_Group) on Wikipedia &mdash; the unit, the B-24s, the Pacific airfields he flew out of.
-- [*Wings of Morning: The Story of the Last American Bomber Shot Down over Germany in World War II*](https://www.goodreads.com/book/show/186729.Wings_of_Morning) by Thomas Childers &mdash; on what a B-24 crew was, and was to each other.
+- [*Wings of Morning: The Story of the Last American Bomber Shot Down over Germany in World War II*](https://www.goodreads.com/book/show/326862.Wings_Of_Morning) by Thomas Childers &mdash; on what a B-24 crew was, and was to each other.
 - [The GI Bill](https://en.wikipedia.org/wiki/G.I._Bill) on Wikipedia &mdash; the program that took Robert Earl from a Pacific airfield to Stanford in two years.
