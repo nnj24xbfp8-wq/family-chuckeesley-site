@@ -1,7 +1,7 @@
 ---
 title: "Eesley Family Group Portrait, c. 1899 — Albert Robert Sr, Jennie Goldie, and Their Ten Children"
 type: "Photograph"
-image: ../../assets/family/originals/IMG_5533.jpeg
+image: ../../assets/family/originals/IMG_4056.jpeg
 medium: "Formal sepia-toned studio photograph"
 dateCreated: "circa 1899 (family caption: 'Believed to have been taken in 1899')"
 placeCreated: "Toronto, Canada (presumed — the family's home by this date)"
@@ -84,4 +84,32 @@ That leaves **Caption "Bessie" and Caption "Alfred"** unexplained, against the o
 
 Both questions are queued.
 
-> *Family caption transmitted by Chuck Eesley, 2026. Image: `IMG_5533.jpeg` in the family archive. Identifications reconciled against [William Eesley's c. 1916 obituary](/docs/william-eesley-obituary-college-corner/).*
+## The two captions, side by side
+
+Two caption documents accompany this photograph in the family archive:
+
+1. **A typed caption card** &mdash; held with the print and scanned alongside it as `IMG_4057.jpeg`. The text reads exactly:
+
+   > *Believed to have been taken in 1899*
+   >
+   > *Parents: Albert Robert Eesley and Jeannie Goldie Eesley*
+   >
+   > *Bessie · George · Charlie · Jennie · John (oldest) · Bert*
+   >
+   > *Will · Garfield · Alfred · Anna*
+   >
+   > *(Bert was Robert Albert, father of George Edburn "Bus" Eesley & Grandfather of Dick & Dan)*
+
+   The layout of the names &mdash; six names on the top row and four below &mdash; mirrors the photograph's two-row composition. The top row of names corresponds to the standing figures; the bottom row to the seated children among the seated parents. The footnote anchors **Bert** to **R. Albert** and forward through George "Bus" Eesley to Daniel "Dan" Eesley of San Francisco &mdash; the most important cross-reference on the page, since it anchors the entire [Albert Robert Jr branch](/family/albert-robert-eesley-jr/) of the family.
+
+2. **The "Eesleys circa 1900" PowerPoint deck** (also family-archived) &mdash; gives the same identifications but distinguishes the standing row from the seated row precisely:
+
+   > *Standing left to right: Jennie, George, Charles, Bessie, John, Robert Albert ("Bert").*
+   >
+   > *Seated left to right: Will, Jeanie Goldie Eesley (Mom), Garfield, Albert Robert Eesley (Dad), Alf (Albert Robert), Hanna ("Anna").*
+
+   And resolves two key naming questions noted in the entry above: **Alfred's full name is also Albert Robert** (he was called "Alf"; there are three Albert Roberts in the family); **Anna's actual given name was Hanna.**
+
+The two captions together &mdash; the typed family caption and the PowerPoint deck &mdash; constitute the definitive identification of every figure in the photograph.
+
+> *Family captions transmitted by Chuck Eesley, 2026. High-resolution scan: `IMG_4056.jpeg`. Caption card scan: `IMG_4057.jpeg`. Identifications reconciled against [William Eesley's c. 1916 obituary](/docs/william-eesley-obituary-college-corner/).*
