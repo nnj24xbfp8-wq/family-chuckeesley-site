@@ -1,34 +1,133 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getAllPeople, publicDisplay } from '../../lib/relations';
+import { formatLifespan, sortableYear } from '../../utils/lifespan';
 
 const people = await getAllPeople();
-const byLine = {
-  paternal: people.filter((p) => p.data.line === 'paternal'),
-  maternal: people.filter((p) => p.data.line === 'maternal'),
-  crew: people.filter((p) => p.data.line === 'crew'),
-  other: people.filter((p) => !p.data.line || p.data.line === 'other'),
+
+// Group by line. 'connected' covers the unlabeled in-laws / married-in / friends.
+type LineKey = 'paternal' | 'maternal' | 'zhou' | 'connected' | 'crew';
+const byLine: Record<LineKey, typeof people> = {
+  paternal: [],
+  maternal: [],
+  zhou: [],
+  connected: [],
+  crew: [],
 };
+for (const p of people) {
+  const l = p.data.line;
+  if (l === 'paternal' || l === 'maternal' || l === 'zhou' || l === 'crew') byLine[l].push(p);
+  else byLine.connected.push(p);
+}
+
+// Within a line: group by generation (oldest first), then by birth year.
+function groupByGeneration(list: typeof people) {
+  const buckets = new Map<number | 'unknown', typeof people>();
+  for (const p of list) {
+    const g = p.data.generation;
+    const key = (typeof g === 'number') ? g : 'unknown';
+    if (!buckets.has(key)) buckets.set(key, []);
+    buckets.get(key)!.push(p);
+  }
+  const known = [...buckets.entries()]
+    .filter(([k]) => k !== 'unknown')
+    .sort(([a], [b]) => (a as number) - (b as number));
+  const unknown = buckets.get('unknown');
+  if (unknown && unknown.length) known.push(['unknown', unknown]);
+  // Sort within each generation by birth year ascending, then name.
+  for (const [, group] of known) {
+    group.sort((a, b) => {
+      const ya = sortableYear(a.data.birth?.date);
+      const yb = sortableYear(b.data.birth?.date);
+      if (ya !== yb) return ya - yb;
+      return a.data.name.localeCompare(b.data.name);
+    });
+  }
+  return known as Array<[number | 'unknown', typeof people]>;
+}
+
+// Generation label — rough kinship words relative to Chuck.
+// Higher numbers are younger. Adjust if Chuck's own generation gets formalized.
+function generationLabel(g: number | 'unknown', line: LineKey): string {
+  if (g === 'unknown') return 'Generation unknown';
+  if (line === 'zhou') {
+    // Chuck's children's gen = ~8; Chuck = 7; parents-in-law gen = 6; etc.
+    const map: Record<number, string> = {
+      8: 'Children',
+      7: 'Lijie & Chuck',
+      6: "Lijie's parents",
+      5: 'Grandparents',
+      4: 'Great-grandparents',
+      3: 'Great-great-grandparents',
+    };
+    return map[g] ?? `Generation ${g}`;
+  }
+  const map: Record<number, string> = {
+    8: 'Children',
+    7: 'Chuck',
+    6: "Chuck's parents",
+    5: 'Grandparents',
+    4: 'Great-grandparents',
+    3: 'Great-great-grandparents',
+    2: '3× great-grandparents',
+    1: '4× great-grandparents',
+    0: '5× great-grandparents',
+    [-1]: '6× great-grandparents',
+    [-2]: '7× great-grandparents',
+    [-3]: '8× great-grandparents',
+  };
+  return map[g as number] ?? `Generation ${g}`;
+}
+
+const lineLabel: Record<LineKey, string> = {
+  paternal: 'Paternal — Eesley, McMaster, Anderson, Chenoweth',
+  maternal: 'Maternal — Wildermuth, Davis, Fleming',
+  zhou: "Zhou — Lijie's line (Qingdao, Shandong)",
+  connected: 'Connected — married in, friends, adjacent',
+  crew: "Robert Earl's B-24 crew (400th Squadron, 90th Bomb Group)",
+};
+
+const lineNote: Partial<Record<LineKey, string>> = {
+  zhou: "Published and four generations deep — still growing as Lijie's family confirms name characters and earlier ancestors.",
+  connected: 'These people are in the archive because they connect to one of the lines above through marriage, friendship, or adjacency.',
+  crew: 'Non-family. The ten-man B-24 crew Robert Earl flew with out of Biak, Leyte, and Mindoro in 1944–45.',
+};
+
+// Lines render in this order.
+const order: LineKey[] = ['paternal', 'maternal', 'zhou', 'connected', 'crew'];
 ---
 <BaseLayout title="The family">
-  <h1 class="text-3xl font-serif mb-6">The family</h1>
+  <h1 class="text-3xl font-serif mb-2">The family</h1>
+  <p class="text-ink/70 italic mb-8">
+    Grouped by line, then by generation (oldest first), then by birth year.
+  </p>
 
-  {Object.entries(byLine).map(([line, list]) => list.length > 0 && (
-    <section class="mb-10">
-      <h2 class="text-xl font-serif capitalize mb-3">{line === 'crew' ? "Robert Earl's crew (B-24, 400th Sq)" : line}</h2>
-      <ul class="space-y-1">
-        {list.map((p) => {
-          const d = publicDisplay(p);
-          const years = !d.living && (d.birth?.date || d.death?.date)
-            ? ` (${d.birth?.date ?? '?'}–${d.death?.date ?? ''})`
-            : '';
-          return (
-            <li>
-              <a href={`/family/${p.id}/`}>{d.name}</a><span class="text-ink/60 text-sm">{years}</span>
-            </li>
-          );
-        })}
-      </ul>
+  {order.map((line) => byLine[line].length > 0 && (
+    <section class="mb-12">
+      <h2 class="text-xl font-serif mb-1">{lineLabel[line]}</h2>
+      {lineNote[line] && (
+        <p class="text-ink/60 text-sm italic mb-4">{lineNote[line]}</p>
+      )}
+
+      {groupByGeneration(byLine[line]).map(([gen, group]) => (
+        <div class="mb-6">
+          <h3 class="text-sm uppercase tracking-wider text-ink/50 mt-4 mb-2">
+            {generationLabel(gen, line)}
+          </h3>
+          <ul class="space-y-1">
+            {group.map((p) => {
+              const d = publicDisplay(p);
+              const span = d.living ? '' : formatLifespan(d.birth?.date, d.death?.date);
+              return (
+                <li>
+                  <a href={`/family/${p.id}/`}>{d.name}</a>
+                  {span && <span class="text-ink/60 text-sm"> &nbsp;({span})</span>}
+                </li>
+              );
+            })}
+          </ul>
+        </div>
+      ))}
     </section>
   ))}
 </BaseLayout>

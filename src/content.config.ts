@@ -69,6 +69,12 @@ const documents = defineCollection({
       dateRange: z
         .object({ start: z.string(), end: z.string().optional() })
         .optional(),
+      // Optional ISO override for sorting on indexes when dateRange.start
+      // is fuzzy or missing. Display still uses dateRange / postmarkDate.
+      sortDate: z.string().optional(),
+      // Optional one-line teaser used on the Stories index instead of
+      // the full `summary` (which can carry provenance meta-notes).
+      teaser: z.string().optional(),
       summary: z.string(),
       source: z.string().optional(),               // original filename, for provenance
       scans: z.array(image()).default([]),
@@ -90,6 +96,9 @@ const artifacts = defineCollection({
       condition: z.string().optional(),
       creator: z.string().optional(),
       dateCreated: z.string().optional(),
+      // Optional ISO override for sorting on the Archive index when
+      // dateCreated is fuzzy (e.g. "circa 1899"). Display still uses dateCreated.
+      sortDate: z.string().optional(),
       placeCreated: z.string().optional(),
       idNumber: z.string().optional(),
       provenance: z.string().optional(),
