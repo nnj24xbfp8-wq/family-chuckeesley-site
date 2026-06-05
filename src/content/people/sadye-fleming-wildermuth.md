@@ -41,6 +41,22 @@ Per the obituary, Sadye was one of at least seven Fleming children &mdash; **thr
 
 She died **at 1:30 p.m.** the day before her obituary ran, at **Marietta Memorial Hospital**, age **75**. Her husband Earl survived her. Funeral services were held at McClure-Schafer Funeral Home in Marietta; burial at **Valley Cemetery**. Their address was **320 Harmar Street**, Marietta.
 
-Robert Earl's later research notes &mdash; the documents this archive is built on &mdash; ran the German Wildermuth side back to 18th-century Württemberg. The Fleming and Sheppard sides of his own mother's line are the open work: Waverly, West Virginia in 1901 is where Sadye starts, and what comes before that is the next thread to pull.
+## The Welsh-Irish self-identification, and what Robert Earl actually found
 
-> *Source: Sadye I. Wildermuth obituary (Mrs. Earl Wildermuth), Marietta Times, c. 1976. The structured FamilySearch tree records her as Sadye Irene Fleming. Newspaper clipping in family collection (Chuck Eesley). The "Robert A." reading in the printed obituary is corrected to Robert E. (Earl) here.*
+Sadye told her son Robert Earl, when he interviewed her about her family history in late 1971, that she was **"of Welsh-Irish extraction"** &mdash; *"but she never seemed quite sure."* That uncertainty is itself a recurring 20th-century pattern, the daughter of immigrants generations removed from the source carrying a hazy family-memory ethnic label.
+
+Robert Earl's [eighteen-year genealogical research](/docs/wildermuth-fleming-heritage-1990/) on the Fleming line corrected the picture. He traced the Flemings back to **John Fleming of Montgomery County, Maryland in the 1750s** &mdash; with the earliest material from his pen-pal **Michael G. Roberts** of Akron, Ohio, a fellow Fleming genealogist Robert Earl never met in person but corresponded with for years. Robert Earl's note in 1990:
+
+> *I have closely checked all of his information and except for the John Fleming who came from Ireland (he was Scotch however &mdash; Scotch Irish or a Scot living in Northern Ireland) I have verified all of the information.*
+
+So the family memory of "Welsh-Irish" turned out to be **Scotch-Irish &mdash; specifically Scots living in Northern Ireland** who came to colonial Maryland in the 1750s. This was one of the major American immigration streams of the 18th century &mdash; the Scotch-Irish from Ulster who came down through Pennsylvania and out into Maryland and Virginia, then on west and south. The Flemings reached the Marietta side of the Ohio River through that stream.
+
+## Why Sadye had no birth record
+
+A separate finding from Robert Earl's research: when Sadye applied for Social Security, **she was unable to produce a birth certificate** &mdash; despite being born in Waverly, West Virginia in 1901. Her birth had **never been officially recorded**. Robert Earl's explanation in the 1990 Heritage:
+
+> *Travel throughout rural West Virginia in 1900 was extremely difficult. The hilly terrain, the lack of adequate roads, the fording of countless streams made rural travel most difficult.... It is easy to understand why births in rural West Virginia never got recorded. There were no doctors in attendance at the birth (mostly mid-wives) and word of a birth was primarily spread by word of mouth with no one taking official notice.*
+
+Sadye eventually established her birth date through **friends of the family attesting to her birth** &mdash; the kind of community-affidavit proof that the U.S. Social Security Administration accepted as substitute documentation in such cases. Robert Earl did find the birth records of Sadye's younger siblings in the Wood County Court House in Parkersburg, but never Sadye's own.
+
+> *Sources: [The Wildermuth/Fleming Heritage by Robert Earl Wildermuth, 1990](/docs/wildermuth-fleming-heritage-1990/); Sadye I. Wildermuth obituary (Mrs. Earl Wildermuth), Marietta Times, c. 1976; FamilySearch tree.*

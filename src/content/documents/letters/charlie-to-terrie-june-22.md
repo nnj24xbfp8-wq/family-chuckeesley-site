@@ -1,5 +1,5 @@
 ---
-title: "Letter to Terrie, 22 June (Vietnam, year pending — 1969, 1970, or 1971)"
+title: "Letter to Terrie, 22 June 1970"
 type: letter
 author: charles-eesley
 recipient: terrie-lee-eesley
@@ -10,12 +10,11 @@ people:
 partOf: letters-from-vietnam
 locationFrom: "Vietnam (in the field — unscheduled helicopter outgoing)"
 locationTo: "Maryland (presumed — Terrie was at University of Maryland during this period)"
-postmarkDate: "????-06-22"
+postmarkDate: "1970-06-22"
 dateRange:
-  start: "1969-06-22"
-  end: "1971-06-22"
+  start: "1970-06-22"
 private: false
-summary: "Charlie's letter to Terrie dated '22 June,' year not stated — written from the field in Vietnam, between the first contact action of his tour and a mail delivery on 20 June that brought him 12 letters but only one from Terrie. The letter is one of the few that records combat ('We ran into our first action. No one was hurt and it is really weird. You can only see 15 feet ahead through the brush'), one of the few that records the relationship strain (her father's attitude, the imbalance of letters received), and one of the few that records his practical financial planning for after the war (the army 50% savings program he was putting most of his money toward). The 'first action' phrase is the strongest single piece of internal evidence for dating it to the first weeks of his tour."
+summary: "Charlie's letter to Terrie dated 22 June 1970 — written from the field in Vietnam, between the first contact action of his tour and a mail delivery on 20 June that brought him 12 letters but only one from Terrie. The letter is one of the few that records combat ('We ran into our first action. No one was hurt and it is really weird. You can only see 15 feet ahead through the brush'), one of the few that records the relationship strain (her father's attitude, the imbalance of letters received), and one of the few that records his practical financial planning for after the war (the army 50% savings program he was putting most of his money toward). Year confirmed as 1970 by Chuck in 2026."
 source: "Held in family archive — src/assets/family/originals/vietnam-letters/dad1.jpg. First scan in the larger sequence."
 scans:
   - ../../../assets/family/originals/vietnam-letters/dad1.jpg
@@ -23,9 +22,11 @@ scans:
 
 ## What the letter is
 
-**Dated only "June 22"** with no year. Charlie writes Terrie a quick note from the field as an unscheduled helicopter is coming out &mdash; this is the kind of operational detail that doesn't appear in the eulogy and only appears in the letters. The last two days have been **"hectic"**: *"We ran into our first action. No one was hurt and it is really weird. You can only see 15 feet ahead through the brush. I was close but wasn't really in it."*
+**Dated 22 June 1970** &mdash; the year confirmed by Chuck in 2026 from the family archive. Charlie writes Terrie a quick note from the field as an unscheduled helicopter is coming out; this is the kind of operational detail that doesn't appear in the eulogy and only appears in the letters. The last two days have been **"hectic"**: *"We ran into our first action. No one was hurt and it is really weird. You can only see 15 feet ahead through the brush. I was close but wasn't really in it."*
 
-The "first action" phrase is the **strongest piece of internal evidence for the year**. If it's literally true that this is the first contact engagement of his tour, the letter is from the first weeks of his deployment &mdash; almost certainly **summer 1969 or summer 1970** depending on which year his unit deployed. The eulogy's framing of his tour is 1969&ndash;71; this archive's working range is 1969&ndash;71; June 22 in either 1969 or 1970 is the most likely date.
+The June 1970 date places this letter in the period when the **101st Airborne Division** &mdash; the unit whose Screaming Eagle patch Charlie wears on his right shoulder in the [Vietnam club photograph](/archive/charlie-eesley-vietnam-club/) &mdash; was operating in I Corps, the northern military region of South Vietnam, with major bases at Phu Bai and Camp Eagle near Hu&#7871;. The "first action" he describes &mdash; brush so thick you could only see fifteen feet ahead, no one hurt, his calm understatement that it was "really weird" &mdash; is consistent with the kind of contact engagement that an infantry or air-mobile unit would have routinely had in the mountain and jungle terrain south and west of Hu&#7871; in summer 1970.
+
+By **20 June 1970** &mdash; two days before this letter &mdash; he had received twelve letters in one mail call but only one from Terrie. The imbalance is the source of his question to her: *"What is wrong?"*
 
 ## Transcription
 
@@ -49,12 +50,4 @@ The "first action" phrase is the **strongest piece of internal evidence for the 
 
 3. **The 50% deal.** The U.S. Army's wartime soldier-savings program let servicemembers in Vietnam deposit a portion of their pay at **10% interest** &mdash; significantly higher than civilian rates. Charlie put most of his money toward it and expected about **$2,000** when he rotated out &mdash; roughly $15,000 in 2026 dollars. The fact that he is already, in his first weeks of action, planning for *after* the war is the through-line.
 
-## Year-dating follow-ups
-
-To nail down the year:
-
-- **Postmark on the envelope** would resolve it instantly. The envelope for this letter is not yet identified in the larger `dad*.jpg` sequence; cataloguing the rest will surface it.
-- **Cross-reference with Terrie's University of Maryland records** &mdash; the "How did you do in school?" line implies her semester had just ended, which on the U.S. academic calendar would be late May or early June 1969, 1970, or 1971.
-- **Unit and deployment records** for Charlie's specific Army assignment, when surfaced, will settle when his "first action" actually occurred.
-
-> *This is the first letter placed in the Vietnam collection. As more letters from the dad*.jpg sequence are catalogued, this letter's year will likely be settled by cross-reference with adjacent dated letters.*
+> *This is the first letter placed in the Vietnam collection. Year confirmed as 1970 by Chuck Eesley, 2026.*
