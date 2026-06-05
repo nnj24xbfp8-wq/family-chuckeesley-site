@@ -13,9 +13,10 @@ dateRange:
   start: "1968-12-13"
 private: false
 summary: "Charlie's letter to Terrie dated 12/13/68 — the chronological start of his surviving correspondence with her, written a year before he shipped to Vietnam. He's at college, the kitchen is dirty again, a friend got engaged 'to his pinmate,' last night's formal was a flop, and he's glad she's been accepted into Maryland. The voice that will write the Vietnam letters is already on the page — dry, observational, deferential to her news, attentive in his way."
-source: "Held in family archive — src/assets/family/originals/charles-eesley-other-correspondence/charlie-to-terrie-1968-12-13-pre-vietnam.jpeg."
+source: "Held in family archive — page 1 at src/assets/family/originals/charles-eesley-other-correspondence/charlie-to-terrie-1968-12-13-pre-vietnam.jpeg; page 2 at src/assets/family/originals/IMG_6241.jpeg."
 scans:
   - ../../../assets/family/originals/charles-eesley-other-correspondence/charlie-to-terrie-1968-12-13-pre-vietnam.jpeg
+  - ../../../assets/family/originals/IMG_6241.jpeg
 ---
 
 ## What the letter is
@@ -36,7 +37,15 @@ It is the **chronological start of the surviving Charlie-and-Terrie corresponden
 >
 > I'm glad to hear you were accepted into Maryland.
 >
-> [page break / further passages on subsequent pages of this letter not yet placed in archive]
+> *[continues on page 2:]*
+>
+> ...your birthday. It is the 13th, isn't it? I don't even know what you like. I could give you a subscription to what I gave you for Christmas so it would come every month or so. I don't know whether they handle subscriptions, though. How about a pair of pyjamas?
+>
+> I assume you still have your job. Did you get your sick pay? Let me know when you get accepted to U. of Maryland.
+>
+> My beloved roommate Jay Kay came in last night. The New Year did not do anything for him. He is as obnoxious as...
+>
+> *[further pages not yet placed in archive]*
 
 ## Things worth noting
 

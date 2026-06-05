@@ -25,17 +25,16 @@ people:
 
 The twelve-figure formal studio portrait of **[Albert Robert Eesley Sr](/family/albert-robert-eesley/) (b. 25 December 1837, Stratford-on-Avon, England; d. 5 April 1902, Toronto)** and his wife **[Jennie Goldie](/family/jeanie-goldie/) (b. 12 December 1836, Ayrshire, Scotland; d. 12 August 1911, Toronto)**, **with all ten of their children**, **c. 1899**.
 
-The family caption that came with the print &mdash; transmitted to this archive by Chuck Eesley in 2026 &mdash; reads:
+Two captions on this photograph have reached this archive. The **first**, a handwritten family note Chuck transmitted in 2026, identifies the ten children by first name in left-to-right order. The **second**, more precise, is a slide in a family-compiled *"Eesleys circa 1900"* PowerPoint deck (also transmitted by Chuck) that distinguishes the standing row from the seated row:
 
-> *Believed to have been taken in 1899.*
->
-> *Parents: Albert Robert Eesley and Jeannie Goldie Eesley.*
->
-> *Bessie, George, Charlie, Jennie, John (oldest), Bert, Will, Garfield, Alfred, Anna.*
->
-> *(Bert was Robert Albert, father of George Edburn "Bus" Eesley & Grandfather of Dick & Dan.)*
+> *The Eesleys Family &mdash; Standing left to right: Jennie, George, Charles, Bessie, John, Robert Albert ("Bert"). Seated left to right: Will, Jeanie Goldie Eesley (Mom), Garfield, Albert Robert Eesley (Dad), Alf (Albert Robert), Hanna ("Anna"). Photo taken circa 1900.*
 
-The note at the bottom of the caption is the key cross-reference: it directly links **"Bert"** in this 1899 portrait to **[R. Albert Eesley Jr.](/family/albert-robert-eesley-jr/)** &mdash; the man whose son was George Edburn "Bus" Eesley (d. 1942), whose grandson was the San Francisco engineer [Daniel "Dan" Eesley](/family/daniel-edburn-eesley/) (1931&ndash;2018). The full San-Francisco-via-Buffalo-via-Fremont-via-Toronto path of that branch is anchored back to this 1899 frame.
+Two important corrections come out of that second caption that the first had not made explicit:
+
+1. **Alfred's full name is also Albert Robert**, with "Alf" as the family nickname. That makes **three Albert Roberts in the same family** &mdash; the father (Albert Robert Sr), the son who became R. Albert Jr. (Bert), and this third son Alf. The convention of two sons given the father's full name is unusual but documented here.
+2. **Anna's actual given name was Hanna** &mdash; "Anna" was the nickname / Americanised spelling.
+
+The handwritten family caption also adds the key cross-reference: **"Bert was Robert Albert, father of George Edburn 'Bus' Eesley & Grandfather of Dick & Dan."** It directly links Bert in this 1899 portrait to **[R. Albert Eesley Jr.](/family/albert-robert-eesley-jr/)** &mdash; the man whose son was George Edburn "Bus" Eesley (d. 1942), whose grandson was the San Francisco engineer [Daniel "Dan" Eesley](/family/daniel-edburn-eesley/) (1931&ndash;2018). The full San-Francisco-via-Buffalo-via-Fremont-via-Toronto path of that branch is anchored back to this 1899 frame.
 
 ## The ten children in 1899
 

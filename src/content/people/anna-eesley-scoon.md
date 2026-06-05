@@ -1,6 +1,6 @@
 ---
-name: "Anna (Eesley) Scoon"
-aka: "Anna Eesley, maiden; Mrs. J. B. Scoon of Toronto"
+name: "Hanna 'Anna' (Eesley) Scoon"
+aka: "Hanna Eesley (the 'Eesleys circa 1900' PowerPoint caption gives this as her actual given name); Anna (the everyday family nickname); Mrs. J. B. Scoon of Toronto"
 line: paternal
 generation: 4
 parents:

@@ -13,10 +13,24 @@ parents:
 spouses:
   - lillie-dale-chenoweth
 portrait: ../../assets/family/maggie-deck/charles-leonard-eesley.jpeg
-summary: "Son of Albert Robert Eesley and Jeanie Goldie; husband of Lillie Dale Chenoweth (1877–1970); father of ten children — Leonard David (1904), Thomas Leonard (1906), Dale Dudley (1906–1939), James Michael 'Mike' (1908), Donald Stuart (1908), Wilbur 'Will' (1910), Jean Goldie (1912, died age 12), Mary Elizabeth (Bean, 1913), Lyle (1916–1942, Cabanatuan), and Helen Louise (Burnes, 1924). Per the GEDCOM (FamilySearch MCZ8-WYX for Dale, LB4C-DH3 for Lyle), Dale's birth year is 1906 not 1916 and Lyle's is 1916 not 1914 — Bean's 1985 register has these two swapped. The household was in Bexley, Ohio. Brought Stella Sunn into the family during the war and kept her there for over a decade."
+summary: "Son of Albert Robert Eesley Sr and Jeanie Goldie; husband of Lillie Dale Chenoweth (1877–1970); one of the six miller-brothers of his generation per William Eesley's c. 1916 obituary — the trade carried directly from his father's Stratford-on-Avon-to-Toronto milling years through John Franklin's Plainwell Sunshine Flour Mill and William's College Corner mill into his own working life. Father of ten children — Leonard David (1904), Thomas Leonard (1906), Dale Dudley (1906–1939), James Michael 'Mike' (1908), Donald Stuart (1908), Wilbur 'Will' (1910), Jean Goldie (1912, died age 12), Mary Elizabeth (Bean, 1913), Lyle (1916–1942, Cabanatuan), and Helen Louise (Burnes, 1924). Per the GEDCOM (FamilySearch MCZ8-WYX for Dale, LB4C-DH3 for Lyle), Dale's birth year is 1906 not 1916 and Lyle's is 1916 not 1914 — Bean's 1985 register has these two swapped. The household was in Bexley, Ohio. Brought Stella Sunn into the family during the war and kept her there for over a decade."
 ---
 
 Charles Leonard Eesley was born **September 26, 1879**, the ninth of ten children of [Albert Robert Eesley](/family/albert-robert-eesley/) and [Jeanie Goldie](/family/jeanie-goldie/). He married **[Lillie Dale Chenoweth](/family/lillie-dale-chenoweth/)** (b. August 9, 1877). Their family home was in **Bexley, Ohio** — the leafy independent municipality embedded in eastern Columbus — and the house often took in boarders.
+
+## The miller
+
+Per [William Eesley's c. 1916 obituary](/docs/william-eesley-obituary-college-corner/), **all six of Albert Robert Sr's sons in this generation became millers** — John R., William, Robert, A. R. Jr., **C. L.** (Charles Leonard), and Garfield, "all of whom became millers." Charles Leonard was one of them. The Eesley milling identity ran continuously from John Eesley the Hanwell, Oxfordshire journeyman miller (Charles Leonard's great-grandfather) through Albert Robert Sr in Stratford-on-Avon, Newark, Ayr, and Toronto, into his ten children across Ontario, Michigan, and Ohio — six brothers, one trade.
+
+The geography of his ten children's birthplaces is itself a journeyman miller's career map:
+
+- **Geneva, Ohio** (Leonard David, 1904)
+- **Lebanon, Ohio** (Dale Dudley, 1906)
+- **Shelby, Michigan** (Mary Elizabeth, 1913)
+- **Grove City, Ohio** (Lyle, 1916)
+- **Columbus, Ohio** (Helen Louise, 1924)
+
+Each move is consistent with a milling assignment at a different mill. By the late 1920s he had settled the household permanently in **Bexley**, by which time he was likely managing a Columbus-area milling operation rather than moving as a journeyman.
 
 Together they raised **ten children**, with two losses along the way:
 
