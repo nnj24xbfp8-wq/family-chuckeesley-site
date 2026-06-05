@@ -47,11 +47,11 @@ visits:
 
 Charlie's [eulogy](/docs/eulogy-charles-mcmaster-eesley/) names Saigon specifically: it places him there with his "smart-ass comments that probably nearly got him court-marshaled," it records that the stereo and record player he bought when he got home was the first thing he bought when he got home, and it includes the Skype call decades later when Chuck was visiting Saigon as a tourist and Charlie, on the other end of the line, declined to come.
 
-## Why this place is described-only
+## A place across three generations
 
-This archive's "place" entries usually carry a then-and-now pair: a family photograph from a generation ago set against a more recent rephotography. Saigon is named in the family's life across two generations &mdash; Charlie's 1969–1971 tour and Chuck's 2010s tourist visit &mdash; but no photographs from either visit are placed in this archive. Charlie's letters home are the period record on his side, and Chuck's Skype call from Saigon to his father was the closing parenthesis. Both are described in the [eulogy](/docs/eulogy-charles-mcmaster-eesley/) and in the letters; neither produced a frame the family kept for this archive.
+Saigon is one of only a few places in this archive that the family touched, walked through, and worked in across multiple generations and multiple registers. **Charlie was an infantryman here in 1969–71**, with the 101st Airborne in I Corps. **Chuck came back as a tourist in June 2011** with his childhood friend Mike Sieburg living in the city; together they walked the **Cu Chi tunnel system** that the Viet Cong had used to bring the American war to a slow underground halt, and Chuck sat on the turret of a captured American M48 Patton tank preserved at the site &mdash; the small, quiet visual irony of the son sitting on the symbol of the father's force. **Chuck returned in December 2024** to lecture at UEH-International School of Business on entrepreneurship and intrapreneurship to a hall of Vietnamese university students, fifty-four years after his father had been an infantryman in the country.
 
-If photographs from either visit are found, they belong here.
+Charlie himself never went back. The eulogy records the closing-parenthesis Skype call when Chuck was in Saigon and called him: Charlie told stories about being in that city, and when Chuck complained of the humidity, Charlie told him he had missed the *"wonderful experience of the monsoons."* The black-deadpan humor of a tour that ended thirty-some years earlier and a man who had decided he was done with the place.
 
 ## Further reading
 
