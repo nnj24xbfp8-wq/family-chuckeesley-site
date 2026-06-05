@@ -79,4 +79,10 @@ Dan is **Chuck's second cousin once removed** on the paternal side, via the [R. 
 
 The parallel line on Chuck's side runs through Albert Robert Sr's other son [Charles Leonard Eesley](/family/charles-leonard-eesley/) &rarr; [Will Eesley](/family/wilbur-eesley/) &rarr; [Charles M. Eesley](/family/charles-eesley/) &rarr; Chuck.
 
-> *Source: [Daniel Edburn Eesley obituary, 2018](/docs/daniel-edburn-eesley-obituary-2018/).*
+## The 2019 Palo Alto meeting
+
+In **2019, Chuck met Dan's daughters [Beth (Eesley) MacLean](/family/beth-eesley-maclean/) and [Kate Eesley Grey](/family/kate-eesley-grey/) in Palo Alto, California** &mdash; the two Albert-Robert-Sr-branch lines, separated by four generations of geography (the [Charles Leonard side](/family/charles-leonard-eesley/) running Bexley OH &rarr; Marietta OH &rarr; Palo Alto via Chuck's Stanford appointment; the [R. Albert side](/family/albert-robert-eesley-jr/) running Fremont OH &rarr; Buffalo NY &rarr; San Francisco via Dan's 1962 Bay Area move), meeting in person on the Peninsula for the first time anyone in either line had documented. Beth had married into the MacLean family in Alameda; Kate had been living in Las Vegas; both made the trip down to Palo Alto where Chuck had been on the Stanford faculty since 2010. Dan was by then in his final years at Coventry Place in San Francisco; he died eighteen months later.
+
+That two of Albert Robert Sr's great-great-grandchildren managed to find each other and sit down together in 2019 &mdash; **117 years after Albert Robert Sr's death in Toronto in 1902**, on the wrong coast for both of their families' historical centers &mdash; is the kind of connection a genealogical project like this one is built to surface and preserve. The meeting predates the existence of this archive by seven years.
+
+> *Sources: [Daniel Edburn Eesley obituary, 2018](/docs/daniel-edburn-eesley-obituary-2018/); family memory transmitted by Chuck Eesley, 2026.*
