@@ -15,16 +15,25 @@ relatedPeople:
 relatedDocuments:
   - letters-from-vietnam
   - eulogy-charles-mcmaster-eesley
-status: described-only
+status: photographed
 visits:
   - year: "1969–1971"
     narrator: charles-eesley
-    caption: "Charlie's tour ran from 1969 through 1971 under the U.S. Army. The eulogy notes Saigon specifically and that 'he had absolutely no desire to visit again after leaving.' His letters home are the period record — see [Letters from Vietnam](/docs/letters-from-vietnam/)."
-    alignmentNote: "No photographs of his tour are placed in this archive. The page is here so the letters anchor to the place they were written from. If photographs surface, they belong here."
-  - year: "2010s"
+    photographer: charles-eesley
+    images:
+      - ../../assets/family/originals/Charles_M_Eesley.jpeg
+      - ../../assets/family/originals/00000003_00000000_00000001.jpeg
+      - ../../assets/family/originals/00000000_00000016_00000017.jpeg
+    caption: "Charlie's tour ran from 1969 through 1971 under the U.S. Army's 101st Airborne Division (Screaming Eagle patch visible on his right shoulder in the EM-club frame). Three photographs survive from this period: his Army induction PFC EESLEY portrait (c. 1969, before deployment); the EM-club photograph (c. 1970, with a Vietnamese woman in green áo dài at the corner of the frame); and the July 1970 hooch photograph (bearded, on duty, the documentary middle of the tour). The eulogy notes Saigon specifically and that 'he had absolutely no desire to visit again after leaving.' His letters home are the period record — see [Letters from Vietnam](/docs/letters-from-vietnam/)."
+    alignmentNote: "Three photographs of the tour now placed: PFC induction portrait, EM club c. 1970, and July 1970 hooch. The specific Vietnam locations of the latter two are not yet documented; he was operating in I Corps with the 101st Airborne, north-central South Vietnam, not in Saigon city itself. The 'Saigon' framing on this page is the geographic shorthand his eulogy used."
+  - year: "June 2011"
     narrator: charles-eric-eesley
-    caption: "Chuck called his father from Saigon by Skype while visiting his friend Mike. Charlie told stories about being in that city. When Chuck complained of the humidity, Charlie told him he had 'missed the wonderful experience of the monsoons.' Source: Chuck's [eulogy for his father](/docs/eulogy-charles-mcmaster-eesley/), 2015."
-    alignmentNote: "Described, not photographed in this archive's collection. The visit is here because the father–son phone call across that exact geography is part of how Saigon held its place in the family's life."
+    caption: "Chuck's first visit to Vietnam — Ho Chi Minh City, June 2011 — to see his childhood friend Mike Sieburg who was living there at the time. Together they visited the Cu Chi tunnels (the Viet Cong underground tunnel network 70 km northwest of HCMC, now a Vietnamese government tourist site) and the War Remnants Museum (formerly the 'American War Museum,' the Vietnamese state museum documenting the war from the Vietnamese perspective). From Saigon Chuck called his father by Skype; Charlie told stories about being in that city, and when Chuck complained of the humidity, Charlie said he had 'missed the wonderful experience of the monsoons.' Source: Chuck's [eulogy for his father](/docs/eulogy-charles-mcmaster-eesley/), 2015, and Chuck's own account 2026."
+    alignmentNote: "Described, not photographed in this archive's collection of this trip. The visit is here because the father–son phone call across that exact geography is part of how Saigon held its place in the family's life — and because the two specific destinations (the Cu Chi tunnels and the War Remnants Museum) are the two most-canonical sites for an American visitor with a father who served in country."
+  - year: "2010s–2020s"
+    narrator: charles-eric-eesley
+    caption: "Chuck has returned to Ho Chi Minh City multiple times in the years since the June 2011 first visit, including teaching trips at local universities with the family foundation. The two-generation geography of Charlie's tour and Chuck's adult professional travel produces an unusual parental-paternal symmetry: the city the father refused to revisit became one the son returned to repeatedly."
+    alignmentNote: "Described not photographed in the archive's current collection. The recurrence of Chuck's HCMC trips is itself a thread worth recording."
 ---
 
 **Saigon** &mdash; capital of the Republic of Vietnam until April 1975, renamed Ho Chi Minh City after the war &mdash; is the city [Charles McMaster Eesley](/family/charles-eesley/) wrote home from during his U.S. Army tour. He arrived in 1969 and rotated out in 1971. The letters he wrote during those two years are the primary surviving record in his own voice; they form the [Letters from Vietnam](/docs/letters-from-vietnam/) collection in this archive.
