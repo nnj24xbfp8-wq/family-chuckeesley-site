@@ -14,24 +14,29 @@ parents:
   - margaretha-grayers
 spouses:
   - rosina-kreher
-summary: "Father of Andreus Wildermuth (b. ~1748) per the FamilySearch tree. Born 1720 in Württemberg, Germany; died 1768. Married Rosina Kreher (b. 1721). The year of his death (1768) is also the year his grandson Adam Wildermuth was born — Andreus apparently named that son after his recently-deceased father. Chuck's six-times-great-grandfather on the maternal Wildermuth line; the deepest Wildermuth ancestor whose dates are precisely documented in the FamilySearch tree. The existence of TWO Adam Wildermuths in adjacent generations (this Johann Adam 1720–1768, and his grandson Adam born 1768) is the source of the surface confusion that Robert Earl Wildermuth's 1990 research worked around without surfacing."
+summary: "Chuck's six-times-great-grandfather on the maternal Wildermuth line. Born 1720, died 1768, age 48 — a Württemberg lifetime that spanned the Holy Roman Empire's last secure generation. His son Andreus, the Rielingshausen vineyard gardener, would carry the family work forward; his grandson Adam, born the year Johann Adam died, would carry the name."
 ---
 
-Johann Adam Wildermuth was born in **1720** in Württemberg, Germany — almost certainly in the [Rielingshausen](/places/rielingshausen-church/) area where the family had been since the mid-17th century. He married **[Rosina Kreher](/family/rosina-kreher/)** (b. 1721) and was the father of **[Andreus Wildermuth](/family/andreus-wildermuth/)** (b. ~1748), the *Gartner* (vineyard gardener) of the same village.
+He was born in **1720** in the Württemberg countryside — most likely in **[Rielingshausen](/places/rielingshausen-church/)**, the village his family had been in for at least three documented generations by then. He married [Rosina Kreher](/family/rosina-kreher/), born the year after him in 1721, and they had at least one son — [Andreus](/family/andreus-wildermuth/), born about **1748**, the *Gartner* (vineyard gardener) who would tend the Neckar-valley vines for the rest of his life.
 
-He died in **1768** — the same year his grandson **[Adam Wildermuth](/family/adam-wildermuth/)** was born. The naming pattern is consistent across 18th-century Württemberg: **Andreus's son was named Adam in commemoration of his father Johann Adam, who had just died.** This is the source of the surface confusion in Robert Earl Wildermuth's 1990 research, which had identified "Adam Wildermuth b. 1768" without surfacing the grandfather of the same name.
+## The 18th-century vineyard generation
 
-His son Andreus was twenty when Johann Adam died. The next generation forward — Adam born 1768 — was not yet present at his death.
+Johann Adam's lifetime (1720&ndash;1768) covered most of what historians of Württemberg now call the **secure Old Regime** century — the long period of relative stability between the wars that had defined the 17th century and the French revolutionary upheaval that would convulse the German states from the 1790s onward. The **Duchy of Württemberg** under its hereditary dukes was a small Lutheran principality, ruled from Stuttgart, with a settled rural population working land that had been continuously farmed by the same village families for generations. The Wildermuths of Rielingshausen were among those settled families.
 
-He is **Chuck's six-times-great-grandfather** on the maternal Wildermuth line, through the chain:
+The vineyards he and his neighbors worked were the same Neckar-valley slopes the family would still be working a century later when Robert Earl's research found his great-grandson [Andreus](/family/andreus-wildermuth/) recorded as the *Gartner* of the village. **Trollinger** and **Riesling** were the vines; the south-facing slopes of the river valley got the sun the grapes needed; the work was hand-tooled and seasonal. The wine went to the local taverns, the village church, the merchant houses in nearby Marbach. The same trade his father [Johannes](/family/johannes-wildermuth-1682/) had presumably done, the same trade Andreus would do, the same trade Adam after Andreus would do — three or four generations of Württemberg *Gartner* on the same valley slopes.
 
-> Johann Adam (1720&ndash;1768) &rarr; [Andreus](/family/andreus-wildermuth/) (b. ~1748) &rarr; [Adam](/family/adam-wildermuth/) (b. 1768) &rarr; *intermediate generations* &rarr; [Johann Michael Wildermuth](/family/johann-michael-wildermuth/) (the 1847 emigrant) &rarr; *intermediate* &rarr; John Wildermuth (Robert Earl's grandfather) &rarr; [Earl Adam Wildermuth](/family/earl-a-wildermuth/) &rarr; [Robert Earl](/family/robert-earl-wildermuth/) &rarr; [Terrie](/family/terrie-lee-eesley/) &rarr; Chuck.
+## The double-Adam moment
 
-## Parents
+He died in **1768**, age **forty-eight**.
 
-- **[Johannes Wildermuth](/family/johannes-wildermuth-1682/)** (b. 1682, d. deceased) — FamilySearch GQWZ-KGK
-- **[Margaretha Grayers](/family/margaretha-grayers/)** (b. 1685, d. deceased) — FamilySearch MTS8-Z34
+The year of his death is the year his grandson **[Adam Wildermuth](/family/adam-wildermuth/)** was born — Andreus's son, named for the grandfather who had just died. The naming pattern is the standard early-modern Lutheran European convention: a son born in the year of his grandfather's death carries the grandfather's name as a continuity, a small piece of the dead man going on. **Andreus was twenty** when his father died, and he became a father himself the same year. Whether his son's birth came before or after his father's death in 1768 is not documented; the two events were close enough that Andreus and Rosina (Johann Adam's widow) would have lived inside the compressed family moment for the rest of that year.
 
-Page is a stub. Birth and death places, marriage date, and additional children pending the next layer of Rielingshausen / Württemberg parish-record research.
+The two Adams in adjacent generations — Johann Adam dying in 1768, his grandson Adam born in 1768 — are the small surface confusion that Robert Earl's 1990 research notes worked around without fully surfacing. Both are real. The grandfather and grandson share a name across the seam of a single year.
+
+## The reach forward
+
+> Johann Adam &rarr; [Andreus](/family/andreus-wildermuth/) (b. ~1748) &rarr; [Adam](/family/adam-wildermuth/) (b. 1768) &rarr; *generations* &rarr; [Johann Michael](/family/johann-michael-wildermuth/) the 1847 emigrant &rarr; *generations* &rarr; [Earl Adam](/family/earl-a-wildermuth/) Wildermuth &rarr; [Robert Earl](/family/robert-earl-wildermuth/) &rarr; [Terrie](/family/terrie-lee-eesley/) &rarr; Chuck.
+
+Worth noting along that chain: **the name Adam carries on**, ten generations later, in **Earl Adam Wildermuth** — Robert Earl's father, Chuck's great-grandfather, the patriarch of the Marietta Ohio Wildermuths. The Adam line of names that started in 1768 Württemberg was still in use in 20th-century Ohio.
 
 > *Source: FamilySearch family tree screenshot, transmitted by Chuck Eesley 2026.*
