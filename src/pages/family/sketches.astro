@@ -1,0 +1,79 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getAllPeople, publicDisplay, effectiveStatus } from '../../lib/relations';
+import { formatLifespan, sortableYear } from '../../utils/lifespan';
+
+const all = await getAllPeople();
+const sketches = all.filter((p) => effectiveStatus(p) === 'sketch');
+
+type LineKey = 'paternal' | 'maternal' | 'zhou' | 'connected' | 'crew';
+const byLine: Record<LineKey, typeof sketches> = {
+  paternal: [], maternal: [], zhou: [], connected: [], crew: [],
+};
+for (const p of sketches) {
+  const l = p.data.line;
+  if (l === 'paternal' || l === 'maternal' || l === 'zhou' || l === 'crew') byLine[l].push(p);
+  else byLine.connected.push(p);
+}
+
+// Sort each bucket by generation ascending (oldest first), then by birth year.
+for (const list of Object.values(byLine)) {
+  list.sort((a, b) => {
+    const ga = a.data.generation ?? 99;
+    const gb = b.data.generation ?? 99;
+    if (ga !== gb) return ga - gb;
+    const ya = sortableYear(a.data.birth?.date);
+    const yb = sortableYear(b.data.birth?.date);
+    if (ya !== yb) return ya - yb;
+    return a.data.name.localeCompare(b.data.name);
+  });
+}
+
+const lineLabel: Record<LineKey, string> = {
+  paternal: 'Paternal',
+  maternal: 'Maternal',
+  zhou: 'Zhou',
+  connected: 'Connected',
+  crew: "Robert Earl's B-24 crew",
+};
+
+const order: LineKey[] = ['paternal', 'maternal', 'zhou', 'connected', 'crew'];
+const total = sketches.length;
+---
+<BaseLayout title="Sketches — pages still being built">
+  <h1 class="text-3xl font-serif mb-2">Sketches</h1>
+  <p class="text-ink/70 italic mb-6">
+    Pages flagged as thin and openly being deepened — the working punch list. {total} {total === 1 ? 'entry' : 'entries'} below.
+  </p>
+  <p class="text-ink/60 text-sm mb-10">
+    Status is either set explicitly in a page's frontmatter or computed from body
+    length when not set. To remove a page from this list, write more on the page —
+    or mark <code>status: full</code> in its frontmatter if the current text is
+    intentionally short. Living people whose details are withheld are still
+    counted by their visible body length.
+  </p>
+
+  {total === 0 && (
+    <p class="text-ink/70 italic">No sketches outstanding — every page reads as intended.</p>
+  )}
+
+  {order.map((line) => byLine[line].length > 0 && (
+    <section class="mb-10">
+      <h2 class="text-xl font-serif mb-4 border-b border-rule pb-1">
+        {lineLabel[line]} <span class="text-ink/40 text-sm font-normal">({byLine[line].length})</span>
+      </h2>
+      <ul class="space-y-1">
+        {byLine[line].map((p) => {
+          const d = publicDisplay(p);
+          const span = d.living ? '' : formatLifespan(d.birth?.date, d.death?.date);
+          return (
+            <li>
+              <a href={`/family/${p.id}/`}>{d.name}</a>
+              {span && <span class="text-ink/60 text-sm"> &nbsp;({span})</span>}
+            </li>
+          );
+        })}
+      </ul>
+    </section>
+  ))}
+</BaseLayout>

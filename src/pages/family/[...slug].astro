@@ -9,6 +9,7 @@ import {
   documentsAbout,
   artifactsOf,
   publicDisplay,
+  effectiveStatus,
 } from '../../lib/relations';
 
 export async function getStaticPaths() {
@@ -21,6 +22,7 @@ export async function getStaticPaths() {
 
 const { person } = Astro.props;
 const d = publicDisplay(person);
+const status = effectiveStatus(person);
 
 const parents = await resolvePeople(person.data.parents);
 const spouses = await resolvePeople(person.data.spouses);
@@ -84,6 +86,13 @@ const personLink = (p: { id: string; data: { name: string } }) =>
     <div class="prose prose-stone max-w-prose">
       <Content />
     </div>
+
+    {status === 'sketch' && (
+      <aside class="mt-8 border-l-2 border-sepia/40 pl-4 text-sm text-ink/60 italic">
+        Sketch &mdash; more to come. This page records what we have so far; the
+        sources are linked, and the narrative will deepen as more material surfaces.
+      </aside>
+    )}
 
     {docs.length > 0 && (
       <section class="mt-12 pt-6 border-t border-rule">

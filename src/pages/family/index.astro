@@ -1,6 +1,6 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import { getAllPeople, publicDisplay } from '../../lib/relations';
+import { getAllPeople, publicDisplay, effectiveStatus } from '../../lib/relations';
 import { formatLifespan, sortableYear } from '../../utils/lifespan';
 
 const people = await getAllPeople();
@@ -118,10 +118,12 @@ const order: LineKey[] = ['paternal', 'maternal', 'zhou', 'connected', 'crew'];
             {group.map((p) => {
               const d = publicDisplay(p);
               const span = d.living ? '' : formatLifespan(d.birth?.date, d.death?.date);
+              const isSketch = effectiveStatus(p) === 'sketch';
               return (
                 <li>
                   <a href={`/family/${p.id}/`}>{d.name}</a>
                   {span && <span class="text-ink/60 text-sm"> &nbsp;({span})</span>}
+                  {isSketch && <span class="text-ink/40 text-xs ml-2" title="Thin page — being deepened over time">sketch</span>}
                 </li>
               );
             })}

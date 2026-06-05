@@ -72,3 +72,24 @@ export function publicDisplay(person: Person) {
   }
   return { ...d, living: false as const };
 }
+
+/**
+ * Page depth marker. Returns the explicit `status` if set; otherwise computes
+ * 'sketch' for thin bodies (< ~80 words of running prose) and 'full' for the rest.
+ * The heuristic strips frontmatter is unnecessary — Astro's `entry.body` is
+ * already the post-frontmatter markdown source.
+ */
+export function effectiveStatus(person: Person): 'sketch' | 'full' {
+  if (person.data.status) return person.data.status;
+  const body = (person.body ?? '').trim();
+  // Strip very common markdown noise so the count tracks prose, not punctuation.
+  const stripped = body
+    .replace(/^---[\s\S]*?---/, '') // belt-and-suspenders if frontmatter slipped through
+    .replace(/`[^`]*`/g, '')
+    .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
+    .replace(/[#*_>`~|]/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+  const words = stripped ? stripped.split(' ').length : 0;
+  return words < 80 ? 'sketch' : 'full';
+}

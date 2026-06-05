@@ -30,6 +30,10 @@ const people = defineCollection({
       generation: z.number().optional(),
       // Short header line used on index pages. Keep biography in the Markdown body.
       summary: z.string().optional(),
+      // Page depth marker. Explicit value wins; if absent the helper in
+      // src/lib/relations.ts falls back to a body-length heuristic.
+      // 'sketch' = thin entry, openly being built; 'full' = mature narrative.
+      status: z.enum(['sketch', 'full']).optional(),
     }),
 });
 
