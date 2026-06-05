@@ -1,5 +1,6 @@
 ---
 title: "Eesley Line Research Notes — Oxford Public Library"
+teaser: "Three handwritten notebook pages a volunteer genealogist made for Chuck and Lijie at the Oxford public library in 2018, tracing the Eesley line back into 17th- and 18th-century Oxfordshire parish registers."
 type: ancestor-sketch
 people:
   - joseph-eesley

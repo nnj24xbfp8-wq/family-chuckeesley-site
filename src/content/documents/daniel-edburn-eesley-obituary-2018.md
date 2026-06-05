@@ -1,5 +1,6 @@
 ---
 title: "Daniel Edburn Eesley Obituary, 2018"
+teaser: "The longest narrative this archive holds on any member of the Albert Robert Sr branch — Dan's Bay Area tech career (IBM, Amdahl, Memorex, HP), Twain Harte summers, and the San Francisco family."
 type: ancestor-sketch
 people:
   - daniel-edburn-eesley

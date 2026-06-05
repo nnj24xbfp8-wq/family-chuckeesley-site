@@ -1,5 +1,6 @@
 ---
 title: "Letter to Terrie, late 1970 — 'When I get back I'll probably be in Marietta two weeks…'"
+teaser: "Late-tour letter looking past Vietnam: Marietta layover, Sears or new job, D.C. summer with Terrie, 'go into business for myself.' The civilian Charlie taking shape."
 type: letter
 author: charles-eesley
 recipient: terrie-lee-eesley

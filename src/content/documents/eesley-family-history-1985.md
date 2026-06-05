@@ -1,5 +1,6 @@
 ---
 title: "Eesley Family History (1985)"
+teaser: "Mary Eesley Bean's indented descendant register, generations I through VII — the relationship backbone for the paternal Eesley line in this archive."
 type: register
 author: mary-eesley-bean
 people:

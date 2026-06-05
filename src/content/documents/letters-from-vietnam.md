@@ -1,5 +1,6 @@
 ---
 title: "Letters from Vietnam"
+teaser: "Charlie Eesley's letters home from his 1969–71 Army tour. A curated selection is published in full; the rest catalogued with bodies withheld at the family's request."
 type: letter-collection
 author: charles-eesley
 people:

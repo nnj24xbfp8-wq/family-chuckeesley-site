@@ -1,5 +1,6 @@
 ---
 title: "Letter to Terrie, 13 December 1968"
+teaser: "The earliest surviving Charlie-to-Terrie letter, a year before Vietnam: Marietta College in his senior year, the Twain book the bookstore didn't have, Terrie just accepted to Maryland."
 type: letter
 author: charles-eesley
 recipient: terrie-lee-eesley

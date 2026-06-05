@@ -1,5 +1,6 @@
 ---
 title: "Robert Earl Wildermuth — life story"
+teaser: "Robert Earl's first-person autobiography: Marietta boyhood, the Pacific aboard a B-24, Stanford on the GI Bill, Korea, the Pentagon, and the long retirement turn to genealogy."
 type: memoir
 author: robert-earl-wildermuth
 people:

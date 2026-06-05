@@ -1,5 +1,6 @@
 ---
 title: "Memorial Speech for Terrie Lee Bain"
+teaser: "Chuck's memorial speech for his mother — companion piece to his eulogy for his father, delivered at Hadley Funeral Reno Chapel in Marietta on 8 July 2017."
 type: eulogy
 author: charles-eric-eesley
 people:

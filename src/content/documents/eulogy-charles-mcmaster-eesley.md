@@ -1,5 +1,6 @@
 ---
 title: "Eulogy for Charles McMaster Eesley"
+teaser: "Chuck's eulogy for his father, delivered at the Marietta memorial service in late 2015 — the most personal document in Chuck's own voice in this archive."
 type: eulogy
 author: charles-eric-eesley
 people:

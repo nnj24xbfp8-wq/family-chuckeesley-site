@@ -1,5 +1,6 @@
 ---
 title: "Letter to Terrie, late 1969 — NCO school, hating the army"
+teaser: "Pre-deployment letter from NCO school stateside: the first 'I'm really beginning to hate the army' that becomes the year's refrain. Body withheld."
 type: letter
 author: charles-eesley
 recipient: terrie-lee-eesley

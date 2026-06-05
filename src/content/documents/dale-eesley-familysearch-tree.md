@@ -1,5 +1,6 @@
 ---
 title: "Eesley · Wildermuth structured family tree (GEDCOM)"
+teaser: "Dale Eesley's FamilySearch tree exported as GEDCOM — 3,465 individuals across 1,529 families. The structured companion to the narrative record on the rest of this site."
 type: tree-export
 dateRange:
   start: "2026-06-01"

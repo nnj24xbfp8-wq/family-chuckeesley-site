@@ -1,5 +1,6 @@
 ---
 title: "George E. Eesley Obituary, Fremont News-Messenger, 5 June 1942"
+teaser: "June 1942: George E. 'Bus' Eesley dies at 39 during surgery in a Kenmore NY hospital. Anchors the R. Albert Sr branch and names the next generation, including Dan Eesley of San Francisco."
 type: ancestor-sketch
 people:
   - george-e-eesley

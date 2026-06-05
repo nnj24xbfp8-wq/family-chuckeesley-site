@@ -1,5 +1,6 @@
 ---
 title: "Letter to Terrie, 22 March 1970 — R&R orders for Hawaii"
+teaser: "The operational coordination letter for the only week Charlie and Terrie would see each other between his shipping out and his return — Hawaii R&R, Marietta as the hand-off."
 type: letter
 author: charles-eesley
 recipient: terrie-lee-eesley

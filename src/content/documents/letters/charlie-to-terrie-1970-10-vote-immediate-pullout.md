@@ -1,5 +1,6 @@
 ---
 title: "Letter to Terrie, October 1970 — 'I will vote for the immediate pull-out candidates'"
+teaser: "October 1970, monsoons starting in I Corps: Charlie writes his congressman and votes absentee for the immediate pull-out candidates. The tour-defining political letter."
 type: letter
 author: charles-eesley
 recipient: terrie-lee-eesley

@@ -1,5 +1,6 @@
 ---
 title: "Letter from Rev. Abraham Anderson to his daughter Margaret Anderson, 21 May 1894"
+teaser: "A Presbyterian minister writes his daughter on a rainy Monday in 1894 — the archive's earliest surviving family letter, ordering a new coat at Wanamaker's for her commencement."
 type: letter
 author: abraham-ramsey-anderson
 recipient: abraham-ramsey-anderson

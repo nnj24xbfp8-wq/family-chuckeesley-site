@@ -1,5 +1,6 @@
 ---
 title: "Mrs. Bain and the Butterfly Effect — Tribute from the Teachers and Students of Harmar School"
+teaser: "A children's tribute written by the teachers and students of Harmar Elementary School where Terrie taught — read at her end-of-year assembly and then at her memorial service in July 2017."
 type: eulogy
 people:
   - terrie-lee-eesley

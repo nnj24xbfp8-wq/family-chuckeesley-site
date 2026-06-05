@@ -1,5 +1,6 @@
 ---
 title: "Letter to Terrie, 22 June 1970"
+teaser: "Field letter, June 1970: first contact action ('really weird'), twelve letters at mail call but only one from Terrie, the army's 50% savings program he was banking on."
 type: letter
 author: charles-eesley
 recipient: terrie-lee-eesley

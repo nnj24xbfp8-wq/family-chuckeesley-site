@@ -1,5 +1,6 @@
 ---
 title: "Please don't cry for me — a poem by Terrie Lee Bain"
+teaser: "An eight-line self-eulogy Terrie wrote — the only piece of her direct voice in this archive. Read at her memorial service on 8 July 2017."
 type: eulogy
 author: terrie-lee-eesley
 people:

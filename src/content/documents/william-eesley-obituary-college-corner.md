@@ -1,5 +1,6 @@
 ---
 title: "William Eesley Obituary (College Corner, Ohio), c. 1916"
+teaser: "The most detailed surviving biographical sketch of Albert Robert Sr — Stratford-on-Avon, briefly teaching in the house Shakespeare was born in, Newark, Ayr, the Michigan mills, Toronto."
 type: ancestor-sketch
 people:
   - albert-robert-eesley

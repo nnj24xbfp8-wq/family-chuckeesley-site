@@ -1,5 +1,6 @@
 ---
 title: "The Big One: World War II"
+teaser: "Robert Earl's dated WWII mission log as B-24 navigator with the 400th Squadron, 90th Bomb Group — Biak, Leyte, Mindoro — plus crew portraits of the ten men he flew with."
 type: combat-log
 author: robert-earl-wildermuth
 people:

@@ -1,5 +1,6 @@
 ---
 title: "Letter to Terrie, spring 1970 — 'I saw the movie Woodstock today. Quite interesting!'"
+teaser: "Charlie watches the Woodstock documentary at a Vietnam screening: 'I saw the movie Woodstock today. Quite interesting!!' The cultural-distance moment, one preserved sentence."
 type: letter
 author: charles-eesley
 recipient: terrie-lee-eesley

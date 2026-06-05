@@ -1,5 +1,6 @@
 ---
 title: "The Wildermuth/Fleming Heritage (Robert Earl Wildermuth, 1990)"
+teaser: "The 24-page family history Robert Earl compiled over eighteen years (1971–1990) — the deepest source this archive holds on the Wildermuth and Fleming lines."
 type: ancestor-sketch
 author: robert-earl-wildermuth
 people:
