@@ -36,38 +36,37 @@ visits:
     caption: "<strong>The house in winter, from the driveway.</strong> The long low ranch of Will's design with snow on the roof and snow across the surrounding hills, two bird feeders catching the foreground, the ridge dropping away to the right. The view a returning family member would have driving up the long approach to the house through the woods."
     alignmentNote: "Mid-winter Kodachrome, very plausibly taken by Will."
   - year: "c. 1979–1983 (summer)"
-    photographer: charles-eesley
+    photographer: margaret-mcmaster-eesley
     images:
       - ../../assets/family/originals/00000000_00000027_00000028.jpeg
-    caption: "<strong>Four people on the small red bridge.</strong> A family group standing on the bridge in summer light, woods behind, the bridge's red railings framing them. Cast identification queued — the older man at left in plaid trousers and white shirt is plausibly Will Eesley the architect on the bridge he built; the mustachioed man in dark shirt is plausibly Charlie; the two women plausibly Peggy and Terrie or one of the Eesley sisters. Chuck to confirm."
-    alignmentNote: "Family photograph in the same physical location as the snowy-bridge image, taken in summer."
+    caption: "<strong>Four people on the small red bridge — Will Eesley, Charlie, Terrie, and Aunt Sandy.</strong> Confirmed by Chuck Eesley 2026. <strong>Will Eesley</strong> the architect at left in plaid trousers and white shirt, on the bridge he himself built. <strong>Terrie Lee Wildermuth Eesley</strong> (Chuck's mother) beside him in pale floral blouse and dark pants. <strong>Charles 'Charlie' Eesley</strong> with mustache in dark patterned shirt — Will's son, Terrie's husband, Chuck's father. <strong>Sandra Sue (Wildermuth) Clement</strong> — 'Aunt Sandy,' Terrie's younger sister and Robert Earl's second daughter — at far right in dark vest and orange neckscarf. The photograph captures a small but consequential geography: <strong>the bridge on the paternal Eesley grandfather's property hosting both sides of Chuck's parents' families at once.</strong>"
+    alignmentNote: "Will (paternal grandfather) + Charlie and Terrie (parents) + Aunt Sandy (maternal aunt) — the two-sides-of-the-family meeting on Will's bridge."
   - year: "c. 1978–1985 (the bridge under construction or maintenance)"
     images:
       - ../../assets/family/originals/00000000_00000016_IMG_0016.jpeg
-    caption: "<strong>The red bridge being worked on.</strong> Three figures around the bridge — an older man at left with shovel, a man with back to camera in the middle, a laughing woman in yellow at right beside the wheelbarrow ('JOHN DEERE' visible on the green wheelbarrow). The bridge in the background has its railings up but appears unfinished or being repaired. The labor side of the property — the orchard, the bridge, the firewood — the eulogy named explicitly."
-    alignmentNote: "Documentary frame of the building or repair of the bridge that the eulogy says Will built and Charlie and Chuck later rebuilt."
-  - year: "c. 1985–1995 (Will at the house)"
-    photographer: peggy-arnold
+    caption: "<strong>The red bridge being worked on. Will Eesley with shovel.</strong> Confirmed by Chuck Eesley 2026. <strong>Will Eesley</strong> at left in red shirt with shovel — building or repairing the bridge he designed. The two other figures (man with back to camera in middle in plaid trousers, laughing woman in yellow at right beside the green 'JOHN DEERE' wheelbarrow) are open for identification. The bridge in the background has its railings up but appears in mid-construction or mid-repair. The labor side of the property — the orchard, the bridge, the firewood — the eulogy named explicitly."
+    alignmentNote: "Will Eesley confirmed at left; other two figures queued. Documentary frame of the building or repair of the bridge the eulogy describes."
+  - year: "c. 1980s (Charlie at the house)"
     images:
       - ../../assets/family/originals/00000000_00000007_IMG_0007.jpeg
-    caption: "<strong>A man standing in front of the stone fireplace at the house Will designed.</strong> Casual posed snapshot, red shirt and jeans, the stone-and-wood architecture of Highland Ridge visible — the deck above, the stone hearth at center, the large multi-paned windows on the right. The man is plausibly Will Eesley himself at the house he built, c. 1980s; cast confirmation queued."
-    alignmentNote: "If the man is Will, this is one of the only photographs in the archive of him standing at the entrance of the house he architected for his own family."
-  - year: "c. 1990–1995 (Chuck on the frozen pond, the eulogy's pond)"
+    caption: "<strong>Charlie Eesley standing in front of the stone fireplace at Highland Ridge.</strong> Confirmed by Chuck Eesley 2026. <strong>Charles 'Charlie' McMaster Eesley</strong> — Chuck's father — casually posed in red shirt and jeans in front of the stone fireplace of the house his architect father Will designed. The deck above is visible, the stone hearth at center, the large multi-paned windows on the right. <strong>Charlie at home in his father's architecture — the house he inherited and raised his own son in.</strong> The earlier hypothesis that this was Will himself is withdrawn."
+    alignmentNote: "Charlie Eesley confirmed at the house Will designed. One of the only photographs in the archive of Charlie casually at home at Highland Ridge."
+  - year: "c. 1990–1995 (young Chuck on the frozen pond, the eulogy's pond)"
     photographer: charles-eesley
     images:
       - ../../assets/family/originals/00000004_00000046_00000047.jpeg
-    caption: "<strong>A young person on the frozen pond at Highland Ridge.</strong> Late-autumn or early-winter scene, the pond partially frozen with reflective patches still visible, a boy of about 12–15 standing on the ice in dark pants and brown jacket, his weight resting on the surface. This is very plausibly <a href='/family/charles-eric-eesley/'>young Chuck</a> on the same pond his father's <a href='/docs/eulogy-charles-mcmaster-eesley/'>eulogy</a> describes him breaking through as a smaller boy — the pond Charlie pulled him out of, leaving the boots in the mud at the bottom. Cast confirmation queued."
-    alignmentNote: "If this is Chuck, the photograph documents the very pond at the center of one of the eulogy's most-quoted stories. The boots Chuck left in the mud are presumably still there."
+    caption: "<strong>Young Chuck on the frozen pond at Highland Ridge.</strong> Confirmed by Chuck Eesley 2026. <strong>Young Chuck Eesley</strong> — about 12–15 — standing on the ice in dark pants and brown jacket, in winter, woods bare behind. <strong>This is the pond his father's <a href='/docs/eulogy-charles-mcmaster-eesley/'>eulogy</a> describes him breaking through as a smaller boy</strong> — the pond Charlie pulled him out of, his boots staying behind 'still stuck in the mud on the bottom to this day.' The photograph captures Chuck a few years older, the ice frozen solidly enough now to bear him, the boots presumably still in the mud below the surface he's standing on."
+    alignmentNote: "The same pond at the center of one of the eulogy's most-quoted stories. The boots are still in the mud."
   - year: "c. 1979–1985 (a family group)"
     images:
       - ../../assets/family/originals/00000004_00000047_00000048.jpeg
     caption: "<strong>Large family group portrait outdoors.</strong> About 13 figures arranged on a slope in casual summer clothes, multiple generations visible, smiling and informal. Cast identification queued; this is plausibly a Wildermuth or extended-Eesley family gathering at the property."
     alignmentNote: "Family-reunion-scale group portrait. Cast identification by Chuck queued."
-  - year: "c. 1980–1983 (interior with toddler)"
+  - year: "c. 1980–1982 (young Chuck and the Chinese mural at Highland Ridge)"
     images:
       - ../../assets/family/originals/IMG_2635.jpeg
-    caption: "<strong>A family scene indoors, with a toddler walking.</strong> Five figures around a couch with a large Chinese-landscape mural behind it — an older couple on the right (older man in dark with glasses, white-haired older woman in red), a middle-aged woman in striped sweater on left holding the small child, a young woman with blonde hair seated, and a toddler in colorful striped overalls walking. The toddler may be young Chuck, c. 1981–1983 if so; cast confirmation queued. This may be at Highland Ridge or at the Grandma Peggy house on Seventh Street — interior identification queued."
-    alignmentNote: "Interior family scene. Cast and location (Highland Ridge vs Seventh Street) confirmation queued."
+    caption: "<strong>Young Chuck and the Chinese mural at Highland Ridge.</strong> Confirmed by Chuck Eesley 2026. <strong>Young Chuck</strong> — about one to two and a half years old — walking on the floor in colorful striped overalls in front of the family couch, with the <strong>large Chinese mountain-and-river landscape mural</strong> behind it that decorated one wall of the Highland Ridge living room. The four adults watching him — an older couple on the right (an older man in dark with glasses, a white-haired older woman in red), a middle-aged woman in striped sweater holding him from the left, and a young woman with blonde hair seated — are queued for identification. <strong>The Chinese-landscape mural is a distinctive interior feature of the Highland Ridge house</strong>, locating the photograph specifically there."
+    alignmentNote: "Young Chuck (c. 1981–1982) at home at Highland Ridge in front of the wall mural. Adult cast queued."
 ---
 
 **Highland Ridge Road, Marietta, Ohio** is **the house Will Eesley the architect designed and built for his own family** — the second of the [Peggy and Will Eesley](/family/margaret-mcmaster-eesley/) family's three Marietta addresses (after 651 Sixth Street through Charlie's childhood, and before [Peggy's later Seventh Street widow's house](/family/margaret-mcmaster-eesley/)), and the house Charlie eventually inherited and **raised Chuck in across the 1980s and 1990s**.

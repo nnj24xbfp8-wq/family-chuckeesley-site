@@ -11,9 +11,10 @@ provenance: "Wildermuth family archive."
 rights: "Family use; permission required for republication."
 people:
   - earl-a-wildermuth
+  - robert-earl-wildermuth
 ---
 
-**Industrial Commission of Ohio Special Award ceremony**, c. 1940s–1960s. **The recipient is plausibly [Earl Adam Wildermuth](/family/earl-a-wildermuth/)** — Robert Earl Wildermuth's machinist father — at his Marietta-area manufacturing workplace. Cast confirmation queued.
+**Industrial Commission of Ohio Special Award ceremony**, c. 1940s–1960s. **The recipient is [Earl Adam Wildermuth](/family/earl-a-wildermuth/)** — Robert Earl Wildermuth's machinist father — at his Marietta-area manufacturing workplace. **Confirmed by Chuck Eesley, 2026.**
 
 ## What the photograph shows
 
@@ -35,6 +36,6 @@ A second frame in the archive shows **the full group of co-workers** at the same
 
 Robert Earl's [memoir](/docs/robert-earl-wildermuth-memoir/) records his father Earl Adam as having *"started his apprenticeship for his chosen life's work"* as a machinist after returning from the family's North Carolina cotton-mill year in the mid-1920s. He worked at a Marietta-area concrete-silo-stave manufacturing plant for many years (Robert Earl summered there as the company's water boy at age twelve). **Earl Adam's machinist career is the period this award ceremony fits into** — a Marietta-area industrial workplace, a worker of his generation being recognized for safety or service milestone, a clean shop floor and a small white-collar manager doing the handshake.
 
-If the recipient is Earl Adam, this photograph is **the only known visual record of his workplace life** — a man who built the family economy his son Robert Earl built the Stanford-and-Air-Force career on. Cast identification by Chuck is queued.
+**This photograph is the only known visual record of Earl Adam's workplace life** — the man who built the family economy his son Robert Earl built the Stanford-and-Air-Force career on, and the man whose 17 January 1972 letter to Robert Earl became the founding document of the eighteen-year Wildermuth/Fleming Heritage genealogical project.
 
 > *Source: Wildermuth family archive, transmitted by Chuck Eesley 2026.*
