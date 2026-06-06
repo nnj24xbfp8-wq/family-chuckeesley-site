@@ -15,6 +15,8 @@ people:
   - charles-daniel-wildermuth
   - margaret-zelma-wildermuth
   - emma-wildermuth
+  - johann-michael-wildermuth
+  - catharina-boeshar-wildermuth
 ---
 
 **Multi-generation outdoor family-group portrait** of the **[William Clifford Wildermuth](/family/william-wildermuth/) family of Marietta, Ohio**, **c. 1896**. Eight figures arranged in two rows against what appears to be a brick wall and back porch, with trees behind. Identified by Chuck Eesley 2026 through a **typed caption card** held with the photograph in the family archive.
@@ -47,15 +49,20 @@ Dale Eesley's FamilySearch tree gives precise dates that confirm the c. 1896 dat
 - **[Margaret Zelma Wildermuth](/family/margaret-zelma-wildermuth/)** (b. 6 November 1891 Marietta, d. 25 October 1943 Los Angeles) — about **5**. FS ID GM6P-HNC.
 - **[Emma Wildermuth](/family/emma-wildermuth/)** (b. 3 October 1893 Marietta, d. 10 December 1958 Marietta) — the "small girl in rear," about **3**. FS ID 9WH5-M91.
 
-The five named figures account for the **immediate William Clifford family**. Per Chuck's June 2026 reading of the photograph:
+The five named figures account for the **immediate William Clifford family**. Per Chuck's June 2026 reading of the photograph, and the GEDCOM identification of the senior generation:
 
-- **The seated woman in the light dress front-row** may be one of the **older-generation parents** — either William Clifford's mother (the senior Wildermuth) or Flora's mother (the senior Schlicher).
-- **The two small figures beside her in the front row are children** — most plausibly **Charles (about 7)** and **Margaret (about 5)**, the two named older children, since [Emma](/family/emma-wildermuth/) the youngest is the "Small Girl in Rear" the caption singles out.
-- **The remaining two adult figures in the back row** are then the other unidentified grandparent or aunt/uncle generation.
+- **The back-row mustachioed man at the left is [William Clifford Wildermuth](/family/william-wildermuth/) himself** — confirmed by Chuck Eesley 2026. He was **30 years old** in 1896, photographed beside his wife Flora and the rest of the family. The earlier hypothesis that this figure might have been Johann Michael Wildermuth (the 1847 emigrant) is **withdrawn**: William Clifford is the figure the caption "From left to right" begins with, and Chuck has confirmed the family-memory identification.
+- **The seated woman in the light dress front-row is very likely [Catharina Boeshar Wildermuth](/family/catharina-boeshar-wildermuth/)** — William Clifford's mother, the wife of [Johann Michael Wildermuth](/family/johann-michael-wildermuth/) the 1847 emigrant. She was **born 15 June 1840 in Breitenbach, Pfalz, Bavaria**, was about **56 in this photograph**, and would live another **37 years** before dying in Marietta in 1933. **Robert Earl Wildermuth, born 1924, would know her as a great-grandmother through his first nine years of childhood** — the "grandma Catherina Boeshar" he was still writing about in his 1989 memoir.
+- **The two small figures beside Catharina in the front row are children** — most plausibly **Charles (about 7)** and **Margaret (about 5)**, the two named older children, since [Emma](/family/emma-wildermuth/) the youngest is the "Small Girl in Rear" the caption singles out.
+- **The remaining adult figures in the back row** (the older woman, the second mustachioed man at far right, the third older woman) are then the **other senior generation** — Flora's Schlicher parents (family record @F56@; married 20 January 1861, with Theobald "David" Schlicher as her father), and possibly Johann Michael Wildermuth himself if he was present (he was 66 in 1896 and would die in 1903). Whether Johann Michael is the back-row-right mustachioed figure or whether he's not in the photograph at all is open.
 
-Two grandparent generations are plausibly present: **William Clifford's parents** (GEDCOM family record @F57@; married 7 September 1862 in Washington County, Ohio) and **Flora's parents** (family record @F56@; married 20 January 1861). Flora's father was **Theobald "David" Schlicher**, the Schlicher patriarch whose German hometown Robert Earl Wildermuth would later note he hoped to find on the next trip *(per the [memoir's](/docs/robert-earl-wildermuth-memoir/) closing line: "I hope to return to the home towns of grandma Catherina Boeshar and hopefully that of Johann Peter Schlicher at some later date.")*
+The composition is then a **three-generation family group**: the senior generation (Catharina front-seated, plus the Schlicher grandparents and possibly Johann Michael in the back); **William Clifford and Flora** the parents (William Clifford back-left, Flora behind him); the three young children Charles, Margaret, and Emma.
 
-The composition is then a **three-generation family group**: the grandparents from both sides, William and Flora the parents, and the three young children Charles, Margaret, and Emma. The caption-writer left the older generation unidentified — possibly because by the time the caption was typed (some decades later) the older generation's identifications had been lost from family memory.
+## Why this matters for the family record
+
+If the seated woman IS Catharina (and the seated-grandmother position is the strongest evidence she is), this photograph is the **only known visual record of the matriarch Robert Earl spent his 1980s genealogy years trying to research**. Robert Earl's *"grandma Catherina Boeshar"* memoir reference is no longer just a name — there is very plausibly a face attached. Her 1933 death came when Robert Earl was nine years old, so he would have known her in person; this 1896 portrait would put her at the matriarch position thirty-seven years before her death and shortly before her widowhood (Johann Michael died in 1903).
+
+The companion documentary find — [Johann Michael's 1853 Philadelphia naturalization petition](/docs/johann-michael-wildermuth-naturalization-1853/) — settles his emigration in his own sworn words; this 1896 portrait, if Catharina is the seated front-row woman, puts a face to the wife who shared the rest of his life.
 
 ## Why this matters
 

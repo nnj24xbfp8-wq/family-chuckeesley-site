@@ -3,6 +3,9 @@ name: "Earl Adam Wildermuth"
 aka: "Earl A. Wildermuth; Mr. Earl Wildermuth"
 line: maternal
 generation: 4
+parents:
+  - john-charles-wildermuth
+  - maria-margaretha-schmigdall-wildermuth
 spouses:
   - sadye-fleming-wildermuth
 summary: "Robert Earl Wildermuth's father — full name Earl Adam Wildermuth, per his son's 1990 Wildermuth/Fleming Heritage dedication. Married Sadye Irene Fleming on 31 December 1920 in Marietta, Ohio. Father of Robert Earl, Carl E., Ruth I. (Ridenour), Betty J. (Haddox), and Norma J. (Gault). Self-described 'hard-headed Dutch' (German) from 'the Rhine River area of Germany' — the family memory source for the German-origin Wildermuth line. Wrote a 17 January 1972 letter to his son in response to Robert Earl's request for family-history information; that letter became the starting point for the 18-year genealogical research that produced the 1990 Heritage. Survived his wife — Sadye died c. 1976; Earl's own dates are not yet recorded in this archive. The couple's last address was 320 Harmar Street, Marietta."
@@ -18,7 +21,7 @@ Earl A. Wildermuth married **[Sadye Irene Fleming](/family/sadye-fleming-wilderm
 
 He outlived Sadye, who died at 75 c. 1976 at Marietta Memorial Hospital. Their household at that point was at **320 Harmar Street** in Marietta.
 
-The existing scaffolding for [Robert Earl's page](/family/robert-earl-wildermuth/) names **[Johann Michael Wildermuth](/family/johann-michael-wildermuth/)** as the family patriarch &mdash; the immigrant shoemaker who arrived at the Port of New York in 1847 and set up shop in Marietta &mdash; and characterizes him as Robert Earl's *great-grandfather* (per the 1990 Heritage; the original brief had him as grandfather, which was off by one generation). Earl Adam is therefore Johann Michael's grandson; the intermediate son (Earl Adam's father) is **John Wildermuth**, named in Robert Earl's 1990 Heritage as the starting place for the research.
+The Wildermuth lineage on Earl Adam's side now resolves to: **[Johann Michael Wildermuth](/family/johann-michael-wildermuth/)** (b. 23 August 1830 Großaspach, Württemberg — the 1847 emigrant shoemaker, naturalized in Philadelphia 1853) → **[John Charles Wildermuth](/family/john-charles-wildermuth/)** (b. September 1865 Ohio — Robert Earl's "grandfather John," Earl Adam's father) → **Earl Adam** → Robert Earl. Earl Adam's mother was **[Maria Margaretha Schmigdall](/family/maria-margaretha-schmigdall-wildermuth/)** per the GEDCOM, possibly known in the family as "Flora" (the name reconciliation is queued — Chuck's family memory of the [c. 1915–1925 four-person family portrait](/archive/william-wildermuth-four-person-family-portrait/) calls Earl Adam's mother Flora, while Dale's structured tree has Maria Margaretha Schmigdall).
 
 ## The 17 January 1972 letter
 
@@ -34,4 +37,4 @@ Robert Earl recorded his father's framing of the German origin:
 
 The actual origin proved to be **Württemberg, in southwest Germany around Stuttgart** &mdash; the small villages of [Rielingshausen](/places/rielingshausen-church/), [Grossaspach](/places/grossaspach/), and Pleidelsheim where the [Wildermuth line](/family/andreus-wildermuth/) goes back to **Andreus Wildermuth (b. ~1748)**, a *Gartner* (vineyard gardener). Württemberg is in the upper Neckar drainage, not directly on the Rhine, but the Neckar flows into the Rhine 80 km north of Stuttgart, so Earl Adam's "Rhine River area" framing was a rough but not unreasonable folk-geography of the actual region.
 
-> *Sources: [The Wildermuth/Fleming Heritage by Robert Earl Wildermuth, 1990](/docs/wildermuth-fleming-heritage-1990/); Sadye I. (Mrs. Earl) Wildermuth obituary, Marietta Times, c. 1976; family collection.*
+> *Sources: [The Wildermuth/Fleming Heritage by Robert Earl Wildermuth, 1990](/docs/wildermuth-fleming-heritage-1990/); [Robert Earl Wildermuth's 1989 memoir](/docs/robert-earl-wildermuth-memoir/); Sadye I. (Mrs. Earl) Wildermuth obituary, Marietta Times, c. 1976; family collection.*

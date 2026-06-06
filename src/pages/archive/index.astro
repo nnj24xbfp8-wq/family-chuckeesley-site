@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import { Image } from 'astro:assets';
 import { getCollection } from 'astro:content';
 import { formatDate, sortableDateKey } from '../../utils/lifespan';
 
@@ -20,7 +21,15 @@ const arts = (await getCollection('artifacts')).sort((a, b) => {
     {arts.map((a) => (
       <li>
         <a href={`/archive/${a.id}/`} class="block no-underline">
-          <div class="aspect-square bg-rule/40 mb-2"></div>
+          <div class="aspect-square overflow-hidden bg-rule/40 mb-2">
+            <Image
+              src={a.data.image}
+              alt={a.data.title}
+              widths={[300, 600]}
+              sizes="(max-width: 640px) 50vw, 300px"
+              class="w-full h-full object-cover"
+            />
+          </div>
           <div class="font-serif">{a.data.title}</div>
           <div class="text-xs text-ink/60">
             {a.data.dateCreated ? formatDate(a.data.dateCreated) : 'Undated'}

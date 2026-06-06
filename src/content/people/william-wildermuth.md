@@ -11,6 +11,7 @@ death:
 generation: 3
 spouses:
   - flora-schlicher-wildermuth
+  - sarah-ruf-wildermuth
 portrait: ../../assets/family/originals/00000002_00000008_00000009.jpeg
 summary: "Marietta-Ohio Wildermuth, born 17 September 1866 and died there 77 years later on 10 September 1943, buried 12 September 1943. Married Flora Schlicher (1870–1919) and had three known children: Charles Daniel (1889–1945), Margaret Zelma (1891–1943), and Emma (1893–1958). Patriarch of the c. 1896 multi-generation family group portrait — the earliest dated Wildermuth-side photograph in this archive. Most plausibly Robert Earl Wildermuth's great-uncle on the Wildermuth side, brother of Robert Earl's grandfather. Chuck's great-great-uncle on the maternal side."
 ---
@@ -24,6 +25,12 @@ He married **[Flora Schlicher](/family/flora-schlicher-wildermuth/)** (b. 24 Aug
 > *"I hope to return to the home towns of grandma Catherina Boeshar and hopefully that of Johann Peter Schlicher at some later date."*
 
 Flora's father in Dale Eesley's tree is **Theobald "David" Schlicher**, the Schlicher patriarch Robert Earl was almost certainly trying to trace back. The marriage of William Clifford and Flora joined two of the earlier German-immigrant Marietta families into the single household visible in the **[c. 1896 family group portrait](/archive/william-wildermuth-family-group-portrait/)** in this archive.
+
+## Second marriage to Sarah Ruf
+
+When **Flora died on 18 November 1919** at age 49, William Clifford was 53. He remarried — his second wife was **[Sarah Ruf](/family/sarah-ruf-wildermuth/)** of **Williamstown, Wood County, West Virginia** (FamilySearch ID G3C8-MK7), the West Virginia town directly across the Ohio River from Marietta. The marriage date is undocumented in Dale's tree; no children of the second marriage are recorded.
+
+A separate **four-person studio family portrait** of William Clifford with Flora and two of their children is also in the family archive — pending upload to this archive. The portrait predates Flora's 1919 death.
 
 ## Three children
 
