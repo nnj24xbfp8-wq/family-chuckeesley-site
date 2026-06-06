@@ -43,8 +43,8 @@ By 2008 Bill Sr. lived in **Gap Mills, Monroe County, West Virginia** &mdash; a 
 
 ## In the 1992 portrait
 
-He is **back row right** of the **[c. 1992 Davis-Angel family portrait](/archive/davis-angel-family-portrait-1992/)** &mdash; identified in the typed caption as *"William Harvey Davis, Sr."* In his early fifties at the time of the portrait.
+He is **back row right** of the **[c. 1992 Davis-Angel family portrait](/archive/davis-angel-family-portrait-1992/)** &mdash; identified in the typed caption as *"William Harvey Davis, Sr."*, in his early fifties at the time of the portrait, standing with his wife Becky's family and his own &mdash; the patriarch of the Davis-Angel branch.
 
-He is **Chuck's great-uncle** on the maternal Wildermuth-Davis side &mdash; the youngest brother of Chuck's grandmother Dorothy. **He resides in Carmel, Indiana** per his sister Betty's 2015 obituary &mdash; an Indianapolis suburb that, paired with his daughter-in-law Becky Angel Davis's residence in Fishers, Indiana, places the younger Davis-Angel generation in a tight Indianapolis-area cluster.
+He is **Chuck's great-uncle** on the maternal Wildermuth-Davis side &mdash; the youngest brother of Chuck's grandmother Dorothy and the husband of Chuck's godmother Faye Angel's daughter Becky.
 
-> *Sources: [Dale Eesley / FamilySearch](https://www.familysearch.org/) — Davis family record (Bill is the @I38@ child of @F9@ in the GEDCOM); [c. 1992 Davis-Angel family portrait](/archive/davis-angel-family-portrait-1992/) typed caption; [Betty Jean (Davis) Wolfe obituary, Marietta Times, 16 September 2015](/docs/betty-jean-wolfe-obituary-2015/).*
+> *Sources: Davis-Angel family marriage and life record (16 August 1963 marriage in Washington Township, Monroe County, Ohio; Gap Mills, WV residence 2008; death 22 April 2022; buried Ronceverte, Greenbrier County, WV); [Dale Eesley / FamilySearch](https://www.familysearch.org/) — Davis family record; [c. 1992 Davis-Angel family portrait](/archive/davis-angel-family-portrait-1992/) typed caption; [Betty Jean (Davis) Wolfe obituary, Marietta Times, 16 September 2015](/docs/betty-jean-wolfe-obituary-2015/).*

@@ -5,21 +5,19 @@ line: maternal
 generation: 6
 parents:
   - william-harvey-davis-sr
-  - ida-rowena-roberts-davis
-spouses:
   - rebecca-angel-davis
 status: sketch
-summary: "Son of William Harvey Davis Sr. and Ida Rowena Roberts Davis. Married Rebecca 'Becky' Lynne Angel — the marriage that connects the Angel and Davis-Wildermuth families genealogically. Through his wife Becky, his mother-in-law Faye Angel became Chuck Eesley's godmother; the close-friendship-of-godmother and the family-care-network of Chuck's childhood ran along the kinship line Bill Jr. and Becky's marriage opened. Chuck's first cousin once removed on the maternal Wildermuth-Davis side."
+summary: "Eldest son of William Harvey Davis Sr. (Chuck's great-uncle) and Rebecca 'Becky' Lynne (Angel) Davis (daughter of Chuck's godmother Faye Angel). Named for his father in the JR-and-SR pair. Through his father he is the great-nephew of Dorothy Davis Wildermuth and Betty Davis Wolfe; through his mother Becky he is the grandson of Faye and Ted Angel. The single figure in the family who is simultaneously a Davis-Wildermuth descendant and an Angel descendant — the embodied result of the marriage that joined the two lines. Chuck's first cousin once removed."
 ---
 
-**William Harvey Davis Jr.** is the **son of [William Harvey Davis Sr.](/family/william-harvey-davis-sr/) and Ida Rowena (Roberts) Davis** &mdash; making his father Chuck's great-uncle (younger brother of Chuck's grandmother Dorothy). He is therefore **Chuck's first cousin once removed** on the maternal Wildermuth-Davis side.
+**William Harvey Davis Jr.** is the **eldest son** of **[William Harvey Davis Sr.](/family/william-harvey-davis-sr/) and [Rebecca "Becky" Lynne (Angel) Davis](/family/rebecca-angel-davis/)** &mdash; named for his father in the JR-and-SR pair. His father is Chuck's great-uncle (the youngest brother of Chuck's grandmother [Dorothy Davis Wildermuth](/family/dorothy-davis-wildermuth/)); his mother is the daughter of Chuck's godmother [Faye Angel](/family/faye-angel/). He is therefore **Chuck's first cousin once removed** on the maternal Wildermuth-Davis side.
 
-He married **[Rebecca "Becky" Lynne Angel](/family/rebecca-angel-davis/)** &mdash; daughter of [Faye Angel](/family/faye-angel/) (Chuck's godmother) and [Theodore "Ted" Angel](/family/ted-angel/). **That marriage is the documentary bridge connecting the Angel and Davis-Wildermuth families.** Without it, Faye Angel becoming Chuck's godmother would have been close-friend-godparent; with it, Faye is family-by-marriage &mdash; the mother-in-law of Chuck's first cousin once removed.
+He is **the single figure who is simultaneously a Davis-Wildermuth descendant and an Angel descendant** &mdash; the embodied result of the 16 August 1963 marriage that joined the two lines. His likely siblings include his brother **Homer Edward Davis** (named for their grandfather Homer Edward Davis Sr.) and his sister **Kimberly Ann Davis**.
 
 ## In the 1992 portrait
 
-He appears **back row, second from left**, in the **[c. 1992 Davis-Angel family portrait](/archive/davis-angel-family-portrait-1992/)** &mdash; identified in the typed caption as *"William Harvey Davis, Jr."* Standing alongside his father Bill Sr. and his father-in-law Ted Angel, with his wife Becky and the rest of the family in front.
+He appears **back row, second from left**, in the **[c. 1992 Davis-Angel family portrait](/archive/davis-angel-family-portrait-1992/)** &mdash; identified in the typed caption as *"William Harvey Davis, Jr."* Standing between his maternal grandfather Ted Angel and his brother Homer Edward Davis, with his parents Bill Sr. and Becky and his grandmother Faye Angel and his great-aunt Betty Wolfe in the rest of the portrait.
 
-His dates, his trade, and any children with Becky (Kimberly Ann Davis, identified in the front row of the 1992 portrait, is presumed to be their daughter) are queued research.
+His dates, his trade, marriage and children are queued research.
 
 > *Source: [c. 1992 Davis-Angel family portrait](/archive/davis-angel-family-portrait-1992/) typed caption.*

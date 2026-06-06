@@ -26,10 +26,10 @@ The Angel home for a sick child meant: **the picture-framing business going on a
 
 The earlier framing on this page treated Faye as *"a close family friend"* with an open question about whether her family connected to any documented family lines. **The c. 1992 [Davis-Angel family portrait](/archive/davis-angel-family-portrait-1992/)** surfaced in this archive in 2026 closes that question concretely:
 
-**Faye and Ted Angel had a daughter, [Rebecca "Becky" Lynne (Angel) Davis](/family/rebecca-angel-davis/), who married William Harvey Davis Jr.** &mdash; **the son of William Harvey Davis Sr., Betty and Dorothy Davis's younger brother**.
+**Faye and Ted Angel had a daughter, [Rebecca "Becky" Lynne (Angel) Davis](/family/rebecca-angel-davis/), who married [William Harvey Davis Sr.](/family/william-harvey-davis-sr/) on 16 August 1963 in Washington Township, Monroe County, Ohio** &mdash; **Chuck's great-uncle, the youngest brother of Chuck's grandmother [Dorothy Davis Wildermuth](/family/dorothy-davis-wildermuth/)**.
 
 **Through Becky's marriage, the Angel and Davis families are in-laws.** The chain runs:
 
-> Chuck's grandmother [Dorothy Davis Wildermuth](/family/dorothy-davis-wildermuth/) &rarr; her younger brother William Harvey Davis Sr. &rarr; his son William Harvey Jr. &rarr; William Jr.'s wife [Becky Angel Davis](/family/rebecca-angel-davis/) &rarr; Becky's mother **Faye Angel** &rarr; **Chuck's godmother**.
+> Chuck's grandmother [Dorothy Davis Wildermuth](/family/dorothy-davis-wildermuth/) &rarr; her youngest brother [William Harvey Davis Sr.](/family/william-harvey-davis-sr/) &rarr; Bill Sr.'s wife [Becky Angel Davis](/family/rebecca-angel-davis/) &rarr; Becky's mother **Faye Angel** &rarr; **Chuck's godmother**.
 
-Faye being Chuck's godmother is therefore not random closeness &mdash; it is the natural pick of a **mother-in-law-of-the-cousin-by-blood** to be the spiritual sponsor at the next-generation's baptism. The picture-framing-house childcare and the holiday-table closeness of the Angel home to Chuck's family are the lived expressions of a **family-by-marriage** relationship that the structured genealogical record had not yet picked up.
+Faye being Chuck's godmother is therefore not random closeness &mdash; it is the natural pick of a **mother-in-law-of-the-grandmother's-brother** to be the spiritual sponsor at the next-generation's baptism. The picture-framing-house childcare and the holiday-table closeness of the Angel home to Chuck's family are the lived expressions of a **family-by-marriage** relationship that the structured genealogical record had not yet picked up.

@@ -15,7 +15,7 @@ people:
   - betty-davis-wolfe
 ---
 
-**Davis-Angel family group portrait, c. 1992**, with **full cast labels at top and bottom** identifying nine figures. **The critical revelation:** **Faye and Ted Angel's daughter Becky married into the Davis family** &mdash; specifically William Harvey Davis Jr., son of William Harvey Davis Sr. (Betty and Dorothy Davis's younger brother). The two families are **genealogically connected** through that marriage; the photograph documents the bridge.
+**Davis-Angel family group portrait, c. 1992**, with **full cast labels at top and bottom** identifying nine figures. **The critical revelation:** **Faye and Ted Angel's daughter Becky married into the Davis family** &mdash; specifically [William Harvey Davis **Sr.**](/family/william-harvey-davis-sr/) (Betty and Dorothy Davis's youngest brother, b. 1941) on **16 August 1963 in Washington Township, Monroe County, Ohio**. The two families are **genealogically connected** through that marriage; the back row of this portrait is essentially Becky's children-and-husband, the front row her parents-sister-in-law-and-self. The photograph documents the bridge.
 
 ## The cast
 
@@ -26,27 +26,27 @@ people:
 > *BACK: Theodore "Ted" Angel, William Harvey Davis, Jr., Homer Edward Davis, William Harvey Davis, Sr.*
 
 **Front row, left to right:**
-- **Kimberly Ann Davis** &mdash; daughter (presumed) of William Harvey Davis Jr. and Rebecca "Becky" Angel Davis. **Chuck's first cousin twice removed**.
-- **[Faye Angel](/family/faye-angel/)** &mdash; Chuck's godmother. Faye is also **Becky's mother**, making her the mother-in-law of the elder William Davis branch.
-- **Ida Rowena (Roberts) Davis** &mdash; wife of William Harvey Davis Sr.
-- **Rebecca "Becky" Lynne (Angel) Davis** &mdash; Faye and Ted Angel's daughter. **Married William Harvey Davis Jr.** &mdash; the marriage that connects the Angel and Davis families genealogically.
-- **[Betty Jean (Davis) Wolfe](/family/betty-davis-wolfe/)** &mdash; Chuck's great-aunt, Dorothy Davis Wildermuth's younger sister.
+- **Kimberly Ann Davis** &mdash; presumed daughter of [William Harvey Davis Sr.](/family/william-harvey-davis-sr/) and [Becky Angel Davis](/family/rebecca-angel-davis/). **Chuck's first cousin once removed**.
+- **[Faye Angel](/family/faye-angel/)** &mdash; Chuck's godmother. **Becky's mother**; her marriage to [Ted Angel](/family/ted-angel/) in 1939 begins this Angel line.
+- **Ida Rowena (Roberts) Davis** &mdash; presumed daughter-in-law of Bill Sr. and Becky &mdash; likely the wife of one of their sons (Bill Jr. or Homer Jr.). Her exact role open research.
+- **[Rebecca "Becky" Lynne (Angel) Davis](/family/rebecca-angel-davis/)** &mdash; Faye and Ted Angel's daughter. **Married William Harvey Davis Sr. on 16 August 1963** &mdash; this is the marriage that connects the Angel and Davis families genealogically.
+- **[Betty Jean (Davis) Wolfe](/family/betty-davis-wolfe/)** &mdash; Chuck's great-aunt, Bill Sr.'s older sister (and Dorothy Davis Wildermuth's younger sister).
 
 **Back row, left to right:**
-- **[Theodore "Ted" Angel](/family/ted-angel/)** &mdash; Faye's husband, Becky's father; the picture-framing-business half of the Angel household.
-- **William Harvey Davis Jr.** &mdash; Becky's husband, son of William Harvey Sr.
-- **Homer Edward Davis** &mdash; presumed to be a son of William Harvey Davis Sr. and Ida (and brother of William Jr.), named for the family patriarch [Homer Edward Davis Sr.](/family/homer-davis/) (1900&ndash;1982). *(The 1900&ndash;1982 Homer was already deceased by the photograph's 1992 date; this is a younger Homer.)*
-- **William Harvey Davis Sr.** &mdash; **Betty and Dorothy's younger brother** (b. 20 August 1941, much younger than his sisters &mdash; Dorothy was 16, Betty 15 when Bill was born). The youngest of the five Davis siblings.
+- **[Theodore "Ted" Angel](/family/ted-angel/)** &mdash; Faye's husband, Becky's father; the picture-framing-business half of the Angel household. *Likely one of his last photographs* &mdash; he died c. 1991–1992 per his wife Faye's 2011 obituary's "53-year marriage" reference.
+- **[William Harvey Davis Jr.](/family/william-harvey-davis-jr/)** &mdash; **eldest son of Bill Sr. and Becky**, named for his father.
+- **Homer Edward Davis** &mdash; presumed second son of Bill Sr. and Becky, named for his grandfather [Homer Edward Davis Sr.](/family/homer-davis/) (1900&ndash;1982). *(The 1900&ndash;1982 Homer was already deceased by the photograph's 1992 date; this is the younger Homer.)*
+- **[William Harvey Davis Sr.](/family/william-harvey-davis-sr/)** &mdash; **Betty and Dorothy's youngest brother** (b. 20 August 1941, much younger than his sisters &mdash; Dorothy was 16, Betty 15 when Bill was born). **Married Becky Angel in 1963**, two years his junior. The youngest of the four Davis siblings, and the patriarch of the Davis-Angel branch the rest of this photograph documents. He would live another thirty years after this portrait, dying in West Virginia in April 2022, age 80.
 
 ## What the photograph reveals about Faye Angel's family role
 
 Until this photograph surfaced in the archive, the working hypothesis for **why Faye Angel was Chuck's godmother** was simply *"close family friend."* The labeled cast settles the question much more concretely:
 
-**Faye's daughter Becky married into the Davis family** &mdash; specifically into the line of William Harvey Davis Sr., Betty and Dorothy's younger brother. **Through Becky's marriage, the Angel family became in-laws of the Davis family**, and the Angel-and-Wildermuth family closeness was not just neighborly friendship but **kinship-through-marriage**. Faye was Chuck's mother's first-cousin-by-marriage (Becky was Chuck's first cousin once removed by marriage). Faye becoming Chuck's godmother in 1979 was a natural in-the-family godmother choice.
+**Faye's daughter Becky married William Harvey Davis Sr.** &mdash; **Chuck's great-uncle, the youngest brother of Chuck's grandmother Dorothy**. **Through Becky's marriage, the Angel family became in-laws of the Davis family**, and the Angel-and-Wildermuth family closeness was not just neighborly friendship but **kinship-through-marriage**. Faye was Chuck's grandmother's sister-in-law's mother &mdash; the kind of in-law-of-an-in-law closeness that small-town family networks readily turn into godmother bonds. Faye becoming Chuck's godmother in 1979 was a natural in-the-family godmother choice.
 
 The chain:
 
-> **Chuck's grandmother** Dorothy Davis &rarr; her **brother** William Harvey Davis Sr. &rarr; his **son** William Harvey Davis Jr. &rarr; William Jr.'s **wife** Becky Angel &rarr; Becky's **mother** Faye Angel &rarr; **Chuck's godmother**.
+> **Chuck's grandmother** Dorothy Davis &rarr; her **youngest brother** William Harvey Davis Sr. &rarr; Bill Sr.'s **wife** Becky Angel &rarr; Becky's **mother** Faye Angel &rarr; **Chuck's godmother**.
 
 ## Why the Angel-and-Davis household network mattered to Chuck's childhood
 
