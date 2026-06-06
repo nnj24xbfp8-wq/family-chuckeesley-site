@@ -1,6 +1,8 @@
 ---
 title: "Obituary of Fay Elsie Heter Angel (1918–2011)"
-type: "Obituary"
+type: obituary
+summary: "Obituary of Chuck's godmother Fay Angel — born on a Tuscarawas County farm and raised in a one-room schoolhouse, moved to Marietta in 1939, Marietta College Book Store Manager for nineteen years, twelve years operating Angel's Mat and Frame Shop with husband Theodore Ewing Angel, Sunday-school teacher at Christ United Methodist Church for twenty years, mother of Becky Angel Davis whose 1963 marriage to William Harvey Davis Sr. joined the Angel and Davis-Wildermuth families."
+teaser: "Her greatest joy was to be with and help in any way all of her friends and family."
 dateCreated: "2011-11-11"
 sortDate: "2011-11-11"
 placeCreated: "Marietta, Washington County, Ohio"

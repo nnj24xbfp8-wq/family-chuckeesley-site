@@ -27,9 +27,19 @@ The family lived first in **Waterford, Ohio**, where Dorothy was born; the home 
 
 Dorothy was still a child. She and Mary started school at **Unionville Grade School** and later transferred to **Marietta High School**, where Dorothy graduated in **June 1943**.
 
-## Bookkeeper at Citizen's Bank
+## Bookkeeper at Citizen's Bank, then libraries across the country
 
-Upon graduation Dorothy took a position as **bookkeeper at Citizen's Bank in Marietta**, where she would work even after her marriage. The bookkeeping habit ran the rest of her life — she would later work at the **South East Bank in Orlando**, the **Hoover Library at Stanford University**, and the **Maitland Public Library in Maitland, Florida** (per her 2010 funeral program).
+Upon graduation Dorothy took a position as **bookkeeper at Citizen's Bank in Marietta**, where she would work even after her marriage. The working-life habit ran the rest of her life across the moving household: she would later work at the **South East Bank in Orlando**, the **[Hoover Library](https://www.hoover.org/library-archives) at Stanford University**, and the **Maitland Public Library in Maitland, Florida** (per her 2010 funeral program).
+
+## At the Hoover Library — 1947 to 1948
+
+The Stanford-years job is named explicitly in **[Robert Earl's 1989 memoir](/docs/robert-earl-wildermuth-memoir/)**, in the passage describing the young couple's first year at Stanford after Robert Earl's conditional admission to undergraduate pre-med in 1947:
+
+> *"They rented a house on the [Stanford golf course](/places/stanford-university/). Dottie worked at the Hoover Library."*
+
+The **[Hoover Institution Library and Archives](https://www.hoover.org/library-archives)** &mdash; built on the holdings Herbert Hoover assembled to document the First World War and its aftermath &mdash; is one of Stanford's signature research libraries, then as now housed under the Hoover Tower on the western edge of campus. **Dottie, the Marietta High School graduate who had been keeping Citizen's Bank's books just three years earlier, was now working at one of Stanford's research libraries** to support the family while Robert Earl finished pre-med. The marriage and the move had taken them straight from a Marietta bank to a Stanford research library inside two years.
+
+The job appears to have been **1947 through Robert Earl's October 1948 BA**. When Robert Earl's medical-school applications were again denied, he took the Bio Sci degree and took a Container Corporation trainee job in Oakland; Dottie moved with him to Richmond, California, where their first daughter **[Terrie Lee](/family/terrie-lee-eesley/)** was born **13 January 1949**. The Hoover Library chapter closed when Dottie became a mother and the family left Palo Alto for the East Bay.
 
 ## Marriage and the Air Force years
 

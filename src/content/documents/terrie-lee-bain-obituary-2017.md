@@ -1,6 +1,8 @@
 ---
 title: "Obituary of Terrie Lee (Wildermuth) Bain (1949–2017)"
-type: "Obituary"
+type: obituary
+summary: "Hadley Funeral Home obituary of Chuck's mother Terrie Lee Bain — born Oakland, California to Robert Earl and Dorothy Davis Wildermuth, traveling Air Force daughter across the U.S. and Japan, Marietta College and University of Maryland graduate, twenty-three-year teacher in Marietta City Schools (Marietta Public Library children's librarian, North Hills Elementary, Title I at Harmar Elementary), close relative to Betty and Norm Wolfe, second wife of Benjamin F. Bain II."
+teaser: "She loved teaching her students, enjoyed teaching Safety Town during her summers for many years."
 dateCreated: "2017-05-17"
 sortDate: "2017-05-17"
 placeCreated: "Marietta, Washington County, Ohio"

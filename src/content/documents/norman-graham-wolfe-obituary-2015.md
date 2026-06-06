@@ -1,6 +1,8 @@
 ---
 title: "Obituary of Norman 'Norm' Graham Wolfe (1926–2015)"
-type: "Obituary"
+type: obituary
+summary: "Marietta Times obituary of Chuck's great-uncle by marriage Norm Wolfe — Marietta-born son of Homer O. Wolfe and Margaret Graham Wolfe, Marietta High School quarterback and football team captain, Army veteran of WWII Germany, husband of Betty Davis for 69 years, father of three daughters, longtime deacon of the Sixth Street Church of Christ, co-host of the 108 Hillcrest Drive holiday dinners across Chuck's childhood."
+teaser: "His was indeed a life well lived."
 dateCreated: "2015-02-21"
 sortDate: "2015-02-21"
 placeCreated: "Marietta Times, Marietta, Ohio"

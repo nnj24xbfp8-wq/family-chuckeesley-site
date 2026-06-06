@@ -1,6 +1,8 @@
 ---
 title: "Obituary of Betty Jean (Davis) Wolfe (1926–2015)"
-type: "Obituary"
+type: obituary
+summary: "Marietta Times obituary of Chuck's great-aunt Betty Davis Wolfe — the McConnelsville-born head majorette who cared for her dying mother through her early twenties, married football quarterback Norm Wolfe in 1945 before he shipped to Germany, raised three daughters, ran a Sixth Street Church of Christ care-network of meals-for-the-sick across decades, and hosted Chuck's holiday-dinner childhood at 108 Hillcrest Drive in Marietta."
+teaser: "Betty Wolfe joined her husband, Norman, in heaven."
 dateCreated: "2015-09-16"
 sortDate: "2015-09-16"
 placeCreated: "Marietta Times, Marietta, Ohio"

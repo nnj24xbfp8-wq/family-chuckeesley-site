@@ -54,6 +54,7 @@ const documents = defineCollection({
         'letter',
         'letter-collection',                       // a curated set of letters w/ introduction
         'eulogy',
+        'obituary',
         'tree-export',
       ]),
       author: reference('people').optional(),
