@@ -12,6 +12,9 @@ dateRange:
 sortDate: "1937-01-26"
 summary: "Robert Earl Wildermuth's childhood memory of the January–February 1937 Ohio River flood — the highest crest in the river's recorded history, which put four feet of water on the first floor of his family's house at 413 Harmar Street, Marietta. The mantle from the fireplace floated off its base and banged around the rooms breaking every window. The family moved furniture to the second floor and stayed with friends on higher ground for the two weeks the water was up. Twelve-or-thirteen-year-old Robert Earl took his father's boat across to the Marietta business district, picked up newspapers at the still-operating second-floor newspaper office, and sold them at floodwater premium prices door-to-door — 'I could sell more papers than the news company could provide me. Everybody wanted a paper to see what the predictions were for the rising river waters to start receding.'"
 source: "Robert Earl Wildermuth's 1989 memoir, the 1937 flood passages."
+scans:
+  - ../../assets/family/originals/1937_flood_34274614772185113_1935191922371003254_n.jpg
+  - ../../assets/family/originals/MainImageNKYViews.jpg
 ---
 
 ## The flood
@@ -45,6 +48,15 @@ Beyond his own family's flood, Robert Earl notes the broader Marietta pattern:
 > *"Actually the flood waters were only in our house once while we lived there but almost every year, the flood waters would get up to our street. The old buildings in the Marietta business district, most of them built in the 1800's, have survived many, many floods with water up as high as ten to fifteen feet inside them and at this date many of them are still in use."*
 
 The annual rise of the rivers — flood-water-on-our-street as routine — is the Marietta-river-town life detail his Wildermuth-side childhood was built on. The 1937 flood was the **one event when the water came inside the house**; the rest were near-misses Robert Earl took for granted.
+
+## The flood photographs
+
+Two period photographs of the 1937 flood are held in this archive alongside the memoir transcription:
+
+- **The Hotel Lafayette in Marietta on 26 January 1937** — the iconic Marietta flood photograph, captured at the peak crest. The four-story Hotel Lafayette stands surrounded by floodwater up to its first-floor windows, with a smaller three-story building beside it equally flooded. The handwritten date **"Jan 26 1937"** is inscribed in the lower margin. The Hotel Lafayette was Marietta's premier hotel at the time, in the business district that Robert Earl rowed his boat across to reach the newspaper office.
+- **An aerial view of the 1937 Cincinnati flood** — the broader-scale shot showing how the Ohio River had spread far beyond its banks across the Cincinnati / Northern Kentucky basin at the peak of the disaster. The Roebling Suspension Bridge (the great 1866 bridge that John Roebling built before the Brooklyn Bridge) is visible spanning the swollen Ohio. Industrial buildings, residential blocks, and neighborhoods on both sides of the river sit under water as far as the camera reaches.
+
+The two photographs together — local Marietta scale and the river-wide Cincinnati scale — frame the disaster context of Robert Earl's family memory.
 
 ## Further reading
 

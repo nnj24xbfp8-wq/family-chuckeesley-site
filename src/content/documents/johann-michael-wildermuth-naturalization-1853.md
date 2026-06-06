@@ -9,7 +9,9 @@ dateRange:
   start: "1853-11-01"
 sortDate: "1853-11-01"
 summary: "Handwritten/printed naturalization petition filed 1 November 1853 in the Philadelphia County Court of Quarter Sessions by 'John M. Wildermuth, a Native of Germany' — the U.S. naturalization document of Johann Michael Wildermuth, Chuck's great-great-great-grandfather on the maternal Wildermuth side, the 1847 emigrant from Grossaspach, Württemberg who founded the Marietta Ohio Wildermuth line. Records his arrival at the Port of New York in 1847 'at the time of his arrival under eighteen years of age,' his five-plus years of U.S. residence and one year in Pennsylvania immediately preceding the petition, his renouncing of allegiance to 'the Grand Duke of Wirtemberg of whom he was at that time a Subject.' Witnessed by Michael Dreher, citizen, sworn in open court before the Honorable Oswald Thompson. Filing reference: WILD-8. This is the actual primary-source document Robert Earl Wildermuth had been researching when he wrote in his 1990 Wildermuth/Fleming Heritage that he had visited 'Philadelphia naturalization records' in pursuit of the family's emigration story."
-source: "Original held in family archive; transmitted by Chuck Eesley 2026. The scan will be added to src/assets/family/ when uploaded."
+source: "Original held in family archive; transmitted by Chuck Eesley 2026."
+scans:
+  - ../../assets/family/originals/IMG_5950.jpeg
 ---
 
 ## Why this document is the keystone
@@ -77,6 +79,6 @@ The presiding judge — **the Honourable Oswald Thompson** — was a real Philad
 
 ## Provenance
 
-Original held in family archive; transmitted by Chuck Eesley 2026. The scan will be added to `src/assets/family/` and embedded here once uploaded.
+Original held in family archive; transmitted by Chuck Eesley 2026. The scan is now embedded above.
 
 > *Companion documents: [Robert Earl Wildermuth's 1990 Wildermuth/Fleming Heritage](/docs/wildermuth-fleming-heritage-1990/), which had identified the Philadelphia naturalization-records research thread; [Johann Michael Wildermuth's person page](/family/johann-michael-wildermuth/), which now points to this primary source.*

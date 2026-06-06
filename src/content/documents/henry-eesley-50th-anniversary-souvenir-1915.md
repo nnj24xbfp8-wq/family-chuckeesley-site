@@ -8,7 +8,9 @@ dateRange:
   start: "1915-11-02"
 sortDate: "1915-11-02"
 summary: "Printed two-sided souvenir booklet from the 50th wedding anniversary of Henry Eesley and his wife (born Clemens Wilkins), who had been married in the township of Blenheim, Canada on 2 November 1865 — four years after Chuck's great-great-grandparents Albert Robert Eesley and Jennie Goldie were married in nearby Ayr, Canada in 1861, and within the same Ontario Eesley network. By 1915 Henry and Clemens were residents of Midland, Michigan, with eight children documented (including one deceased): Edward (d. 1879), Mrs. Tressa B. Maddock of Detroit, Harry H. of Denver, Mrs. John A. Dillon of East Tawas, Wm. J. of Steamboat Springs, Arthur L. of Winegar Wisconsin, Mrs. Gus A. Winkler of Midland, and Lewis E. of Midland. Handwritten annotation on the souvenir: 'Eesley cousin to MaryAnn Harris Cobb.' This is an extended-Eesley-family branch — Henry was almost certainly a cousin or sibling of Albert Robert Sr Eesley, the Stratford-on-Avon emigrant. The reconciliation against Dale's tree is open."
-source: "Original printed souvenir, dated 1915, transmitted by Chuck Eesley 2026. Handwritten annotation 'Eesley cousin to MaryAnn Harris Cobb' at upper right. The scan will be added to src/assets/family/ when uploaded."
+source: "Original printed souvenir, dated 1915, transmitted by Chuck Eesley 2026. Handwritten annotation 'Eesley cousin to MaryAnn Harris Cobb' at upper right."
+scans:
+  - ../../assets/family/originals/0380bf52-91c3-4396-8a22-749d8874040a.jpeg
 ---
 
 ## What the souvenir is
@@ -81,6 +83,6 @@ Dale Eesley's FamilySearch tree carries **3,465 individuals** across 1,529 famil
 
 ## Provenance
 
-Original souvenir transmitted by Chuck Eesley 2026. The handwritten "Eesley cousin to MaryAnn Harris Cobb" annotation is in pencil in the upper right corner of the recto. The scan will be added to `src/assets/family/` when uploaded.
+Original souvenir transmitted by Chuck Eesley 2026. The handwritten "Eesley cousin to MaryAnn Harris Cobb" annotation is in pencil in the upper right corner. The scan is now embedded above.
 
 > *Companion documents: [William Eesley c. 1916 obituary](/docs/william-eesley-obituary-college-corner/), which documents the Albert Robert Sr Eesley generation directly preceding Henry's 1915 anniversary; [Albert Robert Sr Eesley person page](/family/albert-robert-eesley/) for the parallel 1861 Ontario marriage that brackets Henry's 1865 one.*

@@ -5,7 +5,7 @@ region: "Washington County, Ohio"
 country: "United States"
 summary: "The three-bedroom brick-foundation house Earl Adam and Sadye Irene Wildermuth bought in 1929 — three blocks up from the Muskingum River, on the West Side of Marietta — and the central physical anchor of Robert Earl Wildermuth's childhood. The family lived there over fourteen years; four of Earl and Sadye's five children were born and raised there. It is the house Robert Earl's 1989 memoir opens its sustained passages from, and the venue of the 1937 Marietta flood story when four feet of water came in on the first floor and the wooden fireplace mantle floated off its base and broke every window."
 significance: "The maternal-side counterpart to the paternal Eesley family's Seventh Street and Highland Ridge houses in Marietta. The Wildermuth dream house — bought near the bottom of the Depression in 1929, lived in for fourteen-plus years, survived the 1937 Ohio River flood, eventually outgrown when Robert Earl shipped to the war in 1943. The street view of an immigrant-shoemaker grandson's family economic ascent."
-status: described-only
+status: photographed
 relatedPeople:
   - earl-a-wildermuth
   - sadye-fleming-wildermuth
@@ -13,7 +13,13 @@ relatedPeople:
 relatedDocuments:
   - robert-earl-wildermuth-memoir
   - marietta-1937-flood
----
+visits:
+  - year: "2026"
+    photographer: charles-eric-eesley
+    images:
+      - ../../assets/family/originals/413 Harmar St. Marietta.png
+    caption: "Google Street View of 413 Harmar Street, Marietta, c. 2026 — the Wildermuth family house still standing eighty-plus years after Earl Adam and Sadye Irene bought it in 1929. Blue clapboard two-story house with a covered front porch, brick foundation visible at the base (the same brick foundation Robert Earl's 1989 memoir describes as 'approximately four feet high'), an American flag hanging from a porch column, and the street's 'steady rise' visible in the background hills of the West Side of Marietta. The house, the West-Side neighborhood, and the topography of Robert Earl's childhood are all still on the ground a century after Earl Adam bought the house at the bottom of the Depression in 1929."
+    alignmentNote: "First photograph in this archive of 413 Harmar Street. The Google Street View framing — front of the house at eye level from across the street — establishes the basic visual record. A pilgrimage photograph from a Marietta-visiting family member with a more compositional eye would deepen this layer further."
 
 **413 Harmar Street, Marietta, Washington County, Ohio** — the **Wildermuth family house** of [Earl Adam Wildermuth](/family/earl-a-wildermuth/), [Sadye Irene (Fleming) Wildermuth](/family/sadye-fleming-wildermuth/), and their five children, including [Robert Earl Wildermuth](/family/robert-earl-wildermuth/) (Chuck's maternal grandfather). The address is **the central physical anchor of Robert Earl's childhood** and the venue of some of the most vivid scenes in his [1989 memoir](/docs/robert-earl-wildermuth-memoir/).
 
@@ -41,8 +47,12 @@ The 1929 purchase was the family's deliberate economic step up — from the smal
 
 The house outlasted Earl Adam and Sadye. By the time Sadye died in 1976 and Earl Adam followed in 1977, the family had moved to **320 Harmar Street** — a few addresses up the same street — where Robert Earl's blind brother Carl was living with their father in old age.
 
-## Photographs and current state
+## The current state of the house — c. 2026
 
-No photograph of the house at 413 Harmar Street is yet in this archive. **A photographic record of the current state of the address — pilgrimage photography in the [Rielingshausen / Grossaspach](/places/rielingshausen-church/) tradition** — would be a natural next-step contribution from a Marietta-visiting family member. The house may still stand; the West Side of Marietta has retained much of its early-20th-century building stock.
+**The house at 413 Harmar Street still stands.** A Google Street View capture from c. 2026 — embedded above in the visit record — shows a **blue-painted clapboard two-story house with a covered front porch**, an American flag hanging from a porch column, and the same brick foundation Robert Earl's 1989 memoir describes as *"approximately four feet high."* The West-Side topography — the *"steady rise"* Robert Earl named — is visible in the background hills. The neighbors' houses on either side appear to be of the same early-20th-century vintage; the West Side of Marietta has retained its 1900s–1930s building stock.
+
+The house has presumably been owned by several families since Earl Adam and Sadye Irene moved out (the family had relocated to **320 Harmar Street** by Sadye's 1976 death). Its current owner is not documented in this archive.
+
+A **family-pilgrimage photograph** of the address — in the tradition of the [Rielingshausen / Grossaspach](/places/rielingshausen-church/) Wildermuth-origin photography from Robert Earl and Sandra's 1993 trip — would deepen the record. The Street View is the documentary anchor; a family-eye photograph is the next contribution.
 
 > *Source: [Robert Earl Wildermuth's 1989 memoir](/docs/robert-earl-wildermuth-memoir/), the opening passages on his Marietta childhood; family memory transmitted via the memoir's framing.*
