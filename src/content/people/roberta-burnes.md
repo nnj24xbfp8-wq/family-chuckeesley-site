@@ -1,8 +1,6 @@
 ---
 name: "Roberta Marie Burnes"
 line: paternal
-birth:
-  date: "1963-08-06"
 generation: 6
 parents:
   - helen-burnes
@@ -10,7 +8,7 @@ living: true
 summary: "Daughter of Helen Burnes; Chuck's first cousin once removed. Keeper of the largest surviving collection of Charles Leonard Eesley's 1940s correspondence — the letters that most likely document, in Charles's almost-indecipherable handwriting, how Stella Sunn came to the family during the war."
 ---
 
-Roberta Marie Burnes was born August 6, 1963 — Helen Louise (Eesley) Burnes's daughter, Chuck's first cousin once removed on the paternal side.
+Roberta Marie Burnes &mdash; Helen Louise (Eesley) Burnes's daughter, Chuck's first cousin once removed on the paternal side.
 
 She holds, in her own description from a July 2019 family email, *"a huge collection of mostly 1940s letters [that] may shed some light on this"* — *this* being the unresolved question of how Stella Sunn came to live with the Eesleys. The letters are written in Grandpa Eesley's hand, which Roberta characterizes as *"almost indecipherable."*
 

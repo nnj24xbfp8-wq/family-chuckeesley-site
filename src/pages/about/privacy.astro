@@ -1,0 +1,108 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+---
+<BaseLayout title="On living people — how this archive handles privacy" description="The editorial principles by which this archive handles living individuals' personal information.">
+  <article class="prose prose-stone max-w-prose">
+    <h1>On living people</h1>
+    <p class="text-ink/70 italic">
+      The editorial principles by which this archive handles living individuals'
+      personal information. Plain-language; no legal language.
+    </p>
+
+    <h2>The principle</h2>
+    <p>
+      <strong>Living people get a light touch.</strong> The genealogical record
+      is rich, but the public site is not the place to surface every detail of
+      every living family member.
+    </p>
+    <p>The practical rules:</p>
+    <ul>
+      <li>
+        <strong>No specific birth dates</strong> (day or month) for living
+        people unless they have explicitly opted in. Birth year may appear in
+        context for figures whose age is already public (Chuck is on the
+        Stanford faculty; his year is in his university bio).
+      </li>
+      <li>
+        <strong>No exact home locations</strong> &mdash; street addresses,
+        neighborhoods, specific towns &mdash; for living people who haven't
+        opted in. Broader geography (state, country, the city of an
+        on-the-record public role) may appear when it serves the narrative.
+      </li>
+      <li>
+        <strong>No minor children's names.</strong> Children mentioned in
+        adults' obituaries or family records are referred to in general terms
+        on the public site.
+      </li>
+      <li>
+        <strong>The address appendix is offline.</strong> Mary Eesley Bean's
+        1985 family register includes a contact-address appendix. That appendix
+        is kept in the private family archive; the rest of the register is
+        published.
+      </li>
+      <li>
+        <strong>Letters that the family has marked private remain private.</strong>
+        See the curation principle on the
+        <a href="/docs/letters-from-vietnam/">Letters from Vietnam</a> page.
+      </li>
+    </ul>
+
+    <h2>How the site enforces this</h2>
+    <p>
+      The <code>people</code> collection has a <code>living: true</code> flag.
+      A helper called <code>publicDisplay</code> hides the header vitals
+      (birth date, birth place, aka, summary) for anyone with that flag set.
+      In addition, the source markdown for living-flagged pages has been
+      cleaned of specific dates and locations in both frontmatter and body
+      text &mdash; so that the publicly-published HTML and the underlying
+      source on GitHub stay consistent.
+    </p>
+
+    <h2>The owner exception</h2>
+    <p>
+      <a href="/family/charles-eric-eesley/">Chuck Eesley</a>, who keeps the
+      archive, has chosen to leave his own page in normal form. The general
+      rule applies to everyone else with <code>living: true</code>.
+    </p>
+
+    <h2>The opt-in path</h2>
+    <p>
+      If you are a family member with a page here and you'd like to add detail
+      &mdash; or take detail away &mdash; please contact Chuck directly. The
+      site is built to be easy to update.
+    </p>
+
+    <h2>Disclosure of AI-generated content</h2>
+    <p>
+      Where this archive contains AI-generated visual material &mdash; for
+      example the <a href="/family/zhongchu-li/">animated portrait of
+      Lijie's grandfather Zhongchu Li</a>, the
+      <a href="/family/zhaoxiang-zhou/">animated portrait of her grandfather
+      Zhaoxiang Zhou</a>, the
+      <a href="/family/ling-zhou/">animated portrait of her father Ling
+      Zhou</a>, and the colorization of Robert Earl in the 1965 Stanford
+      fountain photograph &mdash; the AI involvement is disclosed inline.
+      The underlying still photograph is the historical artifact; the
+      animation or colorization is presented as a small visual aid generated
+      from it, not as a moving image of the person.
+    </p>
+
+    <h2>Why this archive exists</h2>
+    <p>
+      The site is the next round in a long line of family record-keeping
+      &mdash; from Mary Eesley Bean's 1985 indented register, to Margaret
+      "Maggie" Eesley's "Four Generations" photographic catalogue, to
+      Robert Earl Wildermuth's 1990 Wildermuth/Fleming Heritage, to Dale
+      Eesley's ongoing FamilySearch tree. The previous generations of
+      keepers built the structured record; this site is the narrative layer
+      that sits on top of it.
+    </p>
+    <p>
+      The privacy posture is meant to keep that record open enough to be
+      useful to future genealogists &mdash; the explicit audience
+      <a href="/family/robert-earl-wildermuth/">Robert Earl addressed at the
+      end of his memoir</a> &mdash; while keeping the lives of living family
+      members in their own hands.
+    </p>
+  </article>
+</BaseLayout>

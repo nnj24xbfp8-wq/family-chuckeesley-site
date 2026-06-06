@@ -24,14 +24,14 @@ Other details withheld &mdash; living. The biographical layer here is meant to g
 
 The Zhou side of this archive now opens. From the updated GEDCOM:
 
-- **Father: [Zhou Ling 周玲](/family/ling-zhou/)** (b. 1 December 1955, Qingdao). His parents:
+- **Father: [Zhou Ling 周玲](/family/ling-zhou/)**. His parents:
   - **[Zhou Zhaoxiang 周兆祥](/family/zhaoxiang-zhou/)** (1 August 1930, **Jiaozhou Shi** &mdash; the ancestral inland city-region &mdash; to 9 December 2022, Qingdao).
   - **[Sun Yunzhe 孙云哲](/family/yunzhe-sun/)** (d. December 2023, Qingdao).
-- **Mother: [Li Xun 李恂](/family/xun-li/)** (b. 20 June 1956, Qingdao). Her parents:
+- **Mother: [Li Xun 李恂](/family/xun-li/)**. Her parents:
   - **[Li Zhongchu 李忠初](/family/zhongchu-li/)** (15 September 1921 &ndash; 1 November 1982, Qingdao). Died six weeks after his daughter's marriage; never met Lijie.
   - **[Shang Yaozhen 商耀珍](/family/yaozhen-shang/)** (11 September 1921 &ndash; 10 January 2013). Outlived her husband by thirty years; the one grandparent on Lijie's side who lived to know her grown.
 
-Ling and Xun married **18 September 1982 in [Qingdao](/places/qingdao/)**. Lijie was born just over a year later. The ancestral place behind the modern Qingdao life is [**Jiaozhou Shi**](/places/qingdao/) &mdash; the inland city-region from which Zhou Zhaoxiang's family came.
+Ling and Xun married in **1982 in [Qingdao](/places/qingdao/)**. Lijie was born just over a year later. The ancestral place behind the modern Qingdao life is [**Jiaozhou Shi**](/places/qingdao/) &mdash; the inland city-region from which Zhou Zhaoxiang's family came.
 
 ## Childhood photographs newly placed
 
@@ -42,7 +42,7 @@ Ling and Xun married **18 September 1982 in [Qingdao](/places/qingdao/)**. Lijie
 
 - **The earlier Zhou and Li generations** &mdash; great-grandparents and beyond &mdash; where Lijie's family is able to name them.
 - **Generation names** (字辈 / 班辈) if the Zhou family uses them &mdash; the traditional Chinese lineage device where a single character is shared by all male family members of one generation, drawn from a generation-poem (字辈诗) written by an ancestor.
-- **Lijie's siblings** if any, and her aunts and uncles: paternal aunts **Ai Hua Zhou** and **Ai Qin Zhou** and uncle **Quan Zhou**; maternal uncle **Mengling Li** (b. 1952) and aunt **Bo Li** (b. 1957).
+- **Lijie's siblings** if any, and her aunts and uncles: paternal aunts **Ai Hua Zhou** and **Ai Qin Zhou** and uncle **Quan Zhou**; maternal uncle **Mengling Li** and aunt **Bo Li**.
 - **A "Zhou family of Qingdao" document** &mdash; the place-of-origin narrative, analogous to the [Wildermuth villages of W&uuml;rttemberg](/places/rielingshausen-town-square/) and the [Eesley parishes of Oxfordshire](/family/joseph-eesley/) on the existing sides.
 - **Photographs and oral history** &mdash; the Zhou side's analog to Robert Earl's memoirs and Aunt Maggie's photo deck.
 
@@ -52,19 +52,19 @@ Ling and Xun married **18 September 1982 in [Qingdao](/places/qingdao/)**. Lijie
 
 ## 中文
 
-**周丽婕**，1983年9月30日生于中国山东省青岛市。Chuck Eesley之妻，斯坦福大学家族档案的另一半建立者。她于2018年陪同丈夫前往英国牛津公共图书馆，参与了将Eesley家族世系追溯到18世纪初期Hanwell教区Joseph Eesley和Frances Ayris夫妇的研究工作。
+**周丽婕**，生于中国山东省青岛市。Chuck Eesley之妻，斯坦福大学家族档案的另一半建立者。她于2018年陪同丈夫前往英国牛津公共图书馆，参与了将Eesley家族世系追溯到18世纪初期Hanwell教区Joseph Eesley和Frances Ayris夫妇的研究工作。
 
 ### 她的家族
 
 更新后的家谱（GEDCOM）现已开启周氏一脉的记录：
 
-- **父亲：[周玲](/family/ling-zhou/)**（1955年12月1日生于青岛）。父之父母：
+- **父亲：[周玲](/family/ling-zhou/)**。父之父母：
   - **[周兆祥](/family/zhaoxiang-zhou/)**（1930年8月1日生于胶州市 &mdash; 周氏远祖之地 &mdash; 2022年12月9日卒于青岛）。
   - **[孙云哲](/family/yunzhe-sun/)**（2023年12月卒于青岛）。
-- **母亲：[李恂](/family/xun-li/)**（1956年6月20日生于青岛）。母之父母：
-  - **[李忠初](/family/zhongchu-li/)**（1921年9月15日 &ndash; 1982年11月1日，青岛）。1982年9月18日女儿李恂与周玲成婚后六周辞世；未及与外孙女周丽婕相见。
+- **母亲：[李恂](/family/xun-li/)**。母之父母：
+  - **[李忠初](/family/zhongchu-li/)**（1921年9月15日 &ndash; 1982年11月1日，青岛）。女儿李恂与周玲成婚后六周辞世；未及与外孙女周丽婕相见。
   - **[商耀珍](/family/yaozhen-shang/)**（1921年9月11日 &ndash; 2013年1月10日）。守寡三十年，亲眼见证外孙女周丽婕长大成人。
 
-周玲和李恂于**1982年9月18日在[青岛](/places/qingdao/)成婚**。周丽婕次年出生。这一支周氏现代青岛生活背后的远祖之地是[**胶州市**](/places/qingdao/) &mdash; 周兆祥家族的起源地。
+周玲和李恂于**1982年在[青岛](/places/qingdao/)成婚**。周丽婕次年出生。这一支周氏现代青岛生活背后的远祖之地是[**胶州市**](/places/qingdao/) &mdash; 周兆祥家族的起源地。
 
 > *注：本页两位主角的姓名汉字已由家族确认（**周丽婕**、母亲**李恂**）；周氏祖辈一支（兆祥、运哲等）的汉字仍以推测为主，待家族进一步确认。*
