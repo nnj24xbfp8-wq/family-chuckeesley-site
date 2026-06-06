@@ -28,6 +28,14 @@ That refusal — to let the loss of his son turn him into someone who would infl
 
 Lyle has no surviving children in the family register; his line ends at this entry. He is the brother whose absence the next generation lived around.
 
+## Charlie's autobiography on Lyle's death
+
+[Charlie Eesley's 12th-grade autobiography (c. 1964&ndash;1965)](/docs/charles-eesley-12th-grade-autobiography-1965/) gives the family-memory framing of Lyle's death the next generation heard:
+
+> *"Uncle Lyle was killed during World War II. He won the Silver Star for heroism in action but was killed in the 'Bataan Death March' on the Philippine Islands."*
+
+Two details worth noting. **The Silver Star** &mdash; the third-highest U.S. combat decoration for valor &mdash; is named here for the first time in this archive. The 1985 Bean register and the GEDCOM both record Cabanatuan as the death place; Charlie's autobiography says *Bataan Death March*. Both can be true: men who died at Cabanatuan in mid-1942 had usually arrived there as **survivors of the Bataan Death March**. The family memory Charlie transmitted compressed the long death &mdash; capture, march, camp, July 25 &mdash; into the single phrase the family used.
+
 ## The one photograph
 
 A **[group portrait of Charles Leonard with five of his adult sons and his grandson Tommy, c. 1937&ndash;1939](/archive/charles-leonard-and-sons-late-1930s/)** &mdash; six men in formal suits against a hedge &mdash; is the only photograph of Lyle currently in the archive. **Lyle is second from the left**: fair-haired, around twenty-one or twenty-two, head turned slightly toward his older brother Leonard David. The frame catches him at home in Bexley **three to five years before he shipped to the Philippines and never came home**, alongside his brother Dale who himself would die in July 1939 before either Lyle's enlistment or the war.

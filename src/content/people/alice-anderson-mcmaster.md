@@ -26,6 +26,10 @@ Alice ran the **Clifton School** in Pennsylvania. The deck preserves a **1928 cl
 
 She died in **1961**, age 90 &mdash; thirteen years before her son Don and forty-six years before her daughter Peggy. The Clifton School where she had taught for decades is the institutional trace of her in the world Maggie's deck preserves.
 
+## The last six years — living with the Eesleys
+
+[Charlie Eesley's 12th-grade autobiography (c. 1964&ndash;1965)](/docs/charles-eesley-12th-grade-autobiography-1965/) records that *"Grandmother died two years ago at the age of ninety. She had lived with us for about six years."* The arithmetic places Alice **moving into the Eesley household around 1955** &mdash; when Peggy and Will's eldest daughter Jeanne was about ten and Charlie was about eight &mdash; and living with the family at their Marietta house through her death in 1961. The household Charlie grew up in had **his great-grandparents' generation present at the dinner table** for most of his childhood. The dry-humor-from-Grandma-McMaster line that the eulogy traces from Alice through Peggy through Charlie was a living transmission, not a memory.
+
 ## Photographs in the archive
 
 - **Alice Anderson as a young woman** (Eyer, McDonald PA, late 1880s / early 1890s) &mdash; cabinet card, 2⅞" by 4", in a 5" by 7" frame.

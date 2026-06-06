@@ -26,9 +26,15 @@ Peggy was born **September 10, 1914 in Coraopolis, Pennsylvania** &mdash; the sm
 
 She taught **Home Economics in Butler, Pennsylvania** in the years after Penn State, and again at **Marietta High School in the early 1960s** &mdash; her teaching career bracketed her years raising the four children, the way a generation of educated American women's careers were often bracketed in mid-century. Home Economics was, in the secondary-school curriculum of the time, the practical-craft discipline that taught budgeting, cooking, household running, and the daily-life skills that schools then thought worth teaching to the generation about to set up its own households. (The continuity with the **investing** she is best remembered for in this archive is exact: a household economist on the home side, a portfolio strategist on the capital side &mdash; one practice, two scales.)
 
-## The 7th Street house, marriage, the children
+## The three Marietta addresses, marriage, the children
 
-Peggy McMaster Eesley married Will on June 20, 1942 and raised four children with him in Columbus and then Marietta, settling into the **7th Street house** that would be Grandma Peggy's house in the next generation's memory.
+Peggy McMaster Eesley married Will on June 20, 1942 and raised four children with him in Columbus and then Marietta, across **three successive Marietta addresses** spanning sixty-five years:
+
+1. **651 Sixth Street** &mdash; the Marietta family house from about 1950 (when Charlie was three) through the 1960s. The old house Will the architect spent **eight years remodeling** around the family, with Maggie's bedroom in the former bathroom and Jeanne and Anne's in the former upstairs kitchen. The house Charlie grew up in and wrote his [1964&ndash;1965 12th-grade autobiography](/docs/charles-eesley-12th-grade-autobiography-1965/) at &mdash; the autobiography that documents the address explicitly.
+2. **Highland Ridge Road** &mdash; the next house, designed and built by [Will the architect](/family/wilbur-eesley/) himself, with the orchard he planted and the small red bridge he built over the pond out back. Will and Peggy moved here from Sixth Street; Charlie would later raise his own son Chuck in this same house.
+3. **Seventh Street** &mdash; Peggy's later-life house, where she lived as a widow after Will's June 1986 death. **This is the "Grandma Peggy's house on 7th Street"** of Chuck's childhood memory &mdash; the house he went to every weekday afternoon after school through his elementary and high-school years, the house where Peggy played bridge and ran the household into her nineties. The Peggy [2007 obituary](#sources) lists her as *"formerly of Seventh Street, Marietta"* &mdash; her last address before Harmar Place. **This is the house [Chuck's eulogy for his father](/docs/eulogy-charles-mcmaster-eesley/) names** as one of *"the places that should hold his name longest."*
+
+The three-stage progression &mdash; **Sixth Street &rarr; Highland Ridge &rarr; Seventh Street** &mdash; runs the family across sixty years of Marietta life.
 
 She is the figure who turns out to have done the most to shape the next two generations of Eesley life, not from any public role but through the sustained, patient practice of long-term investing. Chuck's eulogy for his father puts it most simply:
 
@@ -38,7 +44,7 @@ Her dark, dry sense of humor went directly to her son Charlie, who passed a more
 
 ## The grandmother Chuck knew
 
-The 7th Street house is also the house **Chuck spent every weekday afternoon in through his childhood.** He went there after school and stayed until his father got off work and the two of them drove home; one or two nights a week the three of them &mdash; Peggy, Charlie, Chuck &mdash; would stay for dinner there too. The "Grandma Peggy" of the next generation's memory is the figure who set that table, week after week, year after year, across Chuck's elementary through high-school years.
+**The Seventh Street house is also the house Chuck spent every weekday afternoon in through his childhood.** He went there after school and stayed until his father got off work and the two of them drove home; one or two nights a week the three of them &mdash; Peggy, Charlie, Chuck &mdash; would stay for dinner there too. The "Grandma Peggy" of the next generation's memory is the figure who set that table, week after week, year after year, across Chuck's elementary through high-school years. By the 1980s Peggy had moved here from Highland Ridge, leaving the Highland Ridge house to Charlie and his family; the after-school routine ran between Charlie's office and Grandma Peggy's two-house Marietta circuit.
 
 She **played bridge** in her later years, regularly and seriously &mdash; the after-Will, into-her-90s decades, when the McMaster patience-and-strategy side of her was running on cards instead of capital but on the same operating system.
 

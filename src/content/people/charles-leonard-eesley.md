@@ -16,7 +16,25 @@ portrait: ../../assets/family/maggie-deck/charles-leonard-eesley.jpeg
 summary: "Son of Albert Robert Eesley Sr and Jeanie Goldie; husband of Lillie Dale Chenoweth (1877–1970); one of the six miller-brothers of his generation per William Eesley's c. 1916 obituary — the trade carried directly from his father's Stratford-on-Avon-to-Toronto milling years through John Franklin's Plainwell Sunshine Flour Mill and William's College Corner mill into his own working life. Father of ten children — Leonard David (1904), Thomas Leonard (1906), Dale Dudley (1906–1939), James Michael 'Mike' (1908), Donald Stuart (1908), Wilbur 'Will' (1910), Jean Goldie (1912, died age 12), Mary Elizabeth (Bean, 1913), Lyle (1916–1942, Cabanatuan), and Helen Louise (Burnes, 1924). Per the GEDCOM (FamilySearch MCZ8-WYX for Dale, LB4C-DH3 for Lyle), Dale's birth year is 1906 not 1916 and Lyle's is 1916 not 1914 — Bean's 1985 register has these two swapped. The household was in Bexley, Ohio. Brought Stella Sunn into the family during the war and kept her there for over a decade."
 ---
 
-Charles Leonard Eesley was born **September 26, 1879**, the ninth of ten children of [Albert Robert Eesley](/family/albert-robert-eesley/) and [Jeanie Goldie](/family/jeanie-goldie/). He married **[Lillie Dale Chenoweth](/family/lillie-dale-chenoweth/)** (b. August 9, 1877). Their family home was in **Bexley, Ohio** — the leafy independent municipality embedded in eastern Columbus — and the house often took in boarders.
+Charles Leonard Eesley was born **September 26, 1879**, the ninth of ten children of [Albert Robert Eesley](/family/albert-robert-eesley/) and [Jeanie Goldie](/family/jeanie-goldie/). He married **[Lillie Dale Chenoweth](/family/lillie-dale-chenoweth/)** (b. August 9, 1877). Their family home was in **Bexley, Ohio** — the leafy independent municipality embedded in eastern Columbus, at **230 North Cassidy Road** per [Charlie's 1965 autobiography](/docs/charles-eesley-12th-grade-autobiography-1965/) — and the house often took in boarders.
+
+## Charlie's grandson-view of his early life
+
+[Charlie Eesley's 12th-grade autobiography (c. 1964&ndash;1965)](/docs/charles-eesley-12th-grade-autobiography-1965/) carries the family memory of Charles Leonard's pre-Ohio life as the grandchildren had heard it:
+
+> *"My grandfather, Charles Leonard Eesley, was one of ten children. He was born and reared in Canada where his father was a flour miller. Because his family moved often he only attended school through the fourth grade. When he was nine years old he worked as an elevator boy in a department store. Later, after holding a variety of odd jobs he worked for his older brother, Alfred, in a mill."*
+
+The new details surfaced: **only a fourth-grade education**, an **elevator-boy job at age nine** in a Canadian department store, and **working for his older brother [Alfred Robert "Alf" Eesley](/family/alfred-eesley/) in a mill** before going independent. The Alfred-mill connection is a small but important documentary anchor &mdash; Alf was one of the six miller-brothers of the William Eesley obituary, and Charles Leonard worked for him before becoming a journeyman miller in his own right.
+
+Charlie also notes that **Charles Leonard retired at age forty-four** &mdash; about 1923 &mdash; and the family moved to Bexley after that retirement. *"After Grandpa retired he and his family moved to 230 North Cassidy Road, Bexley, a suburb of Columbus, Ohio. Here their eighth child, Helen Louise, was born."* Charlie's count of eight children differs from the ten Mary Bean's 1985 register documents (Charlie may not have known about, or counted, brothers who died as infants or very young children).
+
+## Christmas at 230 North Cassidy Road
+
+The same autobiography surfaces what Christmas at the Bexley grandparents' house looked like through the grandchildren's eyes:
+
+> *"Christmas was always the best time. The whole Eesley family, now consisting of five children and fifteen grandchildren, would come. There was always a big Christmas tree with presents galore under it. I was still at the age when I believed in Santa Claus. On Christmas Eve, we grandchildren would hang our stockings over the woodburning fireplace and fix Santa's snack of coca-cola and cookies before we went to bed. To make things seem more realistic, I learned later, Grandpa would go outside and ring sleigh bells. Christmas day was always an exciting one. Grandpa, being a great story teller and jester, was always the life of the party. He was forever setting off firecrackers, throwing them into the fire, explaining that they were used to scare away the 'evil spirits.'"*
+
+**Charles Leonard ringing the sleigh bells outside on Christmas Eve to keep his grandchildren believing in Santa**, and **throwing firecrackers into the fire on Christmas Day to scare away the "evil spirits"** &mdash; the Bexley Christmas tradition the grandchildren grew up in. The dry-and-jesting humor Chuck would later eulogize in his own father is visible here as the same humor working the previous generation back through the grandfather.
 
 ## The miller
 

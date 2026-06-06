@@ -20,6 +20,12 @@ Donald Anderson McMaster was born in **1903** to [Robert Thompson McMaster](/fam
 
 Per the family memory recorded on Peggy's page, in **WWII Don ran the communications power grid for the northeastern United States** &mdash; the kind of civilian wartime role that doesn't appear in citation lists or unit histories but kept critical infrastructure running through the war years. The deck doesn't say where he was stationed for the work or what agency or utility he was attached to; the family record stops at the line "ran the northeastern U.S. communications power grid in WWII." It is the kind of fact worth flagging for follow-up.
 
+## The AT&T career — 38 years
+
+[Charlie Eesley's 12th-grade autobiography (c. 1964&ndash;1965)](/docs/charles-eesley-12th-grade-autobiography-1965/) adds detail Maggie's deck didn't carry: **Don was a bachelor**, was an **electrical engineer** by training, and **worked for the American Telephone and Telegraph Company (AT&T) for thirty-eight years.** Charlie wrote that Don *"retired last year and spent the winter in Florida and is currently spending this winter in southern California."* Don's WWII communications-grid role would have been part of that AT&T career; the thirty-eight-year tenure carries him from the late 1920s to about 1964, when Charlie wrote.
+
+Don sent his teenage nephew Charlie a subscription to the **Wall Street Journal** in late 1964 &mdash; one Christmas before Charlie's senior year. The Wall Street Journal subscription is one of the early seeds of Charlie's lifelong investing interest that Chuck later named in the [eulogy](/docs/eulogy-charles-mcmaster-eesley/).
+
 ## The dedicated photographer
 
 The deck flags him twice as a **"dedicated photographer"** &mdash; slides 12 and 13 of Maggie's *Four Generations* archive give him the title outright. The frames of him as student and as photographer appear back-to-back. The first photograph of him in the family archive is the one of him as a child on the porch with his mother Alice, c. 1910&ndash;12, when he was seven or eight.
