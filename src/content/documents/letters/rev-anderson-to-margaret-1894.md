@@ -3,9 +3,10 @@ title: "Letter from Rev. Abraham Anderson to his daughter Margaret Anderson, 21 
 teaser: "A Presbyterian minister writes his daughter on a rainy Monday in 1894 — the archive's earliest surviving family letter, ordering a new coat at Wanamaker's for her commencement."
 type: letter
 author: abraham-ramsey-anderson
-recipient: abraham-ramsey-anderson
+recipient: margaret-florence-anderson
 people:
   - abraham-ramsey-anderson
+  - margaret-florence-anderson
 locationFrom: "Pittsburg, Pennsylvania (presumed — Rev. Anderson's home parish)"
 postmarkDate: "1894-05-21"
 dateRange:
@@ -23,7 +24,7 @@ scans:
 
 On **Monday, 21 May 1894**, [Reverend Abraham Ramsey Anderson](/family/abraham-ramsey-anderson/) &mdash; the Presbyterian minister Chuck's great-great-grandfather, then sixty-two years old &mdash; sat down on a rainy day at home in Pennsylvania and wrote his daughter Margaret a letter. Margaret was away from home; the letter is full of "we miss you" news of the parish, the household, and the neighbors. The most likely reason for her absence: she was preparing for her own college commencement &mdash; her father mentions ordering himself a new coat and vest at **John Wanamaker's clothing establishment** to wear to it.
 
-Margaret was a sister of **[Alice Anderson](/family/alice-anderson-mcmaster/)** &mdash; Chuck's great-grandmother &mdash; and therefore Chuck's **great-great-aunt**. The first name "Margaret" passed down through Alice's branch of the family to Alice's granddaughter [Margaret 'Peggy' McMaster Eesley](/family/margaret-mcmaster-eesley/) (Chuck's grandmother) and onward to Peggy's daughter [Margaret 'Maggie' Eesley](/family/margaret-maggie-eesley/) (Chuck's aunt, the archivist whose deck catalogued this very letter).
+Margaret was **[Margaret Florence Anderson](/family/margaret-florence-anderson/)** &mdash; the **older sister of [Alice](/family/alice-anderson-mcmaster/)** by two years, Chuck's great-grandmother, and therefore Chuck's **great-great-aunt**. The first name "Margaret" passed down through Alice's branch of the family to Alice's granddaughter [Margaret 'Peggy' McMaster Eesley](/family/margaret-mcmaster-eesley/) (Chuck's grandmother) and onward to Peggy's daughter [Margaret 'Maggie' Eesley](/family/margaret-maggie-eesley/) (Chuck's aunt, the archivist whose deck catalogued this very letter). She would have been **25 years and two months old** when her father wrote her this letter.
 
 The letter is the **second 19th-century letter primary source** in this archive after Charlie Eesley's [Vietnam letters](/docs/letters-from-vietnam/) of 1969&ndash;71. Both are fathers writing to family they couldn't see, separated by seventy-five years and a different war's worth of historical distance.
 
@@ -51,9 +52,9 @@ What the letter is *about*, in the genre's terms: weather, illness in the parish
 
 ## Note on the recipient
 
-The letter is addressed only to "Margaret." This is **Margaret Anderson**, one of Rev. Abraham and Nancy Jane Shaw Anderson's six children, and the older or younger sister of Chuck's great-grandmother [Alice](/family/alice-anderson-mcmaster/). Margaret Anderson is the namesake of the **Margaret** that runs as a given name through the family on Alice's side: Alice's granddaughter [Margaret 'Peggy' McMaster Eesley](/family/margaret-mcmaster-eesley/) (1914&ndash;2007), Peggy's daughter [Margaret 'Maggie' Eesley](/family/margaret-maggie-eesley/) (b. 1951, the archivist of this letter), and the long generational line of Margarets the Anderson women began.
+The letter is addressed only to "Margaret." This is **[Margaret Florence Anderson](/family/margaret-florence-anderson/)** (b. 23 March 1869, Washington County, Pennsylvania), the **fourth of six children** of Rev. Abraham and Nancy Jane Shaw Anderson, the **older sister** of Chuck's great-grandmother [Alice Gertrude](/family/alice-anderson-mcmaster/) by two years and three months. The GEDCOM gives her birth date and birthplace definitively (FamilySearch ID GMSS-RZW) but has no death date and no marriage record — meaning either she died unmarried or her later life isn't documented in Dale's tree. Both are common patterns for daughters of the era.
 
-Margaret Anderson does not yet have a person entry in this archive. Adding her, with whatever death dates and married name are findable in the GEDCOM, is a natural follow-up to placing this letter.
+Margaret Florence Anderson is the namesake of the **Margaret** that runs as a given name through the family on Alice's side: Alice's daughter [Margaret 'Peggy' McMaster Eesley](/family/margaret-mcmaster-eesley/) (1914&ndash;2007), Peggy's daughter [Margaret 'Maggie' Eesley](/family/margaret-maggie-eesley/) (Chuck's aunt, the archivist of this letter), and the long generational line of Margarets the Anderson women began.
 
 ## Provenance and catalogue note
 

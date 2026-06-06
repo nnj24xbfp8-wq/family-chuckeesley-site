@@ -1,9 +1,9 @@
 ---
-name: "Alice (Anderson) McMaster"
+name: "Alice Gertrude (Anderson) McMaster"
 aka: "Alice Anderson, maiden"
 line: paternal
 birth:
-  date: "1871"
+  date: "1871-07-09"
 death:
   date: "1961"
 generation: 4
@@ -13,10 +13,10 @@ parents:
 spouses:
   - robert-thompson-mcmaster
 portrait: ../../assets/family/maggie-deck/alice-anderson-mcmaster.jpeg
-summary: "Mother of Peggy McMaster Eesley (Chuck's grandmother); schoolteacher. Born 1871, died 1961, age 90. Daughter of Rev. Abraham Ramsey Anderson the Presbyterian minister and Nancy Jane Shaw Anderson. Married Robert Thompson McMaster. Widowed in 1919 when Peggy was only five; raised her children alone. Ran the Clifton School in Pennsylvania — a 1928 class photo with her students survives. Multiple photographs in the family archive span from a young-woman cabinet card in McDonald, Pennsylvania (late 1880s) to her schoolroom years."
+summary: "Mother of Peggy McMaster Eesley (Chuck's grandmother); schoolteacher. Born 9 July 1871 (full given name Alice Gertrude per the GEDCOM), died 1961, age 90. Fifth of the six children of Rev. Abraham Ramsey Anderson the Presbyterian minister and Nancy Jane Shaw Anderson; younger sister of Margaret Florence Anderson (the 1894 letter recipient) by two years. Married Robert Thompson McMaster. Widowed in 1919 when Peggy was only five; raised her children alone. Ran the Clifton School in Pennsylvania — a 1928 class photo with her students survives."
 ---
 
-Alice Anderson McMaster was born in **1871** in Pennsylvania to [Reverend Abraham Ramsey Anderson](/family/abraham-ramsey-anderson/) the Presbyterian minister and [Nancy Jane Shaw Anderson](/family/nancy-jane-shaw-anderson/). She married [Robert Thompson McMaster](/family/robert-thompson-mcmaster/) and was the mother of [Donald Anderson "Don" McMaster](/family/donald-anderson-mcmaster/) (1903&ndash;1967) and [Margaret Jane "Peggy" McMaster Eesley](/family/margaret-mcmaster-eesley/) (1914&ndash;2007) &mdash; Chuck's grandmother.
+Alice Gertrude Anderson was born **9 July 1871** in Pennsylvania to [Reverend Abraham Ramsey Anderson](/family/abraham-ramsey-anderson/) the Presbyterian minister and [Nancy Jane Shaw Anderson](/family/nancy-jane-shaw-anderson/), two years and three months after her older sister [Margaret Florence Anderson](/family/margaret-florence-anderson/) — the namesake whose given name would pass forward to Alice's own daughter Peggy. She married [Robert Thompson McMaster](/family/robert-thompson-mcmaster/) and was the mother of [Donald Anderson "Don" McMaster](/family/donald-anderson-mcmaster/) (1903&ndash;1967) and [Margaret Jane "Peggy" McMaster Eesley](/family/margaret-mcmaster-eesley/) (1914&ndash;2007) &mdash; Chuck's grandmother.
 
 Robert died in **1919**, age 53; Peggy was only five years old. Alice was **forty-eight**, with twenty-six more years of teaching school still to come and two children to finish raising on her own.
 
