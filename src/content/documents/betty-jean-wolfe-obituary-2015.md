@@ -9,7 +9,7 @@ idNumber: "BETTY-WOLFE-OBIT-2015"
 provenance: "Marietta Times, 16 September 2015. Transmitted by Chuck Eesley 2026."
 rights: "Public obituary text."
 people:
-  - betty-davis-wolfe
+  - betty-davis
   - norman-graham-wolfe
   - mary-louise-davis-murdock
   - dorothy-davis-wildermuth
@@ -18,7 +18,7 @@ people:
   - bessie-hill-davis
 ---
 
-The published **obituary of Betty Jean (Davis) Wolfe** &mdash; Chuck Eesley's great-aunt, Dorothy Davis Wildermuth's younger sister, and the long-time co-host of [108 Hillcrest Drive](/family/betty-davis-wolfe/). **Published in the Marietta Times, 16 September 2015**, two months after Betty's death **18 July 2015** at age 89, six months and nine days after her husband [Norman "Norm" Graham Wolfe](/family/norman-graham-wolfe/) on 9 January 2015. The obituary opens with one of the warmest first lines in the family archive:
+The published **obituary of Betty Jean (Davis) Wolfe** &mdash; Chuck Eesley's great-aunt, Dorothy Davis Wildermuth's younger sister, and the long-time co-host of [108 Hillcrest Drive](/family/betty-davis/). **Published in the Marietta Times, 16 September 2015**, two months after Betty's death **18 July 2015** at age 89, six months and nine days after her husband [Norman "Norm" Graham Wolfe](/family/norman-graham-wolfe/) on 9 January 2015. The obituary opens with one of the warmest first lines in the family archive:
 
 > *"Betty Wolfe joined her husband, Norman, in heaven."*
 

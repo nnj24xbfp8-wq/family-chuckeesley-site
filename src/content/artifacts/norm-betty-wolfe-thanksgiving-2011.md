@@ -11,7 +11,7 @@ provenance: "Eesley/Wolfe family archive — transmitted by Chuck Eesley 2026."
 rights: "Family use; permission required for republication."
 people:
   - norman-graham-wolfe
-  - betty-davis-wolfe
+  - betty-davis
 ---
 
 **Aunt Betty and Uncle Norm Wolfe on Thanksgiving Day 2011** at **108 Hillcrest Drive in Marietta** &mdash; the holiday-host house that Chuck remembers as one of the two anchors of his childhood holiday-meal life (alongside Grandma Peggy's Seventh Street house).

@@ -10,10 +10,10 @@ provenance: "Marietta Times, 21 February 2015. Transmitted by Chuck Eesley 2026.
 rights: "Public obituary text."
 people:
   - norman-graham-wolfe
-  - betty-davis-wolfe
+  - betty-davis
 ---
 
-The published **obituary of Norman "Norm" Graham Wolfe**, Chuck Eesley's great-uncle by marriage and the long-time co-host of the [108 Hillcrest Drive](/family/betty-davis-wolfe/) holiday-meal pattern of Chuck's childhood. **Published in the Marietta Times, 21 February 2015**, following Norm's death **9 January 2015 in Largo, Florida**, age 88.
+The published **obituary of Norman "Norm" Graham Wolfe**, Chuck Eesley's great-uncle by marriage and the long-time co-host of the [108 Hillcrest Drive](/family/betty-davis/) holiday-meal pattern of Chuck's childhood. **Published in the Marietta Times, 21 February 2015**, following Norm's death **9 January 2015 in Largo, Florida**, age 88.
 
 The obituary closes &mdash; with the family's own framing &mdash; an arc this archive had been able to assemble only in pieces.
 

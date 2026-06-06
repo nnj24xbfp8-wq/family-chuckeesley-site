@@ -13,7 +13,7 @@ parents:
   - homer-o-wolfe
   - margaret-graham-wolfe
 spouses:
-  - betty-davis-wolfe
+  - betty-davis
 children:
   - victoria-ann-wolfe-schwartz
   - norma-jean-wolfe-grundset
@@ -22,7 +22,7 @@ status: full
 summary: "Husband of Betty Jean (Davis) Wolfe — Dorothy Davis Wildermuth's younger sister. Born 15 July 1926 in Marietta, Ohio, son of Homer O. Wolfe and Margaret Graham Wolfe (the source of his middle name). High-school quarterback and football team captain at Marietta High School; met Betty in study hall (she was the head majorette). Married Betty in 1945 prior to shipping out with the Army to Germany during World War II. Attended Marietta College after the war. Deacon for many years at the Sixth Street Church of Christ — the same Sixth Street neighborhood church that gave the Eesley family their 651 address. Father of three daughters: Victoria Ann Schwartz (Geoffrey), Norma Jean Grundset (Kenneth), and Peggy Sue Wolfe. Lived in Marietta all but the last two years of his life — he and Betty moved to Largo, Florida c. 2013 to be near their daughters Norma and Peggy. Died 9 January 2015, age 88. Buried at East Lawn Memorial Cemetery, Reno, Washington County, Ohio — the same Marietta-area cemetery where Earl Adam Wildermuth is buried. Chuck's great-uncle by marriage — 'Uncle Norm' to a generation of family memory."
 ---
 
-**Norman Graham Wolfe** was Chuck's **great-uncle by marriage** on the maternal Wildermuth-Davis side &mdash; the husband of **[Betty Jean Davis Wolfe](/family/betty-davis-wolfe/)**, who was [Dorothy Marie Davis Wildermuth](/family/dorothy-davis-wildermuth/)'s younger sister.
+**Norman Graham Wolfe** was Chuck's **great-uncle by marriage** on the maternal Wildermuth-Davis side &mdash; the husband of **[Betty Jean Davis Wolfe](/family/betty-davis/)**, who was [Dorothy Marie Davis Wildermuth](/family/dorothy-davis-wildermuth/)'s younger sister.
 
 ## The biographical record
 

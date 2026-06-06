@@ -11,7 +11,7 @@ provenance: "Davis-Wildermuth family archive."
 rights: "Family use; permission required for republication."
 people:
   - dorothy-davis-wildermuth
-  - betty-davis-wolfe
+  - betty-davis
 ---
 
 **The childhood Davis sisters with friends**, c. 1933–1936, outdoors in spring. The original print carries a **typed/printed caption identifying every figure by name**, including **three Davis sisters: Dorothy Marie Davis (Chuck's grandmother), Betty Jean Davis (Aunt Betty Wolfe), and Mary Louise Davis** — together as children, more than a decade before Dorothy married Robert Earl Wildermuth and Betty married Norm Wolfe.
@@ -29,7 +29,7 @@ Three rows of children, posed informally on grass at what looks like a school or
 The three Davis sisters' positions in the photograph:
 
 - **[Dorothy Marie Davis](/family/dorothy-davis-wildermuth/)** (b. 24 February 1925) — front row, far right. She would be about **10 in 1935**.
-- **[Betty Jean Davis](/family/betty-davis-wolfe/)** (b. 16 March 1926) — middle row, third from left. About **9 in 1935**.
+- **[Betty Jean Davis](/family/betty-davis/)** (b. 16 March 1926) — middle row, third from left. About **9 in 1935**.
 - **Mary Louise Davis** (b. 17 January 1924) — back row, near center. About **11 in 1935**.
 
 ## Why this matters

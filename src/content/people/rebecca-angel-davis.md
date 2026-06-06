@@ -12,7 +12,7 @@ status: sketch
 summary: "Daughter of Faye Angel (Chuck Eesley's godmother) and Theodore 'Ted' Angel. Married William Harvey Davis Sr. (Chuck's great-uncle, Dorothy Davis Wildermuth's youngest brother) on 16 August 1963 in Washington Township, Monroe County, Ohio. Mother with Bill Sr. of at least one son and one daughter — including William Harvey Davis Jr. and Homer Edward Davis. The marriage joining her — Faye Angel's daughter — to Bill Sr. — Chuck's great-uncle — is the structural bridge connecting the Angel and Davis-Wildermuth families. Lived in Fishers, Indiana (Indianapolis area) at the time of her mother Faye's 2011 death."
 ---
 
-**Rebecca "Becky" Lynne Angel Davis** is **the daughter of [Faye Angel](/family/faye-angel/) (Chuck's godmother) and [Theodore "Ted" Angel](/family/ted-angel/)** &mdash; and the wife of **[William Harvey Davis Sr.](/family/william-harvey-davis-sr/)**, the youngest brother of Chuck's grandmother [Dorothy Davis Wildermuth](/family/dorothy-davis-wildermuth/) and great-aunt [Betty Davis Wolfe](/family/betty-davis-wolfe/).
+**Rebecca "Becky" Lynne Angel Davis** is **the daughter of [Faye Angel](/family/faye-angel/) (Chuck's godmother) and [Theodore "Ted" Angel](/family/ted-angel/)** &mdash; and the wife of **[William Harvey Davis Sr.](/family/william-harvey-davis-sr/)**, the youngest brother of Chuck's grandmother [Dorothy Davis Wildermuth](/family/dorothy-davis-wildermuth/) and great-aunt [Betty Davis Wolfe](/family/betty-davis/).
 
 ## The marriage that joined the two families &mdash; 16 August 1963
 

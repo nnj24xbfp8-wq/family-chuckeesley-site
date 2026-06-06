@@ -12,7 +12,7 @@ rights: "Family use; permission required for republication."
 people:
   - faye-angel
   - ted-angel
-  - betty-davis-wolfe
+  - betty-davis
 ---
 
 **Davis-Angel family group portrait, c. 1992**, with **full cast labels at top and bottom** identifying nine figures. **The critical revelation:** **Faye and Ted Angel's daughter Becky married into the Davis family** &mdash; specifically [William Harvey Davis **Sr.**](/family/william-harvey-davis-sr/) (Betty and Dorothy Davis's youngest brother, b. 1941) on **16 August 1963 in Washington Township, Monroe County, Ohio**. The two families are **genealogically connected** through that marriage; the back row of this portrait is essentially Becky's children-and-husband, the front row her parents-sister-in-law-and-self. The photograph documents the bridge.
@@ -30,7 +30,7 @@ people:
 - **[Faye Angel](/family/faye-angel/)** &mdash; Chuck's godmother. **Becky's mother**; her marriage to [Ted Angel](/family/ted-angel/) in 1939 begins this Angel line.
 - **Ida Rowena (Roberts) Davis** &mdash; presumed daughter-in-law of Bill Sr. and Becky &mdash; likely the wife of one of their sons (Bill Jr. or Homer Jr.). Her exact role open research.
 - **[Rebecca "Becky" Lynne (Angel) Davis](/family/rebecca-angel-davis/)** &mdash; Faye and Ted Angel's daughter. **Married William Harvey Davis Sr. on 16 August 1963** &mdash; this is the marriage that connects the Angel and Davis families genealogically.
-- **[Betty Jean (Davis) Wolfe](/family/betty-davis-wolfe/)** &mdash; Chuck's great-aunt, Bill Sr.'s older sister (and Dorothy Davis Wildermuth's younger sister).
+- **[Betty Jean (Davis) Wolfe](/family/betty-davis/)** &mdash; Chuck's great-aunt, Bill Sr.'s older sister (and Dorothy Davis Wildermuth's younger sister).
 
 **Back row, left to right:**
 - **[Theodore "Ted" Angel](/family/ted-angel/)** &mdash; Faye's husband, Becky's father; the picture-framing-business half of the Angel household. *Likely one of his last photographs* &mdash; he died c. 1991–1992 per his wife Faye's 2011 obituary's "53-year marriage" reference.
@@ -50,6 +50,6 @@ The chain:
 
 ## Why the Angel-and-Davis household network mattered to Chuck's childhood
 
-Chuck's two **sick-day caregiver households** in childhood &mdash; Faye Angel's house with the picture-framing basement, and Aunt Betty Wolfe's house at [108 Hillcrest Drive](/family/betty-davis-wolfe/) &mdash; are now visible as **two ends of the same extended family network**, joined through the Becky-and-William-Jr. marriage. Aunt Betty was Chuck's great-aunt by blood; Faye was Chuck's family by Becky's marriage into the same Davis line. The picture-framing business and the holiday dinners ran in the same family-network orbit.
+Chuck's two **sick-day caregiver households** in childhood &mdash; Faye Angel's house with the picture-framing basement, and Aunt Betty Wolfe's house at [108 Hillcrest Drive](/family/betty-davis/) &mdash; are now visible as **two ends of the same extended family network**, joined through the Becky-and-William-Jr. marriage. Aunt Betty was Chuck's great-aunt by blood; Faye was Chuck's family by Becky's marriage into the same Davis line. The picture-framing business and the holiday dinners ran in the same family-network orbit.
 
 > *Source: Davis-Angel family archive, transmitted by Chuck Eesley 2026. Typed caption identifies all nine figures by full name with marriage-name brackets &mdash; the family's deliberate genealogical documentation of the Davis-Angel marriage that connects the two households.*

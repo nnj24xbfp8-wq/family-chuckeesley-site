@@ -15,7 +15,7 @@ summary: "Husband of Fay Elsie Heter Angel (53-year marriage) — Chuck Eesley's
 
 A small-town family business at this scale &mdash; not a chain, not a factory, but the kind of skilled-trades home-business that operated out of a basement and a workshop &mdash; was a staple of Marietta-area economic life from the 1960s through the 2000s. The Angels' frame business sat in that pattern. **Ted was the maker side**, Faye was the host-and-keeper side; the basement of the house was the workshop.
 
-The Angel home was one of the two **sick-day caregiver households** for young Chuck Eesley &mdash; alongside the Wolfes at [108 Hillcrest Drive](/family/betty-davis-wolfe/). When Chuck couldn't go to school, he was often at Ted and Faye's house, and the picture-framing operation went on around him.
+The Angel home was one of the two **sick-day caregiver households** for young Chuck Eesley &mdash; alongside the Wolfes at [108 Hillcrest Drive](/family/betty-davis/). When Chuck couldn't go to school, he was often at Ted and Faye's house, and the picture-framing operation went on around him.
 
 ## The Davis-family connection
 

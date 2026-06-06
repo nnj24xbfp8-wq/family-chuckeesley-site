@@ -22,7 +22,7 @@ summary: "Youngest of the four children of Homer Edward Davis and Bessie Marie '
 
 - Mary Louise Davis Murdock (b. 17 January 1924) &mdash; married name **Murdock** per Betty's 2015 obituary.
 - [Dorothy Marie Davis Wildermuth](/family/dorothy-davis-wildermuth/) (b. 24 February 1925) &mdash; **Chuck's grandmother**
-- [Betty Jean Davis Wolfe](/family/betty-davis-wolfe/) (b. 16 March 1926) &mdash; **Chuck's great-aunt**
+- [Betty Jean Davis Wolfe](/family/betty-davis/) (b. 16 March 1926) &mdash; **Chuck's great-aunt**
 - **William Harvey Davis Sr.** (b. 20 August 1941)
 
 **He lost his mother at age nine.** Marie was diagnosed with lung cancer at 40 and died at 44 in 1950; Bill Sr. was the youngest, **nine years old**, when she died. His sister Betty (age 24) had been her primary caregiver. The motherless childhood years from 1950 onward shaped him through his teens.

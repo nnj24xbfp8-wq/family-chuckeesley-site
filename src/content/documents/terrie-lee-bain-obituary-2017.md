@@ -18,7 +18,7 @@ people:
   - debra-wildermuth-massaro
   - robert-wildermuth-jr
   - norman-graham-wolfe
-  - betty-davis-wolfe
+  - betty-davis
 ---
 
 The published **obituary of Terrie Lee (Wildermuth) Bain** &mdash; **Chuck Eesley's mother** &mdash; following her death **Tuesday, 16 May 2017, at her residence in Marietta**, age 68. This obituary closes the arc opened a year before by [Charlie Eesley's eulogy and 26 November 2015 death](/family/charles-eesley/), and the half-decade before that by [her father Robert Earl Wildermuth's death](/family/robert-earl-wildermuth/), reframing the story this archive has been telling around her: **the lifelong elementary-school teacher** of Marietta whose chosen work was children's literacy, the **traveling Air Force daughter** who landed in Marietta as her permanent home, and the **devoted aunt-and-niece** whose obituary explicitly names her closeness to Betty and Norm Wolfe.
@@ -38,7 +38,7 @@ The published **obituary of Terrie Lee (Wildermuth) Bain** &mdash; **Chuck Eesle
 - **Title I teacher at Harmar Elementary** &mdash; teaching at the same Harmar neighborhood where her father Robert Earl had grown up at [413 Harmar Street](/places/413-harmar-street-marietta/).
 - **Safety Town instructor** in summers for many years.
 
-**The Wolfe closeness named outright:** *"She loved entertaining visiting family and was a close relative to Betty and Norm Wolfe."* &mdash; the obituary itself **names her closeness to Betty and Norm Wolfe**, the 108 Hillcrest Drive holiday hosts of Chuck's childhood (the [Davis-line aunt and uncle](/family/betty-davis-wolfe/)). This is the family's own confirmation, in print, of the warmth this archive has tried to render.
+**The Wolfe closeness named outright:** *"She loved entertaining visiting family and was a close relative to Betty and Norm Wolfe."* &mdash; the obituary itself **names her closeness to Betty and Norm Wolfe**, the 108 Hillcrest Drive holiday hosts of Chuck's childhood (the [Davis-line aunt and uncle](/family/betty-davis/)). This is the family's own confirmation, in print, of the warmth this archive has tried to render.
 
 **Husband (Benjamin F. Bain II) — fifteen-year marriage:** *"In addition to her parents, she was preceded in death by her husband of 15 years, Benjamin F. Bain II (12/21/2014)."* Terrie's husband **Benjamin F. Bain II** died **21 December 2014** &mdash; just over **two years before** Terrie's own 2017 death, and **eleven months before** her brother Charlie Eesley's 26 November 2015 death. The fifteen-year marriage places its start c. 1999. The Bain name is Terrie's second-married name; her first marriage to Charlie Eesley produced their son Chuck and ended before this second marriage.
 
