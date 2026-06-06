@@ -13,10 +13,10 @@ parents:
   - william-wildermuth
   - flora-schlicher-wildermuth
 status: sketch
-summary: "Eldest of William Clifford Wildermuth and Flora Schlicher's three known children — born 4 February 1889 in Marietta, Ohio; died 10 October 1945 in Kansas at age 56, buried at Hoisington Cemetery, Hoisington, Barton County, Kansas. The one of the three children who left Ohio for the West, ending his life in central Kansas during the closing weeks of WWII. Visible at about age seven in the c. 1896 family group portrait. Chuck's first cousin twice removed on the maternal Wildermuth side."
+summary: "Eldest son of William Clifford Wildermuth and Flora Schlicher (and second-eldest of their nine children, after Mae Clara) — born 4 February 1889 in Marietta, Ohio; died 10 October 1945 in Kansas at age 56, buried at Hoisington Cemetery, Hoisington, Barton County, Kansas. The one of the nine siblings who left Ohio for the West, ending his life in central Kansas during the closing weeks of WWII. Visible at about age seven in the c. 1896 family group portrait. Robert Earl Wildermuth's UNCLE on the paternal Wildermuth side (older brother of Earl Adam); Chuck's great-great-uncle."
 ---
 
-Born **4 February 1889 in Marietta, Ohio**, the **eldest** of [William Clifford Wildermuth](/family/william-wildermuth/) and [Flora Schlicher](/family/flora-schlicher-wildermuth/)'s three known children. Visible in the **[c. 1896 family group portrait](/archive/william-wildermuth-family-group-portrait/)** at about age seven — most likely the small boy in dark clothes in the front row.
+Born **4 February 1889 in Marietta, Ohio**, the **eldest son** of [William Clifford Wildermuth](/family/william-wildermuth/) and [Flora Schlicher](/family/flora-schlicher-wildermuth/) — and **second-eldest of their nine children** (after Mae Clara, b. 1886). Visible in the **[c. 1896 family group portrait](/archive/william-wildermuth-family-group-portrait/)** at about age seven — most likely the small boy in dark clothes in the front row. **Older brother of [Earl Adam](/family/earl-a-wildermuth/)** (b. 1899) — making Charles Daniel **Robert Earl Wildermuth's paternal uncle**.
 
 ## The Kansas move
 

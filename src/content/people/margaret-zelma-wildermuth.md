@@ -13,7 +13,7 @@ parents:
   - william-wildermuth
   - flora-schlicher-wildermuth
 status: sketch
-summary: "Middle of William Clifford Wildermuth and Flora Schlicher's three known children — born 6 November 1891 in Marietta, Ohio; died 25 October 1943 in Los Angeles at age 51, buried at Forest Lawn Memorial Park, Long Beach, California. Of the three children, the one who reached California. Visible at about age five in the c. 1896 family group portrait. Chuck's first cousin twice removed on the maternal Wildermuth side. Died six weeks after her father William Clifford."
+summary: "Third of William Clifford Wildermuth and Flora Schlicher's nine children — born 6 November 1891 in Marietta, Ohio; died 25 October 1943 in Los Angeles at age 51, buried at Forest Lawn Memorial Park, Long Beach, California. The one of the nine siblings who reached California. Visible at about age five in the c. 1896 family group portrait. Robert Earl Wildermuth's AUNT on the paternal Wildermuth side (older sister of Earl Adam); Chuck's great-great-aunt. Died six weeks after her father William Clifford."
 ---
 
 Born **6 November 1891 in Marietta, Ohio**, the **middle child** of [William Clifford Wildermuth](/family/william-wildermuth/) and [Flora Schlicher](/family/flora-schlicher-wildermuth/), between her elder brother [Charles Daniel](/family/charles-daniel-wildermuth/) and her younger sister [Emma](/family/emma-wildermuth/). Visible in the **[c. 1896 family group portrait](/archive/william-wildermuth-family-group-portrait/)** at about age five — almost certainly the small girl seated front-row, in white, beside the smaller children.

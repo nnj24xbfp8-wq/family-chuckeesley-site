@@ -13,17 +13,17 @@ parents:
   - catharina-boeshar-wildermuth
 spouses:
   - maria-margaretha-schmigdall-wildermuth
-summary: "Eldest of Johann Michael Wildermuth (1830 Großaspach → 1903 Marietta) and Catharina Boeshar's three documented sons. Born September 1865 in Ohio. Father of Earl Adam Wildermuth (Robert Earl's father, Chuck's great-grandfather). Robert Earl's paternal grandfather — the 'John Wildermuth' of the 1990 Heritage. Married Maria Margaretha Schmigdall. Death date not yet documented in this archive."
+summary: "Eldest of Johann Michael Wildermuth (1830 Großaspach → 1903 Marietta) and Catharina Boeshar's three documented sons. Born September 1865 in Ohio. Brother of William Clifford Wildermuth (Robert Earl's actual paternal grandfather). Married Maria Margaretha Schmigdall. The 'grandfather John' Robert Earl named in his 1990 Heritage is most plausibly a memoir-recall confusion between John Charles (his great-uncle, William Clifford's older brother) and William Clifford (his actual grandfather). Death date not yet documented in this archive. Chuck's great-great-uncle on the maternal Wildermuth side."
 ---
 
-He is the **link generation** between the immigrant [Johann Michael Wildermuth](/family/johann-michael-wildermuth/) and Chuck's great-grandfather [Earl Adam](/family/earl-a-wildermuth/). John Charles was the **eldest** of Johann Michael and [Catharina Boeshar](/family/catharina-boeshar-wildermuth/)'s three documented sons (the others being his younger brothers [William Clifford](/family/william-wildermuth/) and [Edward Frederick](/family/edward-frederick-wildermuth/)). He was **born September 1865 in Ohio**, growing up in the Marietta German-immigrant community his parents had married into.
+He was the **eldest** of Johann Michael Wildermuth and [Catharina Boeshar](/family/catharina-boeshar-wildermuth/)'s three documented sons — the others being his younger brothers **[William Clifford](/family/william-wildermuth/)** (b. 17 September 1866, Robert Earl Wildermuth's paternal grandfather) and **[Edward Frederick](/family/edward-frederick-wildermuth/)** (b. 17 February 1873, who lived to 1964 in Marietta). He was **born September 1865 in Ohio**.
 
-He is the **John Wildermuth** Robert Earl named as his own grandfather in the [1989 memoir](/docs/robert-earl-wildermuth-memoir/) and the [1990 Wildermuth/Fleming Heritage](/docs/wildermuth-fleming-heritage-1990/) — the immediate ancestor from whom Robert Earl traced the German origin. Robert Earl's father Earl Adam wrote on 17 January 1972 to give Robert Earl the *"excellent rundown on his side of the family"* — and the lineage Earl Adam transmitted came through John Charles to Earl Adam to Robert Earl.
+## The "grandfather John" question
 
-## Position in Robert Earl's research
+Robert Earl Wildermuth's [1989 memoir](/docs/robert-earl-wildermuth-memoir/) and [1990 Wildermuth/Fleming Heritage](/docs/wildermuth-fleming-heritage-1990/) refer to his grandfather as **"John Wildermuth."** Dale Eesley's GEDCOM, settled June 2026, makes it clear that **Robert Earl's actual paternal grandfather was William Clifford Wildermuth**, not John. The "John" in Robert Earl's memory is most plausibly **John Charles** — William Clifford's older brother and Robert Earl's great-uncle. The recall confusion may have come from oral-history transmission (Robert Earl's father Earl Adam wrote the 17 January 1972 letter naming the family elders) where "Uncle John" and "Grandfather William" were close in family memory and could be confused at one or two removes.
 
-Robert Earl's 1990 Heritage traces the German origin through his **grandfather John** specifically, treating John as the documentary anchor for the Wildermuth line back to Johann Michael. John Charles is therefore the **single most important link generation** on the Wildermuth side — without his identification, Robert Earl could not have connected his Marietta-Ohio Wildermuth family back to the Württemberg village of Großaspach.
+John Charles is therefore **Robert Earl's great-uncle** and **Chuck's great-great-uncle**, not the grandfather the memoir naming suggested.
 
-He is **Chuck's great-great-grandfather** on the maternal Wildermuth side.
+He is **Chuck's great-great-uncle** on the maternal Wildermuth side.
 
 > *Sources: [Dale Eesley / FamilySearch — John Charles Wildermuth (GSJC-729)](https://www.familysearch.org/tree/person/details/GSJC-729); [Robert Earl Wildermuth's 1989 memoir](/docs/robert-earl-wildermuth-memoir/) and [1990 Wildermuth/Fleming Heritage](/docs/wildermuth-fleming-heritage-1990/) — the "grandfather John" reference.*

@@ -6,10 +6,10 @@ generation: 3
 spouses:
   - john-charles-wildermuth
 status: sketch
-summary: "Wife of John Charles Wildermuth (b. September 1865 Ohio); mother of Earl Adam Wildermuth (Chuck's great-grandfather) and Robert Earl Wildermuth's paternal grandmother. Per Dale Eesley's FamilySearch tree (FS ID GMLV-6T4) her name was Maria Margaretha Schmigdall. Birth and death dates not yet documented in this archive. Chuck's great-great-grandmother on the maternal Wildermuth side."
+summary: "Wife of John Charles Wildermuth (b. September 1865 Ohio); per Dale Eesley's FamilySearch tree (FS ID GMLV-6T4). John Charles was a brother of William Clifford Wildermuth (Robert Earl's actual paternal grandfather), making Maria Margaretha Robert Earl's great-aunt by marriage. Birth and death dates not yet documented in this archive. Chuck's great-great-aunt by marriage on the maternal Wildermuth side."
 ---
 
-**The wife of [John Charles Wildermuth](/family/john-charles-wildermuth/)** — Robert Earl Wildermuth's paternal grandmother and Chuck's **great-great-grandmother** on the maternal Wildermuth side. Per Dale Eesley's FamilySearch tree (ID **GMLV-6T4**) she was born **Maria Margaretha Schmigdall** — a German-surname Marietta-area woman of the same German-immigrant community John Charles came from. Her birth date, death date, and the specific origin of the Schmigdall family are not yet documented in this archive.
+**The wife of [John Charles Wildermuth](/family/john-charles-wildermuth/)** — Robert Earl Wildermuth's **great-aunt by marriage** (John Charles was a brother of William Clifford Wildermuth, Robert Earl's actual paternal grandfather), and Chuck's **great-great-aunt by marriage** on the maternal Wildermuth side. Per Dale Eesley's FamilySearch tree (ID **GMLV-6T4**) she was born **Maria Margaretha Schmigdall** — a German-surname Marietta-area woman of the same German-immigrant community John Charles came from. Her birth date, death date, and the specific origin of the Schmigdall family are not yet documented in this archive.
 
 Page is a stub pending census, marriage, and obituary research from 1880s–1930s Marietta records.
 

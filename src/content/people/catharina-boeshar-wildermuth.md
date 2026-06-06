@@ -42,8 +42,8 @@ The **"grandma Catherina Boeshar"** of that sentence is this great-grandmother �
 
 ## In the 1896 family group portrait
 
-She is the **most likely identification for the seated woman in the front row** of the **[c. 1896 William Clifford Wildermuth family group portrait](/archive/william-wildermuth-family-group-portrait/)** — age 56 at the time, the matriarch visiting her son William Clifford's growing family in Marietta. If that identification is right, the photograph is the **only known visual record of her** in this archive.
+She is the **figure in the back row of the [William Clifford Wildermuth family group portrait](/archive/william-wildermuth-family-group-portrait/) holding her three-year-old granddaughter [Emma Wildermuth](/family/emma-wildermuth/) high on her shoulder** — confirmed by Chuck Eesley 2026. The grandmother–granddaughter pose at the center of the family portrait is **the only known visual record of her** in this archive. She was 56 in 1896 — or 59–63 if the photograph dates to the revised c. 1899–1903 range that the Arminda Hayes identification would imply. The "grandma Catherina Boeshar" of Robert Earl's 1989 memoir is no longer just a name; her face is in the family record.
 
-She is **Chuck's great-great-great-grandmother** through Catharina → John Charles (or William Clifford) Wildermuth → Earl Adam Wildermuth → Robert Earl → Terrie → Chuck.
+She is **Chuck's great-great-great-grandmother** through Catharina → **William Clifford Wildermuth** (b. 1866 — Robert Earl's grandfather, confirmed June 2026 against Dale's tree) → Earl Adam Wildermuth → Robert Earl → Terrie → Chuck.
 
 > *Sources: [Dale Eesley / FamilySearch — Catharina Boeshar (KLPR-G45)](https://www.familysearch.org/tree/person/details/KLPR-G45); [Johann Michael Wildermuth's 1853 naturalization petition](/docs/johann-michael-wildermuth-naturalization-1853/); [Robert Earl Wildermuth's 1989 memoir](/docs/robert-earl-wildermuth-memoir/) — the "grandma Catherina Boeshar" line.*
