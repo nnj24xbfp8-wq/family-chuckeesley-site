@@ -4,6 +4,7 @@ type: "Photograph"
 image: ../../assets/family/originals/IMG_4056.jpeg
 medium: "Formal sepia-toned studio photograph"
 dateCreated: "circa 1899 (family caption: 'Believed to have been taken in 1899')"
+sortDate: "1899-01-01"
 placeCreated: "Toronto, Canada (presumed — the family's home by this date)"
 idNumber: "EESLEY-1899-FAMILY"
 provenance: "Eesley family archive."
@@ -11,7 +12,7 @@ rights: "Family use; permission required for republication."
 people:
   - albert-robert-eesley
   - jeanie-goldie
-  - john-r-eesley
+  - john-f-eesley
   - bessie-eesley
   - george-eesley-toronto
   - charles-leonard-eesley
@@ -29,27 +30,30 @@ Two captions on this photograph have reached this archive. The **first**, a hand
 
 > *The Eesleys Family &mdash; Standing left to right: Jennie, George, Charles, Bessie, John, Robert Albert ("Bert"). Seated left to right: Will, Jeanie Goldie Eesley (Mom), Garfield, Albert Robert Eesley (Dad), Alf (Albert Robert), Hanna ("Anna"). Photo taken circa 1900.*
 
-Two important corrections come out of that second caption that the first had not made explicit:
+The two family captions are now reconciled against **Dale Eesley's FamilySearch tree (the GEDCOM)** in this archive. Three of the questions the captions left open are now closed.
 
-1. **Alfred's full name is also Albert Robert**, with "Alf" as the family nickname. That makes **three Albert Roberts in the same family** &mdash; the father (Albert Robert Sr), the son who became R. Albert Jr. (Bert), and this third son Alf. The convention of two sons given the father's full name is unusual but documented here.
-2. **Anna's actual given name was Hanna** &mdash; "Anna" was the nickname / Americanised spelling.
+## What the GEDCOM resolved
 
-The handwritten family caption also adds the key cross-reference: **"Bert was Robert Albert, father of George Edburn 'Bus' Eesley & Grandfather of Dick & Dan."** It directly links Bert in this 1899 portrait to **[R. Albert Eesley Jr.](/family/albert-robert-eesley-jr/)** &mdash; the man whose son was George Edburn "Bus" Eesley (d. 1942), whose grandson was the San Francisco engineer [Daniel "Dan" Eesley](/family/daniel-edburn-eesley/) (1931&ndash;2018). The full San-Francisco-via-Buffalo-via-Fremont-via-Toronto path of that branch is anchored back to this 1899 frame.
+1. **"Alf (Albert Robert)" in the PowerPoint caption was a family-memory transcription error.** Alf's actual given name in the structured record (FamilySearch ID LZTC-RC2) is **[Alfred Robert Eesley](/family/alfred-eesley/)** (b. Jul 1867, d. 1954) &mdash; *Alfred* Robert, not *Albert* Robert. There were **two** Albert Roberts in this family, not three: the father (Albert Robert Sr) and **Bert** (whose given name was actually *Robert Albert*, the order reversed from his father's).
+2. **The "John" of the caption is John Franklin** &mdash; the Plainwell mill founder &mdash; not a separate "John R." The "J. R." in William Eesley's obituary three years later is a transcription error or family-memory variant for "J. F."; the GEDCOM shows only one John in Albert Robert Sr's children, with FamilySearch ID LQY3-K8S. The earlier separate "John R. Eesley" entry in this archive has been merged into [John Franklin's page](/family/john-f-eesley/).
+3. **"Bessie" and "Mrs. George Sinclair" are the same person.** The 1899 marriage record in the GEDCOM (family @F128@) shows Bessie Easley marrying **[George Alexander Sinclair](/family/george-alexander-sinclair/)** in Toronto, **1899** &mdash; the same year as this portrait. So the "Bessie" of the photo caption *became* "Mrs. George Sinclair" of the c. 1916 William obituary the same year the photograph was taken.
+
+The handwritten family caption also adds the key cross-reference: **"Bert was Robert Albert, father of George Edburn 'Bus' Eesley & Grandfather of Dick & Dan."** It directly links Bert in this 1899 portrait to **[Robert Albert "Bert" Eesley](/family/albert-robert-eesley-jr/)** &mdash; the man whose son was [George Edburn "Bus" Eesley](/family/george-e-eesley/) (1903&ndash;1942), whose grandson was the San Francisco engineer [Daniel "Dan" Eesley](/family/daniel-edburn-eesley/) (1931&ndash;2018). The full San-Francisco-via-Buffalo-via-Fremont-via-Toronto path of that branch is anchored back to this 1899 frame.
 
 ## The ten children in 1899
 
-The caption order (left to right in the photograph) and matching identifications:
+In chronological order by birth (per the GEDCOM):
 
-- **[John R. Eesley](/family/john-r-eesley/)** &mdash; "the oldest," born in Canada (Ayr or Hamilton, Ontario), miller. One of two siblings born in Canada before the family's Michigan years.
-- **[Bessie Eesley](/family/bessie-eesley/)** &mdash; one of the daughters. Possibly the same person as [Mrs. George Sinclair](/family/mrs-george-sinclair-eesley/) of Toronto in the William Eesley obituary; reconciliation queued.
-- **[Dr. George Eesley](/family/george-eesley-toronto/)** &mdash; the only one of the six brothers who did not become a miller. Practiced medicine in Toronto.
-- **[Charlie &mdash; Charles Leonard Eesley](/family/charles-leonard-eesley/)** &mdash; **Chuck's great-grandfather**, the line that runs forward through Will Eesley → Charles M. Eesley → Chuck.
-- **[Jennie Eesley](/family/jennie-baxter-eesley/)** &mdash; named for her Scottish-immigrant mother; later Mrs. Jennie Baxter of Toronto.
-- **[Bert &mdash; R. Albert Eesley Jr.](/family/albert-robert-eesley-jr/)** &mdash; father of George Edburn "Bus" Eesley, grandfather of Daniel Edburn Eesley. The "Bert" of the caption footnote.
-- **[Will &mdash; William Eesley of College Corner](/family/william-eesley-college-corner/)** &mdash; the College Corner, Ohio miller, owner of the Oxford mills.
-- **[Garfield Eesley](/family/garfield-eesley/)** &mdash; named for U.S. President James A. Garfield (assassinated 1881), so born after that date.
-- **[Alfred Eesley](/family/alfred-eesley/)** &mdash; appears in this caption but **not** in [William Eesley's c. 1916 obituary](/docs/william-eesley-obituary-college-corner/) by that name; structural reconciliation queued.
-- **[Anna Eesley](/family/anna-eesley-scoon/)** &mdash; one of the two siblings born in Canada (with John R.); later Mrs. J. B. Scoon of Toronto.
+- **[John Franklin Eesley](/family/john-f-eesley/)** (b. 11 Dec 1859 Hamilton ON, d. 9 Jul 1929 Kalamazoo MI) &mdash; "the oldest" of the family caption; the Plainwell mill founder. Aged about 39 in this portrait.
+- **[Hannah Goldie "Anna" (Eesley) Scoon](/family/anna-eesley-scoon/)** (b. 20 Dec 1863 Paris ON, d. 20 Jun 1932 Toronto) &mdash; "Anna" / "Hanna" of the caption; later Mrs. J. B. Scoon. Aged about 35.
+- **[William Eesley](/family/william-eesley-college-corner/)** (b. 30 Jul 1865 Michigan, d. 24 Apr 1932 College Corner OH) &mdash; "Will" of the caption; the College Corner, Ohio miller. Aged about 33.
+- **[Alfred Robert "Alf" Eesley](/family/alfred-eesley/)** (b. Jul 1867 Michigan, d. 1954) &mdash; "Alf" of the caption. Aged about 32.
+- **[Robert Albert "Bert" Eesley](/family/albert-robert-eesley-jr/)** (b. 4 May 1871 Michigan, d. 9 Mar 1948 Arlington VA) &mdash; "Bert" of the caption; father of George "Bus" and grandfather of Daniel Eesley of San Francisco. Aged 28.
+- **[Bessie (Easley) Sinclair](/family/bessie-eesley/)** (b. 16 Sep 1874 Bloomfield MI, d. 1959 Toronto) &mdash; "Bessie" of the caption. Married George Alexander Sinclair in Toronto in 1899, the same year as this photograph. Aged about 24.
+- **[Jennie (Eesley) Baxter](/family/jennie-baxter-eesley/)** (b. 14 Dec 1875 Clintonville MI, d. 10 Jan 1935 Toronto) &mdash; "Jennie" of the caption, named for her Scottish-immigrant mother. Aged about 23.
+- **[Dr. George Henry Eesley](/family/george-eesley-toronto/)** (b. 10 Sep 1876 Ovid MI, d. 1974 Toronto) &mdash; "George" of the caption; the only one of the brothers who did not become a miller. Practiced medicine in Toronto. Aged about 23.
+- **[Charles Leonard Eesley](/family/charles-leonard-eesley/)** (b. 26 Sep 1879 Gault ON, d. 9 Oct 1972 Columbus OH) &mdash; "Charlie" of the caption; **Chuck's great-grandfather**, the line that runs forward through Will Eesley → Charles M. Eesley → Chuck. Aged about 19.
+- **[James Garfield Eesley](/family/garfield-eesley/)** (b. 16 Sep 1881 Listowel ON, d. 29 Nov 1950 Washington DC) &mdash; "Garfield" of the caption, named for U.S. President James A. Garfield (assassinated 1881). Aged about 17.
 
 The two parents are seated at the center of the frame. Albert Robert Sr was sixty-one in 1899; Jennie Goldie was sixty-two.
 
@@ -58,31 +62,8 @@ The two parents are seated at the center of the frame. Albert Robert Sr was sixt
 This is **the single most consequential family photograph for the Albert Robert Sr branch of the Eesley line in this archive's possession.** It documents:
 
 1. **The full sibling roster** of Charles Leonard's generation in one frame, alongside their parents — and visible to the present, anchored to Chuck through his great-grandfather's identification as "Charlie" in the caption.
-2. **The Toronto convergence**: by 1899, all ten siblings (most of whom would scatter to Ohio, Michigan, New York, San Francisco, and Toronto across the 20th century) were together at one moment in one place. The family record of the four daughters' Toronto lives (Anna Scoon, Jennie Baxter, Mrs. George Sinclair, and possibly Bessie) and Dr. George the Toronto physician, plus the Toronto-resident parents, makes Toronto the family's center as the 19th century closed.
-3. **The 1916 William Eesley obituary's roster, three years before this photograph was rediscovered, is now visually corroborated.** All six miller-brothers (John R., William, Bert/R. Albert, Charles Leonard, Garfield, and either Alfred or "Robert") plus Dr. George plus the three or four Toronto daughters are accounted for.
-4. **The "Bert was Robert Albert" caption footnote** is the document that anchors the Daniel Eesley San Francisco branch back to this generation — Bert → George "Bus" → Dick & Dan, four generations of paternal lineage compressed into one parenthetical.
-
-## Reconciliation with the William Eesley obituary
-
-The [c. 1916 obituary's list](/docs/william-eesley-obituary-college-corner/) of the ten children gives six miller-sons (John R., William, Robert, A. R., C. L., Garfield) and four other siblings (Dr. George, Anna Scoon, Mrs. Jennie Baxter, Mrs. George Sinclair). **The 1899 caption gives ten children differently named** (Bessie, George, Charlie, Jennie, John, Bert, Will, Garfield, Alfred, Anna), with the caption identifying *Bert* as *R. Albert* explicitly.
-
-Reading the two together:
-
-- **Caption "Charlie" = obituary "C. L."** (Charles Leonard).
-- **Caption "Bert" = obituary "A. R."** (R. Albert / Albert Robert Jr.).
-- **Caption "Will" = obituary "William."**
-- **Caption "John" = obituary "John R."**
-- **Caption "Garfield" = obituary "Garfield."**
-- **Caption "George" = obituary "Dr. George."**
-- **Caption "Anna" = obituary "Anna (Mrs. J. B. Scoon)."**
-- **Caption "Jennie" = obituary "Mrs. Jennie Baxter."**
-
-That leaves **Caption "Bessie" and Caption "Alfred"** unexplained, against the obituary's **"Robert"** and **"Mrs. George Sinclair."** The most likely mapping:
-
-- **Caption "Bessie" = obituary "Mrs. George Sinclair"** (Bessie being her given name, the obituary's convention of married-name-only obscuring it).
-- **Caption "Alfred" = obituary "Robert"** OR Alfred was a son the obituary missed (e.g., he died young between 1899 and 1916), with the obituary's "Robert" being either a name-difference, a separate son, or an error.
-
-Both questions are queued.
+2. **The Toronto convergence**: by 1899, all ten siblings (most of whom would scatter to Ohio, Michigan, New York, Washington D.C., and Toronto across the 20th century) were together at one moment in one place. By the time of William's c. 1916 obituary, **four of the siblings — Anna, Jennie, Bessie, and Dr. George — were Toronto residents**, joined by their retired parents.
+3. **The "Bert was Robert Albert" caption footnote** is the document that anchors the Daniel Eesley San Francisco branch back to this generation — Bert → George "Bus" → Dick & Dan, four generations of paternal lineage compressed into one parenthetical.
 
 ## The two captions, side by side
 
@@ -100,7 +81,7 @@ Two caption documents accompany this photograph in the family archive:
    >
    > *(Bert was Robert Albert, father of George Edburn "Bus" Eesley & Grandfather of Dick & Dan)*
 
-   The layout of the names &mdash; six names on the top row and four below &mdash; mirrors the photograph's two-row composition. The top row of names corresponds to the standing figures; the bottom row to the seated children among the seated parents. The footnote anchors **Bert** to **R. Albert** and forward through George "Bus" Eesley to Daniel "Dan" Eesley of San Francisco &mdash; the most important cross-reference on the page, since it anchors the entire [Albert Robert Jr branch](/family/albert-robert-eesley-jr/) of the family.
+   The layout of the names &mdash; six names on the top row and four below &mdash; mirrors the photograph's two-row composition. The top row corresponds to the standing figures; the bottom row to the seated children among the seated parents.
 
 2. **The "Eesleys circa 1900" PowerPoint deck** (also family-archived) &mdash; gives the same identifications but distinguishes the standing row from the seated row precisely:
 
@@ -108,8 +89,6 @@ Two caption documents accompany this photograph in the family archive:
    >
    > *Seated left to right: Will, Jeanie Goldie Eesley (Mom), Garfield, Albert Robert Eesley (Dad), Alf (Albert Robert), Hanna ("Anna").*
 
-   And resolves two key naming questions noted in the entry above: **Alfred's full name is also Albert Robert** (he was called "Alf"; there are three Albert Roberts in the family); **Anna's actual given name was Hanna.**
+The two captions together &mdash; with the GEDCOM corrections noted above &mdash; constitute the definitive identification of every figure in the photograph.
 
-The two captions together &mdash; the typed family caption and the PowerPoint deck &mdash; constitute the definitive identification of every figure in the photograph.
-
-> *Family captions transmitted by Chuck Eesley, 2026. High-resolution scan: `IMG_4056.jpeg`. Caption card scan: `IMG_4057.jpeg`. Identifications reconciled against [William Eesley's c. 1916 obituary](/docs/william-eesley-obituary-college-corner/).*
+> *Family captions transmitted by Chuck Eesley, 2026. High-resolution scan: `IMG_4056.jpeg`. Caption card scan: `IMG_4057.jpeg`. Identifications reconciled against [Dale Eesley's FamilySearch tree](/docs/dale-eesley-familysearch-tree/) and [William Eesley's c. 1916 obituary](/docs/william-eesley-obituary-college-corner/).*

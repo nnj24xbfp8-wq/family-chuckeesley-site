@@ -1,15 +1,23 @@
 ---
-name: "Dr. George Eesley (of Toronto)"
-aka: "George Eesley, M.D. — the physician of Toronto"
+name: "Dr. George Henry Eesley (of Toronto)"
+aka: "George Henry Eesley, M.D. — the physician of Toronto. 'Dr. George' in William Eesley's c. 1916 obituary."
 line: paternal
+birth:
+  date: "1876-09-10"
+  place: "Ovid, Michigan"
+death:
+  date: "1974"
+  place: "Toronto, Ontario, Canada (buried Toronto)"
 generation: 4
 parents:
   - albert-robert-eesley
   - jeanie-goldie
-summary: "The single professional among Albert Robert Sr's ten children — the only one who broke out of the family's six-generation milling trade. A physician in late-Victorian and Edwardian Toronto, the largest of the four Toronto Eesleys' generation. Chuck's great-great-uncle on the paternal side."
+summary: "Seventh of Albert Robert Sr and Jennie Goldie's ten children — born 10 September 1876 in Ovid, Michigan, died 1974 in Toronto, where he was buried. The single professional among the ten siblings — the only one who broke out of the family's six-generation milling trade. A physician in late-Victorian and Edwardian Toronto who lived nearly a century, dying at 97 or 98. Chuck's great-great-uncle on the paternal side."
 ---
 
-The Eesleys had been **millers** for at least six documented generations by the time George was born — back through his father [Albert Robert Sr](/family/albert-robert-eesley/), who built mills across Michigan and operated one in Toronto until his death, and back through John Eesley the Hanwell journeyman miller, and back further to **Joseph Eesley** in 18th-century Oxfordshire whose own father had worked at the trade. George was the one who broke the chain.
+The Eesleys had been **millers** for at least six documented generations by the time George Henry was born — back through his father [Albert Robert Sr](/family/albert-robert-eesley/), who built mills across Michigan and operated one in Toronto until his death, and back through John Eesley the Hanwell journeyman miller, and back further to **Joseph Eesley** in 18th-century Oxfordshire whose own father had worked at the trade. George was the one who broke the chain.
+
+Born **10 September 1876 in Ovid, Michigan** during the family's Michigan years; he died in **1974** at age 97 or 98 — the longest-lived of the ten siblings by a wide margin. The MGM cameras had filmed Hiroshima three decades before he died; the Vietnam War had ended the year of his death. The medical profession he had entered in the 1890s had been transformed beyond recognition during his career.
 
 He took up **medicine**, finishing his studies during the years the medical profession in Toronto was consolidating into its modern professional form. The **Faculty of Medicine at the University of Toronto** had been established in 1843; by the late 1880s and 1890s, when George would have trained, it was an institution producing physicians in significant numbers each year. The **Toronto General Hospital** had been founded in 1819 and was through this period expanding into the major teaching hospital it would become in the 20th century. To be a Toronto-trained physician in the 1890s was to be entering one of the city's most respected professions, with a regulated college (the College of Physicians and Surgeons of Ontario, established 1869), a journal (the *Canadian Medical Association Journal*, founded 1911), and a recognised place in Toronto's professional class.
 
@@ -23,6 +31,6 @@ His patients would have included his own family. The Toronto Eesleys by the turn
 
 He appears in the **[1899 Eesley family group portrait](/archive/eesley-family-group-portrait-1899/)** standing in the back row between his brother Charles ("Charlie") and his sister Jennie — a man in his early thirties or so, in formal studio dress, almost certainly already a practicing physician by then.
 
-Dates, marriage (if any), and descendants are open in this archive — Toronto medical registries, the *Canadian Medical Directory* of the period, and the Ontario civil registrations of the 1890s and 1900s would settle them.
+Marriage (if any) and descendants are open in this archive — Toronto medical registries, the *Canadian Medical Directory* of the period, and the Ontario civil registrations of the 1890s and 1900s would settle them.
 
-> *Sources: [William Eesley obituary, c. 1916](/docs/william-eesley-obituary-college-corner/); the "Eesleys circa 1900" PowerPoint deck, transmitted by Chuck Eesley 2026.*
+> *Sources: [Dale Eesley / FamilySearch — George Henry Eesley (LB42-T16)](https://www.familysearch.org/tree/person/details/LB42-T16); [William Eesley obituary, c. 1916](/docs/william-eesley-obituary-college-corner/); the "Eesleys circa 1900" PowerPoint deck, transmitted by Chuck Eesley 2026.*

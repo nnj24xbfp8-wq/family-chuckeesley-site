@@ -2,14 +2,22 @@
 name: "Jennie (Eesley) Baxter"
 aka: "Jennie Eesley, maiden; Mrs. Jennie Baxter of Toronto"
 line: paternal
+birth:
+  date: "1875-12-14"
+  place: "Clintonville, Michigan, USA"
+death:
+  date: "1935-01-10"
+  place: "York, Ontario, Canada (Toronto)"
 generation: 4
 parents:
   - albert-robert-eesley
   - jeanie-goldie
-summary: "One of the four Eesley daughters who settled in Toronto with their parents in the late 19th century; almost certainly named for her Scottish-immigrant mother Jennie Goldie. Married a Baxter and lived in Toronto alongside her sisters Anna Scoon, Mrs. Sinclair, and her brother Dr. George the physician. Chuck's great-great-aunt on the paternal side."
+summary: "Sixth of Albert Robert Sr and Jennie Goldie's ten children — born 14 December 1875 in Clintonville, Michigan during the family's Michigan-mills years, named for her Scottish-immigrant mother Jennie Goldie. Married a Baxter and settled in Toronto alongside her sisters Anna Scoon, Bessie Sinclair, and her brother Dr. George Henry the physician. Died 10 January 1935 in Toronto, age 59. Chuck's great-great-aunt on the paternal side."
 ---
 
 She carried her **mother's name** — [Jennie Goldie](/family/jeanie-goldie/), the Scottish-immigrant matriarch who had been born in Ayrshire in 1836 and brought to Canada at age four — and the naming was the standard 19th-century convention of honoring the mother through a daughter. To be a Jennie in a late-Victorian Eesley household was to carry the daily reminder of where the maternal side had come from: Ayrshire, the Scottish southwest, the Goldie milling family who had emigrated together to Ontario in 1841 and had given her father a livelihood and her mother to him as a wife.
+
+She was born **14 December 1875 in Clintonville, Michigan** — the family was in the Michigan-mills phase by then, midway through Albert Robert Sr's twenty-year run of moving mill-to-mill across the state — and died **10 January 1935 in Toronto** at age 59.
 
 ## The Toronto life
 
@@ -17,8 +25,8 @@ She married **Baxter** — given name not yet documented — and settled in **To
 
 Toronto in the 1880s through 1910s was a city growing fast. The Yonge Street streetcar lines were laid in the 1890s. The University of Toronto and Massey Hall were both maturing into their modern roles in the city's civic life. The Anglican and Presbyterian church-going middle class — to which the Eesleys, with their Scottish-Presbyterian Goldie maternal line, certainly belonged — was the city's dominant social register. A Mrs. Jennie Baxter in 1900s Toronto would have run a household in a brick rowhouse or a modest detached home in one of the streetcar-belt neighborhoods (Riverdale, the Annex, Cabbagetown), would have done the marketing at the St. Lawrence Market or one of its smaller neighborhood-market companions, would have belonged to a parish church and its women's society, and would have raised whatever children she had in the same Scottish-Presbyterian Protestant culture her own mother had grown up in.
 
-Her husband Baxter's trade, the names of any children, and her dates are the queued research follow-ups against the Toronto city directories and the Ontario civil registration of marriages and births from the 1880s onward.
+Her husband Baxter's given name and the names of any children are queued research follow-ups against the Toronto city directories and the Ontario civil registration.
 
 She appears in the **[1899 family group portrait](/archive/eesley-family-group-portrait-1899/)** standing in the back row beside her brother George — the studio photograph taken in Toronto when the extended Eesley family was at the peak of its Ontario concentration.
 
-> *Sources: [William Eesley obituary, c. 1916](/docs/william-eesley-obituary-college-corner/); the typed family caption and "Eesleys circa 1900" PowerPoint deck, transmitted by Chuck Eesley 2026.*
+> *Sources: [Dale Eesley / FamilySearch — Jennie Eesley (LBZK-5JC)](https://www.familysearch.org/tree/person/details/LBZK-5JC); [William Eesley obituary, c. 1916](/docs/william-eesley-obituary-college-corner/); the typed family caption and "Eesleys circa 1900" PowerPoint deck, transmitted by Chuck Eesley 2026.*
