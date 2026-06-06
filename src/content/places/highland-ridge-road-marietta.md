@@ -5,7 +5,7 @@ region: "Washington County, Ohio"
 country: "United States"
 summary: "The house Will Eesley the architect designed and built for his own family, with the orchard he planted and the small red bridge he constructed over the pond out back — the second of Peggy and Will's three Marietta addresses (after 651 Sixth Street and before Peggy's later Seventh Street house), and the house Charlie raised Chuck in across the 1980s and 1990s. The pond Chuck broke through while testing the ice in winter. The tractor Charlie flipped over on himself; John Arnold across the hundred-yard yard came to help him up. The house the eulogy named as one of 'the places that should hold his name longest.'"
 significance: "Three-generation house — designed by the architect grandfather, raised the architect's son and his son. The orchard Will planted across decades, the small red bridge Will built that Charlie and Chuck later rebuilt together, the pond where Chuck almost died testing his weight on the ice, and the long drive across the property to John and Peggy Arnold's house the nearest hundred-yards away. The Eesley paternal-side counterpart to 413 Harmar Street on the maternal Wildermuth side."
-status: described-only
+status: photographed
 relatedPeople:
   - wilbur-eesley
   - margaret-mcmaster-eesley
@@ -16,6 +16,58 @@ relatedPeople:
 relatedDocuments:
   - eulogy-charles-mcmaster-eesley
   - charles-eesley-12th-grade-autobiography-1965
+visits:
+  - year: "c. 1978–1985 (winter)"
+    photographer: wilbur-eesley
+    images:
+      - ../../assets/family/originals/bridge_highland_ridge.jpeg
+    caption: "<strong>The small red bridge in winter.</strong> Snow on the boards, snow on the railings, the house Will designed visible through the trees behind. The bridge Will built crosses the small ravine on the property; in this frame it leads the eye back toward the wood-and-stone house. This is the bridge of the eulogy — the one <a href='/family/charles-eesley/'>Charlie</a> and <a href='/family/charles-eric-eesley/'>Chuck</a> would later rebuild together. The defining photograph of Highland Ridge."
+    alignmentNote: "The iconic frame. Probable photographer Will Eesley; date estimated from the wood weathering and the apparent age of the trees at c. 1978–1985."
+  - year: "c. 1979–1983 (autumn aerial)"
+    photographer: wilbur-eesley
+    images:
+      - ../../assets/family/originals/00000004_00000008_00000009.jpeg
+    caption: "<strong>The house from above, fall colors.</strong> Will's design visible in plan — the L-shaped wood-shingle roof, the large central chimney, the driveway circling the house, and the orchard trees Will planted dotting the property. Taken from elevation behind the house, possibly the upper ridge. The colors fit late October."
+    alignmentNote: "Plan view of Will's architecture. The autumn light and tree-color saturation suggest c. 1979–1983 Kodachrome."
+  - year: "c. 1978–1985 (winter, the house and the driveway)"
+    photographer: wilbur-eesley
+    images:
+      - ../../assets/family/originals/00000003_00000024_00000025.jpeg
+    caption: "<strong>The house in winter, from the driveway.</strong> The long low ranch of Will's design with snow on the roof and snow across the surrounding hills, two bird feeders catching the foreground, the ridge dropping away to the right. The view a returning family member would have driving up the long approach to the house through the woods."
+    alignmentNote: "Mid-winter Kodachrome, very plausibly taken by Will."
+  - year: "c. 1979–1983 (summer)"
+    photographer: charles-eesley
+    images:
+      - ../../assets/family/originals/00000000_00000027_00000028.jpeg
+    caption: "<strong>Four people on the small red bridge.</strong> A family group standing on the bridge in summer light, woods behind, the bridge's red railings framing them. Cast identification queued — the older man at left in plaid trousers and white shirt is plausibly Will Eesley the architect on the bridge he built; the mustachioed man in dark shirt is plausibly Charlie; the two women plausibly Peggy and Terrie or one of the Eesley sisters. Chuck to confirm."
+    alignmentNote: "Family photograph in the same physical location as the snowy-bridge image, taken in summer."
+  - year: "c. 1978–1985 (the bridge under construction or maintenance)"
+    images:
+      - ../../assets/family/originals/00000000_00000016_IMG_0016.jpeg
+    caption: "<strong>The red bridge being worked on.</strong> Three figures around the bridge — an older man at left with shovel, a man with back to camera in the middle, a laughing woman in yellow at right beside the wheelbarrow ('JOHN DEERE' visible on the green wheelbarrow). The bridge in the background has its railings up but appears unfinished or being repaired. The labor side of the property — the orchard, the bridge, the firewood — the eulogy named explicitly."
+    alignmentNote: "Documentary frame of the building or repair of the bridge that the eulogy says Will built and Charlie and Chuck later rebuilt."
+  - year: "c. 1985–1995 (Will at the house)"
+    photographer: peggy-arnold
+    images:
+      - ../../assets/family/originals/00000000_00000007_IMG_0007.jpeg
+    caption: "<strong>A man standing in front of the stone fireplace at the house Will designed.</strong> Casual posed snapshot, red shirt and jeans, the stone-and-wood architecture of Highland Ridge visible — the deck above, the stone hearth at center, the large multi-paned windows on the right. The man is plausibly Will Eesley himself at the house he built, c. 1980s; cast confirmation queued."
+    alignmentNote: "If the man is Will, this is one of the only photographs in the archive of him standing at the entrance of the house he architected for his own family."
+  - year: "c. 1990–1995 (Chuck on the frozen pond, the eulogy's pond)"
+    photographer: charles-eesley
+    images:
+      - ../../assets/family/originals/00000004_00000046_00000047.jpeg
+    caption: "<strong>A young person on the frozen pond at Highland Ridge.</strong> Late-autumn or early-winter scene, the pond partially frozen with reflective patches still visible, a boy of about 12–15 standing on the ice in dark pants and brown jacket, his weight resting on the surface. This is very plausibly <a href='/family/charles-eric-eesley/'>young Chuck</a> on the same pond his father's <a href='/docs/eulogy-charles-mcmaster-eesley/'>eulogy</a> describes him breaking through as a smaller boy — the pond Charlie pulled him out of, leaving the boots in the mud at the bottom. Cast confirmation queued."
+    alignmentNote: "If this is Chuck, the photograph documents the very pond at the center of one of the eulogy's most-quoted stories. The boots Chuck left in the mud are presumably still there."
+  - year: "c. 1979–1985 (a family group)"
+    images:
+      - ../../assets/family/originals/00000004_00000047_00000048.jpeg
+    caption: "<strong>Large family group portrait outdoors.</strong> About 13 figures arranged on a slope in casual summer clothes, multiple generations visible, smiling and informal. Cast identification queued; this is plausibly a Wildermuth or extended-Eesley family gathering at the property."
+    alignmentNote: "Family-reunion-scale group portrait. Cast identification by Chuck queued."
+  - year: "c. 1980–1983 (interior with toddler)"
+    images:
+      - ../../assets/family/originals/IMG_2635.jpeg
+    caption: "<strong>A family scene indoors, with a toddler walking.</strong> Five figures around a couch with a large Chinese-landscape mural behind it — an older couple on the right (older man in dark with glasses, white-haired older woman in red), a middle-aged woman in striped sweater on left holding the small child, a young woman with blonde hair seated, and a toddler in colorful striped overalls walking. The toddler may be young Chuck, c. 1981–1983 if so; cast confirmation queued. This may be at Highland Ridge or at the Grandma Peggy house on Seventh Street — interior identification queued."
+    alignmentNote: "Interior family scene. Cast and location (Highland Ridge vs Seventh Street) confirmation queued."
 ---
 
 **Highland Ridge Road, Marietta, Ohio** is **the house Will Eesley the architect designed and built for his own family** — the second of the [Peggy and Will Eesley](/family/margaret-mcmaster-eesley/) family's three Marietta addresses (after 651 Sixth Street through Charlie's childhood, and before [Peggy's later Seventh Street widow's house](/family/margaret-mcmaster-eesley/)), and the house Charlie eventually inherited and **raised Chuck in across the 1980s and 1990s**.

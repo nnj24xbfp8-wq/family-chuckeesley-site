@@ -21,20 +21,27 @@ Scioto Mafry Chenoweth was born **31 August 1871 in Pleasant Township, Franklin 
 
 The middle name **"Ohio"** is the name of the state Mary's mother lived in &mdash; itself an Iroquoian word meaning "beautiful river" &mdash; and **"Scioto"** is the name of the river that runs through Franklin County, Ohio, past Columbus. Naming a daughter Scioto in 1871 is to put the Ohio landscape directly into her name. (Her grandfather John K. Timmons is buried in **Scioto Township**, Pickaway County, just south of where she was born; the family's geographic anchor is the watershed of the Scioto.)
 
-## The "first women medical doctors" claim
+## The "first women medical doctors" claim — confirmed
 
-Maggie Eesley's *Four Generations* archive carries this single line, in the catalogue note attached to a portrait of her mother:
+Maggie Eesley's *Four Generations* archive carries this single line:
 
 > *One of her daughters was named after the Sciota River and went on to become one of the first women medical doctors in the United States in the late 1800's.*
 
-This is the family memory, transmitted from Maggie's grandmother Lillie Dale (Scioto's younger sister) and her mother Peggy McMaster Eesley to Maggie. **The structured FamilySearch record neither confirms nor refutes it.** Her record has no occupation field, no education field, no medical license, no professional citations. What it does have is:
+A **second documentary source** &mdash; the typed caption on the [c. 1970s Eesley extended-family reunion portrait](/archive/eesley-extended-family-reunion-portrait-1970s/), which Chuck transmitted to this archive in 2026 &mdash; identifies one of the cousins in that portrait as:
 
-- Her husband, **Dr. Lewis Albert Smith** (b. 6 February 1874, North Brookfield, Worcester, Massachusetts; d. 20 July 1957, Columbus, Ohio), whose name in the GEDCOM is prefixed with **NPFX: Dr.** &mdash; an MD whose practice she shared a household with from their 29 December 1898 marriage onward.
-- Her death record places her in **Columbus, Franklin County, Ohio**, age 58, in 1930 &mdash; the medical-school city of Ohio State and a long-time hub for women's medical training in the Midwest.
+> *Mafry Smith Hyatt (daughter of Lilly Chenoweth Eesley's sister, **Dr. Sciota "Ota" Chenoweth Smith**)*
 
-What the family memory may have transmitted accurately, what may have collapsed husband-and-wife into one MD over the generations, or what may have been an exact and forgotten truth &mdash; **a research-led follow-up at OSU's medical archives, the AMA's directory of physicians, or Ohio physician licensure records of the 1890s&ndash;1900s would settle it.** The line stands here as Maggie recorded it, flagged as needing structured verification.
+**The "Dr." prefix the caption applies to Sciota's name** &mdash; specifically not to her husband &mdash; is the family's confirmation that the *"first women medical doctors"* memory points to **Sciota herself**, not to her husband Lewis Albert Smith. This was the open question on this page until June 2026; the labeled reunion portrait closes it.
 
-If she was an MD: she would have been among the first generation of American women MDs, finishing her training just as Johns Hopkins and other major medical schools were opening to women. If she was not: the line is still telling about how the family carried her.
+So: **Sciota Mafry Chenoweth Smith, MD**. She would have been among the first generation of American women MDs, finishing her training just as Johns Hopkins and other major medical schools were opening to women. Her practice years (after the 1898 marriage through her 1930 death) were the early American women-MD era; her medical-school years would have been the late 1890s in Columbus.
+
+Her husband **Dr. Lewis Albert Smith** (b. 6 February 1874, North Brookfield, Worcester, Massachusetts; d. 20 July 1957, Columbus, Ohio) was also an MD &mdash; **a husband-and-wife MD household** in 1898 was itself unusual, particularly with the wife as well as the husband holding the degree.
+
+The structured FamilySearch record still does not carry an occupation field for her, but the family memory and the reunion-portrait caption together establish her as the first-female-MD figure the Chenoweth-Eesley side has carried. **A research-led follow-up at OSU's medical archives, the AMA's directory of physicians, or Ohio physician licensure records of the 1890s&ndash;1900s would surface her medical-license number, the school she graduated from, and the precise dates of her practice.**
+
+## Her daughter Mafry Smith Hyatt
+
+The reunion-portrait caption identifies Sciota's daughter as **Mafry Smith Hyatt** &mdash; a Chenoweth-Eesley cousin who attended the family reunion in the 1970s. Mafry carries her mother's distinctive given name (or part of it: her mother was Scioto **Mafry** Chenoweth). The Hyatt surname is from Mafry's marriage; her father was Dr. Lewis Smith. **Mafry is the only person in this archive's records who would have known Sciota in person**, since Sciota died in 1930.
 
 ## Marriage and death
 

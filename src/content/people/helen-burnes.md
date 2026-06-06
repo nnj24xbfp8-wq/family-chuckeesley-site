@@ -1,10 +1,12 @@
 ---
 name: "Helen Louise (Eesley) Burnes"
-aka: "Helen Eesley, maiden"
+aka: "Helen Eesley, maiden; 'Little Helen' in the c. 1970s family-reunion portrait, to distinguish her from 'Big Helen' (Len's wife)"
 line: paternal
 birth:
   date: "1924-01-16"
   place: "Columbus, Ohio"
+death:
+  date: "2000-06-01"
 generation: 5
 parents:
   - charles-leonard-eesley

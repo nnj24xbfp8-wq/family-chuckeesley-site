@@ -5,6 +5,8 @@ line: paternal
 birth:
   date: "1913-08-25"
   place: "Shelby, Michigan"
+death:
+  date: "2002-07-23"
 generation: 5
 parents:
   - charles-leonard-eesley

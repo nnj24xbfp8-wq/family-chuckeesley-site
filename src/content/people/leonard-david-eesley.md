@@ -1,11 +1,12 @@
 ---
 name: "Leonard David Eesley"
+aka: "Uncle Len Eesley"
 line: paternal
 birth:
-  date: "1904"
+  date: "1904-11-19"
   place: "Geneva, Ohio"
 death:
-  date: "1976"
+  date: "1976-01"
   place: "Silver Spring, Maryland"
 generation: 5
 parents:
