@@ -27,6 +27,16 @@ Family memory holds &mdash; and the [combat log](/docs/the-big-one/) carries &md
 
 He served again in Korea, worked at the Pentagon, retired as a lieutenant colonel, and spent the rest of his life teaching and researching the family back to the early 1700s in W&uuml;rttemberg.
 
+## Dallas, the Kennedy assassination, and Marina Oswald in the neighborhood
+
+The mid-1960s before Japan were spent at Southern Methodist University in Dallas, where Robert Earl had been sent by the Air Force Institute of Technology to earn an industrial-engineering degree. He and Dottie and the four children lived in Richardson, the northeastern Dallas suburb.
+
+The morning of 22 November 1963, Robert Earl had planned to take the family to the airport to see President Kennedy arrive in Dallas; his then seven-year-old daughter Debbie was going to present the president with a bouquet of roses. An engineering final exam fell on the same day, and the airport plan had to be cancelled. The assassination followed a few hours later.
+
+In the SMU student snack bar in the days before the visit, Robert Earl had heard Texan civilian classmates saying *"that so and so better hadn't come to Dallas or he'll get his a— shot off."* Dallas was strongly Republican; Fort Worth fifteen miles away was strongly Democratic; *"political feelings ran very high in these two cities."*
+
+Within weeks of the assassination, Marina Oswald — Lee Harvey Oswald's young Soviet widow — moved with her two small children to Richardson, into Robert Earl and Dottie's own neighborhood. *"We saw her quite often in the local market,"* he wrote in his memoir. *"She was readily accepted in our community and to my knowledge there were no threats or harassment made towards her."* The Cold War's most famous Soviet emigrant in America, after the assassination of an American president, became for a few months Robert Earl's local grocery-store neighbor.
+
 ## The Itazuke turnaround — 1965 to 1968
 
 The career-defining Air Force episode came at [Itazuke Air Base in Fukuoka, Japan](/places/itazuke-air-base/) from 1965 to 1968. After graduating from the Air Force Institute of Technology at SMU in Dallas with an industrial-engineering degree, Robert Earl was sent to Japan as Chief of Maintenance of the 1955th Communications Squadron &mdash; in his own words, *"the third worst Communications Squadron out of thirty one in the Far East."*
