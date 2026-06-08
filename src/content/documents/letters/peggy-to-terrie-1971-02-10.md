@@ -26,11 +26,11 @@ scans:
 
 Wednesday 10 February 1971. Charlie's mother [Peggy McMaster Eesley](/family/margaret-mcmaster-eesley/) writes from Marietta to Terrie at the University of Maryland. The letter is one of the only surviving pieces of correspondence in this archive between Charlie's mother and Terrie before they were officially family. It carries three threads simultaneously, all woven through the same six paragraphs.
 
-## Thread one — Charlie's month extension at Da Krong
+## Thread one — Charlie's month extension at Da Nang
 
-The first sentence is the news: Charlie has been given a one-month tour extension at *"Dakong"* (Peggy's spelling, almost certainly **Da Krong** — the valley along the Quang Tri / Laotian border that the 101st Airborne was operating in through Lam Son 719 in February 1971). The extension pushed his expected return date back from January or early February to roughly March 1971, deeper into the heavy-combat period of Lam Son 719.
+The first sentence is the news: Charlie has been given a one-month tour extension at *"Da Nang"* &mdash; Peggy's spelling of the big U.S. rear base on the central Vietnamese coast. Cross-referenced against Charlie's own letters of 4 February 1971 and 10 February 1971, both of which open *"I'm still in Danang,"* the extension is not a field-combat extension but a rear-area transition: Charlie had been pulled back from Camp Eagle to Da Nang and was waiting for orders for a clerk's job there for the last of his tour.
 
-Peggy's tone in the opening line — *"By now you of course know that Charlie has a month's extension at Dakong. Isn't that great?!"* — is sardonic. She is writing to the young woman who has spent two years now waiting for Charlie to come home, and the extension is exactly what neither of them wanted.
+Peggy's tone in the opening line &mdash; *"By now you of course know that Charlie has a month's extension at Da Nang. Isn't that great?!"* &mdash; is still sardonic. She is writing to the young woman who has spent two years now waiting for Charlie to come home, and any extension &mdash; rear-area or not &mdash; is one more month of waiting.
 
 ## Thread two — the CO at Camp Eagle to Congressman Miller
 
