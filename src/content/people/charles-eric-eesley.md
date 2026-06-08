@@ -28,6 +28,16 @@ He grew up on the [Highland Ridge Road house](/family/wilbur-eesley/) his grandf
 
 He and [Lijie](/family/lijie-zhou/) made their life together at Stanford. The Zhou side of the family &mdash; Lijie's parents, grandparents, and the line behind them &mdash; is held open as the next major thread of this archive to build, in parallel with the Eesley and Wildermuth sides.
 
+## The three-generation Japan thread
+
+Chuck **teaches one week each summer at Kobe University** and has **published research papers on entrepreneurship in Japan** &mdash; the third generation of a family interest in the country that runs through both sides of his parental tree.
+
+On the **Wildermuth side**, [Robert Earl and Dottie](/family/robert-earl-wildermuth/) were posted at **[Itazuke Air Base in Fukuoka](/places/itazuke-air-base/) from 1965 to 1968** &mdash; the three-year tour that produced Robert Earl's career-defining squadron turnaround and gave [Chuck's mother Terrie](/family/terrie-lee-eesley/) the high-school years in Japan named explicitly in her 2017 obituary (*"Terrie traveled the U.S. and Japan until graduating high school"*).
+
+On the **Eesley side**, [Will and Peggy Eesley](/family/wilbur-eesley/) had also **traveled to Japan** and **shared the interest** &mdash; per Chuck's recollection, **when the Wildermuth and Eesley families first met (presumably around Charlie and Terrie's courtship), the conversation found its way to Japan because all four parents had traveled there and shared an interest in the country**. The shared Japan thread was one of the first common cultural notes between the two in-law families.
+
+Chuck's annual Kobe University teaching and his entrepreneurship-in-Japan research are the **continuing third-generation expression** of that interest &mdash; the Wildermuth-and-Eesley conversation about Japan, opened across two parental couples in the 1970s, kept going through the next generation.
+
 ## Photographs in the archive (Chuck-side)
 
 - The [**Duke years, March 2001**](/archive/chuck-spring-break-2001-meditation/) &mdash; the *News & Observer* feature on a spring-break meditation visit to a North Carolina Buddhist monastery, with Chuck identifiable in the inset photograph. Earliest public press in the archive.

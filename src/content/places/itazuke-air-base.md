@@ -48,4 +48,14 @@ She graduated high school in Japan c. 1967 &mdash; the [graduation photograph](/
 
 The whole Wildermuth household was at Itazuke through the late 1960s: Robert Earl and Dottie, Terrie (16-19), [Sandra](/family/sandra-sue-wildermuth-clement/) (15-18), [Debbie](/family/debbie-wildermuth/) (9-12), and Robert Jr. (infant to 3). When the tour ended in 1968 the family came home to a Pentagon assignment in Washington, D.C.
 
-> *Sources: [Robert Earl Wildermuth's 1989 memoir](/docs/robert-earl-wildermuth-memoir/); [Terrie Lee Bain's 2017 obituary](/docs/terrie-lee-bain-obituary-2017/); [Wildermuth family portrait, mid-1960s](/archive/wildermuth-family-portrait-1960s/); [Terrie's high school graduation in Japan, c. 1967](/archive/terrie-high-school-graduation-japan/).*
+## The three-generation Japan thread
+
+Robert Earl and Dottie's 1965–1968 Itazuke years sit inside a **three-generation Japan thread that runs through both sides of [Chuck](/family/charles-eric-eesley/)'s family**:
+
+- **Wildermuth side, 1965–1968:** Robert Earl posted at Itazuke; Terrie spent her 16-to-19 years in Japan as the eldest of four traveling Air Force children; she graduated high school there c. 1967.
+- **Eesley side, c. 1960s–70s:** [Will and Peggy Eesley](/family/wilbur-eesley/) had also traveled to Japan and shared the interest. **When the two in-law families first met around Charlie and Terrie's courtship, the conversation found its way to Japan because all four parents had traveled there and shared an interest in the country.** The shared Japan thread was one of the first common cultural notes between the two families.
+- **Third generation, ongoing:** Chuck **teaches one week each summer at Kobe University** and has **published research papers on entrepreneurship in Japan** &mdash; continuing the family interest across the third generation in his own academic career.
+
+Itazuke is therefore the structural anchor of a Japan-interest line that begins with Robert Earl's posting, runs through his daughter's high-school years, surfaces in the Wildermuth-and-Eesley parental conversation over a courtship, and continues into Chuck's ongoing Kobe University teaching.
+
+> *Sources: [Robert Earl Wildermuth's 1989 memoir](/docs/robert-earl-wildermuth-memoir/); [Terrie Lee Bain's 2017 obituary](/docs/terrie-lee-bain-obituary-2017/); [Wildermuth family portrait, mid-1960s](/archive/wildermuth-family-portrait-1960s/); [Terrie's high school graduation in Japan, c. 1967](/archive/terrie-high-school-graduation-japan/); Chuck Eesley family-memory thread on the parents-meeting conversation about Japan, transmitted 2026.*
