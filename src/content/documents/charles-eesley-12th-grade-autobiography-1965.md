@@ -144,15 +144,29 @@ Will Eesley **demonstrating air-pocket survival under an overturned canoe** with
 
 The **paperboy / stock-market thread** is the one Charlie's son Chuck would later eulogize in 2015: *"his wisdom, far-sightedness and patience in investing... inspired him to become a stockbroker, funded my grandparents' travel in retirement, and paid for a large part of my education."* The interest in the market — visible at seventeen and explicit at the line *"my interest in the stock market is still fresh"* — is the through-line from this autobiography to **the stockbroker career he would have for the next four decades** and the **Marietta-dollars-compounding-into-a-Stanford-education** Chuck would later name as his half of the arc.
 
-## On the page that ought to have been there — the family photographs
+## On the page that ought to have been there — the family photographs (now found)
 
-Page 17 — the last page of the body — is handwritten by Charlie, **not typed**. It carries two captions for photographs that were once attached but are no longer with the document:
+Page 17 &mdash; the last page of the body &mdash; is handwritten by Charlie, **not typed**. It carries **two captions for photographs that were once attached** to the bound autobiography but were not with the document when Chuck scanned it in December 2015:
 
 > *"Cross-country team after winning second place in the district last year"*
 >
 > *"Recent picture of our family. The boy is Joe Kamiab, a Persian, who is Jeanne's fiancé. They will be married next summer."*
 
-The two photographs are not in the scan. **Jeanne Eesley would marry [Joe Kamiab](/family/jeanne-eesley-kamiab/) the summer after Charlie wrote this** — so the autobiography is dated to before the Kamiab wedding, locating it to **late 1964 or early-to-mid 1965**.
+**Both photographs have since been located in the family archive and added to this site in June 2026:**
+
+### The cross-country team photograph
+
+**[The Marietta High School cross country team holding their plaque, c. 1963–1965](/archive/marietta-hs-cross-country-team-c-1964/)** &mdash; eight young men in matching long-sleeve quarter-zip pullovers on the school grounds, with Charlie **third from left** (blonde buzz cut, confirmed by Chuck June 2026). Charlie's handwritten caption *"Cross-country team after winning second place in the district last year"* matches Chapter V's narrative of *"district silver medal junior year"*: **this is the silver-medal-winning team photograph he attached to his own autobiography.** The plaque held at the center is presumably the district silver-medal plaque.
+
+### The family-with-Joe-Kamiab portrait
+
+**[The Will and Peggy Eesley family with Joe Kamiab, c. 1965](/archive/eesley-family-with-joe-kamiab-1965/)** &mdash; the formal indoor portrait of Will and Peggy (seated, front) with their four children and Jeanne's fiancé Joe in the back row, in the order **Charlie, Anne, Maggie, Jeanne, Joe** (left to right). This is the *"Recent picture of our family. The boy is Joe Kamiab, a Persian, who is Jeanne's fiancé. They will be married next summer."* photograph that was once bound into Charlie's autobiography. **The 'next summer' is June 1965**, which fits the apparent ages of all four children and places the portrait at or near Jeanne and Joe's wedding.
+
+### What the rediscovery does
+
+The two photographs &mdash; **the team Charlie ran for and the family he was about to see his eldest sister marry out of** &mdash; were chosen by the seventeen-year-old Charlie himself as the **two images he wanted to attach to his self-portrait**. That choice is itself biographical: the team and the family, the running and the home, were the two things he wanted his autobiography to be illustrated by. **Fifty-plus years later both photographs are back with the document they were originally bound to.**
+
+The autobiography's date narrows from the page-17 caption: it had to be **written before the June 1965 Kamiab wedding** ("they will be married next summer"). The most plausible writing window is **fall 1964 or spring 1965** &mdash; Charlie's senior fall or spring at Marietta High School.
 
 ## On the teacher's reply
 
