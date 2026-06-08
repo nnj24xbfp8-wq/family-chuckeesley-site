@@ -13,15 +13,15 @@ people:
   - charles-eesley
 ---
 
-**The Marietta High School cross country team, with [Charlie Eesley](/family/charles-eesley/) holding the plaque in the center.** Eight young men in matching dark long-sleeve quarter-zip pullovers and dark sweatpants, lined up outdoors on the school grounds in front of a brick school building with a large tree overhead. Center figures present a small plaque or trophy. Far-left figure wears a varsity letter jacket &mdash; possibly the team manager or coach. Black-and-white print, c. 1963 to 1965.
+**The Marietta High School cross country team, with [Charlie Eesley](/family/charles-eesley/) third from the left.** Eight young men in matching dark long-sleeve quarter-zip pullovers and dark sweatpants, lined up outdoors on the school grounds in front of a brick school building with a large tree overhead. The two center teammates (fourth and fifth from the left) present a small plaque or trophy between them. Far-left figure wears a varsity letter jacket &mdash; possibly the team manager. Black-and-white print, c. 1963 to 1965.
 
 ## Charlie on the team
 
-**Charlie Eesley is the third figure from the left** &mdash; confirmed by Chuck Eesley June 2026 &mdash; identifiable by the same **blonde buzz cut** as the family portrait of [the Will and Peggy Eesley family with Joe Kamiab c. 1965](/archive/eesley-family-with-joe-kamiab-1965/). The young man holding the plaque to his immediate right may be his teammate (cast queued).
+**Charlie Eesley is the third figure from the left** &mdash; confirmed by Chuck Eesley June 2026 &mdash; identifiable by the same **blonde buzz cut** as the family portrait of [the Will and Peggy Eesley family with Joe Kamiab c. 1965](/archive/eesley-family-with-joe-kamiab-1965/). He stands just to the left of the two teammates who hold the plaque at the center of the team.
 
 ## What this frame records
 
-Charlie's [12th-grade autobiography](/docs/charles-eesley-12th-grade-autobiography-1965/) frames him as a serious Marietta High School student in academics; **his athletic life appears here** in a way the autobiography does not detail. Cross country &mdash; the long-distance running team &mdash; was Marietta's fall-season distance event; the team's award framing suggests they had won or placed in their conference, the Ohio Valley, or the state's small-school competition.
+Charlie's [12th-grade autobiography](/docs/charles-eesley-12th-grade-autobiography-1965/) frames him as a serious Marietta High School student in academics; **his athletic life appears here** in a way the autobiography does not detail. The team's handwritten caption Charlie attached to that autobiography says *"Cross-country team after winning second place in the district last year,"* matching Chapter V's *"district silver medal junior year"* &mdash; **so the plaque the two center figures hold is the district silver-medal plaque, and the season ran the year before this autobiography (1963&ndash;64 cross country season, Charlie's junior year).**
 
 ## The image's date
 
