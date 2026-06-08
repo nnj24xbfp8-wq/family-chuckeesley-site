@@ -6,8 +6,8 @@ birth:
   date: "1901-07-15"
   place: "Waverly, West Virginia"
 death:
-  date: "1976"
-  place: "Marietta Memorial Hospital, Marietta, Ohio"
+  date: "1976-08-04"
+  place: "Marietta Memorial Hospital, Marietta, Ohio (cause: multiple myeloma)"
 generation: 4
 parents:
   - wesley-fleming
