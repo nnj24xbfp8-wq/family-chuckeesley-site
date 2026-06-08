@@ -35,6 +35,18 @@ The **letters he wrote home** from Saigon survived the trip back to Marietta. **
 
 A few of the things this layer carries that the rest of the page does not: the **stereo and record player** that was the first thing he bought when he got back, the Beatles and the Rolling Stones as the music of the year of his life he had been living through, the "**smart-ass comments that probably nearly got him court-marshaled**" he kept making across the rest of his life, the Skype call decades later when Chuck was visiting Saigon and Charlie, on the other end, declined to come.
 
+## The long tail of the war &mdash; Agent Orange, diabetes, and the forced retirement
+
+The Vietnam letters carry [a confirmed September 1970 malaria episode](/docs/letters/charlie-to-terrie-1970-09-21-malaria-hospital/) at a Vietnam hospital, followed by [convalescence at the U.S. military's 6th Convalescent Center at Cam Ranh Bay](/docs/letters/charlie-to-terrie-1970-09-28-cam-ranh-bay-convalescence/). The malaria recovered. The deeper exposure didn't.
+
+Charlie served with the 101st Airborne in I Corps in 1969 to 1971 &mdash; exactly the unit, area, and time the U.S. Department of Veterans Affairs uses to apply the **"boots on the ground" presumption** for Agent Orange exposure. American forces sprayed millions of gallons of the herbicide across South Vietnam through Operation Ranch Hand from 1962 to 1971; the 101st operated in heavily-defoliated mountain areas including the A Shau Valley. Direct exposure was almost certain.
+
+Years later he developed **Type 2 diabetes**, one of the diseases the VA presumes was caused by Agent Orange exposure in service members who served in Vietnam between 1962 and 1975. The diabetes progressed along the classic three-complication path: **diabetic retinopathy** took his vision slowly, forcing him to **retire early** from his stockbroker career; **peripheral neuropathy** (itself separately on the VA Agent Orange presumptive list) ran in parallel; and the peripheral vascular complications eventually contributed to the **foot amputation** the eulogy refers to (*"the late comment about losing weight in the form of his foot"*). The VA awarded him a **100% disability rating**.
+
+The line about losing weight in the form of his foot &mdash; the dark joke about something he had no control over &mdash; is the same dry, smart-ass voice his Vietnam letters carry through the field and his autobiography carries at seventeen. The disease was Agent Orange; the voice was Charlie.
+
+His father-in-law [Robert Earl Wildermuth](/family/robert-earl-wildermuth/) had also developed diabetes (likely Type 2 as well, and not Agent Orange related given Robert Earl's earlier Pacific and Korean service, though he did not serve in Vietnam). Robert Earl's 1989 memoir addresses the next generation directly: *"to anyone of my progeny that I may have passed the diabetic gene onto, have faith for diabetes can be lived with if certain care is taken."* Charlie's diabetes joined his father-in-law's as the disease running through the family on both sides of [Chuck](/family/charles-eric-eesley/)'s maternal-and-paternal medical history.
+
 ## The wedding photograph
 
 The [**Charlie and Terrie wedding photograph (early 1970s)**](/archive/charlie-and-terrie-wedding-1970s/) is the resolution of the [Letters from Vietnam](/docs/letters-from-vietnam/): the two of them married after the courtship-during-a-war that the letters had been. The frame catches Will and Peggy mid-laugh on the church steps, parents-of-the-groom.
