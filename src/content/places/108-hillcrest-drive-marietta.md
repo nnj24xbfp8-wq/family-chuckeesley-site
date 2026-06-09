@@ -19,11 +19,21 @@ relatedDocuments:
   - betty-jean-wolfe-obituary-2015
   - norman-graham-wolfe-obituary-2015
 visits:
-  - year: "c. 1960s"
+  - year: "c. 1960 (Norm with his three daughters)"
     images:
       - ../../assets/family/originals/00000004_00000017_00000018.jpeg
-    caption: "Family of four at the brick fireplace at 108 Hillcrest, c. 1960s. Cast queued; possibly Betty and Norm with one of their growing daughters and a small child, or one of the Wolfe daughters with a sibling and one of Norm and Betty's grandchildren. The brick fireplace and the wood-paneled walls match the later photographs of the same room."
-    alignmentNote: "Earliest dated frame of the Hillcrest interior in the archive."
+    caption: "Norm Wolfe seated at the Hillcrest brick fireplace with all three of his daughters across their full age range. Cast confirmed by Chuck Eesley June 2026 — Norm at center in dark suit and tie holding the baby (infant Peggy Sue, the youngest), Victoria Ann (the eldest, late teens or early twenties) standing at left in dark velvet skirt, and Norma Jean (the middle daughter, ten-to-thirteen) standing at right in dark plaid pleated jumper with white Peter Pan collar and Mary Janes. Betty is presumably behind the camera. The wide spread of ages — eldest a young woman, middle a pre-teen, youngest a baby on her father's lap — captures the household at the moment all three daughters were still at home together."
+    alignmentNote: "Earliest dated frame of the Hillcrest interior in the archive. The brick fireplace, wood paneling, and patterned rug appear identical to the later photographs of the same room."
+  - year: "c. 1981–1983 (Chuck c. 2–3 on the back porch with his parents and Grandma Dottie)"
+    images:
+      - ../../assets/family/originals/00000005_00000015_00000016.jpeg
+    caption: "Young Chuck on the back porch of 108 Hillcrest with his parents Charlie and Terrie and his maternal grandmother Dorothy 'Dottie' Davis Wildermuth — Betty Wolfe's older sister, visiting from Florida. Cast confirmed by Chuck Eesley June 2026. Charlie at left in white shirt and tie holding what looks like a small camera, very-blonde Chuck (c. 2–3 years old) in the middle in a white shirt with red bowtie, Terrie next to him in maroon top, Dottie at right in a soft blue dress with white collar. A collie or sheltie at the bottom of the steps. The earliest frame of Chuck himself at Hillcrest in this archive — and a visual record of the two Davis sisters bringing the next generations together on the same porch."
+    alignmentNote: "Back porch / exterior view of the house. Earliest visiting-Chuck frame in the archive and a documentary trace of the Davis-sister family-visit pattern."
+  - year: "c. 1985–1987 (Bob and Dottie drove up from Orlando)"
+    images:
+      - ../../assets/family/originals/00000005_00000027_00000028.jpeg
+    caption: "Young Chuck with his mother Terrie and his maternal grandparents Robert Earl 'Bob' Wildermuth and Dorothy 'Dottie' Davis Wildermuth, photographed in front of the tan Ford Econoline conversion van Bob and Dottie had just driven up from Florida. Confirmed by Chuck Eesley June 2026. Robert Earl's retirement to Florida (Holly Hill near Daytona Beach, and later Orlando through his second medical-records career and Blue Cross of Florida work) put roughly 1,000 miles between him and his Marietta-side grandson; the van made the drive feasible. Bob's hand resting on Chuck's head is the grandfather's quiet claim on the grandson the genealogist would later inspire."
+    alignmentNote: "The only frame in the archive of the maternal Wildermuth grandparents at Marietta with Chuck. Date c. 1985–1987 from Chuck's apparent age and the conversion-van styling."
   - year: "c. 1985–1990"
     images:
       - ../../assets/family/originals/00000004_00000022_00000023.jpeg
