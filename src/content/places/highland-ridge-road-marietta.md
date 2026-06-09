@@ -3,7 +3,7 @@ title: "Highland Ridge Road, Marietta — the house Will built"
 village: "Marietta"
 region: "Washington County, Ohio"
 country: "United States"
-summary: "The house Will Eesley the architect designed and built for his own family, with the orchard he planted and the small red bridge he constructed over the pond out back — the second of Peggy and Will's three Marietta addresses (after 651 Sixth Street and before Peggy's later Seventh Street house), and the house Charlie raised Chuck in across the 1980s and 1990s. The pond Chuck broke through while testing the ice in winter. The tractor Charlie flipped over on himself; John Arnold across the hundred-yard yard came to help him up. The house the eulogy named as one of 'the places that should hold his name longest.'"
+summary: "The house Will Eesley the architect designed and built for his own family, with the orchard he planted and the small red bridge he constructed over the pond out back — the second of Peggy and Will's three Marietta addresses (after 651 Sixth Street and before Peggy's later 424 N 7th Street widow's house), and the house Charlie raised Chuck in across the 1980s and 1990s. The pond Chuck broke through while testing the ice in winter. The tractor Charlie flipped over on himself; John Arnold across the hundred-yard yard came to help him up. The house the eulogy named as one of 'the places that should hold his name longest.'"
 significance: "Three-generation house — designed by the architect grandfather, raised the architect's son and his son. The orchard Will planted across decades, the small red bridge Will built that Charlie and Chuck later rebuilt together, the pond where Chuck almost died testing his weight on the ice, and the long drive across the property to John and Peggy Arnold's house the nearest hundred-yards away. The Eesley paternal-side counterpart to 413 Harmar Street on the maternal Wildermuth side."
 status: photographed
 relatedPeople:
@@ -69,7 +69,7 @@ visits:
     alignmentNote: "Young Chuck (c. 1981–1982) at home at Highland Ridge in front of the wall mural. Adult cast queued."
 ---
 
-**Highland Ridge Road, Marietta, Ohio** is **the house Will Eesley the architect designed and built for his own family** — the second of the [Peggy and Will Eesley](/family/margaret-mcmaster-eesley/) family's three Marietta addresses (after 651 Sixth Street through Charlie's childhood, and before [Peggy's later Seventh Street widow's house](/family/margaret-mcmaster-eesley/)), and the house Charlie eventually inherited and **raised Chuck in across the 1980s and 1990s**.
+**Highland Ridge Road, Marietta, Ohio** is **the house Will Eesley the architect designed and built for his own family** — the second of the [Peggy and Will Eesley](/family/margaret-mcmaster-eesley/) family's three Marietta addresses (after 651 Sixth Street through Charlie's childhood, and before [Peggy's later 424 N 7th Street widow's house](/places/424-n-seventh-street-marietta/)), and the house Charlie eventually inherited and **raised Chuck in across the 1980s and 1990s**.
 
 It is the **paternal-side counterpart to the maternal Wildermuth family's [413 Harmar Street](/places/413-harmar-street-marietta/)** — the physical anchor of childhood memory on Chuck's father's side.
 
@@ -122,7 +122,7 @@ This place sits with the other Marietta Eesley addresses, **the four anchors of 
 
 - **[651 Sixth Street](#651-sixth-street)** — Will and Peggy's first Marietta house, the eight-year-remodel-old house Charlie grew up in (a place page is queued for this address).
 - **Highland Ridge Road** (this page) — Will's designed-and-built house, where Charlie raised Chuck.
-- **Seventh Street** (the [Grandma Peggy's house](/family/margaret-mcmaster-eesley/) of Chuck's after-school memory) — Peggy's widow's house after Will's 1986 death.
+- **[424 N 7th Street](/places/424-n-seventh-street-marietta/)** (the Grandma Peggy's house of Chuck's after-school memory) — Peggy's widow's house after Will's 1986 death.
 - **[413 Harmar Street](/places/413-harmar-street-marietta/)** — the *maternal* side anchor, on Robert Earl Wildermuth's family. The geographic counterpart across the river.
 
 ## The photographic record this page now holds

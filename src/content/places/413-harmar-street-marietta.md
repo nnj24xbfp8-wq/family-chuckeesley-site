@@ -4,7 +4,7 @@ village: "Marietta"
 region: "Washington County, Ohio"
 country: "United States"
 summary: "The three-bedroom brick-foundation house Earl Adam and Sadye Irene Wildermuth bought in 1929 — three blocks up from the Muskingum River, on the West Side of Marietta — and the central physical anchor of Robert Earl Wildermuth's childhood. The family lived there over fourteen years; four of Earl and Sadye's five children were born and raised there. It is the house Robert Earl's 1989 memoir opens its sustained passages from, and the venue of the 1937 Marietta flood story when four feet of water came in on the first floor and the wooden fireplace mantle floated off its base and broke every window."
-significance: "The maternal-side counterpart to the paternal Eesley family's Seventh Street and Highland Ridge houses in Marietta. The Wildermuth dream house — bought near the bottom of the Depression in 1929, lived in for fourteen-plus years, survived the 1937 Ohio River flood, eventually outgrown when Robert Earl shipped to the war in 1943. The street view of an immigrant-shoemaker grandson's family economic ascent."
+significance: "The maternal-side counterpart to the paternal Eesley family's 424 N 7th Street and Highland Ridge houses in Marietta. The Wildermuth dream house — bought near the bottom of the Depression in 1929, lived in for fourteen-plus years, survived the 1937 Ohio River flood, eventually outgrown when Robert Earl shipped to the war in 1943. The street view of an immigrant-shoemaker grandson's family economic ascent."
 status: photographed
 relatedPeople:
   - earl-a-wildermuth
@@ -44,7 +44,7 @@ The house — being three blocks from the Muskingum, at four feet on its brick f
 
 ## What the address meant
 
-The 1929 purchase was the family's deliberate economic step up — from the small West Side rental houses of Earl Adam's apprentice-machinist years into "their dream house." That a German-immigrant-shoemaker's grandson and a Fleming-line working-class father could buy a substantial three-bedroom house with a four-foot brick foundation in 1929 — at the bottom of the Depression — speaks to Earl Adam's steady factory wages and the family's frugality. It is the maternal-side equivalent of the paternal Eesley family's [Seventh Street house](/family/margaret-mcmaster-eesley/) and the later [Highland Ridge Road house](/family/wilbur-eesley/) on the Eesley side: the address where the children's adult identities formed.
+The 1929 purchase was the family's deliberate economic step up — from the small West Side rental houses of Earl Adam's apprentice-machinist years into "their dream house." That a German-immigrant-shoemaker's grandson and a Fleming-line working-class father could buy a substantial three-bedroom house with a four-foot brick foundation in 1929 — at the bottom of the Depression — speaks to Earl Adam's steady factory wages and the family's frugality. It is the maternal-side equivalent of the paternal Eesley family's [424 N 7th Street house](/places/424-n-seventh-street-marietta/) and the later [Highland Ridge Road house](/family/wilbur-eesley/) on the Eesley side: the address where the children's adult identities formed.
 
 The house outlasted Earl Adam and Sadye. By the time Sadye died in 1976 and Earl Adam followed in 1977, the family had moved to **320 Harmar Street** — a few addresses up the same street — where Robert Earl's blind brother Carl was living with their father in old age.
 

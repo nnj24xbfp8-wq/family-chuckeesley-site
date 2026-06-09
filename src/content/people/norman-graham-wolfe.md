@@ -50,7 +50,7 @@ From his **[Marietta Times obituary, 21 February 2015](/docs/norman-graham-wolfe
 
 ## 108 Hillcrest Drive — the table Chuck grew up at
 
-Per Chuck's memory: Uncle Norm and Aunt Betty Wolfe lived at **108 Hillcrest Drive in Marietta**, and **they hosted the Eesley family for many dinners across the years** — **Easter, Thanksgiving, and Christmas were often spent at their house.** The Hillcrest house was one of the two anchors of holiday family life in Chuck's childhood, alongside [Grandma Peggy's Seventh Street house](/family/margaret-mcmaster-eesley/).
+Per Chuck's memory: Uncle Norm and Aunt Betty Wolfe lived at **108 Hillcrest Drive in Marietta**, and **they hosted the Eesley family for many dinners across the years** — **Easter, Thanksgiving, and Christmas were often spent at their house.** The Hillcrest house was one of the two anchors of holiday family life in Chuck's childhood, alongside [Grandma Peggy's 424 N 7th Street house](/places/424-n-seventh-street-marietta/).
 
 The dinner-table layer of family memory across decades &mdash; three holidays a year compounding into thirty years' worth of holiday gatherings &mdash; is the way Aunt Betty and Uncle Norm carried the extended family. They raised **three daughters** of their own (Victoria Ann, Norma Jean, Peggy Sue) before retiring to Florida late in life, but their Marietta years had always had room at the table for nieces and nephews and great-nieces and great-nephews; their Hillcrest household ran on the same warm-host instinct Betty's own obituary names: *"She was an excellent cook and baker who loved to have people come for a meal. Everything was delicious."*
 

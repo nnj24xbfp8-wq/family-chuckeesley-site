@@ -59,7 +59,7 @@ The fullest portrait of him by far is the eulogy Chuck delivered at the memorial
 
 A few of the things that page carries that the obituary's prose does not: the pond, the dance Charlie suggested down the empty aisle of the Parkersburg–Cleveland leg, the firework that went into the pine tree, the stereo as the first thing Charlie bought when he came home from Vietnam, the CDs Chuck "stole" for college and then gave away to his cousin [Nooreen Rubin](/family/nooreen-rubin/), the late comment about losing weight in the form of his foot, the Hemingway line Chuck closed on: *"Everyone is broken by life, but afterward many are strong in the broken places."*
 
-The places Chuck named at the end of the eulogy &mdash; **the track at Marietta Middle School, the house on Highland Ridge, Grandma Peggy's house on 7th Street, any TV that can pull up CNBC** &mdash; are the places that should hold his name longest.
+The places Chuck named at the end of the eulogy &mdash; the track at Marietta Middle School, the house on [Highland Ridge](/places/highland-ridge-road-marietta/), [Grandma Peggy's house at 424 N 7th Street](/places/424-n-seventh-street-marietta/), any TV that can pull up CNBC &mdash; are the places that should hold his name longest.
 
 > _Biographical summary above draws on his published obituary at Cawley &amp; Peoples Funeral Home; the rest of the page comes from Chuck's eulogy._
 

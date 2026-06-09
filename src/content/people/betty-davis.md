@@ -73,7 +73,7 @@ Betty's death in July 2015 was the **second of three deaths in the immediate fam
 
 ## 108 Hillcrest Drive — the holiday table of Chuck's childhood
 
-Chuck remembers: **Aunt Betty and Uncle Norm lived at 108 Hillcrest Drive in Marietta**, and **they hosted the Eesley family for many dinners across the years &mdash; Easter, Thanksgiving, and Christmas were often spent at their house.** The Hillcrest house was one of the two anchors of holiday family life in Chuck's childhood, alongside Grandma Peggy's Seventh Street house.
+Chuck remembers: **Aunt Betty and Uncle Norm lived at 108 Hillcrest Drive in Marietta**, and **they hosted the Eesley family for many dinners across the years &mdash; Easter, Thanksgiving, and Christmas were often spent at their house.** The Hillcrest house was one of the two anchors of holiday family life in Chuck's childhood, alongside Grandma Peggy's 424 N 7th Street house.
 
 The pattern is the kind of small-town extended-family generosity that only family memory carries. Betty's own obituary frames it in two sentences her daughters wrote:
 
@@ -95,6 +95,6 @@ Betty's own obituary names the **Sixth Street Church of Christ** care arc direct
 
 ## What 108 Hillcrest meant
 
-A holiday table set three times a year for the extended family across decades; a sister hosting her sister's grandchildren's branch through a generation; a congregation-care house feeding the Marietta community whenever someone got sick. **The Hillcrest house was, in the Davis-Wildermuth side's family record, the equivalent of Grandma Peggy's Seventh Street house on the Eesley side** &mdash; the elder-generation house Chuck went to and was kept by.
+A holiday table set three times a year for the extended family across decades; a sister hosting her sister's grandchildren's branch through a generation; a congregation-care house feeding the Marietta community whenever someone got sick. **The Hillcrest house was, in the Davis-Wildermuth side's family record, the equivalent of Grandma Peggy's 424 N 7th Street house on the Eesley side** &mdash; the elder-generation house Chuck went to and was kept by.
 
 > *Sources: [Dale Eesley / FamilySearch — Betty Jean Davis (GMLH-TT8)](https://www.familysearch.org/tree/person/details/GMLH-TT8); [Marietta Times obituary, 16 September 2015](/docs/betty-jean-wolfe-obituary-2015/); [Norman Graham Wolfe obituary, Marietta Times, 21 February 2015](/docs/norman-graham-wolfe-obituary-2015/); [c. 1992 Davis-Angel family portrait](/archive/davis-angel-family-portrait-1992/); [2011 Thanksgiving at 108 Hillcrest photograph](/archive/norm-betty-wolfe-thanksgiving-2011/).*

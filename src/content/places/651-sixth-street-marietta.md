@@ -4,7 +4,7 @@ village: "Marietta"
 region: "Washington County, Ohio"
 country: "United States"
 summary: "The first of Will and Peggy Eesley's three Marietta addresses. The two-story blue clapboard house Will the architect bought c. 1950 and spent eight years remodeling around his growing family — with Maggie's bedroom in the former bathroom and Jeanne and Anne's in the former upstairs kitchen. The house Charlie Eesley's 1965 12th-grade autobiography names explicitly: 'where we are living now, at 651 Sixth Street.' Charlie grew up here from age three through his graduation from Marietta High School in 1965. The family moved to Highland Ridge Road later in the 1960s; Will then designed and built that next house himself."
-significance: "The first of the three Marietta houses in the Will-and-Peggy Eesley arc (Sixth Street → Highland Ridge → Seventh Street). Charlie's childhood house, documented in his 12th-grade autobiography. The paternal-side equivalent of Robert Earl Wildermuth's 413 Harmar Street on the maternal side."
+significance: "The first of the three Marietta houses in the Will-and-Peggy Eesley arc (651 Sixth Street → Highland Ridge → 424 N 7th Street). Charlie's childhood house, documented in his 12th-grade autobiography. The paternal-side equivalent of Robert Earl Wildermuth's 413 Harmar Street on the maternal side."
 status: photographed
 relatedPeople:
   - charles-eesley
@@ -53,7 +53,7 @@ Across the Will-and-Peggy Eesley arc:
 
 1. **651 Sixth Street** (this page) — c. 1950–late 1960s.
 2. **[Highland Ridge Road](/places/highland-ridge-road-marietta/)** — late 1960s onward, the house Will designed and built. Charlie inherited it and raised Chuck there.
-3. **Seventh Street** — Peggy's widow's house after Will's 1986 death. The "Grandma Peggy's house on 7th Street" of Chuck's childhood memory, named in the eulogy.
+3. **[424 N 7th Street](/places/424-n-seventh-street-marietta/)** — Peggy's widow's house after Will's 1986 death. The "Grandma Peggy's house on 7th Street" of Chuck's childhood memory, named in the eulogy.
 
 The three together span sixty years of family life, all within blocks of each other in Marietta. The **maternal-side equivalent** is **[413 Harmar Street](/places/413-harmar-street-marietta/)** on the Wildermuth side — Robert Earl's childhood dream house, also Marietta.
 
