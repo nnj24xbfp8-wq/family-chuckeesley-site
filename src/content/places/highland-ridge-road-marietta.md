@@ -57,11 +57,11 @@ visits:
       - ../../assets/family/originals/00000004_00000046_00000047.jpeg
     caption: "<strong>Young Chuck on the frozen pond at Highland Ridge.</strong> Confirmed by Chuck Eesley 2026. <strong>Young Chuck Eesley</strong> — about 12–15 — standing on the ice in dark pants and brown jacket, in winter, woods bare behind. <strong>This is the pond his father's <a href='/docs/eulogy-charles-mcmaster-eesley/'>eulogy</a> describes him breaking through as a smaller boy</strong> — the pond Charlie pulled him out of, his boots staying behind 'still stuck in the mud on the bottom to this day.' The photograph captures Chuck a few years older, the ice frozen solidly enough now to bear him, the boots presumably still in the mud below the surface he's standing on."
     alignmentNote: "The same pond at the center of one of the eulogy's most-quoted stories. The boots are still in the mud."
-  - year: "c. 1979–1985 (large family group portrait)"
+  - year: "c. 1973–1975 (Charles Leonard Eesley extended-family reunion — five of his eight children together)"
     images:
       - ../../assets/family/originals/00000004_00000047_00000048.jpeg
-    caption: "<strong>Large family group portrait outdoors at Highland Ridge.</strong> About thirteen figures arranged on a slope in casual summer clothes, multiple generations visible, smiling and informal. A labeled version of this photograph identifying every figure exists in the family archive and is being added to this site as its own <a href='/archive/highland-ridge-family-group-portrait-c-1980/'>dedicated artifact page</a> when the labeled scan is in hand."
-    alignmentNote: "Family-reunion-scale group portrait. Labeled version coming."
+    caption: "<strong>Charles Leonard Eesley extended-family reunion at Highland Ridge — full labeled cast of twelve.</strong> Five of Charles Leonard's eight children together: Leonard 'Len' Eesley, Donald Eesley, Wilbur 'Will' Eesley, Mary Eesley Bean, and Helen 'Little Helen' Burnes. Plus three of their spouses (Peggy McMaster Eesley, Peggy Yeoman Eesley, Big Helen Eesley), two of Helen Burnes's children (Katie and Roberta Burnes), Will's daughter Anne Eesley, and the Chenoweth-side cousin Mafry Smith Hyatt. Don Eesley died May 1975, so the reunion must precede that. The most important multi-sibling Charles Leonard Eesley reunion frame in this archive. Full cast and reference-box transcription on the <a href='/archive/highland-ridge-family-group-portrait-c-1980/'>dedicated artifact page</a>."
+    alignmentNote: "The mid-1970s reunion of Charles Leonard's surviving generation. Pre-May 1975 by Don Eesley's death constraint."
   - year: "c. 1980–1982 (young Chuck and the Chinese mural at Highland Ridge)"
     images:
       - ../../assets/family/originals/IMG_2635.jpeg
