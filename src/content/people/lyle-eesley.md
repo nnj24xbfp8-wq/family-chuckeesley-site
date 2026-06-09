@@ -16,6 +16,8 @@ summary: "Brother of Will Eesley. Born 12 August 1916 in Grove City, Ohio; died 
 
 Lyle Eesley was born **August 12, 1916**, in Grove City, Ohio &mdash; one of Charles Leonard and Lillie Dale Chenoweth Eesley's ten children. He died on **July 25, 1942**, at age **twenty-five**, in the **Cabanatuan Prison Camp** on Luzon in the Philippines, where the Imperial Japanese Army had concentrated American and Filipino prisoners of war captured during the fall of the Philippines.
 
+This is the WWII Lyle Eesley. Six years after his death, his brother Donald Stuart Eesley named his own first son [Lyle Stuart Eesley](/family/lyle-stuart-eesley/) (b. 9 January 1948) &mdash; the nephew who carries the name forward into the living family.
+
 That his name appears in the 1985 *Eesley Family History* with the bare facts and that place name — *"died July 25, 1942, Cabanatuan Prison Camp, Luzon, Philippines"* — is itself the family's record of what happened. Cabanatuan was the largest of the Japanese camps in the Philippines; the men who arrived there in mid-1942 had survived the Bataan Death March. The death rate in the first six months was catastrophic.
 
 ## What the rest of the family's wartime then looks like in light of this

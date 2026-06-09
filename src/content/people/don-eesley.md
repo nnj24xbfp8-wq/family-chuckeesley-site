@@ -20,7 +20,7 @@ summary: "Brother of Will Eesley; born 24 September 1908 in Lebanon, Ohio; died 
 Donald Stuart Eesley was born September 24, 1908 in Lebanon, Ohio — born almost the same year as his brother [James Michael "Mike"](/family/charles-leonard-eesley/) (October 26, 1908) — and died May 15, 1975 in Tulsa, Oklahoma. He married **Margaret Adelyne Youman** (born June 24, 1913) — and so the Eesleys of this generation had **two Peggys** in the family by marriage: Will's wife Peggy McMaster and Don's wife Margaret Adelyne Youman, both called Peggy.
 
 Don and Margaret had five children:
-- **Lyle Stuart Eesley** (b. January 9, 1948) — named for Don's brother who died at Cabanatuan, and whose son Daniel Stewart was born October 31, 1973
+- **[Lyle Stuart Eesley](/family/lyle-stuart-eesley/)** (b. January 9, 1948) — named for Don's brother who died at Cabanatuan, and whose son Daniel Stewart was born October 31, 1973
 - **Robert Douglas Eesley** (b. December 1, 1950)
 - **Marilyn Eesley** (b. December 24, 1951)
 - **Charles Stuart Eesley** (b. December 24, 1955)
