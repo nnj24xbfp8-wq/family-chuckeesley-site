@@ -1,9 +1,9 @@
 ---
-title: "Highland Ridge Road, Marietta — the house Will built"
-village: "Marietta"
+title: "Highland Ridge Road, Lowell — the house Will built"
+village: "Lowell"
 region: "Washington County, Ohio"
 country: "United States"
-summary: "The house Will Eesley the architect designed and built for his own family, with the orchard he planted and the small red bridge he constructed over the pond out back — the second of Peggy and Will's three Marietta addresses (after 651 Sixth Street and before Peggy's later 424 N 7th Street widow's house), and the house Charlie raised Chuck in across the 1980s and 1990s. The pond Chuck broke through while testing the ice in winter. The tractor Charlie flipped over on himself; John Arnold across the hundred-yard yard came to help him up. The house the eulogy named as one of 'the places that should hold his name longest.'"
+summary: "The house Will Eesley the architect designed and built for his own family, with the orchard he planted and the small red bridge he constructed over the pond out back — in Lowell, Ohio (a small village on the Muskingum River about 10 miles north of Marietta proper, in the same Washington County). The second of Peggy and Will's three Washington-County addresses (after the in-town 651 Sixth Street, Marietta and before Peggy's later 424 N 7th Street widow's house back in Marietta), and the house Charlie raised Chuck in across the 1980s and 1990s. Will the architect made his designed-and-built family house just out of town, on a wooded ridge above the river valley. The pond Chuck broke through while testing the ice in winter. The tractor Charlie flipped over on himself; John Arnold across the hundred-yard yard came to help him up. The house the eulogy named as one of 'the places that should hold his name longest.' Will Eesley died here on 2 June 1986 — his death record gives Lowell, Ohio as the place."
 significance: "Three-generation house — designed by the architect grandfather, raised the architect's son and his son. The orchard Will planted across decades, the small red bridge Will built that Charlie and Chuck later rebuilt together, the pond where Chuck almost died testing his weight on the ice, and the long drive across the property to John and Peggy Arnold's house the nearest hundred-yards away. The Eesley paternal-side counterpart to 413 Harmar Street on the maternal Wildermuth side."
 status: photographed
 relatedPeople:

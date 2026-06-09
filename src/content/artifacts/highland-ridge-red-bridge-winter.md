@@ -5,7 +5,7 @@ image: ../../assets/family/originals/bridge_highland_ridge.jpeg
 medium: "Color photograph (Kodachrome era)"
 dateCreated: "circa 1978–1985"
 sortDate: "1982-01-01"
-placeCreated: "Highland Ridge Road, Marietta, Washington County, Ohio (the Eesley family property)"
+placeCreated: "Highland Ridge Road, Lowell, Washington County, Ohio (the Eesley family property)"
 idNumber: "HIGHLAND-RIDGE-BRIDGE-WINTER"
 provenance: "Eesley family archive — transmitted by Chuck Eesley 2026."
 rights: "Family use; permission required for republication."

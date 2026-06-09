@@ -5,7 +5,7 @@ image: ../../assets/family/originals/00000004_00000047_00000048.jpeg
 medium: "Color photograph, outdoor on a grassy hillside slope"
 dateCreated: "c. 1979–1985"
 sortDate: "1982-07-01"
-placeCreated: "Highland Ridge Road, Marietta, Washington County, Ohio"
+placeCreated: "Highland Ridge Road, Lowell, Washington County, Ohio"
 idNumber: "CHARLES-LEONARD-EXTENDED-FAMILY-REUNION-C-1980"
 provenance: "Eesley family archive — transmitted by Chuck Eesley June 2026 with a fully labeled version giving every figure by name plus the Charles Leonard + Lilly Dale Chenoweth children-roster reference box."
 rights: "Family use; permission required for republication."

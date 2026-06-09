@@ -10,7 +10,7 @@ people:
   - margaret-mcmaster-eesley
 dateRange:
   start: "2015-12"
-summary: "Chuck's eulogy for his father, delivered at the memorial service for Charles McMaster Eesley in late 2015. Marietta, Ohio — the church on 7th Street, the house on Highland Ridge Road, the track at Marietta Middle School. The most personal document Chuck has contributed to the archive in his own voice."
+summary: "Chuck's eulogy for his father, delivered at the memorial service for Charles McMaster Eesley in late 2015. Marietta and Lowell, Ohio — the church on 7th Street in Marietta, the house on Highland Ridge Road in Lowell, the track at Marietta Middle School. The most personal document Chuck has contributed to the archive in his own voice."
 source: "Delivered by Chuck Eesley at the memorial service for Charles McMaster Eesley, Marietta, Ohio, late 2015. Originally written and contributed by Chuck Eesley."
 ---
 

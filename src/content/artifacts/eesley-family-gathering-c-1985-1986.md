@@ -5,7 +5,7 @@ image: ../../assets/family/originals/00000000_00000022_IMG_0022.jpeg
 medium: "Color photograph, outdoor on a lawn before trees"
 dateCreated: "c. 1985–1986"
 sortDate: "1985-07-01"
-placeCreated: "presumed Highland Ridge Road, Marietta, Washington County, Ohio"
+placeCreated: "presumed Highland Ridge Road, Lowell, Washington County, Ohio"
 idNumber: "EESLEY-FAMILY-GATHERING-1985"
 provenance: "Eesley family archive — transmitted by Chuck Eesley June 2026."
 rights: "Family use; permission required for republication."

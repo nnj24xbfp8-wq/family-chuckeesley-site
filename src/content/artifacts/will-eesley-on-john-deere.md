@@ -4,7 +4,7 @@ type: "Photograph"
 image: ../../assets/family/originals/00000000_00000026_00000027.jpeg
 medium: "Color photograph"
 dateCreated: "circa 1970s (presumed — late-life Will at the Highland Ridge house he designed)"
-placeCreated: "Highland Ridge Road, Marietta, Ohio (presumed — the house and orchard Will designed and planted)"
+placeCreated: "Highland Ridge Road, Lowell, Ohio (presumed — the house and orchard Will designed and planted)"
 idNumber: "WILL-EESLEY-JOHN-DEERE"
 provenance: "Eesley family archive."
 rights: "Family use; permission required for republication."

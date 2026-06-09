@@ -4,7 +4,7 @@ type: "Photograph"
 image: ../../assets/family/originals/00000001_00000018_00000019.jpeg
 medium: "Color print, family scrapbook"
 dateCreated: "c. 1983–1984"
-placeCreated: "Highland Ridge Road, Marietta, Ohio"
+placeCreated: "Highland Ridge Road, Lowell, Ohio"
 idNumber: "BAIN-READING-1984"
 provenance: "Family scrapbook, Terrie and Charles M. Eesley's household."
 rights: "Family use; permission required for republication."
