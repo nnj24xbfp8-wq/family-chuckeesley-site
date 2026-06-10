@@ -24,7 +24,7 @@ people:
 
 ## The cast — left to right per the caption
 
-> *Helen "Little Helen" Burnes Eesley; Katie Burnes (Helen Burnes' daughter); Mary Eesley Bean, Donald Eesley; Roberta Burnes Walker (Helen Burnes' daughter); Anne Eesley; Peggy McMaster Eesley; Mafry Smith Hyatt (daughter of Lilly Chenoweth Eesley's sister, Dr. Sciota "Ota" Chenoweth Smith); Wilbur Chenoweth Eesley; Helen "Big Helen" Eesley (Len's wife); Peggy Yeoman Eesley; Len Eesley*
+> *Helen "Little Helen" Burnes Eesley; Katie Burnes (Helen Burnes' daughter); Mary Eesley Bean, Donald Eesley; Roberta Burnes (Helen Burnes' daughter); Anne Eesley; Peggy McMaster Eesley; Mafry Smith Hyatt (daughter of Lilly Chenoweth Eesley's sister, Dr. Sciota "Ota" Chenoweth Smith); Wilbur Chenoweth Eesley; Helen "Big Helen" Eesley (Len's wife); Peggy Yeoman Eesley; Len Eesley*
 
 Three generations of the Charles Leonard Eesley descendants in one frame:
 
@@ -45,7 +45,7 @@ Three generations of the Charles Leonard Eesley descendants in one frame:
 **The next generation** (Charles Leonard's grandchildren):
 - **Anne Eesley** — Will and Peggy's daughter (Chuck's aunt)
 - **Katie Burnes** — Helen Burnes's daughter (Chuck's first cousin once removed)
-- **[Roberta Burnes Walker](/family/roberta-burnes/)** — Helen Burnes's daughter (Chuck's first cousin once removed; the keeper of the 1940s Charles Leonard correspondence)
+- **[Roberta Burnes](/family/roberta-burnes/)** — Helen Burnes's daughter (Chuck's first cousin once removed; the keeper of the 1940s Charles Leonard correspondence)
 
 **A visiting cousin from the Chenoweth line**:
 - **Mafry Smith Hyatt** — daughter of **Dr. Sciota "Ota" Chenoweth Smith**, [Lillie Dale Chenoweth Eesley's older sister](/family/scioto-mafry-chenoweth/). **This caption is the family's confirmation that Sciota Chenoweth herself was the medical doctor** the family memory recalled — *"daughter of Lilly Chenoweth Eesley's sister, Dr. Sciota 'Ota' Chenoweth Smith."* The "Dr." in front of Sciota's name in the caption is the family's definitive documentation that the family's first-female-MD memory points to her.

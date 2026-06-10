@@ -37,6 +37,6 @@ The GEDCOM records at least five children:
 
 ## Photograph in the archive
 
-The only image of her placed here so far is the formal portrait scanned by Roberta Burnes Walker's brother John Walker from the family CD; an artifact entry with Maggie's catalogue metadata is queued separately.
+The only image of her placed here so far is the formal portrait scanned by Roberta Burnes's husband John Walker from the family CD; an artifact entry with Maggie's catalogue metadata is queued separately.
 
-> *Sources: Maggie Eesley, *Four Generations of the Eesley Family* (PowerPoint archive); deck ID `MOT001 en`; photograph provenance Roberta Burnes Walker via brother John Walker. Structured record: [Dale Eesley / FamilySearch &mdash; Mary O. Timmons (KCCC-MTP)](https://www.familysearch.org/tree/person/details/KCCC-MTP).*
+> *Sources: Maggie Eesley, *Four Generations of the Eesley Family* (PowerPoint archive); deck ID `MOT001 en`; photograph provenance Roberta Burnes via husband John Walker. Structured record: [Dale Eesley / FamilySearch &mdash; Mary O. Timmons (KCCC-MTP)](https://www.familysearch.org/tree/person/details/KCCC-MTP).*

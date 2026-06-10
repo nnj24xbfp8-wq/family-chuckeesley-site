@@ -34,7 +34,7 @@ The label below the photograph lists the twelve figures left to right:
 2. **[Katie Burnes](/family/katie-burnes/)** &mdash; Helen Burnes's daughter.
 3. **[Mary (Eesley) Bean](/family/mary-eesley-bean/)** &mdash; Will's older sister, author of the 1985 *Eesley Family History* register.
 4. **[Donald "Don" Eesley](/family/don-eesley/)** &mdash; Will's older brother.
-5. **[Roberta (Burnes) Walker](/family/roberta-burnes/)** &mdash; Helen Burnes's daughter, Katie's sister, keeper of the 1940s Eesley letter collection.
+5. **[Roberta Burnes](/family/roberta-burnes/)** &mdash; Helen Burnes's daughter, Katie's sister, keeper of the 1940s Eesley letter collection.
 6. **[Anne Eesley](/family/anne-eesley/)** &mdash; Will and Peggy's second daughter, the scholar of Spanish who would teach at Hillsdale, The Citadel, and Grand Valley State.
 7. **[Peggy (McMaster) Eesley](/family/margaret-mcmaster-eesley/)** &mdash; Will's wife, Chuck's paternal grandmother.
 8. **[Mafry Smith Hyatt](/family/mafry-smith-hyatt/)** &mdash; *"Dad's cousin"* &mdash; daughter of Lilly Chenoweth Eesley's sister **Dr. Sciota "Ota" Chenoweth Smith**, the physician of the older generation.
@@ -72,7 +72,7 @@ The print's annotation box lists the Charles Leonard + Lilly Dale Chenoweth chil
 > *Helen Eesley Burnes (16 Jan 1924 to 1 Jun 2000)*
 > *Jean Eesley (1926—1930)*
 
-The roster is itself a small piece of family-history scholarship by whoever annotated the print &mdash; almost certainly **Roberta Burnes Walker**, who has carried the Charles Leonard documentary layer further than anyone else in the next generation.
+The roster is itself a small piece of family-history scholarship by whoever annotated the print &mdash; almost certainly **Roberta Burnes**, who has carried the Charles Leonard documentary layer further than anyone else in the next generation.
 
 ## Why c. 1979–1985
 

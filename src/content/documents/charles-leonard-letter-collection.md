@@ -1,6 +1,6 @@
 ---
 title: "The 1940s Charles Leonard Eesley letter collection"
-teaser: "A large body of Charles Leonard Eesley's wartime correspondence in his own hand, held by his granddaughter Roberta Burnes Walker — almost indecipherable, not yet read or digitized; the single most consequential undeciphered source still to come."
+teaser: "A large body of Charles Leonard Eesley's wartime correspondence in his own hand, held by his granddaughter Roberta Burnes — almost indecipherable, not yet read or digitized; the single most consequential undeciphered source still to come."
 type: letter-collection
 author: charles-leonard-eesley
 people:
@@ -18,13 +18,13 @@ dateRange:
   start: "1940"
   end: "1949"
 sortDate: "1942-07-01"
-summary: "A large body of correspondence written in the 1940s by Charles Leonard Eesley (1879–1972) — the Bexley, Ohio patriarch of the Eesley line through Lillie Dale Chenoweth Eesley. Held by his granddaughter Roberta Burnes Walker and her brother John Walker. Written almost entirely in Charles Leonard's hand, which Roberta has characterized as 'almost indecipherable.' The collection has not been read, transcribed, scanned, or digitized; nothing from it appears on this site. It is the single most consequential undeciphered source still to come — the wartime years it would document include Uncle Lyle Eesley's July 1942 death at Cabanatuan, Stella Sunn's arrival in the Bexley household within months of that death, and the scattered-children correspondence Charles Leonard kept up with his adult sons and daughters across the country."
-source: "Held by Roberta Burnes Walker; first described in a July 2019 family email Roberta sent to Chuck Eesley and other family members."
+summary: "A large body of correspondence written in the 1940s by Charles Leonard Eesley (1879–1972) — the Bexley, Ohio patriarch of the Eesley line through Lillie Dale Chenoweth Eesley. Held by his granddaughter Roberta Burnes and her husband John Walker. Written almost entirely in Charles Leonard's hand, which Roberta has characterized as 'almost indecipherable.' The collection has not been read, transcribed, scanned, or digitized; nothing from it appears on this site. It is the single most consequential undeciphered source still to come — the wartime years it would document include Uncle Lyle Eesley's July 1942 death at Cabanatuan, Stella Sunn's arrival in the Bexley household within months of that death, and the scattered-children correspondence Charles Leonard kept up with his adult sons and daughters across the country."
+source: "Held by Roberta Burnes; first described in a July 2019 family email Roberta sent to Chuck Eesley and other family members."
 ---
 
 ## What this collection is
 
-Roberta Burnes Walker holds, in her own description from a July 2019 family email, *"a huge collection of mostly 1940s letters [that] may shed some light on this"* — *this* being the unresolved family-history question of how [Stella Sunn](/family/stella/) came to live with the Eesleys in Bexley, Ohio. The letters are written almost entirely in the hand of her grandfather [Charles Leonard Eesley](/family/charles-leonard-eesley/), the patriarch of the line through [Lillie Dale Chenoweth Eesley](/family/lillie-dale-chenoweth/). His handwriting, Roberta has said, is *"almost indecipherable."* The collection has not been read, transcribed, scanned, or digitized. Nothing from it appears on this site.
+Roberta Burnes holds, in her own description from a July 2019 family email, *"a huge collection of mostly 1940s letters [that] may shed some light on this"* — *this* being the unresolved family-history question of how [Stella Sunn](/family/stella/) came to live with the Eesleys in Bexley, Ohio. The letters are written almost entirely in the hand of her grandfather [Charles Leonard Eesley](/family/charles-leonard-eesley/), the patriarch of the line through [Lillie Dale Chenoweth Eesley](/family/lillie-dale-chenoweth/). His handwriting, Roberta has said, is *"almost indecipherable."* The collection has not been read, transcribed, scanned, or digitized. Nothing from it appears on this site.
 
 It is, at the same time, the single most consequential undeciphered source still to come for the Eesley side of this archive.
 
@@ -81,4 +81,4 @@ If at some point Roberta were willing to do a partial scan-and-transcribe pass �
 
 The collection's existence is the thing this page records. The contents are still waiting.
 
-> *Source: Roberta Burnes Walker's July 2019 family email to Chuck Eesley and other family members. All claims about the collection on this archive flow from that single description; no letter from the collection has been read or photographed.*
+> *Source: Roberta Burnes's July 2019 family email to Chuck Eesley and other family members. All claims about the collection on this archive flow from that single description; no letter from the collection has been read or photographed.*
