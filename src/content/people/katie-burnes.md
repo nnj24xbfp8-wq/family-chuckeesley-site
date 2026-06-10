@@ -17,8 +17,8 @@ Katie married into the **McKeel family** and took her husband's surname. She is 
 
 ## In the reunion portrait
 
-She appears at the left side of the [c. 1970s Eesley extended family reunion portrait](/archive/eesley-extended-family-reunion-portrait-1970s/) — a young woman seated, identified in the typed caption simply as *"Katie Burnes (Helen Burnes' daughter)."*
+She appears at the left side of the [c. 1970s Eesley extended family reunion portrait](/archive/highland-ridge-family-group-portrait-c-1980/) — a young woman seated, identified in the typed caption simply as *"Katie Burnes (Helen Burnes' daughter)."*
 
 Details otherwise withheld &mdash; living.
 
-> *Sources: family-naming correction direct from Roberta Burnes, June 2026; [c. 1970s Eesley extended family reunion portrait](/archive/eesley-extended-family-reunion-portrait-1970s/) typed caption.*
+> *Sources: family-naming correction direct from Roberta Burnes, June 2026; [c. 1970s Eesley extended family reunion portrait](/archive/highland-ridge-family-group-portrait-c-1980/) typed caption.*

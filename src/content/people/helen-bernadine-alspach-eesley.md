@@ -25,7 +25,7 @@ The Alspach surname is of **German-American Pennsylvania origin** — Pfalz / W�
 
 ## The reunion portrait
 
-She appears at the right-center of the **[c. 1970s Eesley extended family reunion portrait](/archive/eesley-extended-family-reunion-portrait-1970s/)** — identified in the typed caption as *"Helen 'Big Helen' Eesley (Len's wife)."* In her early seventies in the photograph, she would have been twelve years widowed in Minnesota at the time she came down for the Marietta-or-elsewhere reunion.
+She appears at the right-center of the **[c. 1970s Eesley extended family reunion portrait](/archive/highland-ridge-family-group-portrait-c-1980/)** — identified in the typed caption as *"Helen 'Big Helen' Eesley (Len's wife)."* In her early seventies in the photograph, she would have been twelve years widowed in Minnesota at the time she came down for the Marietta-or-elsewhere reunion.
 
 ## The 1986 ending
 
@@ -33,4 +33,4 @@ She died **July 1986** in **Hennepin County, Minnesota** (the Minneapolis area),
 
 She is **Chuck's great-aunt by marriage** on the paternal Eesley side.
 
-> *Source: [Dale Eesley / FamilySearch — Helen Bernadine Alspach (LY62-XPG)](https://www.familysearch.org/tree/person/details/LY62-XPG); [c. 1970s Eesley extended family reunion portrait](/archive/eesley-extended-family-reunion-portrait-1970s/) typed caption.*
+> *Source: [Dale Eesley / FamilySearch — Helen Bernadine Alspach (LY62-XPG)](https://www.familysearch.org/tree/person/details/LY62-XPG); [c. 1970s Eesley extended family reunion portrait](/archive/highland-ridge-family-group-portrait-c-1980/) typed caption.*

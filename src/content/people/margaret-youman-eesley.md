@@ -29,8 +29,8 @@ She married **Don Eesley** (b. 24 September 1908 Lebanon OH; d. 15 May 1975) on 
 
 ## In the reunion portrait
 
-She appears second from the right in the **[c. 1970s Eesley extended family reunion portrait](/archive/eesley-extended-family-reunion-portrait-1970s/)** — identified in the typed caption as *"Aunt Peggy Yeoman Eesley."* In her early sixties in the photograph; her husband Don had recently died (May 1975) so the reunion was likely her first post-widowhood visit to the extended-Eesley family gathering.
+She appears second from the right in the **[c. 1970s Eesley extended family reunion portrait](/archive/highland-ridge-family-group-portrait-c-1980/)** — identified in the typed caption as *"Aunt Peggy Yeoman Eesley."* In her early sixties in the photograph; her husband Don had recently died (May 1975) so the reunion was likely her first post-widowhood visit to the extended-Eesley family gathering.
 
 She is **Chuck's great-aunt by marriage** on the paternal Eesley side.
 
-> *Source: [Dale Eesley / FamilySearch — Margaret Adeline Youman (LBZX-4TP)](https://www.familysearch.org/tree/person/details/LBZX-4TP); [c. 1970s Eesley extended family reunion portrait](/archive/eesley-extended-family-reunion-portrait-1970s/) typed caption.*
+> *Source: [Dale Eesley / FamilySearch — Margaret Adeline Youman (LBZX-4TP)](https://www.familysearch.org/tree/person/details/LBZX-4TP); [c. 1970s Eesley extended family reunion portrait](/archive/highland-ridge-family-group-portrait-c-1980/) typed caption.*

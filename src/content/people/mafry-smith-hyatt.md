@@ -19,7 +19,7 @@ Her **last name "Smith"** is from her father, **Dr. Lewis Albert Smith** (1874�
 
 ## In the c. 1970s family reunion portrait
 
-Mafry appears as one of the named figures in the **[c. 1970s Eesley extended family reunion portrait](/archive/eesley-extended-family-reunion-portrait-1970s/)**. The typed caption identifies her specifically as:
+Mafry appears as one of the named figures in the **[c. 1970s Eesley extended family reunion portrait](/archive/highland-ridge-family-group-portrait-c-1980/)**. The typed caption identifies her specifically as:
 
 > *Mafry Smith Hyatt (daughter of Lilly Chenoweth Eesley's sister, Dr. Sciota "Ota" Chenoweth Smith)*
 
@@ -31,4 +31,4 @@ Sciota Chenoweth Smith died in February 1930. **Mafry is the only person in this
 
 This page is a stub. Mafry's birth and death dates, her husband's name, her own life story, and any direct contributions to the Sciota-Chenoweth medical biography are all queued research.
 
-> *Source: [c. 1970s Eesley extended family reunion portrait](/archive/eesley-extended-family-reunion-portrait-1970s/) — typed caption identification by the family. Transmitted by Chuck Eesley 2026. See also the broader [Chenoweth Family Association](https://www.chenowethsite.org/) genealogical resources for the Chenoweth surname network this family belongs to.*
+> *Source: [c. 1970s Eesley extended family reunion portrait](/archive/highland-ridge-family-group-portrait-c-1980/) — typed caption identification by the family. Transmitted by Chuck Eesley 2026. See also the broader [Chenoweth Family Association](https://www.chenowethsite.org/) genealogical resources for the Chenoweth surname network this family belongs to.*

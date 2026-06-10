@@ -27,7 +27,7 @@ Maggie Eesley's *Four Generations* archive carries this single line:
 
 > *One of her daughters was named after the Sciota River and went on to become one of the first women medical doctors in the United States in the late 1800's.*
 
-A **second documentary source** &mdash; the typed caption on the [c. 1970s Eesley extended-family reunion portrait](/archive/eesley-extended-family-reunion-portrait-1970s/), which Chuck transmitted to this archive in 2026 &mdash; identifies one of the cousins in that portrait as:
+A **second documentary source** &mdash; the typed caption on the [c. 1970s Eesley extended-family reunion portrait](/archive/highland-ridge-family-group-portrait-c-1980/), which Chuck transmitted to this archive in 2026 &mdash; identifies one of the cousins in that portrait as:
 
 > *Mafry Smith Hyatt (daughter of Lilly Chenoweth Eesley's sister, **Dr. Sciota "Ota" Chenoweth Smith**)*
 
