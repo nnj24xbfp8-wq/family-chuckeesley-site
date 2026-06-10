@@ -7,9 +7,13 @@ spouses:
 summary: "Lijie's maternal great-grandmother. Wife of Fengting Li; mother of Zhongchu Li and his three siblings."
 ---
 
+<p class="not-prose my-4 p-3 border-l-4 border-rule bg-ink/5 text-sm"><strong>📖 本页含中文版本 — <a href="#zh">点此跳至中文 ↓</a></strong> &nbsp;·&nbsp; <em>This page has a Chinese version below.</em></p>
+
 Wife of [Fengting Li](/family/fengting-li/); through her the Qiu maiden line enters Lijie's tree, though her own family history is not yet documented here.
 
 ---
+
+<a id="zh"></a>
 
 ## 中文
 

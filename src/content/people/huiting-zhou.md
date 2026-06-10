@@ -7,9 +7,13 @@ spouses:
 summary: "Lijie's paternal great-great-grandfather. Father of Maoli Zhou. The deepest documented Zhou-side ancestor in this archive at the moment."
 ---
 
+<p class="not-prose my-4 p-3 border-l-4 border-rule bg-ink/5 text-sm"><strong>📖 本页含中文版本 — <a href="#zh">点此跳至中文 ↓</a></strong> &nbsp;·&nbsp; <em>This page has a Chinese version below.</em></p>
+
 Zhou Huiting is named in the GEDCOM as Maoli Zhou's father — Lijie's paternal great-great-grandfather. No birth or death dates yet; the line back from him is still to be researched.
 
 ---
+
+<a id="zh"></a>
 
 ## 中文
 

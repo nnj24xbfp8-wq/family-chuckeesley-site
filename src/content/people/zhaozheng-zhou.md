@@ -11,11 +11,15 @@ parents:
 summary: "Lijie's paternal great-uncle — brother of her grandfather Zhaoxiang Zhou. Born 1938 in Jiaozhou Shi. Married Su Ying Xian."
 ---
 
+<p class="not-prose my-4 p-3 border-l-4 border-rule bg-ink/5 text-sm"><strong>📖 本页含中文版本 — <a href="#zh">点此跳至中文 ↓</a></strong> &nbsp;·&nbsp; <em>This page has a Chinese version below.</em></p>
+
 Zhaozheng was born in Jiaozhou Shi eight years after his elder brother [Zhaoxiang](/family/zhaoxiang-zhou/) and the same region the Zhou family came from. Married Su Ying Xian. Living status not yet recorded.
 
 > *Structured record: [FamilySearch — Zhaozheng Zhou (GM1Y-9DX)](https://www.familysearch.org/tree/person/details/GM1Y-9DX).*
 
 ---
+
+<a id="zh"></a>
 
 ## 中文
 

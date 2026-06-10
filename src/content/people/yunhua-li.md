@@ -13,11 +13,15 @@ spouses:
 summary: "Lijie's maternal great-aunt. Sister of Zhongchu Li (Lijie's grandfather). Born 30 June 1911 in Qingdao. Married Yaofu Shang — brother of Yaozhen Shang (Lijie's grandmother). The marriage of these two siblings to the Lis' two siblings is the Shang-Li intermarriage pattern at this generational layer."
 ---
 
+<p class="not-prose my-4 p-3 border-l-4 border-rule bg-ink/5 text-sm"><strong>📖 本页含中文版本 — <a href="#zh">点此跳至中文 ↓</a></strong> &nbsp;·&nbsp; <em>This page has a Chinese version below.</em></p>
+
 Yunhua was the eldest sibling on the Li side at this generation, born **30 June 1911 in Qingdao** &mdash; ten years before her brother [Zhongchu](/family/zhongchu-li/) (Lijie's grandfather). She married **[Yaofu Shang](/family/yaofu-shang/)** &mdash; brother of [Yaozhen Shang](/family/yaozhen-shang/) (Lijie's grandmother) &mdash; making her also Lijie's great-aunt by marriage on the Shang side. This is the [Shang-Li double intermarriage](/family/yaofu-shang/) at the great-aunt/uncle generation.
 
 > *Structured record: [FamilySearch — Yunhua Li (G9QD-KZD)](https://www.familysearch.org/tree/person/details/G9QD-KZD).*
 
 ---
+
+<a id="zh"></a>
 
 ## 中文
 

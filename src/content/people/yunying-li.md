@@ -10,9 +10,13 @@ spouses:
 summary: "Lijie's maternal great-aunt; sister of Zhongchu Li (Lijie's grandfather). Married Jiaxiang Yang."
 ---
 
+<p class="not-prose my-4 p-3 border-l-4 border-rule bg-ink/5 text-sm"><strong>📖 本页含中文版本 — <a href="#zh">点此跳至中文 ↓</a></strong> &nbsp;·&nbsp; <em>This page has a Chinese version below.</em></p>
+
 Married Jiaxiang Yang; birth and death not yet recorded.
 
 ---
+
+<a id="zh"></a>
 
 ## 中文
 

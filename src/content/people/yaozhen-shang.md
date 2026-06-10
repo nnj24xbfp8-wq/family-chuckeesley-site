@@ -12,6 +12,8 @@ spouses:
 summary: "Lijie's maternal grandmother. Born 11 September 1921 in Qingdao — the same year and the same city as her future husband Zhongchu Li. Outlived her husband by more than thirty years and lived to see her granddaughter Lijie grow up. Died 10 January 2013, age 91."
 ---
 
+<p class="not-prose my-4 p-3 border-l-4 border-rule bg-ink/5 text-sm"><strong>📖 本页含中文版本 — <a href="#zh">点此跳至中文 ↓</a></strong> &nbsp;·&nbsp; <em>This page has a Chinese version below.</em></p>
+
 Shang Yaozhen was born in Qingdao on **11 September 1921**, three days before her future husband [Zhongchu Li](/family/zhongchu-li/). They had three children, including [Lijie's mother Xun Li](/family/xun-li/) (b. 1956). Her husband died in 1982; she lived another **thirty years** as a widow, and watched her granddaughter Lijie grow from infancy through young adulthood. She died **10 January 2013**, age 91.
 
 She is the one grandparent on Lijie's side who lived to meet her granddaughter — and Chuck.
@@ -21,6 +23,8 @@ The earliest photograph of her in this archive is the c. 1986–87 family-table 
 > *Structured record: [FamilySearch &mdash; Yaozhen Shang (GMGD-CVV)](https://www.familysearch.org/tree/person/details/GMGD-CVV).*
 
 ---
+
+<a id="zh"></a>
 
 ## 中文
 

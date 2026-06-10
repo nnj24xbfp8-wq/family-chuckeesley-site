@@ -30,6 +30,8 @@ pairs:
     echoCaption: "Chuck and Lijie at the same gate, <strong>29 May 2019</strong> &mdash; same visit as the frame to the left, the pose echoed by the daughter and her husband one generation on.<br /><br /><strong>中文：</strong>Chuck与Lijie于同一座山门前，<strong>2019年5月29日</strong> &mdash; 与左侧合影摄于同次探访；下一代以女儿与女婿之姿重摄上一代之合影。"
 ---
 
+<p class="not-prose my-4 p-3 border-l-4 border-rule bg-ink/5 text-sm"><strong>📖 本页含中文版本 — <a href="#zh">点此跳至中文 ↓</a></strong> &nbsp;·&nbsp; <em>This page has a Chinese version below.</em></p>
+
 **Lingyin Temple (灵隐寺)** &mdash; "Temple of the Soul's Retreat" &mdash; is one of the oldest and largest Chan Buddhist monasteries in China, founded in **AD 328** in the western hills of Hangzhou. It is among the most-visited Buddhist sites in the country and the architectural anchor of the West Lake / Feilai Feng cultural landscape.
 
 For this archive, Lingyin matters as the **three-frame echo** above: the same temple gate, three photographs across 37 years. The first is the **1982 honeymoon** &mdash; [Ling Zhou](/family/ling-zhou/) and [Xun Li](/family/xun-li/), [Lijie 周丽婕](/family/lijie-zhou/)'s parents, just after their wedding in [Qingdao](/places/qingdao/). The second is their **return** to the same gate on **29 May 2019**. The third, taken on the same 2019 visit, is **[Chuck](/family/charles-eric-eesley/) and Lijie in the same pose** &mdash; the daughter and her husband standing where her parents had stood, deliberately reframing the honeymoon pose one generation on.
@@ -37,6 +39,8 @@ For this archive, Lingyin matters as the **three-frame echo** above: the same te
 It is the Zhou-side equivalent of the Wildermuth pilgrimages to the [Rielingshausen church](/places/rielingshausen-church/) and the [Marbach / Wildermuthstraße street sign](/places/marbach-wildermuthstrasse/), with the additional grace note that the third frame was made by the next generation themselves, on the same trip as the second.
 
 ---
+
+<a id="zh"></a>
 
 ## 中文
 

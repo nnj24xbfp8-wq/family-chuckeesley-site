@@ -26,6 +26,8 @@ summary: "An essay reading across the archive for the values, practices, and les
 source: "Written by Chuck Eesley, June 2026, as a synthesis pass across the existing archive."
 ---
 
+<p class="not-prose my-4 p-3 border-l-4 border-rule bg-ink/5 text-sm"><strong>📖 本页含中文版本 — <a href="#zh">点此跳至中文 ↓</a></strong> &nbsp;·&nbsp; <em>This page has a Chinese version below.</em></p>
+
 ## What this essay is doing
 
 Most of what's in this archive is the **what** — names, dates, places, photographs, the [Vietnam letters](/docs/letters-from-vietnam/), the [eulogies](/docs/eulogy-charles-mcmaster-eesley/), the [memoirs](/docs/robert-earl-wildermuth-memoir/), the [photo deck](/docs/dale-eesley-familysearch-tree/). What follows is a pass at the **why**: a reading-across of the archive for the values, practices, and lessons that show up on more than one page and across more than one generation — the threads, in other words, that the family has actually handed down.
@@ -136,6 +138,8 @@ The threads above are what the family has actually been passing down. The archiv
 > *Written by Chuck Eesley, June 2026 — a synthesis pass across the existing archive. Each thread is anchored to specific people, documents, and places. The pages those anchors point to are the underlying record; this essay is the cross-reading.*
 
 ---
+
+<a id="zh"></a>
 
 # 中文 — 家族的九条线索
 

@@ -12,6 +12,8 @@ living: true
 summary: "Lijie's father. Son of Zhaoxiang Zhou (1930–2022) and Yunzhe Sun (d. 2023). Married Xun Li in 1982 in Qingdao."
 ---
 
+<p class="not-prose my-4 p-3 border-l-4 border-rule bg-ink/5 text-sm"><strong>📖 本页含中文版本 — <a href="#zh">点此跳至中文 ↓</a></strong> &nbsp;·&nbsp; <em>This page has a Chinese version below.</em></p>
+
 Details withheld &mdash; living. Father of [Lijie 周丽婕](/family/lijie-zhou/).
 
 The portrait at the head of this page shows Ling Zhou in a **People's Police-style service uniform** with red epaulets, standing beside a young Lijie (~10) in a red pinafore over a white turtleneck &mdash; an indoor flash photograph from the early 1990s, the years he was a working public-safety officer in Qingdao and his daughter was in primary school. It is, as of this writing, the only photograph in the archive of the two of them together. Full artifact entry with provenance and bilingual context: [Ling Zhou with teenage Lijie, c. 1990s](/archive/ling-zhou-with-teen-lijie-1990s/).
@@ -40,6 +42,8 @@ The story is among the most consequential single-action narratives this archive 
 > *Structured record: [Dale Eesley & Chuck Eesley / FamilySearch &mdash; Ling Zhou (GMLK-9RP)](https://www.familysearch.org/tree/person/details/GMLK-9RP).*
 
 ---
+
+<a id="zh"></a>
 
 ## 中文
 

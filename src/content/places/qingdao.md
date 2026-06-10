@@ -25,6 +25,8 @@ visits:
       - ../../assets/family/originals/IMG_0998.jpeg
 ---
 
+<p class="not-prose my-4 p-3 border-l-4 border-rule bg-ink/5 text-sm"><strong>📖 本页含中文版本 — <a href="#zh">点此跳至中文 ↓</a></strong> &nbsp;·&nbsp; <em>This page has a Chinese version below.</em></p>
+
 Qingdao sits on the southern coast of the Shandong peninsula, on the Yellow Sea. It is the geographic anchor of [Lijie 周丽婕](/family/lijie-zhou/)'s family as so far documented &mdash; both grandparents on her [father's side](/family/zhaoxiang-zhou/) (in adulthood) and both on her [mother's side](/family/zhongchu-li/) (in birth and life) are Qingdao people, her parents were born and raised here, and she was born here in 1983.
 
 The city's modern history is comparatively recent in Chinese terms. Qingdao was a small fishing village until **1897**, when the German Empire took the surrounding Kiautschou Bay as a leased concession; the Germans laid out the city's central plan, planted the European-style architecture that defines downtown to this day, and founded what is now &mdash; under the same name &mdash; the **Tsingtao Brewery (1903)**. Japan held the city through the First World War period; the Republic of China recovered it; the People's Republic has held it since 1949. The German concession period left a legible architectural and infrastructural imprint that the rest of the city was built around through the 20th century.
@@ -34,6 +36,8 @@ Lijie's own Qingdao childhood is anchored in the **Shinan district (市南区)**
 The deeper Chinese ancestry the Zhou family carries is from [**Jiaozhou Shi**](/family/zhaoxiang-zhou/), just inland from Qingdao on the same peninsula &mdash; centuries-older as an administrative center and the ancestral place of Lijie's paternal grandfather Zhaoxiang.
 
 ---
+
+<a id="zh"></a>
 
 ## 中文
 
