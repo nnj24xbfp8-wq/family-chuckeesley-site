@@ -22,7 +22,7 @@ people:
   - charles-eric-eesley
 dateRange:
   start: "2026"
-summary: "An essay reading across the archive for the values, practices, and lessons that have been passed down through the Eesley, Wildermuth, McMaster, Fleming, and Zhou lines. Seven threads named, each anchored to specific people, documents, and places in this archive."
+summary: "An essay reading across the archive for the values, practices, and lessons that have been passed down through the Eesley, Wildermuth, McMaster, Fleming, and Zhou lines. Eight threads named, each anchored to specific people, documents, and places in this archive."
 source: "Written by Chuck Eesley, June 2026, as a synthesis pass across the existing archive."
 ---
 
@@ -82,11 +82,27 @@ The pattern is **kinship as a practice rather than an identity**. The people who
 
 The lesson: **show up regularly for the people you love, and the people you love will widen to include the ones you keep showing up for**.
 
+## 8. Place-and-language as a durable, multi-generational curiosity — Japan and China
+
+The seventh thread (showing up) is about who. This one is about where. The family has, across at least three generations, returned again and again to the same two countries — Japan and China — not as tourists but as **inhabitants, students, language-learners, researchers, and in-laws**. The pattern is more sustained than vacation; it reads as a real cultural commitment.
+
+On the **Japan** side, the thread runs through three generations explicitly named on [my own person page](/family/charles-eric-eesley/):
+
+- [Robert Earl and Dottie Wildermuth](/family/robert-earl-wildermuth/) were posted at **[Itazuke Air Base in Fukuoka from 1965 to 1968](/places/itazuke-air-base/)** — the three-year tour that produced Robert Earl's career-defining squadron turnaround and gave my mother [Terrie](/family/terrie-lee-eesley/) the high-school years in Japan named in her 2017 obituary: *"Terrie traveled the U.S. and Japan until graduating high school."* The [high school graduation photograph](/archive/terrie-high-school-graduation-japan/) is the closing image of that childhood.
+- On the **Eesley side**, Will and Peggy had also **traveled to Japan** — when the Wildermuth and Eesley families first met (around Charlie and Terrie's courtship), the conversation found its way to Japan because all four parents had traveled there and shared an interest in the country. The shared Japan thread was one of the first common cultural notes between the two in-law families.
+- I **teach one week each summer at Kobe University** and have **published research on entrepreneurship in Japan** — the continuing third-generation expression of an interest that has been in the family since the 1960s.
+
+On the **China** side, the thread is younger but moving the same way. Lijie was born in [Qingdao](/places/qingdao/) — the Yellow Sea port city whose central plan was laid out by the German Empire in 1898 — and grew up in the **German-concession quarter** with [St Michael's Cathedral](/places/qingdao/) at the end of her elementary-school block. Her [parents](/family/ling-zhou/)' [1982 honeymoon at Lingyin Temple in Hangzhou](/places/lingyin-temple-hangzhou/) is the Zhou side's founding pilgrimage image; she and I went back in **2019** and made [the matching frame at the same gate](/places/lingyin-temple-hangzhou/), with my own frame at the **[清華園 (Tsinghua University) main gate](/archive/chuck-at-tsinghua/)** on a separate Beijing trip as the closest Chinese counterpart to my Stanford appointment. The Zhou-side pages of this archive carry **中文 sections** on every entry — the practice of making the family record itself bilingual, rather than translating it later, is the data-model version of the same value.
+
+Two countries, three generations on the Japan side, two on the China side, and the same posture in both cases: **the family inhabits these places rather than visits them**. They are not foreign in the family's life; they are second and third homes.
+
+The lesson: **the world is a much smaller place when you keep going back to the same parts of it**, and the curiosity that drives that going-back compounds across generations as durably as Peggy's investing did.
+
 ---
 
 ## A closing observation
 
-Reading these seven threads back at the same time, what's striking is that **none of them is unique to one side of the family**. Education, patience, documentation, returning to places, service, humor, daily presence — every one of them is exemplified on the Eesley side, on the Wildermuth/Fleming side, and now on the Zhou side as well. The archive's structural choice to give a [Zhou ancestor](/family/zhaoxiang-zhou/) the same person-page shape as an [Eesley ancestor](/family/wilbur-eesley/), to treat [Lingyin Temple](/places/lingyin-temple-hangzhou/) and [Rielingshausen church](/places/rielingshausen-church/) as the same kind of object, was a values choice before it was a data-model one.
+Reading these eight threads back at the same time, what's striking is that **none of them is unique to one side of the family**. Education, patience, documentation, returning to places, service, humor, daily presence, the Japan-and-China curiosity — every one of them is exemplified on the Eesley side, on the Wildermuth/Fleming side, and now on the Zhou side as well. The archive's structural choice to give a [Zhou ancestor](/family/zhaoxiang-zhou/) the same person-page shape as an [Eesley ancestor](/family/wilbur-eesley/), to treat [Lingyin Temple](/places/lingyin-temple-hangzhou/) and [Rielingshausen church](/places/rielingshausen-church/) as the same kind of object, was a values choice before it was a data-model one.
 
 The threads above are what the family has actually been passing down. The archive is the latest instance of one of them — thread #3, the writing-things-down-for-future-people — being practiced again. The hope, in the line Robert Earl left at the end of his last manuscript, is that whoever reads this in another generation will recognize themselves in some of it, and add their own.
 
