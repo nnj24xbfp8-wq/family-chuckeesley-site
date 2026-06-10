@@ -22,7 +22,7 @@ people:
   - charles-eric-eesley
 dateRange:
   start: "2026"
-summary: "An essay reading across the archive for the values, practices, and lessons that have been passed down through the Eesley, Wildermuth, McMaster, Fleming, and Zhou lines. Nine threads named, each anchored to specific people, documents, and places in this archive."
+summary: "An essay reading across the archive for the values, practices, and lessons that have been passed down through the Eesley, Wildermuth, McMaster, Fleming, and Zhou lines. Ten threads named, each anchored to specific people, documents, and places in this archive."
 source: "Written by Chuck Eesley, June 2026, as a synthesis pass across the existing archive."
 ---
 
@@ -125,11 +125,33 @@ Two things knit the whole thread together. First, **every named crossing in the 
 
 The lesson: **when the next thing is not where you currently are, go — and then make sure someone in the next generation knows where you came from so they can come back to it for both of you.**
 
+## 10. Building things — entrepreneurship across four generations (and the present generation as its student)
+
+This is the thread that begins as a literal practice and ends, in this generation, as an academic subject — a turn worth naming explicitly, because the family's own habit has become the family's own research program.
+
+The **canonical historical instance** is [**John F. Eesley**](/family/john-f-eesley/). He bought a roller rink in Plainwell, Michigan in **1887**, converted it into a flour mill, and grew it under the *Sunshine Brand Flour* label into the **second-largest producer of buckwheat flour in the United States** at its peak — producing up to six hundred barrels a day. In 1903–04 he literally **physically divided the timber-frame mill building, moved it to a new site, and merged it with an existing grain elevator**. The building is now [listed on the National Register of Historic Places](/places/plainwell-eesley-mill/) and is the only piece of physical Eesley infrastructure that survives into the present. It is the family surname *on a building, on a federal register*, at the close of a single life's entrepreneurial work.
+
+On the **Wildermuth side**, [**Johann Michael Wildermuth**](/family/johann-michael-wildermuth/) arrived in Marietta in **1847 at sixteen** and built up the **shoe trade with William Rossar of Baden** — a small-town immigrant business that established the family in southeastern Ohio for the next century and a half. The two founding 19th-century moves — *Württemberg → shoe trade in Marietta*, *Stratford → flour mill in Plainwell* — share the same shape: arrive, learn a trade, build something that didn't exist before you got there.
+
+Albert Robert Eesley's earlier crossing into the **[Goldie milling business in Ontario](/family/albert-robert-eesley/)** is the parallel case — he didn't found a mill himself, but he went to **work for and marry into** a Scottish-Canadian milling family that had built one. The milling-and-trade-building pattern runs across both branches of the Eesley line.
+
+The thread continues in the **20th century**:
+
+- [**Will Eesley**](/family/wilbur-eesley/) built **two architectural firms** — **Scott and Eesley** first, then **Eesley, Lee, Vargo and Cassady** — across a career in Marietta. The man literally **designed and built buildings for a living**, including (off-hours) the [Highland Ridge Road house](/family/wilbur-eesley/) he raised his family in. Architectural practice as a form of entrepreneurship, with the firm itself as the structure being built.
+- [**Charlie Eesley**](/family/charles-eesley/) was a **stockbroker** for The Ohio Company and later Hazlett, Burt & Watson — a self-directed financial profession in which you build your own book of clients over decades. The eulogy quote about Peggy's investing has its hidden subtext here: Charlie was a broker *because his mother had been a serious investor first.*
+- [**Peggy McMaster Eesley**](/family/margaret-mcmaster-eesley/) was the family's **investing strategist** before any of these jobs were named — her decades-long, patient capital allocation funded the retirement travel and the next generation's education. Personal investing as the household-scale version of the same impulse: build a structure that produces returns over a long horizon.
+
+And in the **present generation**, the thread turns reflective in a striking way. **I am a [Stanford faculty member](/family/charles-eric-eesley/) whose research field is entrepreneurship itself** — *W. M. Keck Foundation Faculty Scholar in Management Science & Engineering at Stanford University*, with published work on entrepreneurship in Japan and elsewhere. The family practice of building businesses — John F. Eesley's flour mill, Johann Michael's shoe trade, Will's firms, Charlie's brokerage, Peggy's portfolio — has become, in my own working life, **the subject of the family's academic study**.
+
+This is not a coincidence and not a small thing. It is what happens when a thread runs long enough across a family that one generation starts noticing it explicitly and turns it into a research program. There is something Yeatsian about it: *how can we know the dancer from the dance?* The family has been entrepreneurially building things for two centuries, and the present generation has gone meta on the pattern.
+
+The lesson: **build things — businesses, firms, portfolios, mills, research programs. The family's habit has been to make something that didn't exist before, at whatever scale the generation can manage, and to let it run for as long as it can run. The Plainwell mill is still on the National Register; that is what "as long as it can run" looks like.**
+
 ---
 
 ## A closing observation
 
-Reading these nine threads back at the same time, what's striking is that **none of them is unique to one side of the family**. Education, patience, documentation, returning to places, service, humor, daily presence, the Japan-and-China curiosity, the crossing impulse — every one of them is exemplified on the Eesley side, on the Wildermuth/Fleming side, and now on the Zhou side as well. The archive's structural choice to give a [Zhou ancestor](/family/zhaoxiang-zhou/) the same person-page shape as an [Eesley ancestor](/family/wilbur-eesley/), to treat [Lingyin Temple](/places/lingyin-temple-hangzhou/) and [Rielingshausen church](/places/rielingshausen-church/) as the same kind of object, was a values choice before it was a data-model one.
+Reading these ten threads back at the same time, what's striking is that **none of them is unique to one side of the family**. Education, patience, documentation, returning to places, service, humor, daily presence, the Japan-and-China curiosity, the crossing impulse, and the entrepreneurial habit of building things — every one of them is exemplified on the Eesley side, on the Wildermuth/Fleming side, and now on the Zhou side as well. The archive's structural choice to give a [Zhou ancestor](/family/zhaoxiang-zhou/) the same person-page shape as an [Eesley ancestor](/family/wilbur-eesley/), to treat [Lingyin Temple](/places/lingyin-temple-hangzhou/) and [Rielingshausen church](/places/rielingshausen-church/) as the same kind of object, was a values choice before it was a data-model one.
 
 The threads above are what the family has actually been passing down. The archive is the latest instance of one of them — thread #3, the writing-things-down-for-future-people — being practiced again. The hope, in the line Robert Earl left at the end of his last manuscript, is that whoever reads this in another generation will recognize themselves in some of it, and add their own.
 
