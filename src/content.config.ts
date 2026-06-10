@@ -51,6 +51,7 @@ const documents = defineCollection({
         'travelogue',
         'register',
         'ancestor-sketch',
+        'essay',                                   // a cross-cutting reflective piece (e.g. family-threads)
         'letter',
         'letter-collection',                       // a curated set of letters w/ introduction
         'eulogy',
