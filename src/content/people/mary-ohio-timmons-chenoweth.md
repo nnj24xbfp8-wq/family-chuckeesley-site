@@ -13,8 +13,7 @@ parents:
   - john-k-timmons
 spouses:
   - joseph-hill-chenoweth
-portrait: ../../assets/family/maggie-deck/mary-ohio-timmons-chenoweth.jpeg
-summary: "Mother of Lillie Dale Chenoweth Eesley; Chuck's great-great-grandmother on the Chenoweth side. Born March 1845 in Ohio. Married Joseph Hill Chenoweth on 25 November 1864 in Franklin County, Ohio. The structured record gives her name as 'Mary O.' — Maggie Eesley's deck expands the O. to Ohio with the etymology note that Ohio means 'beautiful river.' One of her daughters, Scioto Mafry Chenoweth, was named after the river and became, in family memory, one of the first women medical doctors in the United States in the late 1800s. Daughter of John K. Timmons; mother of at least five children. FamilySearch ID KCCC-MTP."
+summary: "Mother of Lillie Dale Chenoweth Eesley; Chuck's great-great-grandmother on the Chenoweth side. Born March 1845 in Ohio. Married Joseph Hill Chenoweth on 25 November 1864 in Franklin County, Ohio. The structured record gives her name as 'Mary O.' — Maggie Eesley's deck expands the O. to Ohio with the etymology note that Ohio means 'beautiful river.' One of her daughters, Scioto Mafry Chenoweth, was named after the river and became, in family memory, one of the first women medical doctors in the United States in the late 1800s. Daughter of John K. Timmons; mother of at least five children. FamilySearch ID KCCC-MTP. The portrait previously displayed on this page (from Maggie's *Four Generations* deck, labeled there as Mary Timmons Chenoweth) has been retracted — Roberta Burnes confirmed in June 2026 that the woman in that photograph is a friend of Mary's, not Mary herself, and is labeled as such in Roberta's family album. Two correctly-identified photographs of Mary Timmons Chenoweth and one of Lillie Dale Chenoweth as a child are en route from Roberta and will land here next."
 ---
 
 Mary O. Timmons was born in **March 1845** in Ohio, daughter of [John K. Timmons](/family/john-k-timmons/). The structured record gives her name as **Mary O.**; Aunt Maggie Eesley's *Four Generations* archive expands it to **Mary Ohio** with the etymology note that **"Ohio" means "beautiful river"** in the Iroquoian tongue from which it was borrowed &mdash; given to her, the family memory holds, "to honor the state in which she was born." Whether her middle name was actually Ohio on her birth certificate or whether the family had expanded the initial O. into a meaning over the generations is itself a small open question worth flagging.
@@ -35,8 +34,15 @@ The GEDCOM records at least five children:
 - **Elsie Chenoweth** &mdash; not yet a person entry.
 - **Dwight Kennedy Chenoweth** (1880&ndash;1957) &mdash; not yet a person entry; died in Biloxi, Mississippi.
 
-## Photograph in the archive
+## Photograph in the archive — retracted, June 2026
 
-The only image of her placed here so far is the formal portrait scanned by Roberta Burnes's husband John Walker from the family CD; an artifact entry with Maggie's catalogue metadata is queued separately.
+The portrait that previously appeared on this page &mdash; carried into the archive through Maggie Eesley's *Four Generations* deck under the label **Mary Timmons Chenoweth** &mdash; was reviewed against Roberta Burnes's family album in June 2026 and is **not** Mary Timmons Chenoweth. It is a friend of hers, **labeled as such in Roberta's album**, and was misidentified somewhere between the album and Maggie's deck. The retraction is the kind that matters: a face we had been associating with Chuck's great-great-grandmother is in fact someone else entirely. The misattributed scan is held back from this page until the friend's actual identity is known.
 
-> *Sources: Maggie Eesley, *Four Generations of the Eesley Family* (PowerPoint archive); deck ID `MOT001 en`; photograph provenance Roberta Burnes via husband John Walker. Structured record: [Dale Eesley / FamilySearch &mdash; Mary O. Timmons (KCCC-MTP)](https://www.familysearch.org/tree/person/details/KCCC-MTP).*
+Three correctly-identified Chenoweth-line photographs are en route from Roberta and will land here next:
+
+- **Two portraits of Mary Timmons Chenoweth herself** &mdash; the first known photographs of her in this archive that have been confirmed against the family album label.
+- **One portrait of [Lillie Dale Chenoweth](/family/lillie-dale-chenoweth/) as a child** &mdash; an early image of the Chenoweth matriarch, captured before she became Lillie Dale Chenoweth Eesley.
+
+Roberta has also noted that the same family album includes photographs of Mary's father, of Joseph Hill Chenoweth's father [Elijah Chenoweth](/family/elijah-chenoweth/), and Mary's own 1862 teacher's certificate &mdash; the document that says she was a teacher in central Ohio at age seventeen, during the second year of the Civil War.
+
+> *Sources: Mary Bean, [Eesley Family History](/docs/eesley-family-history-1985/); structured record [Dale Eesley / FamilySearch &mdash; Mary O. Timmons (KCCC-MTP)](https://www.familysearch.org/tree/person/details/KCCC-MTP); portrait retraction and incoming-photograph notice from Roberta Burnes, June 2026.*
