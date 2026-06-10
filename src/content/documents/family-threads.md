@@ -22,7 +22,7 @@ people:
   - charles-eric-eesley
 dateRange:
   start: "2026"
-summary: "An essay reading across the archive for the values, practices, and lessons that have been passed down through the Eesley, Wildermuth, McMaster, Fleming, and Zhou lines. Ten threads named, each anchored to specific people, documents, and places in this archive."
+summary: "An essay reading across the archive for the values, practices, and lessons that have been passed down through the Eesley, Wildermuth, McMaster, Fleming, and Zhou lines. Ten threads named, each anchored to specific people, documents, and places in this archive, with a parallel Chinese version below."
 source: "Written by Chuck Eesley, June 2026, as a synthesis pass across the existing archive."
 ---
 
@@ -60,13 +60,38 @@ The archive's entire **"then-and-now pair"** structure — every place page in t
 
 The lesson: **going back is itself a form of remembering**, and worth the airfare.
 
-## 5. Service — civic, military, sustained across decades
+## 5. Service, stewardship, and giving — civic, military, faith-grounded, sustained across the generations and now bilateral
 
-Robert Earl flew B-24s over Biak, Leyte, and Mindoro in 1944–45, came home, finished Stanford, served Korea, served the Pentagon, retired a lieutenant colonel. [Charlie](/family/charles-eesley/) shipped to [Saigon](/places/saigon-1970/) in 1969 and rotated out in 1971; the year shaped him for the rest of his life. [Lyle Eesley](/family/lyle-eesley/) died as a POW at Cabanatuan in 1942. But military service is only half of it. [Will Eesley](/family/wilbur-eesley/) sat on Marietta's Tree Commission and Bicentennial Commission, was past president of the Kiwanis Club, sat on the Betsey Mills Advisory Board. [Peggy](/family/margaret-mcmaster-eesley/) was director of Christian education at First Congregational UCC, active in PEO, the Betsey Mills Club, the Junior Reading Club. Charlie sat on the church board and managed its endowment, *"believed strongly in the responsibility of voting."* [Terrie](/family/terrie-lee-eesley/) taught **23 years** in the Marietta City Schools and ran Safety Town in summers.
+This thread has two faces that are really one practice. The **time face** is service: spending your hours on institutions outside your own household. The **resource face** is stewardship: looking after money, attention, and faith-grounded structures that are not first about yourself. In the family record they appear together more often than they appear separately. I've named them as one thread for that reason.
 
-The cross-generational pattern is not just *"some of us went to war."* It is that **the family, across every generation in the record, has spent significant time on unpaid work for institutions and communities outside its own household** — churches, schools, civic boards, the wider American polity. Service is, in this lineage, a normal way to spend an adult life.
+The **military service** record is the most cited dimension. [Robert Earl Wildermuth](/family/robert-earl-wildermuth/) flew B-24s over Biak, Leyte, and Mindoro in 1944–45, came home, finished Stanford, served Korea, served the Pentagon, retired a lieutenant colonel. [Charlie](/family/charles-eesley/) shipped to [Saigon](/places/saigon-1970/) in 1969 and rotated out in 1971; the year shaped him for the rest of his life. [Lyle Eesley](/family/lyle-eesley/) died as a POW at Cabanatuan in 1942.
 
-The lesson: **you owe the wider world some of your time, and the form doesn't have to be the wall in Washington — it can be the church endowment, the Safety Town summer, the Bicentennial Commission, the vote**.
+The **civic service** record is wider and more sustained. [Will Eesley](/family/wilbur-eesley/) sat on Marietta's Tree Commission and Bicentennial Commission, was past president of the Kiwanis Club, sat on the Betsey Mills Advisory Board. [Peggy](/family/margaret-mcmaster-eesley/) was active in PEO, the Betsey Mills Club, the Junior Reading Club. [Terrie](/family/terrie-lee-eesley/) taught **23 years** in the Marietta City Schools and ran Safety Town in summers — the closest thing to a civic-service-as-vocation in the lineage.
+
+The **faith-grounded stewardship** record runs straight through **First Congregational United Church of Christ in Marietta**, the institution that has functioned as a family seat across four generations:
+
+- Will served on the church's **business committee for many years** — the architect's hand applied to the church's administrative life.
+- Peggy was **director of Christian education** at First Congregational and a member of the **Dana Philathia Class** for years — the faith-and-education join in one role; she ran the program that taught the church's children.
+- Charlie sat on the church board and **helped manage the church's endowment funds** — bringing the stockbroker's hand to the church's financial life, applying the same investing discipline his mother had taught him *to a pool of money that wasn't his own and wasn't meant to be.* **Stewardship in the literal sense**: looking after something you do not own. He also *"believed strongly in the responsibility of voting,"* which is its civic-life counterpart — same posture, different institution.
+- [**Terrie's memorial service**](/family/terrie-lee-eesley/) was held in the same First Congregational sanctuary with the Rev. Linda Steelman officiating — the same minister who had buried Peggy a decade earlier. The church that had been the family's giving home was also the building where the family's losses were named.
+
+The act of [**Charles Leonard Eesley bringing Stella from Hawaii**](/archive/eesley-family-group-portrait-late-1940s/) into the Bexley household during WWII reads in this thread too — a faith-grounded act of *selfless* refuge for a young person who was not a blood relative and was at real risk on the West Coast. Stewardship of another person's life. *"Sent macadamia nuts back from Hawaii for years"* is the rest of that thread told from her end.
+
+In the **present generation**, the practice has gone **global and bilateral**. **Lijie and I founded the [Zhou & Eesley Family Foundation](https://zhoueesleyfoundation.com) in January 2021** — a private family foundation supporting **computer science and entrepreneurship education in communities mainstream programs overlook**. The Foundation's stated commitments — *"We follow the partners, not a template. We support, we don't extract. We invest as well as grant"* — are the exact posture Charlie used in managing the First Congregational endowment, just at a different scope.
+
+Five years in, the work has reached eight communities — [**Molokai**](https://www.zhoueesleyfoundation.com/programs/molokai/), [**Taiwan**](https://www.zhoueesleyfoundation.com/programs/taiwan/), [**Vietnam**](https://www.zhoueesleyfoundation.com/programs/vietnam/), [**Malaysia**](https://www.zhoueesleyfoundation.com/programs/malaysia/), [**Tanzania**](https://www.zhoueesleyfoundation.com/programs/tanzania/), [**Uganda**](https://www.zhoueesleyfoundation.com/programs/uganda/), the [**MIT MEET program in Jerusalem**](https://www.zhoueesleyfoundation.com/programs/meet/), and the founding partnership at [**San Francisco State University**](https://www.zhoueesleyfoundation.com/programs/sfsu/) — with [**Paris**](https://www.zhoueesleyfoundation.com/programs/paris/) and the [**Philippines**](https://www.zhoueesleyfoundation.com/programs/philippines/) added more recently. The 2025 Penang program alone trained ~25 teachers reaching ~2,500 students — a 100:1 multiplier per teacher. Across the Foundation's work and the Stanford and online courses we teach, our co-founders have reached more than **200,000 students globally**.
+
+The continuity is exact in its underlying logic, even with the form translated:
+
+- **Faith** in the Eesley generations was Congregational Christianity — a particular tradition with particular sanctuaries. In the present generation it has widened to **faith in education itself** as the most durable form of selfless giving, across religions and political lines (the MEET program brings together Israeli and Palestinian students; the work in Tanzania, Malaysia, Vietnam, and Uganda crosses every major faith the families involved practice).
+- **Stewardship** was the church endowment — running money you do not own toward the long-term welfare of an institution you serve. The Foundation runs the same practice at wider scope: mission-related investments alongside grants, *"following the partners, not a template"* in exactly the spirit Charlie used to manage the church endowment for the next generation of Marietta's congregation.
+- **Selfless service** in the Eesley generations was Peggy teaching the church's children for years, Charlie on the board for years, Will on the business committee for years. In the present generation it is **Lijie's four-month [ASPIRAS AI cohort with fifteen Malaysian non-profits](https://www.zhoueesleyfoundation.com/programs/malaysia/)**, *"long-term relationships with the people doing the work on the ground,"* and the explicit Foundation commitment to *"support, not extract"* — not to brand the work, not to take credit.
+
+Robert Earl, on the Wildermuth side, expressed the same impulse differently: his retirement spent **teaching and researching the family back to the early 1700s in Württemberg** was an act of unpaid stewardship of the family's record itself — a different object of care, but the same posture toward giving without expecting return.
+
+The Foundation's tagline — *"Education in the places that need it most"* — is the same sentence Peggy might have written about her work at First Congregational, just scaled up by a few orders of magnitude and made bilateral.
+
+The lesson: **you owe the wider world some of your time and some of what you have been entrusted with — and the form doesn't have to be the wall in Washington. It can be the church endowment, the Safety Town summer, the Bicentennial Commission, the vote, the Foundation, the four-month cohort. The resources you hold — money, time, attention, faith — were given to you in trust by people you cannot pay back. The way you pay them back is by passing what you have to people who can't pay you back either.**
 
 ## 6. Humor — especially dry, especially under hard things — as a transmitted inheritance
 
@@ -153,7 +178,7 @@ The lesson: **build things — businesses, firms, portfolios, mills, research pr
 
 ## A closing observation
 
-Reading these ten threads back at the same time, what's striking is that **none of them is unique to one side of the family**. Education, patience, documentation, returning to places, service, humor, daily presence, the Japan-and-China curiosity, the crossing impulse, and the entrepreneurial habit of building things — every one of them is exemplified on the Eesley side, on the Wildermuth/Fleming side, and now on the Zhou side as well. The archive's structural choice to give a [Zhou ancestor](/family/zhaoxiang-zhou/) the same person-page shape as an [Eesley ancestor](/family/wilbur-eesley/), to treat [Lingyin Temple](/places/lingyin-temple-hangzhou/) and [Rielingshausen church](/places/rielingshausen-church/) as the same kind of object, was a values choice before it was a data-model one.
+Reading these ten threads back at the same time, what's striking is that **none of them is unique to one side of the family**. Education, patience, documentation, returning to places, service-and-stewardship (now running from the First Congregational endowment to the Zhou & Eesley Family Foundation), humor, daily presence, the Japan-and-China curiosity, the crossing impulse, and the entrepreneurial habit of building things — every one of them is exemplified on the Eesley side, on the Wildermuth/Fleming side, and now on the Zhou side as well. The archive's structural choice to give a [Zhou ancestor](/family/zhaoxiang-zhou/) the same person-page shape as an [Eesley ancestor](/family/wilbur-eesley/), to treat [Lingyin Temple](/places/lingyin-temple-hangzhou/) and [Rielingshausen church](/places/rielingshausen-church/) as the same kind of object, was a values choice before it was a data-model one.
 
 The threads above are what the family has actually been passing down. The archive is the latest instance of one of them — thread #3, the writing-things-down-for-future-people — being practiced again. The hope, in the line Robert Earl left at the end of his last manuscript, is that whoever reads this in another generation will recognize themselves in some of it, and add their own.
 
@@ -163,7 +188,7 @@ The threads above are what the family has actually been passing down. The archiv
 
 <a id="zh"></a>
 
-# 中文 — 家族的九条线索
+# 中文 — 家族的十条线索
 
 ## 这篇文章想做什么
 
@@ -197,13 +222,38 @@ The threads above are what the family has actually been passing down. The archiv
 
 教诲是：**回去看看本身就是一种纪念**，机票钱花得值。
 
-## 五、服务 —— 公民的、军事的，几十年如一日
+## 五、服务、托管、与给予 —— 公民的、军事的、有信仰底色的，几十年如一日，到了我们这一代又走向了双边
 
-我外祖父在1944到1945年间，驾驶 B-24 重型轰炸机飞过比亚克、莱特、民都洛的天空，战后回国念完斯坦福，又服役于朝鲜，又服役于五角大楼，最后以中校军衔退役。[我父亲查尔斯](/family/charles-eesley/) 在1969年被派往 [西贡](/places/saigon-1970/)，1971年轮换回国；那一年塑造了他余下的整个人生。我的二叔祖 [莱尔·伊斯利](/family/lyle-eesley/) 在1942年作为战俘，死于菲律宾卡帕南死亡营。但兵役只是这条线索的一半。我的祖父 [威尔·伊斯利](/family/wilbur-eesley/) 在玛丽埃塔市的城市绿化委员会和建市两百周年纪念委员会任职，曾任基瓦尼俱乐部主席，也在贝齐·米尔斯顾问董事会任职。祖母 [佩姬](/family/margaret-mcmaster-eesley/) 在玛丽埃塔第一公理教会担任宗教教育主任，活跃于美国姐妹会、贝齐·米尔斯俱乐部、少年读书会。我父亲在教会董事会任职、管理教会的捐赠基金，*"坚信投票是公民的责任"*。我母亲 [特丽](/family/terrie-lee-eesley/) 在玛丽埃塔市学区教了 **二十三年**，夏天还要兼办"安全城"。
+这条线索其实有两个面，但其实是同一种实践。**时间这一面**，叫做"服务"：把自己的时间花在自己家庭之外的机构上。**资源这一面**，叫做"托管"：照管那些**首先不属于自己**的钱、关注、和有信仰底色的结构。这两面在家族的记录里，几乎总是一起出现，所以我把它们写成同一条线索。
 
-这条横跨代际的模式，不是"我们家有几个人参了军"那么简单。它说的是 &mdash; **从档案中的每一代人来看，他们都把自己人生中的一大块时间，花在了为家庭之外的机构和社区做的、没有报酬的工作上** &mdash; 教会、学校、市政委员会、整个美国公共体系。**服务**在这一脉里，是大人花时间的一种正常方式。
+**兵役**那一面，是被援引最多的一个维度。[我外祖父罗伯特·厄尔·维尔德穆斯](/family/robert-earl-wildermuth/) 在1944到1945年间，驾驶 B-24 重型轰炸机飞过比亚克、莱特、民都洛的天空，战后回国念完斯坦福，又服役于朝鲜，又服役于五角大楼，最后以中校军衔退役。[我父亲查尔斯](/family/charles-eesley/) 在1969年被派往 [西贡](/places/saigon-1970/)，1971年轮换回国；那一年塑造了他余下的整个人生。我的二叔祖 [莱尔·伊斯利](/family/lyle-eesley/) 在1942年作为战俘，死于菲律宾卡帕南死亡营。
 
-教诲是：**你欠这个更大的世界一部分自己的时间，形式不一定是华盛顿越战纪念墙上的那一条名字** &mdash; 也可以是教会的捐赠基金、夏天的安全城、建市两百周年委员会、一张选票。
+**公民服务**那一面，更宽，也更持久。我的祖父 [威尔·伊斯利](/family/wilbur-eesley/) 在玛丽埃塔市的城市绿化委员会和建市两百周年纪念委员会任职，曾任基瓦尼俱乐部主席，也在贝齐·米尔斯顾问董事会任职。祖母 [佩姬](/family/margaret-mcmaster-eesley/) 活跃于美国姐妹会、贝齐·米尔斯俱乐部、少年读书会。我母亲 [特丽](/family/terrie-lee-eesley/) 在玛丽埃塔市学区教了 **二十三年**，夏天还要兼办"安全城" &mdash; 在这一脉里，这是最接近"把公民服务当成事业"的一种形态。
+
+**有信仰底色的托管**那一面，沿着 **玛丽埃塔的第一公理教会（First Congregational United Church of Christ）**展开 &mdash; 这是一座**跨越四代、一直作为家族精神之家**的机构：
+
+- 威尔**多年在教会的事务委员会任职** &mdash; 建筑师的手，应用于教会的行政生活。
+- 佩姬**长期担任教会的宗教教育主任**，是 **Dana Philathia Class** 的成员，做了很多年 &mdash; **"信仰与教育"这个连接在她这里最直白**：她负责的，是教会教育孩子们的整套课程。
+- 我父亲查理在教会董事会任职，**协助管理教会的捐赠基金** &mdash; 他把股票经纪人的手，带到了教会的金融生活里，用从母亲那里学来的投资纪律，**去打理一笔不属于他自己、也不应当属于他自己的资金**。**这就是字面意义上的"托管"**：照管一件你并不拥有的东西。他还*"坚信投票是公民的责任"* &mdash; 这是同一种姿态在公共生活面上的对应。
+- [**我母亲特丽的追思礼拜**](/family/terrie-lee-eesley/)，就在同一座第一公理教会的圣殿里举行，由琳达·斯蒂尔曼牧师主持 &mdash; 也就是十年前为佩姬主持过追思礼拜的同一位牧师。**这座家族多年来"给予"的所在，也是家族失去亲人时被点名追忆的所在**。
+
+[**查尔斯·伦纳德·伊斯利**](/family/charles-leonard-eesley/) 在二战期间 [**把 Stella 从夏威夷接到俄亥俄州贝克斯利的家中**](/archive/eesley-family-group-portrait-late-1940s/) 这件事，也属于这条线索 &mdash; 这是一个**有信仰底色的、无私的庇护行动**，对象是一位与他没有血缘关系、却在美国西海岸面临真实危险的年轻人。**对另一条人命的托管**。*"许多年里都从夏威夷往回寄夏威夷果"* 是这条线索从她那一端讲完的部分。
+
+到了**我们这一代**，同样的实践已经**走向了全球，并且变成了双边**。**丽婕和我在2021年1月创办了 [周-伊斯利家族基金会](https://zhoueesleyfoundation.com)** &mdash; 一个私人家族基金会，资助 **被主流项目忽略的社区中的计算机科学和创业教育**。基金会的承诺写得非常直白：*"跟随合作伙伴，而不是套用模板。我们做支持，不做掠夺。我们既给资助，也做投资。"* &mdash; 正是父亲当年为玛丽埃塔下一代会众，打理教会捐赠基金时的那种姿态，只是范围更大了。
+
+五年下来，工作已经覆盖了八个社区 &mdash; [**毛伊群岛的莫洛凯**](https://www.zhoueesleyfoundation.com/programs/molokai/)、[**台湾**](https://www.zhoueesleyfoundation.com/programs/taiwan/)、[**越南**](https://www.zhoueesleyfoundation.com/programs/vietnam/)、[**马来西亚**](https://www.zhoueesleyfoundation.com/programs/malaysia/)、[**坦桑尼亚**](https://www.zhoueesleyfoundation.com/programs/tanzania/)、[**乌干达**](https://www.zhoueesleyfoundation.com/programs/uganda/)、[**耶路撒冷的 MIT MEET 项目**](https://www.zhoueesleyfoundation.com/programs/meet/)，以及最早合作的 [**旧金山州立大学**](https://www.zhoueesleyfoundation.com/programs/sfsu/) &mdash; 加上更近期加入的 [**巴黎**](https://www.zhoueesleyfoundation.com/programs/paris/) 和 [**菲律宾**](https://www.zhoueesleyfoundation.com/programs/philippines/)。仅2025年的槟城项目，培训了约 25 位教师，他们再把所学带回各自教室，触达约 **2,500 名学生**，**师生比放大了 100 倍**。加上我们在斯坦福和线上课程的覆盖，两位联合创始人合计触达过 **20 万以上的全球学生**。
+
+底层逻辑上的延续性是清楚的，即便机构形式翻译成了另一种：
+
+- **信仰**这件事，在伊斯利那几代是公理派基督教 &mdash; 一种具体的传统，一栋具体的圣殿。到了我们这一代，**信仰的范围更宽了**：信仰**教育本身**是最持久的那种无私给予，**跨越宗教、跨越政治分界**（耶路撒冷的 MEET 项目把以色列和巴勒斯坦的中学生聚到一起；坦桑尼亚、马来西亚、越南、乌干达的项目跨越了当地家庭实际信奉的每一种主要宗教）。
+- **托管**这件事，在伊斯利那几代是教会的捐赠基金 &mdash; **把你不拥有的钱，向着你所服侍的机构的长期福祉去打理**。基金会把同样的实践运行到了更宽的范围里：**项目相关投资与资助并行**，**"跟随合作伙伴，而不是套用模板"**。
+- **无私的奉献**在伊斯利那几代，是佩姬一年又一年为教会的孩子们上课，是查理一届又一届在教会董事会任职，是威尔一年又一年在事务委员会出席。在我们这一代，它是 **丽婕正在带的、为期四个月的 [ASPIRAS AI 同伴学习项目，与十五家马来西亚非营利组织合作](https://www.zhoueesleyfoundation.com/programs/malaysia/)**；是 *"与在一线做事的人，建立长期关系"*；是基金会明文写出的承诺 &mdash; *"做支持，不做掠夺"* &mdash; 不去给那项工作贴上自己的品牌，不去抢功。
+
+在维尔德穆斯一侧，外祖父罗伯特·厄尔以另一种方式表达了同一种冲动：他**退休后教书、做家谱研究，把这一脉追溯回十八世纪初的符腾堡** &mdash; 是一种**无报酬的、对家族记录本身的托管** &mdash; 对象不同，但**给予而不要求回报**的那种姿态，是一样的。
+
+基金会的口号 &mdash; *"把教育送到最需要它的地方"* &mdash; **几乎可以是佩姬当年在第一公理教会写下的同一句话**，只是被放大了几个数量级，又被做成了双边。
+
+教诲是：**你欠这个更大的世界，一部分自己的时间，也欠它一部分你被托付的东西** &mdash; **形式不一定是华盛顿越战纪念墙上的那一条名字**。它可以是教会的捐赠基金、夏天的安全城、建市两百周年委员会、一张选票、一家基金会、一期为期四个月的学员计划。**你手上的资源 &mdash; 钱、时间、关注、信仰 &mdash; 是那些你已经无法报答的人，托付给你的。报答他们的方式，是把你手上的东西，传给那些同样无法报答你的人。**
 
 ## 六、幽默 —— 尤其是干涩的、在艰难处境里的那种 —— 是家族传下来的东西
 
@@ -264,12 +314,34 @@ The threads above are what the family has actually been passing down. The archiv
 
 教诲是：**当"下一步"不在你现在所在的地方时，去 &mdash; 然后保证下一代里有人知道你是从哪里来的，这样他们才能替你也替他们自己，回去看看那个地方**。
 
+## 十、造东西 —— 跨越四代的创业实践（到了这一代，又成了它自己的研究对象）
+
+这条线索一开始是字面意义上的"动手做事"，到了我们这一代，变成了一门学术研究的对象 &mdash; 这个转向值得专门点出来，因为**家族自己的习惯，变成了家族自己的研究课题**。
+
+**历史上最经典的一例**，是 [**约翰·F·伊斯利**](/family/john-f-eesley/)。他在**1887年**买下了密歇根州普兰韦尔的一个旱冰场，把它改造成一座面粉厂，用**"阳光牌"面粉**这个品牌，把它做成了当时**全美第二大荞麦面粉生产商** &mdash; 高峰时一天能产六百桶面粉。1903到1904年间，他干脆**把那座木结构厂房整个切开、整体搬迁，再与一家既有的粮仓合并**。这座建筑现在 [列入了美国国家史迹名录](/places/plainwell-eesley-mill/)，是伊斯利家族姓氏在美国留下的、唯一一栋仍然存在的实体建筑遗产 &mdash; **是家族姓氏，在联邦的史迹名录上，写在一栋建筑物上面**，作为一辈子创业工作的收尾。
+
+在**维尔德穆斯一侧**，[**约翰·迈克尔·维尔德穆斯**](/family/johann-michael-wildermuth/) 于**1847年，十六岁**抵达玛丽埃塔，与巴登来的威廉·罗萨尔一起，**建立起了制鞋的生意** &mdash; 一桩小镇移民式的小生意，但这桩生意把这家人在俄亥俄东南部一扎扎了一个半世纪。两次十九世纪的奠基性"跨越加创业" &mdash; *从符腾堡到玛丽埃塔的制鞋作坊*，*从斯特拉特福到普兰韦尔的面粉厂* &mdash; 形状是一样的：到了一个新地方，学一门手艺，做出一件你来之前还不存在的东西。
+
+[**阿尔伯特·罗伯特·伊斯利**](/family/albert-robert-eesley/) 早年迁入 [**安大略的戈尔迪面粉生意**](/family/albert-robert-eesley/) 也是同一种平行案例 &mdash; 他自己没有创办面粉厂，但他是去**为一家苏格兰裔加拿大的面粉家族打工，并最终娶进了那家** &mdash; 那家本身就是一个创业家族。"做面粉/做生意"的这条线，在伊斯利家两边的支脉上都有。
+
+到了**二十世纪**，这条线索继续走：
+
+- [**威尔·伊斯利**](/family/wilbur-eesley/) 在玛丽埃塔的一辈子，**先后办了两家建筑事务所** &mdash; 先是 **Scott and Eesley**，后是 **Eesley, Lee, Vargo and Cassady**。这位先生**靠"画建筑、建建筑"为生**，包括（下班后）他亲手设计建造的、抚养自己一家人长大的 [海兰岭路那栋房子](/family/wilbur-eesley/)。建筑师事务所的合伙人结构，本身就是一种创业 &mdash; 公司本身，是他造出来的"建筑"。
+- [**查尔斯（查理）·伊斯利**](/family/charles-eesley/) 在俄亥俄公司（The Ohio Company）和后来的 Hazlett, Burt & Watson 做**股票经纪人** &mdash; 这是一种"自己掌舵"的金融职业，几十年里要靠自己一个客户一个客户地把"业务簿"做出来。悼词里那句关于祖母佩姬投资的话，背后有一层潜台词：父亲之所以做股票经纪人，**是因为他母亲在他之前就已经是个认真的投资者了**。
+- [**佩姬·麦克马斯特·伊斯利**](/family/margaret-mcmaster-eesley/) 比上述任何一份职业都更早，她就已经是这个家族**最早的投资策略师** &mdash; 她那种几十年如一日的、耐心的资本分配，资助了祖父母的退休旅行，也资助了下一代的教育。把个人理财做成"家庭层面的创业"：**搭建一个可以长期产出回报的结构**。
+
+到了**我们这一代**，这条线索发生了一个值得专门点出的转向。**我自己是 [斯坦福的一位教员](/family/charles-eric-eesley/)，研究领域恰恰是创业本身** &mdash; *斯坦福大学管理科学与工程系凯克基金会教席学者（W. M. Keck Foundation Faculty Scholar）*，发表过关于日本创业生态等等的研究。家族这条"造东西"的实践 &mdash; 约翰·F·伊斯利的面粉厂、约翰·迈克尔的制鞋作坊、威尔的建筑事务所、查理的经纪业务、佩姬的投资组合 &mdash; 在我自己的工作里，**变成了家族自己的学术研究对象**。
+
+这不是巧合，也不是一件小事。它是当一条家族线索延伸得够久之后，**才会自然出现的那种"代际反身性"** &mdash; 这一代人开始明确地注意到这种模式，并把它写成研究课题。这里有一种叶芝式的味道 &mdash; *"我们怎么能把舞者从舞蹈中分出来？"* 家族在两个世纪里一直在以创业的方式造东西，现在这一代，把这件事本身做成了元研究。
+
+教诲是：**造东西吧 &mdash; 生意、公司、投资组合、面粉厂、研究项目都行。家族的习惯是去做一件你来之前还不存在的事，规模量力而行，然后让它运转得越久越好。普兰韦尔的那座面粉厂还在国家史迹名录上 &mdash; "运转得越久越好"长这个样子。**
+
 ---
 
 ## 一个收尾的观察
 
-把以上九条线索一起放在眼前回看，最打动我的，是 &mdash; **没有任何一条是只属于家族某一支的**。教育、耐心、记录、回到那些地方、服务、幽默、日常出现、对日本与中国的好奇、跨越的冲动 &mdash; 每一条，在伊斯利一支、维尔德穆斯/弗莱明一支，以及现在的周家一支，都有可对应的例子。本档案在结构上的那个选择 &mdash; 把 [一位周家的祖辈](/family/zhaoxiang-zhou/) 处理成与 [一位伊斯利祖辈](/family/wilbur-eesley/) 同样形制的人物页，把 [灵隐寺](/places/lingyin-temple-hangzhou/) 与 [里林斯豪森教堂](/places/rielingshausen-church/) 视为同一种被纪念的对象 &mdash; 是先有了价值观，然后才有的数据架构。
+把以上十条线索一起放在眼前回看，最打动我的，是 &mdash; **没有任何一条是只属于家族某一支的**。教育、耐心、记录、回到那些地方、服务-与-托管（这一条现在从第一公理教会的捐赠基金，一路延伸到了周-伊斯利家族基金会）、幽默、日常出现、对日本与中国的好奇、跨越的冲动、"造东西"的创业习惯 &mdash; 每一条，在伊斯利一支、维尔德穆斯/弗莱明一支，以及现在的周家一支，都有可对应的例子。本档案在结构上的那个选择 &mdash; 把 [一位周家的祖辈](/family/zhaoxiang-zhou/) 处理成与 [一位伊斯利祖辈](/family/wilbur-eesley/) 同样形制的人物页，把 [灵隐寺](/places/lingyin-temple-hangzhou/) 与 [里林斯豪森教堂](/places/rielingshausen-church/) 视为同一种被纪念的对象 &mdash; 是先有了价值观，然后才有的数据架构。
 
-上面这九条线索，是这个家族实际上一直在传的东西。本档案，是其中第三条 &mdash; **把事情写下来给未来的人看** &mdash; 在我们这一代的又一次实践。**我希望，正如我外祖父在他最后一本手稿结尾留下的那句话所盼望的：将来某一代人读到这些时，能在其中认出他们自己 &mdash; 并把他们自己的那一份，添上去。**
+上面这十条线索，是这个家族实际上一直在传的东西。本档案，是其中第三条 &mdash; **把事情写下来给未来的人看** &mdash; 在我们这一代的又一次实践。**我希望，正如我外祖父在他最后一本手稿结尾留下的那句话所盼望的：将来某一代人读到这些时，能在其中认出他们自己 &mdash; 并把他们自己的那一份，添上去。**
 
 > *查尔斯·埃里克·伊斯利（恰克）撰，2026年6月 &mdash; 对现有档案的一次横向综合阅读。每一条线索都锚定在档案中具体的人物、文档和地点页面上。锚点所指的那些页面是底层记录；本文只是横向的串读。*
