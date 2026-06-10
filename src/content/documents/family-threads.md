@@ -19,6 +19,7 @@ people:
   - lijie-zhou
   - ling-zhou
   - xun-li
+  - zhaoxiang-zhou
   - charles-eric-eesley
 dateRange:
   start: "2026"
@@ -168,11 +169,13 @@ The thread continues in the **20th century**:
 - [**Charlie Eesley**](/family/charles-eesley/) was a **stockbroker** for The Ohio Company and later Hazlett, Burt & Watson — a self-directed financial profession in which you build your own book of clients over decades. The eulogy quote about Peggy's investing has its hidden subtext here: Charlie was a broker *because his mother had been a serious investor first.*
 - [**Peggy McMaster Eesley**](/family/margaret-mcmaster-eesley/) was the family's **investing strategist** before any of these jobs were named — her decades-long, patient capital allocation funded the retirement travel and the next generation's education. Personal investing as the household-scale version of the same impulse: build a structure that produces returns over a long horizon.
 
+The same pattern runs on the **Zhou side**, with its own founding instance. [**Zhou Zhaoxiang 周兆祥**](/family/zhaoxiang-zhou/) — Lijie's paternal grandfather, born in Jiaozhou Shi in 1930 — **founded the first photography studio in [Qingdao](/places/qingdao/)**, the same mid-century in which Will Eesley was building architectural firms in Marietta. The civic-business history of mid-20th-century Qingdao runs partly through his shop. He was a *photographer of other people's faces* by day and a *daily tai chi practitioner* in the morning — the precision of the studio camera and the slow rhythm of standing meditation as two faces of one disposition. The shape of his entrepreneurship — *find a craft no one in your city has set up yet, set it up, and run it long enough that the city's history runs through your shop* — is the same shape as **Johann Michael's shoe trade in Marietta in 1847** and **John F. Eesley's mill in Plainwell in 1887**, transplanted to mid-20th-century Shandong. The thread has a founding entrepreneur on all three sides of the family.
+
 And in the **present generation**, the thread turns reflective in a striking way. **I am a [Stanford faculty member](/family/charles-eric-eesley/) whose research field is entrepreneurship itself** — *W. M. Keck Foundation Faculty Scholar in Management Science & Engineering at Stanford University*, with published work on entrepreneurship in Japan and elsewhere. The family practice of building businesses — John F. Eesley's flour mill, Johann Michael's shoe trade, Will's firms, Charlie's brokerage, Peggy's portfolio — has become, in my own working life, **the subject of the family's academic study**.
 
 This is not a coincidence and not a small thing. It is what happens when a thread runs long enough across a family that one generation starts noticing it explicitly and turns it into a research program. There is something Yeatsian about it: *how can we know the dancer from the dance?* The family has been entrepreneurially building things for two centuries, and the present generation has gone meta on the pattern.
 
-The lesson: **build things — businesses, firms, portfolios, mills, research programs. The family's habit has been to make something that didn't exist before, at whatever scale the generation can manage, and to let it run for as long as it can run. The Plainwell mill is still on the National Register; that is what "as long as it can run" looks like.**
+The lesson: **build things — businesses, firms, portfolios, mills, photography studios, research programs. The family's habit has been to make something that didn't exist before, at whatever scale the generation can manage, and to let it run for as long as it can run. The Plainwell mill is still on the National Register; Zhou Zhaoxiang's photography studio shaped mid-century Qingdao's civic-business record from inside; that is what "as long as it can run" looks like.**
 
 ---
 
@@ -330,11 +333,13 @@ The threads above are what the family has actually been passing down. The archiv
 - [**查尔斯（查理）·伊斯利**](/family/charles-eesley/) 在俄亥俄公司（The Ohio Company）和后来的 Hazlett, Burt & Watson 做**股票经纪人** &mdash; 这是一种"自己掌舵"的金融职业，几十年里要靠自己一个客户一个客户地把"业务簿"做出来。悼词里那句关于祖母佩姬投资的话，背后有一层潜台词：父亲之所以做股票经纪人，**是因为他母亲在他之前就已经是个认真的投资者了**。
 - [**佩姬·麦克马斯特·伊斯利**](/family/margaret-mcmaster-eesley/) 比上述任何一份职业都更早，她就已经是这个家族**最早的投资策略师** &mdash; 她那种几十年如一日的、耐心的资本分配，资助了祖父母的退休旅行，也资助了下一代的教育。把个人理财做成"家庭层面的创业"：**搭建一个可以长期产出回报的结构**。
 
+**周家这一侧也有它自己的奠基性一例**。[**周兆祥**](/family/zhaoxiang-zhou/) &mdash; 丽婕的爷爷，1930年生于胶州市 &mdash; **在[青岛](/places/qingdao/)开办了第一家照相馆**，正是威尔在玛丽埃塔办建筑事务所的同一段二十世纪中叶。**二十世纪中叶青岛的市井商业史，有一段是从他的相馆里走过的**。他白天用相机为别人留住面孔，清晨则每日打**太极拳** &mdash; 摄影机的精准，与站桩冥想的从容，是他同一种气质的两面。他这一段创业的形状 &mdash; *找一门城里还没有人开起来的手艺，把它开起来，然后让它运转得足够久，久到城市的历史也开始从你的店面里走过* &mdash; 与**1847年约翰·迈克尔在玛丽埃塔的制鞋作坊**和**1887年约翰·F·伊斯利在普兰韦尔的面粉厂**形状相同，只是被移植到了二十世纪中叶的山东。**这条线索，在家族的三支上，都有一位奠基性的创业者**。
+
 到了**我们这一代**，这条线索发生了一个值得专门点出的转向。**我自己是 [斯坦福的一位教员](/family/charles-eric-eesley/)，研究领域恰恰是创业本身** &mdash; *斯坦福大学管理科学与工程系凯克基金会教席学者（W. M. Keck Foundation Faculty Scholar）*，发表过关于日本创业生态等等的研究。家族这条"造东西"的实践 &mdash; 约翰·F·伊斯利的面粉厂、约翰·迈克尔的制鞋作坊、威尔的建筑事务所、查理的经纪业务、佩姬的投资组合 &mdash; 在我自己的工作里，**变成了家族自己的学术研究对象**。
 
 这不是巧合，也不是一件小事。它是当一条家族线索延伸得够久之后，**才会自然出现的那种"代际反身性"** &mdash; 这一代人开始明确地注意到这种模式，并把它写成研究课题。这里有一种叶芝式的味道 &mdash; *"我们怎么能把舞者从舞蹈中分出来？"* 家族在两个世纪里一直在以创业的方式造东西，现在这一代，把这件事本身做成了元研究。
 
-教诲是：**造东西吧 &mdash; 生意、公司、投资组合、面粉厂、研究项目都行。家族的习惯是去做一件你来之前还不存在的事，规模量力而行，然后让它运转得越久越好。普兰韦尔的那座面粉厂还在国家史迹名录上 &mdash; "运转得越久越好"长这个样子。**
+教诲是：**造东西吧 &mdash; 生意、公司、投资组合、面粉厂、照相馆、研究项目都行。家族的习惯是去做一件你来之前还不存在的事，规模量力而行，然后让它运转得越久越好。普兰韦尔的那座面粉厂还在国家史迹名录上，周兆祥的照相馆从内部塑造了二十世纪中叶青岛的市井商业史 &mdash; "运转得越久越好"长这个样子。**
 
 ---
 
