@@ -13,11 +13,15 @@ people:
   - lijie-zhou
 ---
 
+<p class="not-prose my-4 p-3 border-l-4 border-rule bg-ink/5 text-sm"><strong>📖 本页含中文版本 — <a href="#zh">点此跳至中文 ↓</a></strong> &nbsp;·&nbsp; <em>This page has a Chinese version below.</em></p>
+
 Teenage **Lijie** &mdash; perhaps twelve or thirteen, in a red jumper dress over a white turtleneck, hair pulled back &mdash; stands beside her father **Ling Zhou 周玲**, who wears the **People's Police (人民警察) service uniform of the period**: pale blue shirt, dark tie, shoulder boards with rank insignia, a red-bordered badge at the collar. The visible horizontal banding behind both figures is the unmistakable trace of an older CRT television image &mdash; the photograph was taken by pointing a camera at a TV screen showing home-video footage, the common pre-digital way of preserving stills from video tapes.
 
 This is the **first photograph of Ling Zhou in the archive**, and one of the earliest photographs of Lijie surfaced so far &mdash; bridging the [c. 1986–87 toddler photograph at her grandmothers' table](/archive/lijie-with-two-grandmothers-c1986/) and the present-day portraits.
 
 ---
+
+<a id="zh"></a>
 
 ## 中文
 

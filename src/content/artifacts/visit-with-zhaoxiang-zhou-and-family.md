@@ -16,6 +16,8 @@ people:
   - xun-li
 ---
 
+<p class="not-prose my-4 p-3 border-l-4 border-rule bg-ink/5 text-sm"><strong>📖 本页含中文版本 — <a href="#zh">点此跳至中文 ↓</a></strong> &nbsp;·&nbsp; <em>This page has a Chinese version below.</em></p>
+
 Three generations of the Zhou family in one frame.
 
 Seated in the front row: **Zhaoxiang Zhou 周兆祥** (Lijie's paternal grandfather, b. 1930 Jiaozhou Shi, d. 9 December 2022 Qingdao), in a light grey jacket and dark trousers, smiling, **flanked by his son and daughter-in-law** &mdash; **[Xun Li 李恂](/family/xun-li/)** on the left in a camel coat (Lijie's mother), and **[Ling Zhou 周玲](/family/ling-zhou/)** on the right in a dark leather jacket (Lijie's father).
@@ -27,6 +29,8 @@ The colorful flower-and-vine **folk-art mural** behind the seated row places the
 This is the late-life photograph of Zhaoxiang Zhou in the archive; the family also holds a younger-man studio portrait of him not yet placed here. He died less than a decade after Yaozhen Shang (Lijie's maternal grandmother, d. 2013) and a year before his own wife Yunzhe Sun (d. 2023). After his death, the elder generation on the Zhou side passed entirely into the family record.
 
 ---
+
+<a id="zh"></a>
 
 ## 中文
 

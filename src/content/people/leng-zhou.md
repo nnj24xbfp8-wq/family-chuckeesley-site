@@ -7,9 +7,13 @@ spouses:
 summary: "Lijie's paternal great-great-grandmother. Wife of Huiting Zhou; mother of Maoli Zhou. Birth and death not yet recorded; her maiden surname Leng (冷) is preserved in the GEDCOM but no further family detail is yet attached."
 ---
 
+<p class="not-prose my-4 p-3 border-l-4 border-rule bg-ink/5 text-sm"><strong>📖 本页含中文版本 — <a href="#zh">点此跳至中文 ↓</a></strong> &nbsp;·&nbsp; <em>This page has a Chinese version below.</em></p>
+
 The surname **Leng (冷)** is one of the rarer Chinese family surnames; her maiden line is not yet researched. She is recorded in Dale and Chuck's tree as Huiting Zhou's wife and Maoli Zhou's mother.
 
 ---
+
+<a id="zh"></a>
 
 ## 中文
 

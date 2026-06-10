@@ -11,6 +11,8 @@ living: true
 summary: "Lijie's mother. Daughter of Zhongchu Li (1921–1982) and Yaozhen Shang (1921–2013). Married Ling Zhou in 1982 in Qingdao."
 ---
 
+<p class="not-prose my-4 p-3 border-l-4 border-rule bg-ink/5 text-sm"><strong>📖 本页含中文版本 — <a href="#zh">点此跳至中文 ↓</a></strong> &nbsp;·&nbsp; <em>This page has a Chinese version below.</em></p>
+
 Details withheld &mdash; living. Mother of [Lijie 周丽婕](/family/lijie-zhou/).
 
 ## Newly placed photographs
@@ -24,6 +26,8 @@ Details withheld &mdash; living. Mother of [Lijie 周丽婕](/family/lijie-zhou/
 > *Structured record: [Dale Eesley & Chuck Eesley / FamilySearch &mdash; Xun Li (GMLK-HBZ)](https://www.familysearch.org/tree/person/details/GMLK-HBZ).*
 
 ---
+
+<a id="zh"></a>
 
 ## 中文
 

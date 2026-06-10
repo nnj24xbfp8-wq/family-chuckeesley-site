@@ -7,9 +7,13 @@ spouses:
 summary: "Lijie's maternal great-grandfather. Husband of Rongjing Qiu; father of Zhongchu Li (Lijie's grandfather), Yunhua Li, Chengwu Li, and Yunying Li."
 ---
 
+<p class="not-prose my-4 p-3 border-l-4 border-rule bg-ink/5 text-sm"><strong>📖 本页含中文版本 — <a href="#zh">点此跳至中文 ↓</a></strong> &nbsp;·&nbsp; <em>This page has a Chinese version below.</em></p>
+
 Li Fengting is named in the GEDCOM as the father of [Zhongchu Li](/family/zhongchu-li/) (Lijie's grandfather) and his three siblings &mdash; [Yunhua Li](/family/yunhua-li/), [Chengwu Li](/family/chengwu-li/), and [Yunying Li](/family/yunying-li/). His own dates and earlier life are not yet recorded.
 
 ---
+
+<a id="zh"></a>
 
 ## 中文
 
