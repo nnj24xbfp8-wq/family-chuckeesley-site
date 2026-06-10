@@ -63,6 +63,10 @@ The places Chuck named at the end of the eulogy &mdash; the track at Marietta Mi
 
 > _Biographical summary above draws on his published obituary at Cawley &amp; Peoples Funeral Home; the rest of the page comes from Chuck's eulogy._
 
+## See also
+
+He is **the middle of [the three Charleses](/docs/the-three-charleses/)** — named in 1947 for his grandfather Charles Leonard (skipping his own father Will's first name), with **McMaster** for his mother Peggy's family. He in turn named his son Charles Eric in 1979. A short essay reads the grandfather-and-grandson naming chain across the three generations.
+
 ## Further reading
 
 On the war that came home with him:

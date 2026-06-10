@@ -48,4 +48,8 @@ Chuck's annual Kobe University teaching and his entrepreneurship-in-Japan resear
 
 Other details withheld &mdash; living.
 
+## See also
+
+He is **the third of [the three Charleses](/docs/the-three-charleses/)** — named in 1979 for his father Charles McMaster ("Charlie"), who was in turn named in 1947 for *his* grandfather Charles Leonard. A short essay reads the chain: grandfather → (skipped generation: Will) → grandson Charlie → son Chuck. The first name has now run three generations of the Eesley line.
+
 > *Structured record: [Dale Eesley / FamilySearch &mdash; Charles Eric Eesley (GMLW-PXW)](https://www.familysearch.org/tree/person/details/GMLW-PXW).*

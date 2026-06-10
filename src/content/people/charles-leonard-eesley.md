@@ -77,6 +77,10 @@ He appears in the [family group portrait](/archive/eesley-family-group-portrait-
 
 > *Sources: Mary Eesley Bean, *[Eesley Family History](/docs/eesley-family-history-1985/)*, March 1985, p. 8; July 2019 family email exchange among Chuck, Aunt Maggie, Aunt Jeanne, and cousin Roberta; the [1940s letter collection Roberta still holds](/docs/charles-leonard-letter-collection/).*
 
+## See also
+
+He is the **first of [the three Charleses](/docs/the-three-charleses/)** — the grandfather whose first name skipped Will's generation and was carried forward by Charles McMaster ("Charlie") in 1947 and Charles Eric ("Chuck") in 1979. A short essay reads the naming chain across the three.
+
 > *Structured record: [Dale Eesley / FamilySearch — Charles Leonard Eesley (LY6G-W9Y)](https://www.familysearch.org/tree/person/details/LY6G-W9Y).*
 
 ## Further reading

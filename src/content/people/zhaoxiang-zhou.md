@@ -10,7 +10,8 @@ death:
   place: "Qingdao, Shandong, China"
 spouses:
   - yunzhe-sun
-summary: "Lijie's paternal grandfather. Born 1 August 1930 in Jiaozhou Shi (the city-region just inland from Qingdao on the Shandong peninsula) — the ancestral place for this branch of the Zhou family. Died 9 December 2022 in Qingdao, age 92."
+portrait: ../../assets/family/originals/IMG_1803.jpeg
+summary: "Lijie's paternal grandfather. Born 1 August 1930 in Jiaozhou Shi (the city-region just inland from Qingdao on the Shandong peninsula) — the ancestral place for this branch of the Zhou family. Founded the first photography studio in Qingdao; his daily practice was tai chi. Died 9 December 2022 in Qingdao, age 92."
 ---
 
 <p class="not-prose my-4 p-3 border-l-4 border-rule bg-ink/5 text-sm"><strong>📖 本页含中文版本 — <a href="#zh">点此跳至中文 ↓</a></strong> &nbsp;·&nbsp; <em>This page has a Chinese version below.</em></p>
@@ -19,7 +20,9 @@ Zhou Zhaoxiang was born **1 August 1930 in Jiaozhou Shi (胶州市)** — the hi
 
 He spent the war years and the founding years of the People's Republic as a young man, married [Yunzhe Sun](/family/yunzhe-sun/), and raised four children in Qingdao &mdash; including [Lijie's father Ling Zhou](/family/ling-zhou/) and his siblings Quan, Ai Qin, and Ai Hua. He died **9 December 2022 in Qingdao**, age 92.
 
-His working life centered on photography: **he founded the first photography studio in Qingdao** &mdash; the civic-business history of mid-20th-century Qingdao runs partly through his shop. The man who spent his life making portraits of other people's faces was himself the subject of many of the kind he produced; a formal studio portrait of him is held in the family but is not yet placed in this archive.
+His working life centered on photography: **he founded the first photography studio in Qingdao** &mdash; the civic-business history of mid-20th-century Qingdao runs partly through his shop.
+
+**The portrait at the head of this page is the loop closing on itself**: Zhaoxiang seated in his own studio, in front of one of his own staged backdrops &mdash; the painted curving-staircase parlor scene with the red carpet, the framed flowers, the dark paneled door &mdash; with **young [Lijie](/family/lijie-zhou/), about five, on his right** (viewer's left) in a patterned print blouse and a pink necklace, and **a boy of about ten on his left** in a red Young Pioneer scarf. The girl is **his own granddaughter — my wife** &mdash; which dates the frame to **c. 1988**, Zhaoxiang in his late fifties at the height of the studio's mid-career. The boy is most likely one of Lijie's cousins from her father's siblings' families; identification to be confirmed. *The man who made his life out of portraits of other people's faces, photographed inside his own shop, on his own set, with his own granddaughter under his right hand*. **It is the earliest frame in this archive of Lijie herself**, and the only one that holds her and Zhaoxiang in the same photograph.
 
 Outside the studio he kept a daily **tai chi (太极拳)** practice &mdash; the slow standing-meditation form that has shaped the bodies of generations of older Chinese practitioners. The combination &mdash; the precision of the studio camera and the unhurried rhythm of tai chi in the morning &mdash; is a fair index of how he carried himself across nine decades.
 
@@ -43,7 +46,9 @@ He is the deepest documented Zhou ancestor in this archive's present scaffolding
 
 他经历了战争年代和共和国初创时期，与[孙云哲](/family/yunzhe-sun/)成婚，在青岛养育四个子女 &mdash; 包括[周丽婕的父亲周玲](/family/ling-zhou/)及其弟妹周全、周爱琴、周爱华。**2022年12月9日卒于青岛**，享年92岁。
 
-他一生的事业以摄影为中心：**他在青岛开办了第一家照相馆**。这一点也让本页所收的他的肖像照增添了一层意涵 &mdash; 这位为他人拍肖像的人，自己也成为他一生所拍这种照片的对象之一。20世纪中叶青岛的市井商业史，有一段从他的照相馆里走过。
+他一生的事业以摄影为中心：**他在青岛开办了第一家照相馆**。20世纪中叶青岛的市井商业史，有一段从他的照相馆里走过。
+
+**本页页首的这张肖像，正是那条循环最终回到了它自己**：周兆祥坐在他自己照相馆里、自己绘制的一张影楼布景之前 &mdash; 那扇有着彩绘旋转楼梯、红地毯、玻璃瓶里插的花、深色镶板门的"客厅"背景画 &mdash; 他的右手边（画面左侧）站着一位约五岁、穿着印花上衣、戴粉色项链的女孩，是**他的孙女 &mdash; 也是我妻子 [Lijie 周丽婕](/family/lijie-zhou/)** &mdash; 这把这张照片的时间锁定在**1988年前后**，那时周兆祥已近六十岁，照相馆正处于其中后期。他的左手边（画面右侧）站着一位约十岁、佩戴红领巾的男孩，最可能是Lijie父辈兄弟姊妹这一支的表/堂亲，身份待确认。*这位一辈子在为别人留住面孔的人，被拍在自己的店里、自己的布景前、自己的孙女靠在他右肘下。* **这是本档案中Lijie本人最早的一帧**，也是档案中唯一一张她与祖父周兆祥同框的合影。
 
 照相馆之外，他每日坚持**太极拳**练习 &mdash; 这一缓慢的站桩冥想式拳法，塑造了一代又一代中国老人身姿。摄影机的精准与晨练时太极拳的从容 &mdash; 二者合起来，便是他度过九十多年人生的姿态写照。
 

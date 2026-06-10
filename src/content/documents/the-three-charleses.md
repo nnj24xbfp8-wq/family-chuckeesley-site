@@ -1,0 +1,56 @@
+---
+title: "The three Charleses — Charles Leonard, Charles McMaster, Charles Eric"
+type: essay
+author: charles-eric-eesley
+people:
+  - charles-leonard-eesley
+  - wilbur-eesley
+  - charles-eesley
+  - charles-eric-eesley
+  - margaret-mcmaster-eesley
+dateRange:
+  start: "2026"
+summary: "A short reading of the naming pattern that runs across three generations of Eesley men: Charles Leonard (1879–1972), Charles McMaster 'Charlie' (1947–2015), and Charles Eric 'Chuck' (b. 1979). The first name carries grandfather to grandson to grandson, deliberately skipping the generation between, while the middle name carries a different family-record signal each time."
+source: "Written by Chuck Eesley, June 2026 — a small companion piece to the family-threads essay."
+---
+
+## Three generations, one first name, one careful skip
+
+Three Eesley men in this archive carry the first name **Charles**, across three different generations of the line:
+
+- [**Charles Leonard Eesley**](/family/charles-leonard-eesley/) (**1879–1972**) — generation 4. Son of [Albert Robert Eesley](/family/albert-robert-eesley/) and [Jeanie Goldie](/family/jeanie-goldie/); husband of [Lillie Dale Chenoweth](/family/lillie-dale-chenoweth/); father of ten children including [Will Eesley](/family/wilbur-eesley/) the architect. Raised the Bexley, Ohio household that brought [Stella](/family/stella/) in from Hawaii during the war.
+- [**Charles McMaster "Charlie" Eesley**](/family/charles-eesley/) (**1947–2015**) — generation 6. Son of Will and [Peggy McMaster Eesley](/family/margaret-mcmaster-eesley/); Vietnam veteran (U.S. Army, 1969–1971); Marietta College economics graduate; stockbroker; longtime First Congregational endowment manager; my father.
+- [**Charles Eric "Chuck" Eesley**](/family/charles-eric-eesley/) (**b. 1979**) — generation 7. My own page in this archive; W. M. Keck Foundation Faculty Scholar in Management Science & Engineering at Stanford; archive-builder; husband of [Lijie 周丽婕](/family/lijie-zhou/); co-founder of the [Zhou & Eesley Family Foundation](https://zhoueesleyfoundation.com).
+
+The first name **Charles** runs through three generations, with **one deliberate gap** in the middle. My grandfather, generation 5, was not named Charles — he was [**Wilbur "Will" Chenoweth Eesley**](/family/wilbur-eesley/), born in 1910 to Charles Leonard and Lillie Dale. When Will's own son was born in 1947, he was named **Charles McMaster Eesley** — Charles for the grandfather, McMaster for Peggy's family. And when my father's own son was born in 1979, the first name carried forward one more generation: **Charles Eric**, named for Charlie, with Eric as the new middle.
+
+The pattern, drawn out:
+
+| Generation | Name | Born | First name source |
+|---|---|---|---|
+| 4 | **Charles** Leonard Eesley | 1879 | (founding instance for this branch) |
+| 5 | Wilbur "Will" Chenoweth Eesley | 1910 | (deliberate first-name break) |
+| 6 | **Charles** McMaster "Charlie" Eesley | 1947 | named after his grandfather, gen 4 |
+| 7 | **Charles** Eric "Chuck" Eesley | 1979 | named after his father, gen 6 |
+
+So the first name *Charles* carries from **grandfather → grandson** across the first skip, and then from **father → son** in the next generation. It is a grandfather-and-grandson naming pattern across a single skipped generation, then it converts into a father-and-son pattern at the present generation.
+
+## The middle name does a different kind of work
+
+Where the first name encodes a continuity, **the middle name encodes a record** — of which other family the generation joined, or which earlier individual the parents chose to honor by inserting their name into the next one's birth certificate.
+
+- **Charles _Leonard_ Eesley** — *Leonard* turns out to have a much deeper anchor than first appeared. The [GEDCOM tree](/docs/dale-eesley-familysearch-tree/) contains **one Leonard surname in the family ancestry**: [**Jane Leonard**](https://www.familysearch.org/tree/person/details/GB8M-Z6Y), **born 9 May 1655 in St Martin, Cornwall, England**, who married **John Chenoweth** of the same parish around the 1670s and is the **six-generation-back maternal ancestor of [Lillie Dale Chenoweth](/family/lillie-dale-chenoweth/)** through the Cornwall-Chenoweth line *(Jane Leonard → John Chenoweth → Thomas Chenoweth → Elijah Chenoweth → Elijah Chenoweth → Joseph Hill Chenoweth → Lillie Dale Chenoweth)*. So **Leonard, as a Chenoweth-side ancestor surname, was sitting in the family record waiting to be recovered.** The catch is the timing: Charles Leonard was born **September 1879**, two years after Lillie Dale was born (August 1877), and a quarter-century before they married. *His own parents — Albert Robert Eesley and Jennie Goldie — chose his middle name in 1879 without knowing their son would someday marry into the Chenoweth-Leonard line.* The most honest reading is that **his "Leonard" was either a fashionable Anglo-Canadian Victorian middle-name choice, or a tribute to someone in Albert Robert and Jennie's own social world**, and that the *deeper Chenoweth-Leonard ancestral resonance was only revealed retroactively, by their son's marriage* — and by his grandson Leonard David Eesley (b. 1904), born after the marriage, **who now reads as the first family member whose Leonard name plausibly carries the Cornwall-Chenoweth ancestral signal as well as the father's middle name** (his brother **Thomas Leonard Eesley**, b. 1906, then carries it forward as a recurring stem name in the next sibling cohort). The naming convention starts as one thing in 1879 and becomes another thing across the next marriage.
+- **Charles _McMaster_ Eesley** — *McMaster* is the **maiden name of Peggy McMaster Eesley**, Charlie's mother. Inserting Peggy's maiden name as Charlie's middle name is the **most explicit single act in the family record of the practice of carrying both sides into the next generation's name**. Without that choice, no descendant of the Eesley line would have *McMaster* in their legal name. With it, *McMaster* is preserved as an inherited middle-name passport for two generations and counting — Charles McMaster (gen 6) was the first, and any of his own children's middle names could in turn carry forward an in-married line on Terrie's side. (Mine, *Eric*, does not, as far as I know.)
+- **Charles _Eric_ Eesley** — *Eric* was, as far as I can tell, **not a family-heritage name** but a name my parents chose for its own sake. (If there is a Wildermuth or Davis or Fleming Eric I have missed, this page would happily be corrected.) The choice marks a quiet shift between generations 6 and 7: Charlie's middle name had carried a maternal family's record (McMaster); mine does not. The middle-name-as-archival-record practice was, in my own generation's birth certificate, not continued.
+
+## Why this is worth naming
+
+There are two reasons it is worth pulling this pattern out of the names and onto its own page.
+
+First, **it is a small but real example of the archive's central data-model claim**: that family lines are not single-trunk genealogies but seams where different surnames join, and that the record of those joins is sometimes encoded in the names themselves. The schema in this archive treats every in-married surname as a peer line and gives each in-married ancestor a person page of equal weight; the *McMaster* middle name in Charlie's full legal name is the same architectural choice, done by his parents on a birth certificate in 1947, two generations before any of us had a data schema for it.
+
+Second, **the carefully chosen gap matters**. Will Eesley was *not* a Charles. He was Wilbur. The decision in 1947 to name the next-generation Charles was a decision to **reach back past the father**, to the grandfather, and pull *that* name forward — a small but precise act of remembrance for a man who was still alive (Charles Leonard would not die until 1972, when Charlie was 25). The naming was not just inheritance; it was a record of which family member the parents wanted the new child to be associated with.
+
+When my own son or daughter is born, I expect we will not name them Charles. The first name has run its course for the moment, three generations into one branch. But the practice the names point to — *the deliberate use of a baby's legal name as a public record of which earlier family member, and which in-married line, the parents wanted the next generation to carry forward* — is a thread of its own, and one that intersects with thread #3 in the [family-threads essay](/docs/family-threads/) (*writing things down because someone in the future will need to know*). A child's full legal name is, among other things, a one-line document handed down for the rest of that child's life. The Eesleys have used it that way for at least four generations.
+
+> *Written by Chuck Eesley, June 2026 — a short companion piece to the larger [family-threads essay](/docs/family-threads/). The Leonard etymology resolved through a GEDCOM trace: Jane Leonard (1655, St Martin, Cornwall) is the six-generation maternal ancestor of Lillie Dale Chenoweth on the Chenoweth side. Corrections still welcome on **Eric** if it carries family-record signal I have missed.*
