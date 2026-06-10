@@ -18,6 +18,16 @@ summary: "Wife of Charles Leonard Eesley. Born 9 August 1877; died January 1970,
 
 Lillie Dale Chenoweth was born **August 9, 1877**. She married Charles Leonard Eesley and raised ten children with him in Geneva, Lebanon, Shelby, Grove City, and Columbus Ohio (with one daughter, Mary, born in Shelby, Michigan during a Michigan stay). She **outlived three of her children**: Jean Goldie died at twelve in 1924, Dale at thirty-two in 1939, and Lyle at twenty-five in 1942 at a Japanese POW camp.
 
+## Lillie Dale as a child, c. 1881–1884
+
+A tintype of Lillie Dale as a small child &mdash; perhaps **four to seven years old** &mdash; arrived in this archive in June 2026, transmitted by her granddaughter [Roberta Burnes](/family/roberta-burnes/) from the Chenoweth family album. The photograph shows her seated against a painted-floral studio backdrop, in a pale dress with dark stockings, leaning her arm against the rolled top of a studio chair, holding what appears to be a small object (possibly a flower) in her lap. Her hair is short and dark, her expression solemn in the way late-nineteenth-century child portraits required.
+
+![Lillie Dale Chenoweth as a child, c. 1881-1884](../../assets/family/originals/lillie-dale-chenoweth-child.jpeg)
+
+The tintype process and the decorative oval mount place the photograph in the **early-to-mid 1880s** &mdash; Lillie would have been a small child in Franklin County, Ohio, decades before she would marry Charles Leonard Eesley, become the Chenoweth matriarch of the Eesley line, and outlive three of her ten children. **The Ohio State music years are still ahead of her.** So is everything else.
+
+It is among the earliest photographs of any direct Eesley-line ancestor in this archive.
+
 ## Music at Ohio State
 
 [Charlie Eesley's 12th-grade autobiography (c. 1964&ndash;1965)](/docs/charles-eesley-12th-grade-autobiography-1965/) carries one of the most evocative details about her early life. Charlie's grandson-view:

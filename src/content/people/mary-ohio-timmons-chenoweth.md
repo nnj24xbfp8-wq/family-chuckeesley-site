@@ -13,7 +13,8 @@ parents:
   - john-k-timmons
 spouses:
   - joseph-hill-chenoweth
-summary: "Mother of Lillie Dale Chenoweth Eesley; Chuck's great-great-grandmother on the Chenoweth side. Born March 1845 in Ohio. Married Joseph Hill Chenoweth on 25 November 1864 in Franklin County, Ohio. The structured record gives her name as 'Mary O.' — Maggie Eesley's deck expands the O. to Ohio with the etymology note that Ohio means 'beautiful river.' One of her daughters, Scioto Mafry Chenoweth, was named after the river and became, in family memory, one of the first women medical doctors in the United States in the late 1800s. Daughter of John K. Timmons; mother of at least five children. FamilySearch ID KCCC-MTP. The portrait previously displayed on this page (from Maggie's *Four Generations* deck, labeled there as Mary Timmons Chenoweth) has been retracted — Roberta Burnes confirmed in June 2026 that the woman in that photograph is a friend of Mary's, not Mary herself, and is labeled as such in Roberta's family album. Two correctly-identified photographs of Mary Timmons Chenoweth and one of Lillie Dale Chenoweth as a child are en route from Roberta and will land here next."
+portrait: ../../assets/family/originals/mary-timmons-young.jpeg
+summary: "Mother of Lillie Dale Chenoweth Eesley; Chuck's great-great-grandmother on the Chenoweth side. Born March 1845 in Ohio. Held a teacher's certificate dated 1862 — meaning she was teaching in central Ohio at age seventeen, during the second year of the Civil War. Married Joseph Hill Chenoweth on 25 November 1864 in Franklin County, Ohio. The structured record gives her name as 'Mary O.' — Maggie Eesley's deck expands the O. to Ohio with the etymology note that Ohio means 'beautiful river.' One of her daughters, Scioto Mafry Chenoweth, was named after the river and became, in family memory, one of the first women medical doctors in the United States in the late 1800s. Daughter of John K. Timmons; mother of at least five children. FamilySearch ID KCCC-MTP. Two correctly-identified photographs of her — a young-woman portrait from c. 1862–1865 (around her teaching-certificate and marriage years) and an elderly portrait from c. 1900–1915 — were transmitted by Roberta Burnes from her family album in June 2026 and are now this page's primary images."
 ---
 
 Mary O. Timmons was born in **March 1845** in Ohio, daughter of [John K. Timmons](/family/john-k-timmons/). The structured record gives her name as **Mary O.**; Aunt Maggie Eesley's *Four Generations* archive expands it to **Mary Ohio** with the etymology note that **"Ohio" means "beautiful river"** in the Iroquoian tongue from which it was borrowed &mdash; given to her, the family memory holds, "to honor the state in which she was born." Whether her middle name was actually Ohio on her birth certificate or whether the family had expanded the initial O. into a meaning over the generations is itself a small open question worth flagging.
@@ -34,15 +35,35 @@ The GEDCOM records at least five children:
 - **Elsie Chenoweth** &mdash; not yet a person entry.
 - **Dwight Kennedy Chenoweth** (1880&ndash;1957) &mdash; not yet a person entry; died in Biloxi, Mississippi.
 
-## Photograph in the archive — retracted, June 2026
+## The two photographs
 
-The portrait that previously appeared on this page &mdash; carried into the archive through Maggie Eesley's *Four Generations* deck under the label **Mary Timmons Chenoweth** &mdash; was reviewed against Roberta Burnes's family album in June 2026 and is **not** Mary Timmons Chenoweth. It is a friend of hers, **labeled as such in Roberta's album**, and was misidentified somewhere between the album and Maggie's deck. The retraction is the kind that matters: a face we had been associating with Chuck's great-great-grandmother is in fact someone else entirely. The misattributed scan is held back from this page until the friend's actual identity is known.
+Two correctly-identified portraits of Mary Timmons Chenoweth arrived in this archive in **June 2026**, transmitted by [Roberta Burnes](/family/roberta-burnes/) from the family album she inherited through the Burnes-Eesley line — the same album that holds the 1860s handwritten Chenoweth family register and her 1862 teacher's certificate.
 
-Three correctly-identified Chenoweth-line photographs are en route from Roberta and will land here next:
+### Mary as a young woman, c. 1862–1865
 
-- **Two portraits of Mary Timmons Chenoweth herself** &mdash; the first known photographs of her in this archive that have been confirmed against the family album label.
-- **One portrait of [Lillie Dale Chenoweth](/family/lillie-dale-chenoweth/) as a child** &mdash; an early image of the Chenoweth matriarch, captured before she became Lillie Dale Chenoweth Eesley.
+The portrait at the head of this page is a tintype of Mary as a young woman &mdash; **probably late teens or very early twenties**, with center-parted dark hair pulled back, a small bow tie at the throat, and a checked-fabric collared dress. The tintype process and the decorative gold-and-cream paper mount place the photograph in the **early-to-mid 1860s** &mdash; the years bracketing her 1862 teacher's certificate (age seventeen) and her 1864 marriage to [Joseph Hill Chenoweth](/family/joseph-hill-chenoweth/) (age nineteen). She is, in this portrait, **a young Ohio woman teaching school during the second year of the Civil War**, two years away from the marriage that would carry the Chenoweth line forward into the Eesleys.
 
-Roberta has also noted that the same family album includes photographs of Mary's father, of Joseph Hill Chenoweth's father [Elijah Chenoweth](/family/elijah-chenoweth/), and Mary's own 1862 teacher's certificate &mdash; the document that says she was a teacher in central Ohio at age seventeen, during the second year of the Civil War.
+### Mary in old age, c. 1900–1915
+
+The second portrait shows Mary in her later years &mdash; an oval-framed studio photograph with thin wire-rim spectacles, dark beaded Victorian bodice, hair pulled back in a tight bun. The framing style and dress place it in the **first decade-and-a-half of the twentieth century**, when she was in her mid-fifties to early seventies. She died in 1919.
+
+![Mary O. Timmons Chenoweth in old age, c. 1900-1915](../../assets/family/originals/mary-timmons-chenoweth-elderly.jpeg)
+
+Together the two portraits frame more than fifty years of her life — from the seventeen-year-old teacher in Civil War Ohio to the elderly matriarch of a household that would carry the Chenoweth name into the Eesley generation through her daughter Lillie Dale.
+
+## A retraction, June 2026
+
+The portrait that previously appeared on this page &mdash; carried into the archive through Maggie Eesley's *Four Generations* deck under the label *Mary Timmons Chenoweth* &mdash; was reviewed against Roberta Burnes's family album and is **not** Mary Timmons Chenoweth. It is a friend of hers, **labeled as such in Roberta's album**, and was misidentified somewhere between the album and Maggie's deck. The misattributed scan is held back from this page until the friend's actual identity is known.
+
+## What else the family album holds
+
+Roberta has also flagged that the album includes:
+
+- A photograph of [Joseph Hill Chenoweth](/family/joseph-hill-chenoweth/)'s father [Elijah Chenoweth](/family/elijah-chenoweth/) &mdash; the deepest documented Chenoweth ancestor in this archive's keeping.
+- A photograph of Mary's own father.
+- Mary's **1862 teacher's certificate** &mdash; the document underneath the biographical line of this page.
+- The **1860s handwritten Chenoweth family register** that anchors the Chenoweth Family Association's online genealogy.
+
+These are queued for the next round of digitization.
 
 > *Sources: Mary Bean, [Eesley Family History](/docs/eesley-family-history-1985/); structured record [Dale Eesley / FamilySearch &mdash; Mary O. Timmons (KCCC-MTP)](https://www.familysearch.org/tree/person/details/KCCC-MTP); portrait retraction and incoming-photograph notice from Roberta Burnes, June 2026.*
