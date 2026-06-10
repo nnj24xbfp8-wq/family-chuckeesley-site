@@ -22,7 +22,7 @@ people:
   - charles-eric-eesley
 dateRange:
   start: "2026"
-summary: "An essay reading across the archive for the values, practices, and lessons that have been passed down through the Eesley, Wildermuth, McMaster, Fleming, and Zhou lines. Eight threads named, each anchored to specific people, documents, and places in this archive."
+summary: "An essay reading across the archive for the values, practices, and lessons that have been passed down through the Eesley, Wildermuth, McMaster, Fleming, and Zhou lines. Nine threads named, each anchored to specific people, documents, and places in this archive."
 source: "Written by Chuck Eesley, June 2026, as a synthesis pass across the existing archive."
 ---
 
@@ -98,11 +98,38 @@ Two countries, three generations on the Japan side, two on the China side, and t
 
 The lesson: **the world is a much smaller place when you keep going back to the same parts of it**, and the curiosity that drives that going-back compounds across generations as durably as Peggy's investing did.
 
+## 9. Crossing — moving for what's next, across continents and generations
+
+This is the structural counterweight to thread #4. **The pilgrimage thread is about going back; this one is about going forward.** Both are present in every generation of the archive, and both are values, not contradictions.
+
+The family record literally begins with **founding emigrations**:
+
+- **[Johann Michael Wildermuth](/family/johann-michael-wildermuth/)** sailed from **Großaspach, Württemberg** in **1847, age sixteen** — per his own 1853 Philadelphia naturalization petition. He worked the shoe trade in Marietta and is buried at Oak Grove Cemetery. *He was the Wildermuth who left.*
+- **[John F. Eesley](/family/john-f-eesley/)** crossed from [Old Stratford, Warwickshire](/places/old-stratford-rother-street/) to America in the 19th century, **founded the [Sunshine Flour Mill in Plainwell, Michigan](/places/plainwell-eesley-mill/)** at the end of that crossing, and put the family surname onto the National Register of Historic Places. **His brother [Albert Robert Eesley](/family/albert-robert-eesley/)** made a different crossing — to Canada, to work for the Scottish-Canadian Goldie milling family, who had themselves crossed from Ayrshire to Ontario in 1841. Two brothers, two North American crossings.
+- The family record on the Eesley side runs back through [John Eesley (b. 1800)](/family/john-eesley-1800/) and earlier [Joseph Eesley](/family/joseph-eesley/) in Hanwell, Oxfordshire — itself a small crossing across the county line from Hanwell parish into the [Old Stratford address](/places/old-stratford-rother-street/) on Rother Street. The willingness to move is documented at every depth of the archive.
+
+The pattern continues in the **20th century**, with the same posture but different distances:
+
+- [**Stella**](/family/stella/) was brought from **Hawaii to the Eesley household in Bexley** during WWII by [Charles Leonard Eesley](/family/charles-leonard-eesley/), explicitly to keep her clear of the West Coast Japanese-American internment camps. She stayed, married, raised her family there, and *"sent macadamia nuts back from Hawaii for years."* A wartime crossing, made for the safest version of *what's next*.
+- [**Robert Earl Wildermuth**](/family/robert-earl-wildermuth/) left Marietta for **[Stanford on the GI Bill in 1948](/archive/robert-earl-wildermuth-stanford-ba-1948/)** and never lived in southeastern Ohio for long again — the rest of the career took him across Korea, the Pentagon, [Itazuke Air Base in Japan from 1965 to 1968](/places/itazuke-air-base/), and a string of other postings. His Stanford crossing is the founding instance of *moving for education and career* in the lineage Chuck would later complete.
+- The Zhou-side ancestor [**Zhou Zhaoxiang**](/family/zhaoxiang-zhou/) made his own intra-Chinese crossing from his birth-city of **Jiaozhou Shi** to **[Qingdao](/places/qingdao/)** — the same pattern of *internal* migration toward opportunity that Robert Earl made within the United States, run in parallel on the other side of the world.
+
+And in the **present generation**:
+
+- I went from Marietta to **Duke**, to **MIT**, to **Stanford** — three crossings in fifteen years, each toward the next degree or the next appointment.
+- [**Lijie**](/family/lijie-zhou/) made the largest single crossing in the contemporary archive: **from Qingdao, China to Palo Alto, California**, for graduate school and the life we have made together. Her crossing is the same shape as Johann Michael's in 1847 — *a young person leaving the country of birth for a country where the next chapter of life will happen* — at a different scale and a different distance.
+
+There is even an interesting **inverse case** in the lineage. [Terrie](/family/terrie-lee-eesley/) had spent her own childhood being moved across the U.S. and Japan by her father's Air Force career — and she **chose, deliberately, to stay in Marietta with her own son** so that I would have, in her words, *"a set of childhood friends."* The crossing impulse runs both ways: sometimes the way you act on it is by refusing it for the next generation's sake. That refusal was itself a kind of move.
+
+Two things knit the whole thread together. First, **every named crossing in the archive was toward a specific opportunity**, not for restlessness — a mill, a degree, a wartime refuge, an appointment, a marriage. Second, **the crossing impulse and the pilgrimage impulse are not in tension.** Every generation in the archive makes a forward crossing, and the next generation goes back to honor it: Johann Michael left Württemberg, Robert Earl returned to Rielingshausen in 1992, I went back again with Lijie in 2018. The Eesleys left Stratford; Lijie and I went back to Hanwell and the Old Stratford address on the 2018 trip. Lijie left Qingdao; we went back to her elementary-school fence and to her parents' honeymoon temple at Hangzhou together. *The forward crossing and the return are the same family practice.*
+
+The lesson: **when the next thing is not where you currently are, go — and then make sure someone in the next generation knows where you came from so they can come back to it for both of you.**
+
 ---
 
 ## A closing observation
 
-Reading these eight threads back at the same time, what's striking is that **none of them is unique to one side of the family**. Education, patience, documentation, returning to places, service, humor, daily presence, the Japan-and-China curiosity — every one of them is exemplified on the Eesley side, on the Wildermuth/Fleming side, and now on the Zhou side as well. The archive's structural choice to give a [Zhou ancestor](/family/zhaoxiang-zhou/) the same person-page shape as an [Eesley ancestor](/family/wilbur-eesley/), to treat [Lingyin Temple](/places/lingyin-temple-hangzhou/) and [Rielingshausen church](/places/rielingshausen-church/) as the same kind of object, was a values choice before it was a data-model one.
+Reading these nine threads back at the same time, what's striking is that **none of them is unique to one side of the family**. Education, patience, documentation, returning to places, service, humor, daily presence, the Japan-and-China curiosity, the crossing impulse — every one of them is exemplified on the Eesley side, on the Wildermuth/Fleming side, and now on the Zhou side as well. The archive's structural choice to give a [Zhou ancestor](/family/zhaoxiang-zhou/) the same person-page shape as an [Eesley ancestor](/family/wilbur-eesley/), to treat [Lingyin Temple](/places/lingyin-temple-hangzhou/) and [Rielingshausen church](/places/rielingshausen-church/) as the same kind of object, was a values choice before it was a data-model one.
 
 The threads above are what the family has actually been passing down. The archive is the latest instance of one of them — thread #3, the writing-things-down-for-future-people — being practiced again. The hope, in the line Robert Earl left at the end of his last manuscript, is that whoever reads this in another generation will recognize themselves in some of it, and add their own.
 
