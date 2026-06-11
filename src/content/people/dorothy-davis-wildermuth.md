@@ -55,3 +55,7 @@ Two newly placed photographs show Dottie at the center of the household she ran 
 - [**Terrie's high school graduation in Japan, c. 1967**](/archive/terrie-high-school-graduation-japan/) &mdash; Dottie in a pale jacket with a leaf brooch at the lapel, on the other side of her daughter from Robert Earl in dress blues. The diploma frame, the family at the end of the Japan years.
 
 Biography otherwise pending &mdash; she's a figure most fully seen here through her children's records and the photographs the family kept.
+
+## The memorial program
+
+The fullest single document on Dottie that this archive holds is the [**printed program from her memorial service**](/archive/dorothy-wildermuth-memorial-program-2010/), held Friday 13 August 2010 at the Church of Christ on Sixth Street, Marietta &mdash; five months after her death in Brookhaven, Georgia at 85. The program's biographical panel is the single most complete sketch of her career (bookkeeper at Citizen's Bank Marietta → Southeast Bank Orlando → **Hoover Library at Stanford** → Maitland Public Library), her faith (Methodist), her interests (flowers, singing, square-dancing, quilting and needlework), and the names of all four children and all six grandchildren as of August 2010.
