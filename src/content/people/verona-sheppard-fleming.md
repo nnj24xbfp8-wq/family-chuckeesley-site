@@ -35,12 +35,22 @@ She and Wesley had at least eight children, named in Sadye's [1976 obituary](/fa
 
 She died **27 October 1922 in Marietta, Ohio** at age 53 &mdash; the move from West Virginia across the Ohio River to Marietta having already happened by then. Burial was three days later at **Mount Pleasant, Jefferson County, West Virginia** &mdash; back across the river to the family's West-Virginia ground. The Mt Pleasant burial is one of the small documentary signals that the Fleming-Dunbar-Sheppard side of the family continued to identify with West Virginia even after relocating to Ohio for work.
 
-Robert Earl Wildermuth was born 6 October 1924 &mdash; *two years* after Verona's death. He never met her. What he wrote about her in the [1990 Heritage](/docs/wildermuth-fleming-heritage-1990/) and in his [memoir](/docs/robert-earl-wildermuth-memoir/) is necessarily second-hand, from his mother [Sadye](/family/sadye-fleming-wildermuth/), who would have been twenty-one at the time of her own mother's death.
+Robert Earl Wildermuth was born 6 October 1924 &mdash; *two years* after Verona's death. He never met her.
+
+## The lament &mdash; the only memoir trace of Verona
+
+Robert Earl's [1989 memoir](/docs/robert-earl-wildermuth-memoir/) carries one substantive passage on Verona, and it is an absence-passage rather than a story about her life. In the middle of an extended sketch of his paternal great-grandmother [Catherina Boeshar](/family/catherina-boeshar/) Wildermuth (who lived to 1933 and was the only "grandmother" figure Robert Earl ever knew), he stops to record what his father Earl Adam used to lament across the rest of his life:
+
+> *I recall throughout my young adult hood that my father used to lament the fact that neither my mother's mother nor his mother lived until my sister and I were old enough to remember them. He was saddened by the fact that we never had any grandmothers to get to know and love &mdash; yet here was this lovely old lady who was our great-grandmother, an original from Germany, and my dad never really emphasized that she belonged to us. She was or could have been our grandmother and great-grandmother all in one.*
+
+Earl Adam's two grieved-for grandmothers were Verona (Sadye's mother, d. 27 October 1922) and Flora Schlicher Wildermuth (Earl Adam's own mother, d. 18 November 1919 &mdash; both gone before Robert Earl's October 1924 birth). Catherina Boeshar &mdash; the German-immigrant *great*-grandmother on the Wildermuth side &mdash; outlived both by a generation and stepped, partially, into the absence. Verona did not.
+
+The lament is the only narrative Robert Earl ever wrote down about her. The memoir's "little histories" project (paged out across pp. 42&ndash;55 with sketches of Ruth, Catherina Boeshar, Johann Michael Wildermuth, Johann Christian Wildermuth, the Schmidgalls, the Lundais, the Werners) carries the *paternal Wildermuth-side ancestors* in detail but stops before reaching the Fleming-and-Dunbar maternal side. Verona's life-of-record is therefore short on Robert-Earl-narrated detail; what we know of her is the GEDCOM, the name chain, and Earl Adam's lament that she was not there for the grandchildren.
 
 ## What's still open
 
-- *Robert Earl's specific narrative anecdotes* about Verona, if they exist in his "little histories of all of my family members" project named on page 36 of the [1989 memoir](/docs/robert-earl-wildermuth-memoir/) (*"At this time, June 1989, I am busily writing little histories of all of my family members"*). The sketches themselves may be in the Wildermuth-letters PDF set or in a separate undeposited file in the family papers.
+- *The Fleming-and-Dunbar oral history* &mdash; if Sadye told Robert Earl stories of her own mother that he did not write into the memoir, they sit in the gap between the 1989 sketches and the 1990 Heritage. Worth a focused look through Sadye's own letters and any photograph captions she annotated.
 - *The first marriage* (Sheppard) &mdash; date, husband, any surviving children of that union.
-- *Seth Grosvenor Dunbar's path* from Kennebec County, Maine to Wood County, West Virginia in the 1860s.
+- *Seth Grosvenor Dunbar's path* from Kennebec County, Maine to Wood County, West Virginia in the 1860s &mdash; a likely Civil War or post-war migration that the Dunbar-side Maine records would surface.
 
 > *Sources: GEDCOM &mdash; Dale Eesley / FamilySearch, sync 1 June 2026 ([downloadable](/docs/eesley-wildermuth-tree.ged)); Sadye Irene Wildermuth obituary, Marietta Times, c. 1976; lineage chart in [Robert Earl Wildermuth's 1989 memoir](/docs/robert-earl-wildermuth-memoir/).*
