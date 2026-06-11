@@ -70,6 +70,21 @@ A late-1950s or early-1960s color print from the [Maggie Eesley archive deck](/d
 
 ![Dottie at a birthday table with Uncle Norm Wolfe and family, c. late 1950s–early 1960s. Aunt Maggie deck.](../../assets/family/originals/00000004_00000020_00000021.jpeg)
 
+## The 1990 Heritage photographs of her
+
+Nine images of Dottie reproduced in [Robert Earl's 1990 Wildermuth/Fleming Heritage](/docs/wildermuth-fleming-heritage-1990/) are now placed as individual artifacts. Together they form a small Davis-side photographic spine from her birth through her late life:
+
+- [Her Ohio Department of Health birth certificate](/archive/dorothy-davis-birth-certificate-1925/) — 11:15 AM, 24 February 1925, Waterford Township.
+- [The Davis home in Waterford](/archive/davis-home-waterford-ohio/) where she was born — the only image of the family's pre-Unionville-fire address.
+- [Mary, Dorothy, and Betty at ages 5, 4, and 3](/archive/davis-sisters-three-mary-dorothy-betty-c-1929/) — c. 1929, the earliest known image of her.
+- [The same three sisters a year later](/archive/davis-sisters-1930-why-so-glum/) — *"why so glum?"* on the printed caption.
+- [The three sisters again with puppies and bare feet](/archive/davis-sisters-puppies-1931/) — c. 1931.
+- [Her 1943 portrait](/archive/dorothy-davis-portrait-1943/) — the Marietta High School graduation year.
+- [Her 1944 portrait](/archive/dorothy-davis-portrait-1944/) — bookkeeper at Citizen's Bank, year before V-E Day.
+- [With Robert Earl at Itazuke, 1968](/archive/bob-and-dorothy-itazuke-1968/) — the formal couple's portrait from the closing year of the Japan tour.
+- [The family of six at Itazuke, 1968](/archive/wildermuth-family-1968-itazuke/) — all four Wildermuth children with their parents on base.
+- [At her sewing machine, c. 1988](/archive/dorothy-quilting-c-1988/) — at the quilting that the 2010 memorial program would later name among the things she enjoyed.
+
 ## The memorial program
 
 The fullest single document on Dottie that this archive holds is the [printed program from her memorial service](/archive/dorothy-wildermuth-memorial-program-2010/), held Friday 13 August 2010 at the Church of Christ on Sixth Street, Marietta &mdash; five months after her death in Brookhaven, Georgia at 85. The program's biographical panel is the single most complete sketch of her career (bookkeeper at Citizen's Bank Marietta → Southeast Bank Orlando → Hoover Library at Stanford → Maitland Public Library), her faith (Methodist), her interests (flowers, singing, square-dancing, quilting and needlework), and the names of all four children and all six grandchildren as of August 2010.

@@ -99,12 +99,26 @@ The line is one this archive is built to honor &mdash; Robert Earl's 1990 advice
 
 The original document was self-printed and bound by Robert Earl in Orlando, Florida on 1 January 1990. He sent copies to his sisters, his children, the LDS Library in Salt Lake City, and the Orlando Public Library. The family copy was scanned in August 2019 on a Canon SC1001 scanner. Forwarded to this archive by Chuck Eesley, June 2026.
 
+## The reproduced photographs — now individual artifacts
+
+The Davis section's nine reproduced photographs are now placed as standalone artifact entries in this archive:
+
+- [Dorothy's Ohio Department of Health birth certificate](/archive/dorothy-davis-birth-certificate-1925/) &mdash; *Document #1* of the Davis section.
+- [The Davis home in Waterford, Ohio](/archive/davis-home-waterford-ohio/) where she was born.
+- [The three Davis sisters at 5, 4, and 3](/archive/davis-sisters-three-mary-dorothy-betty-c-1929/) &mdash; c. 1929, earliest known image of Dorothy.
+- [The three Davis sisters &mdash; *"why so glum?"*](/archive/davis-sisters-1930-why-so-glum/) &mdash; c. 1930.
+- [The three Davis sisters with puppies](/archive/davis-sisters-puppies-1931/) &mdash; c. 1931, the *"cute little puppies and cute little bare feet"* caption.
+- [Dorothy's 1943 formal portrait](/archive/dorothy-davis-portrait-1943/) &mdash; the Marietta High School graduation year.
+- [Dorothy's 1944 formal portrait](/archive/dorothy-davis-portrait-1944/) &mdash; bookkeeper at Citizen's Bank.
+- [Robert Earl and Dorothy at Itazuke, 1968](/archive/bob-and-dorothy-itazuke-1968/) &mdash; the formal Japan-tour couple's portrait.
+- [The Wildermuth family of six at Itazuke, 1968](/archive/wildermuth-family-1968-itazuke/) &mdash; all four children with their parents.
+- [Dorothy at her quilting, c. 1988](/archive/dorothy-quilting-c-1988/) &mdash; the second-to-last image of her in the Heritage.
+
 ## Queued follow-ups
 
 - **Seed Andreus Wildermuth's parents** if the LDS Family History records can carry the line one or two more generations back into pre-1748 Rielingshausen.
 - **Find the New York 1847 passenger manifest** for Johann Michael Wildermuth and the Rossars &mdash; Robert Earl's last open question, never resolved in his lifetime.
 - **Verify Ottilie Wildermuth of Tübingen's relationship** (if any) to the Württemberg Wildermuth line of this branch.
 - **Locate Michael G. Roberts's Fleming research files** &mdash; if his archive is still in the Akron OH area or has been deposited at a research library, the deeper Fleming material may be findable.
-- **Wire the document's photographs as individual artifact entries** &mdash; the birth certificate, the Waterford home, the three Davis sisters, the 1943 and 1944 portraits of Dorothy, the 1968 family group.
 
-The original 24-page PDF is held in the archive at `src/assets/family/Wildermuth-Family-History.pdf` and will be linked from this page once placed.
+The original 24-page PDF is held in the archive at `public/docs/Wildermuth-Family-History.pdf` and is linked from the [downloadable Heritage PDF](/docs/Wildermuth-Family-History.pdf).
