@@ -78,7 +78,7 @@ The faith-grounded stewardship record runs straight through First Congregational
 - Will served on the church's business committee for many years — the architect's hand applied to the church's administrative life.
 - Peggy was director of Christian education at First Congregational and a member of the Dana Philathia Class for years — the faith-and-education join in one role; she ran the program that taught the church's children.
 - Charlie sat on the church board and helped manage the church's endowment funds — bringing the stockbroker's hand to the church's financial life, applying the same investing discipline his mother had taught him to a pool of money that wasn't his own and wasn't meant to be. Stewardship in the literal sense: looking after something you do not own. He also *"believed strongly in the responsibility of voting,"* which is its civic-life counterpart — same posture, different institution.
-- [Terrie's memorial service](/family/terrie-lee-eesley/) was held in the same First Congregational sanctuary with the Rev. Linda Steelman officiating — the same minister who had buried Peggy a decade earlier. The church that had been the family's giving home was also the building where the family's losses were named.
+- [Charlie's memorial service](/docs/eulogy-charles-mcmaster-eesley/) was held in the same First Congregational sanctuary with the Rev. Linda Steelman officiating — the same minister who had buried Peggy nearly a decade earlier. The church that had been the family's giving home was also the building where the family's losses were named.
 
 The act of [Charles Leonard Eesley bringing Stella from Hawaii](/archive/eesley-family-group-portrait-late-1940s/) into the Bexley household during WWII reads in this thread too — a faith-grounded act of selfless refuge for a young person who was not a blood relative and was at real risk on the West Coast. Stewardship of another person's life. *"Sent macadamia nuts back from Hawaii for years"* is the rest of that thread told from her end.
 
@@ -246,7 +246,7 @@ The threads above are what the family has actually been passing down. The archiv
 - 威尔多年在教会的事务委员会任职 &mdash; 建筑师的手，应用于教会的行政生活。
 - 佩姬长期担任教会的宗教教育主任，是 Dana Philathia Class 的成员，做了很多年 &mdash; "信仰与教育"这个连接在她这里最直白：她负责的，是教会教育孩子们的整套课程。
 - 我父亲查理在教会董事会任职，协助管理教会的捐赠基金 &mdash; 他把股票经纪人的手，带到了教会的金融生活里，用从母亲那里学来的投资纪律，去打理一笔不属于他自己、也不应当属于他自己的资金。这就是字面意义上的"托管"：照管一件你并不拥有的东西。他还*"坚信投票是公民的责任"* &mdash; 这是同一种姿态在公共生活面上的对应。
-- [我母亲特丽的追思礼拜](/family/terrie-lee-eesley/)，就在同一座第一公理教会的圣殿里举行，由琳达·斯蒂尔曼牧师主持 &mdash; 也就是十年前为佩姬主持过追思礼拜的同一位牧师。这座家族多年来"给予"的所在，也是家族失去亲人时被点名追忆的所在。
+- [我父亲查理的追思礼拜](/docs/eulogy-charles-mcmaster-eesley/) 就在同一座第一公理教会的圣殿里举行，由琳达·斯蒂尔曼牧师主持 &mdash; 也就是近十年前为佩姬主持过追思礼拜的同一位牧师。这座家族多年来"给予"的所在，也是家族失去亲人时被点名追忆的所在。
 
 [查尔斯·伦纳德·伊斯利](/family/charles-leonard-eesley/) 在二战期间 [把 Stella 从夏威夷接到俄亥俄州贝克斯利的家中](/archive/eesley-family-group-portrait-late-1940s/) 这件事，也属于这条线索 &mdash; 这是一个有信仰底色的、无私的庇护行动，对象是一位与他没有血缘关系、却在美国西海岸面临真实危险的年轻人。对另一条人命的托管。*"许多年里都从夏威夷往回寄夏威夷果"* 是这条线索从她那一端讲完的部分。
 
