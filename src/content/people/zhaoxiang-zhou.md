@@ -10,7 +10,6 @@ death:
   place: "Qingdao, Shandong, China"
 spouses:
   - yunzhe-sun
-portrait: ../../assets/family/originals/IMG_1803.jpeg
 summary: "Lijie's paternal grandfather. Born 1 August 1930 in Jiaozhou Shi (the city-region just inland from Qingdao on the Shandong peninsula) — the ancestral place for this branch of the Zhou family. Founded the first photography studio in Qingdao; his daily practice was tai chi. Died 9 December 2022 in Qingdao, age 92."
 ---
 
@@ -22,7 +21,7 @@ He spent the war years and the founding years of the People's Republic as a youn
 
 His working life centered on photography: **he founded the first photography studio in Qingdao** &mdash; the civic-business history of mid-20th-century Qingdao runs partly through his shop.
 
-**The portrait at the head of this page is the loop closing on itself**: Zhaoxiang seated in his own studio, in front of one of his own staged backdrops &mdash; the painted curving-staircase parlor scene with the red carpet, the framed flowers, the dark paneled door &mdash; with **young [Lijie](/family/lijie-zhou/), about five, on his right** (viewer's left) in a patterned print blouse and a pink necklace, and **a boy of about ten on his left** in a red Young Pioneer scarf. The girl is **his own granddaughter — my wife** &mdash; which dates the frame to **c. 1988**, Zhaoxiang in his late fifties at the height of the studio's mid-career. The boy is most likely one of Lijie's cousins from her father's siblings' families; identification to be confirmed. *The man who made his life out of portraits of other people's faces, photographed inside his own shop, on his own set, with his own granddaughter under his right hand*. **It is the earliest frame in this archive of Lijie herself**, and the only one that holds her and Zhaoxiang in the same photograph.
+A studio portrait formerly displayed at the head of this page &mdash; showing a seated middle-aged man in glasses with young [Lijie](/family/lijie-zhou/) and a boy of about ten in a red Young Pioneer scarf, in front of a painted staircase backdrop &mdash; was **retracted in June 2026** after Chuck confirmed that the man in that photograph is in fact [Lijie's father Ling Zhou](/family/ling-zhou/), not Lijie's grandfather Zhaoxiang as the page had previously framed it. The frame is now placed on the [Ling Zhou page](/family/ling-zhou/) and on the [c. 1988 studio portrait artifact](/family/lijie-zhou/). No confirmed photograph of Zhaoxiang himself sits at the head of this page until one is identified.
 
 Outside the studio he kept a daily **tai chi (太极拳)** practice &mdash; the slow standing-meditation form that has shaped the bodies of generations of older Chinese practitioners. The combination &mdash; the precision of the studio camera and the unhurried rhythm of tai chi in the morning &mdash; is a fair index of how he carried himself across nine decades.
 

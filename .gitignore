@@ -24,3 +24,10 @@ _build-tmpcache.mjs
 
 # Large files (>100 MB) that can't be pushed to GitHub. Keep them locally outside the repo's tracked tree.
 large-files/
+
+# Specific large source-material files held locally for mining but never committed.
+# These are raw scans/PDFs whose extracted/transcribed contents live in src/content/
+# but the source files themselves exceed GitHub's 100MB per-file limit or are simply
+# too bulky to belong in regular Git history.
+src/assets/family/originals/grandmaE1.pdf
+src/assets/family/Charlie's autobiography.zip
