@@ -56,6 +56,14 @@ Two newly placed photographs show Dottie at the center of the household she ran 
 
 Biography otherwise pending &mdash; she's a figure most fully seen here through her children's records and the photographs the family kept.
 
+## The Unionville house fire
+
+Dottie's childhood carries one small but vivid catastrophe that survives only because her son Robert Earl wrote it down decades later in the [1990 Wildermuth/Fleming Heritage](/docs/wildermuth-fleming-heritage-1990/). Dottie was a small child in Unionville, Ohio when the family home **caught fire and burned to the ground while her parents were away**. The recovery he describes is itself a small piece of the *"showing up — in small, daily, unglamorous ways"* thread in the [family-threads essay](/docs/family-threads/):
+
+> *In Unionville, while the parents were away from home, they suffered a tremendous calamity. The house caught fire and burned to the ground. This was a real tragedy but with the help of friends and neighbors, they recovered, moved into a small shed not damaged in the fire while their parents lived in a poorly insulated one-room garage throughout the cold winter that followed.*
+
+Two generations later, Dottie's daughter Terrie would have her own version of *"close relatives by way of long entertainment of visiting family"* in her 2017 obituary &mdash; the Wolfes named explicitly. The Unionville fire is the earliest documented instance of that same Davis-and-Wildermuth practice of **kinship-as-mutual-aid in a crisis**, run on the Davis side, one generation before Dottie herself would carry it across into the Wildermuth household.
+
 ## At the birthday table with Uncle Norm
 
 A late-1950s or early-1960s color print from the [Maggie Eesley archive deck](/docs/dale-eesley-familysearch-tree/) shows **Dottie at a birthday or family-dinner table with [Norm Wolfe](/family/norman-graham-wolfe/) and family** &mdash; the *Uncle Norm* of Chuck's childhood and one of the **"Betty and Norm Wolfe"** named in [Terrie's 2017 obituary](/family/terrie-lee-eesley/) as *"close relatives by way of long entertainment of visiting family."* Nine people around the table, including children; a tablecloth, a cake, a pitcher, the texture of a multi-generation gathering. The print is one of the earliest photographic records of the **Wolfe-Wildermuth kinship that Terrie's obituary names from the other end of the same decades-long relationship** &mdash; the visiting-family tradition that ran from this birthday table all the way into the [Wolfes' inclusion in her own obituary](/family/terrie-lee-eesley/) a half-century later.

@@ -29,6 +29,10 @@ source: "Written by Chuck Eesley, June 2026, as a synthesis pass across the exis
 
 <p class="not-prose my-4 p-3 border-l-4 border-rule bg-ink/5 text-sm"><strong>📖 本页含中文版本 — <a href="#zh">点此跳至中文 ↓</a></strong> &nbsp;·&nbsp; <em>This page has a Chinese version below.</em></p>
 
+> *Can one tell where he's going until he knows where he's been?*
+>
+> &mdash; Robert Earl Wildermuth, epigraph to the [Wildermuth/Fleming Heritage](/docs/wildermuth-fleming-heritage-1990/), 1 January 1990
+
 ## What this essay is doing
 
 Most of what's in this archive is the **what** — names, dates, places, photographs, the [Vietnam letters](/docs/letters-from-vietnam/), the [eulogies](/docs/eulogy-charles-mcmaster-eesley/), the [memoirs](/docs/robert-earl-wildermuth-memoir/), the [photo deck](/docs/dale-eesley-familysearch-tree/). What follows is a pass at the **why**: a reading-across of the archive for the values, practices, and lessons that show up on more than one page and across more than one generation — the threads, in other words, that the family has actually handed down.
@@ -43,7 +47,7 @@ The lesson the family lived is not just *"go to school."* It is that **education
 
 ## 2. Patience and the long view as a moral practice
 
-Most clearly named in Peggy's investing: *"her wisdom, far-sightedness and patience in investing inspired him to become a stockbroker, funded my grandparents' travel in retirement, and paid for a large part of my education."* The eulogy says it plainly: she was the figurehead. But the pattern is wider. Peggy's [bridge in her later decades](/family/margaret-mcmaster-eesley/) was the same McMaster patience-and-strategy running on cards instead of capital. Robert Earl's retirement turn to **genealogy research** — the slow, methodical work that produced the [memoirs](/docs/robert-earl-wildermuth-memoir/) and the [combat log](/docs/the-big-one/) this archive is built on — is the same practice on the historical side. Terrie's [twenty-three years](/family/terrie-lee-eesley/) in the Marietta City Schools, with the late-night studying after long teaching days, is the same practice in classroom form. Charlie's stockbrokering. Will's architectural practice. My own decade-plus into the PhD and now the long climb of building this archive.
+Most clearly named in Peggy's investing: *"her wisdom, far-sightedness and patience in investing inspired him to become a stockbroker, funded my grandparents' travel in retirement, and paid for a large part of my education."* The eulogy says it plainly: she was the figurehead. But the pattern is wider. Peggy's [bridge in her later decades](/family/margaret-mcmaster-eesley/) was the same McMaster patience-and-strategy running on cards instead of capital. **Robert Earl's [eighteen-year genealogical research arc (1971–1989)](/docs/wildermuth-fleming-heritage-1990/) is the historical-research version**: he wrote the burgermeisters of [Marbach](/places/marbach-wildermuthstrasse/), Pleidelsheim, and [Rielingshausen](/places/rielingshausen-church/) and got three negative replies; turned to the **LDS records in Salt Lake City** and found a fourth village; wrote *that* mayor; the mayor passed his letter to a city genealogist; the genealogist confirmed Johann Michael had been born in [Großaspach](/places/grossaspach/). Then **three years of Philadelphia correspondence** before an unexpected August 1986 letter informed him the naturalization had actually been filed in New York. **Eighteen years of methodical letters and counter-letters became one printed binder on 1 January 1990**, dedicated to his parents and his wife. Terrie's [twenty-three years](/family/terrie-lee-eesley/) in the Marietta City Schools, with the late-night studying after long teaching days, is the same practice in classroom form. Charlie's stockbrokering. Will's architectural practice. My own decade-plus into the PhD and now the long climb of building this archive.
 
 The deeper lesson is not "compound your money." It is that **the slow thing, done well, for long enough, is what actually moves the needle in a family's life**. Money is one register. Education is another. So is genealogy. So is teaching. So is bridge.
 
@@ -193,6 +197,10 @@ The threads above are what the family has actually been passing down. The archiv
 
 # 中文 — 家族的十条线索
 
+> *一个人若不知自己来自哪里，又怎能说自己要往哪里去？*
+>
+> &mdash; 罗伯特·厄尔·维尔德穆斯，[《维尔德穆斯-弗莱明家族史》](/docs/wildermuth-fleming-heritage-1990/)扉页题辞，1990年1月1日
+
 ## 这篇文章想做什么
 
 本档案中大部分的内容是 **"是什么"** &mdash; 姓名、日期、地点、照片、[越南家书](/docs/letters-from-vietnam/)、[悼词](/docs/eulogy-charles-mcmaster-eesley/)、[回忆录](/docs/robert-earl-wildermuth-memoir/)、[家族相册](/docs/dale-eesley-familysearch-tree/)。下面想做的，是一次 **"为什么"** 的尝试：对整个档案做一次横向阅读，把跨页面、跨代际反复出现的价值观、做法和教诲挑出来 &mdash; 也就是说，整理出这个家族实际传承下来的那几条线索。
@@ -207,7 +215,7 @@ The threads above are what the family has actually been passing down. The archiv
 
 ## 二、耐心，和长期主义，作为一种道德实践
 
-最清晰的表述出现在祖母佩姬的投资上：*"她在投资上的智慧、远见和耐心，启发她儿子去做股票经纪人，资助了我祖父母的退休旅行，并为我的教育掏了一大半的费用。"* 悼词里说得直白：她是家里的精神支柱。但这种模式比"投资"要宽得多。佩姬晚年在 [桥牌牌桌上下的耐心和谋略](/family/margaret-mcmaster-eesley/)，是麦克马斯特家族那种"沉得住气"在纸牌上的体现。我外祖父退休后转向**家谱研究** &mdash; 那种缓慢、严谨、几十年如一日的工作，产出了 [回忆录](/docs/robert-earl-wildermuth-memoir/) 和 [战斗日志](/docs/the-big-one/)，正是本档案得以建立的基础 &mdash; 是这同一种实践在历史这一面上的展开。我母亲特丽在玛丽埃塔市学区一干 [二十三年](/family/terrie-lee-eesley/)，下班后做完饭还熬夜备课，是这种实践在课堂上的展开。我父亲做股票经纪的几十年。我祖父威尔做建筑的几十年。我自己读博读了十几年，现在又是在慢慢把这个档案建起来。
+最清晰的表述出现在祖母佩姬的投资上：*"她在投资上的智慧、远见和耐心，启发她儿子去做股票经纪人，资助了我祖父母的退休旅行，并为我的教育掏了一大半的费用。"* 悼词里说得直白：她是家里的精神支柱。但这种模式比"投资"要宽得多。佩姬晚年在 [桥牌牌桌上下的耐心和谋略](/family/margaret-mcmaster-eesley/)，是麦克马斯特家族那种"沉得住气"在纸牌上的体现。**我外祖父罗伯特·厄尔[长达十八年的家谱研究（1971&ndash;1989）](/docs/wildermuth-fleming-heritage-1990/)，是这一脉络在历史研究上的对应**：他给[马尔巴赫](/places/marbach-wildermuthstrasse/)、普莱代尔斯海姆、[里林斯豪森](/places/rielingshausen-church/)三座符腾堡村镇的市长写信，得到三个否定的答复；转向**盐湖城的耶稣基督后期圣徒教会档案库**，找到了第四座村庄；又写信给那位市长；市长把信转给了一位市谱牒研究者；研究者从教区档案里确认，约翰·迈克尔·维尔德穆斯出生于[格罗斯阿斯巴赫](/places/grossaspach/)。接着是**长达三年的费城往返通信**，直到1986年8月一封意外来信告诉他，那份归化文件实际归档于纽约，而非费城。**十八年的来往书信，最后变成了1990年1月1日装订成册的一本印本**，扉页献给他的父母与妻子。母亲特丽在玛丽埃塔市学区一干 [二十三年](/family/terrie-lee-eesley/)，下班后做完饭还熬夜备课，是这种实践在课堂上的展开。父亲做股票经纪的几十年。祖父威尔做建筑的几十年。我自己读博读了十几年，现在又是在慢慢把这个档案建起来。
 
 更深层的教诲不是"复利能赚大钱"。更深层的是 &mdash; **慢的事，做对了，做得够久，才是真正改变一个家族走向的东西**。钱是一种刻度。教育是另一种。家谱研究是。教书是。桥牌也是。
 
