@@ -254,4 +254,8 @@ Ruth's sketch also records the deaths:
 
 The memoir closes with a lineage chart of the **Fleming line** (Sadye's side) going back to **John Roe — Revolutionary War Veteran** (m. Susannah Meeks), then **John Fleming m. Clarissa Roe** → **Lewis Fleming m. Synthia Bailey** → **Thomas Baily Fleming m. Martha Turner** → **James Wesley Fleming m. Verona Belle Kelley** → **Earl Wildermuth m. Sadye Irene Fleming** → **Robert Earl Wildermuth m. Dorothy Marie Davis** → **Debra Jean Wildermuth m. Angelo Massaro**.
 
-> *Original document: [Read the full memoir PDF (55 pp.)](/docs/Wildermuth-memoir.pdf). Companion documents: [The Big One](/docs/the-big-one/) (combat log); [Wildermuth/Fleming Heritage 1990](/docs/wildermuth-fleming-heritage-1990/) (genealogy).*
+## The "Little Histories" project (pp. 46–55)
+
+Pages 46–55 of this memoir carry Robert Earl's *"little histories of all of my family members"* &mdash; one-page sketches of each Wildermuth-side ancestor he had documented by December 1988. The sketches run from his great-grandmother *Catharina Boeshar* (the rocking-chair-and-apples grandmother) back across the Atlantic through *Johann Michael* the 1847 emigrant, *Johann Christian* the Großaspach shoemaker, the *Schmidgall-Landai-Wild* generations of 18th-century Röhrach, and finally to *Johann Georg Werner* and *Barbara Phillipp* (b. 1712 Großaspach) — the deepest names Robert Earl reached. The full transcribed sketches are catalogued as a standalone document: [Robert Earl Wildermuth's "Little Histories" (1988–1993)](/docs/robert-earl-wildermuth-little-histories/).
+
+> *Original document: [Read the full memoir PDF (55 pp.)](/docs/Wildermuth-memoir.pdf). Companion documents: [The Big One](/docs/the-big-one/) (combat log); [Wildermuth/Fleming Heritage 1990](/docs/wildermuth-fleming-heritage-1990/) (genealogy); [The "Little Histories" (1988–1993)](/docs/robert-earl-wildermuth-little-histories/) (ancestor sketches).*
