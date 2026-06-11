@@ -16,6 +16,8 @@ people:
   - george-d-wildermuth
   - blanche-wildermuth
   - emma-wildermuth
+  - charlie-wildermuth
+  - margaret-wildermuth
 locationFrom: "Marietta, Ohio (writing) / 622 Hudson Avenue, Newark, Ohio (return address with son Carl)"
 locationTo: "Robert Earl Wildermuth — likely Orlando, Florida or post-Pentagon Florida residence"
 postmarkDate: "1972-01-17"
