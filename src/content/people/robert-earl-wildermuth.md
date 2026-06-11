@@ -84,6 +84,7 @@ Two newly placed photographs show Robert Earl in the middle of the career rather
 - [**The Wildermuth family portrait, mid-1960s**](/archive/wildermuth-family-portrait-1960s/) &mdash; Robert Earl and Dottie with all four children (Terrie and Sandy as teenagers, Debbie school-age, Rob a toddler). The fullest single frame of the household at the height of the Air-Force years.
 - [**Terrie's high school graduation in Japan, c. 1967**](/archive/terrie-high-school-graduation-japan/) &mdash; Robert Earl in **U.S. Air Force dress blues** with command-pilot wings and ribbons, standing beside his eldest daughter at the end of her school-on-the-postings era. This is the closest the archive holds to a clear "career portrait" of him in uniform.
 
+
 That his grandson Chuck would join the [Stanford](/places/stanford-university/) faculty seventy-some years later is the generational rhyme this archive was built to record. Robert Earl closed his last manuscript by addressing "future genealogists." This site is one of them answering.
 
 > *Structured record: [Dale Eesley / FamilySearch — Robert Earl Wildermuth (GMLH-NYT)](https://www.familysearch.org/tree/person/details/GMLH-NYT).*

@@ -56,6 +56,12 @@ Two newly placed photographs show Dottie at the center of the household she ran 
 
 Biography otherwise pending &mdash; she's a figure most fully seen here through her children's records and the photographs the family kept.
 
+## At the birthday table with Uncle Norm
+
+A late-1950s or early-1960s color print from the [Maggie Eesley archive deck](/docs/dale-eesley-familysearch-tree/) shows **Dottie at a birthday or family-dinner table with [Norm Wolfe](/family/norman-graham-wolfe/) and family** &mdash; the *Uncle Norm* of Chuck's childhood and one of the **"Betty and Norm Wolfe"** named in [Terrie's 2017 obituary](/family/terrie-lee-eesley/) as *"close relatives by way of long entertainment of visiting family."* Nine people around the table, including children; a tablecloth, a cake, a pitcher, the texture of a multi-generation gathering. The print is one of the earliest photographic records of the **Wolfe-Wildermuth kinship that Terrie's obituary names from the other end of the same decades-long relationship** &mdash; the visiting-family tradition that ran from this birthday table all the way into the [Wolfes' inclusion in her own obituary](/family/terrie-lee-eesley/) a half-century later.
+
+![Dottie at a birthday table with Uncle Norm Wolfe and family, c. late 1950s–early 1960s. Aunt Maggie deck.](../../assets/family/originals/00000004_00000020_00000021.jpeg)
+
 ## The memorial program
 
 The fullest single document on Dottie that this archive holds is the [**printed program from her memorial service**](/archive/dorothy-wildermuth-memorial-program-2010/), held Friday 13 August 2010 at the Church of Christ on Sixth Street, Marietta &mdash; five months after her death in Brookhaven, Georgia at 85. The program's biographical panel is the single most complete sketch of her career (bookkeeper at Citizen's Bank Marietta → Southeast Bank Orlando → **Hoover Library at Stanford** → Maitland Public Library), her faith (Methodist), her interests (flowers, singing, square-dancing, quilting and needlework), and the names of all four children and all six grandchildren as of August 2010.
