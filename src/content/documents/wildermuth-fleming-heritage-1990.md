@@ -116,11 +116,27 @@ The Davis section's nine reproduced photographs are now placed as standalone art
 
 ## Follow-up research, June 2026
 
-The four queued items from the original 1990 closing list have been pulled forward into this June 2026 desk pass. Where each was *resolved,* the finding is recorded below; where the answer requires archival visits or paid-database queries, the route forward is laid out.
+The four queued items from the original 1990 closing list have been pulled forward into this June 2026 desk pass &mdash; first against the live GEDCOM ([`public/docs/eesley-wildermuth-tree.ged`](/docs/eesley-wildermuth-tree.ged), Dale Eesley / FamilySearch, sync 1 June 2026), then against web sources for what the GEDCOM did not carry.
 
-### 1. Andreus Wildermuth's earlier generations — partially resolved
+### 1. Andreus Wildermuth's earlier generations &mdash; *resolved by the GEDCOM*
 
-Andreus Wildermuth (b. ~1748, Rielingshausen, *Gartner*) remains the deepest documented Wildermuth direct ancestor in this archive. The contextual finding from the June 2026 desk pass is that the [Rielingshausen Wildermuth clan is documented in parish ledgers from 1521](https://www.kultur-und-heimatverein-rielingshausen.de/start/kelter/), and the standing academic study of the family [*Die Wildermuth in Erdmannhausen*](https://regionalia.blb-karlsruhe.de/frontdoor/index/index/docId/22257) (Karlsruhe BLB OPUS) traces the relevant Marbach-district lines forward from the 16th century. One mid-17th-century instance &mdash; *Casper Wildermuth* (1655&ndash;1727) of Rielingshausen, son of *Hans Wildermuth* and *Maria Klinger* &mdash; is fully [profiled on Geni](https://www.geni.com/people/Casper-Wildermuth/346364312150013734) and likely sits two to four generations above Andreus through the same village. The path forward is a [FamilySearch Württemberg, Germany, Lutheran Baptisms, Marriages, and Burials, 1500-1985](https://www.ancestry.com/search/collections/61023/) query on the Rielingshausen parish books, or a direct request to the Landeskirchliches Archiv Stuttgart for the *Kirchenbuch* of Rielingshausen 1700–1800. Queued, not closed.
+The GEDCOM has carried Robert Earl's open question *two full generations further* than 1990. The Wildermuth father-line up from Earl Adam now reads:
+
+| Gen | Name | Born | Place |
+|---|---|---|---|
+| 1 | [Earl Adam Wildermuth](/family/earl-a-wildermuth/) | 6 Oct 1899 | Marietta, Ohio |
+| 2 | [William Clifford Wildermuth](/family/william-wildermuth/) | 17 Sep 1866 | Marietta, Ohio |
+| 3 | [John Michael Wildermuth](/family/johann-michael-wildermuth/) | 23 Aug 1830 | Großaspach, Württemberg (the 1847 emigrant) |
+| 4 | [Johann Christian Wildermuth](/family/johann-christian-wildermuth/) | 10 Oct 1794 | Großaspach |
+| 5 | [Adam Wildermuth](/family/adam-wildermuth/) | 26 Oct 1768 | Rielingshausen (d. 1800 Großaspach &mdash; the move to Großaspach happens in this generation) |
+| 6 | [Andreas Adam Wildermuth](/family/andreus-wildermuth/) (Robert Earl's *"Andreus"*) | 30 Nov 1745 | Rielingshausen (d. 1771, age 25) |
+| 7 | [Johann Adam Wildermuth](/family/johann-adam-wildermuth-1720/) | 1720 | Rielingshausen (d. 1768; m. Rosina Kreher 11 Jun 1743) |
+| 8 | [Johannes Wildermuth](/family/johannes-wildermuth-1682/) | 28 Dec 1682 | Rielingshausen (m. Margaretha Grayers 27 Sep 1708) |
+| 9 | [Johannes Wildermuth](/family/johannes-wildermuth-1650/) | ~1650 | Rielingshausen (the Peace-of-Westphalia generation) |
+
+Two important corrections to the 1990 record: (a) Robert Earl estimated Andreus's birth as *~1748*; the parish register has him as *30 November 1745*. (b) Robert Earl's spelling *"Andreus"* is the family-record Anglicization; the Rielingshausen *Kirchenbuch* has him as *Andreas Adam Wildermuth.*
+
+For pre-1650 generations: the [Rielingshausen Wildermuth clan is documented in parish ledgers from 1521](https://www.kultur-und-heimatverein-rielingshausen.de/start/kelter/), and the standing academic study [*Die Wildermuth in Erdmannhausen*](https://regionalia.blb-karlsruhe.de/frontdoor/index/index/docId/22257) (Karlsruhe BLB OPUS) traces the relevant Marbach-district lines forward from the 16th century. The path beyond Johannes ~1650 is the Landeskirchliches Archiv Stuttgart *Kirchenbücher* for Rielingshausen 1521&ndash;1700, queryable via [FamilySearch Württemberg, Germany, Lutheran Baptisms, Marriages, and Burials, 1500-1985](https://www.ancestry.com/search/collections/61023/).
 
 ### 2. The 1847 New York passenger manifest — route forward identified
 
@@ -132,8 +148,25 @@ Ottilie Wildermuth (1817&ndash;1877) connects to this branch *by marriage,* not 
 
 Eberhard Wildermuth (1890&ndash;1952), her grandson, served as West German Federal Minister for Housing and Construction under Adenauer (1949&ndash;52) &mdash; the public-life continuation of the same Tübingen branch.
 
-### 4. Michael G. Roberts's Fleming research files — open, route documented
+### 4. The Fleming line back to colonial America &mdash; *largely resolved by the GEDCOM*
 
-The June 2026 web pass did not surface a deposited Fleming archive under Michael G. Roberts's name. His address as of 1990 &mdash; *682 Springwater Drive, Akron, Ohio 44313* &mdash; sits in the West Akron neighborhood served by the [Akron-Summit County Public Library's Special Collections / Genealogy Department](https://www.akronlibrary.org/locations/main-library/special-collections/genealogy/), which is the most plausible Ohio deposit point if the family chose to donate. The route forward: a written inquiry to ASCPL Special Collections; a parallel inquiry to the [Ohio Genealogical Society's Summit County chapter](https://www.ogs.org/); and an obituary-index search via [Akron Beacon Journal Obituary Indexes (1937&ndash;present)](https://www.akronlibrary.org/locations/main-library/special-collections/genealogy/akron-beacon-journal-obituary-indexes) to find when he died and which family members survived him. Queued.
+Michael G. Roberts's research files themselves are not findable via the 2026 web pass &mdash; his address as of 1990 (*682 Springwater Drive, Akron, Ohio 44313*) sits in the West Akron neighborhood served by the [Akron-Summit County Public Library Special Collections](https://www.akronlibrary.org/locations/main-library/special-collections/genealogy/), the most plausible deposit point if a family donation was ever made; an obituary-index inquiry via the [Akron Beacon Journal Obituary Indexes](https://www.akronlibrary.org/locations/main-library/special-collections/genealogy/akron-beacon-journal-obituary-indexes) would be the next step to find descendants.
+
+But the more important finding is that the GEDCOM has *carried the Fleming line three generations further back than the 1990 Heritage,* with the Scottish origin Robert Earl had suspected now anchored to a named individual. The Fleming father-line up from Sadye now reads:
+
+| Gen | Name | Born | Place |
+|---|---|---|---|
+| 1 | [Sadye Irene Fleming](/family/sadye-fleming-wildermuth/) | 15 Jul 1901 | Williamstown, Wood Co., West Virginia |
+| 2 | [James Wesley Fleming](/family/wesley-fleming/) | 20 Dec 1855 | Arnolds Creek, Doddridge Co., Virginia |
+| 3 | Thomas Bailey Fleming | Feb 1830 | Harrison Co., Virginia |
+| 4 | Lewis B Fleming | 1807 | Harrison Co., Virginia |
+| 5 | John F. Fleming | 11 Oct 1781 | *Montgomery County, Maryland* |
+| 6 | John Fleming | 1744 | *Prince George's, Maryland* (Montgomery was carved out of Prince George's in 1776) |
+| 7 | John Fleming | 1714 | *Cecil County, Maryland* (the first American-born ancestor) |
+| 8 | John Fleming | 1683 | (origin in tree: Maryland; arrival route via the Scotch-Irish stream from Ulster) |
+
+The Scottish anchor: Gen-8 John Fleming's wife is *Ann Marie Fleming,* born 10 August 1695 in Scotland. The earliest *Maryland-born* Fleming is Gen-7 (1714 Cecil County). Robert Earl's 1990 reading &mdash; *"a Scot living in Northern Ireland... came to colonial Maryland in the 1750s"* &mdash; resolves into the more specific picture: the Flemings reached Cecil County, Maryland on Chesapeake Bay during the late-17th-century Scotch-Irish immigration wave, then moved south to Prince George's County (which gave way to Montgomery County in 1776) over the 18th century, then west across the Appalachian crest into Harrison County, Virginia (now West Virginia) in the early 19th. The Montgomery County period Robert Earl identified is the *middle* of this chain.
+
+That largely closes Michael G. Roberts's contribution &mdash; his role was to push the line back to colonial Maryland, and the GEDCOM has now extended that another full generation into the Scotland origin. A Roberts-archive inquiry remains queued for any *intermediate-Maryland* records he may have collected that didn't make it into Robert Earl's 1990 summary.
 
 The original 24-page PDF is held in the archive at `public/docs/Wildermuth-Family-History.pdf` and is linked from the [downloadable Heritage PDF](/docs/Wildermuth-Family-History.pdf).
