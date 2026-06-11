@@ -35,7 +35,7 @@ A page from late 1969 — Charlie writing from a stateside Army post (presumably
 >
 > I don't know how I'm going home yet. You will have to be more specific about what your holiday plans are so we can get together. All planes are filled unless the army charters some planes. Then I will probably have to buy a round trip ticket. Be specific in your next letter.
 >
-> I'm quite certain you can stay with us if Angela can't put up with you. I will probably take my full leave time, 18 DEC to 6 JAN.
+> I'm quite certain you can stay with us if Angel can't put up with you. I will probably take my full leave time, 18 DEC to 6 JAN.
 >
 > I'm sorry to hear you're hurry. I trust you're not taking any drastic measures while I'm away.
 >
@@ -52,7 +52,7 @@ The Christmas-leave bookkeeping. The Army granted soldiers ~30 days of annual le
 
 The *"711 days left."* Charlie's countdown lines run through the entire corpus — *"145 days at the most"* in the [21 January 1971 letter](/docs/letters/charlie-to-terrie-1971-01-21/), *"17 days left"* in the [29 May 1970 letter](/docs/letters/charlie-to-terrie-1970-05-29/), and so on. The 711 here is his earliest countdown in the archive: 711 days from late November or early December 1969 maps to a late-1971 ETS — consistent with a three-year Army term starting in November or December 1968. He would in fact ETS earlier than that, in late March 1971 with his 32-day Vietnam tour-extension, by virtue of the [19 January 1971 strategy decision](/docs/letters/charlie-to-terrie-1971-01-19-ets-extension/). At the moment of this letter, that decision is still over a year in the future. He is just counting from where he is.
 
-Angela the sister. Terrie's sister [Angela](/family/sandra-sue-wildermuth-clement/) — "Angela" here is presumably "Angel," the name family used for her — is being asked to put Terrie up during the Christmas window. Charlie's offer that she can instead stay with the Eesleys *"if Angela can't put up with you"* is the same early Eesley-side hospitality that will run through the rest of his tour and that his mother [Peggy](/family/margaret-mcmaster-eesley/) later mobilizes for Terrie's tuition and his own correspondence with Congressman Miller.
+Angel — meaning Faye Angel. *"I'm quite certain you can stay with us if Angel can't put up with you."* The "Angel" here is [Faye Angel](/family/faye-angel/) — Chuck's godmother and the family friend whose picture-framing business Charlie's parents partnered with for decades. The Angels were close enough to be a default lodging option for Terrie during a Christmas Charlie was coming home; Charlie's offer that Terrie can instead stay with the Eesleys if that doesn't work out is the same early Eesley-side hospitality that will run through the rest of his tour and that his mother [Peggy](/family/margaret-mcmaster-eesley/) later mobilizes for Terrie's tuition and his own correspondence with Congressman Miller.
 
 *"I'm sorry to hear you're hurry. I trust you're not taking any drastic measures while I'm away."* The closing line — light, faux-anxious, mock-courtroom — is an early instance of the dry, half-teasing register Charlie's [eulogy](/docs/eulogy-charles-mcmaster-eesley/) names as his transmitted family inheritance. The same voice that will write *"that's why I had to become a professor where the bar for being funny is sufficiently low"* in [Chuck's later eulogy for him](/docs/eulogy-charles-mcmaster-eesley/) is already on the page in late 1969.
 
