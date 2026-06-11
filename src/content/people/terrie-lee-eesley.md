@@ -91,4 +91,13 @@ The photograph at the head of this page shows Terrie at the **Stanford Alumni Ce
 
 A memorial service was held **July 8, 2017 at 2:00 p.m.** at the Hadley Funeral Reno Chapel, 1021 Pike Street, Marietta. Cremation. The printed program shows speakers in order: **Chuck Eesley, son; Sandy Clement, sister; Debbie Massaro, sister; [Daniel Ebaugh](/family/daniel-ebaugh/), friend; Tribute from the Teachers and Students of Harmar School (read by Chuck Eesley).** Terrie's own poem was printed alongside the obituary.
 
+## See also — family threads
+
+Terrie is an anchor for four of the ten threads in the [**Family threads**](/docs/family-threads/) synthesis essay:
+
+- **Thread #1 — Education as inheritance** — her *"don't worry, I will find a way"* commitment of Chuck to Duke is the one-generation-on extension of Robert Earl's Stanford BA.
+- **Thread #5 — Service, stewardship, and giving** — **23 years** in the Marietta City Schools; children's librarian at Marietta Public Library; Title I teacher at Harmar Elementary; Safety Town in summers.
+- **Thread #6 — Humor as transmitted inheritance** — the [*"Please don't cry for me"* poem](/docs/please-dont-cry-for-me-terrie-bain/) is the family's clearest single instance of humor-as-grace-under-mortality.
+- **Thread #9 — Crossing for what's next** — the *deliberate inverse case*: stayed in Marietta so Chuck would have *"a set of childhood friends,"* against her own Air-Force-childhood peripatetic upbringing.
+
 > *Sources: [Terrie Lee Bain obituary, *Marietta Times*, 29 May 2017](https://www.mariettatimes.com/obituaries/2017/05/terrie-lee-bain/); [Hadley Funeral Home listing](https://www.hadleyfh.com/obituaries/Terrie-Lee-Bain?obId=1871041); Chuck's [memorial speech, 8 July 2017](/docs/memorial-speech-terrie-lee-bain/). Structured record: [Dale Eesley / FamilySearch — Terrie Lee Wildermuth (GMLH-T4J)](https://www.familysearch.org/tree/person/details/GMLH-T4J).*

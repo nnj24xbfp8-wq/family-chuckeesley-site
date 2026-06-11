@@ -65,4 +65,8 @@ The cover of [Bean's 1985 family history](/docs/eesley-family-history-1985/), dr
 
 He died **5 April 1902**, age sixty-four.
 
+## See also — family threads
+
+Albert Robert is an anchor for **Thread #9 (Crossing for what's next)** and **Thread #10 (Building things — entrepreneurship)** in the [**Family threads**](/docs/family-threads/) synthesis essay — the **England → Canada** crossing into the Scottish-Canadian **Goldie milling family's operation in Ontario**, the parallel-and-different crossing from his brother John F. Eesley's England → America crossing into the Plainwell flour mill. Two brothers, two North American crossings, both centered on milling work.
+
 > *Sources: [William Eesley obituary, c. 1916 (College Corner, Ohio)](/docs/william-eesley-obituary-college-corner/) &mdash; the most detailed surviving biographical sketch of A. R., contributed to RootsWeb by Dale Eesley. Structured record: [Dale Eesley / FamilySearch &mdash; Albert Robert Eesley (L2J9-LB9)](https://www.familysearch.org/tree/person/details/L2J9-LB9).*

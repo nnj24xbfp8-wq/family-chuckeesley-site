@@ -48,4 +48,11 @@ He was one of Charles Leonard and Lillie Dale's ten children. By 1986, when he d
 - The [**late-1940s Eesley family group portrait**](/archive/eesley-family-group-portrait-late-1940s/) at his parents' Bexley home.
 - The [**Charlie and Terrie wedding photograph (early 1970s)**](/archive/charlie-and-terrie-wedding-1970s/) &mdash; Will mid-laugh beside Peggy on the church steps, as the groom's father. The last surviving photograph of him at a family wedding before his 1986 death.
 
+## See also — family threads
+
+Will is an anchor for two of the ten threads in the [**Family threads**](/docs/family-threads/) synthesis essay:
+
+- **Thread #5 — Service, stewardship, and giving** — Marietta Tree Commission; Bicentennial Commission; past president of the Kiwanis Club; Betsey Mills Advisory Board; *many years* on the First Congregational UCC business committee.
+- **Thread #10 — Building things (entrepreneurship across four generations)** — built **two architectural firms** (Scott and Eesley → Eesley, Lee, Vargo and Cassady) and the Highland Ridge Road house he raised his family in. *"The man literally designed and built buildings for a living."*
+
 > *Source: Will's obituary, Marietta paper, June 1986. Structured record: [Dale Eesley / FamilySearch — Wilbur Chenoweth Eesley (L2J9-LS3)](https://www.familysearch.org/tree/person/details/L2J9-LS3).*

@@ -69,3 +69,7 @@ The story is among the most consequential single-action narratives this archive 
 </figure>
 
 > *详细生平从略 &mdash; 在世。姓名汉字已由家族确认：周玲。*
+
+## See also — family threads
+
+Ling Zhou is an anchor for **Thread #4 (Returning to the places that matter — pilgrimage as family form)** in the [**Family threads**](/docs/family-threads/) synthesis essay. The **1982 honeymoon photograph at the [Lingyin Temple gate](/places/lingyin-temple-hangzhou/)** of Ling and [Xun Li](/family/xun-li/), just after their wedding in [Qingdao](/places/qingdao/), is the Zhou-side founding pilgrimage image — and the 2019 return frame at the same gate, plus the matching Chuck-and-Lijie frame from the same visit, complete the three-frame echo.

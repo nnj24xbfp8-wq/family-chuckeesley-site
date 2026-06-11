@@ -73,3 +73,7 @@ A late-1950s or early-1960s color print from the [Maggie Eesley archive deck](/d
 ## The memorial program
 
 The fullest single document on Dottie that this archive holds is the [**printed program from her memorial service**](/archive/dorothy-wildermuth-memorial-program-2010/), held Friday 13 August 2010 at the Church of Christ on Sixth Street, Marietta &mdash; five months after her death in Brookhaven, Georgia at 85. The program's biographical panel is the single most complete sketch of her career (bookkeeper at Citizen's Bank Marietta → Southeast Bank Orlando → **Hoover Library at Stanford** → Maitland Public Library), her faith (Methodist), her interests (flowers, singing, square-dancing, quilting and needlework), and the names of all four children and all six grandchildren as of August 2010.
+
+## See also — family threads
+
+Dottie is an anchor for **Thread #7 (Showing up — in small, daily, unglamorous ways)** in the [**Family threads**](/docs/family-threads/) synthesis essay through the *Unionville house fire* recovery — the earliest documented Davis-side instance of *"kinship-as-mutual-aid in a crisis,"* one generation before Terrie's own *"close relatives by way of long entertainment of visiting family"* line about the Wolfes carries the same practice into the next generation.

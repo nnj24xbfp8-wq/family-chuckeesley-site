@@ -75,3 +75,12 @@ On the war that came home with him:
 - [*Dispatches*](https://www.goodreads.com/book/show/107772.Dispatches) by Michael Herr &mdash; the war as it sounded.
 - [*Matterhorn*](https://www.goodreads.com/book/show/7372894-matterhorn) by Karl Marlantes &mdash; the war as it felt.
 - The [Vietnam Veterans Memorial Fund](https://www.vvmf.org/) and its searchable wall directory &mdash; for the names of those who didn't come home from Charlie's years (1969&ndash;71).
+
+## See also — family threads
+
+Charlie is an anchor for four of the ten threads in the [**Family threads**](/docs/family-threads/) synthesis essay:
+
+- **Thread #5 — Service, stewardship, and giving** — Vietnam veteran (1969–1971); First Congregational UCC board and **endowment management**; *"believed strongly in the responsibility of voting."*
+- **Thread #6 — Humor as transmitted inheritance** — the *"smart-ass comments that probably nearly got him court-martialed"* in Saigon; the dry humor inherited from Peggy and diluted into Chuck.
+- **Thread #7 — Showing up in small, daily, unglamorous ways** — visited Peggy at Harmar Place every day after work in her final stretch.
+- **Thread #9 — Crossing for what's next** — the Saigon crossing of 1969 is the [Letters from Vietnam](/docs/letters-from-vietnam/) corpus's whole frame; the courtship with Terrie ran across that ocean for two years.

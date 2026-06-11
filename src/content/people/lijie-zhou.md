@@ -49,6 +49,17 @@ Ling and Xun married in **1982 in [Qingdao](/places/qingdao/)**. Lijie was born 
 - **A "Zhou family of Qingdao" document** &mdash; the place-of-origin narrative, analogous to the [Wildermuth villages of W&uuml;rttemberg](/places/rielingshausen-town-square/) and the [Eesley parishes of Oxfordshire](/family/joseph-eesley/) on the existing sides.
 - **Photographs and oral history** &mdash; the Zhou side's analog to Robert Earl's memoirs and Aunt Maggie's photo deck.
 
+## See also — family threads
+
+Lijie is an anchor for five of the ten threads in the [**Family threads**](/docs/family-threads/) synthesis essay:
+
+- **Thread #1 — Education as inheritance** — Stanford graduate; the Zhou-side instance of the same thread Robert Earl founded in 1948.
+- **Thread #4 — Returning to the places that matter** — the 2019 Lingyin Temple three-frame echo with her parents' 1982 honeymoon image.
+- **Thread #5 — Service, stewardship, and giving** — co-founder of the [Zhou & Eesley Family Foundation](https://zhoueesleyfoundation.com), Jan 2021; current lead of the [ASPIRAS AI cohort](https://www.zhoueesleyfoundation.com/programs/malaysia/) with fifteen Malaysian non-profits.
+- **Thread #8 — Place-and-language curiosity (Japan and China)** — the Qingdao-born half of the bilingual archive practice; her schoolyard fence and St Michael's Cathedral are named.
+- **Thread #9 — Crossing for what's next** — the largest single crossing in the contemporary archive: Qingdao → Palo Alto, the same shape as Johann Michael's 1847 emigration at a different scale.
+- **Thread #10 — Building things (entrepreneurship)** — co-founder of the Zhou & Eesley Family Foundation alongside Chuck.
+
 > *Structured record: [Dale Eesley / FamilySearch &mdash; Lijie Zhou (GMLV-Q8P)](https://www.familysearch.org/tree/person/details/GMLV-Q8P).*
 
 ---

@@ -29,4 +29,11 @@ He married **[Kittie Belle Scott](/family/kittie-belle-scott/)** in Plainwell on
 
 He ran the operation until his death &mdash; **9 July 1929 in Kalamazoo, Michigan**; buried in Plainwell two days later. The mill outlasted him by a century: the [building is on the National Register of Historic Places](/places/plainwell-eesley-mill/) and now operates as The Old Mill Brewpub.
 
+## See also — family threads
+
+John F. Eesley is an anchor for two of the ten threads in the [**Family threads**](/docs/family-threads/) synthesis essay:
+
+- **Thread #9 — Crossing for what's next** — the [Stratford → America](/places/old-stratford-rother-street/) crossing in the 19th century.
+- **Thread #10 — Building things (entrepreneurship across four generations)** — the **canonical historical instance**: bought a roller rink in Plainwell, Michigan in 1887, converted it into the **Sunshine Flour Mill**, grew it to the second-largest buckwheat-flour producer in the U.S., physically divided and moved the building in 1903–04. The [building](/places/plainwell-eesley-mill/) is now on the National Register of Historic Places — *the family surname on a building, on a federal register*.
+
 > *Source: [Dale Eesley / FamilySearch &mdash; John Franklin Eesley (LQY3-K8S)](https://www.familysearch.org/tree/person/details/LQY3-K8S); [J. F. Eesley Milling Co., Wikipedia](https://en.wikipedia.org/wiki/J._F._Eesley_Milling_Co._Flour_Mill%E2%80%93Elevator).*

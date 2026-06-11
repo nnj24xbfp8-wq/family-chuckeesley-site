@@ -33,6 +33,13 @@ A late-life photograph of Zhaoxiang is in the archive: [**a visit with Ling Zhou
 
 He is the deepest documented Zhou ancestor in this archive's present scaffolding; further generations may follow as Lijie's family is able to add them.
 
+## See also — family threads
+
+Zhou Zhaoxiang is the Zhou-side anchor for two of the ten threads in the [**Family threads**](/docs/family-threads/) synthesis essay:
+
+- **Thread #9 — Crossing for what's next** — the **Jiaozhou Shi → Qingdao** intra-Chinese crossing in his own lifetime parallels Robert Earl's Marietta → Stanford crossing in the same generation.
+- **Thread #10 — Building things (entrepreneurship across four generations)** — **founded the first photography studio in Qingdao**, the Zhou-side founding-entrepreneur instance parallel to John F. Eesley's Plainwell flour mill (1887) and Johann Michael Wildermuth's Marietta shoe trade (1847).
+
 > *Structured record: [FamilySearch &mdash; Zhaoxiang Zhou (GM57-BKY)](https://www.familysearch.org/tree/person/details/GM57-BKY).*
 
 ---

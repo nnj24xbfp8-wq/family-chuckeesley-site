@@ -52,4 +52,17 @@ Other details withheld &mdash; living.
 
 He is **the third of [the three Charleses](/docs/the-three-charleses/)** — named in 1979 for his father Charles McMaster ("Charlie"), who was in turn named in 1947 for *his* grandfather Charles Leonard. A short essay reads the chain: grandfather → (skipped generation: Will) → grandson Charlie → son Chuck. The first name has now run three generations of the Eesley line.
 
+## See also — family threads
+
+Chuck is an anchor for seven of the ten threads in the [**Family threads**](/docs/family-threads/) synthesis essay, including writing it:
+
+- **Thread #1 — Education as inheritance** — Duke BA, MIT PhD (2009), Stanford faculty appointment — the present bookmark on the Robert-Earl-1948-Stanford lineage.
+- **Thread #2 — Patience and the long view** — the decade-plus into the PhD and the long climb of building this archive.
+- **Thread #3 — Writing things down for the future** — this archive is itself the present-generation instance of the thread.
+- **Thread #4 — Returning to the places that matter** — the 2018 England research trip and the 2019 Lingyin Temple echo with Lijie.
+- **Thread #5 — Service, stewardship, and giving** — co-founder of the [Zhou & Eesley Family Foundation](https://zhoueesleyfoundation.com), bringing education to communities mainstream programs overlook.
+- **Thread #8 — Place-and-language curiosity (Japan and China)** — the third-generation Japan thread (Kobe University teaching, entrepreneurship research) and the China thread alongside Lijie.
+- **Thread #9 — Crossing for what's next** — Marietta → Duke → MIT → Stanford, three crossings in fifteen years.
+- **Thread #10 — Building things (entrepreneurship)** — the meta-instance: research field is *entrepreneurship itself*, the family's habit-become-the-family's-research-program.
+
 > *Structured record: [Dale Eesley / FamilySearch &mdash; Charles Eric Eesley (GMLW-PXW)](https://www.familysearch.org/tree/person/details/GMLW-PXW).*

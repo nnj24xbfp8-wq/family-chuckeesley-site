@@ -87,6 +87,18 @@ Two newly placed photographs show Robert Earl in the middle of the career rather
 
 That his grandson Chuck would join the [Stanford](/places/stanford-university/) faculty seventy-some years later is the generational rhyme this archive was built to record. Robert Earl closed his last manuscript by addressing "future genealogists." This site is one of them answering.
 
+## See also — family threads
+
+Robert Earl is an anchor for seven of the ten threads in the [**Family threads**](/docs/family-threads/) synthesis essay:
+
+- **Thread #1 — Education as inheritance** — as the first Stanford BA in the family (1948 GI Bill), the generational rhyme this archive was built to record.
+- **Thread #2 — Patience and the long view** — as the eighteen-year (1971–1989) genealogical research arc that produced the [1990 Heritage](/docs/wildermuth-fleming-heritage-1990/).
+- **Thread #3 — Writing things down for the future** — his closing-of-the-manuscript line addressed to *"future genealogists"* is the operating motto of the whole archive.
+- **Thread #4 — Returning to the places that matter** — the November 1992 pilgrimage to Rielingshausen and Marbach is the founding instance.
+- **Thread #5 — Service, stewardship, and giving** — B-24 navigator → Stanford → Korea → Pentagon → lieutenant colonel; sustained military service across decades.
+- **Thread #8 — Place-and-language curiosity (Japan and China)** — the 1965–68 Itazuke posting that opened the family's three-generation Japan thread.
+- **Thread #9 — Crossing for what's next** — the 1948 Marietta → Stanford crossing, founding the *moving for education and career* instance of the lineage.
+
 > *Structured record: [Dale Eesley / FamilySearch — Robert Earl Wildermuth (GMLH-NYT)](https://www.familysearch.org/tree/person/details/GMLH-NYT).*
 
 ## Further reading

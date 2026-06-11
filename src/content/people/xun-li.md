@@ -38,3 +38,7 @@ Details withheld &mdash; living. Mother of [Lijie 周丽婕](/family/lijie-zhou/
 兄弟姊妹：[李孟灵](/family/mengling-li/)、[李波](/family/bo-li/)。
 
 > *详细生平从略 &mdash; 在世。姓名汉字已由家族确认：李恂。*
+
+## See also — family threads
+
+Li Xun is an anchor for **Thread #4 (Returning to the places that matter — pilgrimage as family form)** in the [**Family threads**](/docs/family-threads/) synthesis essay alongside her husband [Ling Zhou](/family/ling-zhou/). The 1982 honeymoon and 2019 return frames at the [Lingyin Temple gate](/places/lingyin-temple-hangzhou/) are her photograph too.

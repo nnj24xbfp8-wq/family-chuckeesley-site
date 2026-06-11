@@ -70,4 +70,14 @@ The McMaster and Anderson lines on Peggy's side are now seeded in the archive: *
 - The [**Charlie and Terrie wedding photograph (early 1970s)**](/archive/charlie-and-terrie-wedding-1970s/) &mdash; Peggy in a pale-blue dress with a pink-and-yellow corsage, Will in a brown suit with a white boutonnière; both mid-laugh, parents of the groom.
 - The [**"Peggy on the Continent" retirement-travel pair**](/archive/peggy-on-the-continent-retirement-travel/) &mdash; Paris and the Amalfi Coast in the same album, the visible end of the line of investing the eulogy named.
 
+## See also — family threads
+
+Peggy is an anchor for five of the ten threads in the [**Family threads**](/docs/family-threads/) synthesis essay:
+
+- **Thread #1 — Education as inheritance** — Penn State at seventeen (1936); Home Economics teacher at Marietta High School; her investing *"paid for a large part of my education."*
+- **Thread #2 — Patience and the long view** — the canonical investing instance; the eulogy frames her as the figurehead.
+- **Thread #5 — Service, stewardship, and giving** — director of Christian education at First Congregational UCC; PEO; Betsey Mills Club; Junior Reading Club.
+- **Thread #6 — Humor as transmitted inheritance** — *"the dark, dry sense of humor went directly to her son Charlie, who passed a more diluted version"* to Chuck.
+- **Thread #7 — Showing up in small, daily, unglamorous ways** — Chuck's daily after-school presence at the 7th Street house through his entire childhood.
+
 > *Sources: Margaret "Peggy" Jane Eesley obituary, *Marietta Times*, May 23, 2007 (scrapbook page, p. 105); digitized in "Ohio, United States records," images, [FamilySearch](https://www.familysearch.org/ark:/61903/3:1:3Q9M-C91R-YSG8-2?view=index) (image 122 of 148), Washington County Public Library, Marietta, Ohio (Image Group Number 101430006). Chuck's [eulogy for his father](/docs/eulogy-charles-mcmaster-eesley/) (2015) on the investing thread. Family memory (Chuck) on the dance-partner line, the bridge years, and the daily after-school presence at the 424 N 7th Street house.*

@@ -66,4 +66,11 @@ The **older mustachioed man at the back-left of the [c. 1896 William Clifford Wi
 
 The picture may have been in the family archive all along, just not labeled as such. The 1853 naturalization petition and the c. 1896 family portrait together close two of Robert Earl's longest-running research questions.
 
+## See also — family threads
+
+Johann Michael is an anchor for two of the ten threads in the [**Family threads**](/docs/family-threads/) synthesis essay:
+
+- **Thread #9 — Crossing for what's next** — the **founding instance**: sailed from Großaspach, Württemberg in 1847, age sixteen, per his own 1853 Philadelphia naturalization petition. *"He was the Wildermuth who left."*
+- **Thread #10 — Building things (entrepreneurship across four generations)** — built up the **shoe trade with William Rossar of Baden** in Marietta, the immigrant Wildermuth-side founding-entrepreneur instance parallel to John F. Eesley's Plainwell flour mill (1887) and Zhou Zhaoxiang's first Qingdao photography studio (mid-20th-century).
+
 > *Sources: [Dale Eesley / FamilySearch — John Michael Wildermuth (9S57-FW4)](https://www.familysearch.org/tree/person/details/9S57-FW4); [Johann Michael Wildermuth's 1853 Philadelphia Naturalization Petition](/docs/johann-michael-wildermuth-naturalization-1853/); [The Wildermuth/Fleming Heritage by Robert Earl Wildermuth, 1990](/docs/wildermuth-fleming-heritage-1990/); [c. 1896 William Clifford Wildermuth family group portrait](/archive/william-wildermuth-family-group-portrait/).*
