@@ -34,7 +34,7 @@ He has heard Terrie wasn't getting his mail — a recurring grievance in the cor
 >
 > I'm back from Saigon and everything is fine. I'm sorry to hear you weren't getting my mail. You should be getting quite a few. 17 days left and we won't have any of these problems.
 >
-> I'm really getting quite horny. Maybe instead of staying at my parents house you should get a motel room. Just a wild thought. I assume you are going to be there. I will be very angry if you are not there.
+> [&hellip;] Maybe instead of staying at my parents house you should get a motel room. Just a wild thought. I assume you are going to be there. I will be very angry if you are not there.
 >
 > I hope the rest of the finals go alright. Don't get a 3.0, the shock would be too great.
 >
