@@ -1,10 +1,10 @@
 ---
-title: "Charles Leonard Eesley extended-family reunion at Highland Ridge — c. 1979–1985, with full labeled cast of twelve"
+title: "Charles Leonard Eesley extended-family reunion at Highland Ridge — c. 1971–1972, with full labeled cast of twelve"
 type: "Photograph"
 image: ../../assets/family/originals/00000004_00000047_00000048.jpeg
 medium: "Color photograph, outdoor on a grassy hillside slope"
-dateCreated: "c. 1979–1985"
-sortDate: "1982-07-01"
+dateCreated: "c. 1971–1972"
+sortDate: "1972-07-01"
 placeCreated: "Highland Ridge Road, Lowell, Washington County, Ohio"
 idNumber: "CHARLES-LEONARD-EXTENDED-FAMILY-REUNION-C-1980"
 provenance: "Eesley family archive — transmitted by Chuck Eesley June 2026 with a fully labeled version giving every figure by name plus the Charles Leonard + Lilly Dale Chenoweth children-roster reference box."
@@ -24,7 +24,7 @@ people:
   - leonard-david-eesley
 ---
 
-An extended-family reunion of [Charles Leonard Eesley](/family/charles-leonard-eesley/)'s descendants, photographed on a grassy hillside slope at the [Highland Ridge Road property](/places/highland-ridge-road-marietta/) c. 1979–1985. The labeled version of this print, transmitted by Chuck Eesley June 2026, names every figure and reproduces the Charles Leonard + Lilly Dale Chenoweth Eesley children-roster reference box that frames the group's relationships.
+An extended-family reunion of [Charles Leonard Eesley](/family/charles-leonard-eesley/)'s descendants, photographed on a grassy hillside slope at the [Highland Ridge Road property](/places/highland-ridge-road-marietta/) c. 1971–1972. The labeled version of this print, transmitted by Chuck Eesley June 2026, names every figure and reproduces the Charles Leonard + Lilly Dale Chenoweth Eesley children-roster reference box that frames the group's relationships.
 
 ## The full cast — left to right
 
@@ -74,14 +74,22 @@ The print's annotation box lists the Charles Leonard + Lilly Dale Chenoweth chil
 
 The roster is itself a small piece of family-history scholarship by whoever annotated the print &mdash; almost certainly **Roberta Burnes**, who has carried the Charles Leonard documentary layer further than anyone else in the next generation.
 
-## Why c. 1979–1985
+## Why c. 1971–1972 — Roberta's correction
 
-Date estimated from **Anne Eesley's apparent late-thirties age** in the photograph (she was born 1 March 1946, so c. 33 to 38 places the frame at 1979 to 1984), and Will's continued presence (he died 2 June 1986). Helen Burnes lived to 2000; Mary Bean to 2002; Don Eesley to 1975 *(this is the earliest constraint — but Don died May 1975, so the photograph must precede that)*. Re-anchoring the date with Don alive: the frame must be **before May 1975**, which means Anne would be **29 or younger**. Possible re-date: **c. 1973&ndash;1975**, with the photograph capturing the last reunion of Charles Leonard's surviving children together before Don's May 1975 death. *The earlier c. 1979&ndash;1985 estimate is therefore retracted — this frame must predate May 1975.*
+In a June 2026 email, **[Roberta Burnes](/family/roberta-burnes/)** &mdash; one of the labeled figures and the family's source for the print &mdash; corrected the previous c. 1979&ndash;1985 estimate that had been on this page:
 
-The c. 1973–1975 dating puts this as the last documented gathering of Will, Don, Len, Mary Bean, and Helen Burnes together &mdash; the surviving Charles Leonard Eesley generation, with the next generation (Katie, Roberta, Anne) and the cousin Mafry Smith Hyatt from the Chenoweth side.
+> *This picture was taken much earlier than the late seventies date, probably around 1971 or 1972. I was born in 1963 and Katie in '65, and she can't be much more than seven years old in this picture.*
+
+Roberta's age-of-Katie anchor is the controlling evidence. Katie Burnes was born 1965; at age 7 she would have been in 1972; at 6 in 1971. The print captures the cousins at that young range &mdash; not the late-thirties Anne the earlier date had assumed.
+
+Roberta also adds the social context the photograph sits inside:
+
+> *After Grandpa died, Uncle Will started having family reunions at his place in Marietta. We went every year and it was always so much fun. I have pictures of the little curved bridge being built, harvesting from Aunt Peggy's garden, and so much more from these times. I remember going to your [Chuck's] parents' wedding for one of those gatherings as well, the first wedding I'd ever been to.*
+
+Charles Leonard Eesley died 9 October 1972. The annual Will-and-Peggy-hosted Highland Ridge reunions that Roberta describes thus began around 1973. If this frame is *c. 1971–1972*, it sits at the *beginning* of that tradition or just before it &mdash; one of the earliest Will-hosted gatherings, with Grandpa Charles Leonard either too frail at age 92&ndash;93 to attend or just-recently gone. The frame is the founding document of the annual Highland Ridge reunion tradition that ran across the next decade and a half, the same decade that produced Will's small red bridge, Peggy's garden, and the family ritual that culminated in Charlie and Terrie's wedding.
 
 ## Why this is the most important Eesley-side reunion frame in the archive
 
-A single photograph of **five of the eight Charles Leonard Eesley children together** does not survive elsewhere in this archive. The [c. 1937–1939 Charles Leonard with his sons group portrait](/archive/charles-leonard-and-sons-late-1930s/) and the various dyadic and tryadic frames from the *Four Generations* deck cover slices of the family. This reunion photograph captures the **mid-1970s consolidation of the surviving sibling generation** &mdash; with all five siblings, three of their spouses, two of Helen Burnes's children, Will and Peggy's daughter Anne, and the Chenoweth-side cousin Mafry Hyatt, all together on a Highland Ridge hillside.
+A single photograph of **five of the eight Charles Leonard Eesley children together** does not survive elsewhere in this archive. The [c. 1937–1939 Charles Leonard with his sons group portrait](/archive/charles-leonard-and-sons-late-1930s/) and the various dyadic and tryadic frames from the *Four Generations* deck cover slices of the family. This reunion photograph captures the **early-1970s consolidation of the surviving sibling generation** &mdash; all five siblings, three of their spouses, two of Helen Burnes's children, Will and Peggy's daughter Anne, and the Chenoweth-side cousin Mafry Hyatt, all together on a Highland Ridge hillside &mdash; just at the moment Charles Leonard's death was opening the next chapter and Will was about to start the annual reunion tradition that would run through the rest of his life.
 
 > *Source: Eesley family archive, transmitted by Chuck Eesley June 2026 with full labeled cast and Charles Leonard children-roster reference box.*

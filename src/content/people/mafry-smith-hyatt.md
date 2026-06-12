@@ -6,7 +6,7 @@ generation: 5
 parents:
   - scioto-mafry-chenoweth
 status: sketch
-summary: "Daughter of Dr. Sciota 'Ota' Mafry Chenoweth Smith — the medical-doctor sister of Lillie Dale Chenoweth Eesley. Carries the Chenoweth family's distinctive middle name 'Mafry' as her given first name; the Smith surname comes from her father Dr. Lewis Albert Smith; the Hyatt surname comes from her marriage. Photographed in the c. 1970s Eesley extended family reunion portrait — the visiting cousin from the Chenoweth-Smith side. Sciota died in 1930 when Mafry was a child, making Mafry the only family member who knew Dr. Sciota in person and who would have been able to confirm the family memory of her medical career."
+summary: "Daughter of Dr. Sciota 'Ota' Mafry Chenoweth Smith — the medical-doctor sister of Lillie Dale Chenoweth Eesley. Carries the Chenoweth family's distinctive middle name 'Mafry' as her given first name; the Smith surname comes from her father Dr. Lewis Albert Smith; the Hyatt surname comes from her marriage. Photographed in the c. 1971–1972 Eesley extended family reunion portrait — the visiting cousin from the Chenoweth-Smith side. A 'witty, sharp, and feminist' presence in the next generation (per Roberta Burnes, June 2026), Mafry was an early-1970s Equal Rights Amendment activist alongside Helen Eesley Burnes, and remained close to the Burnes household into her later years — visiting at least once a week."
 ---
 
 **Mafry Smith Hyatt** is the daughter of **[Dr. Sciota "Ota" Mafry Chenoweth Smith](/family/scioto-mafry-chenoweth/)** — the older sister of Lillie Dale Chenoweth Eesley and the **medical-doctor sister** the Chenoweth-Eesley family memory has long carried.
@@ -25,10 +25,29 @@ Mafry appears as one of the named figures in the **[c. 1970s Eesley extended fam
 
 The presence of "Dr." in front of her mother's name on the caption is the family's documentary confirmation that **Sciota was the medical doctor** — Mafry, as the surviving daughter, would have been the keeper of that memory and the visiting cousin who carried the Chenoweth-Smith branch's family record into the Eesley reunion.
 
-## Why she matters in the archive
+## Who knew Aunt Ota in person
 
-Sciota Chenoweth Smith died in February 1930. **Mafry is the only person in this archive's record who knew Sciota in person.** When Maggie Eesley's *Four Generations* deck recorded the family-memory line about *"one of the first women medical doctors in the United States in the late 1800's,"* the chain of transmission ran most plausibly through Mafry — who told it to her Eesley cousins, who told it to Maggie, who put it in the deck.
+The previous version of this page stated that Mafry was *"the only person in this archive's record who knew Sciota in person."* That was wrong. In a June 2026 email, [Roberta Burnes](/family/roberta-burnes/) corrected the picture:
 
-This page is a stub. Mafry's birth and death dates, her husband's name, her own life story, and any direct contributions to the Sciota-Chenoweth medical biography are all queued research.
+> *Mafry and my mother both knew Ota, as well as all the other siblings in that generation (Len, Will, Don, Mary). Ota delivered my mother at home on January 16, 1924. Perhaps she delivered other children of Lily's as well?*
 
-> *Source: [c. 1970s Eesley extended family reunion portrait](/archive/highland-ridge-family-group-portrait-c-1980/) — typed caption identification by the family. Transmitted by Chuck Eesley 2026. See also the broader [Chenoweth Family Association](https://www.chenowethsite.com/) genealogical resources for the Chenoweth surname network this family belongs to.*
+So the family memory of Aunt Ota ran through the entire Charles-Leonard-and-Lillie-Dale sibling generation &mdash; their nieces and nephews [Leonard "Len" Eesley](/family/leonard-david-eesley/), [Will Eesley](/family/wilbur-eesley/), [Don Eesley](/family/don-eesley/), [Mary Eesley Bean](/family/mary-eesley-bean/), and [Helen Louise Eesley Burnes](/family/helen-burnes/) (Roberta's mother) all knew her personally. Helen had a particular reason: **Ota delivered her at home on 16 January 1924**, in the Eesley household. She may well have delivered her other Eesley nieces and nephews too &mdash; the practice fits her medical work and her closeness to her sister Lillie Dale.
+
+Mafry was, however, the *last* surviving family member of Ota's own household by the time of the early-1970s Highland Ridge reunions; the chain of Aunt-Ota stories that runs through Roberta's email is the chain that flowed from Helen and from Mafry, both, to the next generation.
+
+## Mafry in the early 1970s — the activist next door
+
+Roberta's June 2026 email also opens Mafry's adult life, which the previous version of this page had treated as a stub. The picture is striking:
+
+> *Mafry was such a character. Witty, sharp, and such a feminist along with my Mom in the early seventies when the first Equal Rights Amendment was being championed. She would visit at least once a week in her later years. I have many pictures of her growing up and throughout her lifetime.*
+
+So:
+
+- Mafry was an **early-1970s Equal Rights Amendment activist**, alongside her cousin Helen Eesley Burnes. The ERA was approved by Congress in March 1972 and ran a state-by-state ratification fight across the 1970s; Mafry and Helen were in it together on the Ohio side.
+- Her register of voice was *"witty, sharp"* &mdash; the older-generation version of the same Eesley-family dry humor that would later run through Chuck's father Charlie and into Chuck himself.
+- She **visited the Burnes household at least once a week** in her later years &mdash; close enough that the next generation (Roberta and her sisters) grew up knowing her, with photographs spanning her whole lifetime.
+- Roberta's photographic record of Mafry is queued for digitization.
+
+The stub-status note on this page can therefore be retired. Mafry's birth and death dates, her husband's first name, her medical-school-trained mother's death in 1930 (when Mafry would have been a young adult), the children she may have had, and the texture of her ERA activism are all still to surface &mdash; but the basic adult-life picture is here.
+
+> *Sources: [c. 1971–1972 Eesley extended-family reunion portrait](/archive/highland-ridge-family-group-portrait-c-1980/) &mdash; typed caption identification by the family. Roberta Burnes, email June 2026 (correcting the Aunt-Ota family-memory chain and opening Mafry's adult biography). See also the broader [Chenoweth Family Association](https://www.chenowethsite.com/) genealogical resources for the Chenoweth surname network this family belongs to.*

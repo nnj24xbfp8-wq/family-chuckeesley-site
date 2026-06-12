@@ -18,6 +18,16 @@ Jean Goldie Eesley was the **fifth or sixth child** of Charles Leonard and Lilli
 
 [Charlie's 1965 12th-grade autobiography](/docs/charles-eesley-12th-grade-autobiography-1965/) records the cause as a **childhood accident**: *"My Aunt Jean died from a childhood accident when she was five years old."* The four-year-old age is close to Charlie's "five-year-old" family memory; the cause Charlie gives is the documentary record this archive has.
 
+## The car-crash story — Roberta Burnes, June 2026
+
+The specific *childhood accident* now has a name and a clinical course. In a June 2026 email, [Roberta Burnes](/family/roberta-burnes/) (Helen Eesley Burnes's daughter) passed on the version her mother &mdash; Jean's younger sister, born 21 months before Jean's death &mdash; had carried across the rest of her life:
+
+> *Mom also said that [Aunt Ota](/family/scioto-mafry-chenoweth/) treated Mom's sister, Aunt Jean, after she was thrown from their vehicle during a car crash. According to that story, Jean hit the pavement and suffered a concussion. The family noted that "everything seemed fine" with Jean at first, but later that night she passed away, likely from a blood clot in her brain.*
+
+The clinical picture is consistent with what was then known as **delayed-onset epidural or subdural hematoma**: a young child thrown from an open-bodied automobile in a 1925 collision, striking the pavement, appearing stable for several hours, then deteriorating overnight as the brain bleed accumulated. The 1920s did not have the imaging or surgical capability to intervene. Her aunt [Dr. Scioto "Aunt Ota" Chenoweth Smith](/family/scioto-mafry-chenoweth/) &mdash; Jean's maternal aunt and the family physician &mdash; did the clinical work of treating her after the crash, and presumably delivered the prognosis to her sister Lillie Dale. Helen, born twenty-one months earlier in January 1924, was too young to remember Jean firsthand; the car-crash story Helen passed down to Roberta came from Lillie Dale.
+
+The Jean-and-Ota and Helen-and-Ota threads place Aunt Ota at two of the most charged family-medical moments of the 1920s: she **delivered Helen on 16 January 1924** and **treated Jean's October 1925 death** &mdash; the close-spaced new-life-and-lost-life events Lillie Dale's household lived through in those twenty-one months. The accident that took Jean is what the Mary-Bean-1985-register *"died at 12"* and the [Charlie-1965-autobiography](/docs/charles-eesley-12th-grade-autobiography-1965/) *"died from a childhood accident at five"* references both come from. The car crash is the source story.
+
 ## The dates question
 
 This page's dates have an interesting documentary history that's worth recording: **three slightly different readings** appeared in different family sources, and the GEDCOM ultimately settled it:
