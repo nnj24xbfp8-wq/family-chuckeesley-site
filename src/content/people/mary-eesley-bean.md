@@ -20,4 +20,8 @@ In March 1985, working in her early seventies from her home in Narberth, Pennsyl
 
 It is the relationship backbone of this archive's paternal line and the founding document of the line's record-keeping habit. She is not just a source; she is the most important figure in the previous generation of family record-keepers.
 
+## See also — family threads
+
+Mary is the **paternal-side anchor for Thread #3 (Writing things down for the future)** in the [**Family threads**](/docs/family-threads/) synthesis essay. The [1985 *Eesley Family History*](/docs/eesley-family-history-1985/) she wrote is the relationship backbone of this entire site — the Eesley counterpart of Robert Earl's 1990 *Wildermuth/Fleming Heritage* on the maternal side.
+
 > *Sources: Mary Eesley Bean, *[Eesley Family History](/docs/eesley-family-history-1985/)*, p. 8; her own preface, March 1985. Structured record: [Dale Eesley / FamilySearch — Mary Elizabeth Eesley (LB4H-N33)](https://www.familysearch.org/tree/person/details/LB4H-N33).*

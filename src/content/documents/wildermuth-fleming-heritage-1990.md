@@ -99,12 +99,74 @@ The line is one this archive is built to honor &mdash; Robert Earl's 1990 advice
 
 The original document was self-printed and bound by Robert Earl in Orlando, Florida on 1 January 1990. He sent copies to his sisters, his children, the LDS Library in Salt Lake City, and the Orlando Public Library. The family copy was scanned in August 2019 on a Canon SC1001 scanner. Forwarded to this archive by Chuck Eesley, June 2026.
 
-## Queued follow-ups
+## The reproduced photographs — now individual artifacts
 
-- **Seed Andreus Wildermuth's parents** if the LDS Family History records can carry the line one or two more generations back into pre-1748 Rielingshausen.
-- **Find the New York 1847 passenger manifest** for Johann Michael Wildermuth and the Rossars &mdash; Robert Earl's last open question, never resolved in his lifetime.
-- **Verify Ottilie Wildermuth of Tübingen's relationship** (if any) to the Württemberg Wildermuth line of this branch.
-- **Locate Michael G. Roberts's Fleming research files** &mdash; if his archive is still in the Akron OH area or has been deposited at a research library, the deeper Fleming material may be findable.
-- **Wire the document's photographs as individual artifact entries** &mdash; the birth certificate, the Waterford home, the three Davis sisters, the 1943 and 1944 portraits of Dorothy, the 1968 family group.
+The Davis section's nine reproduced photographs are now placed as standalone artifact entries in this archive:
 
-The original 24-page PDF is held in the archive at `src/assets/family/Wildermuth-Family-History.pdf` and will be linked from this page once placed.
+- [Dorothy's Ohio Department of Health birth certificate](/archive/dorothy-davis-birth-certificate-1925/) &mdash; *Document #1* of the Davis section.
+- [The Davis home in Waterford, Ohio](/archive/davis-home-waterford-ohio/) where she was born.
+- [The three Davis sisters at 5, 4, and 3](/archive/davis-sisters-three-mary-dorothy-betty-c-1929/) &mdash; c. 1929, earliest known image of Dorothy.
+- [The three Davis sisters &mdash; *"why so glum?"*](/archive/davis-sisters-1930-why-so-glum/) &mdash; c. 1930.
+- [The three Davis sisters with puppies](/archive/davis-sisters-puppies-1931/) &mdash; c. 1931, the *"cute little puppies and cute little bare feet"* caption.
+- [Dorothy's 1943 formal portrait](/archive/dorothy-davis-portrait-1943/) &mdash; the Marietta High School graduation year.
+- [Dorothy's 1944 formal portrait](/archive/dorothy-davis-portrait-1944/) &mdash; bookkeeper at Citizen's Bank.
+- [Robert Earl and Dorothy at Itazuke, 1968](/archive/bob-and-dorothy-itazuke-1968/) &mdash; the formal Japan-tour couple's portrait.
+- [The Wildermuth family of six at Itazuke, 1968](/archive/wildermuth-family-1968-itazuke/) &mdash; all four children with their parents.
+- [Dorothy at her quilting, c. 1988](/archive/dorothy-quilting-c-1988/) &mdash; the second-to-last image of her in the Heritage.
+
+## Follow-up research, June 2026
+
+The four queued items from the original 1990 closing list have been pulled forward into this June 2026 desk pass &mdash; first against the live GEDCOM ([`public/docs/eesley-wildermuth-tree.ged`](/docs/eesley-wildermuth-tree.ged), Dale Eesley / FamilySearch, sync 1 June 2026), then against web sources for what the GEDCOM did not carry.
+
+### 1. Andreus Wildermuth's earlier generations &mdash; *resolved by the GEDCOM*
+
+The GEDCOM has carried Robert Earl's open question *two full generations further* than 1990. The Wildermuth father-line up from Earl Adam now reads:
+
+| Gen | Name | Born | Place |
+|---|---|---|---|
+| 1 | [Earl Adam Wildermuth](/family/earl-a-wildermuth/) | 6 Oct 1899 | Marietta, Ohio |
+| 2 | [William Clifford Wildermuth](/family/william-wildermuth/) | 17 Sep 1866 | Marietta, Ohio |
+| 3 | [John Michael Wildermuth](/family/johann-michael-wildermuth/) | 23 Aug 1830 | Großaspach, Württemberg (the 1847 emigrant) |
+| 4 | [Johann Christian Wildermuth](/family/johann-christian-wildermuth/) | 10 Oct 1794 | Großaspach |
+| 5 | [Adam Wildermuth](/family/adam-wildermuth/) | 26 Oct 1768 | Rielingshausen (d. 1800 Großaspach &mdash; the move to Großaspach happens in this generation) |
+| 6 | [Andreas Adam Wildermuth](/family/andreus-wildermuth/) (Robert Earl's *"Andreus"*) | 30 Nov 1745 | Rielingshausen (d. 1771, age 25) |
+| 7 | [Johann Adam Wildermuth](/family/johann-adam-wildermuth-1720/) | 1720 | Rielingshausen (d. 1768; m. Rosina Kreher 11 Jun 1743) |
+| 8 | [Johannes Wildermuth](/family/johannes-wildermuth-1682/) | 28 Dec 1682 | Rielingshausen (m. Margaretha Grayers 27 Sep 1708) |
+| 9 | [Johannes Wildermuth](/family/johannes-wildermuth-1650/) | ~1650 | Rielingshausen (the Peace-of-Westphalia generation) |
+
+Two important corrections to the 1990 record: (a) Robert Earl estimated Andreus's birth as *~1748*; the parish register has him as *30 November 1745*. (b) Robert Earl's spelling *"Andreus"* is the family-record Anglicization; the Rielingshausen *Kirchenbuch* has him as *Andreas Adam Wildermuth.*
+
+For pre-1650 generations: the [Rielingshausen Wildermuth clan is documented in parish ledgers from 1521](https://www.kultur-und-heimatverein-rielingshausen.de/start/kelter/), and the standing academic study [*Die Wildermuth in Erdmannhausen*](https://regionalia.blb-karlsruhe.de/frontdoor/index/index/docId/22257) (Karlsruhe BLB OPUS) traces the relevant Marbach-district lines forward from the 16th century. The path beyond Johannes ~1650 is the Landeskirchliches Archiv Stuttgart *Kirchenbücher* for Rielingshausen 1521&ndash;1700, queryable via [FamilySearch Württemberg, Germany, Lutheran Baptisms, Marriages, and Burials, 1500-1985](https://www.ancestry.com/search/collections/61023/).
+
+### 2. The 1847 New York passenger manifest — route forward identified
+
+Robert Earl's last open Heritage question. The desk pass confirms the route, even if the manifest itself remains to be pulled: the [New York Passenger Lists, 1820&ndash;1891 at FamilySearch](https://www.familysearch.org/search/collection/1849782) covers exactly the relevant period (Castle Garden did not open until 1855, so 1847 New York arrivals went through Battery / Quarantine on Staten Island and are catalogued via the same FamilySearch collection). The [Germans to America, 1840&ndash;1849](https://www.germanroots.com/gtoa2.html) printed series and the [Württemberg Emigration Index](https://www.familysearch.org/en/wiki/W%C3%BCrttemberg_Emigration_Index_(7_volumes)) (7 vols., Ancestry, 1986–98) are the two specialty finding aids for a 17-year-old Württemberg shoemaker named Johann Michael Wildermuth landing at the Port of New York in 1847. The Württemberg Emigration Index is the most likely place to surface the official Württemberg-side *Auswanderungs-Akte* — the German emigration permit that names the destination port and the year of departure.
+
+### 3. Ottilie Wildermuth — *resolved*
+
+Ottilie Wildermuth (1817&ndash;1877) connects to this branch *by marriage,* not descent &mdash; and her husband's home village turns out to be one of the same three the 1990 Heritage names as the Wildermuth heartland. She married [Wilhelm David Wildermuth](https://www.wildermuth-gymnasium.de/fileadmin/user_upload/Bilder/PDF/Schilling-Wildermuthschule.pdf) (1807&ndash;1885), born in *Pleidelsheim,* son of farmer *Johann Georg Wildermuth*. Pleidelsheim is one of the three Marbach-district villages Robert Earl wrote to in his 1970s burgermeister-correspondence campaign, and is part of the same tight Rielingshausen-clan radius that the 1521 records anchor. So the *"Dr. Hans Wildermuth, son of Johann David Wildermuth"* whom Robert Earl quoted in the epigraph of the Wildermuth section &mdash; *"The Wuerttemburg Wildermuths have their origin in the villages of Pleidelsheim and Riedenshausen [Rielingshausen]"* &mdash; was someone in Ottilie's branch, a son or grandson of Wilhelm David. The two branches are extended cousins through the same surname-cluster. The Tübingen [Wildermuth-Gymnasium](https://www.wildermuth-gymnasium.de) and the Marbach Wildermuthstraße are named for *this* line; the Marietta line of Robert Earl's research is the *other* American twig of the same root. Ottilie's page now carries the resolved branch-relationship.
+
+Eberhard Wildermuth (1890&ndash;1952), her grandson, served as West German Federal Minister for Housing and Construction under Adenauer (1949&ndash;52) &mdash; the public-life continuation of the same Tübingen branch.
+
+### 4. The Fleming line back to colonial America &mdash; *largely resolved by the GEDCOM*
+
+Michael G. Roberts's research files themselves are not findable via the 2026 web pass &mdash; his address as of 1990 (*682 Springwater Drive, Akron, Ohio 44313*) sits in the West Akron neighborhood served by the [Akron-Summit County Public Library Special Collections](https://www.akronlibrary.org/locations/main-library/special-collections/genealogy/), the most plausible deposit point if a family donation was ever made; an obituary-index inquiry via the [Akron Beacon Journal Obituary Indexes](https://www.akronlibrary.org/locations/main-library/special-collections/genealogy/akron-beacon-journal-obituary-indexes) would be the next step to find descendants.
+
+But the more important finding is that the GEDCOM has *carried the Fleming line three generations further back than the 1990 Heritage,* with the Scottish origin Robert Earl had suspected now anchored to a named individual. The Fleming father-line up from Sadye now reads:
+
+| Gen | Name | Born | Place |
+|---|---|---|---|
+| 1 | [Sadye Irene Fleming](/family/sadye-fleming-wildermuth/) | 15 Jul 1901 | Williamstown, Wood Co., West Virginia |
+| 2 | [James Wesley Fleming](/family/wesley-fleming/) | 20 Dec 1855 | Arnolds Creek, Doddridge Co., Virginia |
+| 3 | Thomas Bailey Fleming | Feb 1830 | Harrison Co., Virginia |
+| 4 | Lewis B Fleming | 1807 | Harrison Co., Virginia |
+| 5 | John F. Fleming | 11 Oct 1781 | *Montgomery County, Maryland* |
+| 6 | John Fleming | 1744 | *Prince George's, Maryland* (Montgomery was carved out of Prince George's in 1776) |
+| 7 | John Fleming | 1714 | *Cecil County, Maryland* (the first American-born ancestor) |
+| 8 | John Fleming | 1683 | (origin in tree: Maryland; arrival route via the Scotch-Irish stream from Ulster) |
+
+The Scottish anchor: Gen-8 John Fleming's wife is *Ann Marie Fleming,* born 10 August 1695 in Scotland. The earliest *Maryland-born* Fleming is Gen-7 (1714 Cecil County). Robert Earl's 1990 reading &mdash; *"a Scot living in Northern Ireland... came to colonial Maryland in the 1750s"* &mdash; resolves into the more specific picture: the Flemings reached Cecil County, Maryland on Chesapeake Bay during the late-17th-century Scotch-Irish immigration wave, then moved south to Prince George's County (which gave way to Montgomery County in 1776) over the 18th century, then west across the Appalachian crest into Harrison County, Virginia (now West Virginia) in the early 19th. The Montgomery County period Robert Earl identified is the *middle* of this chain.
+
+That largely closes Michael G. Roberts's contribution &mdash; his role was to push the line back to colonial Maryland, and the GEDCOM has now extended that another full generation into the Scotland origin. A Roberts-archive inquiry remains queued for any *intermediate-Maryland* records he may have collected that didn't make it into Robert Earl's 1990 summary.
+
+The original 24-page PDF is held in the archive at `public/docs/Wildermuth-Family-History.pdf` and is linked from the [downloadable Heritage PDF](/docs/Wildermuth-Family-History.pdf).

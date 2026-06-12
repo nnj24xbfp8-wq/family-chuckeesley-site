@@ -20,6 +20,14 @@ The summer of 1945 carries the document's most consequential entry: **Robert Ear
 
 A markdown transcription with the crew promoted to individual `people` entries is queued for the next pass.
 
+## Before they shipped — San Francisco, c. 1944
+
+A single sepia-toned photograph from the combat log places Robert Earl and three of his fellow Army Air Corps officers **at a bar table in San Francisco shortly before deployment** &mdash; the staging stop on the way to the Pacific. The four men are in **Class B officer uniforms with pilot wings**; the table is loaded with **Alpen Brau beer bottles**; the lighting and grain mark it as an interior bar shot, c. 1944. The photograph reads almost as a *"last night before the war"* frame &mdash; the kind of officer's-club composition the crew would have wanted to take precisely because they all knew what they were about to fly into.
+
+![Robert Earl Wildermuth (left) and three fellow officers in a San Francisco bar shortly before Pacific deployment, c. 1944. Class B uniforms, pilot wings, Alpen Brau bottles on the table.](../../assets/family/originals/00000001_00000007_00000008.jpeg)
+
+The print is the only surviving photograph in this archive of Robert Earl *in uniform but not yet in combat* — the calibration moment between the Stanford undergraduate years that hadn't yet happened and the Pacific missions about to begin.
+
 ## Further reading
 
 - [*Hiroshima*](https://en.wikipedia.org/wiki/Hiroshima_(book)) by John Hersey — the ground-level companion to what the MGM cameras saw from the air.

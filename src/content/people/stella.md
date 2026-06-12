@@ -64,3 +64,7 @@ On the larger history Stella's wartime sits inside:
 - [*By Order of the President: FDR and the Internment of Japanese Americans*](https://www.goodreads.com/book/show/1147019.By_Order_of_the_President) by Greg Robinson &mdash; the policy history.
 - [The Chinese in Hawaii](https://en.wikipedia.org/wiki/Chinese_in_Hawaii) on Wikipedia &mdash; the community Stella's family belonged to, distinct from the Japanese-American community that bore the brunt of the internment program.
 - [PBS *The War*](https://www.pbs.org/kenburns/the-war/) (Ken Burns and Lynn Novick) &mdash; episodes on the Pacific theater and the home-front internment.
+
+## See also — family threads
+
+Stella is the **canonical anchor for Thread #7 (Showing up — in small, daily, unglamorous ways)** in the [**Family threads**](/docs/family-threads/) synthesis essay. The wartime decision by [Charles Leonard Eesley](/family/charles-leonard-eesley/) to **bring her from Hawaii into the Bexley household** to keep her clear of the West Coast internment camps — and her staying, marrying Ted, raising a family, *"sending macadamia nuts back from Hawaii for years"* — is the archive's clearest single instance of **kinship as a practice rather than an identity**. She is also referenced in **Thread #9 (Crossing for what's next)** as a wartime crossing made *for the safest version of "what's next."*

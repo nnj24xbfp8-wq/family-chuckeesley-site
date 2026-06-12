@@ -53,3 +53,7 @@ On what Lyle was in the middle of when he died:
 - [*Some Survived: An Eyewitness Account of the Bataan Death March and the Men Who Lived Through It*](https://www.goodreads.com/book/show/693426.Some_Survived) by Manny Lawton.
 - The [Cabanatuan POW Camp](https://en.wikipedia.org/wiki/Cabanatuan) and [Bataan Death March](https://en.wikipedia.org/wiki/Bataan_Death_March) entries on Wikipedia.
 - [American Battle Monuments Commission](https://www.abmc.gov/) &mdash; the federal record of US service members buried or memorialized overseas; the Manila American Cemetery records those who died in the Philippines campaign.
+
+## See also — family threads
+
+Lyle is an anchor for **Thread #5 (Service, stewardship, and giving)** in the [**Family threads**](/docs/family-threads/) synthesis essay — the family's deepest single cost on the military side: a young Eesley who died as a POW at Cabanatuan in the Philippines in 1942, named in the military-service roster alongside Robert Earl's B-24 missions and Charlie's Vietnam tour.
