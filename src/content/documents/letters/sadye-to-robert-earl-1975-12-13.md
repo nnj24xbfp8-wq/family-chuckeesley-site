@@ -17,7 +17,10 @@ dateRange:
   start: "1975-12-13"
 private: false
 summary: "Sadye Irene Fleming Wildermuth's letter to her son Robert Earl and his wife Dottie, dated 13 December 1975 — eight months before Sadye's death in August 1976. Labeled by Robert Earl on the cover sheet as 'Grandma W. Letter.' Sadye writes that she has been off 'that potent medication' for about six weeks and off the blood transfusions for the same stretch; she feels pretty good but weak, with back pain only when she is up too long. The weather is 72 degrees and sunny on the day she writes. Earl Adam — 76 years old — loves the dishwasher Robert Earl gave them ('a blessing for him. Thanks to you'). Carl has lost some weight, which is good. The girls come down every so often to help. Betty Jo came at Thanksgiving and brought the turkey and pumpkin pie. Christmas will be buffet style. A package has been mailed to Robert Earl's children Debbie and Bobby — Sadye hasn't seen Bobby in long enough that she imagines him 'quite a boy by now.' Sandy and Bruce sent a Christmas card. She closes 'All our love, Mom, Dad & Carl' — the only known letter in this archive in Sadye's own voice."
-source: "Held in family archive — Wildermuth-letters.pdf pages 9-10 (gitignored locally; transcribed content surfaced here)."
+source: "Held in family archive — Wildermuth-letters.pdf pages 9-10 (gitignored locally; the two pages extracted and surfaced on this page below the transcription)."
+scans:
+  - ../../../assets/family/originals/wildermuth-letters/sadye-1975-12-13-page1.jpg
+  - ../../../assets/family/originals/wildermuth-letters/sadye-1975-12-13-page2.jpg
 ---
 
 ## What this letter is
@@ -25,6 +28,12 @@ source: "Held in family archive — Wildermuth-letters.pdf pages 9-10 (gitignore
 13 December 1975. **[Sadye Irene Fleming Wildermuth](/family/sadye-fleming-wildermuth/)** &mdash; [Robert Earl](/family/robert-earl-wildermuth/)'s mother, the Marietta-and-West-Virginia-line Sadye whose family her son the genealogist could find almost nothing of on paper &mdash; sits down to write her son and his wife [Dottie](/family/dorothy-davis-wildermuth/) a Christmas-season letter. She apologizes for not having written in so long. **This is, as of this writing, the only known letter from Sadye preserved in this archive in her own hand.** She would die eight months later, in August 1976. Robert Earl labeled the cover of the page *"Grandma W. Letter."*
 
 That she could write in detail at all, after the six weeks off potent medication and transfusions, is the small mercy this letter records.
+
+## The letter itself
+
+![Sadye Irene Fleming Wildermuth's letter to her son Robert Earl, page 1 — 13 December 1975. Labeled by Robert Earl on the page as "Grandma W. Letter."](../../../assets/family/originals/wildermuth-letters/sadye-1975-12-13-page1.jpg)
+
+![Sadye Irene Fleming Wildermuth's letter to her son Robert Earl, page 2 — closing the letter "All our love, Mom, Dad & Carl."](../../../assets/family/originals/wildermuth-letters/sadye-1975-12-13-page2.jpg)
 
 ## Transcription
 
