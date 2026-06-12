@@ -69,7 +69,7 @@ The lesson: going back is itself a form of remembering, and worth the airfare.
 
 This thread has two faces that are really one practice. The time face is service: spending your hours on institutions outside your own household. The resource face is stewardship: looking after money, attention, and faith-grounded structures that are not first about yourself. In the family record they appear together more often than they appear separately. I've named them as one thread for that reason.
 
-The military service record is the most cited dimension. [Robert Earl Wildermuth](/family/robert-earl-wildermuth/) flew B-24s over Biak, Leyte, and Mindoro in 1944–45, came home, finished Stanford, served Korea, served the Pentagon, retired a lieutenant colonel. [Charlie](/family/charles-eesley/) shipped to [Saigon](/places/saigon-1970/) in 1969 and rotated out in 1971; the year shaped him for the rest of his life. [Lyle Eesley](/family/lyle-eesley/) died as a POW at Cabanatuan in 1942.
+The military service record is the most cited dimension. [Robert Earl Wildermuth](/family/robert-earl-wildermuth/) flew B-24s over Biak, Leyte, and Mindoro in 1944–45, came home, finished Stanford, served Korea, served the Pentagon, retired a lieutenant colonel. [Charlie](/family/charles-eesley/) shipped to [Saigon](/places/saigon/) in 1969 and rotated out in 1971; the year shaped him for the rest of his life. [Lyle Eesley](/family/lyle-eesley/) died as a POW at Cabanatuan in 1942.
 
 The civic service record is wider and more sustained. [Will Eesley](/family/wilbur-eesley/) sat on Marietta's Tree Commission and Bicentennial Commission, was past president of the Kiwanis Club, sat on the Betsey Mills Advisory Board. [Peggy](/family/margaret-mcmaster-eesley/) was active in PEO, the Betsey Mills Club, the Junior Reading Club. [Terrie](/family/terrie-lee-eesley/) taught twenty-three years in the Marietta City Schools and ran Safety Town in summers — the closest thing to a civic-service-as-vocation in the lineage.
 
@@ -237,7 +237,7 @@ The threads above are what the family has actually been passing down. The archiv
 
 这条线索其实有两个面，但其实是同一种实践。时间这一面，叫做"服务"：把自己的时间花在自己家庭之外的机构上。资源这一面，叫做"托管"：照管那些首先不属于自己的钱、关注、和有信仰底色的结构。这两面在家族的记录里，几乎总是一起出现，所以我把它们写成同一条线索。
 
-兵役那一面，是被援引最多的一个维度。[我外祖父罗伯特·厄尔·维尔德穆斯](/family/robert-earl-wildermuth/) 在1944到1945年间，驾驶 B-24 重型轰炸机飞过比亚克、莱特、民都洛的天空，战后回国念完斯坦福，又服役于朝鲜，又服役于五角大楼，最后以中校军衔退役。[我父亲查尔斯](/family/charles-eesley/) 在1969年被派往 [西贡](/places/saigon-1970/)，1971年轮换回国；那一年塑造了他余下的整个人生。我的二叔祖 [莱尔·伊斯利](/family/lyle-eesley/) 在1942年作为战俘，死于菲律宾卡帕南死亡营。
+兵役那一面，是被援引最多的一个维度。[我外祖父罗伯特·厄尔·维尔德穆斯](/family/robert-earl-wildermuth/) 在1944到1945年间，驾驶 B-24 重型轰炸机飞过比亚克、莱特、民都洛的天空，战后回国念完斯坦福，又服役于朝鲜，又服役于五角大楼，最后以中校军衔退役。[我父亲查尔斯](/family/charles-eesley/) 在1969年被派往 [西贡](/places/saigon/)，1971年轮换回国；那一年塑造了他余下的整个人生。我的二叔祖 [莱尔·伊斯利](/family/lyle-eesley/) 在1942年作为战俘，死于菲律宾卡帕南死亡营。
 
 公民服务那一面，更宽，也更持久。我的祖父 [威尔·伊斯利](/family/wilbur-eesley/) 在玛丽埃塔市的城市绿化委员会和建市两百周年纪念委员会任职，曾任基瓦尼俱乐部主席，也在贝齐·米尔斯顾问董事会任职。祖母 [佩姬](/family/margaret-mcmaster-eesley/) 活跃于美国姐妹会、贝齐·米尔斯俱乐部、少年读书会。我母亲 [特丽](/family/terrie-lee-eesley/) 在玛丽埃塔市学区教了 二十三年，夏天还要兼办"安全城" &mdash; 在这一脉里，这是最接近"把公民服务当成事业"的一种形态。
 

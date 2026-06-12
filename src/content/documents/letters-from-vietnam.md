@@ -17,7 +17,7 @@ source: "Original letters held in the family archive (Chuck Eesley)."
 
 ## What this collection is
 
-In 1969 [Charlie Eesley](/family/charles-eesley/) &mdash; twenty-two, with a Marietta College economics degree and a U.S. Army uniform on him &mdash; shipped to Vietnam. **Most of the letters he wrote home over the next two years were to [Terrie Lee Wildermuth](/family/terrie-lee-eesley/)** &mdash; the woman who would become his wife and Chuck's mother. They had already met. He wrote her, almost the whole tour. A smaller set went to his parents in Marietta &mdash; [Will](/family/wilbur-eesley/) the architect and [Peggy](/family/margaret-mcmaster-eesley/) the mother. The letters survived. They are the primary record of the two years he spent in [Saigon](/places/saigon-1970/) in his own voice, written as he was living them.
+In 1969 [Charlie Eesley](/family/charles-eesley/) &mdash; twenty-two, with a Marietta College economics degree and a U.S. Army uniform on him &mdash; shipped to Vietnam. **Most of the letters he wrote home over the next two years were to [Terrie Lee Wildermuth](/family/terrie-lee-eesley/)** &mdash; the woman who would become his wife and Chuck's mother. They had already met. He wrote her, almost the whole tour. A smaller set went to his parents in Marietta &mdash; [Will](/family/wilbur-eesley/) the architect and [Peggy](/family/margaret-mcmaster-eesley/) the mother. The letters survived. They are the primary record of the two years he spent in [Saigon](/places/saigon/) in his own voice, written as he was living them.
 
 His son's [eulogy](/docs/eulogy-charles-mcmaster-eesley/) for him in 2015 noted that "most long conversations with dad would wind their way eventually back to what he experienced in Vietnam from 69&ndash;71." The letters are the prior layer underneath those conversations &mdash; what he was telling Terrie and his parents in real time, before the years became the thing he had carried for four and a half decades.
 
@@ -70,7 +70,7 @@ If you're here because you're interested in the **letters-home genre** itself &m
 
 ## Further reading on the war
 
-The same list runs on his [person page](/family/charles-eesley/) and on the [Saigon place page](/places/saigon-1970/):
+The same list runs on his [person page](/family/charles-eesley/) and on the [Saigon place page](/places/saigon/):
 
 - [*The Vietnam War*](https://www.pbs.org/kenburns/the-vietnam-war/) (Ken Burns &amp; Lynn Novick, 2017).
 - [*Dispatches*](https://www.goodreads.com/book/show/107772.Dispatches) by Michael Herr &mdash; the war as it sounded.
