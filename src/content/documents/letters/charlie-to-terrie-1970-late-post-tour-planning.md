@@ -16,9 +16,10 @@ dateRange:
   end: "1970-12-31"
 private: true
 summary: "Late-tour letter — Charlie is looking past Vietnam to what comes next. The plan he sketches: two weeks back in Marietta when he rotates, then either another job or back to Sears (his pre-Army employer); if Terrie can get a summer 1971 job in D.C., they could be together and save a little money; August looms as the realistic timeline for what comes after. The voice has shifted from the operational present of the field letters to something closer to the civilian future-planning he will spend the next forty-five years actually living."
-source: "Held in family archive — src/assets/family/originals/vietnam-letters/dad200.jpg. Date inferred from the post-tour content (no field references; planning for 'next summer'); placing this in October–December 1970, late in the tour."
+source: "Held in family archive — src/assets/family/originals/vietnam-letters/dad200.jpg (page 1) and dad201.jpg (page 2 — Shaunessy's address, Sears layover, D.C.-summer planning, 'August seems…'). Date inferred from the post-tour content (no field references; planning for 'next summer'); placing this in October–December 1970, late in the tour."
 scans:
   - ../../../assets/family/originals/vietnam-letters/dad200.jpg
+  - ../../../assets/family/originals/vietnam-letters/dad201.jpg
 ---
 
 ## What the letter is
