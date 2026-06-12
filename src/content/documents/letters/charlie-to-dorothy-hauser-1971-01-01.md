@@ -22,7 +22,7 @@ source: "Held in family archive — grandmaE1.pdf page 140 (gitignored locally; 
 
 1 January 1971. Charlie writes from Da Nang at 3 AM Vietnam time, on guard duty, addressed to *"Dorothy."* The Dorothy in question is **[Dorothy Hauser](/family/dorothy-hauser/)** &mdash; [Peggy McMaster Eesley's](/family/margaret-mcmaster-eesley/) friend in Marietta and a member of the [Mothers for Peace](/family/dorothy-hauser/) group Peggy belonged to in the early 1970s.
 
-The letter is short. It would not be especially noteworthy were it not for two things: it confirms the Dorothy Hauser identification the site had been uncertain about (a confusion that arose around the [April 1970 parental conflict letter](/docs/letters/charlie-to-terrie-1970-04-02-parents-against-hawaii/) when the name "Dorothy" was initially misread as Terrie's mother Dorothy Wildermuth), and it carries Charlie's most direct piece of political commentary on Richard Nixon anywhere in the corpus.
+The letter is short. It would not be especially noteworthy were it not for two things: it confirms the Dorothy Hauser identification the site had been uncertain about (a confusion that arose around the [April 1971 parental conflict letter](/docs/letters/charlie-to-terrie-1971-04-02-parents-against-hawaii/) when the name "Dorothy" was initially misread as Terrie's mother Dorothy Wildermuth), and it carries Charlie's most direct piece of political commentary on Richard Nixon anywhere in the corpus.
 
 ## Transcription
 
@@ -42,7 +42,7 @@ The letter is short. It would not be especially noteworthy were it not for two t
 
 ## What the letter records
 
-**The Dorothy Hauser confirmation.** The site previously carried a tentative identification of *"Dorothy"* (in the [April 1970 parental conflict letter](/docs/letters/charlie-to-terrie-1970-04-02-parents-against-hawaii/) and elsewhere) as either Dorothy Wildermuth (Terrie's mother) or Dorothy Hauser (Peggy's friend). Chuck flagged the Hauser hypothesis as more likely. The closing line *"Say hi to the Mothers for Peace for me"* &mdash; addressed to the same Dorothy, in a private letter Charlie was sending from Vietnam &mdash; settles it: this Dorothy was Peggy's [Mothers for Peace](/family/dorothy-hauser/) friend. Dorothy was, by January 1971, sufficiently woven into the Eesley household that Charlie wrote her a personal New Year's letter from Da Nang. The two had a real correspondence.
+**The Dorothy Hauser confirmation.** The site previously carried a tentative identification of *"Dorothy"* (in the [April 1971 parental conflict letter](/docs/letters/charlie-to-terrie-1971-04-02-parents-against-hawaii/) and elsewhere) as either Dorothy Wildermuth (Terrie's mother) or Dorothy Hauser (Peggy's friend). Chuck flagged the Hauser hypothesis as more likely. The closing line *"Say hi to the Mothers for Peace for me"* &mdash; addressed to the same Dorothy, in a private letter Charlie was sending from Vietnam &mdash; settles it: this Dorothy was Peggy's [Mothers for Peace](/family/dorothy-hauser/) friend. Dorothy was, by January 1971, sufficiently woven into the Eesley household that Charlie wrote her a personal New Year's letter from Da Nang. The two had a real correspondence.
 
 **The Mothers for Peace circle in Marietta.** [Mothers for Peace](https://en.wikipedia.org/wiki/Mothers_for_Peace) was a national women's anti-war network active during the Vietnam era. Peggy McMaster Eesley's participation in the Marietta-area chapter is one of the few pieces of direct political engagement the archive documents on Charlie's mother's side. The local group included Dorothy Hauser, whose own family was apparently following Charlie's tour through Peggy &mdash; close enough for Charlie to send a personal letter back, and to assume Dorothy would carry his greetings to the rest of the women.
 
@@ -56,11 +56,11 @@ That Charlie sent this line to a Mothers for Peace member &mdash; rather than to
 
 ## What this letter does for the archive
 
-It closes the loop on **the Dorothy Hauser identification** that had been ambiguous since the [April 1970 parental conflict letter](/docs/letters/charlie-to-terrie-1970-04-02-parents-against-hawaii/) and the [Mothers for Peace research-thread retraction](/family/dorothy-wildermuth/) on Dorothy Wildermuth's page. Dorothy Hauser was real, was close to Peggy, was part of Mothers for Peace, and was a person Charlie himself wrote to from Vietnam. The framing across the archive should reflect that, including:
+It closes the loop on **the Dorothy Hauser identification** that had been ambiguous since the [April 1971 parental conflict letter](/docs/letters/charlie-to-terrie-1971-04-02-parents-against-hawaii/) and the [Mothers for Peace research-thread retraction](/family/dorothy-wildermuth/) on Dorothy Wildermuth's page. Dorothy Hauser was real, was close to Peggy, was part of Mothers for Peace, and was a person Charlie himself wrote to from Vietnam. The framing across the archive should reflect that, including:
 
 - The [Dorothy Hauser](/family/dorothy-hauser/) person page (if not yet created, should be);
 - The [Mothers for Peace](https://en.wikipedia.org/wiki/Mothers_for_Peace) reference on Peggy's page should be kept and tied to Dorothy directly;
-- The [April 1970 parental conflict letter](/docs/letters/charlie-to-terrie-1970-04-02-parents-against-hawaii/) framing that had hedged the Dorothy reference can be tightened.
+- The [April 1971 parental conflict letter](/docs/letters/charlie-to-terrie-1971-04-02-parents-against-hawaii/) framing that had hedged the Dorothy reference can be tightened.
 
 It also surfaces, for the first time in the corpus, Charlie's own political voice on the war's politics &mdash; not just the practical military reading of the [Laos thread](/docs/letters/charlie-to-terrie-1971-02-04-laos-fore-warning/), but a direct read on the man running the country at the time. That voice is dry, quiet, and pointed. It sounds exactly like the same Charlie the [1970 marijuana / Donut Dollies letter](/docs/letters/charlie-to-terrie-1970-marijuana-and-donut-dollies/) sounds like, applied to the Nixon presidency rather than to GI culture.
 

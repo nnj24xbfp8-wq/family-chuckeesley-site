@@ -3,7 +3,7 @@ title: "Cam Ranh Bay, Vietnam — the 6th Convalescent Center and Charlie's Sept
 village: "Cam Ranh Bay"
 region: "Khánh Hòa Province"
 country: "Vietnam"
-summary: "The deep natural harbor on the south-central coast of Vietnam — the principal U.S. logistics base in country during the war, hosting the 6th Convalescent Center where Charlie Eesley recovered from his September 1970 bout with malaria. The second of Charlie's two surviving Vietnam coastal-rear locations in the letter corpus, alongside the Saigon stand-down referenced in the 29 May 1970 letter."
+summary: "The deep natural harbor on the south-central coast of Vietnam — the principal U.S. logistics base in country during the war, hosting the 6th Convalescent Center where Charlie Eesley recovered from his September 1970 bout with malaria. The second of Charlie's two surviving Vietnam coastal-rear locations in the letter corpus, alongside the Saigon stand-down referenced in the 29 May 1971 letter."
 significance: "Anchored in this archive by Charlie's 28 September 1970 letter to Terrie on American National Red Cross stationery, written from the 6th Convalescent Center's beachfront recovery facility. The geographic counterpart, on the safe-rear-coast side, to the I Corps mountain operations that gave him the malaria in the first place."
 status: described-only
 relatedPeople:
@@ -31,7 +31,7 @@ The beach and the movie are the 6th Convalescent Center's signature amenities, m
 
 ## Cam Ranh Bay in the archive
 
-Cam Ranh Bay is the **second of Charlie's two surviving Vietnam coastal-rear locations** in the surviving letter corpus, after the [Saigon](/places/saigon/) stand-down referenced in the [29 May 1970 letter](/docs/letters/charlie-to-terrie-1970-05-29/). Both were the safe-rear-coast counterpart to the I Corps mountain operations that defined the rest of his tour.
+Cam Ranh Bay is the **second of Charlie's two surviving Vietnam coastal-rear locations** in the surviving letter corpus, after the [Saigon](/places/saigon/) stand-down referenced in the [29 May 1971 letter](/docs/letters/charlie-to-terrie-1971-05-29/). Both were the safe-rear-coast counterpart to the I Corps mountain operations that defined the rest of his tour.
 
 The base closed at the end of the U.S. presence in Vietnam. Today Cam Ranh Bay is a commercial port and air base used by the Vietnamese government, with a small civilian commercial airport adjacent. The 6th Convalescent Center site is gone.
 

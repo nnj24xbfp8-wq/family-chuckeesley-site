@@ -28,7 +28,7 @@ scans:
 
 **Cam Ranh Bay** was the principal U.S. logistics base on the south-central Vietnamese coast, occupying a deep natural harbor about 180 miles northeast of Saigon. It hosted the **6th Convalescent Center**, opened in 1966 specifically to take stabilised wounded and sick soldiers off the high-acuity evacuation hospitals so they could recover without occupying a hospital bed needed for new admissions. By 1970 the 6th Convalescent Center was a 1,500-bed facility on the beach side of the base, with beach access, recreation, and a movie program. Malaria patients with the "vivax" diagnosis Charlie names in his hospital letter were a common population at the center &mdash; the convalescent period for vivax was typically two to four weeks of bed rest, fluid, and antimalarial completion.
 
-This is the **second of Charlie's two Vietnam coastal-rear locations** in the surviving letter corpus: the [Saigon stand-down referenced in the 29 May 1970 letter](/docs/letters/charlie-to-terrie-1970-05-29/) and now Cam Ranh Bay in late September. Both were rear-area Vietnam coastal bases far from the I Corps field operations that occupied the rest of his tour.
+This is the **second of Charlie's two Vietnam coastal-rear locations** in the surviving letter corpus: the [Saigon stand-down referenced in the 29 May 1971 letter](/docs/letters/charlie-to-terrie-1971-05-29/) and now Cam Ranh Bay in late September. Both were rear-area Vietnam coastal bases far from the I Corps field operations that occupied the rest of his tour.
 
 ## Transcription
 

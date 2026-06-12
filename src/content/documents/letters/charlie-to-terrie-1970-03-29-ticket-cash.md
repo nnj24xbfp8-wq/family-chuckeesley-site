@@ -33,7 +33,7 @@ This 29 March letter is the *money* letter in the middle:
 - He asks her to book the Hawaii ticket under "Mrs. Eesley" to save on the dependent fare.
 - He proposes specific dates: arrive 12 April, leave late 19 April.
 
-Of those proposed dates: they're not the actual R&R-week dates (which fell in mid-June 1970 per the [29 May "seventeen days left"](/docs/letters/charlie-to-terrie-1970-05-29/) letter). The 12–19 April proposal is for some intermediate plan that may have been Terrie meeting Charlie's family in Marietta over Easter week, or for an earlier R&R window that ultimately shifted.
+Of those proposed dates: they're not the actual R&R-week dates (which fell in mid-June 1970 per the [29 May "seventeen days left"](/docs/letters/charlie-to-terrie-1971-05-29/) letter). The 12–19 April proposal is for some intermediate plan that may have been Terrie meeting Charlie's family in Marietta over Easter week, or for an earlier R&R window that ultimately shifted.
 
 Closes with the standing tour-end countdown: *"Everything is fine here with 77 days left."* &mdash; pinning this letter to the days-until-R&R counting rhythm that runs through the early-1970 letters.
 

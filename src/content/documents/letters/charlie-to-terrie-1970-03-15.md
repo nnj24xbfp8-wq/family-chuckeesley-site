@@ -48,7 +48,7 @@ source: "Held in family archive — grandmaE1.pdf page 12 (gitignored locally; t
 
 **The Hawaii hotel.** *"I haven't made any arrangements in Hawaii for a hotel but I then think no problem. Maybe if you get there 12th you could get it."* Three months before the trip, the hotel was not yet booked. Charlie was leaving the booking to Terrie on her arrival date. The R&R-week would happen at whatever Honolulu hotel they could secure on Terrie's day of arrival, the standard arrangement for late-1960s soldiers and their R&R partners in Hawaii.
 
-**$100 a month.** *"I'll send you $100 Mar 1 or so."* The standard pattern of Vietnam-tour soldiers sending money to family or fiancées back home, often via Treasury allotment or direct money order, runs through the rest of the corpus. By the [29 May 'seventeen days left' letter](/docs/letters/charlie-to-terrie-1970-05-29/) Charlie would be discussing the $260 check Terrie had had trouble cashing; by the [late January 1971 letter](/docs/letters/charlie-to-terrie-1971-01-24/), the stereo-purchase math. The Vietnam-tour finance thread that runs through the whole corpus starts visibly here.
+**$100 a month.** *"I'll send you $100 Mar 1 or so."* The standard pattern of Vietnam-tour soldiers sending money to family or fiancées back home, often via Treasury allotment or direct money order, runs through the rest of the corpus. By the [29 May 'seventeen days left' letter](/docs/letters/charlie-to-terrie-1971-05-29/) Charlie would be discussing the $260 check Terrie had had trouble cashing; by the [late January 1971 letter](/docs/letters/charlie-to-terrie-1971-01-24/), the stereo-purchase math. The Vietnam-tour finance thread that runs through the whole corpus starts visibly here.
 
 ## Sequence with surrounding letters
 
@@ -58,6 +58,6 @@ source: "Held in family archive — grandmaE1.pdf page 12 (gitignored locally; t
 | 15 Mar 1970 | This letter | First weeks in country, six catch-up letters at Danang |
 | 22 Mar 1970 | [Saigon orders](/docs/letters/charlie-to-terrie-1970-03-22/) | R&R orders mailed |
 | 31 Mar 1970 | [R&R planning](/docs/letters/charlie-to-terrie-1970-03-31-rr-planning/) | Terrie has her ticket |
-| 2–3 Apr 1970 | [Hawaii-propriety letter](/docs/letters/charlie-to-terrie-1970-04-02-parents-against-hawaii/) | The Wildermuth-side objection lands |
+| 2–3 Apr 1970 | [Hawaii-propriety letter](/docs/letters/charlie-to-terrie-1971-04-02-parents-against-hawaii/) | The Wildermuth-side objection lands |
 
 The Danang-address-mail-routing detail places this letter early in the same arc that produced the 22 March in-country letter from Saigon. By the end of March, his mail was being held at the proper unit address; the six catch-up letters of 15 March are the small archive of the days when his address had not yet stabilized.

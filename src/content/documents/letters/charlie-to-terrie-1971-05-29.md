@@ -1,5 +1,5 @@
 ---
-title: "Letter to Terrie, 29 May 1970 — 'I'm back from Saigon... 17 days left'"
+title: "Letter to Terrie, 29 May 1971 — 'I'm back from Saigon... 17 days left'"
 teaser: "Charlie back from Saigon stand-down with seventeen days to count down to the Hawaii R&R rendezvous, half a continent away from Terrie's spring-semester finals at Maryland."
 type: letter
 author: charles-eesley
@@ -10,11 +10,11 @@ people:
 partOf: letters-from-vietnam
 locationFrom: "Vietnam (presumed I Corps; 101st Airborne)"
 locationTo: "Maryland (University of Maryland, College Park)"
-postmarkDate: "1970-05-29"
+postmarkDate: "1971-05-29"
 dateRange:
-  start: "1970-05-29"
+  start: "1971-05-29"
 private: false
-summary: "Charlie's letter to Terrie dated 29 May 1970 — written just after a stand-down or in-country trip to Saigon, with seventeen days remaining until the Hawaii R&R rendezvous that the 22 March letter had begun coordinating. He is teasing about her semester-end finals, planning the trip in detail again, and writing about wanting to see her. One of the immediately-pre-R&R letters in the corpus."
+summary: "Charlie's letter to Terrie dated 29 May 1971 — written just after a stand-down or in-country trip to Saigon, with seventeen days remaining until the Hawaii R&R rendezvous that the 22 March letter had begun coordinating. He is teasing about her semester-end finals, planning the trip in detail again, and writing about wanting to see her. One of the immediately-pre-R&R letters in the corpus."
 source: "Held in family archive — src/assets/family/originals/vietnam-letters/dad21.jpg."
 scans:
   - ../../../assets/family/originals/vietnam-letters/dad21.jpg
@@ -22,7 +22,7 @@ scans:
 
 ## What the letter is
 
-29 May 1970. Charlie writes from somewhere in I Corps after a trip back to Saigon — possibly a stand-down or an in-country errand at the rear. He has seventeen days to go until the Hawaii R&R rendezvous he and Terrie spent the [22 March letter](/docs/letters/charlie-to-terrie-1970-03-22/) coordinating, and the count is the structure of the letter.
+29 May 1971. Charlie writes from somewhere in I Corps after a trip back to Saigon — possibly a stand-down or an in-country errand at the rear. He has seventeen days to go until the Hawaii R&R rendezvous he and Terrie spent the [22 March letter](/docs/letters/charlie-to-terrie-1970-03-22/) coordinating, and the count is the structure of the letter.
 
 He has heard Terrie wasn't getting his mail — a recurring grievance in the corpus — and reassures her several are on the way. He teases her about not finishing her semester with a 3.0 GPA, *"the shock would be too great."* Two months after the orders, the operational details of the trip are still being worked out: a motel room rather than her staying with his parents in Marietta. He signs off *"Love Charles."*
 
