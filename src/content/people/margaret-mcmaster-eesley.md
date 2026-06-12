@@ -80,4 +80,8 @@ Peggy is an anchor for five of the ten threads in the [**Family threads**](/docs
 - **Thread #6 — Humor as transmitted inheritance** — *"the dark, dry sense of humor went directly to her son Charlie, who passed a more diluted version"* to Chuck.
 - **Thread #7 — Showing up in small, daily, unglamorous ways** — Chuck's daily after-school presence at the 7th Street house through his entire childhood.
 
+## See also — the three Peggys
+
+Peggy McMaster Eesley is the first &mdash; longest-running and most central &mdash; of [the three Peggys](/docs/the-three-peggys/) who circulated through this family across one generation. The other two were her sister-in-law Margaret Adelyne "Peggy" Youman (Don Eesley's wife) and Peggy Arnold (the Highland Ridge neighbor). A short companion essay reads the trio.
+
 > *Sources: Margaret "Peggy" Jane Eesley obituary, *Marietta Times*, May 23, 2007 (scrapbook page, p. 105); digitized in "Ohio, United States records," images, [FamilySearch](https://www.familysearch.org/ark:/61903/3:1:3Q9M-C91R-YSG8-2?view=index) (image 122 of 148), Washington County Public Library, Marietta, Ohio (Image Group Number 101430006). Chuck's [eulogy for his father](/docs/eulogy-charles-mcmaster-eesley/) (2015) on the investing thread. Family memory (Chuck) on the dance-partner line, the bridge years, and the daily after-school presence at the 424 N 7th Street house.*
