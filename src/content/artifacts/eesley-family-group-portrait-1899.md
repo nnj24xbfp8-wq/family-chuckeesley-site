@@ -91,4 +91,16 @@ Two caption documents accompany this photograph in the family archive:
 
 The two captions together &mdash; with the GEDCOM corrections noted above &mdash; constitute the definitive identification of every figure in the photograph.
 
-> *Family captions transmitted by Chuck Eesley, 2026. High-resolution scan: `IMG_4056.jpeg`. Caption card scan: `IMG_4057.jpeg`. Identifications reconciled against [Dale Eesley's FamilySearch tree](/docs/dale-eesley-familysearch-tree/) and [William Eesley's c. 1916 obituary](/docs/william-eesley-obituary-college-corner/).*
+## Roberta's confirmation, June 2026
+
+[Roberta Burnes](/family/roberta-burnes/) &mdash; Lillie Dale Chenoweth Eesley's granddaughter on the Chenoweth side, and an inheritor of Eesley family material from her Aunt Mary, her mother Helen, and her great-uncle Leonard &mdash; **independently confirmed three of the cast identifications** above in correspondence with Chuck in June 2026, working from her own visual memory of the print before her current labeled copy could be located:
+
+- **Charles Leonard Eesley** is third from left in the back row.
+- His **brother George** is second from left in the back row, immediately to Charles's left from the viewer's perspective.
+- **Alf** is the rightmost of the seated brothers (with his sister Anna to his right).
+
+All three of these match the PowerPoint-deck caption and the GEDCOM reconciliation set out above. Roberta's confirmation is the **third independent cast-identification pass** on this photograph (after the family typed caption card and the PowerPoint deck) and the first one done by a Chenoweth-side descendant rather than an Eesley-side descendant. Roberta also notes that she *"used to be able to name all of them by sight"* and is hunting for a fully-labeled copy she remembers having; if it surfaces, the remaining nine figures (the spouse [Jennie Goldie](/family/jeanie-goldie/), the patriarch [Albert Robert Sr](/family/albert-robert-eesley/), and the seven other siblings) will all carry her name-confirmation alongside the existing ones.
+
+She also offered a dating note worth carrying alongside the c. 1899 family caption: the photograph could plausibly date **closer to Charles Leonard's marriage to Lillie Dale Chenoweth** (which would put the frame c. 1902–1903, the years immediately before their first child Leonard was born in late 1904 or 1905), because *"he looks very similar to other pictures taken around that time."* Charles is 19 if the frame is 1899 and ~23 if it is c. 1903; the four-year gap in a young man's face is sometimes visible and sometimes not. The c. 1899 family-caption dating remains the page's lead, but Roberta's alternative-c. 1903 dating possibility is noted as an open question worth carrying.
+
+> *Family captions transmitted by Chuck Eesley, 2026. High-resolution scan: `IMG_4056.jpeg`. Caption card scan: `IMG_4057.jpeg`. Identifications reconciled against [Dale Eesley's FamilySearch tree](/docs/dale-eesley-familysearch-tree/) and [William Eesley's c. 1916 obituary](/docs/william-eesley-obituary-college-corner/). Cast-identification confirmation pass by Roberta Burnes, June 2026.*
