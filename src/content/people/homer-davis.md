@@ -29,15 +29,33 @@ The studio portrait that survives in the family papers, shared by Chuck in June 
 
 The frame is, by date, the **earliest photograph of any of Chuck's maternal-line direct ancestors** in the archive.
 
-## The Waterford working life
+## The Waterford working life — and Standard Oil of Ohio
 
-At the time of Dorothy's birth on **24 February 1925**, Homer was twenty-five, working as a **truck driver** out of Waterford, Washington County, Ohio.
+At the time of Dorothy's birth on **24 February 1925**, Homer was twenty-five, working as a **truck driver** out of Waterford, Washington County, Ohio. His [1982 obituary](/docs/homer-davis-obituary-1982/) records that he later went on to a long career at the **Standard Oil Company of Ohio** &mdash; the transition from independent truck driver to Standard Oil employee likely tracks the 1920s-1930s consolidation of the Ohio petroleum-distribution industry into the regional Standard Oil subsidiary.
 
 He married **[Bessie M. Hill](/family/bessie-hill-davis/)** at some date before the 1923 birth of their first daughter Mary. The three daughters together:
 
 - **Mary Davis** (b. ~1923)
 - **[Dorothy Marie Davis](/family/dorothy-davis-wildermuth/)** (b. 24 February 1925)
 - **Betty Davis** (b. ~1926)
+
+## Homer in his fifties — a backyard family group, c. 1953-1955
+
+Homer stands at right in this backyard portrait, in a fedora and dark suit with a tie. Beside him: a young boy of about eleven, two women (one with glasses holding an infant in a christening blanket, the other behind), and a toddler perched on a small white tricycle in front. The house behind reads as a postwar single-story bungalow with vertical clapboard siding.
+
+![Homer Davis at right in fedora, with what appears to be one of his daughters' families &mdash; c. 1953-1955, ages of the children pointing to mid-1950s. From Chuck's keeping.](../../assets/family/originals/homer-davis-c1953-1955-backyard-family-group.jpeg)
+
+The dating is fixed by Homer's apparent age (mid-50s, consistent with c. 1953-55) and the ages of the children. The cast is open &mdash; this is most likely one of his three daughters' families visiting from out of town, or could be Homer with his son [William Harvey Davis Sr.](/family/william-harvey-davis-sr/) (b. 1941) as the boy and a wife or other Davis-line relatives. The composition is the kind of casual family-album backyard snapshot the postwar small-camera era produced.
+
+## Homer with a grandchild at the Florida dinner table, c. 1970
+
+After Marie's death in 1950, Homer remarried on **12 November 1968** to **Ida Roberts Drake** (per the [1982 obituary](/docs/homer-davis-obituary-1982/)). The second household was Florida-based &mdash; the move to Matlacha and Pine Island had already happened by the late 1960s.
+
+This indoor dinner-table photograph &mdash; lace tablecloth, lit green tapers, yellow Fiestaware bowls, a corner cabinet behind stocked with brandy snifters, pewter mugs, and Depression glass &mdash; reads as Christmas or Thanksgiving dinner in the Florida household. Homer sits in a gray cardigan with horn-rimmed glasses, holding a curly-haired toddler grandchild (red-and-white-striped-sleeved jumper, eyes wide at the camera) on his lap.
+
+![Homer Davis with a young grandchild on his lap at a candlelit Florida dinner table, c. late 1960s or early 1970s. From Chuck's keeping.](../../assets/family/originals/homer-davis-with-grandchild-florida-dinner-c1970.jpeg)
+
+The dating is fixed by Homer's apparent age (late sixties to early seventies) and the small-format Kodak print quality, putting it c. **1968-1972**. The toddler's specific identity is open &mdash; possibilities include any of his eleven biological grandchildren or his thirteen step-grandchildren by his second marriage to Ida Roberts Drake. He died in January 1982, so this is from the **last decade of his life**.
 
 ## The Waterford home and the Unionville fire
 
