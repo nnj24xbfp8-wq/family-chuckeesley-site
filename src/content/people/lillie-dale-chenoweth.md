@@ -28,6 +28,22 @@ The tintype process and the decorative oval mount place the photograph in the **
 
 It is among the earliest photographs of any direct Eesley-line ancestor in this archive.
 
+## Lillie Dale in her wedding dress, c. 1904
+
+A second portrait of Lillie Dale arrived in this archive in June 2026, also from [Roberta's keeping](/family/roberta-burnes/). She stands in a full-length wedding dress &mdash; high neck, gathered bodice, long bell sleeves, a long sweeping skirt, a sheer veil descending past the back of the dress to the floor, a small bouquet held in white-gloved hands. The photograph is a studio frame against a plain dark backdrop, the kind of formal bridal portrait taken in early-1900s portrait studios. Per Roberta, *"this picture was taken a year after her wedding. I can't recall why there was a delay."*
+
+![Lillie Dale Chenoweth in her wedding dress, taken c. 1904 — one year after her marriage to Charles Leonard Eesley. From Roberta Burnes's keeping.](../../assets/family/originals/lillie-dale-wedding-portrait.jpeg)
+
+Lillie Dale was twenty-six or twenty-seven when this portrait was taken. The reason for the year-long delay between the wedding and this formal bridal portrait is an open family question. The image is, regardless, the only one of her in bridal dress that the archive carries.
+
+## Lillie Dale and her brother Dwight, c. 1890s
+
+A third Roberta-keeping portrait shows young Lillie Dale together with her brother **Dwight Chenoweth** &mdash; two teenagers or young adults, Lillie on the left with her dark hair pulled up and a dark high-collar bodice, Dwight on the right in suit and tie. The image is a small studio frame, edge-stained, the kind of double-portrait two siblings would have sat for around the time one of them was leaving home.
+
+![Lillie Dale Chenoweth (left) and her brother Dwight Chenoweth (right), c. 1890s, from Roberta Burnes's keeping.](../../assets/family/originals/lillie-and-brother-dwight-chenoweth.jpeg)
+
+The portrait surfaces, for the first time on the site, the existence of **Dwight Chenoweth** &mdash; Lillie Dale's brother, one of [Joseph Hill](/family/joseph-hill-chenoweth/) and [Mary Ohio Timmons](/family/mary-ohio-timmons-chenoweth/) Chenoweth's children. The Chenoweth-site / Egge structured record has the children of that union; this Dwight should slot in there. Roberta and the Egge site will close the loop on his life dates and family.
+
 ## Music at Ohio State
 
 [Charlie Eesley's 12th-grade autobiography (c. 1964&ndash;1965)](/docs/charles-eesley-12th-grade-autobiography-1965/) carries one of the most evocative details about her early life. Charlie's grandson-view:

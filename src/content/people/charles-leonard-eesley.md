@@ -18,6 +18,12 @@ summary: "Son of Albert Robert Eesley Sr and Jeanie Goldie; husband of Lillie Da
 
 Charles Leonard Eesley was born **September 26, 1879**, the ninth of ten children of [Albert Robert Eesley](/family/albert-robert-eesley/) and [Jeanie Goldie](/family/jeanie-goldie/). He married **[Lillie Dale Chenoweth](/family/lillie-dale-chenoweth/)** (b. August 9, 1877). Their family home was in **Bexley, Ohio** — the leafy independent municipality embedded in eastern Columbus, at **230 North Cassidy Road** per [Charlie's 1965 autobiography](/docs/charles-eesley-12th-grade-autobiography-1965/) — and the house often took in boarders.
 
+## A portrait from his young manhood
+
+A studio portrait of Charles Leonard as a young man &mdash; from [Roberta Burnes's keeping](/family/roberta-burnes/), shared June 2026 &mdash; arrived in this archive in June 2026. It is a head-and-shoulders studio frame, his dark coat buttoned, white shirt and dark bow-tie at his throat, his hair parted in the period style. The look on his face is calm and steady. He is most likely in his late twenties to early thirties, which places the portrait between roughly 1907 and 1912 &mdash; the years his children were starting to arrive (Leonard 1904, Thomas 1906, Dale 1906, James 1908, Donald 1908, Will 1910) and he was establishing himself in the Ohio milling-and-trade life. It is the first portrait of him as a young man in the archive.
+
+![Charles Leonard Eesley as a young man, c. 1907-1912. From Roberta Burnes's keeping.](../../assets/family/originals/charles-leonard-eesley-young-portrait.jpeg)
+
 ## Charlie's grandson-view of his early life
 
 [Charlie Eesley's 12th-grade autobiography (c. 1964&ndash;1965)](/docs/charles-eesley-12th-grade-autobiography-1965/) carries the family memory of Charles Leonard's pre-Ohio life as the grandchildren had heard it:
