@@ -83,5 +83,7 @@ The line *"never felt inferior"* is the small piece of class-aspiration honesty 
 ## Further reading
 
 - [The G.I. Bill](https://en.wikipedia.org/wiki/G.I._Bill) on Wikipedia &mdash; the policy that put Robert Earl on this campus in two years.
-- [*When Dreams Came True: The GI Bill and the Making of Modern America*](https://www.goodreads.com/book/show/1011577.When_Dreams_Came_True) by Edward Humes &mdash; the social history of how the program reshaped American education.
-- [Stanford in WWII / The "Forty-Niners"](https://exhibits.stanford.edu/) and the [Stanford University Archives](https://library.stanford.edu/spc) &mdash; for context on what the campus looked like to a 1948 graduating veteran.
+- [*When Dreams Came True: The GI Bill and the Making of Modern America*](https://www.amazon.com/When-Dreams-Came-True-America/dp/1574880411) by **Michael J. Bennett** (Brassey's, 1996) &mdash; the social history of how the program reshaped American education. (Earlier passes of this page mis-attributed this book to Edward Humes; the author is Bennett.)
+- [Stanford Stories from the Archives](https://exhibits.stanford.edu/stanford-stories) &mdash; Stanford's digital archive of university-history exhibits and primary documents.
+- [Stanford Department of Special Collections and University Archives](https://library.stanford.edu/libraries/department-special-collections-and-university-archives) &mdash; the institutional archive that holds the WWII-era student and faculty records, the campus photographs, and the documentary context for what the post-war GI Bill cohort encountered in 1946-1948.
+- [Stanford University war records, 1917-1945 (SearchWorks catalog)](https://searchworks.stanford.edu/view/4085041) &mdash; the cataloged collection of WWI and WWII Stanford records, including the student and faculty service rosters.
