@@ -17,6 +17,10 @@ summary: "Charles McMaster 'Charlie' Eesley's letters home from his U.S. Army to
 source: "Original letters held in the family archive (Chuck Eesley) and the family-archive scans (grandmaE1.pdf, gitignored locally)."
 ---
 
+## Unit context
+
+Charlie served in **Charlie Company, 1st Battalion, 506th Infantry Regiment, 3rd Brigade, 101st Airborne Division** &mdash; the "Currahees," based at Camp Eagle in I Corps from late 1968 through the unit's December 1971 departure. The [unit-history context document](/docs/charlie-co-1-506-vietnam-chronicle/) places his mid-1970 to mid-1971 tour within the company's operational record &mdash; FB Ripcord (summer 1970), the Vietnamization drawdown, the Camp Eagle period, the September 1970 malaria hospitalization at Cam Ranh Bay, the April 1971 Hawaii R&R, and his 14 June 1971 ETS &mdash; drawing on William Higgins's [Charlie 1-506th Infantry chronicle](https://charlie1-506.com/html/pages%20from%20main%20nav/CreateSpace%20Charlie%20Co.htm) and the companion site [charlie1-506.com](https://charlie1-506.com/).
+
 ## What this collection is
 
 In 1969 [Charlie Eesley](/family/charles-eesley/) &mdash; twenty-two, with a Marietta College economics degree and a U.S. Army uniform on him &mdash; shipped to Vietnam. **Most of the letters he wrote home over the next two years were to [Terrie Lee Wildermuth](/family/terrie-lee-eesley/)** &mdash; the woman who would become his wife and Chuck's mother. They had already met. He wrote her, almost the whole tour. A smaller set went to his parents in Marietta &mdash; [Will](/family/wilbur-eesley/) the architect and [Peggy](/family/margaret-mcmaster-eesley/) the mother. The letters survived. They are the primary record of the two years he spent in [Saigon](/places/saigon/) in his own voice, written as he was living them.
