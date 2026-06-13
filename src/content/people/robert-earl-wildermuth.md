@@ -106,6 +106,7 @@ Robert Earl is an anchor for seven of the ten threads in the [**Family threads**
 For historical context on the world Robert Earl was navigating through:
 
 - [*Hiroshima*](https://en.wikipedia.org/wiki/Hiroshima_(book)) by John Hersey &mdash; the founding account of what happened on the ground at the cities his camera plane filmed from the air.
+- [The 90th Bomb Group "Jolly Rogers" — full unit context document](/docs/90th-bomb-group-jolly-rogers-context/) &mdash; the 400th "Black Pirates" Squadron, the Fifth Air Force Southwest Pacific Area campaign, and the Australia&rarr;New Guinea&rarr;Biak&rarr;Leyte&rarr;Mindoro&rarr;Okinawa arc Robert Earl flew through in 1944-45, drawing on [90thbombgroup.org](https://www.90thbombgroup.org/) and the published unit histories.
 - [The 90th Bomb Group "Jolly Rogers"](https://en.wikipedia.org/wiki/90th_Operations_Group) on Wikipedia &mdash; the unit, the B-24s, the Pacific airfields he flew out of.
 - [*Wings of Morning: The Story of the Last American Bomber Shot Down over Germany in World War II*](https://www.goodreads.com/book/show/326862.Wings_Of_Morning) by Thomas Childers &mdash; on what a B-24 crew was, and was to each other.
 - [The GI Bill](https://en.wikipedia.org/wiki/G.I._Bill) on Wikipedia &mdash; the program that took Robert Earl from a Pacific airfield to Stanford in two years.
