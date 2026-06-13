@@ -71,6 +71,6 @@ The letter is more than the political moment. The same paragraphs note:
 
 The American letters-home genre records many positions on the Vietnam War: support, doubt, despair, the rare unambiguous endorsement. **What is rarer is the soldier-as-voter** — the recognition that the political process is still operating around the war, that absentee ballots are reaching the field, that a private's vote in a midterm election counts the same as a civilian's vote at home. Charlie's October 1970 letter is one of those rarer documents. He is in country, in the field, in the monsoon, with a new captain, with racial tensions rising on base, with the body of a fallen point man on his mind — and he is going to vote for the candidates who will end the war.
 
-The contrast with the [22 June 1970 letter](/docs/letters/charlie-to-terrie-1971-06-22/) four months earlier is the trajectory: in June, the first action was "really weird"; by October, the army is *the army* and the 101st is *the 101st* and the position is settled. What a year does.
+The contrast with the [22 June 1970 letter](/docs/letters/charlie-to-terrie-1970-06-22/) four months earlier is the trajectory: in June, the first action was "really weird"; by October, the army is *the army* and the 101st is *the 101st* and the position is settled. What a year does.
 
 > *Privacy note: this letter is published in full from the dated pages dad150 and dad149 in the family archive. Some adjacent pages from the same week may be related to this letter but have not been confirmed as part of it.*

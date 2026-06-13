@@ -42,6 +42,6 @@ He has heard Terrie wasn't getting his mail — a recurring grievance in the cor
 
 ## Where this sits in the tour
 
-The 22 March 1970 letter set up the R&R rendezvous; this 29 May letter is the immediately-pre-R&R counter. Seventeen days from 29 May puts the meeting at roughly 15 June 1970 — the week that bridges the [22 June 1970 letter](/docs/letters/charlie-to-terrie-1971-06-22/) Charlie writes from back in the field a few days after Hawaii ended, where he refers to the trip in the past tense and to her father's softening attitude.
+The 22 March 1970 letter set up the R&R rendezvous; this 29 May letter is the immediately-pre-R&R counter. Seventeen days from 29 May puts the meeting at roughly 15 June 1970 — the week that bridges the [22 June 1970 letter](/docs/letters/charlie-to-terrie-1970-06-22/) Charlie writes from back in the field a few days after Hawaii ended, where he refers to the trip in the past tense and to her father's softening attitude.
 
 The Saigon detail is small but telling: a soldier on a 101st Airborne tour in I Corps would have to be at the rear or routed through Tan Son Nhut to be in Saigon — an in-country logistical or stand-down trip, not the field. The brief reference is also the kind of detail that motivates the [Saigon place page](/places/saigon/), where Chuck's own 2011 visit pairs against his father's 1969–71 tour.

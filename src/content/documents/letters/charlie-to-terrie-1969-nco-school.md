@@ -36,6 +36,6 @@ The body is **withheld at the family's request**. The page is catalogued here so
 - **Where he was**: Army NCO school in the U.S., presumed Fort Benning.
 - **Where he was writing to**: Terrie at the University of Maryland.
 - **What was on his mind**: Saturday inspection prep; another company's graduation and assignment to Vietnam; his decision to refuse NCO school placement and aim for D.C. instead; his observation that "I'm really beginning to hate the army."
-- **What it tells us about the chronology**: A graduating NCO school company has been sent to Vietnam ahead of his own — placing the letter at a moment when Charlie still has the option to refuse NCO placement and try to stay stateside. By the time of the [22 June 1970 letter](/docs/letters/charlie-to-terrie-1971-06-22/) he is in country with the 101st. Somewhere between this letter and that one, the decision was no longer his.
+- **What it tells us about the chronology**: A graduating NCO school company has been sent to Vietnam ahead of his own — placing the letter at a moment when Charlie still has the option to refuse NCO placement and try to stay stateside. By the time of the [22 June 1970 letter](/docs/letters/charlie-to-terrie-1970-06-22/) he is in country with the 101st. Somewhere between this letter and that one, the decision was no longer his.
 
 > *Body withheld at the family's request; metadata published.*

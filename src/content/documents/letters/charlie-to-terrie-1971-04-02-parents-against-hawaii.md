@@ -30,7 +30,7 @@ scans:
 
 Terrie's parents — Charlie's future in-laws [Robert Earl](/family/robert-earl-wildermuth/) and [Dorothy](/family/dorothy-davis-wildermuth/) Wildermuth — have just told her they do not want her to fly to Hawaii to meet Charlie for his R&R in mid-June. Terrie has written Charlie that the trip is now in doubt. Charlie's first-day response is the angry one. By the second day he has worked out what to do.
 
-The letter is the central hinge of the R&R parental-conflict thread that runs through the spring 1970 letters: it sits between [the 22 March R&R orders letter](/docs/letters/charlie-to-terrie-1971-03-22/) (the plan), the [18 March "I hope they approve" pre-shock letter](/docs/letters/) (the anticipation), [the 29 May "17 days left" letter from Saigon](/docs/letters/charlie-to-terrie-1971-05-29/) (the trip going ahead despite resistance), and the [22 June "your father's attitude is better" letter](/docs/letters/charlie-to-terrie-1971-06-22/) (the conflict softening after the trip).
+The letter is the central hinge of the R&R parental-conflict thread that runs through the spring 1970 letters: it sits between [the 22 March R&R orders letter](/docs/letters/charlie-to-terrie-1971-03-22/) (the plan), the [18 March "I hope they approve" pre-shock letter](/docs/letters/) (the anticipation), [the 29 May "17 days left" letter from Saigon](/docs/letters/charlie-to-terrie-1971-05-29/) (the trip going ahead despite resistance), and the [22 June "your father's attitude is better" letter](/docs/letters/charlie-to-terrie-1970-06-22/) (the conflict softening after the trip).
 
 ## Transcription
 
