@@ -55,7 +55,7 @@ It is a strategically clean solution. By marrying during the R&R week, Charlie a
 
 ## What this letter changes in the archive
 
-The site's existing framing on Peggy McMaster Eesley's role in the Hawaii-R&R period was thin: she was the one organizing the military-spouse-orders [reduced fare for Terrie](/docs/letters/charlie-to-terrie-1970-03-31-rr-planning/) and presumably navigating the Eesley-side family conversations about the trip. **This letter shows that she was actively brokering a marriage-in-Hawaii solution** &mdash; the kind of intervention that, had Charlie taken her up on it, would have made the rest of his tour and the rest of his life a different shape. The R&R-week-as-honeymoon plan was on the table. Charlie said no. They married, instead, on the other side of the tour, after he came home.
+The site's existing framing on Peggy McMaster Eesley's role in the Hawaii-R&R period was thin: she was the one organizing the military-spouse-orders [reduced fare for Terrie](/docs/letters/charlie-to-terrie-1971-03-31-rr-planning/) and presumably navigating the Eesley-side family conversations about the trip. **This letter shows that she was actively brokering a marriage-in-Hawaii solution** &mdash; the kind of intervention that, had Charlie taken her up on it, would have made the rest of his tour and the rest of his life a different shape. The R&R-week-as-honeymoon plan was on the table. Charlie said no. They married, instead, on the other side of the tour, after he came home.
 
 The line *"That isn't what I really want although I guess we will be married soon enough"* is, in its plain way, one of the small key moments of Charlie's tour. The archive should carry it.
 
@@ -63,7 +63,7 @@ The line *"That isn't what I really want although I guess we will be married soo
 
 | Date | Letter | What it records |
 |---|---|---|
-| 31 Mar 1970 | [R&R planning](/docs/letters/charlie-to-terrie-1970-03-31-rr-planning/) | The R&R logistics, Peggy's military-spouse orders for a reduced fare |
+| 31 Mar 1970 | [R&R planning](/docs/letters/charlie-to-terrie-1971-03-31-rr-planning/) | The R&R logistics, Peggy's military-spouse orders for a reduced fare |
 | 2–3 Apr 1970 | [Hawaii-propriety letter](/docs/letters/charlie-to-terrie-1971-04-02-parents-against-hawaii/) | The Wildermuth-side parental objection |
 | 5 Apr 1970 | This letter | **Peggy proposes Hawaii marriage; Charlie says no** |
 | 29 May 1970 | [17 days left](/docs/letters/charlie-to-terrie-1971-05-29/) | R&R imminent |

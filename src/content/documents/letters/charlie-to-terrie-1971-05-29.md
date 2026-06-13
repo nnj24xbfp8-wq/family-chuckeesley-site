@@ -22,7 +22,7 @@ scans:
 
 ## What the letter is
 
-29 May 1971. Charlie writes from somewhere in I Corps after a trip back to Saigon — possibly a stand-down or an in-country errand at the rear. He has seventeen days to go until the Hawaii R&R rendezvous he and Terrie spent the [22 March letter](/docs/letters/charlie-to-terrie-1970-03-22/) coordinating, and the count is the structure of the letter.
+29 May 1971. Charlie writes from somewhere in I Corps after a trip back to Saigon — possibly a stand-down or an in-country errand at the rear. He has seventeen days to go until the Hawaii R&R rendezvous he and Terrie spent the [22 March letter](/docs/letters/charlie-to-terrie-1971-03-22/) coordinating, and the count is the structure of the letter.
 
 He has heard Terrie wasn't getting his mail — a recurring grievance in the corpus — and reassures her several are on the way. He teases her about not finishing her semester with a 3.0 GPA, *"the shock would be too great."* Two months after the orders, the operational details of the trip are still being worked out: a motel room rather than her staying with his parents in Marietta. He signs off *"Love Charles."*
 
@@ -42,6 +42,6 @@ He has heard Terrie wasn't getting his mail — a recurring grievance in the cor
 
 ## Where this sits in the tour
 
-The 22 March 1970 letter set up the R&R rendezvous; this 29 May letter is the immediately-pre-R&R counter. Seventeen days from 29 May puts the meeting at roughly 15 June 1970 — the week that bridges the [22 June 1970 letter](/docs/letters/charlie-to-terrie-june-22/) Charlie writes from back in the field a few days after Hawaii ended, where he refers to the trip in the past tense and to her father's softening attitude.
+The 22 March 1970 letter set up the R&R rendezvous; this 29 May letter is the immediately-pre-R&R counter. Seventeen days from 29 May puts the meeting at roughly 15 June 1970 — the week that bridges the [22 June 1970 letter](/docs/letters/charlie-to-terrie-1971-06-22/) Charlie writes from back in the field a few days after Hawaii ended, where he refers to the trip in the past tense and to her father's softening attitude.
 
 The Saigon detail is small but telling: a soldier on a 101st Airborne tour in I Corps would have to be at the rear or routed through Tan Son Nhut to be in Saigon — an in-country logistical or stand-down trip, not the field. The brief reference is also the kind of detail that motivates the [Saigon place page](/places/saigon/), where Chuck's own 2011 visit pairs against his father's 1969–71 tour.

@@ -64,6 +64,6 @@ Angel — meaning Faye Angel. *"I'm quite certain you can stay with us if Angel 
 | 1969 | [NCO school](/docs/letters/charlie-to-terrie-1969-nco-school/) | Earlier training |
 | late 1969 | This letter | Christmas leave, *"711 days left"* |
 | 18 Feb 1970 | [Stateside NCO training](/docs/letters/charlie-to-terrie-1970-02-18-nco-training/) | Nine weeks in, Vietnam rumors |
-| 22 Mar 1970 | [Saigon arrival](/docs/letters/charlie-to-terrie-1970-03-22/) | In country |
+| 22 Mar 1970 | [Saigon arrival](/docs/letters/charlie-to-terrie-1971-03-22/) | In country |
 
 The Christmas leave he was planning here would be the last one he spent in the United States during his Army term. The next Christmas, 1970, he would be [on a firebase wishing the calendar forward](/docs/letters/charlie-to-terrie-1970-11-21-firebase/) and choosing to send Terrie the $1000 round-trip plane ticket money rather than fly home.

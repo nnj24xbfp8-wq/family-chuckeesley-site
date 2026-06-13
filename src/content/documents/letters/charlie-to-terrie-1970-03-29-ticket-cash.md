@@ -15,7 +15,7 @@ postmarkDate: "1970-03-29"
 dateRange:
   start: "1970-03-29"
 private: true
-summary: "Short logistics-only letter from Charlie to Terrie dated 29 March 1970 (Sunday). Two days before the [31 March R&R-planning letter](/docs/letters/charlie-to-terrie-1970-03-31-rr-planning/) and one week after the [22 March R&R-orders letter](/docs/letters/charlie-to-terrie-1970-03-22/). Charlie has just been paid and has wired $400 to Terrie; he encloses the receipt; he asks her to book the Hawaii ticket under 'Mrs. Eesley' to get the military-spouse fare. The arrival/departure proposal: 12 April arrival, 19 April late-day departure. Closes with the standing tour-end countdown — '77 days left.' Body withheld at family request; content summary only."
+summary: "Short logistics-only letter from Charlie to Terrie dated 29 March 1970 (Sunday). Two days before the [31 March R&R-planning letter](/docs/letters/charlie-to-terrie-1971-03-31-rr-planning/) and one week after the [22 March R&R-orders letter](/docs/letters/charlie-to-terrie-1971-03-22/). Charlie has just been paid and has wired $400 to Terrie; he encloses the receipt; he asks her to book the Hawaii ticket under 'Mrs. Eesley' to get the military-spouse fare. The arrival/departure proposal: 12 April arrival, 19 April late-day departure. Closes with the standing tour-end countdown — '77 days left.' Body withheld at family request; content summary only."
 source: "Held in family archive — src/assets/family/originals/vietnam-letters/dad9.jpg. Date inferred from the 'Mrs. Eesley' fare line, the dollar amount matching the dad12 R&R-cost discussion ('I'm bringing about $400'), and the standing R&R-conversation timeline (March 22 orders → March 29 ticket → March 31 reply to Terrie's confirmation)."
 scans:
   - ../../../assets/family/originals/vietnam-letters/dad9.jpg
@@ -23,7 +23,7 @@ scans:
 
 ## What the letter is
 
-A short, almost-all-logistics letter from Charlie in Vietnam to Terrie at the University of Maryland, dated 29 March 1970 (with year inferred from internal evidence). The letter sits between two heavier letters in the R&R-planning arc: the [22 March R&R-orders letter](/docs/letters/charlie-to-terrie-1970-03-22/) (where the Army has issued his orders and the clerk has typed Terrie as "Mrs. Eesley" so she can fly at the dependent fare) and the [31 March letter](/docs/letters/charlie-to-terrie-1970-03-31-rr-planning/) (where he replies to Terrie's confirmation that she already has her ticket).
+A short, almost-all-logistics letter from Charlie in Vietnam to Terrie at the University of Maryland, dated 29 March 1970 (with year inferred from internal evidence). The letter sits between two heavier letters in the R&R-planning arc: the [22 March R&R-orders letter](/docs/letters/charlie-to-terrie-1971-03-22/) (where the Army has issued his orders and the clerk has typed Terrie as "Mrs. Eesley" so she can fly at the dependent fare) and the [31 March letter](/docs/letters/charlie-to-terrie-1971-03-31-rr-planning/) (where he replies to Terrie's confirmation that she already has her ticket).
 
 This 29 March letter is the *money* letter in the middle:
 

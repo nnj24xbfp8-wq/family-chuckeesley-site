@@ -14,7 +14,7 @@ postmarkDate: "1970-02-18"
 dateRange:
   start: "1970-02-18"
 private: false
-summary: "Charlie's letter to Terrie dated 18 February 1970 — five weeks before he would arrive in Saigon. He is nine weeks into stateside Army training, in a barracks room with eight mostly-Connecticut National Guard college grads and students, working through the conflicting rumors that come down the chain of command in any training cycle: the company commander says they are all going to Vietnam; the NCO squad leader says they just want them in NCO school. Charlie's math: he can drop out of NCO school and still take the 150-day Vietnam early-out, which means whichever rumor turns out to be true, he comes out ahead by the same number of days. The pre-deployment letter the corpus had been missing — the gap between the [1969 NCO school letter](/docs/letters/charlie-to-terrie-1969-nco-school/) and the [22 March 1970 Saigon arrival](/docs/letters/charlie-to-terrie-1970-03-22/)."
+summary: "Charlie's letter to Terrie dated 18 February 1970 — five weeks before he would arrive in Saigon. He is nine weeks into stateside Army training, in a barracks room with eight mostly-Connecticut National Guard college grads and students, working through the conflicting rumors that come down the chain of command in any training cycle: the company commander says they are all going to Vietnam; the NCO squad leader says they just want them in NCO school. Charlie's math: he can drop out of NCO school and still take the 150-day Vietnam early-out, which means whichever rumor turns out to be true, he comes out ahead by the same number of days. The pre-deployment letter the corpus had been missing — the gap between the [1969 NCO school letter](/docs/letters/charlie-to-terrie-1969-nco-school/) and the [22 March 1970 Saigon arrival](/docs/letters/charlie-to-terrie-1971-03-22/)."
 source: "Held in family archive — src/assets/family/originals/vietnam-letters/dad240.jpg."
 scans:
   - ../../../assets/family/originals/vietnam-letters/dad240.jpg
@@ -50,7 +50,7 @@ The rain-and-go-out joke. The Army's commitment to outdoor training in any weath
 |---|---|---|
 | 1969 | [NCO school](/docs/letters/charlie-to-terrie-1969-nco-school/) | Earlier stateside training |
 | 18 Feb 1970 | This letter | Nine weeks into stateside training, deployment rumors, 150-day early-out math |
-| 22 Mar 1970 | [Saigon arrival](/docs/letters/charlie-to-terrie-1970-03-22/) | In country |
+| 22 Mar 1970 | [Saigon arrival](/docs/letters/charlie-to-terrie-1971-03-22/) | In country |
 | 2–3 Apr 1970 | [Hawaii-propriety letter](/docs/letters/charlie-to-terrie-1971-04-02-parents-against-hawaii/) | The Wildermuth-side parental fight over the R&R plan |
 
 Five weeks separate this letter from his first letter from Saigon. By the time those five weeks pass, the company commander's rumor has won.
