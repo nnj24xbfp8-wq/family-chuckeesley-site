@@ -81,4 +81,12 @@ If at some point Roberta were willing to do a partial scan-and-transcribe pass �
 
 The collection's existence is the thing this page records. The contents are still waiting.
 
-> *Source: Roberta Burnes's July 2019 family email to Chuck Eesley and other family members. All claims about the collection on this archive flow from that single description; no letter from the collection has been read or photographed.*
+## June 2026 update — the first item lifted from the collection
+
+In June 2026 Roberta began the partial-scan-and-transcribe pass described above. The first item she sent across is *not* a 1940s letter at all but the **earliest item in the collection** &mdash; a 1922 letter from Lillie Dale to her oldest son Leonard:
+
+- **[Letter to Leonard, 3 September 1922 — Lillie Dale on Will's broken leg and asking Len to visit Chant in California](/docs/letters/lillie-dale-to-leonard-1922-09-03/)**
+
+The 1922 letter pushes the collection's documented date range back nearly two decades from the previously-described *"1940s"* frame, and establishes that pre-1940 items are in the box and may surface as Roberta continues the pass. The per-letter catalog &mdash; with full publication or metadata-only entries per the [letters-from-vietnam curation policy](/docs/letters-from-vietnam/) &mdash; begins with the 3 September 1922 item; more entries will land here as Roberta sends them across.
+
+> *Sources: Roberta Burnes's July 2019 family email &mdash; the original description of the collection. Roberta's June 2026 email sending the 3 September 1922 letter as the first lifted item.*
