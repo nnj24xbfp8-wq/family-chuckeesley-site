@@ -3,15 +3,35 @@ name: "Homer Edward Davis"
 aka: "Homer Davis"
 line: maternal
 birth:
-  date: "1900"
-  place: "Ohio"
+  date: "1900-02-08"
+  place: "Crooked Tree, Noble County, Ohio"
+death:
+  date: "1982-01-13"
+  place: "Cape Coral, Lee County, Florida"
 generation: 4
-summary: "Father of Dorothy Marie Davis (Chuck's maternal grandmother); Chuck's great-grandfather on the maternal Davis side. White, born in Ohio around 1900; truck driver of Waterford, Washington County, Ohio at the time of Dorothy's birth on 24 February 1925. Husband of Bessie M. Hill (married before 1923 when their first daughter Mary was born). Father of Mary Davis, Dorothy Marie Davis (b. 1925), and Betty Davis. The family home in Waterford burned down at one point in the 1920s or 1930s; the family then moved to a small shed for the daughters and a one-room garage for the parents through the cold winter that followed."
+parents:
+  - william-armstrong-davis
+  - victoria-anna-way-davis
+spouses:
+  - bessie-hill-davis
+summary: "Father of Dorothy Marie Davis (Chuck's maternal grandmother); Chuck's great-grandfather on the maternal Davis side. Born 8 February 1900 at Crooked Tree, Noble County, Ohio to William Armstrong Davis (1859-1931) and Victoria Anna Way Davis (1874-1903); lost his mother at age three. Truck driver of Waterford, Washington County, Ohio at the time of Dorothy's birth on 24 February 1925. Husband of Bessie M. Hill (married before 1923 when their first daughter Mary was born). Father of Mary Davis, Dorothy Marie Davis (b. 1925), and Betty Davis. Died 13 January 1982 in Cape Coral, Florida, age 81; buried at Waterford, Ohio."
 ---
 
-Homer Edward Davis was the father of [Dorothy Marie Davis](/family/dorothy-davis-wildermuth/) (Chuck's maternal grandmother, who would marry [Robert Earl Wildermuth](/family/robert-earl-wildermuth/) in 1946). His full middle name surfaces from Dorothy's funeral program: her mother is given as **"Bessie Marie Davis and Homer Edward Davis."**
+Homer Edward Davis was the father of [Dorothy Marie Davis](/family/dorothy-davis-wildermuth/) (Chuck's maternal grandmother, who would marry [Robert Earl Wildermuth](/family/robert-earl-wildermuth/) in 1946). His full middle name surfaces from Dorothy's funeral program: her mother is given as *"Bessie Marie Davis and Homer Edward Davis."*
 
-At the time of Dorothy's birth on **24 February 1925**, Homer was twenty-five, born in Ohio, working as a **truck driver** out of Waterford, Washington County, Ohio.
+## Homer at three, with his parents — c. 1902
+
+Homer was born **8 February 1900** at **Crooked Tree, Noble County, Ohio** to **[William Armstrong Davis](/family/william-armstrong-davis/)** (1859-1931) and **[Victoria Anna Way Davis](/family/victoria-anna-way-davis/)** (1874-1903). His mother &mdash; daughter of the Edward Taylor Way family that the [Way newspaper clipping](/docs/way-family-noble-county-clipping/) Chuck preserves in the family papers describes &mdash; **died on 26 June 1903 at age 29**, leaving three-year-old Homer to be raised by his father (who later remarried) in Washington County. **The Way family connection enters the Davis line through his mother.**
+
+The studio portrait that survives in the family papers, shared by Chuck in June 2026, is the only known photograph of Homer with both parents together. He is at center in the frame, about two years old, in an Edwardian-era child's salmon-colored dress (the period convention for very young children before breeching), wide eyes looking directly at the camera. Victoria is at left; William at right.
+
+![William, Victoria, and Homer Davis, c. 1902 — Homer at about age two, with his mother Victoria Anna Way Davis (left) and father William Armstrong Davis (right). Within about a year of this portrait Victoria would be dead.](../../assets/family/originals/william-victoria-homer-davis-c1902-portrait.jpeg)
+
+The frame is, by date, the **earliest photograph of any of Chuck's maternal-line direct ancestors** in the archive.
+
+## The Waterford working life
+
+At the time of Dorothy's birth on **24 February 1925**, Homer was twenty-five, working as a **truck driver** out of Waterford, Washington County, Ohio.
 
 He married **[Bessie M. Hill](/family/bessie-hill-davis/)** at some date before the 1923 birth of their first daughter Mary. The three daughters together:
 
