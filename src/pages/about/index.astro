@@ -1,0 +1,182 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+---
+<BaseLayout title="How this archive works" description="The narrative-and-curation layer that sits alongside the structured family tree on FamilySearch. The tree is the index; this site is the book.">
+  <article class="prose prose-stone max-w-prose">
+    <h1>How this archive works</h1>
+    <p class="text-ink/70 italic">
+      The narrative-and-curation layer that sits alongside the
+      structured family tree. The tree is the index; this site is the book.
+    </p>
+
+    <h2>The division of labor</h2>
+    <p>
+      <strong>The structured family tree lives on <a
+      href="https://www.familysearch.org/tree/person/details/GMLW-PXW">FamilySearch</a></strong>
+      &mdash; 3,428 individuals across 1,510 families as of June 2026, maintained
+      by Chuck Eesley and Dale Eesley jointly, with the FamilySearch instance
+      treated as canonical. The downloadable <a href="/docs/eesley-wildermuth-tree.ged">GEDCOM</a>
+      and the <a href="/docs/dale-eesley-familysearch-tree/">tree-export page</a>
+      are this site's mirrors of that record. A parallel Ancestry.com version of the
+      tree exists too; the two are kept in rough sync but FamilySearch is the
+      reference.
+    </p>
+    <p>
+      <strong>This site is the narrative and curation layer that sits alongside
+      the tree</strong> &mdash; the photographs and their captions, the documents
+      transcribed in full, the essays that read across multiple people and
+      places, and the family-memory layer that genealogy fields can't hold. The
+      structured tree carries the names, the dates, the parents and the
+      spouses. This site carries the rest.
+    </p>
+
+    <h2>What goes where</h2>
+    <p>The split, in practice:</p>
+    <ul>
+      <li>
+        <strong>FamilySearch</strong> &mdash; the structured record. Names,
+        dates, parents, spouses, children, places of birth and death. The
+        records-search engine and the collaborative-tree corrections layer that
+        make the structured side function across many descendant lines. DNA
+        matching where opted in.
+      </li>
+      <li>
+        <strong>This site</strong> &mdash; the narrative record. Long-form
+        biographical essays where they earn the length; photographs with
+        labeled captions and provenance; documents transcribed in full
+        (memoirs, letters, eulogies, obituaries) or curated by metadata
+        (the <a href="/docs/letters-from-vietnam/">Letters from Vietnam</a>
+        collection's policy is the canonical example); places with significance
+        (a <a href="/places/highland-ridge-road-marietta/">single road in Lowell</a>
+        carries a fuller account than its individual residents could); essays
+        that cut across the structured tree (<a href="/docs/family-threads/">Family
+        threads</a>, <a href="/docs/the-three-charleses/">the Three Charleses</a>,
+        <a href="/docs/the-three-peggys/">the Three Peggys</a>, <a
+        href="/docs/robert-earl-wildermuth-little-histories/">Robert Earl's
+        Little Histories</a>); the family-memory layer that arrives by email
+        from cousins (Roberta's June 2026 Aunt Ota stories are an instance);
+        and the bilingual Chinese sections on every Zhou-side page.
+      </li>
+    </ul>
+
+    <h2>Why two sites and not one</h2>
+    <p>
+      Both the structured-tree side and the narrative-curation side are doing
+      real work, and trying to do both jobs in one platform makes both jobs
+      worse. FamilySearch has the records-search engine, the millions of
+      indexed vital records, the DNA-matching, and the collaborative tree
+      &mdash; none of which would be feasible to rebuild here. This site has
+      editorial control, full-document transcription, narrative-essay space,
+      privacy policies the family can set rather than the platform, and
+      &mdash; most importantly &mdash; <strong>file-level ownership of every
+      piece of content</strong>. Static HTML, source code on
+      <a href="https://github.com/charleseesley/family-chuckeesley-site">GitHub</a>,
+      deployable to any web host or a USB drive. The longevity assurance is
+      structural, not contractual.
+    </p>
+    <p>
+      So the architecture is: the tree is the index; this site is the book.
+      Each does what the other can't. Visitors who arrive at one side and
+      want the other can find their way across via the links on the
+      individual person pages.
+    </p>
+
+    <h2>The four content collections</h2>
+    <p>The site's data model has four typed collections:</p>
+    <ul>
+      <li>
+        <strong>People</strong> &mdash; one entry per person (family and
+        non-family). Carry parents, spouses, dates, a one-paragraph summary
+        in the frontmatter, then a Markdown body for the narrative. Cross-link
+        bidirectionally to documents, places, and artifacts where they appear.
+      </li>
+      <li>
+        <strong>Documents</strong> &mdash; long-form narrative content. The
+        type field distinguishes memoirs, combat logs, travelogues, registers,
+        ancestor sketches, essays, letters, letter collections, eulogies,
+        obituaries, and tree exports. Some are transcribed in full; some are
+        catalogued by metadata only; the <a href="/docs/letters-from-vietnam/">Letters
+        from Vietnam</a> collection page explains the curation principle.
+      </li>
+      <li>
+        <strong>Places</strong> &mdash; locations the family touched, with
+        signatures and "then and now" pairings. The point of this collection is
+        that some places were visited more than once across generations, and
+        the resulting <a href="/places/rielingshausen-church/">multi-generation
+        pilgrimage record</a> is itself an artifact about continuity.
+      </li>
+      <li>
+        <strong>Artifacts</strong> &mdash; catalogued objects, mostly
+        photographs. Schema mirrors the field structure of Maggie Eesley's
+        <em>Four Generations</em> archival catalog so her metadata imports
+        nearly losslessly.
+      </li>
+    </ul>
+
+    <h2>Editorial principles</h2>
+    <p>A few principles run through the site and are worth naming explicitly:</p>
+    <ul>
+      <li>
+        <strong>Living people get a light touch.</strong> See the <a
+        href="/about/privacy/">privacy page</a> for the full version.
+      </li>
+      <li>
+        <strong>Bilingual on every Zhou-side page.</strong> English at the
+        top, full <span lang="zh">中文</span> below, on the same page. The
+        practice of making the family record itself bilingual &mdash; rather
+        than translating it later &mdash; is the data-model expression of the
+        cross-cultural marriage the contemporary archive holds.
+      </li>
+      <li>
+        <strong>Curation policies are stated, not assumed.</strong> The Vietnam
+        letters collection page says explicitly that a small published set is
+        reproduced in full while the rest are catalogued by metadata only
+        with the body held privately. Other policies (privacy, AI-generated
+        imagery, family-memory sourcing) are stated where they apply.
+      </li>
+      <li>
+        <strong>Corrections are documented in place.</strong> When the date on
+        a photograph is corrected (the c. 1979&ndash;85 Highland Ridge reunion
+        portrait re-dated to c. 1971&ndash;72 per Roberta's June 2026 email),
+        the prior reading and the correction trail stay on the page. The
+        archive treats family memory as a primary source, and a primary
+        source can be wrong; documenting the correction makes the editorial
+        process visible.
+      </li>
+      <li>
+        <strong>Transmission chains are credited.</strong> Robert Earl's
+        memoir → Chuck. Maggie's <em>Four Generations</em> deck →
+        Chuck. Roberta's June 2026 email → this archive. The chain of
+        family memory that brought each story here is the source line on
+        every page.
+      </li>
+    </ul>
+
+    <h2>The keepers</h2>
+    <p>
+      This archive is the next round in a long line of family record-keeping
+      &mdash; from <a href="/family/mary-eesley-bean/">Mary Eesley Bean</a>'s
+      1985 indented register, to <a href="/family/margaret-maggie-eesley/">Margaret "Maggie"
+      Eesley</a>'s <em>Four Generations</em> photographic catalogue, to <a
+      href="/family/robert-earl-wildermuth/">Robert Earl Wildermuth</a>'s
+      1990 Wildermuth/Fleming Heritage and 1988&ndash;1993 memoir,
+      to <a href="/family/dale-eesley-genealogist/">Dale Eesley</a>'s ongoing
+      FamilySearch tree, to <a href="/family/roberta-burnes/">Roberta
+      Burnes</a>'s curation of the paternal-side material into the next
+      generation. The previous generations of keepers built the structured
+      record. This site is the narrative layer Chuck is adding on top of it.
+    </p>
+    <p>
+      Robert Earl closed his last manuscript by addressing
+      <em>"future genealogists."</em> This site is one of them answering.
+    </p>
+
+    <h2>See also</h2>
+    <ul>
+      <li><a href="/about/corrections/">Recent corrections &mdash; the running log of what changed, when, and on whose authority</a></li>
+      <li><a href="/about/privacy/">On living people &mdash; how this archive handles privacy</a></li>
+      <li><a href="/docs/family-threads/">Family threads &mdash; the values and practices that run across the generations</a> (the single most important page on the site)</li>
+      <li><a href="/docs/dale-eesley-familysearch-tree/">Dale Eesley's structured FamilySearch tree</a> (the canonical index)</li>
+    </ul>
+  </article>
+</BaseLayout>

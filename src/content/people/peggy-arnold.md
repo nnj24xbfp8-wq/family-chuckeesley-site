@@ -7,3 +7,7 @@ summary: "Wife of John Arnold; Highland Ridge Road neighbor of the Eesley family
 ---
 
 Peggy Arnold is one of three Peggys in this archive of close relations &mdash; Will's wife Peggy McMaster, Don's wife Margaret Adelyne "Peggy" Youman, and Peggy Arnold the Highland Ridge neighbor &mdash; none of them blood-related to each other. She and her husband John were the household Chuck spent enough time in growing up that his eulogy names them as having helped form him.
+
+## See also
+
+She is the third of [the three Peggys](/docs/the-three-peggys/) &mdash; the *household-one-hundred-yards-away* Peggy, the one not in the structured genealogy but named twice in [Chuck's eulogy for his father](/docs/eulogy-charles-mcmaster-eesley/). A short companion essay reads the trio.
