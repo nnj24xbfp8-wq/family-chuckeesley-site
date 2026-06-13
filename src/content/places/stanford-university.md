@@ -55,6 +55,28 @@ The two visit photographs on this page were taken on family return trips between
 
 When Robert Earl closed his "Big One" combat log and his memoirs by addressing himself to *"future genealogists,"* this is the address he was writing to.
 
+## Robert Earl on his Stanford years — in his own voice
+
+The photographs above are the visual record. The voice record sits inside [Robert Earl's 1989 memoir](/docs/robert-earl-wildermuth-memoir/), where he gave the Stanford chapter the longest and most affectionate passage of his post-war life. Five pieces of that passage are worth lifting onto this place page in his own words.
+
+**How he got in.** Two years of pre-med at Marietta after the war, then three medical-school rejections &mdash; Ohio State, Western Reserve, Cincinnati. His advisor told him **Ohio State had had 1,400 applicants for about sixty spots** that year, and suggested he look west. UC and USC were limited to three out-of-state students each per year. **Stanford accepted him conditionally.** He took it.
+
+**What he knew about Stanford going in.**
+
+> *"I really didn't know much about Stanford except that their football team had played in the last Rose Bowl before the war and that wasn't much of a recommendation to head west for."*
+
+**Driving west in a used 1939 car.** No new cars had been built during the war. His name had worked up to number three on a Marietta dealer's waitlist, then stayed there &mdash; *"I found that men were paying dealers 'under the table' to get delivery on cars."* In disgust he bought the best 1939 used car he could find and drove Dottie west.
+
+**The Harvard of the West.** Once he was on campus, the assessment shifted entirely. The memoir paragraph is the single best piece of Robert Earl's adult voice on his own class consciousness and on the campus that became his alma mater:
+
+> *"Stanford University turned out to be a dream. It is one of the most beautiful universities in America... It is situated on the outskirts of Palo Alto, California, a small city of about 30,000 people, thirty miles south of San Francisco. Its architecture is Spanish with two story, sandstone buildings with red tiled roofs... Academically Stanford was rated number three in the United States when I attended and it is known as the 'Harvard of the West'. Millionaire's sons and daughters go there and movie star's children strived for admission &mdash; and here I was a young guy from rural Ohio and from the wrong side of town at that. All during my stay there however, I never felt inferior and since white tee shirts and blue jeans were the accepted student attire I fit right in."*
+
+The line *"never felt inferior"* is the small piece of class-aspiration honesty that the rest of the maternal-side family record is, in a sense, written underneath. The Marietta-Harmar-Street boy whose father [Earl Adam](/family/earl-a-wildermuth/) ran a working-class household in 1930s Ohio was, by 1947, on a sandstone campus with movie stars' children and not feeling inferior. The white-tee-shirts-and-blue-jeans detail is the small piece of post-war Stanford material culture that made the class adjustment possible &mdash; veterans returning on the GI Bill outnumbered the prep-school undergraduates of the prewar era badly enough to reset the dress code. The class-aspiration passage and the white-tee-shirt detail are inseparable.
+
+**The Stanford golf-course house, and Dottie at the Hoover Library.** *"They rented a house on the Stanford golf course. Dottie worked at the Hoover Library."* The young couple's life in those years was anchored in two Stanford institutions &mdash; the campus golf course on the western edge of campus, and the [Hoover Institution Library and Archives](https://www.hoover.org/library-archives) where [Dottie](/family/dorothy-davis-wildermuth/) was earning the household's living while Robert Earl finished pre-med. The Marietta High School graduate keeping Citizen's Bank books just three years earlier was now on the librarian-staff of one of Stanford's signature research libraries. Her Hoover Library year (1947-1948) is recorded with the same precision on [her own page](/family/dorothy-davis-wildermuth/).
+
+**The denial that closed the chapter.** Robert Earl's conditional admission was lifted after his first semester. His senior-year medical-school application was, in the end, again denied &mdash; even with the Stanford record. He took the **Bachelor of Arts in Biological Sciences, conferred 1 October 1948**, *"thoroughly discouraged,"* and went looking for full-time work. The Stanford years closed without the medical degree he had come for &mdash; but with the BA that opened all the doors that followed: the trainee job at Container Corporation of America in Oakland, the Korean recall, the Pentagon, the Lieutenant Colonel commission, the long Florida retirement, and a class-mobility arc that his grandchildren would build on.
+
 ## Further reading
 
 - [The G.I. Bill](https://en.wikipedia.org/wiki/G.I._Bill) on Wikipedia &mdash; the policy that put Robert Earl on this campus in two years.
