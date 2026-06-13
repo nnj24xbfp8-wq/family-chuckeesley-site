@@ -26,13 +26,9 @@ The studio portrait at the head of this page &mdash; Lijie's grandfather seated 
 
 Outside the studio he kept a daily tai chi (太极拳) practice &mdash; the slow standing-meditation form that has shaped the bodies of generations of older Chinese practitioners. The combination &mdash; the precision of the studio camera and the unhurried rhythm of tai chi in the morning &mdash; is a fair index of how he carried himself across nine decades.
 
-A late-life photograph of Zhaoxiang is in the archive: [a visit with Ling Zhou and Xun Li (Lijie's parents)](/archive/visit-with-zhaoxiang-zhou-and-family/) &mdash; Zhaoxiang seated between his son and daughter-in-law, Lijie and Chuck standing behind, taken in a community gathering room with a colorful folk-art mural behind them. A companion frame from the same visit, with his daughter Ai Hua and her husband, is in the family's keeping and will be placed when re-uploaded.
+A late-life photograph of Lijie's paternal grandfather is in the archive: [a visit with Lijie's parents](/archive/visit-with-zhaoxiang-zhou-and-family/) &mdash; the elder Zhou seated between his son and daughter-in-law, Lijie and Chuck standing behind, taken in a community gathering room with a colorful folk-art mural behind them. A companion frame from the same visit, with one of his daughters and her husband, is in the family's keeping and will be placed when re-uploaded.
 
-A second early-life photograph in the archive is a black-and-white print taken at the famous [Qingdao Zhanqiao (青岛栈桥) pier](/places/qingdao/) by the Tianzhen Photography (天真照相) studio &mdash; Zhaoxiang in a fur-collar coat and military-style cap, with Lijie as a young child among the family group around him. The other figures are most likely Lijie's parents and one or two of Lijie's cousins from her father's siblings' families &mdash; identifications to be refined by Lijie's family. The stone benches and the pier-front composition mark this as the kind of weekend studio-portrait Qingdao families routinely sat for at the Zhanqiao pier; it is one of the earliest outdoor frames of Lijie in this archive.
-
-![Zhaoxiang with Lijie and family at the Qingdao Zhanqiao pier, photographed by Tianzhen Photography (天真照相). Identifications of the additional figures to be refined by the family.](../../assets/family/originals/IMG_20200823_0007.jpeg)
-
-He is the deepest documented Zhou ancestor in this archive's present scaffolding; further generations may follow as Lijie's family is able to add them.
+The Zhou family of Jiaozhou Shi extends further back than Lijie's paternal grandfather in this archive: his parents [Zhou Huiting](/family/huiting-zhou/) and [Leng](/family/leng-zhou/), and his own grandfather [Zhou Maoli](/family/maoli-zhou/) (who died in Jiaozhou Shi in 1935), are documented as far back as Lijie's family's oral record currently reaches. Further generations may follow as Lijie's family is able to add them.
 
 ## See also — family threads
 

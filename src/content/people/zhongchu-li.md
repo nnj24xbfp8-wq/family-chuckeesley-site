@@ -37,9 +37,23 @@ The portrait above &mdash; the studio photograph showing him in a dark high-coll
   </figcaption>
 </figure>
 
-Li Zhongchu and his future wife [Yaozhen Shang](/family/yaozhen-shang/) were both born in Qingdao in **1921** — just three days apart, in fact (he on September 15, she on September 11). They grew up under what had been the city's late-German and Japanese-occupation periods, came of age through the Republican and Civil War years, and lived their adult lives in the People's Republic. They had three children, including [Lijie's mother Xun Li](/family/xun-li/) (b. 1956).
+Lijie's maternal grandfather and his future wife [Yaozhen Shang](/family/yaozhen-shang/) (Lijie's maternal grandmother) were both born in Qingdao in **1921** &mdash; just three days apart, in fact (he on September 15, she on September 11). They grew up under what had been the city's late-German and Japanese-occupation periods, came of age through the Republican and Civil War years, and lived their adult lives in the People's Republic. They had three children, including [Lijie's mother](/family/xun-li/) (b. 1956).
 
-He died **1 November 1982**, age 61 &mdash; six weeks after [his daughter Xun's marriage to Ling Zhou](/family/xun-li/) on 18 September 1982, and a little over a year before Lijie was born. He did not live to meet his granddaughter.
+He died **1 November 1982**, age 61 &mdash; six weeks after [his daughter's marriage to Ling Zhou](/family/xun-li/) on 18 September 1982, and a little over a year before Lijie was born. He did not live to meet his granddaughter.
+
+## At the Qingdao Zhanqiao (青岛栈桥) pier, c. 1960s &mdash; family group portrait
+
+A second photograph of Lijie's maternal grandfather is in the archive, surfaced June 2026 when Chuck corrected an earlier misidentification of the senior man as Lijie's paternal grandfather. The print is a black-and-white frame taken at the famous **[Qingdao Zhanqiao (青岛栈桥) pier](/places/qingdao/)** by the **Tianzhen Photography (天真照相) studio** &mdash; the studio's name printed in red ink under the family group. Lijie's maternal grandfather stands at right in a heavy fur-collared overcoat and a dark military-style cap; Lijie's maternal grandmother stands beside him in a dark wool coat with prominent buttons; in front of them a small girl of about four in a buttoned-up wool coat and striped pants holds her father's hand; on the left edge a boy of about seven stands separately in a dark Mao-collar suit; on the right edge a slightly older girl in a lighter coat stands at her grandfather's hip.
+
+![Lijie's maternal grandfather (right, in fur-collar coat) with Lijie's maternal grandmother and three of their children at the Qingdao Zhanqiao pier. The small boy on the left is [Lijie's uncle Mengling Li](/family/mengling-li/); the two girls are his sisters, including (most plausibly) Lijie's mother. Photographed by Tianzhen Photography (天真照相) studio, c. 1960s. From Lijie's family's keeping.](../../assets/family/originals/IMG_20200823_0007.jpeg)
+
+The dating reads as **1960s** &mdash; the photo paper's deckle-edge format and the heavy winter coats fit the 1960-1968 era of Qingdao family weekend studio portraits at the Zhanqiao pier. Lijie's maternal grandfather would have been in his **early-to-mid forties**. The three children in the frame are **his and his wife's children**: [Lijie's uncle Mengling Li](/family/mengling-li/) on the left (per Chuck's June 2026 identification), his older sister at his grandfather's hip on the right, and the youngest child between her parents in the middle &mdash; most plausibly [Lijie's mother](/family/xun-li/) (b. 1956), though the specific positioning of which younger girl is which is open for Lijie's family to refine.
+
+The Zhanqiao pier itself &mdash; an 1891 pier projecting into Qingdao Bay, the city's most photographed waterfront landmark across the twentieth century &mdash; is the Qingdao equivalent of the Marietta riverfront in this archive's geographic emotional logic: the place generations of the same family stood for portraits across the decades.
+
+### A correction from June 2026
+
+This photograph was previously catalogued on the [Zhaoxiang Zhou page](/family/zhaoxiang-zhou/) (Lijie's *paternal* grandfather), where the senior man was identified as Zhaoxiang Zhou and the children as Lijie and her cousins. Chuck's correction in June 2026 reassigned the photograph: the senior man is **Lijie's maternal grandfather on the Li side** &mdash; not Lijie's paternal grandfather &mdash; and the family group is **his own household**, not the Zhou family. The misidentification was an inference-error from the earlier pass, of the same class as the Walker-husband and Way-line generational mistakes elsewhere in this archive. The Tianzhen Photography studio name and the Zhanqiao pier setting are both Qingdao-anchored regardless of which side of Lijie's family is in the frame.
 
 > *Structured record: [FamilySearch &mdash; Zhongchu Li (GMG8-RDD)](https://www.familysearch.org/tree/person/details/GMG8-RDD).*
 
