@@ -16,6 +16,7 @@ relatedPeople:
   - rob-wildermuth
   - debbie-wildermuth
   - charles-eric-eesley
+  - briana-massaro-lockett
 status: photographed
 visits:
   - year: "1948–49"
@@ -50,6 +51,8 @@ visits:
 ---
 
 Stanford is not an ancestral village or a wartime objective. It is a school. But this is also the place where, by the project's own framing, the family record turns into a continuous line: Robert Earl came home from the Pacific, finished his BA here in 1948, sent out a Christmas card from the campus the next year with his fiancée Dot — and a long arc later, his grandson [Chuck](/family/charles-eric-eesley/) is on the faculty.
+
+There is also a third generation on campus at present. Chuck's first cousin **[Briana (Massaro) Lockett](/family/briana-massaro-lockett/)** &mdash; daughter of Chuck's [Aunt Debbie](/family/debbie-wildermuth/) (and so Robert Earl's granddaughter) &mdash; is a **physician's assistant at Stanford** in the same years Chuck is on the faculty. Robert Earl's GI-Bill BA in 1948, Chuck's faculty appointment in the present generation, and Briana's medical-staff role in the same years bring **three Wildermuth-descended people to the Stanford campus across roughly seventy-five years**. The thread the rest of this page describes as a *generational rhyme* has, in this generation, become two voices in unison.
 
 The two visit photographs on this page were taken on family return trips between those two endpoints. They are the only known images in the archive of the Wildermuths and their descendants *on* the campus &mdash; Robert Earl never appeared in any photographs of his own undergraduate years that survived.
 

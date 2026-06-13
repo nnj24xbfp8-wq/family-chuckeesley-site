@@ -12,6 +12,8 @@ summary: "Daughter of Aunt Debbie (Debra Wildermuth Massaro) and Angelo Massaro;
 
 Briana Massaro Lockett is Chuck Eesley's first cousin on the maternal Wildermuth side &mdash; the daughter of [Aunt Debbie](/family/debbie-wildermuth/) (Debra Wildermuth Massaro) and [Angelo Massaro](/family/angelo-massaro/). Her brother is [Gian Carlo Massaro](/family/gian-carlo-massaro/). She is named in her aunt [Terrie Lee Bain](/family/terrie-lee-eesley/)'s 2017 obituary among the surviving nieces and nephews of the Wildermuth generation.
 
-Details withheld &mdash; living.
+She is a **physician's assistant at [Stanford](/places/stanford-university/)** &mdash; the third member of the family across three generations to work at Stanford, after her grandfather [Robert Earl Wildermuth](/family/robert-earl-wildermuth/) (Stanford BA in Biological Sciences, 1948, on the GI Bill) and Chuck (Stanford faculty in the present generation).
+
+Other details withheld &mdash; living.
 
 > *Source: [Terrie Lee Bain's 2017 obituary](/docs/terrie-lee-bain-obituary-2017/).*
