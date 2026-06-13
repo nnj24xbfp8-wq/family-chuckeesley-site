@@ -14,6 +14,7 @@ parents:
   - bessie-hill-davis
 spouses:
   - robert-earl-wildermuth
+portrait: ../../assets/family/originals/dorothy-davis-c1941-portrait.jpeg
 summary: "Wife of Robert Earl Wildermuth. Born 11:15 AM, 24 February 1925, in Waterford Township, Washington County, Ohio, to truck driver Homer Edward Davis and Bessie Marie (Hill) Davis. Middle Davis sister of three — older sister Mary, younger sister Betty. Lost the Davis family home in a fire while still a child at Unionville, Ohio; lived through the cold winter that followed in a one-room garage with her parents and a small shed with her sisters. Graduated Marietta High School June 1943. Worked as bookkeeper at Citizen's Bank in Marietta. Married Robert Earl Wildermuth 20 April 1946. Mother of Terrie Lee, Sandra Sue, Robert Jr., and Debra. Followed Robert Earl through Air Force postings across Florida, California, Oklahoma, Ohio, Colorado, Texas, Maryland, and Japan. Died 5 March 2010 in Brookhaven, Georgia, age 85."
 ---
 
@@ -26,6 +27,14 @@ The family lived first in Waterford, Ohio, where Dorothy was born; the home is o
 > *While the parents were away from home, they suffered a tremendous calamity. The house caught fire and burned to the ground. This was a real tragedy but with the help of friends and neighbors, they recovered, moved into a small shed not damaged in the fire while their parents lived in a poorly insulated one-room garage throughout the cold winter that followed.*
 
 Dorothy was still a child. She and Mary started school at Unionville Grade School and later transferred to Marietta High School, where Dorothy graduated in June 1943.
+
+## A portrait, c. 1941
+
+A studio portrait of Dorothy as a Marietta High School student, c. 1941, arrived in this archive in June 2026. She is **about sixteen** &mdash; in a dark sweater with a lace-edged peter-pan collar, a small oval pendant on a chain at her throat, hair curled and pulled to a soft side-bow. The smile is direct and warm; the sepia-toned print is the kind of formal school-or-studio frame a Marietta family would have sat their daughter for in the early war years.
+
+![Dorothy Davis, c. 1941 — Marietta High School portrait, about age sixteen.](../../assets/family/originals/dorothy-davis-c1941-portrait.jpeg)
+
+This is the earliest photograph of Dorothy in this archive &mdash; predating the 1946 wedding to Robert Earl, the move to Stanford, and the long Air Force years that followed. The lace collar, the oval pendant, the side-bow are exactly the early-1940s American schoolgirl register that the photograph documents. She is two years short of the [June 1943 Marietta High School graduation](/docs/wildermuth-fleming-heritage-1990/), three years short of meeting Robert Earl when he returned from the Pacific.
 
 ## Bookkeeper at Citizen's Bank, then libraries across the country
 
