@@ -18,6 +18,7 @@ children:
   - victoria-ann-wolfe-schwartz
   - norma-jean-wolfe-grundset
   - peggy-sue-wolfe
+portrait: ../../assets/family/originals/betty-davis-c1944-1946-portrait.jpeg
 status: full
 summary: "Dorothy Marie Davis Wildermuth's younger sister — Chuck's great-aunt on the maternal Wildermuth-Davis side. Born 16 March 1926 in McConnelsville, Morgan County, Ohio, third of Homer Edward Davis and Bessie Marie 'Marie' Hill Davis's four children (older sister Mary Louise Murdock b. 1924, older sister Dorothy b. 1925, younger brother William Harvey Davis Sr. b. 1941). As a young woman Betty cared for her mother Marie through her terminal lung cancer (diagnosed at 40, died at 44 in 1950). Met Norman 'Norm' Graham Wolfe in study hall at Marietta High School where he was quarterback of the football team and she was head majorette of the band; married Norm in 1945 prior to his Army service in Germany. Mother of three daughters: Victoria Ann Schwartz, Norma Jean Grundset, and Peggy Sue Wolfe. Long-time member of the Sixth Street Church of Christ alongside Norm. The host (with Norm) of 108 Hillcrest Drive — the Marietta house where Chuck spent many holiday dinners and sick-day visits across his childhood. Moved with Norm to Largo, Florida c. 2013 to be near daughters Norma and Peggy. Died 18 July 2015, age 89 — six months and nine days after Norm's January 2015 death. Buried at East Lawn Memorial Cemetery, Reno, Washington County, Ohio. 'Aunt Betty' to a generation of family memory."
 ---
@@ -34,6 +35,14 @@ Born **16 March 1926 in McConnelsville, Morgan County, Ohio** &mdash; about thir
 - **[William Harvey Davis Sr.](/family/william-harvey-davis-sr/)** (b. 20 August 1941, d. 22 April 2022) &mdash; their much-younger brother. Married Becky Angel in 1963; later lived in Gap Mills, West Virginia; buried in Ronceverte, West Virginia.
 
 **Betty and Dorothy were nearly the same age** &mdash; just over a year apart &mdash; and grew up together through the Marietta-area 1930s.
+
+## A late-teens portrait, c. 1944-1946
+
+The earliest photograph of Betty in this archive arrived in June 2026 from Chuck's keeping. She stands on a residential sidewalk &mdash; **late teens or just twenty**, dark hair brushed back, a dark long coat-dress with three large buttons down the front and a white-collared blouse showing at the neck, white gloves clasped in her hands, dark heels. Two clapboard houses behind her on what reads as a Marietta side street; bare branches and dry grass put the season at late winter or very early spring.
+
+![Betty Jean Davis as a young woman, c. 1944-1946 &mdash; the late-teens-to-early-twenties era when she was caring for her dying mother Marie and meeting Norm Wolfe in study hall at Marietta High School. From Chuck's keeping.](../../assets/family/originals/betty-davis-c1944-1946-portrait.jpeg)
+
+The frame is **before her marriage to Norm in 1945** &mdash; possibly her high-school senior year, possibly the dating years just after. The composition reads as a date-night or church-bound snapshot taken by family. **This is Aunt Betty at the start of the long arc the rest of this page traces: at the age she met Norm, at the age she began caring for her mother, at the age she was about to become the matriarch the Hillcrest house would later carry.**
 
 ## Caring for Marie
 

@@ -21,7 +21,7 @@ He is **Chuck's maternal great-great-grandfather** through the Davis line: Willi
 
 ## A short first marriage, a long widowerhood
 
-William married **[Victoria Anna Way](/family/victoria-anna-way-davis/)** (b. 1874) at some date before 1900 &mdash; the Way-family marriage that brings the [Way line of Noble County](/family/victoria-anna-way-davis/) into the Davis family. Their one documented son **[Homer Edward Davis](/family/homer-davis/)** was born 8 February 1900 at Crooked Tree, Noble County, Ohio. **Victoria died on 26 June 1903 at age 29**, leaving William a widower with a three-year-old son. He remarried (the GEDCOM records a second household) and raised Homer in Washington County.
+William married **[Victoria Anna Way](/family/victoria-anna-way-davis/)** (b. 1874) at some date before 1900 &mdash; the Way-family marriage that brings the [Way line of Noble County](/family/victoria-anna-way-davis/) into the Davis family. Victoria was the daughter of [Edward E. Way](/family/edward-e-way/) (1851-1924) and [Tacy Elizabeth Matthews](/family/tacy-elizabeth-matthews/) (1848-1902), and the eldest granddaughter of the English-immigrant [Edward Taylor Way](/family/edward-taylor-way/) of the Isle of Wight. Their one documented son **[Homer Edward Davis](/family/homer-davis/)** was born 8 February 1900 at Crooked Tree, Noble County, Ohio. **Victoria died on 26 June 1903 at age 29**, leaving William a widower with a three-year-old son. He remarried (the GEDCOM records a second household) and raised Homer in Washington County.
 
 ## The c. 1902 family portrait
 
