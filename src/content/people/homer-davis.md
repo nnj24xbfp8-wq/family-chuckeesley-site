@@ -39,6 +39,22 @@ He married **[Bessie M. Hill](/family/bessie-hill-davis/)** at some date before 
 - **[Dorothy Marie Davis](/family/dorothy-davis-wildermuth/)** (b. 24 February 1925)
 - **Betty Davis** (b. ~1926)
 
+## Homer with a small boy, c. 1944-1945 — best-guess identification
+
+Homer kneels in this snapshot &mdash; in a knit sweater and tie, on a driveway in front of a two-story clapboard house with a smaller white outbuilding behind. A small boy of about three or four sits on his knee in a winter coat. The composition reads as **mid-1940s** by clothing and photographic style.
+
+![Homer Davis (tentative — see below) with a small boy on his knee, c. 1944-1945. From Chuck's keeping.](../../assets/family/originals/homer-davis-with-w-h-davis-sr-c1944-tentative.jpeg)
+
+The best-guess identification is **Homer with his son [William Harvey Davis Sr.](/family/william-harvey-davis-sr/)** (b. 20 August 1941). The boy's age (~3-4) puts the photograph at **c. 1944-1945**, when Homer would have been **44-45**. The house behind reads as the Waterford-area Davis family home where Homer was raising his children. This identification is **not certain** &mdash; the man could also plausibly be a son-in-law (Robert Earl Wildermuth with one of his children, or Jack Murdock with one of Mary's), but the closer-cropped facial structure most resembles the later Homer photographs in this archive.
+
+## Homer with two of his daughters in a hilly pasture, c. 1944-1948 — best-guess identification
+
+A summer-day pasture snapshot &mdash; rolling hills behind, a fence on the left, a single tree casting shadow on the ground. Homer stands at center in a light suit and fedora, his hands clasped at his front. A young woman in a pleated knee-length light dress stands on his right (the viewer's left); a second young woman in a white blouse and bouquet-print skirt stands on his left.
+
+![Homer Davis with two of his daughters (best-guess: Dorothy and Betty) in the Waterford-area hill country, c. 1944-1948. From Chuck's keeping.](../../assets/family/originals/homer-davis-with-daughters-pasture-c1945-tentative.jpeg)
+
+The best-guess identification is **Homer flanked by his daughters [Dorothy Marie Davis](/family/dorothy-davis-wildermuth/) (left, b. 24 Feb 1925) and [Betty Jean Davis](/family/betty-davis/) (right, b. 16 March 1926)**, c. 1944-1948. The women's clothing &mdash; the pleated knee-length light dress and the bouquet-print full skirt &mdash; reads as **mid-1940s**, putting Dorothy and Betty at 19-23 and Homer at 44-48. The hilly southeastern Ohio landscape fits the Waterford-Unionville area. The identification is **not certain** &mdash; one of the women could be Mary Davis Murdock (b. ~1923) rather than Dorothy or Betty &mdash; but the height-and-build pairing reads as the two sisters who are within one year of each other (Dorothy + Betty), rather than the elder Mary.
+
 ## Homer in his fifties — a backyard family group, c. 1953-1955
 
 Homer stands at right in this backyard portrait, in a fedora and dark suit with a tie. Beside him: a young boy of about eleven, two women (one with glasses holding an infant in a christening blanket, the other behind), and a toddler perched on a small white tricycle in front. The house behind reads as a postwar single-story bungalow with vertical clapboard siding.

@@ -32,6 +32,18 @@ A studio-quality outdoor photograph survives in the family papers. Harvey is at 
 
 The clothing &mdash; the boater hat and the cut of the suits &mdash; reads as late 1910s through 1920s. Harvey would have been in his thirties to early forties.
 
+## A Hill family gathering, c. 1939-1941 — best-guess identification
+
+A formal extended-family group portrait of about thirteen figures arranged on a porch in front of a white clapboard house with a window in the upper-right. Three figures sit in front: an older woman with her arms crossed at left, an older man in a dark suit at center, and a third older woman at right. The standing rows behind them carry roughly ten figures &mdash; a mix of women in dark or print dresses (one with a fancy pearl necklace at far right), and men in suits and ties.
+
+![A Hill family gathering, c. 1939-1941, with what reads as Harvey Hendershot Hill seated center. From Chuck's keeping.](../../assets/family/originals/hill-family-gathering-c1939-1941-tentative.jpeg)
+
+The best-guess identification is that the **seated elder man at center is Harvey Hendershot Hill himself** &mdash; in his late fifties, having grown into the family-patriarch role after his father Josiah Sr.'s 1918 death. The seated women would most plausibly be his wife [Clara Victoria Ullmann](/family/clara-victoria-ullmann/) (one of the two), with the third elder figure another Hill-side senior. The standing rows would then carry **Harvey and Clara's four children &mdash; including Bessie Marie Hill Davis &mdash; and their spouses**, making the photograph a portrait of the **Hill side of Chuck's maternal Davis line, plus one generation up and one down**.
+
+Dating: Clara Victoria Ullmann died **15 October 1941**. If she is in the frame, the photograph must predate that. Combined with the women's hemline and shoulder details (long-sleeved, knee-to-mid-calf dresses with pads), the dating reads **c. 1939-1941** &mdash; possibly an Easter, Thanksgiving, or 50th-wedding-anniversary gathering for Harvey and Clara on the eve of Clara's death.
+
+The identification is **not certain** &mdash; the seated elder man could also be a more senior figure (Josiah Sr. died 1918, but other Hill or Smith senior relatives may be the centerpiece). The photograph is the best-known group portrait of the Hill side from this era and is queued for face-by-face identification by family who knew this generation.
+
 ## Death and burial
 
 He died **10 February 1951 at Bremen, Fairfield County, Ohio**, age 68, and was buried at **Waterford, Washington County, Ohio** &mdash; the same ground where his daughter Bessie had been buried the previous May (29 May 1950) and where his son-in-law Homer Edward Davis would be buried in 1982.

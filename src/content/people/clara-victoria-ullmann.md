@@ -20,6 +20,8 @@ She was born **8 July 1885 in Washington, Monroe County, Ohio**, married [Harvey
 
 Clara died **15 October 1941**, age 56 &mdash; nine years before her daughter Bessie's own early death in 1950 and a decade before her widower Harvey's death in 1951.
 
+A **Hill family gathering portrait c. 1939-1941** &mdash; preserved in Chuck's keeping and discussed on the [Harvey Hendershot Hill page](/family/harvey-hendershot-hill/) &mdash; most plausibly carries Clara seated next to her husband Harvey, in what would be one of the last documented photographs of her before her October 1941 death.
+
 Her granddaughter [Dorothy Marie Davis](/family/dorothy-davis-wildermuth/) (Bessie's daughter, b. 24 February 1925) was sixteen when Clara died &mdash; old enough that the Ullmann name and any oral history of the Ullmann line was carried into Dorothy's generation, even if it does not surface in Robert Earl's [1989 memoir](/docs/robert-earl-wildermuth-memoir/) or [1990 Wildermuth/Fleming Heritage](/docs/wildermuth-fleming-heritage-1990/).
 
 The Ullmann surname signals a likely German-immigrant line in southeastern Ohio &mdash; the same German Catholic-and-Lutheran migration into the Monroe-Washington county region in the mid-nineteenth century that brought the [Wildermuth family](/family/johann-michael-wildermuth/) from Heidenheim to Marietta. The specific Ullmann immigrant ancestor is open research.
