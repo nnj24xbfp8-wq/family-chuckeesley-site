@@ -14,10 +14,19 @@ parents:
   - martha-kelley
 spouses:
   - wesley-fleming
+portrait: ../../assets/family/originals/verona-belle-dunbar-c1920-1922-portrait.jpeg
 summary: "Sadye Irene Fleming's mother; Robert Earl Wildermuth's maternal grandmother. Born Verona Belle Dunbar on 11 June 1869 in Wood County, West Virginia, daughter of Seth Grosvenor Dunbar (a Mainer who had come south during or after the Civil War) and Martha Kelley (of the Barbour County, Virginia Kelleys). Lost her father at one year old when he died in 1870. Her name chain across her life ran Verona Belle Kelley Dunbar (maiden, carrying her mother's surname as a middle), Sheppard (an early married name; details not yet recovered), and finally Fleming (by her marriage to Wesley Fleming). Mother of Sadye Irene Fleming and at least seven other children. Died 27 October 1922 in Marietta, Ohio, age 53; buried at Mount Pleasant, Jefferson County, West Virginia."
 ---
 
 The previous version of this page identified Verona as *Sheppard, maiden* &mdash; the line carried in Sadye's 1976 obituary. The GEDCOM (Dale Eesley / FamilySearch, sync June 2026) and Robert Earl's [1989 memoir lineage chart](/docs/robert-earl-wildermuth-memoir/) together correct that reading: her birth surname is *Dunbar* (after her father), *Sheppard* is one of two married surnames she carried before *Fleming*, and *Kelley* runs through her name as a middle name brought across from her mother. The full chain on the GEDCOM record reads *Verona Belle Kelley Dunbar Sheppard.*
+
+## A late-life portrait, c. 1920-1922
+
+The first photograph of Verona to surface in this archive arrived in June 2026 from Chuck's keeping. She stands outdoors next to a white clapboard farmhouse &mdash; in a dark long-sleeved polka-dot dress with a small white collar, a dark belt at the waist, glasses, hair pulled back, hands at her sides. The trees behind her are bare; the season reads as **late autumn or early spring**. The composition is the kind of plain hand-held family snapshot that survived from the early 1920s era of small folding cameras and home photography.
+
+![Verona Belle (Dunbar) Fleming, c. 1920-1922 — the only photograph of her in this archive, taken at the family home near Marietta or back in West Virginia. From Chuck's keeping.](../../assets/family/originals/verona-belle-dunbar-c1920-1922-portrait.jpeg)
+
+She was in her **early fifties** here and within a year or two of her death &mdash; she died **27 October 1922** in Marietta. The bare trees in the background fit late October. The portrait may, in fact, be **one of the last photographs taken of her**.
 
 ## Origin &mdash; the Maine-and-Barbour-County crossing
 

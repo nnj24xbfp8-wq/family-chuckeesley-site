@@ -15,6 +15,10 @@ summary: "Wife of Rev. Abraham Ramsey Anderson; mother of Alice Anderson McMaste
 
 Nancy Jane Shaw was born in **1834** and died in **1910**, age 76. She married [Reverend Abraham Ramsey Anderson](/family/abraham-ramsey-anderson/) around **1860** in Washington, Pennsylvania; their wedding-year double portrait (by **J. S. Young** of Washington, Pennsylvania) preserves what Maggie Eesley's catalogue called "a couple anticipating a long marriage blessed with six children."
 
+A higher-resolution scan of that wedding-year frame arrived in this archive in June 2026 from Chuck's keeping. She stands at her young husband's right shoulder &mdash; in a dark bell-sleeved dress with a white collar at the throat, hair pulled up; he is seated beside her in a dark suit, vest, and the long Presbyterian-clerical beard he would carry through his five-decade ministry. The studio frame is the kind of formal portrait a recently-married couple in Washington County, Pennsylvania would have sat for in the first months of the Civil War.
+
+![Rev. Abraham Ramsey Anderson and Nancy Jane (Shaw) Anderson, c. 1860 — the wedding-year double portrait. From Chuck's keeping.](../../assets/family/originals/abraham-and-nancy-anderson-c1860s.jpeg)
+
 Together they raised six children, one of whom was [Alice Anderson McMaster](/family/alice-anderson-mcmaster/) (1871&ndash;1961), Chuck's great-grandmother.
 
 The second photograph, dated **1888**, shows her in her sixties, taken by **Morris of Pittsburg, Pennsylvania**. Maggie's catalogue note on the chair she rests her hand on in that frame, with a wry editorial:
