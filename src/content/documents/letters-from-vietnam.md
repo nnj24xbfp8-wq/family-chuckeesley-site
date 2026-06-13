@@ -1,6 +1,6 @@
 ---
 title: "Letters from Vietnam"
-teaser: "Charlie Eesley's letters home from his 1969–71 Army tour. A curated selection is published in full; the rest catalogued with bodies withheld at the family's request."
+teaser: "Charlie Eesley's letters home from his 1969–71 Army tour — plus the surrounding Marietta College courtship letters of 1968–1969 and a small set of family letters from the same years. A curated selection is published in full; the rest catalogued with bodies withheld at the family's request."
 type: letter-collection
 author: charles-eesley
 people:
@@ -8,20 +8,28 @@ people:
   - terrie-lee-eesley
   - wilbur-eesley
   - margaret-mcmaster-eesley
+  - dorothy-hauser
+  - dorothy-davis-wildermuth
 dateRange:
-  start: "1969"
+  start: "1968"
   end: "1971"
-summary: "Charles McMaster 'Charlie' Eesley's letters home from his U.S. Army tour in Vietnam, 1969–1971 — most of them to Terrie Lee Wildermuth, his then-girlfriend and the woman he would marry after the war. A curated selection is published in full; the remainder are catalogued here by date and recipient with their bodies withheld at the family's request."
-source: "Original letters held in the family archive (Chuck Eesley)."
+summary: "Charles McMaster 'Charlie' Eesley's letters home from his U.S. Army tour in Vietnam, 1969–1971 — most of them to Terrie Lee Wildermuth, his then-girlfriend and the woman he would marry after the war. The corpus has widened in mining: the chronological frame now opens at Halloween 1968 with a Marietta College senior-year letter (Vanilla Fudge concert review) and runs through the June 1971 ETS. A small set of related-period family letters sits alongside Charlie's own — Peggy McMaster Eesley's February 1971 congressional intervention; Dorothy Wildermuth's March 1971 'utterly sick' Hawaii-objection letter; Peggy's mid-1970s letter to Terrie about Anne's Wisconsin hospitalization; Charlie's New Year's 1971 letter to Dorothy Hauser of the Mothers for Peace. A curated selection is published in full; the remainder are catalogued here by date and recipient with their bodies withheld at the family's request."
+source: "Original letters held in the family archive (Chuck Eesley) and the family-archive scans (grandmaE1.pdf, gitignored locally)."
 ---
 
 ## What this collection is
 
 In 1969 [Charlie Eesley](/family/charles-eesley/) &mdash; twenty-two, with a Marietta College economics degree and a U.S. Army uniform on him &mdash; shipped to Vietnam. **Most of the letters he wrote home over the next two years were to [Terrie Lee Wildermuth](/family/terrie-lee-eesley/)** &mdash; the woman who would become his wife and Chuck's mother. They had already met. He wrote her, almost the whole tour. A smaller set went to his parents in Marietta &mdash; [Will](/family/wilbur-eesley/) the architect and [Peggy](/family/margaret-mcmaster-eesley/) the mother. The letters survived. They are the primary record of the two years he spent in [Saigon](/places/saigon/) in his own voice, written as he was living them.
 
-His son's [eulogy](/docs/eulogy-charles-mcmaster-eesley/) for him in 2015 noted that "most long conversations with dad would wind their way eventually back to what he experienced in Vietnam from 69&ndash;71." The letters are the prior layer underneath those conversations &mdash; what he was telling Terrie and his parents in real time, before the years became the thing he had carried for four and a half decades.
+**The corpus has widened in mining.** As the family-archive scans have been worked through in 2026, three things have come into view that the original *"Vietnam letters"* framing didn't anticipate:
 
-The biographical detail the recipient list surfaces, almost as a side effect: **Charlie and Terrie were already together before he shipped.** The marriage in the 1970s that produced Chuck is the resolution of a courtship that had to survive a tour in Saigon first &mdash; and these letters are the record of how it did.
+- **The corpus opens earlier than the tour.** The earliest letter Charlie wrote to Terrie that this archive carries is now [Halloween 1968](/docs/letters/charlie-to-terrie-1968-10-31-vanilla-fudge/) &mdash; senior year at Marietta College, a Vanilla Fudge concert review, his friend Jay Ray's Thanksgiving-weekend plans, fifteen months before the deployment. The [April 1969 Florida spring-break letter](/docs/letters/charlie-to-terrie-1969-04-florida-spring-break/) records the Cleveland Federal Reserve and Philadelphia Sears job interviews of his senior year &mdash; a pre-army career path the draft would intercept. The corpus is more accurately *"the Charlie &mdash; Terrie 1968-1971 correspondence around a Vietnam tour"* than just *"Vietnam letters."*
+- **A small set of related-period family letters now sits alongside Charlie's own.** [Peggy McMaster Eesley's February 1971 congressional intervention](/docs/peggy-to-terrie-1971-02-10/) writing the family's congressman over Charlie's extension; [Dorothy Wildermuth's March 1971 *"utterly sick"* Hawaii-R&R-objection letter](/docs/letters/dorothy-to-terrie-1971-03-26-utterly-sick/); [Peggy's mid-1970s letter to Terrie about Anne Eesley's Wisconsin hospitalization](/docs/letters/peggy-to-terrie-anne-wisconsin-hospitalization/) and the *"I liked (and respected) my mother-in-law"* line. They are not Charlie's letters, but they are part of the same correspondence-network around him.
+- **The recipient list includes one outside-the-family voice.** [Charlie's 1 January 1971 letter from Da Nang to Dorothy Hauser](/docs/letters/charlie-to-dorothy-hauser-1971-01-01/) &mdash; Peggy's friend in the Marietta [Mothers for Peace](https://en.wikipedia.org/wiki/Mothers_for_Peace) chapter &mdash; carries Charlie's only direct Nixon line in the corpus.
+
+His son's [eulogy](/docs/eulogy-charles-mcmaster-eesley/) for him in 2015 noted that *"most long conversations with dad would wind their way eventually back to what he experienced in Vietnam from 69&ndash;71."* The letters are the prior layer underneath those conversations &mdash; what he was telling Terrie and his parents in real time, before the years became the thing he had carried for four and a half decades. The pre-tour letters add the further layer: what he was telling Terrie just before any of it happened &mdash; concert reviews, job interviews, beach scenes &mdash; in the senior year at Marietta College that the draft physical was waiting on the other side of.
+
+The biographical detail the recipient list surfaces, almost as a side effect: **Charlie and Terrie were already together before he shipped.** The marriage in August 1971 that produced Chuck is the resolution of a courtship that had to survive a tour first &mdash; and these letters are the record of how it did.
 
 ## The curation principle
 
@@ -53,6 +61,74 @@ No timeline. The site itself is the first round of curation; whatever happens wi
 Below, as the scans and transcriptions come in, the individual letter pages will appear &mdash; some as full transcriptions, some as metadata-only entries with a "Withheld at the family's request" panel where the body would be. Both are part of the same record.
 
 If you are a family member who has additional letters &mdash; or who knew Charlie during those years and has letters of your own that should sit alongside his &mdash; please contact Chuck.
+
+## Chronological index of published letters
+
+The letters that are reproduced in full on this site, in date order. Letters in italics are not Charlie's own &mdash; they are from family or family-friend correspondents writing into the same period.
+
+**Pre-army &mdash; Marietta College senior year**
+
+- [31 Oct 1968 &mdash; Vanilla Fudge concert review](/docs/letters/charlie-to-terrie-1968-10-31-vanilla-fudge/) &mdash; the earliest letter Charlie wrote to Terrie in the archive
+- [c. April 1969 &mdash; Florida spring break + Federal Reserve and Sears interviews](/docs/letters/charlie-to-terrie-1969-04-florida-spring-break/) &mdash; the pre-draft career track
+
+**Stateside &mdash; NCO training**
+
+- [Late November or December 1969 &mdash; Christmas-leave letter](/docs/letters/charlie-to-terrie-1969-christmas-leave/) &mdash; *"711 days left in the army"*
+- [18 February 1970 &mdash; nine weeks into stateside NCO training](/docs/letters/charlie-to-terrie-1970-02-18-nco-training/)
+
+**Spring tour &mdash; in country**
+
+- [15 March 1970 &mdash; six catch-up letters at Danang](/docs/letters/charlie-to-terrie-1970-03-15/) &mdash; arrival
+- [22 March 1970 &mdash; Saigon, R&R orders mailed](/docs/letters/charlie-to-terrie-1970-03-22/)
+- [22 June 1970 &mdash; *"your father's attitude is better"*](/docs/letters/charlie-to-terrie-1970-06-22/)
+
+**Summer 1970 field rotation &mdash; the bush**
+
+- [8 July 1970 &mdash; the censorship discovery + the newsmen-and-sob-story letter](/docs/letters/charlie-to-terrie-1970-07-08-newsmen-sob-story/)
+- [18 July 1970 &mdash; gung-ho captain + *"screw the gov't anyway you can"*](/docs/letters/charlie-to-terrie-1970-07-18-no-mail/)
+- [mid-1970 &mdash; the M-60 machine gun + the first Marietta-wedding-plan line](/docs/letters/charlie-to-terrie-1970-mid-tour-m60-and-marietta-wedding/)
+
+**Fall 1970 &mdash; malaria + convalescence + first foresight**
+
+- [21 September 1970 &mdash; malaria hospitalization](/docs/letters/charlie-to-terrie-1970-09-21-malaria-hospital/)
+- [28 September 1970 &mdash; Cam Ranh Bay convalescence](/docs/letters/charlie-to-terrie-1970-09-28-cam-ranh-bay-convalescence/)
+- [14 October 1970 &mdash; *"all combat troops are being withdrawn"* + first Hawaii R&R proposal](/docs/letters/charlie-to-terrie-1970-10-14-combat-withdrawal/)
+- [21 November 1970 &mdash; monsoons + *"violent campus"* read](/docs/letters/charlie-to-terrie-1970-11-21/)
+- [16 December 1970 &mdash; the enlisted men's club photo + Vietnamese hostesses + 60-day-drop rumor](/docs/letters/charlie-to-terrie-1970-12-16-em-club-photo/)
+- [31 December 1970 &mdash; *"the 10-month tour is definite"*](/docs/letters/charlie-to-terrie-1970-12-31-ten-month-tour-definite/)
+- [c. late 1970 / early January 1971 &mdash; marijuana, the Donut Dollies, and the GI culture letter](/docs/letters/charlie-to-terrie-1970-marijuana-and-donut-dollies/)
+
+**January-February 1971 &mdash; the extension decision and the Laos thread**
+
+- [1 January 1971 &mdash; *Charlie to Dorothy Hauser, Mothers for Peace and the Nixon line*](/docs/letters/charlie-to-dorothy-hauser-1971-01-01/)
+- [19 January 1971 &mdash; the ETS-extension strategy](/docs/letters/charlie-to-terrie-1971-01-19-ets-extension/)
+- [21 January 1971 &mdash; Camp Evans, 4 February return](/docs/letters/charlie-to-terrie-1971-01-21/)
+- [24 January 1971 &mdash; sunburn + finals](/docs/letters/charlie-to-terrie-1971-01-24/)
+- [3 February 1971 &mdash; Da Nang stay through March 5](/docs/letters/charlie-to-terrie-1971-02-03-danang-extension/)
+- [4 February 1971 &mdash; *"Don't be surprised when you hear about Laos being invaded"*](/docs/letters/charlie-to-terrie-1971-02-04-laos-fore-warning/)
+- [10 February 1971 &mdash; *Peggy's congressional intervention re: Camp Eagle extension*](/docs/peggy-to-terrie-1971-02-10/) &nbsp;and&nbsp; [Charlie's letter the same day from Da Nang](/docs/letters/charlie-to-terrie-1971-02-10-danang/)
+- [1 March 1971 &mdash; Lam Son 719 in progress, *"a lot of guys are going to get killed"*](/docs/letters/charlie-to-terrie-1971-03-01-lam-son-719/)
+
+**Spring 1971 &mdash; the Hawaii R&R lead-up**
+
+- [15 March 1971 &mdash; six catch-up letters at Danang](/docs/letters/charlie-to-terrie-1971-03-15/) &mdash; mail backlog
+- [22 March 1971 &mdash; R&R orders](/docs/letters/charlie-to-terrie-1971-03-22/)
+- [26 March 1971 &mdash; *Dorothy Wildermuth: "utterly sick about your planning to meet Charlie in Hawaii"*](/docs/letters/dorothy-to-terrie-1971-03-26-utterly-sick/)
+- [29 March 1971 &mdash; R&R booking confirmed, *"Please get your ticket under (Mrs. Eesley)"*](/docs/letters/charlie-to-terrie-1971-03-29-second-rr-booking/)
+- [31 March 1971 &mdash; R&R planning](/docs/letters/charlie-to-terrie-1971-03-31-rr-planning/)
+- [2-3 April 1971 &mdash; the parental conflict over Hawaii](/docs/letters/charlie-to-terrie-1971-04-02-parents-against-hawaii/)
+- [5 April 1971 &mdash; *"Mom suggested that we get married in Hawaii"*](/docs/letters/charlie-to-terrie-1971-04-05-mom-suggested-hawaii-marriage/)
+- 12-19 April 1971 &mdash; the Hawaii R&R itself, no letters in the archive
+
+**Late spring 1971 &mdash; the run to ETS**
+
+- [29 May 1971 &mdash; *"17 days left"*](/docs/letters/charlie-to-terrie-1971-05-29/) &mdash; countdown to the 14 June 1971 ETS
+
+**Later &mdash; post-tour family correspondence in the same archive**
+
+- [Mid-1970s &mdash; *Peggy to Terrie: Anne's Wisconsin hospitalization + the "mother-in-law" line*](/docs/letters/peggy-to-terrie-anne-wisconsin-hospitalization/)
+
+This index is not exhaustive of what survives &mdash; the family-archive scans contain hundreds of additional letter pages, of which a curated subset is published here. The remaining letters are catalogued or held in the private family archive per the curation principle above.
 
 ## On reading him at twenty-two
 
