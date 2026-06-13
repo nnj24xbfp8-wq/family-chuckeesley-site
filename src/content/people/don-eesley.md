@@ -39,3 +39,9 @@ The most charged family story Don is at the center of: in c. 1929, when Don was 
 Don was twenty-one or twenty-two at the time of the lesson. Aunt Ota would die on 9 February 1930 surrounded by family at the Bexley house on Cassidy Avenue, still narrating her own decline in the clinical voice she had used her whole career. Don did not become a physician &mdash; the lesson may have dissuaded him, or simply put the moral cost of medicine vividly in front of him. Either way the chain of family memory it generated runs from Aunt Ota to Helen (Don's younger sister, who was five at the time and watched it through the door) to Roberta (Helen's daughter) to this archive.
 
 > *Sources: Mary Eesley Bean, *[Eesley Family History](/docs/eesley-family-history-1985/)*, p. 8; Roberta Burnes, email June 2026 (the Aunt Ota anatomy lesson). Structured record: [Dale Eesley / FamilySearch — Donald Stuart Eesley (MCZ8-WYV)](https://www.familysearch.org/tree/person/details/MCZ8-WYV).*
+
+## With his brothers c. 1912
+
+A sepia outdoor portrait from [Roberta Burnes](/family/roberta-burnes/)'s keeping, surfaced June 2026: the [three Eesley brothers — Don (left, ~4), Will (middle, ~2), and Len (right, ~8) — standing on a patch of grass c. 1912](/archive/eesley-three-brothers-c1912/). One of the earliest frames of any of the three in the archive.
+
+![Three Eesley brothers c. 1912 — Don (left), Will (middle), Len (right). From Roberta Burnes's keeping.](../../assets/family/originals/eesley-three-brothers-c1912.jpeg)

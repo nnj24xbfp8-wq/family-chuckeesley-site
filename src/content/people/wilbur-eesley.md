@@ -62,3 +62,9 @@ Will is an anchor for two of the ten threads in the [**Family threads**](/docs/f
 - **Thread #10 — Building things (entrepreneurship across four generations)** — built **two architectural firms** (Scott and Eesley → Eesley, Lee, Vargo and Cassady) and the Highland Ridge Road house he raised his family in. *"The man literally designed and built buildings for a living."*
 
 > *Source: Will's obituary, Marietta paper, June 1986. Structured record: [Dale Eesley / FamilySearch — Wilbur Chenoweth Eesley (L2J9-LS3)](https://www.familysearch.org/tree/person/details/L2J9-LS3).*
+
+## With his brothers c. 1912
+
+A sepia outdoor portrait from [Roberta Burnes](/family/roberta-burnes/)'s keeping, surfaced June 2026: the [three Eesley brothers — Don (left, ~4), Will (middle, ~2), and Len (right, ~8) — standing on a patch of grass c. 1912](/archive/eesley-three-brothers-c1912/). One of the earliest frames of any of the three in the archive.
+
+![Three Eesley brothers c. 1912 — Don (left), Will (middle), Len (right). From Roberta Burnes's keeping.](../../assets/family/originals/eesley-three-brothers-c1912.jpeg)

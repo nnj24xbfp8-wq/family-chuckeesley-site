@@ -22,3 +22,9 @@ In that group portrait he is the **figure at the far left** &mdash; the oldest o
 This page is a stub; biographical detail to be added as family memory and Bean's register together fill it in.
 
 > *Sources: Mary Eesley Bean, *[Eesley Family History](/docs/eesley-family-history-1985/)*, 1985; family memory.*
+
+## With his brothers c. 1912
+
+A sepia outdoor portrait from [Roberta Burnes](/family/roberta-burnes/)'s keeping, surfaced June 2026: the [three Eesley brothers — Don (left, ~4), Will (middle, ~2), and Len (right, ~8) — standing on a patch of grass c. 1912](/archive/eesley-three-brothers-c1912/). One of the earliest frames of any of the three in the archive.
+
+![Three Eesley brothers c. 1912 — Don (left), Will (middle), Len (right). From Roberta Burnes's keeping.](../../assets/family/originals/eesley-three-brothers-c1912.jpeg)
