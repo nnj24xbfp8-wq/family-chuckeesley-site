@@ -11,7 +11,7 @@ death:
 spouses:
   - yunzhe-sun
 portrait: ../../assets/family/originals/IMG_1803.jpeg
-summary: "Lijie's paternal grandfather. Born 1 August 1930 in Jiaozhou Shi (the city-region just inland from Qingdao on the Shandong peninsula) — the ancestral place for this branch of the Zhou family. Founded the first photography studio in Qingdao; his daily practice was tai chi. Died 9 December 2022 in Qingdao, age 92."
+summary: "Lijie's paternal grandfather. Born 1 August 1930 in Jiaozhou Shi (the city-region just inland from Qingdao on the Shandong peninsula) — the ancestral place for this branch of the Zhou family. Worked at one of the early Qingdao photography studios — co-owned by his cousin (not by him; correction from Lijie's mother, June 2026). His daily practice was tai chi. Died 9 December 2022 in Qingdao, age 92."
 ---
 
 <p class="not-prose my-4 p-3 border-l-4 border-rule bg-ink/5 text-sm"><strong>📖 本页含中文版本 — <a href="#zh">点此跳至中文 ↓</a></strong> &nbsp;·&nbsp; <em>This page has a Chinese version below.</em></p>
@@ -20,9 +20,9 @@ Zhou Zhaoxiang was born 1 August 1930 in Jiaozhou Shi (胶州市) — the histor
 
 He spent the war years and the founding years of the People's Republic as a young man, married [Yunzhe Sun](/family/yunzhe-sun/), and raised four children in Qingdao &mdash; including [Lijie's father Ling Zhou](/family/ling-zhou/) and his siblings Quan, Ai Qin, and Ai Hua. He died 9 December 2022 in Qingdao, age 92.
 
-His working life centered on photography: he founded the first photography studio in Qingdao &mdash; the civic-business history of mid-20th-century Qingdao runs partly through his shop.
+His working life involved photography &mdash; through one of the early Qingdao photography studios, **co-owned by his cousin** (per Lijie's mother, June 2026; the studio was not his to found, and an earlier claim on this page that he founded the first photography studio in Qingdao has been corrected accordingly). The cousin's name and the studio's exact identity are open questions for Lijie's father to clarify when he is able.
 
-The studio portrait at the head of this page &mdash; a seated man in glasses with young [Lijie](/family/lijie-zhou/) standing under his right hand, a boy of about ten in a red Young Pioneer scarf on his other side, painted staircase backdrop behind &mdash; is Zhaoxiang inside his own Qingdao studio, in front of one of his own painted sets. Lijie is about five; Zhaoxiang is in his late fifties, which places the photograph around 1988. The boy is most likely a cousin from one of Ling Zhou's siblings' families &mdash; identification still to be refined by the family. It is the only frame in the archive that holds Lijie and her paternal grandfather together &mdash; the founder of Qingdao's first photography studio captured inside his own shop, with his granddaughter standing at his side.
+The studio portrait at the head of this page &mdash; Lijie's grandfather seated in glasses with young [Lijie](/family/lijie-zhou/) standing under his right hand, a boy of about ten in a red Young Pioneer scarf on his other side, painted staircase backdrop behind &mdash; is most plausibly read as a frame taken in the cousin's Qingdao studio, in front of one of the painted sets the studio used. Lijie is about five; her grandfather is in his late fifties, which places the photograph around 1988. The boy is most likely a cousin from one of Ling Zhou's siblings' families &mdash; identification still to be refined by the family. It is the only frame in the archive that holds Lijie and her paternal grandfather together.
 
 Outside the studio he kept a daily tai chi (太极拳) practice &mdash; the slow standing-meditation form that has shaped the bodies of generations of older Chinese practitioners. The combination &mdash; the precision of the studio camera and the unhurried rhythm of tai chi in the morning &mdash; is a fair index of how he carried himself across nine decades.
 
@@ -39,7 +39,7 @@ He is the deepest documented Zhou ancestor in this archive's present scaffolding
 Zhou Zhaoxiang is the Zhou-side anchor for two of the ten threads in the [Family threads](/docs/family-threads/) synthesis essay:
 
 - Thread #9 — Crossing for what's next — the Jiaozhou Shi → Qingdao intra-Chinese crossing in his own lifetime parallels Robert Earl's Marietta → Stanford crossing in the same generation.
-- Thread #10 — Building things (entrepreneurship across four generations) — founded the first photography studio in Qingdao, the Zhou-side founding-entrepreneur instance parallel to John F. Eesley's Plainwell flour mill (1887) and Johann Michael Wildermuth's Marietta shoe trade (1847).
+- Thread #10 — Building things (entrepreneurship across four generations) — *the Zhou-side founder-entrepreneur instance had been provisionally attached to Lijie's grandfather and the Qingdao photography studio, but Lijie's mother's June 2026 correction relocates that founder-entrepreneur slot to his cousin (the actual studio co-owner) and leaves the Zhou-side entrepreneur identification open until clarified.*
 
 > *Structured record: [FamilySearch &mdash; Zhaoxiang Zhou (GM57-BKY)](https://www.familysearch.org/tree/person/details/GM57-BKY).*
 
@@ -57,9 +57,9 @@ Zhou Zhaoxiang is the Zhou-side anchor for two of the ten threads in the [Family
 
 他经历了战争年代和共和国初创时期，与[孙云哲](/family/yunzhe-sun/)成婚，在青岛养育四个子女 &mdash; 包括[周丽婕的父亲周玲](/family/ling-zhou/)及其弟妹周全、周爱琴、周爱华。2022年12月9日卒于青岛，享年92岁。
 
-他一生的事业以摄影为中心：他在青岛开办了第一家照相馆。20世纪中叶青岛的市井商业史，有一段从他的照相馆里走过。
+**关于照相馆的更正（2026年6月，据丽婕的母亲提供）**：本页早先版本曾写"他在青岛开办了第一家照相馆"，此说不准确。照相馆并非由丽婕的祖父开设，而是**由他的表/堂兄弟共同经营**。具体表兄弟的身份与照相馆的名号，待向丽婕的父亲请教后补正。本页页首及下文涉及"自己照相馆"的措辞，均应按此理解。
 
-本页页首的这张肖像，正是那条循环最终回到了它自己：周兆祥坐在他自己照相馆里、自己绘制的一张影楼布景之前 &mdash; 那扇有着彩绘旋转楼梯、红地毯、玻璃瓶里插的花、深色镶板门的"客厅"背景画 &mdash; 他的右手边（画面左侧）站着一位约五岁、穿着印花上衣、戴粉色项链的女孩，是他的孙女 &mdash; 也是我妻子 [Lijie 周丽婕](/family/lijie-zhou/) &mdash; 这把这张照片的时间锁定在1988年前后，那时周兆祥已近六十岁，照相馆正处于其中后期。他的左手边（画面右侧）站着一位约十岁、佩戴红领巾的男孩，最可能是Lijie父辈兄弟姊妹这一支的表/堂亲，身份待确认。*这位一辈子在为别人留住面孔的人，被拍在自己的店里、自己的布景前、自己的孙女靠在他右肘下。* 这是本档案中Lijie本人最早的一帧，也是档案中唯一一张她与祖父周兆祥同框的合影。
+本页页首的这张肖像，最合理的读法是：丽婕的祖父坐在他表/堂兄弟的青岛照相馆里、影楼绘制的一张布景之前 &mdash; 那扇有着彩绘旋转楼梯、红地毯、玻璃瓶里插的花、深色镶板门的"客厅"背景画 &mdash; 他的右手边（画面左侧）站着一位约五岁、穿着印花上衣、戴粉色项链的女孩，是他的孙女 &mdash; 也是我妻子 [Lijie 周丽婕](/family/lijie-zhou/) &mdash; 这把这张照片的时间锁定在1988年前后，那时丽婕的祖父已近六十岁。他的左手边（画面右侧）站着一位约十岁、佩戴红领巾的男孩，最可能是Lijie父辈兄弟姊妹这一支的表/堂亲，身份待确认。这是本档案中Lijie本人最早的一帧，也是档案中唯一一张她与祖父同框的合影。
 
 照相馆之外，他每日坚持太极拳练习 &mdash; 这一缓慢的站桩冥想式拳法，塑造了一代又一代中国老人身姿。摄影机的精准与晨练时太极拳的从容 &mdash; 二者合起来，便是他度过九十多年人生的姿态写照。
 
