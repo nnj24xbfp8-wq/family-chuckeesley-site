@@ -29,6 +29,24 @@ Mafry had **two children &mdash; Marjorie and Paul.** Per Roberta's later June 2
 
 The 1937 portrait above &mdash; just Mafry with Marjorie &mdash; preserves the young-motherhood phase of her life, bridging from this 1937 moment to her [early-1970s ERA-activist years](/family/mafry-smith-hyatt/) and her *"at least once a week"* visits to the Burnes household. (Roberta has noted that many of the original Mafry-and-Ota photographs went to other Burnes siblings; she will check whether the original CD-ROMs the scans went to are still readable.)
 
+## Roberta's favorite photo of Mafry — c. 1981, with "The Intimate Sex Lives of Famous People"
+
+Roberta has shared (June 2026) **her favorite photo of Mafry** &mdash; and it is the perfect distillation of who Mafry was as an elder. The frame: Mafry in her late seventies, white-curly-haired and bespectacled, in a brown-and-white polka-dot blouse with a small pendant on a chain, **holding up a sensational paperback book titled "THE INTIMATE SEX LIVES OF FAMOUS PEOPLE"** by Irving Wallace, Amy Wallace, David Wallechinsky, and Sylvia Wallace. The book was published in 1981; Mafry, born 1902-1905, would have been **76-79 here**.
+
+![Mafry Smith Hyatt, c. 1981, holding up "The Intimate Sex Lives of Famous People" by Irving Wallace + family — Roberta Burnes Walker's favorite photo of her great-aunt Mafry.](../../assets/family/originals/mafry-hyatt-with-sex-lives-book-c1981-favorite.jpeg)
+
+The expression on Mafry's face &mdash; just a hint of a smile, lips pressed in mischief, eyebrows raised over the rims of her glasses &mdash; is the photograph's whole point. **An elderly woman, in her own house, brandishing a sensational paperback, daring the photographer (and the rest of the family) to comment.** It is one of the most affectionate portraits in the whole archive: Roberta has flagged it as **the one she comes back to**, the one that captures Mafry's humor and irreverence in a single frame.
+
+The book itself &mdash; *The Intimate Sex Lives of Famous People* (1981, Delacorte Press) &mdash; was a runaway bestseller in the early 1980s for its salacious treatment of historical figures from Lincoln to Edith Wharton. That Mafry posed with it &mdash; pleased, mischievous, the consummate ERA-era feminist who had been the niece of the [first-woman-MD Scioto](/family/scioto-mafry-chenoweth/) and who would later march for the Equal Rights Amendment &mdash; reads as a lifelong-irreverence pose. The photograph is **dated by the book** to **c. 1981-1985**, when Mafry would have been in her late seventies to early eighties.
+
+## Marjorie with daughters, c. 1960s
+
+A second Roberta-album photograph that surfaces here: Mafry's daughter **Marjorie Hyatt** with two of her own daughters, c. 1960s &mdash; the three of them on a brocade couch, Marjorie in the center in a dark dress, a teenaged daughter on each side. The frame is the Mafry-line's continuation forward into Mafry's grandchildren.
+
+![Marjorie Hyatt (Mafry's daughter) with her own two daughters, c. 1960s. From Roberta Burnes Walker's Chenoweth-Hyatt family album. Names of the daughters to be added when Roberta sends them.](../../assets/family/originals/marjorie-hyatt-with-daughters-c1965.jpeg)
+
+Marjorie's specific life dates, marriage details, and the names of her daughters are open research items &mdash; Roberta has flagged the daughters' names as coming in a later email.
+
 If Mafry was [married in September 1922](/docs/letters/lillie-dale-to-leonard-1922-09-03/) (per Lillie Dale's letter to Len that month, *"I expect Mafry will be married this month"*) and the daughter in this frame is about eight years old, the frame would sit roughly around **1932&ndash;1936** &mdash; about a decade into her marriage. The earlier-than-previously-documented Mafry biography starts here.
 
 ## In the c. 1970s family reunion portrait

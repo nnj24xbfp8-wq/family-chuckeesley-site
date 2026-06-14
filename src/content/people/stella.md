@@ -39,6 +39,22 @@ That puts Maggie's visit around 1961–62, with Stella and Ted then in their own
 
 Three quietly devastating pieces in that account: that Charles Leonard fell into depression when Stella left; that the Chongs sent flowers from Hawaii when Charles died around 1972; and that Roberta's collection of 1940s letters &mdash; possibly the only direct documentary trace of how Stella came to the household &mdash; sits unread because the handwriting hasn't been deciphered.
 
+Roberta added the specific flower in a June 2026 email:
+
+> *"I remember so well the Hawaiian flowers they sent for Grandpa's memorial. I had never seen anything like them, **Anthurium** I think is what they are called."*
+
+The detail is precise and tender: **anthurium**, the heart-shaped tropical bloom in vivid red or pink with a yellow center spadix, native to Central and South America but commercially grown in Hawaii throughout the twentieth century and a signature of Hawaiian floral arrangements. A 12-year-old Roberta in central Ohio in October 1972 had never seen them; the Chongs, sending memorial flowers across the Pacific to a Bexley funeral, sent the flower their adopted Hawaiian home grew best. Thirty years before Roberta would meet them, the family had already become permanent in central Ohio's flower memory.
+
+## Roberta's photo collection of Stella — a queued resource
+
+In the same June 2026 email, Roberta surfaced a major undocumented resource:
+
+> *"I have so many photos of Stella, her wedding, her children and parents. I would love to know what became of that family."*
+
+A **substantial collection of Stella photographs** &mdash; including her **wedding to [Ted Chong](/family/ted-chong/)**, photographs of **her children [SueLynn](/family/suelynn-chong/) and [Glenn](/family/glenn-chong/)**, and photographs of **her parents [Koon Hung Sunn](/family/koon-hung-sunn/) and [Mabel Lee Sunn](/family/mabel-lee-sunn/)** &mdash; sits in Roberta's keeping. None of it has been digitized into this archive yet. When it surfaces, it will be the single largest expansion of the Stella visual record in the family's holdings.
+
+Roberta has also flagged that she will ask **[Lyle Stuart Eesley](/family/lyle-stuart-eesley/)** (Don Eesley's son, b. 1948) whether he has any memory of Stella's connection to the Eesleys &mdash; another open thread for the [reconstruction](/family/stella/) the rest of this page describes.
+
 ## What the family remembers — earlier framing
 
 The story-as-told that this archive originally seeded with came from Aunt Jeanne in May 2026:

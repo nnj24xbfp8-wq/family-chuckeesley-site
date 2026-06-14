@@ -40,9 +40,61 @@ The scattered children. Charles Leonard's eight children were grown by 1940. [Le
 
 The Bexley years. Charles Leonard was at home in Bexley, with [Lillie Dale](/family/lillie-dale-chenoweth/), through the decade. The letters are the record of what he was thinking, hearing, and saying to his children from that kitchen.
 
+## The provenance — Aunt Helen's basement, Silver Spring, c. 1976
+
+A major Roberta email of **June 2026** filled in the provenance chain. The story, as her sister Barb Burnes Hester confirmed:
+
+> *"After Uncle Leonard died (1976?), I recall Aunt Helen and my mother and I going down to the basement at Len and Helen's place in Silver Spring. There, Aunt Helen showed us shoebox after shoebox filled with letters between Len, Lilly and Charles, and sometimes Len's wife Helen. Aunt Helen asked Mom whether she wanted them, saying that her boys weren't interested. Mom took the letters home with us. When Mom died in 2000, the letters were divvied up between the siblings who wanted them. Barb made copies of them before that happened."*
+
+The chain in summary:
+
+1. **The shoebox basement, c. 1976** &mdash; After [Leonard "Len" Eesley](/family/leonard-david-eesley/)'s death (~1976), his widow Helen and Roberta's mother [Helen Burnes (née Eesley)](/family/helen-burnes/) walked through the basement of Len + Helen's Silver Spring, Maryland house. Helen showed them **shoeboxes** of letters &mdash; correspondence between Len, his mother Lillie Dale, his father Charles Leonard, and "sometimes Len's wife Helen." Aunt Helen's *"boys weren't interested"*; she asked Helen Burnes if she wanted them. Helen Burnes said yes and took them home.
+2. **The 2000 division** &mdash; When Helen Burnes died in 2000, the letters were divided among her siblings who wanted them. **Before the division**, Roberta's older sister **[Barb Burnes Hester](/family/barb-burnes-hester/) made photocopies of the entire collection.**
+3. **The Barb photocopy set** &mdash; Barb's photocopies are now the most complete bound version of the collection &mdash; the *original* letters are scattered across the Burnes siblings since 2000, but Barb's copy-set holds them all in one place.
+
+## Barb is the one living transcriber — Charles Leonard's palsy/tremor
+
+A second crucial piece from the June 2026 email: **Barb's own ability to read the handwriting**. Per Roberta:
+
+> *"Barb told me that Grandpa Eesley had a palsy or tremor in his hand that made his handwriting indecipherable, but she says she is able to read it because she grew up reading it. (She told me that my earlier transcriptions of his handwriting had a high error rate and that she's the only one living who can read it, lol!)"*
+
+This is the breakthrough on the **reading problem** the earlier sections of this page described. The handwriting's near-indecipherability is now understood to come from a **specific medical cause** &mdash; Charles Leonard had a **palsy or tremor in his hand** that progressively degraded his cursive across the 1940s. **Barb learned to read that hand by growing up around it.** She is the only living family member who can do it reliably.
+
+Barb is *"interested in getting together with me or one of her grandkids to transcribe these letters, soon!"* &mdash; the single most consequential family-archive development of this decade.
+
+## The book idea — Roberta and Barb's vision
+
+The June 2026 email closes the description with a goal:
+
+> *"We think there's enough material here to create a book, sprinkled with photos."*
+
+A **book-length anthology** of the 1940s Charles Leonard letter collection &mdash; transcribed by Barb, edited by Roberta, illustrated with photographs from the family albums &mdash; would be the **culminating publication of the Eesley-side correspondence record**, the way Robert Earl Wildermuth's [1990 Heritage](/docs/wildermuth-fleming-heritage-1990/) is the culminating publication of the Wildermuth side.
+
+The Vietnam letters Charlie wrote home to Terrie from 1969-1971, already published in part on this archive at [Letters from Vietnam](/docs/letters-from-vietnam/), would sit as the **next-generation companion volume** to Charles Leonard's 1940s letters &mdash; **two letter-keepers in one family across two wars**, both preserved, both being read.
+
+## The two parallel research threads
+
+Roberta's June 2026 email also surfaces two other documentary holdings beyond the letters themselves:
+
+### The c. 1999 photo-archive CD-ROMs and the printed key book
+
+Roberta and her sister Barb, working through their mother Helen Burnes's photograph collection in the 1990s, **digitized the entire collection onto CD-ROMs**. Per Roberta, the original photographs were divided among Helen's children after her 2000 death; **the CD-ROM set was meant to preserve the collection intact, digitally**. Roberta no longer has a CD-ROM drive but she **still holds the printed key book** that pairs each digitized photograph with an identifying label.
+
+If the CD-ROMs are still readable, they would surface the digitized version of every photograph this archive has been able to reference only through Roberta's individual scans &mdash; a complete pre-Burnes-sibling-division digital record of the Helen Burnes photograph holdings.
+
+### The reel-to-reel recordings of Charles Leonard and Don, Narberth, PA, late 1960s
+
+A more haunting research thread:
+
+> *"I also have recordings of Grandpa Eesley, Don, and possibly others telling family stories, recorded in the late 1960s in their home in Narberth, PA. Unfortunately, these were recorded on reel-to-reel tape — a good format for preservation, but they were all combined many years ago into one large reel, and the combining was all out of order. The tape will take some work to access and figure out which part is which."*
+
+**[Charles Leonard Eesley](/family/charles-leonard-eesley/) and [Donald "Don" Eesley](/family/don-eesley/) telling family stories on reel-to-reel tape in the late 1960s at Narberth, Pennsylvania.** These are the voices of two of the Eesley patriarchs of the line, captured at the same time the [Maggie Eesley *Four Generations* deck](/docs/) was being assembled and the family-history project was in its first organized phase. The combining-out-of-order is a tractable problem with current digital audio tools; the priority would be (a) getting the reel digitized into individual files, (b) timestamping voices and topics across the audio, and (c) identifying which sections of "out-of-order combining" belong together.
+
+Audio of Charles Leonard's actual voice &mdash; the man whose 1922 letter to Len has surfaced as the earliest item in the archive, whose 1940s shoebox correspondence Barb is about to transcribe &mdash; would be one of the most precious artifacts the family could surface.
+
 ## What is known about the physical collection
 
-Almost nothing. Roberta's 2019 family email is the source of every claim this archive has been able to make about the collection. From that email:
+Until June 2026, Roberta's 2019 family email was the source of every claim this archive could make about the collection. The June 2026 email substantially expanded that:
 
 - The collection is large (*"a huge collection"*).
 - It is mostly from the 1940s.
@@ -89,4 +141,4 @@ In June 2026 Roberta began the partial-scan-and-transcribe pass described above.
 
 The 1922 letter pushes the collection's documented date range back nearly two decades from the previously-described *"1940s"* frame, and establishes that pre-1940 items are in the box and may surface as Roberta continues the pass. The per-letter catalog &mdash; with full publication or metadata-only entries per the [letters-from-vietnam curation policy](/docs/letters-from-vietnam/) &mdash; begins with the 3 September 1922 item; more entries will land here as Roberta sends them across.
 
-> *Sources: Roberta Burnes's July 2019 family email &mdash; the original description of the collection. Roberta's June 2026 email sending the 3 September 1922 letter as the first lifted item.*
+> *Sources: Roberta Burnes Walker's July 2019 family email &mdash; the original description of the collection. Roberta's June 2026 emails sending the 3 September 1922 letter as the first lifted item, surfacing the c. 1976 Aunt Helen / Silver Spring basement provenance story confirmed by her sister Barb Burnes Hester, the Charles Leonard palsy/tremor handwriting explanation, Barb's role as the only living family member who can read the hand, the book-with-photos goal, the c. 1999 photo-archive CD-ROM digitization, and the late-1960s Narberth PA reel-to-reel recordings of Charles Leonard and Don.*
