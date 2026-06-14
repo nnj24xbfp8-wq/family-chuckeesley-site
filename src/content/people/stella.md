@@ -91,7 +91,13 @@ She appears in the [family group portrait taken at Charles and Lillie Dale's hom
 
 Roberta Burnes Walker began sending photographs of Stella in June 2026 &mdash; the first substantial expansion of Stella's visual record in this archive. The first batch contains **six photographs spanning roughly twenty years of her adult life**:
 
-### Stella as a young woman, c. 1942
+### Formal studio portrait — Bradford Bachrach, c. late 1940s
+
+A **Bradford Bachrach** formal studio portrait of Stella in her early-to-mid twenties &mdash; soft three-quarter lighting against a neutral backdrop, hair waved in the late-1940s/early-1950s style, an off-the-shoulder dark satin dress with a fitted bodice and ruffled neckline. The portrait is **signed *"Bradford Bachrach"*** in gold along the lower right edge &mdash; the New York and Philadelphia portrait-studio chain famous for high-end society and presidential portraits of the mid-twentieth century. The Bradford Bachrach commission marks Stella's late-1940s East-Coast life: a formal portrait of the Bexley-raised Hawaiian-American young woman taken at the kind of prestige studio that the Eesleys' adopted daughter was photographed at, like any of the Eesley-side daughters by birth.
+
+![Stella, Bradford Bachrach studio portrait, c. late 1940s.](../../assets/family/originals/stella-bradford-bachrach-studio-portrait-c1948.jpeg)
+
+### Stella as a young woman on the lawn, c. 1942
 
 A relaxed outdoor portrait of Stella sitting on grass in a polka-dot or check-pattern day dress with puffed sleeves. She is **late teens to about twenty**, smiling broadly into the camera, dark hair shoulder-length and curled in the period style. The dress and hair place the frame at **c. 1941-1943** &mdash; almost certainly **the first year or two of her time in the Bexley Eesley household**.
 
