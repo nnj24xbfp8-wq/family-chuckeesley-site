@@ -7,7 +7,7 @@ people:
   - lijie-zhou
   - charles-eesley
 dateRange:
-  start: "2016"
+  start: "2014"
 summary: "Since around 2016, the year after Chuck's father Charlie died of diabetes complications, Chuck and Lijie have ridden annually in the American Diabetes Association's Tour de Cure and the National MS Society's Waves to Wine — raising money for the two diseases the family has lost loved ones to and built a venture investment around. Each year's ride is recorded as a five-minute video and posted to YouTube. The page collects the rides as they accumulate, the way the Vietnam letters and the Wildermuth memoir are collected — a small consequential practice that has compounded across a decade."
 teaser: "Annual fundraising rides for ADA Tour de Cure and the MS Society's Waves to Wine, anchored in Chuck's father's death from diabetes complications and the Empo Health venture that followed."
 ---
@@ -25,6 +25,10 @@ At a different point in the same period, Chuck and Lijie added the **[National M
 The same year-after-year ride for diabetes carries a second, harder thread: **Chuck's venture investing in [Empo Health](https://www.empohealth.com/)**, a company building diagnostic technology for **diabetic foot ulcers** &mdash; one of the most under-recognized and under-treated complications of advanced diabetes, and a leading cause of lower-limb amputation for diabetic patients in the United States. The funding decision is not separate from the rides; the same impulse runs through both. **Show up where the disease that killed your father is doing its quiet daily damage, with whatever you have &mdash; legs, money, attention, network.**
 
 The ADA Tour de Cure raises money for the research-and-awareness machinery; the Empo Health investment funds the specific clinical-technology piece that addresses the most painful and least-treated late-stage complication. Together they are the version of *"showing up"* this generation does about diabetes.
+
+## A note on dating — the cycling practice predates the charity rides
+
+The cycling-life corpus is **older than the post-2015 charity rides** in this archive. The earliest entry on the site is the **[2014 Sequoia Half Century](/docs/2014-sequoia-half-century-bike-ride/)** &mdash; a Western Wheelers Bay Area club century &mdash; predating Charlie's death by more than a year. The Sequoia continues across the post-2015 period (e.g. the **[2026 Sequoia Half Century](/docs/2026-sequoia-half-century-bike-ride/)** with the Stanford team) alongside the ADA Tour de Cure and MS Society rides. **The same cycling life runs through both periods**; the charity rides are the post-2015 layer that the November 2015 loss added on top of an existing practice.
 
 ## The video record
 
