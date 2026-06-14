@@ -27,15 +27,15 @@ She is documented in Aunt Maggie's deck as Maggie's **great-grandmother** &mdash
 
 She died **2 May 1919 in Grove City, Franklin County, Ohio** (per Egge's record) and is buried at **Otterbein Cemetery in Blendon Township** &mdash; nine years after her husband Joseph Hill, in the same cemetery.
 
-## Children
+## Children — five, in order of birth
 
-The GEDCOM records at least five children:
+Per [Roberta Burnes Walker](/family/roberta-burnes/) (June 2026, drawing on Aunt Mary Eesley Bean's research notes):
 
-- **[Lillie Dale Chenoweth Eesley](/family/lillie-dale-chenoweth/)** (1877&ndash;1970) &mdash; the Chenoweth matriarch who married into the Eesley line.
-- **[Scioto Mafry Chenoweth](/family/scioto-mafry-chenoweth/)** (1871&ndash;1930) &mdash; named after the **Scioto River** (the Ohio river-name being a family habit); the woman of Maggie's "first women medical doctors" line.
-- **Howard Glen Chenoweth** &mdash; not yet a person entry.
-- **Elsie Chenoweth** &mdash; not yet a person entry.
-- **Dwight Kennedy Chenoweth** (1880&ndash;1957) &mdash; not yet a person entry; died in Biloxi, Mississippi.
+1. **Howard Glen Chenoweth** &mdash; eldest. Not yet a person entry.
+2. **Elsie Chenoweth** &mdash; second. Not yet a person entry.
+3. **[Scioto Mafry Chenoweth](/family/scioto-mafry-chenoweth/)** (1871&ndash;1930) &mdash; third. Named after the **Scioto River** (the Ohio river-name being a family habit); the woman of Maggie's "first women medical doctors" line.
+4. **[Lillie Dale Chenoweth Eesley](/family/lillie-dale-chenoweth/)** (1877&ndash;1970) &mdash; fourth. The Chenoweth matriarch who married into the Eesley line and the Lillie of the [1922 cross-country letter to her son Len](/docs/letters/lillie-dale-to-leonard-1922-09-03/).
+5. **Dwight Kennedy Chenoweth** (1880&ndash;1957) &mdash; youngest. Not yet a person entry; died in Biloxi, Mississippi. Lillie's beloved brother Dwight of the [c. 1900 diptych](/family/dwight-chenoweth/).
 
 ## The two photographs
 
@@ -57,15 +57,26 @@ Together the two portraits frame more than fifty years of her life — from the 
 
 The portrait that previously appeared on this page &mdash; carried into the archive through Maggie Eesley's *Four Generations* deck under the label *Mary Timmons Chenoweth* &mdash; was reviewed against Roberta Burnes's family album and is **not** Mary Timmons Chenoweth. It is a friend of hers, **labeled as such in Roberta's album**, and was misidentified somewhere between the album and Maggie's deck. The misattributed scan is held back from this page until the friend's actual identity is known.
 
-## What else the family album holds
+## The two tintypes side-by-side — likely a wedding-era pair
 
-Roberta has also flagged that the album includes:
+Roberta has flagged (June 2026) that **the two tin-types of Joseph Hill Chenoweth and Mary Timmons appear alongside each other in the family photo album** &mdash; matched as a pair, in adjacent positions. This pairing strongly suggests they were **taken at or near the time of their 25 November 1864 marriage** &mdash; the kind of bride-and-groom companion tintypes that were common in the mid-1860s. The two-portrait pair is therefore the Joseph-and-Mary marriage record in visual form.
+
+## What else Roberta's family album and the Mary Bean papers hold
+
+Roberta has flagged that the album and adjacent materials include:
 
 - A photograph of [Joseph Hill Chenoweth](/family/joseph-hill-chenoweth/)'s father [Elijah Chenoweth](/family/elijah-chenoweth/) &mdash; the deepest documented Chenoweth ancestor in this archive's keeping.
 - A photograph of Mary's own father.
-- Mary's **1862 teacher's certificate** &mdash; the document underneath the biographical line of this page.
-- The **1860s handwritten Chenoweth family register** that anchors the Chenoweth Family Association's online genealogy.
+- Mary's **1862 teacher's certificate** &mdash; a separate artifact, not bound in the album.
+- The **1860s handwritten Chenoweth family register** &mdash; a separate artifact, also not bound in the album, that anchors the Chenoweth Family Association's online genealogy.
 
-These are queued for the next round of digitization.
+(Correction, June 2026: the family register and teacher's certificate are **separate artifacts, not bound in the family photo album**, as an earlier pass of this page implied. They sit alongside the album in Roberta's keeping.)
 
-> *Sources: Mary Bean, [Eesley Family History](/docs/eesley-family-history-1985/); structured record [Dale Eesley / FamilySearch &mdash; Mary O. Timmons (KCCC-MTP)](https://www.familysearch.org/tree/person/details/KCCC-MTP); portrait retraction and incoming-photograph notice from Roberta Burnes, June 2026.*
+## Aunt Mary Bean's research and the manila-paper scrolls
+
+Roberta has also flagged (June 2026) that she now holds **all of Aunt [Mary Eesley Bean](/family/mary-eesley-bean/)'s research, letters, hand-written notes, and correspondence** &mdash; the working materials Mary used to create the [Eesley Family History](/docs/eesley-family-history-1985/). Among them: **rolled-up manila-paper scrolls with penciled-in family-tree notes in neater handwriting than Mary's**, which Roberta suspects may have been **written by Mary's mother &mdash; Lillie Dale Chenoweth herself**. If confirmed by handwriting comparison against Lillie's letters, the scrolls would be the **earliest extant Chenoweth-side family-tree document** in the family's keeping, possibly drafted by the daughter-of-Mary the rest of this page describes.
+
+The scrolls reportedly contain "at least one or two errors" Roberta does not yet remember &mdash; a routine caveat for hand-drawn family trees of that vintage.
+
+> *Sources: Mary Bean, [Eesley Family History](/docs/eesley-family-history-1985/); structured record [Dale Eesley / FamilySearch &mdash; Mary O. Timmons (KCCC-MTP)](https://www.familysearch.org/tree/person/details/KCCC-MTP); portrait retraction and incoming-photograph notice from Roberta Burnes, June 2026; the five-children birth-order roster and the wedding-tintype-pair observation from Roberta's June 2026 email after she received Aunt Mary's research papers.*
+
