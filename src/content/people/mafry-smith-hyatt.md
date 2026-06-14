@@ -23,7 +23,11 @@ The earliest photograph of Mafry in this archive arrived in June 2026 from [Robe
 
 ![Mafry Smith Hyatt with her daughter Marjorie, 1937 (label-confirmed). Marjorie was Mafry's only child. From Roberta Burnes's Chenoweth family album.](../../assets/family/originals/mafry-hyatt-with-daughter-c1930s.jpeg)
 
-Per Roberta's June 2026 confirmation: **the photograph is labeled 1937, and the daughter is Marjorie &mdash; Mafry's only child.** Roberta met Marjorie briefly after Roberta's mother's death; Marjorie helped Roberta identify several other family photographs. The portrait preserves Mafry's young-motherhood phase &mdash; bridging from her [early-1970s ERA-activist years](/family/mafry-smith-hyatt/) and her *"at least once a week"* visits to the Burnes household. (Roberta has noted that many of the original Mafry-and-Ota photographs went to other Burnes siblings; she will check whether the original CD-ROMs the scans went to are still readable.)
+Per Roberta's June 2026 confirmation: **the photograph is labeled 1937, and the daughter is Marjorie.** Roberta met Marjorie briefly after Roberta's mother's death; Marjorie helped Roberta identify several other family photographs.
+
+Mafry had **two children &mdash; Marjorie and Paul.** Per Roberta's later June 2026 correction (after an earlier email mistakenly described Marjorie as Mafry's only child): **Paul** was Mafry's son, *"a sweet man"* who lived for a while with Roberta's mother in Columbus when Helen often rented rooms to people. Paul's life dates and the rest of his biography are open research items.
+
+The 1937 portrait above &mdash; just Mafry with Marjorie &mdash; preserves the young-motherhood phase of her life, bridging from this 1937 moment to her [early-1970s ERA-activist years](/family/mafry-smith-hyatt/) and her *"at least once a week"* visits to the Burnes household. (Roberta has noted that many of the original Mafry-and-Ota photographs went to other Burnes siblings; she will check whether the original CD-ROMs the scans went to are still readable.)
 
 If Mafry was [married in September 1922](/docs/letters/lillie-dale-to-leonard-1922-09-03/) (per Lillie Dale's letter to Len that month, *"I expect Mafry will be married this month"*) and the daughter in this frame is about eight years old, the frame would sit roughly around **1932&ndash;1936** &mdash; about a decade into her marriage. The earlier-than-previously-documented Mafry biography starts here.
 
