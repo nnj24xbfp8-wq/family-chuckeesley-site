@@ -8,12 +8,6 @@ Dear Roberta,
 
 Thank you for the anthurium memory. That detail is gorgeous and went straight into [Stella's page](https://family.chuckeesley.com/family/stella/) — the twelve-year-old Roberta in central Ohio in 1972 seeing them for the first time, and the Chongs reaching across the Pacific from their adopted home to send the flowers Hawaii grew best. It's the kind of specific image the whole archive is built to hold.
 
-A short summary of where the Stella thread stands now:
-
-The page now carries the **most plausible reconstruction** I've been able to piece together with the historical record — that Stella was probably visiting family in Manila in 1940–41 (a Chinese-Hawaiian family with Manila connections wasn't unusual), got caught when Japan invaded December 1941, spent some part of 1942 at the **Santo Tomas Internment Camp** in Manila, and was repatriated to New York on one of the two **MS Gripsholm diplomatic exchange voyages** in 1942 or 1943. From New York she was placed with the Eesleys in Bexley, probably through a church-based refugee-resettlement network — possibly with a personal connection through Lyle's POW circle.
-
-It's clearly labeled as a hypothesis, not a conclusion. Your 1940s letters are the place the answer most likely sits.
-
 A few other discoveries from this week worth flagging:
 
 - **"Flossie" probably solved.** Searching the Chenoweth Family Association's online tree (Egge), Joseph Hill's uncle Joseph had a son Jeremiah whose daughters were **Florence Chenoweth** (b. 1861) and **Flora D. Chenoweth** (b. 1866, died 1922). Both fit Lillie's "possibly a cousin" framing — they'd be her second cousins. The **Flora candidate** is striking because she died the same year as the 1922 letter — if she was failing in early 1922, the September "two weeks home with us" visit would have been an end-of-life one. Both candidates are now noted on [the 1922 letter page](https://family.chuckeesley.com/docs/letters/lillie-dale-to-leonard-1922-09-03/).
