@@ -87,6 +87,52 @@ After the war Stella married **[Dr. Ted Wah Sing Chong](/family/ted-chong/)**, a
 
 She appears in the [family group portrait taken at Charles and Lillie Dale's home in Bexley](/archive/eesley-family-group-portrait-late-1940s/) standing beside Ted, with Uncle Will in front. That photograph and her early death in 1971 bracket roughly twenty-five years of her adult life inside this family. She had been part of the family for close to thirty years when she died.
 
+## The Stella photographs — first major batch, June 2026
+
+Roberta Burnes Walker began sending photographs of Stella in June 2026 &mdash; the first substantial expansion of Stella's visual record in this archive. The first batch contains **six photographs spanning roughly twenty years of her adult life**:
+
+### Stella as a young woman, c. 1942
+
+A relaxed outdoor portrait of Stella sitting on grass in a polka-dot or check-pattern day dress with puffed sleeves. She is **late teens to about twenty**, smiling broadly into the camera, dark hair shoulder-length and curled in the period style. The dress and hair place the frame at **c. 1941-1943** &mdash; almost certainly **the first year or two of her time in the Bexley Eesley household**.
+
+![Stella as a young woman, c. 1942 &mdash; almost certainly during her first year or two with the Eesleys in Bexley. From Roberta Burnes Walker's Eesley family album.](../../assets/family/originals/stella-young-woman-portrait-c1942.jpeg)
+
+### Stella with Charles Leonard on the lawn
+
+A casual snapshot of **Charles Leonard Eesley** sitting on a lawn with his arm around **Stella**, both smiling broadly for the photographer. Stella holds what appears to be a small handful of objects (perhaps eggs or marbles or fruit) in her lap; she is in a white blouse and a floral-print skirt. Charles Leonard, balding and in shirtsleeves and tie, kneels with one leg up. The composition reads as a **chosen-family-grandfather and adopted-granddaughter ease** &mdash; one of the most affectionate images of Charles Leonard and Stella together that the archive will likely ever have. **Late 1940s** by clothing.
+
+![Charles Leonard Eesley with Stella, late 1940s &mdash; the kind of casual chosen-family portrait that is the documentary core of the whole archive's Stella-as-family argument.](../../assets/family/originals/charles-leonard-with-stella-on-grass.jpeg)
+
+### Stella with a friend and Charles Leonard, late 1940s
+
+A three-figure outdoor portrait at the Bexley house: a **second young Chinese-American woman** at left in a floral-print dress, **Charles Leonard** at center in his characteristic fedora and three-piece suit, and **Stella** at right in a dark coat. Both young women have their arms around Charles Leonard's shoulders, and all three are smiling. The other woman is **not identified** &mdash; possibly a Sunn-family relative, a Chong-family connection, or a wartime-evacuated Chinese-American friend Stella brought into the Eesley household.
+
+![Charles Leonard Eesley (center) with Stella (right) and an unidentified young Chinese-American woman (left), late 1940s. From Roberta Burnes Walker's Eesley family album.](../../assets/family/originals/stella-with-friend-and-charles-leonard.jpeg)
+
+### Ted Chong in Navy uniform with Stella, Washington DC, April 1945
+
+A wartime portrait of **Ted Chong in U.S. Navy dress uniform** with Stella beside him in a dark coat with a bow at the collar, standing on a pier or seawall under flowering cherry trees with water behind them. The composition reads strongly as **the Tidal Basin in Washington, D.C., cherry-blossom season** &mdash; an iconic wartime backdrop for servicemembers and their wives or sweethearts. The back of the print is stamped *"KISCO Certified Photo Service, APR 10, 1945."*
+
+![Ted Chong in U.S. Navy dress uniform with Stella at the cherry-blossom-season Tidal Basin in Washington, D.C., dated 10 April 1945 by the photo service stamp on the back.](../../assets/family/originals/ted-chong-navy-with-stella-cherry-blossoms-april-1945.jpeg)
+
+The April 1945 date is significant &mdash; the war in the Pacific would not end for four more months. Ted's Navy service is a **new biographical detail** the archive had not previously carried.
+
+### Stella, Ted, and their two children — formal studio portrait, c. mid-1950s
+
+A formal family-of-four portrait of **Stella, Ted, and their two children** &mdash; **SueLynn** (the older girl, perhaps four or five, in a Chinese-style brocade tunic) and a toddler (perhaps two, possibly **Glenn**) on Stella's lap. Stella wears a **traditional Chinese silk cheongsam (旗袍)**, embroidered with floral motifs; Ted is in a white dinner jacket with a black bow-tie. The setting is a formally-decorated room with elaborate carved-wood paneling and hexagonal stained-glass windows behind &mdash; reading as a **Chinese-restaurant or community-association formal hall** of the mid-1950s.
+
+![Stella, Ted, SueLynn (right), and Glenn (?, left) in a mid-1950s formal portrait at what reads as a Chinese-restaurant or community-association hall. Stella in a brocade cheongsam, Ted in white dinner jacket.](../../assets/family/originals/stella-ted-family-formal-portrait-c1955.jpeg)
+
+### Charles Leonard + Lillie Dale + Stella in Honolulu, 1953 — 50th wedding anniversary
+
+The headline photograph of this batch. **Charles Leonard and Lillie Dale Eesley wearing Hawaiian leis on a ship's deck in Honolulu Harbor**, with Stella standing between them &mdash; **the documentary proof of their 1953 50th-wedding-anniversary trip to Hawaii to visit Stella and Ted**. The back of the print carries a handwritten note by Lillie Dale herself: *"Lilly was wearing this in Honolulu on our 50th wedding anniversary."*
+
+![Charles Leonard and Lillie Dale Eesley with Stella in Honolulu, 1953, on the 50th anniversary of their 1903 marriage. The leis around their necks are the welcome leis given to disembarking passengers in mid-twentieth-century Hawaii.](../../assets/family/originals/charles-leonard-lillie-dale-with-stella-50th-anniversary-honolulu-1953.jpeg)
+
+**The 50th-anniversary trip to Hawaii is a major new fact in this archive.** [Charles Leonard](/family/charles-leonard-eesley/) and [Lillie Dale](/family/lillie-dale-chenoweth/) had married on **9 September 1903 at the Methodist Episcopal Church in Harrisburg, Ohio** &mdash; per the [original engraved wedding invitation](/docs/lillie-dale-charles-leonard-wedding-invitation-1903/) Roberta also shared. Fifty years later, in 1953, they took a ship to Hawaii to celebrate the anniversary **with Stella and Ted** &mdash; the chosen daughter who had come into their household during the war, and her husband. **The Bexley-Honolulu connection that the wartime placement had set in motion was complete enough by 1953 that the anniversary itself was held there.** The flower leis around Charles Leonard's and Lillie Dale's necks would have been the welcome leis Stella and Ted brought to greet them at the pier.
+
+The photograph is one of the most precious single artifacts in the Eesley-side archive &mdash; the visual capstone of [Thread #7 (Showing up)](/docs/family-threads/) and of the whole [Stella narrative](/family/stella/).
+
 > *Sources: [FamilySearch L614-Z2P](https://www.familysearch.org/en/tree/person/L614-Z2P); Ted Chong's published obituary (Burlington County Times, 2013); Aunt Jeanne's oral account (May 2026); July 2019 family email exchange among Chuck, Maggie, Jeanne, and Roberta.*
 
 ## Further reading
