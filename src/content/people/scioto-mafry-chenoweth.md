@@ -12,7 +12,7 @@ generation: 4
 parents:
   - joseph-hill-chenoweth
   - mary-ohio-timmons-chenoweth
-summary: "Sister of Lillie Dale Chenoweth Eesley; Chuck's great-great-aunt on the Chenoweth side. Born 31 August 1871 in Pleasant Township, Franklin County, Ohio; died 9 February 1930 in Columbus, age 58. Named after the Scioto River — the Ohio river-name being a Chenoweth-Timmons family habit (her mother carried 'Ohio' as a middle name, after the state, which itself means 'beautiful river'). Took her medical degree at Otterbein University (per Helen Eesley Burnes's family memory, via Roberta Burnes). Practiced medicine in early-20th-century Ohio; delivered her niece Helen Louise Eesley at home in the Eesley household on 16 January 1924; was involved in early X-ray work that ultimately killed her — chronic abdominal burns and cancer. Used her own dying body as the final anatomy lesson for her nephew Don Eesley in the last year of her life, narrating her body's decline through to her death surrounded by family at the Bexley home on Cassidy Avenue. Married Dr. Lewis Albert Smith of North Brookfield, Massachusetts on 29 December 1898 — he was an MD too. Buried at Otterbein Cemetery, Westerville, the same cemetery as her parents. FamilySearch ID KC9W-VQG."
+summary: "Sister of Lillie Dale Chenoweth Eesley; Chuck's great-great-aunt on the Chenoweth side. Born 31 August 1871 in Pleasant Township, Franklin County, Ohio; died 9 February 1930 in Columbus, age 58 (the AMA's Directory of Deceased American Physicians records 31 December 1929 — see discrepancy note below). Named after the Scioto River — the Ohio river-name being a Chenoweth-Timmons family habit. The AMA's Directory of Deceased American Physicians 1804-1929 documents her MD at the Medical College of Ohio, Cincinnati in 1898 with an Ohio license the same year, practicing allopathic (Western) medicine — surfaced by Roberta Burnes via Ancestry, June 2026, the first documentary confirmation of the 'first women medical doctors' family memory. Married Dr. Lewis Albert Smith of North Brookfield, Massachusetts on 29 December 1898 — he was an MD too — but divorced by 1910 per US census, extraordinarily uncommon for a woman of her era and a clue to the independent spirit her niece Helen and great-niece Roberta both remarked on. Practiced medicine in early-20th-century Ohio; delivered her niece Helen Louise Eesley at home in the Eesley household on 16 January 1924; was involved in early X-ray work that ultimately killed her — chronic abdominal burns and cancer. Used her own dying body as the final anatomy lesson for her nephew Don Eesley in the last year of her life, narrating her body's decline through to her death surrounded by family at the Bexley home on Cassidy Avenue. Buried at Otterbein Cemetery, Westerville, the same cemetery as her parents. FamilySearch ID KC9W-VQG."
 ---
 
 Scioto Mafry Chenoweth was born **31 August 1871 in Pleasant Township, Franklin County, Ohio**, daughter of [Joseph Hill Chenoweth](/family/joseph-hill-chenoweth/) and [Mary O. Timmons Chenoweth](/family/mary-ohio-timmons-chenoweth/), sister of [Lillie Dale Chenoweth Eesley](/family/lillie-dale-chenoweth/) (Chuck's great-grandmother). She is **Chuck's great-great-aunt** &mdash; Lillie Dale's older sister by six years.
@@ -33,11 +33,50 @@ A **second documentary source** &mdash; the typed caption on the [c. 1970s Eesle
 
 **The "Dr." prefix the caption applies to Sciota's name** &mdash; specifically not to her husband &mdash; is the family's confirmation that the *"first women medical doctors"* memory points to **Sciota herself**, not to her husband Lewis Albert Smith. This was the open question on this page until June 2026; the labeled reunion portrait closes it.
 
-So: **Sciota Mafry Chenoweth Smith, MD**. She would have been among the first generation of American women MDs, finishing her training just as Johns Hopkins and other major medical schools were opening to women. Her practice years (after the 1898 marriage through her 1930 death) were the early American women-MD era; her medical-school years would have been the late 1890s in Columbus.
+So: **Sciota Mafry Chenoweth Smith, MD**. She would have been among the first generation of American women MDs, finishing her training just as Johns Hopkins and other major medical schools were opening to women.
 
 Her husband **Dr. Lewis Albert Smith** (b. 6 February 1874, North Brookfield, Worcester, Massachusetts; d. 20 July 1957, Columbus, Ohio) was also an MD &mdash; **a husband-and-wife MD household** in 1898 was itself unusual, particularly with the wife as well as the husband holding the degree.
 
-The structured FamilySearch record still does not carry an occupation field for her, but the family memory and the reunion-portrait caption together establish her as the first-female-MD figure the Chenoweth-Eesley side has carried. **A research-led follow-up at OSU's medical archives, the AMA's directory of physicians, or Ohio physician licensure records of the 1890s&ndash;1900s would surface her medical-license number, the school she graduated from, and the precise dates of her practice.**
+## The "first women medical doctors" claim — documentary confirmation (June 2026)
+
+For most of this page's life the MD claim rested on two soft sources: Maggie Eesley's *Four Generations* deck and the typed caption on the c. 1970s reunion portrait. The earlier version of this page closed with the note: *"A research-led follow-up at OSU's medical archives, the AMA's directory of physicians, or Ohio physician licensure records of the 1890s&ndash;1900s would surface her medical-license number, the school she graduated from, and the precise dates of her practice."*
+
+In June 2026, Roberta Burnes ran exactly that research on Ancestry and surfaced the AMA's **Directory of Deceased American Physicians, 1804-1929** record &mdash; the gold-standard source on 19th-century American physician credentials. Her email:
+
+> *Looks like Ota got her degree at the Medical College of Ohio in Cincinnati in 1898. I also noted in another search that she was divorced at least by 1910, according to the U.S. census. That was pretty amazing for a woman of that time, but it fits with the independent spirit that I saw in her daughter, Mafry.*
+
+The Directory record itself:
+
+> Name: **Ota Mafry Chenoweth**
+> Birth Date: **1871**
+> Death Date: **Dec 31, 1929**
+> Type Practice: **Allopath**
+> Licenses: **OH, 1898**
+> Medical School: **Medical College of Ohio, Cincinnati: Cincinnati Medical College, 1898, (G)**
+> Source: *Directory of Deceased American Physicians, 1804-1929*
+
+So the framework now stands as documentary record, not family memory:
+
+- **Medical School:** the [Medical College of Ohio in Cincinnati](https://en.wikipedia.org/wiki/Medical_College_of_Ohio_at_Cincinnati) (also called Cincinnati Medical College), one of the major 19th-century Ohio medical schools, later absorbed into the University of Cincinnati College of Medicine. Admitting women in the 1890s was progressive for a school of that stature.
+- **Year of degree:** 1898 &mdash; the same year she married Lewis Albert Smith (29 December 1898). She finished her MD and got married in the same calendar year.
+- **License:** Ohio, 1898 &mdash; she was licensed to practice in Ohio from the year of her graduation.
+- **Practice type:** *Allopath* &mdash; she practiced mainstream Western medicine, as distinct from the homeopaths and osteopaths of the same era who were also licensed but worked outside the allopathic tradition.
+
+Helen Eesley Burnes had told Roberta that Ota's degree was at Otterbein University in Westerville. The Directory record points to MCO Cincinnati instead. The most likely reconciliation is that Ota did her undergraduate work at Otterbein (the family's Methodist-affiliated school in Westerville, near where the family lived and where Ota would later be buried) before going to Cincinnati for medical school &mdash; a common 19th-century pattern of separating the bachelor's institution from the medical-degree institution. Helen, as a child, would naturally have heard "Otterbein" as her aunt's school and not separated it from the medical degree itself.
+
+### Death-date discrepancy
+
+The AMA Directory records Ota's death as **31 December 1929**. The FamilySearch structured record, and the family stories Helen passed down to Roberta, record **9 February 1930**. The Directory's title (*1804-1929*) suggests its date cutoff is the end of 1929; the structured FamilySearch sources (likely the death certificate and cemetery records) put her death about six weeks later. Without a death certificate scan to settle the question, both dates are recorded here and the FamilySearch date stands as primary in the page frontmatter.
+
+### Marriage outcome — divorced by 1910
+
+The second documentary discovery is, in some ways, more startling than the MD itself. The 1910 US census records Ota as divorced. She had married Lewis Albert Smith on 29 December 1898; by 1910 the marriage had ended. **Divorce for a woman in 1910 Ohio was extraordinarily uncommon** &mdash; the national divorce rate that year was under 0.1% of the adult female population, and divorce carried real social cost. That Ota was already divorced by 1910 reframes the *husband-and-wife MD household* picture this page previously painted: the marriage was a short chapter, not the structure of her adult life. Her practice years, the X-ray work that killed her, and her death surrounded by her sister Lillie Dale's family in Bexley all happened in the *post-marriage* portion of her life. The "Mrs. Smith" surname she carried for the rest of her life was a vestigial form; her actual household and practice were her own.
+
+This puts the family stories Roberta passed on into different relief. The fact that she came to die at her sister Lillie Dale's Bexley house was not a passing visit &mdash; it was her family of attachment, the people she had built her later life around once her marriage ended. The fact that she spent her last year teaching her nephew Don anatomy and her nieces medicine was not just professional habit; she was without a household of her own, and the Eesley side was the household she chose.
+
+### Two generations of independent women
+
+Roberta's framing &mdash; *"it fits with the independent spirit that I saw in her daughter, Mafry"* &mdash; lights up a two-generation thread the structured records alone don't carry. Ota's daughter [Mafry Smith Hyatt](/family/mafry-smith-hyatt/) was an ERA activist in 1970s Ohio (recorded on her page); Ota herself was an MD in 1898 and divorced by 1910. Mafry would have grown up partially in a household structured around her mother's independence rather than a conventional 1900s marriage. The line of *independent women in this family* runs visibly from Ota → Mafry across two generations on the Chenoweth-Smith side.
 
 ## Her daughter Mafry Smith Hyatt
 
@@ -49,11 +88,11 @@ The earlier version of this page said Mafry was *"the only person in this archiv
 
 Until June 2026 this page carried only the bare framework: the *"first woman MD"* family memory, the husband, the dates. Roberta's email opens Ota's actual practice and the circumstances of her death &mdash; the most substantive layer of Chenoweth-side family history this archive has yet recorded.
 
-### Otterbein medical degree
+### Otterbein and Cincinnati &mdash; the family memory and the AMA record
 
 > *Mom used to say [Ota] received her degree at Otterbein.*
 
-Helen Eesley Burnes (b. 16 January 1924, d. 1 June 2000) told Roberta that her aunt Ota took her medical degree at [Otterbein University](https://www.otterbein.edu) in Westerville, Ohio. (Sciota is also buried at *Otterbein Cemetery* in Westerville &mdash; the cemetery and the university share the same Westerville-Methodist institutional root, and her medical training there is consistent with the burial location her family chose.) Confirming the degree itself through the Otterbein archives would put a specific date and institution on the *"first women medical doctors"* family-memory line that this page has carried since the Maggie Eesley deck.
+Helen Eesley Burnes (b. 16 January 1924, d. 1 June 2000) told Roberta that her aunt Ota took her medical degree at [Otterbein University](https://www.otterbein.edu) in Westerville, Ohio. The AMA's Directory of Deceased American Physicians (above) shows her MD itself was at the Medical College of Ohio in Cincinnati, not Otterbein &mdash; so Otterbein was most likely her undergraduate/pre-medical school, with the MD coming later at MCO Cincinnati. (Sciota is also buried at *Otterbein Cemetery* in Westerville &mdash; the cemetery and the university share the same Westerville-Methodist institutional root, and her undergraduate connection to Otterbein is consistent with the burial location her family chose.)
 
 ### The X-ray work and the burns that killed her
 
@@ -101,6 +140,6 @@ Bringing the dates together: Ota delivered Helen on 16 January 1924, and Helen w
 
 ## Marriage and death
 
-She married **Lewis Albert Smith, MD** on **29 December 1898**, age 27. They settled in Columbus, where they lived out the rest of their lives. She died **9 February 1930 in Columbus**, age 58, predeceasing her husband by twenty-seven years; he died **20 July 1957 in Columbus**, age 83. She is buried at **Otterbein Cemetery, Westerville, Blendon Township, Franklin County, Ohio** &mdash; the same cemetery as her parents Joseph Hill and Mary O. He is buried separately at Mansfield Cemetery, Mansfield, Richland County, Ohio.
+She married **Lewis Albert Smith, MD** on **29 December 1898**, age 27 &mdash; the same year she graduated from the Medical College of Ohio in Cincinnati and was licensed to practice in Ohio. The marriage ended in divorce some time before 1910 (the 1910 US census records her as divorced; see the documentary-confirmation section above). After the marriage ended she remained in Columbus, practicing medicine and increasingly anchored in her sister Lillie Dale's Eesley household in Bexley. She died **9 February 1930 in Columbus**, age 58 (the AMA Directory records 31 December 1929 &mdash; see discrepancy note); Lewis Albert Smith outlived her by twenty-seven years, dying **20 July 1957 in Columbus**, age 83. She is buried at **Otterbein Cemetery, Westerville, Blendon Township, Franklin County, Ohio** &mdash; the same cemetery as her parents Joseph Hill and Mary O. He is buried separately at Mansfield Cemetery, Mansfield, Richland County, Ohio &mdash; in death as in the second half of their lives, the two MDs were apart.
 
-> *Sources: Maggie Eesley, *Four Generations of the Eesley Family* (PowerPoint archive); Roberta Burnes, email June 2026 (Otterbein degree, X-ray burns, the Don anatomy lesson, the Cassidy Avenue death narration, the treatment of Aunt Jean after the car crash). Structured record: [Dale Eesley / FamilySearch &mdash; Scioto Mafry Chenoweth (KC9W-VQG)](https://www.familysearch.org/tree/person/details/KC9W-VQG); husband: [Lewis Albert Smith, MD (L139-RVX)](https://www.familysearch.org/tree/person/details/L139-RVX).*
+> *Sources: Maggie Eesley, *Four Generations of the Eesley Family* (PowerPoint archive); Roberta Burnes, emails June 2026 (Otterbein/Cincinnati degree, X-ray burns, the Don anatomy lesson, the Cassidy Avenue death narration, the treatment of Aunt Jean after the car crash, the AMA Directory record on Ota's MD and the 1910 census divorce finding). Structured records: AMA *Directory of Deceased American Physicians, 1804-1929* (via Ancestry, surfaced June 2026); 1910 US Federal Census, Ohio (marital status: divorced); FamilySearch &mdash; [Scioto Mafry Chenoweth (KC9W-VQG)](https://www.familysearch.org/tree/person/details/KC9W-VQG); husband: [Lewis Albert Smith, MD (L139-RVX)](https://www.familysearch.org/tree/person/details/L139-RVX).*
