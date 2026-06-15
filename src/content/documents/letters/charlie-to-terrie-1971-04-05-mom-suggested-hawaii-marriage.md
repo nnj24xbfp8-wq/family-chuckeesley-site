@@ -18,7 +18,9 @@ dateRange:
   start: "1971-04-05"
 private: false
 summary: "Charlie's letter to Terrie dated 5 April 1971 — two days after the Wildermuth-side parental flare-up about the R&R Hawaii plan. The letter is short, plainly written, and materially shifts the story the archive has been carrying about Peggy McMaster Eesley's role in the propriety dispute. Charlie reports that he has written Terrie's parents, that he plans to call her on the 9th or 10th of April, that the decision on meeting in Hawaii is left up to her, and — critically — that his own mother Peggy has suggested 'we get married in Hawaii and save everyone all the bother.' Charlie's honest response: 'That isn't what I really want although I guess we will be married soon enough.' The Eesley-side mother had proposed a marriage-in-Hawaii solution to the parental-propriety problem. Charlie was holding out, with his standard countdown register: 70 days left in the army, possibly only 40 if rumors are correct."
-source: "Held in family archive — grandmaE1.pdf page 4 (the high-quality scan; gitignored locally). The transcription content is surfaced here."
+source: "Held in family archive — grandmaE1.pdf page 4 (the high-quality scan; gitignored locally). The transcription content is surfaced here. Original handwritten page also scanned as src/assets/family/originals/vietnam-letters/dad16.jpg."
+scans:
+  - ../../../assets/family/originals/vietnam-letters/dad16.jpg
 ---
 
 ## What the letter is

@@ -15,7 +15,9 @@ dateRange:
   start: "1971-03-15"
 private: false
 summary: "Charlie's letter to Terrie dated 15 March 1971 — at the Da Nang rear in the final phase of Operation Lam Son 719, receiving six of Terrie's catch-up letters that had been held during the operation's mail-handling backlog. Domestic late-tour Vietnam register: Terrie's fall semester grades (she got an incomplete on a final), the R&R-hotel situation (not yet booked, suggesting Terrie do it when she arrives in April), Charlie's army-pay status (everything on record in Indianapolis, should have about $2,000 after R&R), the $100 he'll send her on the first, and the $400 he expects to bring on R&R. The framing of *'a few days in country'* in this letter's original draft was an artifact of an earlier dating analysis; Charlie had been deployed since mid-1970 and was in his eleventh month in country by 15 March 1971."
-source: "Held in family archive — grandmaE1.pdf page 12 (gitignored locally; transcribed content surfaced here)."
+source: "Held in family archive — grandmaE1.pdf page 12 (gitignored locally; transcribed content surfaced here). Original handwritten page also scanned as src/assets/family/originals/vietnam-letters/dad15.jpg."
+scans:
+  - ../../../assets/family/originals/vietnam-letters/dad15.jpg
 ---
 
 ## What the letter is

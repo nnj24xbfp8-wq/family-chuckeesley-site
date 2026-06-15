@@ -14,8 +14,11 @@ postmarkDate: "1971-02-04"
 dateRange:
   start: "1971-02-04"
 private: false
-summary: "Charlie's letter to Terrie dated 4 February 1971 — written from Da Nang four days before the launch of Operation Lam Son 719, the U.S.-supported ARVN incursion into Laos that began 8 February 1971. The letter carries the single clearest piece of in-theater foreknowledge in the Vietnam letters corpus: 'The U.S. is really going all out now to win this damn war. Don't be surprised when you hear about Laos being invaded.' Charlie tells Terrie his ETS-extension math now targets 14 June 1971 (150 days remaining), that he expects to be in Da Nang through March, and that the impending Laos operation will delay R&R until April. The letter is contextually paired with the [1 March 1971 letter](/docs/letters/charlie-to-terrie-1971-03-01-lam-son-719/) once Lam Son 719 was in progress."
-source: "Held in family archive — grandmaE1.pdf page 33 (gitignored locally; transcribed content surfaced here)."
+summary: "Charlie's letter to Terrie dated 4 February 1971 — written from Da Nang four days before the launch of Operation Lam Son 719, the U.S.-supported ARVN incursion into Laos that began 8 February 1971. The letter carries the single clearest piece of in-theater foreknowledge in the Vietnam letters corpus: 'The U.S. is really going all out now to win this damn war. Don't be surprised when you hear about Laos being invaded.' Charlie tells Terrie his ETS-extension math now targets 14 June 1971 (130 days remaining), that he expects to be in Da Nang through March, and that the impending Laos operation will delay R&R until April. The letter is contextually paired with the [1 March 1971 letter](/docs/letters/charlie-to-terrie-1971-03-01-lam-son-719/) once Lam Son 719 was in progress."
+source: "Held in family archive — grandmaE1.pdf page 33 (gitignored locally; transcribed content surfaced here). Original handwritten pages also scanned as src/assets/family/originals/vietnam-letters/dad108.jpg (page 1) and dad109.jpg (page 2; duplicate scan dad110.jpg)."
+scans:
+  - ../../../assets/family/originals/vietnam-letters/dad108.jpg
+  - ../../../assets/family/originals/vietnam-letters/dad109.jpg
 ---
 
 ## What the letter is
@@ -46,7 +49,7 @@ Charlie's *"don't be surprised when you hear about Laos being invaded"* is the c
 >
 > As you should know by now I will be here in Da Nang for the next month and maybe even till April 3 but I doubt the latter.
 >
-> I'm going to extend over here so I can get out of the army Jun 14 so if all goes according to plan I now have 150 days left in the army.
+> I'm going to extend over here so I can get out of the army Jun 14 so if all goes according to plan I now have 130 days left in the army.
 >
 > The U.S. is really going all out now to "win" this damn war. Don't be surprised when you hear about Laos being invaded. I hope most of it is over by the time I get back to the field.
 >
@@ -58,7 +61,7 @@ Charlie's *"don't be surprised when you hear about Laos being invaded"* is the c
 
 The line *"I hope most of it is over by the time I get back to the field"* is the practical reading of what the operation meant for him personally: in the field he would have been pulled into supporting operations; in Da Nang he could watch it happen at one remove. He hoped to stay at one remove.
 
-**The 14 June ETS target.** *"I'm going to extend over here so I can get out of the army Jun 14 so if all goes according to plan I now have 150 days left in the army."* This refines the [19 January 1971 ETS-extension strategy](/docs/letters/charlie-to-terrie-1971-01-19-ets-extension/) into a specific target date: 14 June 1971 as the ETS, working backward from 150 days remaining at the time of writing. The extension would push his discharge from the normal late-March 1971 to mid-June 1971 &mdash; the cost of the strategy that let him discharge directly from Vietnam rather than do stateside garrison duty.
+**The 14 June ETS target.** *"I'm going to extend over here so I can get out of the army Jun 14 so if all goes according to plan I now have 130 days left in the army."* This refines the [19 January 1971 ETS-extension strategy](/docs/letters/charlie-to-terrie-1971-01-19-ets-extension/) into a specific target date: 14 June 1971 as the ETS, working backward from 130 days remaining at the time of writing. The extension would push his discharge from the normal late-March 1971 to mid-June 1971 &mdash; the cost of the strategy that let him discharge directly from Vietnam rather than do stateside garrison duty.
 
 **R&R delayed to April.** *"This will delay R&R till April or so. When is your spring break?"* Charlie was reconciling himself to the fact that the impending Laos operation would push his R&R from its previously-planned March window into April or later. He asks Terrie about her spring break &mdash; the suggestion being that they might align an R&R with her time off if she was free in April. The note that he doesn't yet know when her spring break is points to how spread-out the planning had become with him in Da Nang and her on the Maryland campus.
 

@@ -13,11 +13,9 @@ locationTo: "Maryland (University of Maryland, College Park)"
 postmarkDate: "1971-05-29"
 dateRange:
   start: "1971-05-29"
-private: false
+private: true
 summary: "Charlie's letter to Terrie dated 29 May 1971 — written just after a stand-down or in-country trip to Saigon, with seventeen days remaining until the Hawaii R&R rendezvous that the 22 March letter had begun coordinating. He is teasing about her semester-end finals, planning the trip in detail again, and writing about wanting to see her. One of the immediately-pre-R&R letters in the corpus."
-source: "Held in family archive — src/assets/family/originals/vietnam-letters/dad21.jpg."
-scans:
-  - ../../../assets/family/originals/vietnam-letters/dad21.jpg
+source: "Held in family archive — src/assets/family/originals/vietnam-letters/dad21.jpg (duplicate scan dad102.jpg). Body and scans withheld from the public site at the family's discretion; retained here for the family record."
 ---
 
 ## What the letter is

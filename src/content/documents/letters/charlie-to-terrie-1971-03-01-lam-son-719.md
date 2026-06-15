@@ -15,7 +15,9 @@ dateRange:
   start: "1971-03-01"
 private: false
 summary: "Charlie's typed letter to Terrie dated 1 March 1971 — three weeks into Operation Lam Son 719, the ARVN incursion into Laos that he had warned Terrie was coming in the [4 February 1971 letter](/docs/letters/charlie-to-terrie-1971-02-04-laos-fore-warning/). Most of his unit has moved up to Quang Tri to support the operation; Charlie has been left in Da Nang to pull CQ in an air-conditioned office, which he calls a quiet slack day, and which is what lets him type the letter. The substantive content is the war-commentary: 'It seems that the damn army is going for broke on this campaign that is now in progress. A lot of guys are going to get killed. I'm really glad that I'm out of the field.' He doubts Hawaii R&R will happen, proposes Cape Hatteras, North Carolina as the post-tour alternative, asks about Terrie's Shakespeare grade, and notes that with 105 days to go, the end is in sight."
-source: "Held in family archive — grandmaE1.pdf page 28 (gitignored locally; transcribed content surfaced here)."
+source: "Held in family archive — grandmaE1.pdf page 28 (gitignored locally; transcribed content surfaced here). Original typed page also scanned as src/assets/family/originals/vietnam-letters/dad22.jpg."
+scans:
+  - ../../../assets/family/originals/vietnam-letters/dad22.jpg
 ---
 
 ## What the letter is
