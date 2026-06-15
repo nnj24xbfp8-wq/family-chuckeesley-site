@@ -42,3 +42,11 @@ The GEDCOM dates (1921–1925, age 4) and the reunion-portrait caption (1926–1
 **The date this page carries in its frontmatter remains 28 October 1921 (GEDCOM)** as the most-cited single source, but with the explicit caveat that the year is not settled — the actual birth-year may be in either the 1921 or the 1926 window. A definitive death-certificate scan from the Franklin County, Ohio probate records would close the question.
 
 She is the predeceased sister Will's 1986 obituary refers to.
+
+## The toddler-in-overalls photograph — possible Helen, not Jean (June 2026)
+
+For many years, a photograph Roberta Burnes had printed in high school from negatives in her mother Helen's papers was held by the family as **the only known solo photograph of Jean**. The full negative shows two figures: a standing toddler in dark overalls (originally identified as Jean) and, to one side, **Aunt Mary Eesley Bean holding a baby** (originally identified as Helen).
+
+In **June 2026** Roberta reconsidered: *"I think I am wrong about that photo of Jean. I think that's my mom. I keep getting different dates for Jean."* If Jean's birth year is closer to **1926** than to the GEDCOM's 1921, then she wouldn't have been born yet when Helen was an infant &mdash; making the older standing toddler in the photograph more likely to be **Helen** than Jean.
+
+The photograph and the open re-identification are on **[Helen's page](/family/helen-burnes/)**. As of June 2026, **this archive holds no confirmed solo photograph of Jean Goldie Eesley** &mdash; the toddler photo is the closest, but its identification is now open.
