@@ -18,10 +18,13 @@ Diveable wildlife the Similans are known for includes whale sharks (occasionally
 
 The park is closed half the year (May through mid-October) for the southwest monsoon. **The standard liveaboard season runs roughly 15 October through 15 May.**
 
-## Chuck and Lijie's trip(s)
+## The trip &mdash; December 2023 liveaboard
 
-Chuck and Lijie have made the Similan trip on at least one liveaboard. The **specific dates, operator, itinerary, photographs, and video are pending** &mdash; this entry is a stub anchor until those holdings are surfaced.
+Chuck and Lijie's December 2023 Similan Islands liveaboard. Five-minute YouTube recap:
 
-When the visual record lands, the entry will be expanded with the route through dive sites (the standard liveaboard runs Koh Bon, Koh Tachai, Richelieu Rock, and the southern Similans across 4-6 nights), the wildlife seen on the actual dives, and the photographs and any videos kept.
-
-> *Stub entry &mdash; awaiting photographs and trip-specific records.*
+<div class="not-prose my-8 max-w-2xl mx-auto">
+  <div class="relative" style="padding-top: 56.25%">
+    <iframe class="absolute inset-0 w-full h-full" src="https://www.youtube.com/embed/lbRc6fp2K-Y" title="2023 Thailand Similan Islands scuba liveaboard" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </div>
+  <p class="text-sm text-ink/60 italic text-center mt-2">Direct link: <a href="https://youtu.be/lbRc6fp2K-Y">youtu.be/lbRc6fp2K-Y</a></p>
+</div>
