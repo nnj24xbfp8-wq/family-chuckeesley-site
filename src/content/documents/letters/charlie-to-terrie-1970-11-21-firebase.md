@@ -24,6 +24,18 @@ scans:
 
 21 November 1970. Charlie has been pulled out of Cam Ranh Bay after his September malaria recovery and is back forward in I Corps, on a firebase in the lowlands. The rain has lifted for two days; the clouds are still in. He will go back to the field in two days. Back in Marietta, his family and Terrie are talking about whether he might come home for a two-week Christmas leave.
 
+<aside class="not-prose my-8 border-l-4 border-amber-700 bg-amber-50/60 dark:bg-amber-950/20 px-6 py-5 rounded-r">
+
+**What C Co, 1-506 was doing on 21 November 1970**
+
+C Co had moved to **Firebase Tomahawk** on 26 November (so on 21 November the company was likely in transition between Firebase Birmingham, which it left 30 October, and Tomahawk) &mdash; a firebase south of Phu Loc district in Thua Thien Province, in the southern I Corps lowlands. The base had been the scene of major fighting in June 1970 (2/327 Infantry took the brunt of a coordinated mortar/ground attack), but by late November it was security-and-patrol operations under **Operation Jefferson Glenn**'s defensive interdiction mandate.
+
+The **I Corps northeast monsoon was at peak** &mdash; November and December are the wettest months in Thua Thien. Charlie's *"the rain has lifted for two days; the clouds are still in"* matches the climatic reality of patrol life during monsoon: brief windows of dryness between sustained heavy rainfall, water-saturated jungle, helicopter movement constrained by ceilings.
+
+*Sources: [charlie1-506.com firebase rotation table](http://www.charlie1-506.com/html/pages%20from%20main%20nav/when_where.html); [Wikipedia: Operation Jefferson Glenn](https://en.wikipedia.org/wiki/Operation_Jefferson_Glenn).*
+
+</aside>
+
 ## Transcription
 
 > *Nov 21*

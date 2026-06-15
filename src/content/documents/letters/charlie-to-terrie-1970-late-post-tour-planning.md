@@ -26,6 +26,16 @@ scans:
 
 **Late 1970.** Charlie is in the back-half of his tour. The field references have thinned. The letter is about **what comes next**: two weeks at home in Marietta when he rotates back, then either a new job or a return to **Sears** (the retailer he had worked at before the Army), then — if Terrie can get a summer 1971 position in **Washington, D.C.** — the two of them living together and saving money toward whatever the post-college life is going to be. He notes that retailing isn't bad as a starter, that his only real dream is **to go into business for himself**, and that August looks like the realistic month for the next chapter.
 
+<aside class="not-prose my-8 border-l-4 border-amber-700 bg-amber-50/60 dark:bg-amber-950/20 px-6 py-5 rounded-r">
+
+**What 1-506 was doing in October&ndash;December 1970**
+
+Operation Jefferson Glenn (5 September 1970 &ndash; 8 October 1971, the last major US ground operation of the war) was the framing operation for this period &mdash; defensive interdiction of NVA infiltration and rocket-belt protection of the Hue and Da Nang populated lowlands. C Co cycled through Firebase Birmingham (19&ndash;30 October), Firebase Tomahawk (26 November &ndash; 16 December), and was repositioning between firebases at year-end. The Vietnamization drawdown was visible at the unit level: the 101st had been told its full division stand-down would come by mid-1972, and Charlie's *"two weeks at home in Marietta when he rotates back"* timing is the post-Vietnamization version of personal post-tour planning.
+
+*Sources: [Wikipedia: Operation Jefferson Glenn](https://en.wikipedia.org/wiki/Operation_Jefferson_Glenn); [charlie1-506.com firebase rotation table](http://www.charlie1-506.com/html/pages%20from%20main%20nav/when_where.html).*
+
+</aside>
+
 The post-Vietnam Charlie of this letter is recognizably the man Chuck eulogized in 2015: the dry-but-realistic voice, the early thinking about self-employment that would eventually take the shape of the financial-services career, the assumption that any future would be a future *with Terrie*. The Vietnam tour has not yet ended, but the letter is already living past it.
 
 ## Why this letter is private

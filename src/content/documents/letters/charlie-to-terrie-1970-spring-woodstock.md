@@ -25,6 +25,18 @@ scans:
 
 **Spring 1970.** Somewhere in his Vietnam routine, Charlie has watched the **documentary *Woodstock*** — released by Warner Bros. on **26 March 1970**, directed by Michael Wadleigh, three hours and four minutes, an Academy Award winner that year for Best Documentary Feature. The film captured the **Woodstock Music & Art Fair** held over three days in August 1969 in Bethel, New York, while Charlie was finishing his Marietta College degree and starting through Army training. By the time he saw the film, he was halfway across the world in the war his generation was protesting from the festival's mud.
 
+<aside class="not-prose my-8 border-l-4 border-amber-700 bg-amber-50/60 dark:bg-amber-950/20 px-6 py-5 rounded-r">
+
+**What 1-506 was doing in spring 1970**
+
+Spring 1970 covers the closing of **Operation Randolph Glen** (ended 31 March 1970) and the opening of **Operation Texas Star** (1 April &ndash; 5 September 1970) &mdash; the offensive against PAVN base areas in the A Sh&#7847;u Valley. **1 April 1970: 1-506 elements assaulted into Firebase Ripcord; 7 KIA on insertion.** C Co cycled through Firebase Maureen (2&ndash;16 April), Rakkasan (25 April &ndash; 24 May), and arrived at Firebase Ripcord on 5 June for the 23-day siege.
+
+Film screenings of *Woodstock* would have been organized through the **101st Abn Division Special Services** or **USO** at rear-area facilities &mdash; Camp Eagle, Phu Bai, Da Nang, or Cam Ranh Bay. The film would have reached overseas film circuits in May or June 1970, weeks after its 26 March CONUS release.
+
+*Sources: [Wikipedia: Operation Texas Star](https://en.wikipedia.org/wiki/Operation_Texas_Star); [charlie1-506.com firebase rotation table](http://www.charlie1-506.com/html/pages%20from%20main%20nav/when_where.html).*
+
+</aside>
+
 He noted it on the back page of a letter, in clearer ballpoint than the surrounding paragraphs: ***"I saw the movie Woodstock today. Quite interesting!!"***
 
 ## Why this letter is private

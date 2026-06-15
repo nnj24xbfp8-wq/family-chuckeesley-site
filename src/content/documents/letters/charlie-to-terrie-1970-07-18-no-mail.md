@@ -22,6 +22,18 @@ source: "Held in family archive — grandmaE1.pdf page 335 (gitignored locally; 
 
 18 July 1970. Charlie writes Terrie a short, angry letter from somewhere in the I Corps field, mid-tour. He has just been resupplied by helicopter for another seven days in the bush; mail caught up with the resupply and he had letters from five different people but nothing from her; the captain has decided the unit is not coming in. The letter is short, blunt, and has a register Charlie does not often let himself write in. It is one of the small honest moments in the corpus.
 
+<aside class="not-prose my-8 border-l-4 border-amber-700 bg-amber-50/60 dark:bg-amber-950/20 px-6 py-5 rounded-r">
+
+**What C Co, 1-506 was doing on 18 July 1970**
+
+Charlie's company was on **Firebase Ripcord, day 18 of the 23-day siege**. A few hours before this letter was written or on the day itself, **a CH-47C Chinook helicopter resupplying the firebase was shot down and crashed into the ammo pad** &mdash; killing 4, destroying 6 howitzers, and detonating 2,238 rounds of 105mm artillery ammunition. The firebase was burning. Within five days &mdash; **23 July 1970** &mdash; C Co would evacuate Ripcord under fire, the firebase abandoned, LTC Andre Lucas killed in the withdrawal (Medal of Honor).
+
+The *"gung-ho captain won't let us go in"* line is the small unit-level expression of the larger operational reality: the army was running short-rotation push-out operations from the surrounding bases to support Ripcord, and infantry companies stayed in the field longer than usual to maintain the security perimeter. The *"7 more days of drudgery"* would have run nearly to the actual evacuation date. The packages Charlie *"can't get to"* were stacked at Camp Evans (1-506 battalion HQ at Phong &Ecirc;i&#7873;n district, 25 km NW of Hu&#7871;) waiting for him to rotate back.
+
+*Sources: [charlie1-506.com firebase rotation table](http://www.charlie1-506.com/html/pages%20from%20main%20nav/when_where.html); Keith W. Nolan, *Ripcord: Screaming Eagles Under Siege, Vietnam 1970* (Presidio, 2000); [Wikipedia: Battle of Fire Support Base Ripcord](https://en.wikipedia.org/wiki/Battle_of_Fire_Support_Base_Ripcord).*
+
+</aside>
+
 ## Transcription
 
 > *18 July*

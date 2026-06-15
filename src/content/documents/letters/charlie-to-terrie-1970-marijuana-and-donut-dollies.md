@@ -25,6 +25,18 @@ Late 1970 or very early 1971. Charlie writes Terrie what is, by any measure, the
 
 It is Charlie writing about the culture he was inside &mdash; not the war as policy, and not his own days, but **the social fabric of soldiers in I Corps at the end of 1970**.
 
+<aside class="not-prose my-8 border-l-4 border-amber-700 bg-amber-50/60 dark:bg-amber-950/20 px-6 py-5 rounded-r">
+
+**What 1-506 was doing in late December 1970 / early January 1971**
+
+C Co was on **Firebase Tomahawk** until 16 December 1970, then in transition, then on **Firebase Bastogne** from 4 January 1971. The *"Christmas and New Year's flares"* Charlie references are the Allied-side tradition of firing flare and signal rounds at midnight during ceasefires &mdash; both as celebration and to signal continued vigilance. The 101st Abn was in the operational lull between the November Tomahawk rotation and the January Lam Son 719 buildup; firebases were running routine perimeter security with reduced patrol tempo, which gave time and rear-area access for the social culture Charlie describes.
+
+The marijuana economy &mdash; **traded through the firebase wire from Vietnamese kids in exchange for cigarettes** &mdash; was a documented late-Vietnam-era pattern; by 1970&ndash;71 marijuana use in US units was widespread enough that the army began ramping up urinalysis testing in 1971. The Red Cross **Donut Dollies** (Supplemental Recreational Activities Overseas program) were college-educated women aged 21&ndash;25 who rotated through US units doing morale support.
+
+*Sources: [charlie1-506.com firebase rotation table](http://www.charlie1-506.com/html/pages%20from%20main%20nav/when_where.html); [Wikipedia: Donut Dollies](https://en.wikipedia.org/wiki/Donut_Dollies).*
+
+</aside>
+
 ## Transcription
 
 > *&hellip; a lot of flares &mdash; It should get pretty noisy around &hellip; til as it was noisy on Xmas and New Year's. They lit up the sky with flares.*

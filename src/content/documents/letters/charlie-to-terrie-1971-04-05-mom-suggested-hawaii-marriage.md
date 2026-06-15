@@ -11,7 +11,7 @@ people:
   - dorothy-davis-wildermuth
   - robert-earl-wildermuth
 partOf: letters-from-vietnam
-locationFrom: "Saigon, Vietnam"
+locationFrom: "Vietnam (Firebase Fury area, 1-506 — last day before company rotation off Fury)"
 locationTo: "Maryland (University of Maryland, College Park)"
 postmarkDate: "1971-04-05"
 dateRange:
@@ -23,7 +23,17 @@ source: "Held in family archive — grandmaE1.pdf page 4 (the high-quality scan;
 
 ## What the letter is
 
-5 April 1971. Two days after the [parental-propriety flare-up of 2&ndash;3 April 1970](/docs/letters/charlie-to-terrie-1971-04-02-parents-against-hawaii/) &mdash; the Wildermuth-side objection to Terrie meeting her unmarried boyfriend in Honolulu for a week in a hotel &mdash; Charlie writes a short, plain letter. The April 2-3 letter had recorded the conflict. This one records his **Eesley-side mother's proposed solution**.
+5 April 1971. Two days after the [parental-propriety flare-up of 2&ndash;3 April 1971](/docs/letters/charlie-to-terrie-1971-04-02-parents-against-hawaii/) &mdash; the Wildermuth-side objection to Terrie meeting her unmarried boyfriend in Honolulu for a week in a hotel &mdash; Charlie writes a short, plain letter. The April 2-3 letter had recorded the conflict. This one records his **Eesley-side mother's proposed solution**.
+
+<aside class="not-prose my-8 border-l-4 border-amber-700 bg-amber-50/60 dark:bg-amber-950/20 px-6 py-5 rounded-r">
+
+**What C Co, 1-506 was doing on 5 April 1971**
+
+Last full day on **Firebase Fury** for C Co (the company would leave 6 April). The post-Lam-Son operational tempo was at its lowest of the spring; Jefferson Glenn was running routine patrol and security. The R&R window of 12&ndash;19 April was eight days away.
+
+*Sources: [charlie1-506.com firebase rotation table](http://www.charlie1-506.com/html/pages%20from%20main%20nav/when_where.html).*
+
+</aside>
 
 ## Transcription
 

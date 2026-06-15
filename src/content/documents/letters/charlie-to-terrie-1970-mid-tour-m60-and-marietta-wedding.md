@@ -25,6 +25,18 @@ source: "Held in family archive — grandmaE1.pdf page 345 (gitignored locally; 
 
 Mid-1970. Charlie writes Terrie from the field after some rough days &mdash; *"no contact"* with the enemy, going through the jungle, ending a three-week dry spell that has just broken with rain. He carries on the same sheet two future-shaping pieces of content: the **M-60 machine gun** rotation he has just been handed, and the first written sentence of the **Marietta wedding planning** that would land thirteen months later.
 
+<aside class="not-prose my-8 border-l-4 border-amber-700 bg-amber-50/60 dark:bg-amber-950/20 px-6 py-5 rounded-r">
+
+**What C Co, 1-506 was doing in mid-summer 1970**
+
+The mid-July to mid-August 1970 window covers the **end of the Ripcord siege (evacuation 23 July) and the immediate post-siege regrouping**. C Co was on Ripcord through 23 July, then on **Firebase Veghel from 4 August**. The *"3-week dry spell"* that has just broken is consistent with the late-summer transition from the I Corps dry season into the early shoulder of the northeast monsoon &mdash; or with the **"3 week" period from siege evacuation through 4 August regrouping**.
+
+The **M-60 machine gun** &mdash; the 25-pound general-purpose machine gun standard in infantry rifle squads &mdash; was rotated through squad members; Charlie's *"I haven't used it and hope I never do"* is the standard sentence of a draftee rifleman handed the gun in late summer 1970 after the siege had thinned the company.
+
+*Sources: [charlie1-506.com firebase rotation table](http://www.charlie1-506.com/html/pages%20from%20main%20nav/when_where.html); [Wikipedia: M60 machine gun](https://en.wikipedia.org/wiki/M60_machine_gun).*
+
+</aside>
+
 ## Transcription (mid-letter; opening and closing pages not yet sampled)
 
 > *We have had some rough days lately (no contact) going through the jungle. It has been raining lately after about a 3 week dry spell.*

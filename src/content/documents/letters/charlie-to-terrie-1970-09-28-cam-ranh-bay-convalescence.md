@@ -24,6 +24,18 @@ scans:
 
 28 September 1970. Seven days after the [21 September hospital admission letter](/docs/letters/charlie-to-terrie-1970-09-21-malaria-hospital/), Charlie has been transferred to the **U.S. military convalescence center at Cam Ranh Bay**. He writes on the same American National Red Cross stationery, with the same logo across the top of the cream sheet. The voice is steadier than the hospital letter &mdash; he is no longer freshly admitted and depressed; he is stretched out on a recovery cot at a base with a beach.
 
+<aside class="not-prose my-8 border-l-4 border-amber-700 bg-amber-50/60 dark:bg-amber-950/20 px-6 py-5 rounded-r">
+
+**Where Charlie was: the 6th Convalescent Center at Cam Ranh Bay**
+
+The **6th Convalescent Center** was a 1,500-bed facility on the beach side of the Cam Ranh Bay logistics base, opened in 1966 to take stabilised wounded and sick soldiers off the high-acuity evacuation hospitals. **In 1970, 50&ndash;65% of admissions were malaria cases** &mdash; the dominant medical problem in I Corps. The standard course for vivax malaria was 2&ndash;4 weeks of bed rest, fluids, and antimalarial completion. Charlie's *"a beach and a movie every night"* matches the facility's known recreation program.
+
+Meanwhile his company &mdash; C Co, 1-506 &mdash; left Firebase Arsenal on 29 September and was rotating back into Operation Jefferson Glenn's rocket-belt patrols. Charlie's *"it isn't raining steadily here yet but I guess it is where my company is"* notes the climatic gap: Cam Ranh on the south-central coast was outside the I Corps monsoon belt that was already starting to soak Thua Thien Province (the **northeast monsoon ran roughly October through March in I Corps**, with peak rainfall in November).
+
+*Sources: AMEDD Center of History & Heritage, *[Medical Support of the U.S. Army in Vietnam](https://achh.army.mil/history/book-vietnam-medicalsupport-chapter2/)*; [charlie1-506.com firebase rotation table](http://www.charlie1-506.com/html/pages%20from%20main%20nav/when_where.html); [Wikipedia: Operation Jefferson Glenn](https://en.wikipedia.org/wiki/Operation_Jefferson_Glenn).*
+
+</aside>
+
 ## Where Cam Ranh Bay was
 
 **Cam Ranh Bay** was the principal U.S. logistics base on the south-central Vietnamese coast, occupying a deep natural harbor about 180 miles northeast of Saigon. It hosted the **6th Convalescent Center**, opened in 1966 specifically to take stabilised wounded and sick soldiers off the high-acuity evacuation hospitals so they could recover without occupying a hospital bed needed for new admissions. By 1970 the 6th Convalescent Center was a 1,500-bed facility on the beach side of the base, with beach access, recreation, and a movie program. Malaria patients with the "vivax" diagnosis Charlie names in his hospital letter were a common population at the center &mdash; the convalescent period for vivax was typically two to four weeks of bed rest, fluid, and antimalarial completion.

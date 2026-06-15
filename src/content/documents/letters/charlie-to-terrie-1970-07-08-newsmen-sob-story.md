@@ -23,6 +23,18 @@ source: "Held in family archive — grandmaE1.pdf pages 319-320 (gitignored loca
 
 A multi-day letter running roughly 8-12 July 1970 &mdash; Charlie at the two-month mark in country, in a field rotation he is growing to hate, with three substantive pieces of content that the rest of the corpus does not carry.
 
+<aside class="not-prose my-8 border-l-4 border-amber-700 bg-amber-50/60 dark:bg-amber-950/20 px-6 py-5 rounded-r">
+
+**What C Co, 1-506 was doing on 8&ndash;12 July 1970**
+
+Charlie's company was on **Firebase Ripcord, day 8 to day 12 of the open siege**. The Battle of Firebase Ripcord (1&ndash;23 July 1970) is the last major US ground confrontation of the Vietnam War &mdash; PAVN battalions had encircled the 700-meter mountain firebase 30 km west of Hu&#7871; and were hitting it with mortars, rockets, and ground probes day and night. By **18 July a CH-47C Chinook would be shot down on the ammo pad, destroying 6 howitzers and 2,238 rounds of 105mm**. By **23 July the firebase would be abandoned under fire**, LTC Andre Lucas killed (Medal of Honor), 75 US KIA over the 23 days. C Co was on the firebase the entire siege and evacuated with it.
+
+The *"field rotation he is growing to hate"* Charlie writes about &mdash; reduced rations, no fresh resupply &mdash; isn't a routine field rotation at all. It is **day 8 of the siege of Ripcord**, an artillery firebase the army did not yet acknowledge to the press was about to be evacuated. The newsmen-press-strategy line *"I'll give one of them my sob story and see if I can't sway public opinion"* sits inside that operational reality: Charlie was on a firebase the war had largely written off, and he was looking at the four-newsman visit as a chance to put his individual story into the wartime press cycle from inside the situation.
+
+*Sources: [charlie1-506.com firebase rotation table](http://www.charlie1-506.com/html/pages%20from%20main%20nav/when_where.html) (C Co on Ripcord 5 Jun&ndash;23 Jul 1970); Keith W. Nolan, *Ripcord: Screaming Eagles Under Siege, Vietnam 1970* (Presidio, 2000); [Wikipedia: Battle of Fire Support Base Ripcord](https://en.wikipedia.org/wiki/Battle_of_Fire_Support_Base_Ripcord).*
+
+</aside>
+
 ## Transcription (extracted from the surviving sheets)
 
 > *&hellip; for several months so don't stay up waiting.*

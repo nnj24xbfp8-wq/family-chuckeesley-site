@@ -22,6 +22,18 @@ source: "Held in family archive — grandmaE1.pdf page 90 (gitignored locally; t
 
 29 March 1971. **Four days after [Operation Lam Son 719](/docs/letters/charlie-to-terrie-1971-03-01-lam-son-719/) closed** (25 March 1971), Charlie writes a brief practical letter telling Terrie the Hawaii R&R window is locked in: arrival 12 April, departure 19 April. The [1 March letter](/docs/letters/charlie-to-terrie-1971-03-01-lam-son-719/) had been doubting whether the R&R would happen at all. The [4 February letter](/docs/letters/charlie-to-terrie-1971-02-04-laos-fore-warning/) had projected an April-or-so window. By 29 March, with Lam Son 719 over and the I Corps operational tempo dropping back, the trip could be booked.
 
+<aside class="not-prose my-8 border-l-4 border-amber-700 bg-amber-50/60 dark:bg-amber-950/20 px-6 py-5 rounded-r">
+
+**What C Co, 1-506 was doing on 29 March 1971**
+
+**C Co arrived at Firebase Fury (grid YC 534846, southern Thua Thien Province)** on this exact date. Fury was a 101st Abn firebase further south than the usual 1-506 AO &mdash; the redeployment suggests the army was concentrating remaining 1-506 elements on the Operation Jefferson Glenn rocket-belt mission as Lam Son 719 closed and helicopter and ground assets repositioned south from Quang Tri.
+
+The leave embargo had lifted with Lam Son 719 closing four days earlier; R&R requests held through February were now clearing. Charlie's 12&ndash;19 April Hawaii window fell into the first round of cleared bookings.
+
+*Sources: [charlie1-506.com firebase rotation table](http://www.charlie1-506.com/html/pages%20from%20main%20nav/when_where.html) (C Co arrived FB Fury 29 March 1971); [Wikipedia: Operation Jefferson Glenn](https://en.wikipedia.org/wiki/Operation_Jefferson_Glenn).*
+
+</aside>
+
 Per Chuck (June 2026), this is the **one Hawaii meet-up** of the whole tour. Charlie may have had a solo 1970 R&R somewhere (Bangkok, Sydney, Tokyo, or in-country) but the one extended time with Terrie was this April 1971 trip. The spring "1970" Hawaii letters &mdash; the [March 15 catch-up letters](/docs/letters/charlie-to-terrie-1971-03-15/), the [22 March R&R orders](/docs/letters/charlie-to-terrie-1971-03-22/), the [31 March R&R planning](/docs/letters/charlie-to-terrie-1971-03-31-rr-planning/), the [April 2-3 parental conflict](/docs/letters/charlie-to-terrie-1971-04-02-parents-against-hawaii/), [April 5 Peggy-suggested marriage](/docs/letters/charlie-to-terrie-1971-04-05-mom-suggested-hawaii-marriage/), and [29 May 17-days-left](/docs/letters/charlie-to-terrie-1971-05-29/) &mdash; are all part of the long spring-1971 lead-up to and aftermath of this trip, not a separate 1970 plan as the archive had previously framed them.
 
 ## Transcription

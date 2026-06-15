@@ -24,6 +24,16 @@ scans:
 
 14 December 1970. Charlie writes Terrie at the University of Maryland from a rear-area Vietnam base — presumably Da Nang, given the late-tour timing and the consistent place references in the surrounding letters. The letter follows up on a seven-minute phone call he had made two days earlier (Sunday evening Maryland time), and is the kind of steady, dry, mostly-administrative letter that the rear-area part of the tour produced.
 
+<aside class="not-prose my-8 border-l-4 border-amber-700 bg-amber-50/60 dark:bg-amber-950/20 px-6 py-5 rounded-r">
+
+**What C Co, 1-506 was doing on 14 December 1970**
+
+C Co was on **Firebase Tomahawk** (26 November &ndash; 16 December 1970) &mdash; a routine late-1970 firebase rotation under Operation Jefferson Glenn. Charlie himself appears to have rotated back from the firebase to the rear area &mdash; his *"this place hasn't been hit for over a year at least... I've been into the city only once and even it is quite safe"* is consistent with the Phu Bai / Camp Eagle / Da Nang rear cantonment, not the forward firebase. **The MARS (Military Affiliate Radio System) phone-call infrastructure was concentrated at rear bases**, particularly at Da Nang &mdash; ham radio operators in the US patched soldiers' radio calls to AT&T landlines for the family side, charged at long-distance rates. The seven-minute, ~$23 call Charlie made would have been arranged through a rear-area MARS station.
+
+*Sources: [charlie1-506.com firebase rotation table](http://www.charlie1-506.com/html/pages%20from%20main%20nav/when_where.html); [Wikipedia: Military Affiliate Radio System](https://en.wikipedia.org/wiki/Military_Auxiliary_Radio_System).*
+
+</aside>
+
 ## The phone call
 
 > *"As you know I called you today. It was probably Sunday evening to you. Actually I'm very safe here. This place hasn't been hit for over a year at least. I've been into the city only once and even it is quite safe. The highways aren't really very safe primarily because everyone drives like a maniac."*

@@ -1,6 +1,6 @@
 ---
 title: "Letter to Terrie, 22 June 1970"
-teaser: "Field letter, June 1971: first contact action ('really weird'), twelve letters at mail call but only one from Terrie, the army's 50% savings program he was banking on."
+teaser: "Field letter, June 1970: first contact action ('really weird'), twelve letters at mail call but only one from Terrie, the army's 50% savings program he was banking on."
 type: letter
 author: charles-eesley
 recipient: terrie-lee-eesley
@@ -25,9 +25,21 @@ scans:
 
 **Dated 22 June 1970** &mdash; the year confirmed by Chuck in 2026 from the family archive. Charlie writes Terrie a quick note from the field as an unscheduled helicopter is coming out; this is the kind of operational detail that doesn't appear in the eulogy and only appears in the letters. The last two days have been **"hectic"**: *"We ran into our first action. No one was hurt and it is really weird. You can only see 15 feet ahead through the brush. I was close but wasn't really in it."*
 
-The June 1971 date places this letter in the period when the **101st Airborne Division** &mdash; the unit whose Screaming Eagle patch Charlie wears on his right shoulder in the [Vietnam club photograph](/archive/charlie-eesley-vietnam-club/) &mdash; was operating in I Corps, the northern military region of South Vietnam, with major bases at Phu Bai and Camp Eagle near Hu&#7871;. The "first action" he describes &mdash; brush so thick you could only see fifteen feet ahead, no one hurt, his calm understatement that it was "really weird" &mdash; is consistent with the kind of contact engagement that an infantry or air-mobile unit would have routinely had in the mountain and jungle terrain south and west of Hu&#7871; in summer 1970.
+<aside class="not-prose my-8 border-l-4 border-amber-700 bg-amber-50/60 dark:bg-amber-950/20 px-6 py-5 rounded-r">
 
-By **20 June 1971** &mdash; two days before this letter &mdash; he had received twelve letters in one mail call but only one from Terrie. The imbalance is the source of his question to her: *"What is wrong?"*
+**What C Co, 1-506 was doing on 22 June 1970**
+
+Charlie's company &mdash; [Charlie Company, 1st Battalion, 506th Infantry Regiment](/docs/charlie-co-1-506-vietnam-chronicle/), 101st Airborne Division &mdash; **arrived on Firebase Ripcord on 5 June 1970** and was on the firebase the day this letter was written. Ripcord was a hilltop firebase about 30 km west of Hu&#7871; in Thua Thien Province, dug in on a mountain spur overlooking the A Sh&#7847;u Valley corridor &mdash; the principal PAVN supply route in I Corps. The base was at this moment in a *quiet-before-the-storm* window: PAVN had been building up against it through May and June; the open siege would begin the first week of July and turn into the **Battle of Firebase Ripcord (1&ndash;23 July 1970)** &mdash; the last major US ground engagement of the Vietnam War. C Co stayed on Ripcord the entire 23-day siege and **evacuated under fire on 23 July**.
+
+So Charlie's *"first action"* on 20&ndash;22 June &mdash; brush so thick you could only see fifteen feet ahead, no one hurt &mdash; was almost certainly a sweep or patrol from Ripcord into the wooded ridgelines below, during the buildup that would explode into the open siege ten days later. The base was already taking sporadic mortar and rocket fire; the patrols were probing for the PAVN units that were closing in.
+
+*Sources: [charlie1-506.com firebase rotation table](http://www.charlie1-506.com/html/pages%20from%20main%20nav/when_where.html) (C Co on Ripcord 5 Jun &ndash; 23 Jul 1970); Keith W. Nolan, *Ripcord: Screaming Eagles Under Siege, Vietnam 1970* (Presidio, 2000); [Wikipedia: Battle of Fire Support Base Ripcord](https://en.wikipedia.org/wiki/Battle_of_Fire_Support_Base_Ripcord).*
+
+</aside>
+
+The June 1970 date places this letter in the central month of the buildup to the **Battle of Firebase Ripcord** &mdash; the 23-day siege that would, within two weeks of this letter, become the last major US ground confrontation of the Vietnam War. The 101st Airborne Division (Screaming Eagles, [the patch on his right shoulder in the Vietnam club photograph](/archive/charlie-eesley-vietnam-club/)) operated in I Corps from Camp Eagle near Hu&#7871;. The "first action" Charlie writes about &mdash; the brush so thick you could only see fifteen feet ahead, his calm understatement that it was "really weird" &mdash; sits in the pre-siege probing window on Ripcord.
+
+By **20 June 1970** &mdash; two days before this letter &mdash; he had received twelve letters in one mail call but only one from Terrie. The imbalance is the source of his question to her: *"What is wrong?"*
 
 ## Transcription
 

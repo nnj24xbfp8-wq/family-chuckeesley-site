@@ -22,6 +22,16 @@ source: "Held in family archive — grandmaE1.pdf page 225 (gitignored locally; 
 
 31 December 1970. New Year's Eve. Charlie writes Terrie a short letter from somewhere in I Corps with the practical-and-tired register of a soldier who has just heard official-sounding news he's been waiting on for months: the **10-month tour-shortening drop is definite**. The Army had, by late 1970, formally shortened the standard 12-month Vietnam tour to 10 months as part of the Vietnamization-era troop drawdown; Charlie's deployment in March 1970 had put him in the cohort that would be eligible. By his 31 December calculation he would be home **sometime in March 1971**, three months before the eventual ETS he would target.
 
+<aside class="not-prose my-8 border-l-4 border-amber-700 bg-amber-50/60 dark:bg-amber-950/20 px-6 py-5 rounded-r">
+
+**What 1-506 was doing on 31 December 1970**
+
+C Co was **between firebases** &mdash; had left Firebase Tomahawk 16 December, would arrive at Firebase Bastogne 4 January 1971. The four-day Christmas/New Year period was a customary stand-down on both Allied and PAVN sides, with reduced patrol activity. Operation Jefferson Glenn was in its quietest week. **The army's 10-month tour-shortening policy** that Charlie names had been formalised in late 1970 as the Vietnamization drawdown advanced; for Charlie, deployed in spring 1970, it would have meant a home-by-mid-March 1971 horizon &mdash; the version of his post-tour future he would walk away from three weeks later when he chose to extend instead.
+
+*Sources: [charlie1-506.com firebase rotation table](http://www.charlie1-506.com/html/pages%20from%20main%20nav/when_where.html); [Wikipedia: Vietnamization](https://en.wikipedia.org/wiki/Vietnamization).*
+
+</aside>
+
 The letter is one of the small key moments of the corpus. It records the version of Charlie's post-tour future that he ultimately did not take. Three weeks later the [19 January 1971 ETS-extension strategy letter](/docs/letters/charlie-to-terrie-1971-01-19-ets-extension/) would record his decision to extend instead &mdash; trading the home-by-March possibility for the cleaner discharge-from-Vietnam path on 14 June 1971.
 
 ## Transcription

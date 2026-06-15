@@ -24,6 +24,20 @@ source: "Held in family archive — grandmaE1.pdf page 28 (gitignored locally; t
 
 Charlie was in Da Nang, in an air-conditioned office, with most of his unit moved up to Quang Tri. He had been left behind to pull CQ (Charge of Quarters) &mdash; an administrative night-watch duty &mdash; while the campaign ran its course up north. The slack day let him sit down at a typewriter. The result is the longest typed letter in the corpus and the most sustained piece of Vietnam-war-commentary in Charlie's own voice.
 
+<aside class="not-prose my-8 border-l-4 border-amber-700 bg-amber-50/60 dark:bg-amber-950/20 px-6 py-5 rounded-r">
+
+**What 1-506 / 101st Abn was doing on 1 March 1971**
+
+**Operation Lam Son 719 was at peak intensity.** ARVN ground forces had reached Tchepone, Laos and were beginning to come under heavy PAVN pressure. The 101st Airborne Division's aviation brigade &mdash; supplying nearly all US helicopter lift and gunship cover &mdash; was taking **catastrophic helicopter losses** (the operation would end with the highest single-operation helicopter loss rate of the war). Forward bases at Khe Sanh, the Rockpile, and Quang Tri were running 24-hour operations.
+
+C Co, 1-506's main body was in the Quang Tri AO supporting the operation. Charlie's *"most everyone here is or has moved up to Quang Tri"* maps directly to that movement: the rear-area Da Nang headquarters elements he was assigned to had been stripped to a skeleton crew for the operation. His CQ duty meant he was holding down the office while the company forward command post coordinated air-support, medevac, and ammunition lifts north.
+
+**By 25 March 1971** &mdash; 24 days from this letter &mdash; Lam Son 719 officially ended. ARVN losses were heavy (the consensus public-record range is roughly 1,500&ndash;7,500 ARVN dead) and the operation's failure to interdict the Ho Chi Minh Trail accelerated the political reading that Vietnamization was not working. Charlie's *"the damn army is going for broke on this campaign that is now in progress. A lot of guys are going to get killed"* was the accurate reading.
+
+*Sources: [Wikipedia: Operation Lam Son 719](https://en.wikipedia.org/wiki/Operation_Lam_Son_719); MACV Command History 1971; Texas Tech Vietnam Center & Archive [Lam Son 719 photo collection](https://www.vietnam.ttu.edu/virtualarchive/); [charlie1-506.com firebase rotation table](http://www.charlie1-506.com/html/pages%20from%20main%20nav/when_where.html).*
+
+</aside>
+
 ## Transcription
 
 > *1 March 1971*

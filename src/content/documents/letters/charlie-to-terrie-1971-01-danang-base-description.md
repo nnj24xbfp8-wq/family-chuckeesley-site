@@ -25,6 +25,18 @@ scans:
 
 A multi-page letter from Charlie to Terrie, written from Da Nang in roughly January 1971 &mdash; after his transfer out of the field but before the [10 February 1971 short steady letter](/docs/letters/charlie-to-terrie-1971-02-10-danang/). Only page 2 has been identified in the family-archive scan sequence (`dad151.jpg`); page 1 sits somewhere else in the dad-numbered set and would carry the date header.
 
+<aside class="not-prose my-8 border-l-4 border-amber-700 bg-amber-50/60 dark:bg-amber-950/20 px-6 py-5 rounded-r">
+
+**Where Charlie was: the Da Nang rear in January 1971**
+
+**Da Nang** &mdash; on the central coast of I Corps, about 105 km south of Hu&#7871; &mdash; was the largest US base complex in I Corps, hosting III MAF (Marine Amphibious Force) headquarters, Marine and Air Force airfields, hospitals, and rear-area logistics for the 101st Abn and other I Corps divisions. In **January 1971 Da Nang was being staged as the principal rear hub for Operation Lam Son 719**, the imminent ARVN incursion into Laos &mdash; the city's airfields would soon be processing helicopter casualties and the streets would be congested with ammunition and fuel convoys. Charlie's *"500&ndash;800-person headquarters base on a peninsula between river and ocean"* description fits one of several smaller 101st Abn detachments scattered across the Da Nang complex, distinct from the main Marine and Air Force installations.
+
+The ARVN-grenade incident he describes &mdash; one soldier firing into the air after an argument, another responding with a grenade &mdash; reflects the chronic low-grade firing across the Da Nang River from ARVN units in the run-up to Lam Son 719, when ARVN morale and discipline were under strain.
+
+*Sources: [Wikipedia: Da Nang Air Base](https://en.wikipedia.org/wiki/Da_Nang_Air_Base); [Wikipedia: Operation Lam Son 719](https://en.wikipedia.org/wiki/Operation_Lam_Son_719).*
+
+</aside>
+
 The page-2 content is Charlie's first sustained civilian-perspective description of the Da Nang base &mdash; the operational dispatches of the 1970 field letters have given way to something closer to a guide-book entry:
 
 - The base holds 500&ndash;800 people and is a headquarters.

@@ -28,6 +28,18 @@ scans:
 
 **October 1970.** Charlie has been in country roughly a year. He is in the field with his platoon of the **101st Airborne Division**. The **northeast monsoon** has begun across I Corps — the seasonal weather pattern that brings five to seven straight months of rain to the coastal lowlands and the central highlands of South Vietnam, October through April. He hasn't been dry, by his own account, in five days. He has a **new company captain** because the previous one "messed up so bad." Racial tensions on base are rising rapidly. And he has reached a decision that gives the letter its weight in this archive: he is going to **write his congressman**, he is going to **vote** in the upcoming November midterm elections, and he is going to **vote for the immediate pull-out candidates**.
 
+<aside class="not-prose my-8 border-l-4 border-amber-700 bg-amber-50/60 dark:bg-amber-950/20 px-6 py-5 rounded-r">
+
+**What C Co, 1-506 was doing in October 1970**
+
+C Co was on **Firebase Birmingham** (19&ndash;30 October) under **Operation Jefferson Glenn**. Birmingham was a 101st Abn artillery firebase in the foothills west of Hu&#7871;, part of the rocket-belt security ring protecting the populated lowlands &mdash; the defensive interdiction mandate Jefferson Glenn had replaced the earlier offensive operations with. The **northeast monsoon arrived in I Corps in October**, bringing the five-month wet season that would constrain helicopter ops and saturate firebase patrols through March 1971.
+
+Racial tensions on US bases in 1970 were a well-documented and worsening problem &mdash; the army's own surveys recorded sharp increases in racial incidents at rear bases through 1969 and 1970. Charlie's *"I will vote for the immediate pull-out candidates"* sat in the broader November 1970 midterm wave that returned several anti-war Democrats to Congress.
+
+*Sources: [Wikipedia: Operation Jefferson Glenn](https://en.wikipedia.org/wiki/Operation_Jefferson_Glenn); [charlie1-506.com firebase rotation table](http://www.charlie1-506.com/html/pages%20from%20main%20nav/when_where.html).*
+
+</aside>
+
 > *"How I hate this army and the 101st in particular. I've asked mom for our congressman's address so I could write them a letter. I'm voting also and I will vote for the immediate pull-out candidates."*
 
 This is the sharpest political statement in the surviving correspondence.

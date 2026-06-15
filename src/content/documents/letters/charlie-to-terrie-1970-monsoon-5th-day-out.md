@@ -26,6 +26,20 @@ scans:
 
 This is page 2 of a multi-page Charlie letter, c. summer 1970. The page is dense — three short paragraphs that each open a thread the corpus mostly keeps closed. Page 1 with the date and opening is in the family archive but not paired to this scan yet.
 
+<aside class="not-prose my-8 border-l-4 border-amber-700 bg-amber-50/60 dark:bg-amber-950/20 px-6 py-5 rounded-r">
+
+**What C Co, 1-506 was doing in summer 1970**
+
+If this letter falls in the **5 June &ndash; 23 July 1970 window**, Charlie was on **Firebase Ripcord during the siege** &mdash; the 23-day siege that culminated in the firebase's evacuation under fire 23 July, the last major US ground confrontation of the war. The *"5th day out"* and *"violent campus"* (post-Kent State, 4 May 1970) references both point to the late spring or early summer 1970 window.
+
+The detail about *"enemy bunkers where the unit found evidence women were fighting alongside the NVA"* is consistent with the encounters 1-506 elements had in the A Sh&#7847;u Valley and around Ripcord, where PAVN logistical and trail units had substantial female-cadre presence in the Trans-Bassac sapper, signal, and porter formations.
+
+The Eesley family's *"have around if you need anything or get arrested at that violent campus"* response to Terrie's post-Kent State Maryland protest situation is the home-front side of the same anti-war wave Charlie was reading about in late 1970 newspapers from his firebase.
+
+*Sources: [Wikipedia: Battle of Fire Support Base Ripcord](https://en.wikipedia.org/wiki/Battle_of_Fire_Support_Base_Ripcord); [Wikipedia: Kent State shootings](https://en.wikipedia.org/wiki/Kent_State_shootings); [charlie1-506.com firebase rotation table](http://www.charlie1-506.com/html/pages%20from%20main%20nav/when_where.html).*
+
+</aside>
+
 ## Three threads in three paragraphs
 
 **The uncle and the "violent campus."** The opening paragraph of this page closes a thread about money and adds:

@@ -22,6 +22,18 @@ source: "Held in family archive — grandmaE1.pdf page 65 (gitignored locally; t
 
 3 February 1971. Charlie writes Terrie a short note from Da Nang — one day before the [4 February Laos fore-warning letter](/docs/letters/charlie-to-terrie-1971-02-04-laos-fore-warning/), and within the same Da Nang-rear-area stay that would eventually run all the way through the [1 March Lam Son 719 letter](/docs/letters/charlie-to-terrie-1971-03-01-lam-son-719/). The letter is brief and almost relieved in its register: Charlie reads his current Da Nang assignment as a real piece of luck.
 
+<aside class="not-prose my-8 border-l-4 border-amber-700 bg-amber-50/60 dark:bg-amber-950/20 px-6 py-5 rounded-r">
+
+**What 1-506 / 101st Abn was doing on 3 February 1971**
+
+**Five days before Operation Lam Son 719 launched.** The 101st Airborne's aviation brigade was at peak preparation tempo: helicopters massed at Khe Sanh, Quang Tri, and Da Nang; ammunition deliveries running 24 hours; medical evacuation routes pre-positioned. **Operation Dewey Canyon II** (the US Army preparatory operation to reactivate Khe Sanh Combat Base) was in its fourth day. Most of 1-506's forward elements were repositioning into Quang Tri Province for the Laos support mission.
+
+Charlie was in Da Nang on rear-area assignment &mdash; his *"it is all too good to be true"* reading reflects the gap between his routine and the operational tempo around him: the war was about to expand visibly and he had been left back in a safe rear billet. His *"I'll use my R&R after I get back to the field so I can keep out of the field some more"* is the timing calculation of a draftee using every administrative lever to stay out of the spear-tip.
+
+*Sources: [Wikipedia: Operation Lam Son 719](https://en.wikipedia.org/wiki/Operation_Lam_Son_719); [Wikipedia: Operation Dewey Canyon II](https://en.wikipedia.org/wiki/Operation_Dewey_Canyon_II); [charlie1-506.com firebase rotation table](http://www.charlie1-506.com/html/pages%20from%20main%20nav/when_where.html).*
+
+</aside>
+
 ## Transcription
 
 > *Feb 3*

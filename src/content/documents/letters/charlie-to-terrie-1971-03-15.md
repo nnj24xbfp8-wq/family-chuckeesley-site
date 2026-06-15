@@ -1,6 +1,6 @@
 ---
 title: "Letter to Terrie, 15 March 1971 — six catch-up letters arriving at Danang, R&R finances and hotel plans"
-teaser: "Charlie just arrived in country and receiving six of Terrie's letters that had been forwarded to Danang. Her fall-semester grades, the R&R hotel-not-yet-booked situation, the $2,000 he should have after the trip, and the $100 he'll send her on the first."
+teaser: "Charlie at the Da Nang rear in mid-March 1971 — late in his tour — receiving six of Terrie's letters that had caught up to him during the Lam Son 719 mail backlog. Her fall-semester grades, the R&R hotel-not-yet-booked situation, the $2,000 he should have after the trip, and the $100 he'll send her on the first."
 type: letter
 author: charles-eesley
 recipient: terrie-lee-eesley
@@ -8,19 +8,31 @@ people:
   - charles-eesley
   - terrie-lee-eesley
 partOf: letters-from-vietnam
-locationFrom: "Vietnam (in-country, Danang area — first weeks of the tour)"
+locationFrom: "Da Nang, Vietnam (late tour — Lam Son 719 rear)"
 locationTo: "Maryland (University of Maryland, College Park)"
 postmarkDate: "1971-03-15"
 dateRange:
   start: "1971-03-15"
 private: false
-summary: "Charlie's letter to Terrie dated 15 March 1971 — in country a few days, receiving six of Terrie's catch-up letters that had been sent to his Danang in-processing address. The earliest in-country letter the corpus carries (predating the [22 March Saigon arrival letter](/docs/letters/charlie-to-terrie-1971-03-22/) by one week). Domestic Vietnam-tour register: Terrie's fall semester grades (she got an incomplete on a final), the R&R-hotel situation (not yet booked, suggesting Terrie do it when she arrives on the 12th of June), Charlie's army-pay status (everything on record in Indianapolis, should have about $2,000 after R&R), the $100 he'll send her on March 1 going forward, and the $400 he expects to bring on R&R. The companion to the 18 February stateside-training letter — that one is Charlie at training, this one is Charlie just landed in country."
+summary: "Charlie's letter to Terrie dated 15 March 1971 — at the Da Nang rear in the final phase of Operation Lam Son 719, receiving six of Terrie's catch-up letters that had been held during the operation's mail-handling backlog. Domestic late-tour Vietnam register: Terrie's fall semester grades (she got an incomplete on a final), the R&R-hotel situation (not yet booked, suggesting Terrie do it when she arrives in April), Charlie's army-pay status (everything on record in Indianapolis, should have about $2,000 after R&R), the $100 he'll send her on the first, and the $400 he expects to bring on R&R. The framing of *'a few days in country'* in this letter's original draft was an artifact of an earlier dating analysis; Charlie had been deployed since mid-1970 and was in his eleventh month in country by 15 March 1971."
 source: "Held in family archive — grandmaE1.pdf page 12 (gitignored locally; transcribed content surfaced here)."
 ---
 
 ## What the letter is
 
-15 March 1971. Charlie has been in country for a few days. Six of Terrie's letters &mdash; written from her University of Maryland life in Maryland and addressed to the **Danang** in-processing address she had been given for him &mdash; have just caught up to him together. The letter is short, practical, and the earliest in-country letter this archive carries, predating the [22 March 1971 Saigon arrival letter](/docs/letters/charlie-to-terrie-1971-03-22/) by one week.
+15 March 1971. Charlie is at the **Da Nang rear in his eleventh month in country**. Six of Terrie's letters &mdash; written from her University of Maryland life in Maryland and addressed to the Danang address &mdash; have just caught up to him together, consistent with the mail-handling backlog at I Corps APOs during the Lam Son 719 operation. The framing of *"a few days in country"* in this letter's original draft was an artifact of an earlier dating analysis &mdash; Charlie had been deployed since mid-1970 and had been in the Da Nang rear through the Laos operation, now in its withdrawal phase as he wrote.
+
+<aside class="not-prose my-8 border-l-4 border-amber-700 bg-amber-50/60 dark:bg-amber-950/20 px-6 py-5 rounded-r">
+
+**What 1-506 / 101st Abn was doing on 15 March 1971**
+
+**Lam Son 719 was in its withdrawal phase** (ARVN forces withdrew from Laos 11&ndash;25 March under heavy PAVN pressure). The 101st aviation brigade was running extraction helicopter lifts to recover ARVN units from Laotian landing zones under fire &mdash; aviation losses were at their peak. C Co, 1-506 was preparing to redeploy from the Da Nang / Quang Tri rear-area positions back into the Thua Thien rocket-belt patrol mission under Operation Jefferson Glenn; the company would arrive at **Firebase Fury** on 29 March.
+
+The catch-up batch of Terrie's six letters is consistent with mail being held at a forward APO during the operation and released to Charlie once the unit's mail handling stabilised.
+
+*Sources: [Wikipedia: Operation Lam Son 719](https://en.wikipedia.org/wiki/Operation_Lam_Son_719); [charlie1-506.com firebase rotation table](http://www.charlie1-506.com/html/pages%20from%20main%20nav/when_where.html).*
+
+</aside>
 
 ## Transcription
 
@@ -56,8 +68,8 @@ source: "Held in family archive — grandmaE1.pdf page 12 (gitignored locally; t
 |---|---|---|
 | 18 Feb 1970 | [Stateside NCO training](/docs/letters/charlie-to-terrie-1970-02-18-nco-training/) | Nine weeks into stateside training |
 | 15 Mar 1970 | This letter | First weeks in country, six catch-up letters at Danang |
-| 22 Mar 1970 | [Saigon orders](/docs/letters/charlie-to-terrie-1971-03-22/) | R&R orders mailed |
+| 22 Mar 1971 | [R&R orders letter](/docs/letters/charlie-to-terrie-1971-03-22/) | R&R orders received |
 | 31 Mar 1970 | [R&R planning](/docs/letters/charlie-to-terrie-1971-03-31-rr-planning/) | Terrie has her ticket |
 | 2–3 Apr 1970 | [Hawaii-propriety letter](/docs/letters/charlie-to-terrie-1971-04-02-parents-against-hawaii/) | The Wildermuth-side objection lands |
 
-The Danang-address-mail-routing detail places this letter early in the same arc that produced the 22 March in-country letter from Saigon. By the end of March, his mail was being held at the proper unit address; the six catch-up letters of 15 March are the small archive of the days when his address had not yet stabilized.
+The Danang-address mail-routing detail places this letter in the Lam Son 719 mail-handling backlog window. By the end of March, with the operation closing and the unit's mail system stabilising, his mail flow returned to normal; the six catch-up letters of 15 March are the small archive of the days when his address had been moving through the Da Nang rear during the operation.

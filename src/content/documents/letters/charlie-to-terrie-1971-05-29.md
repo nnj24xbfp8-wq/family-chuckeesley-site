@@ -24,6 +24,18 @@ scans:
 
 29 May 1971. Charlie writes from somewhere in I Corps after a trip back to Saigon — possibly a stand-down or an in-country errand at the rear. He has seventeen days to go until the Hawaii R&R rendezvous he and Terrie spent the [22 March letter](/docs/letters/charlie-to-terrie-1971-03-22/) coordinating, and the count is the structure of the letter.
 
+<aside class="not-prose my-8 border-l-4 border-amber-700 bg-amber-50/60 dark:bg-amber-950/20 px-6 py-5 rounded-r">
+
+**What C Co, 1-506 was doing on 29 May 1971**
+
+C Co was on **Firebase Bastogne** &mdash; had arrived 5 May and would stay through early July. Bastogne, on the western piedmont of Thua Thien Province, was a routine late-Jefferson Glenn assignment.
+
+**The 101st Airborne was visibly drawing down.** Two weeks earlier &mdash; **15 May 1971** &mdash; **3rd Battalion, 506th Infantry had departed South Vietnam, becoming the first 506th unit to redeploy**. 3/506's departure was the visible marker of the 506th Regiment's stand-down. Charlie was in a 1-506 company watching a sister battalion of his regiment go home, while he himself was 16 days from his 14 June ETS. The seventeen-days-left framing of this letter is at once a count to the Hawaii R&R (June 12 arrival) and a count to his own discharge.
+
+*Sources: [Wikipedia: 101st Airborne Division](https://en.wikipedia.org/wiki/101st_Airborne_Division) (3/506 first to depart 15 May 1971); [charlie1-506.com firebase rotation table](http://www.charlie1-506.com/html/pages%20from%20main%20nav/when_where.html) (C Co on FB Bastogne 5 May &ndash; early July).*
+
+</aside>
+
 He has heard Terrie wasn't getting his mail — a recurring grievance in the corpus — and reassures her several are on the way. He teases her about not finishing her semester with a 3.0 GPA, *"the shock would be too great."* Two months after the orders, the operational details of the trip are still being worked out: a motel room rather than her staying with his parents in Marietta. He signs off *"Love Charles."*
 
 ## Transcription

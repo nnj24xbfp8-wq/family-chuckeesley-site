@@ -24,6 +24,20 @@ source: "Held in family archive — grandmaE1.pdf page 33 (gitignored locally; t
 
 Charlie was in Da Nang &mdash; the rear-area I Corps base &mdash; and could see the build-up. He wrote Terrie that something was coming, and named the country.
 
+<aside class="not-prose my-8 border-l-4 border-amber-700 bg-amber-50/60 dark:bg-amber-950/20 px-6 py-5 rounded-r">
+
+**What 1-506 / 101st Abn was doing on 4 February 1971**
+
+The 101st Airborne Division had just become **the principal US Army provider of helicopter and fire support for Operation Lam Son 719**. The division's aviation brigade &mdash; over 600 helicopters &mdash; was about to assault ARVN troops into Laotian landing zones in support of the largest helicopter operation of the war. **Khe Sanh Combat Base had been reactivated on 30 January 1971** under preparatory Operation Dewey Canyon II. **The Cooper&ndash;Church Amendment prohibited US ground units from crossing into Laos** &mdash; so the 101st's role would be confined to fire support, aviation, and forward base security from the Vietnam side.
+
+C Co, 1-506 had moved to **Firebase Arsenal on 6 February** (two days after this letter); other 1-506 elements were already forward in Quang Tri Province supporting the imminent operation. The Texas Tech Vietnam Center photo archive contains imagery captioned *"Lam Son 719, 1st Platoon, A Co, 1st BN, March 1971"* at the Rockpile near the DMZ &mdash; confirming 1-506 ground elements operated as far north as the DMZ during the operation.
+
+Charlie's *"don't be surprised when you hear about Laos being invaded"* is the cleanest in-theater foreknowledge in the corpus. He could see the build-up from Da Nang: helicopters massing on the tarmac, ammunition deliveries to the staging areas, the pre-positioning of medical evacuation routes.
+
+*Sources: [Wikipedia: Operation Lam Son 719](https://en.wikipedia.org/wiki/Operation_Lam_Son_719); [Wikipedia: Khe Sanh Combat Base](https://en.wikipedia.org/wiki/Khe_Sanh_Combat_Base); [charlie1-506.com firebase rotation table](http://www.charlie1-506.com/html/pages%20from%20main%20nav/when_where.html); Texas Tech [Vietnam Center & Archive photo collection](https://www.vietnam.ttu.edu/virtualarchive/).*
+
+</aside>
+
 ## Transcription
 
 > *Feb 4*

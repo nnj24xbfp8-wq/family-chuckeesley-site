@@ -22,6 +22,18 @@ source: "Held in family archive — grandmaE1.pdf page 240 (gitignored locally; 
 
 14 October 1970. Charlie writes Terrie a substantial letter from the I Corps lowlands &mdash; *"I'm still in the lowlands but still don't know for how long"* &mdash; with two pieces of news that materially shape the rest of his tour and the archive's reading of it.
 
+<aside class="not-prose my-8 border-l-4 border-amber-700 bg-amber-50/60 dark:bg-amber-950/20 px-6 py-5 rounded-r">
+
+**What C Co, 1-506 was doing on 14 October 1970**
+
+C Co was on **Firebase Birmingham** (19&ndash;30 October per the company rotation table) &mdash; a 101st Abn artillery firebase in the foothills west of Hu&#7871;, part of the rocket-belt security ring under **Operation Jefferson Glenn** (5 September 1970 &ndash; 8 October 1971, the last major US ground operation of the Vietnam War). Birmingham was a low-intensity firebase in this window &mdash; Jefferson Glenn had explicitly shifted away from search-and-destroy toward defensive interdiction in support of pacification.
+
+Charlie's *"all combat troops are being withdrawn"* line is the in-theater rumor reflecting actual Vietnamization decisions in progress. Nixon had announced a 40,000-troop withdrawal in October 1970; the 101st Abn was being told its full division stand-down would come by mid-1972. Individual soldiers were getting personal pull-out dates back from S-1, working backward from the unit's standdown timeline. Charlie's *1 May 1971* date was the rear-area drawdown number he was being told.
+
+*Sources: [charlie1-506.com firebase rotation table](http://www.charlie1-506.com/html/pages%20from%20main%20nav/when_where.html); [Wikipedia: Operation Jefferson Glenn](https://en.wikipedia.org/wiki/Operation_Jefferson_Glenn); [Wikipedia: 101st Airborne Division](https://en.wikipedia.org/wiki/101st_Airborne_Division).*
+
+</aside>
+
 This is, by date, the earliest letter in the corpus where Charlie writes about **the Vietnamization combat-troop withdrawal as a specific scheduled event**. By October 1970 the Army's drawdown timetable had landed at battalion-and-division level and individual soldiers were learning their personal pull-out dates. Charlie's date was 1 May 1971.
 
 The letter also carries the first written R&R proposal in the corpus &mdash; not the spring 1971 Hawaii-with-Terrie thread the archive had built out from the [March-April 1971 letters](/docs/letters/charlie-to-terrie-1971-03-22/), but an earlier January-or-February 1971 window Charlie was floating in October 1970.

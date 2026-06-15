@@ -24,6 +24,18 @@ source: "Held in family archive — grandmaE1.pdf page 180 (gitignored locally; 
 
 26 March 1971. Dorothy Wildermuth writes Terrie from Florida (her parents had retired to the Orlando area). The opening of the letter is a normal-life report &mdash; the weather is nice, Ruth and All have been visiting from up north, Debbie is gathering shells and Coquina rocks on the beach &mdash; and then it pivots, on the second paragraph, to the parental position on the R&R Terrie has begun planning with Charlie.
 
+<aside class="not-prose my-8 border-l-4 border-amber-700 bg-amber-50/60 dark:bg-amber-950/20 px-6 py-5 rounded-r">
+
+**The operational context of 26 March 1971**
+
+Dorothy writes from Florida one day after **Operation Lam Son 719 officially ended** (25 March 1971). The ARVN withdrawal from Laos had been completed under heavy PAVN pressure; the 101st Airborne's aviation brigade had absorbed the operation's catastrophic helicopter losses; and the leave-system embargo that had blocked R&R bookings through February was lifting. Charlie's R&R window of 12&ndash;19 April was about to be booked (three days after this letter, on the 29 March 1971 follow-up).
+
+In I Corps: C Co, 1-506 had just left Firebase Bastogne (off 14 January) and was about to arrive at **Firebase Fury on 29 March** &mdash; the same day Charlie wrote his booking-confirmation letter to Terrie. Dorothy's letter from Florida and Charlie's letter from Vietnam crossed in the mail, each holding a different layer of the same emotional system.
+
+*Sources: [Wikipedia: Operation Lam Son 719](https://en.wikipedia.org/wiki/Operation_Lam_Son_719); [charlie1-506.com firebase rotation table](http://www.charlie1-506.com/html/pages%20from%20main%20nav/when_where.html).*
+
+</aside>
+
 The letter sits **three days before** Charlie's [March 29 1971 R&R booking-confirmation letter](/docs/letters/charlie-to-terrie-1971-03-29-second-rr-booking/) &mdash; the *"Please get your ticket under (Mrs. Eesley) to save money. Get it for your arrival to be on the 12th of April"* letter. Dorothy's letter is the one Terrie was reading at her dorm desk when Charlie's arrived in the mail three days later. The R&R was being planned over Dorothy's clear objection.
 
 Per Chuck (June 2026), **there was only one R&R in Charlie's whole tour** &mdash; the April 1971 Hawaii trip. The spring 1970 Hawaii-planning letters that the archive had treated as preparation for a separate June 1970 R&R now read as the **long lead-up to this same 1971 trip**, with the April 1971 parental conflict and Peggy's marriage-in-Hawaii proposal as the early-tour debate over a plan that took another year to come together. The framing across the spring 1970 letter docs needs reconciliation with that.

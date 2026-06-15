@@ -26,6 +26,18 @@ scans:
 
 24 January 1971. Three days after the [Camp-Evans-Feb-4 letter](/docs/letters/charlie-to-terrie-1971-01-21/) and five days after the [ETS-extension strategy letter](/docs/letters/charlie-to-terrie-1971-01-19-ets-extension/). Still in the rear, still on the beach. Terrie's college finals at the University of Maryland have just finished. The letter is short, domestic, half-jocular in the way Charlie's late-tour letters often are.
 
+<aside class="not-prose my-8 border-l-4 border-amber-700 bg-amber-50/60 dark:bg-amber-950/20 px-6 py-5 rounded-r">
+
+**What 1-506 / 101st Abn was doing on 24 January 1971**
+
+The 101st Airborne Division was in the final week of preparing for **Operation Dewey Canyon II** (the US Army's preparatory operation to reactivate Khe Sanh Combat Base, launched 30 January 1971) and **Operation Lam Son 719** (the ARVN incursion into Laos, launched 8 February 1971). The division's aviation brigade was massing helicopters and ordnance at I Corps forward bases &mdash; **600+ helicopters** would eventually be committed to Lam Son 719 in the largest helicopter operation of the war.
+
+Charlie was on the south-central coast beach (presumed Cam Ranh Bay), explicitly out of the field, waiting on his unit's consolidation at Camp Evans 4 February. The visible buildup elsewhere in I Corps did not yet touch his daily routine.
+
+*Sources: [Wikipedia: Operation Dewey Canyon II](https://en.wikipedia.org/wiki/Operation_Dewey_Canyon_II); [Wikipedia: Operation Lam Son 719](https://en.wikipedia.org/wiki/Operation_Lam_Son_719).*
+
+</aside>
+
 ## Transcription
 
 > *Jan 24*

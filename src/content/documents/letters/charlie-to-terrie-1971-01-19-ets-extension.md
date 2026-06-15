@@ -24,6 +24,18 @@ scans:
 
 19 January 1971. Charlie writes Terrie from a rear-area Vietnam base — almost certainly Camp Eagle or Da Nang, given that he was pulled back from the field by this point in the tour. He has been waiting for word on what the Army's policy will be for early discharge ("drops") and has decided that if nothing definite comes through, he will take matters into his own hands.
 
+<aside class="not-prose my-8 border-l-4 border-amber-700 bg-amber-50/60 dark:bg-amber-950/20 px-6 py-5 rounded-r">
+
+**What 1-506 was doing on 19 January 1971**
+
+C Co, 1-506 had been on **Firebase Bastogne 4&ndash;14 January** and was now in the transition period before the next firebase rotation. The **101st Airborne was simultaneously beginning to reposition aviation and ground elements south toward Da Nang and west toward Khe Sanh** in preparation for the imminent Operation Lam Son 719 (which would launch 8 February). **Operation Dewey Canyon II**, the US Army preparatory operation to reactivate Khe Sanh Combat Base, would begin 30 January.
+
+Charlie's *"I still haven't heard any word on drops"* sits inside the Vietnamization-era uncertainty: the 101st's full division stand-down was scheduled for mid-1972, but individual early-discharge ("drop") policies were inconsistent, and the army's S-1 personnel staff was administratively backed up. His ETS-extension strategy &mdash; trading 32&ndash;33 more days in Vietnam for skipping stateside garrison &mdash; was a common late-tour calculation but required the unit S-1 to process the paperwork before the standard rotation date.
+
+*Sources: [charlie1-506.com firebase rotation table](http://www.charlie1-506.com/html/pages%20from%20main%20nav/when_where.html); [Wikipedia: Operation Dewey Canyon II](https://en.wikipedia.org/wiki/Operation_Dewey_Canyon_II); [Wikipedia: 101st Airborne Division](https://en.wikipedia.org/wiki/101st_Airborne_Division).*
+
+</aside>
+
 The decision he is announcing is counterintuitive on first read: he is going to extend his Vietnam tour by **32 or 33 days** so he can ETS (Expiration Term of Service) directly from Vietnam rather than rotate back to the States and serve out the remainder of his Army time in garrison. The math is simple: a few extra weeks in Vietnam saves him months of stateside harassment. He has already heard from buddies that stateside duty is no better than another field tour.
 
 ## Transcription

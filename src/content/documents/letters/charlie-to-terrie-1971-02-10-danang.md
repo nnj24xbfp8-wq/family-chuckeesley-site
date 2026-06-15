@@ -26,6 +26,18 @@ scans:
 
 The two letters together — Charlie's and Peggy's, from opposite sides of the world on the same day, both addressed to Terrie — are the archive's most concentrated single-day record of the family's parallel work on Charlie's tour endgame.
 
+<aside class="not-prose my-8 border-l-4 border-amber-700 bg-amber-50/60 dark:bg-amber-950/20 px-6 py-5 rounded-r">
+
+**What 1-506 / 101st Abn was doing on 10 February 1971**
+
+**Day 3 of Operation Lam Son 719.** The ARVN ground incursion had launched 8 February; the 101st aviation brigade was conducting massive helicopter assaults into Laotian landing zones in support. C Co, 1-506 had moved to Firebase Arsenal on 6 February; other 1-506 elements were forward in Quang Tri Province providing fire support and securing the staging areas. Da Nang &mdash; where Charlie was &mdash; was the principal rear logistics and medical hub for the operation, processing helicopter casualties and managing the air-support tasking.
+
+Charlie's *"after this big push in Laos I believe we will then start pulling out in a big way"* was the in-theater conventional wisdom: Lam Son 719 was being framed by the army as the test case for Vietnamization. If the ARVN could carry it, US ground withdrawal would accelerate. (The operation would in fact fail, and US withdrawal would accelerate anyway.)
+
+*Sources: [Wikipedia: Operation Lam Son 719](https://en.wikipedia.org/wiki/Operation_Lam_Son_719); [charlie1-506.com firebase rotation table](http://www.charlie1-506.com/html/pages%20from%20main%20nav/when_where.html).*
+
+</aside>
+
 ## Transcription
 
 > *Feb 10*

@@ -24,6 +24,18 @@ scans:
 
 21 January 1971. Charlie writes a short page from the rear — the same rear-area base where he had written [his ETS-extension strategy letter two days earlier](/docs/letters/charlie-to-terrie-1971-01-19-ets-extension/). The two letters belong together: the 19 January letter is the strategic decision (extend the tour by 32–33 days to ETS from Vietnam rather than do stateside garrison duty), this one is the routine follow-up.
 
+<aside class="not-prose my-8 border-l-4 border-amber-700 bg-amber-50/60 dark:bg-amber-950/20 px-6 py-5 rounded-r">
+
+**What 1-506 was doing on 21 January 1971**
+
+**Camp Evans** &mdash; the *"old address"* Charlie names &mdash; was 1-506's battalion headquarters near Phong &Ecirc;i&#7873;n district, about 25 km NW of Hu&#7871;. Charlie's *"we all will be back at Evans Feb 4"* tracks the unit's planned consolidation cycle: from forward firebase rotations back to the battalion rear cantonment for refit, before redeployment forward again. The **4 February consolidation date sits exactly four days before Operation Lam Son 719 launched (8 February)** &mdash; meaning the unit was being concentrated at Camp Evans precisely to support the Laos operation through Quang Tri.
+
+The MARS phone-call infrastructure and beach/rest setup he describes are consistent with the **Cam Ranh Bay** rear area, where his late-tour rear time was concentrated.
+
+*Sources: [charlie1-506.com firebase rotation table](http://www.charlie1-506.com/html/pages%20from%20main%20nav/when_where.html); [Wikipedia: Camp Evans (Vietnam)](https://en.wikipedia.org/wiki/Camp_Evans_(Vietnam)); [Wikipedia: Operation Lam Son 719](https://en.wikipedia.org/wiki/Operation_Lam_Son_719).*
+
+</aside>
+
 ## Transcription
 
 > *Jan 21*

@@ -22,6 +22,18 @@ source: "Held in family archive — grandmaE1.pdf page 140 (gitignored locally; 
 
 1 January 1971. Charlie writes from Da Nang at 3 AM Vietnam time, on guard duty, addressed to *"Dorothy."* The Dorothy in question is **[Dorothy Hauser](/family/dorothy-hauser/)** &mdash; [Peggy McMaster Eesley's](/family/margaret-mcmaster-eesley/) friend in Marietta and a member of the [Mothers for Peace](/family/dorothy-hauser/) group Peggy belonged to in the early 1970s.
 
+<aside class="not-prose my-8 border-l-4 border-amber-700 bg-amber-50/60 dark:bg-amber-950/20 px-6 py-5 rounded-r">
+
+**What 1-506 was doing on 1 January 1971**
+
+C Co was in the transition period between Firebase Tomahawk (left 16 December 1970) and Firebase Bastogne (arrived 4 January 1971), with elements at the rear cantonment. Charlie's guard-duty assignment in **Da Nang at 3 AM** is consistent with the rear-cantonment posting during the transition. The 101st Airborne was in the final week of operational quiet before the **Operation Dewey Canyon II** preparatory operation (30 January 1971) for Lam Son 719.
+
+The traditional New Year's stand-down between US and PAVN forces had quieted most of I Corps to the routine of guard rotation, mail, and start-of-year admin work. The 3 AM letter-writing matches the rhythm of an overnight guard shift in the rear.
+
+*Sources: [charlie1-506.com firebase rotation table](http://www.charlie1-506.com/html/pages%20from%20main%20nav/when_where.html).*
+
+</aside>
+
 The letter is short. It would not be especially noteworthy were it not for two things: it confirms the Dorothy Hauser identification the site had been uncertain about (a confusion that arose around the [April 1971 parental conflict letter](/docs/letters/charlie-to-terrie-1971-04-02-parents-against-hawaii/) when the name "Dorothy" was initially misread as Terrie's mother Dorothy Wildermuth), and it carries Charlie's most direct piece of political commentary on Richard Nixon anywhere in the corpus.
 
 ## Transcription

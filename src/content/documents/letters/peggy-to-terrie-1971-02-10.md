@@ -26,6 +26,18 @@ scans:
 
 Wednesday 10 February 1971. Charlie's mother [Peggy McMaster Eesley](/family/margaret-mcmaster-eesley/) writes from Marietta to Terrie at the University of Maryland. The letter is one of the only surviving pieces of correspondence in this archive between Charlie's mother and Terrie before they were officially family. It carries three threads simultaneously, all woven through the same six paragraphs.
 
+<aside class="not-prose my-8 border-l-4 border-amber-700 bg-amber-50/60 dark:bg-amber-950/20 px-6 py-5 rounded-r">
+
+**Why this letter is dated 10 February 1971 specifically &mdash; the operational context**
+
+Peggy writes from Marietta the **same day Charlie writes [his own short letter](/docs/letters/charlie-to-terrie-1971-02-10-danang/) from Da Nang.** The 10 February date sits in **day 3 of Operation Lam Son 719** &mdash; the ARVN incursion into Laos that had launched 8 February with the 101st Airborne's aviation brigade providing nearly all US helicopter and fire support. The CO's letter at Camp Eagle that Peggy is forwarding from Congressman Miller is the **end of a months-long Congressional inquiry chain** about Charlie's tour extension at Da Krong &mdash; an inquiry that the Eesley family had escalated through the Marietta congressional office because army S-1 had been holding Charlie's paperwork through the Lam Son 719 buildup period.
+
+That the Eesleys' congressional inquiry resolved on exactly the same week the army's leave-and-personnel system was at maximum stress for Lam Son 719 is the operational marker of how the family-and-war year worked in practice: the rear-area bureaucracy that Peggy was pressing was the same bureaucracy stretched thin by the army's biggest helicopter operation of the war.
+
+*Sources: [Wikipedia: Operation Lam Son 719](https://en.wikipedia.org/wiki/Operation_Lam_Son_719); [Wikipedia: Camp Eagle (Vietnam)](https://en.wikipedia.org/wiki/Camp_Eagle_(Vietnam)).*
+
+</aside>
+
 ## Thread one — Charlie's month extension at Da Nang
 
 The first sentence is the news: Charlie has been given a one-month tour extension at *"Da Nang"* &mdash; Peggy's spelling of the big U.S. rear base on the central Vietnamese coast. Cross-referenced against Charlie's own letters of 4 February 1971 and 10 February 1971, both of which open *"I'm still in Danang,"* the extension is not a field-combat extension but a rear-area transition: Charlie had been pulled back from Camp Eagle to Da Nang and was waiting for orders for a clerk's job there for the last of his tour.

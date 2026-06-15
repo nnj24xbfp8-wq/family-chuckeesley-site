@@ -26,6 +26,18 @@ scans:
 
 **22 March 1971.** Charlie is somewhere in I Corps with the 101st Airborne. He has just received his **R&R orders** — the one week of authorized rest-and-recuperation leave a soldier on a Vietnam tour was granted — and he is writing Terrie to coordinate the trip. They have chosen **Hawaii**, the most common American R&R destination because spouses and girlfriends could fly out from the mainland to meet servicemembers there. The letter is the operational plan: how she'll get the tickets, how she'll get there, what he'll pack, what money he'll send. Beneath the logistics, it is the central reunion of the courtship year — the one face-to-face week between his shipping out in late 1969 and his return to Marietta in 1971.
 
+<aside class="not-prose my-8 border-l-4 border-amber-700 bg-amber-50/60 dark:bg-amber-950/20 px-6 py-5 rounded-r">
+
+**What 1-506 / 101st Abn was doing on 22 March 1971**
+
+**Final days of Operation Lam Son 719** (which would officially close 25 March 1971). The ARVN withdrawal from Laos was nearly complete; the 101st aviation brigade had absorbed the operation's most catastrophic helicopter losses (the campaign's final loss tally included over 100 US helicopters destroyed and several hundred damaged &mdash; the highest single-operation rate of the war). C Co, 1-506 was redeploying back into Thua Thien Province for the post-operation Jefferson Glenn rotation; the company would arrive at **Firebase Fury** on 29 March.
+
+That R&R orders cleared the army's system on the same week as the Lam Son 719 closure is not coincidence &mdash; the leave-system embargo that had cancelled R&R requests through February was lifting as the operation wound down.
+
+*Sources: [Wikipedia: Operation Lam Son 719](https://en.wikipedia.org/wiki/Operation_Lam_Son_719); [charlie1-506.com firebase rotation table](http://www.charlie1-506.com/html/pages%20from%20main%20nav/when_where.html).*
+
+</aside>
+
 The **Hawaii R&R program** processed roughly **200,000 servicemembers per year** at its 1969–70 peak through Fort DeRussy in Waikiki — the Army's R&R center on the beach. A week of hotel, a per-diem allowance, civilian clothes, a girlfriend or wife flown out from the mainland. For a soldier whose calendar was otherwise the rotation of missions, mail call, and the days-left-in-country count, that week was the year's emotional weight-bearing structure.
 
 ## The "Mrs. Eesley" detail

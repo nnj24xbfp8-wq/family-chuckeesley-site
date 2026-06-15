@@ -22,6 +22,16 @@ source: "Held in family archive — grandmaE1.pdf page 115 (gitignored locally; 
 
 16 December 1970. Charlie writes Terrie a letter that opens with mail-routing complaints, explains a photo of him she had received, and closes with the 60-day-early-drop rumor he was trying not to count on. The interior of the letter is one of the small sociological notes the corpus carries: a description of the enlisted men's club at Charlie's post, the Vietnamese women who worked there, and his honest read of who in country could be trusted.
 
+<aside class="not-prose my-8 border-l-4 border-amber-700 bg-amber-50/60 dark:bg-amber-950/20 px-6 py-5 rounded-r">
+
+**Where Charlie was on 16 December 1970**
+
+Last day on **Firebase Tomahawk** for C Co &mdash; the company left the firebase 16 December and entered a transition period until arriving at Firebase Bastogne 4 January 1971. Charlie's letter is from *"this post"* with an EM (enlisted men's) club, Vietnamese hostesses, and a city walking distance away &mdash; pointing to **Camp Eagle** (the 101st Abn divisional HQ at Phu Bai, walking distance to Hu&#7871;) rather than the forward firebase. The EM clubs at Camp Eagle were a standard amenity of the rear base, staffed under contract with local Vietnamese employees. Operation Jefferson Glenn continued in the background; the 60-day-early-drop rumor was the in-theater whisper that the army's Vietnamization drawdown might let extended-tour soldiers go home before their formal ETS.
+
+*Sources: [charlie1-506.com firebase rotation table](http://www.charlie1-506.com/html/pages%20from%20main%20nav/when_where.html); [Wikipedia: Camp Eagle (Vietnam)](https://en.wikipedia.org/wiki/Camp_Eagle_(Vietnam)).*
+
+</aside>
+
 ## Transcription
 
 > *Dec 16*

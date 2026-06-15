@@ -9,13 +9,13 @@ people:
   - terrie-lee-eesley
   - margaret-mcmaster-eesley
 partOf: letters-from-vietnam
-locationFrom: "Saigon, Vietnam"
+locationFrom: "Vietnam (Firebase Fury, southern Thua Thien Province — 1-506)"
 locationTo: "Maryland (University of Maryland, College Park)"
 postmarkDate: "1971-03-31"
 dateRange:
   start: "1971-03-31"
 private: false
-summary: "Charlie's letter to Terrie dated 31 March 1971 — nine days after his [22 March Saigon arrival](/docs/letters/charlie-to-terrie-1971-03-22/), responding to her 24 March letter saying she has her Hawaii R&R ticket already. The earliest R&R-planning letter in the corpus, predating the May 29 'seventeen days left' letter by nearly two months. Charlie's frame: they'll stay away from the R&R center and 'everything military' as much as possible, will only meet there. Notes that his mother Peggy McMaster Eesley's military-spouse orders may be useful for Terrie to get a reduced fare. Mentions Mrs. Young — whose daughter (a 'good friend of my parents') has recently died — as someone they won't be staying with."
+summary: "Charlie's letter to Terrie dated 31 March 1971 — nine days after his [22 March R&R-orders letter](/docs/letters/charlie-to-terrie-1971-03-22/), responding to her 24 March letter saying she has her Hawaii R&R ticket already. Two days after C Co arrived at Firebase Fury (29 March), the first firebase rotation after Lam Son 719 closed. Charlie's frame: they'll stay away from the R&R center and 'everything military' as much as possible, will only meet there. Notes that his mother Peggy McMaster Eesley's military-spouse orders may be useful for Terrie to get a reduced fare. Mentions Mrs. Young — whose daughter (a 'good friend of my parents') has recently died — as someone they won't be staying with."
 source: "Held in family archive — src/assets/family/originals/vietnam-letters/dad10.jpg."
 scans:
   - ../../../assets/family/originals/vietnam-letters/dad10.jpg
@@ -23,7 +23,17 @@ scans:
 
 ## What the letter is
 
-31 March 1971. Nine days after Charlie's [22 March 1971 Saigon arrival](/docs/letters/charlie-to-terrie-1971-03-22/), responding to a 24 March letter from Terrie saying she has her ticket for Hawaii R&R already in hand. The earliest R&R-planning letter in the corpus — by the time of the [29 May 'seventeen days left' letter](/docs/letters/charlie-to-terrie-1971-05-29/) two months later, the trip will be close to imminent, but here it is still ten weeks out and the logistics are being settled.
+31 March 1971. Nine days after Charlie's [22 March 1971 R&R-orders letter](/docs/letters/charlie-to-terrie-1971-03-22/), responding to a 24 March letter from Terrie saying she has her ticket for Hawaii R&R already in hand. By the time of the [29 May 'seventeen days left' letter](/docs/letters/charlie-to-terrie-1971-05-29/) two months later, the trip will be close to imminent, but here it is still nearly two weeks out and the logistics are being settled.
+
+<aside class="not-prose my-8 border-l-4 border-amber-700 bg-amber-50/60 dark:bg-amber-950/20 px-6 py-5 rounded-r">
+
+**What C Co, 1-506 was doing on 31 March 1971**
+
+**Second day at Firebase Fury** &mdash; C Co had arrived 29 March. Fury was a 101st Abn firebase in southern Thua Thien Province, dug in for the Operation Jefferson Glenn rocket-belt patrol mission. The post-Lam-Son operational tempo was dropping back to the routine of patrol, security, and pacification work that defined the last year of 101st ground operations before the division's stand-down. The R&R system was clearing the February backlog quickly.
+
+*Sources: [charlie1-506.com firebase rotation table](http://www.charlie1-506.com/html/pages%20from%20main%20nav/when_where.html); [Wikipedia: Operation Jefferson Glenn](https://en.wikipedia.org/wiki/Operation_Jefferson_Glenn).*
+
+</aside>
 
 ## Transcription
 
@@ -50,7 +60,7 @@ Mrs. Young. A cameo: Mrs. Young's daughter, a *"good friend of my parents,"* has
 | Date | Letter | What it records |
 |---|---|---|
 | 18 Feb 1970 | [Stateside NCO training](/docs/letters/charlie-to-terrie-1970-02-18-nco-training/) | Pre-deployment, conflicting rumors |
-| 22 Mar 1970 | [Saigon arrival](/docs/letters/charlie-to-terrie-1971-03-22/) | Just landed |
+| 22 Mar 1971 | [R&R orders letter](/docs/letters/charlie-to-terrie-1971-03-22/) | R&R orders received |
 | 31 Mar 1970 | This letter | R&R planning, 11 weeks out |
 | 2–3 Apr 1970 | [Hawaii-propriety letter](/docs/letters/charlie-to-terrie-1971-04-02-parents-against-hawaii/) | The Wildermuth-side parental objection |
 | 29 May 1970 | [17 days left](/docs/letters/charlie-to-terrie-1971-05-29/) | R&R is imminent |
