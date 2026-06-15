@@ -17,7 +17,7 @@ The corpus is a small one so far. As trips happen and the photographs and videos
 
 ## Trips logged so far
 
-- **[Thailand &mdash; Similan Islands](/docs/scuba-thailand-similan-islands/)** &mdash; the Andaman Sea archipelago in southern Thailand, famous for its hard-coral reefs, dramatic granite-boulder topography, and proximity to Richelieu Rock. Year(s) to be specified; photographs and video pending.
+- **[Thailand &mdash; Similan Islands, 2023](/docs/2023-scuba-thailand-similan-islands/)** &mdash; December 2023 Andaman Sea liveaboard, the earliest documented trip in the corpus. Famous for hard-coral reefs, dramatic granite-boulder topography, and proximity to Richelieu Rock. Five-minute YouTube recap attached.
 
 ## Trips planned
 
