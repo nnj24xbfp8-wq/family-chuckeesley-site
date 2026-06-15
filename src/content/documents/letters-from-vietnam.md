@@ -100,7 +100,7 @@ The letters that are reproduced in full on this site, in date order. Letters in 
 - [21 November 1970 &mdash; monsoons + *"violent campus"* read](/docs/letters/charlie-to-terrie-1970-11-21/)
 - [16 December 1970 &mdash; the enlisted men's club photo + Vietnamese hostesses + 60-day-drop rumor](/docs/letters/charlie-to-terrie-1970-12-16-em-club-photo/)
 - [31 December 1970 &mdash; *"the 10-month tour is definite"*](/docs/letters/charlie-to-terrie-1970-12-31-ten-month-tour-definite/)
-- [c. late 1970 / early January 1971 &mdash; marijuana, the Donut Dollies, and the GI culture letter](/docs/letters/charlie-to-terrie-1970-marijuana-and-donut-dollies/)
+- [c. late 1970 / early January 1971 &mdash; marijuana, the Donut Dollies, and the GI culture letter](/docs/letters/charlie-to-terrie-1971-01-danang-base-and-gi-life/)
 
 **January-February 1971 &mdash; the extension decision and the Laos thread**
 
