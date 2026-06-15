@@ -49,7 +49,7 @@ The portrait places **Dwight Kennedy Chenoweth** (1880-1957, d. Biloxi, Mississi
 Per Roberta Burnes Walker's reconstruction from Aunt Mary Eesley Bean's research papers (June 2026), Lillie Dale was the **fourth of five Chenoweth children** of Joseph Hill + Mary Ohio Timmons, in order of birth:
 
 1. **Howard Glen Chenoweth** &mdash; eldest brother (not yet a person page)
-2. **Elsie Chenoweth** &mdash; older sister (not yet a person page)
+2. **[Elsie Chenoweth Borror](/family/elsie-chenoweth-borror/)** &mdash; older sister; married Jonas Borror; the c. 1905-1910 family-of-four portrait from Roberta surfaces her in this archive June 2026
 3. **[Scioto Mafry Chenoweth](/family/scioto-mafry-chenoweth/)** (1871-1930) &mdash; older sister, the Maggie's-deck "first woman MD" figure
 4. **Lillie Dale Chenoweth Eesley** (1877-1970) &mdash; this page
 5. **[Dwight Kennedy Chenoweth](/family/dwight-chenoweth/)** (1880-1957) &mdash; youngest brother, the Dwight of the c. 1890s diptych above

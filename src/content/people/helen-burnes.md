@@ -47,6 +47,20 @@ The logic she's working through:
 
 This page now carries the photograph as **the toddler that Roberta originally identified as Jean and has, in June 2026, partly retracted to a possible Helen identification**. The identification remains open. Resolving it depends on resolving Jean's birth year, which itself remains unsettled (see [Jean's page](/family/jean-goldie-eesley/) for the dating question).
 
+## On the Pacific shore as a teenager — westbound trip with Grandma Lillie Dale, c. 1939-1941
+
+![Helen Eesley as a teenager &mdash; about fifteen to seventeen years old &mdash; standing on a pebble-and-cobble beach with the Pacific Ocean behind her, smiling at the camera. She is in a light cap-sleeved blouse with decorative trim and a long dark skirt, white socks and oxford shoes; her hair is set in shoulder-length waves. To the right of the frame: a wooded shoreline; to the left: open water and a flat horizon. c. 1939-1941. From Roberta Burnes Walker's keeping &mdash; taken on Helen's westbound trip with her mother Lillie Dale Chenoweth Eesley.](../../assets/family/originals/helen-eesley-teen-pacific-shore-c1939-1941.jpeg)
+
+The single most adventurous frame of Helen this archive holds, surfaced from Roberta's June 2026 batch:
+
+> *Photo 2: My mother on the shore of the Pacific Ocean, taken during her trip out west with Grandma.*
+
+The "Grandma" Roberta refers to is **[Lillie Dale Chenoweth Eesley](/family/lillie-dale-chenoweth/)** &mdash; Helen's mother and Roberta's maternal grandmother. So this is a frame of Helen as a teenager on a **mother-daughter westbound trip from Bexley, Ohio to the Pacific coast** &mdash; the kind of trip Midwestern families took in the late 1930s and early 1940s on the new transcontinental highway system, when a young woman's first sight of the Pacific Ocean was a coming-of-age trip her mother could give her before the war made such travel difficult.
+
+The dating is approximate. Helen's apparent age in the frame &mdash; **about fifteen to seventeen** &mdash; puts the photograph in **c. 1939-1941**, the last window of relatively unrestricted civilian travel before American entry into the war made cross-country trips logistically harder. The cobbled beach and treed coastline are consistent with the **Pacific Northwest** (Washington or Oregon coast) rather than the smoother sand beaches of California, but a more specific place is open.
+
+This is the documentary frame of Helen at the **age she would have been when her brother Dale died at Black Lake (July 1939, Helen aged fifteen) and her brother Lyle was preparing for his Pacific deployment (1941, Helen aged seventeen)**. The Pacific shore she's standing on in this photograph would, within a year or two, become **the same ocean Lyle would die on the wrong side of** at Cabanatuan in July 1942 &mdash; an unbearable parallel only the next generation could see.
+
 ## Helen as the family's Aunt Ota carrier
 
 Helen had **six years and twenty-four days** with her aunt Ota &mdash; from her 16 January 1924 birth (which Ota delivered) to Ota's 9 February 1930 death at the Bexley house on Cassidy Avenue (which Helen, age six, was present for). Across those six years Helen also watched, as a curious four- or five-year-old peeking through an upstairs bedroom door, her aunt give her final anatomy lesson to Helen's older brother [Don Eesley](/family/don-eesley/) &mdash; Aunt Ota unwrapping her radiation-burned abdomen as the textbook for Don's possible medical career. *Helen never forgot.* She told the stories often to her daughters across the rest of her life, and Roberta &mdash; in a June 2026 email to Chuck &mdash; passed them on to this archive. The full set of Aunt Ota stories is now on [Scioto Mafry Chenoweth Smith's page](/family/scioto-mafry-chenoweth/); the chain of family memory ran from Aunt Ota to Helen to Roberta to here.

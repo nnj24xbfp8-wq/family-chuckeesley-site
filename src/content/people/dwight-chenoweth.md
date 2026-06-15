@@ -32,7 +32,17 @@ The baby in the frame is **about six months to a year old**, with a thin wisp of
 
 Dwight also appears in the [c. 1890s double portrait with his sister Lillie Dale](/family/lillie-dale-chenoweth/) &mdash; the studio frame of the two siblings in their teens or early twenties, taken around the time one of them was leaving the household. He is on the right in the image, in suit and tie; Lillie is on the left.
 
-The two portraits together &mdash; the baby in 1880 in the embroidered gown, and the young man in the early 1890s with his older sister &mdash; bracket about fifteen years of his life and are the documentary frame the archive currently carries.
+## Adult portrait — c. 1910-1920, on a brick porch
+
+A third photograph of Dwight arrived in this archive in June 2026, again from Roberta Burnes Walker's keeping. The image was labeled in blue ink at the bottom &mdash; *"Dwight"* &mdash; the same caption convention Roberta's mother Helen used across the family album.
+
+![Dwight Kennedy Chenoweth as a young adult, c. 1910-1920, seated cross-legged in a wooden chair against a brick wall (likely a porch). He is in dark trousers, white dress shirt, and a thin tie; smiling slightly at the camera. Blue-ink caption "Dwight" handwritten at the bottom of the print, in the family-album hand. From Roberta Burnes Walker's keeping.](../../assets/family/originals/dwight-chenoweth-adult-portrait.jpeg)
+
+He sits in a **simple wooden side chair against a brick wall** &mdash; almost certainly a porch &mdash; with his left leg crossed over his right knee, ankle resting on top. The frame catches him in his **late twenties to mid-thirties**, putting the photograph somewhere between roughly **1908 and 1915**. He is in a tieless or thin-tied dress shirt, sleeves slightly rolled, the relaxed dress of a man at home on a Sunday afternoon rather than at a studio sitting.
+
+The three Dwight portraits the archive now holds &mdash; the **1880 baby in the christening gown**, the **early 1890s teen diptych with Lillie Dale**, and this **c. 1910-1920 adult porch portrait** &mdash; span roughly thirty years of his life, from infancy through young manhood. **Helen's caption hand** on this print connects the family memory chain through to the Burnes archive that ended up with Roberta.
+
+## The two portraits-and-a-survival-record together &mdash; the baby in 1880 in the embroidered gown, the young man in the early 1890s, and the adult on the brick porch &mdash; bracket about thirty-five years of his life and are the documentary frame the archive currently carries.
 
 ## What's open
 
