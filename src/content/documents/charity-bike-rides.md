@@ -16,9 +16,11 @@ teaser: "Annual ADA Tour de Cure and MS Society Waves to Wine rides, anchored in
 
 [Charlie Eesley](/family/charles-eesley/) &mdash; Chuck's father, the Vietnam-veteran-turned-Marietta-businessman whose [1969-1971 letters home](/docs/letters-from-vietnam/) make up the largest single corpus on this archive &mdash; **died on 26 November 2015 of complications from diabetes**. He had carried Type 2 diabetes for years; the eventual cause of death sat on top of decades of the small daily diabetic toll the disease takes on heart, kidneys, eyes, and feet.
 
-Within the first year after his father's death, Chuck and Lijie began riding annually in the **[American Diabetes Association's Tour de Cure](https://diabetes.org/tour)** &mdash; the ADA's nationwide cycling fundraiser, which raises tens of millions of dollars each year for diabetes research, awareness, and patient care.
+Beginning in **2016** &mdash; the year after Charlie's death &mdash; Chuck and Lijie have ridden **every year in the [American Diabetes Association's Tour de Cure](https://diabetes.org/tour)**, the ADA's nationwide cycling fundraiser, which raises tens of millions of dollars each year for diabetes research, awareness, and patient care. The continuous record runs 2016 through the present.
 
-The **[National MS Society's Waves to Wine](https://www.nationalmssociety.org/get-involved/events-and-fundraisers)** &mdash; the two-day Bay Area MS Society route running from San Francisco through the Sonoma wine country &mdash; sits alongside the ADA ride and is anchored differently. Chuck and Lijie's friend **Paul Twohey** got Chuck onto the ride in **2014**, before Charlie's death; the practice has continued since. No immediate family member has MS, but the years of riding have put Chuck and Lijie in contact with many people living with the disease and reinforced the commitment.
+The **[National MS Society's Waves to Wine](https://www.nationalmssociety.org/get-involved/events-and-fundraisers)** &mdash; the two-day Bay Area MS Society route running from San Francisco through the Sonoma wine country &mdash; runs a year longer and is anchored differently. Chuck and Lijie's friend **Paul Twohey** got Chuck onto the ride in **2014**, before Charlie's death, and they have ridden it **every year since &mdash; 2014 through the present**. No immediate family member has MS, but the years of riding have put Chuck and Lijie in contact with many people living with the disease and reinforced the commitment.
+
+**Not every year has a five-minute video posted to YouTube; the years collected below are the years a video survives.** The years not listed are years the rides happened anyway.
 
 ## The Empo Health connection &mdash; the same impulse, made scientific
 
@@ -47,13 +49,23 @@ Each ride below is a roughly five-minute YouTube recap.
   <p class="text-sm text-ink/60 italic text-center mt-1"><a href="https://youtu.be/yQkbItBM_Uw">youtu.be/yQkbItBM_Uw</a></p>
 </div>
 
-**MS Society Waves to Wine.** Paul Twohey's introduction year &mdash; the MS-rides practice begins here.
+**MS Society Waves to Wine.** Paul Twohey's introduction year &mdash; the MS-rides practice begins here. Continued every year since.
 
 <div class="not-prose my-6 max-w-2xl mx-auto">
   <div class="relative" style="padding-top: 56.25%">
     <iframe class="absolute inset-0 w-full h-full" src="https://www.youtube.com/embed/UMfhQQZMvdI" title="2014 MS Waves to Wine ride" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   </div>
   <p class="text-sm text-ink/60 italic text-center mt-1"><a href="https://youtu.be/UMfhQQZMvdI">youtu.be/UMfhQQZMvdI</a></p>
+</div>
+
+**Lijie crossing the finish line, 20 September 2014.** A phone-video clip from the same year's ride.
+
+<div class="not-prose my-6 max-w-2xl mx-auto">
+  <video controls preload="metadata" class="w-full rounded">
+    <source src="/videos/lijie-finish-line-2014-waves-to-wine.mp4" type="video/mp4">
+    Your browser doesn't support embedded video. <a href="/videos/lijie-finish-line-2014-waves-to-wine.mp4">Download the video</a>.
+  </video>
+  <p class="text-sm text-ink/60 italic text-center mt-1">Lijie crossing the finish line, MS Society Waves to Wine, 20 September 2014.</p>
 </div>
 
 ### <a id="2015"></a>2015
