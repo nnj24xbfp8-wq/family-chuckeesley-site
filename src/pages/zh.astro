@@ -8,7 +8,7 @@ const zhouPeople = allPeople.filter((p) => p.data.line === 'zhou');
 // Group by relationship to Lijie for the Chinese-language listing.
 // We do this by id since names are mixed-language.
 const groups: Record<string, string[]> = {
-  '丽洁本人': ['lijie-zhou'],
+  '丽婕本人': ['lijie-zhou'],
   '父母 — Lijie\'s parents': ['ling-zhou', 'xun-li'],
   '祖父母与外祖父母 — grandparents': ['zhaoxiang-zhou', 'yunzhe-sun', 'zhongchu-li', 'yaozhen-shang'],
   '叔伯姑舅 — aunts and uncles': ['quan-zhou', 'ai-qin-zhou', 'ai-hua-zhou', 'mengling-li', 'bo-li'],
@@ -87,13 +87,13 @@ const peopleById = new Map(allPeople.map((p) => [p.id, p]));
   <section class="prose max-w-prose mt-12">
     <h2 class="text-2xl">地点 — Places</h2>
     <ul class="not-prose space-y-2">
-      <li><a href="/places/qingdao/" class="text-lg"><span class="font-serif">青岛</span> <span class="text-ink/50 text-sm ml-2">&middot; Qingdao</span></a> &mdash; 周氏与李氏、商氏一脉的现代家乡。</li>
+      <li><a href="/places/qingdao/" class="text-lg"><span class="font-serif">青岛</span> <span class="text-ink/50 text-sm ml-2">&middot; Qingdao</span></a> &mdash; 周氏与李氏、尚氏一脉的现代家乡。</li>
       <li><a href="/family/zhaoxiang-zhou/" class="text-lg"><span class="font-serif">胶州市</span> <span class="text-ink/50 text-sm ml-2">&middot; Jiaozhou Shi</span></a> &mdash; 周兆祥（1930年生于此）所代表的周氏远祖之地。</li>
     </ul>
 
     <h2 class="text-2xl mt-8">关于姓名汉字</h2>
     <p>
-      本档案中周家、李家、商家的姓氏均已确认。**人名（即姓名中除姓氏外的部分）的汉字**在Lijie家族确认前为编者音译推测。家族确认者会标注"姓名汉字已由家族确认"。
+      本档案中周家、李家、尚家的姓氏均已确认。**人名（即姓名中除姓氏外的部分）的汉字**在Lijie家族确认前为编者音译推测。家族确认者会标注"姓名汉字已由家族确认"。
     </p>
     <p>
       <strong>已由家族确认的姓名：</strong>
