@@ -16,7 +16,7 @@ summary: "Lijie's maternal grandmother. Born 11 September 1921 in Qingdao — th
 
 Shang Yaozhen was born in Qingdao on **11 September 1921**, three days before her future husband [Zhongchu Li](/family/zhongchu-li/). They had three children, including [Lijie's mother Xun Li](/family/xun-li/) (b. 1956). Her husband died in 1982; she lived another **thirty years** as a widow, and watched her granddaughter Lijie grow from infancy through young adulthood. She died **10 January 2013**, age 91.
 
-She is the one grandparent on Lijie's side who lived to meet her granddaughter — and Chuck.
+She is the one grandparent on Lijie's side who lived to see her granddaughter into adulthood. She died in January 2013, two years before Lijie married Chuck in 2015; **Chuck never met her**.
 
 The earliest photograph of her in this archive is the c. 1986–87 family-table portrait of [her with Lijie as a small child, alongside Lijie's paternal grandmother Yunzhe Sun](/archive/lijie-with-two-grandmothers-c1986/) &mdash; the kind of three-generation New Year photograph that Chinese families take and keep.
 
@@ -30,7 +30,7 @@ The earliest photograph of her in this archive is the c. 1986–87 family-table 
 
 **尚耀真**（姓氏确定；名字汉字"耀珍"（2026年6月由Lijie之母确认更正））&mdash; 周丽婕的外祖母。1921年9月11日生于青岛，比未来丈夫[李仲初](/family/zhongchu-li/)早三天出生于同一城市。育有三子女，包括[周丽婕的母亲李恂](/family/xun-li/)（1956年生）。1982年丈夫辞世后，**独自寡居三十年**，亲眼见证外孙女周丽婕从婴儿长大成人。**2013年1月10日辞世，享年91岁。**
 
-她是周丽婕这一脉中唯一活着见到外孙女长大、并见到Chuck的祖辈。
+她是周丽婕这一脉中唯一活着见到外孙女长大成人的祖辈。2013年1月辞世，距离Lijie与Chuck于2015年结婚尚差两年 &mdash; **她未及与Chuck谋面**。
 
 ### 耀字辈
 

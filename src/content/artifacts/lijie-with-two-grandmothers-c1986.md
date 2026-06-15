@@ -20,7 +20,7 @@ Lijie as a toddler — likely three or four years old, so the photograph dates t
 
 This is the single most consequential photograph of Lijie's early childhood now in the archive. Both grandmothers are alive — Yaozhen and Yunzhe both. **Zhongchu Li** (the maternal grandfather) had died in 1982; **Zhaoxiang Zhou** (the paternal grandfather) was still alive in Jiaozhou but is not in this frame. The two surviving grandmothers and the small granddaughter at the same table is what passes for the most universal Chinese family-table photograph — the year's reunion meal, with the eldest generation and the youngest in the same room.
 
-Yaozhen would live another twenty-six years; Yunzhe another thirty-six. Lijie would marry Chuck in 2015 — Yaozhen alive to know about it; Yunzhe alive at her wedding day. The arc of how long the two women in this 1986 photograph would live, after this small frame, is one of the structural facts of Lijie's biography.
+Yaozhen would live another twenty-six years, until January 2013; Yunzhe would live another thirty-six, until 2023. Lijie would marry Chuck in 2015 — **Yaozhen had already died by then, and so Chuck never met her**; Yunzhe was alive at the wedding. The arc of how long the two women in this 1986 photograph would live, after this small frame, is one of the structural facts of Lijie's biography — and it cuts off two years short of the marriage on the Shang side.
 
 ---
 
@@ -34,6 +34,6 @@ Lijie约三四岁时与**外祖母 [尚耀真](/family/yaozhen-shang/)**（左�
 
 这是本档案中Lijie幼年最具意义的照片。当时**李仲初**（外祖父）已于1982年辞世；**周兆祥**（祖父）尚在世，但不在此画面中。两位健在的祖母与幼小的外孙女同桌 &mdash; 即中国家庭最常见、最普遍的"团圆饭"画面。
 
-尚耀真后又活了二十六年，孙云哲又活了三十六年。Lijie与Chuck于2015年结婚 &mdash; 尚耀真来得及知道，孙云哲也来得及在结婚那年仍在世。这张1986年小框中的两位长者，在此之后究竟还能陪伴Lijie多久，本身已是Lijie人生的一个结构性事实。
+尚耀真后又活了二十六年（2013年1月辞世），孙云哲又活了三十六年（2023年辞世）。Lijie于2015年与Chuck结婚 &mdash; **届时尚耀真已辞世两年，Chuck与她未及谋面**；孙云哲则在婚礼之日尚健在。这张1986年小框中的两位长者，在此之后究竟还能陪伴Lijie多久，本身已是Lijie人生的一个结构性事实 &mdash; 而尚家这一侧，于婚礼两年之前便已断章。
 
 > *注：除姓氏外人名汉字为推测，待家族确认（部分姓名汉字已由家族确认）。*
