@@ -20,6 +20,11 @@ Lijie was born in **Qingdao** on China's eastern coast, in **Shandong** province
 
 She joined Chuck on the [2018 visit to the Oxford public library](/docs/eesley-line-research-notes/) where the volunteer genealogist worked through the Eesley line back to Joseph and Frances Ayris. The Oxfordshire half of the surviving English research record bears her presence as well as his.
 
+## Annual practices with Chuck
+
+- The [**charity bike rides**](/docs/charity-bike-rides/) &mdash; the annual ADA Tour de Cure and MS Society Waves to Wine rides she and Chuck have ridden together for over a decade, plus the destination rides (Sequoia, Asti Tour de Vine, Mo'omomi Beach on Molokai) that sit alongside. The corpus runs from 2014 through 2026 as five-minute YouTube videos collected year by year.
+- The [**scuba diving trips**](/docs/scuba-trips/) &mdash; their shared liveaboard practice, opened with Thailand's Similan Islands in December 2023 and continuing with a Philippines trip planned for the 2026&ndash;27 new year.
+
 Other details withheld &mdash; living. The biographical layer here is meant to grow as Lijie chooses to add to it.
 
 ## Her family

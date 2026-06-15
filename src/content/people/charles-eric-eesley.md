@@ -46,6 +46,11 @@ Chuck's annual Kobe University teaching and his entrepreneurship-in-Japan resear
 - The [Tsinghua University gate (清華園), Beijing](/archive/chuck-at-tsinghua/) &mdash; Chuck at the famous Republican-era main gate of Tsinghua, the closest Chinese counterpart to his Stanford appointment.
 - The various [Stanford](/places/stanford-university/), [Old Stratford Rother Street](/places/old-stratford-rother-street/), [Banbury](/places/banbury/), [Rielingshausen church](/places/rielingshausen-church/), and [Lingyin Temple](/places/lingyin-temple-hangzhou/) place pages carry the rest of his pilgrimage photography.
 
+## Annual practices with Lijie
+
+- The [**charity bike rides**](/docs/charity-bike-rides/) &mdash; twelve years of annual ADA Tour de Cure and MS Society Waves to Wine rides with Lijie, anchored in Charlie's November 2015 death from diabetes complications and threaded through to the [Empo Health](https://www.empohealth.com/) venture investment in diabetic-foot-ulcer diagnostics. Each year's ride is a five-minute YouTube video; the page collects them year by year.
+- The [**scuba diving trips**](/docs/scuba-trips/) &mdash; the underwater companion corpus to the bike rides. Thailand's Similan Islands so far, Philippines liveaboard planned for December 2026.
+
 Other details withheld &mdash; living.
 
 ## See also
