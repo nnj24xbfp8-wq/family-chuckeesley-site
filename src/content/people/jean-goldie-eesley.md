@@ -28,14 +28,17 @@ The clinical picture is consistent with what was then known as **delayed-onset e
 
 The Jean-and-Ota and Helen-and-Ota threads place Aunt Ota at two of the most charged family-medical moments of the 1920s: she **delivered Helen on 16 January 1924** and **treated Jean's October 1925 death** &mdash; the close-spaced new-life-and-lost-life events Lillie Dale's household lived through in those twenty-one months. The accident that took Jean is what the Mary-Bean-1985-register *"died at 12"* and the [Charlie-1965-autobiography](/docs/charles-eesley-12th-grade-autobiography-1965/) *"died from a childhood accident at five"* references both come from. The car crash is the source story.
 
-## The dates question
+## The dates question — still unsettled (June 2026 update)
 
-This page's dates have an interesting documentary history that's worth recording: **three slightly different readings** appeared in different family sources, and the GEDCOM ultimately settled it:
+This page's dates have an interesting documentary history. **Four slightly different readings** have appeared in different family sources, and the question is still partly open:
 
-- **Mary Bean's 1985 *Eesley Family History*** gave her as *"b. Oct. 28, 1912, Grove City Ohio. d. died 1924, Columbus Ohio"* — making her 12 at death. **The 1912 birth was wrong by exactly nine years**, likely a transcription error in the 1985 register.
+- **Mary Bean's 1985 *Eesley Family History*** gave her as *"b. Oct. 28, 1912, Grove City Ohio. d. died 1924, Columbus Ohio"* — making her 12 at death.
 - **The c. 1970s Eesley reunion-portrait caption** gave her as *"1926—1930"* (age 4).
-- **Dale's GEDCOM (FS LB4Y-P86)** has her as **28 October 1921 to 13 October 1925** (age 4) — the most precise reading.
+- **Dale's GEDCOM (FS LB4Y-P86)** gives her as **28 October 1921 to 13 October 1925** (age 4).
+- **Roberta Burnes in June 2026** noted she keeps getting *different* dates from different sources and is no longer sure the GEDCOM's 1921 is right: she now thinks Jean may have been born around **1926** — which would put her death around 1930 and make her younger than her sister Helen (b. 16 January 1924) rather than older. (See the photo-correction note below: a photograph of a little girl previously attributed to Jean turns out, on Roberta's reconsideration, to be a young photograph of her mother Helen — supporting the possibility that Jean's birth year is different from the 1921 the GEDCOM gives.)
 
-The reunion-portrait caption and the GEDCOM both **agree that she died at age 4**; they differ by five years on the actual year. The GEDCOM is treated as authoritative here. The 1912–1924 dates from Bean's register have been replaced.
+The GEDCOM dates (1921–1925, age 4) and the reunion-portrait caption (1926–1930, age 4) both agree on age-4-at-death; they differ by five years on the actual year window. Charlie's autobiography says she died at age five from a childhood accident — closer to either reading than to Bean's *died at 12* note.
+
+**The date this page carries in its frontmatter remains 28 October 1921 (GEDCOM)** as the most-cited single source, but with the explicit caveat that the year is not settled — the actual birth-year may be in either the 1921 or the 1926 window. A definitive death-certificate scan from the Franklin County, Ohio probate records would close the question.
 
 She is the predeceased sister Will's 1986 obituary refers to.

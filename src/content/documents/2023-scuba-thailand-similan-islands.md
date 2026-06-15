@@ -1,13 +1,13 @@
 ---
-title: "Thailand — Similan Islands liveaboard"
+title: "Thailand — Similan Islands liveaboard, 2023"
 type: essay
-sortDate: "2018-12-01"
+sortDate: "2023-12-01"
 partOf: scuba-trips
 people:
   - charles-eric-eesley
   - lijie-zhou
-summary: "Chuck and Lijie's scuba liveaboard trip(s) through Thailand's Similan Islands — the Andaman Sea archipelago off the west coast of southern Thailand, one of Southeast Asia's premier dive destinations. The Similans are famous for hard-coral reefs, dramatic granite-boulder topography, and proximity to Richelieu Rock. Specific dates, operator, dive sites, photographs and video to come."
-teaser: "The Similan Islands liveaboard — Thailand's Andaman Sea coral and granite-boulder reefs. Details and visual record to come."
+summary: "Chuck and Lijie's December 2023 scuba liveaboard through Thailand's Similan Islands — the Andaman Sea archipelago off the west coast of southern Thailand, one of Southeast Asia's premier dive destinations. The Similans are famous for hard-coral reefs, dramatic granite-boulder topography, and proximity to Richelieu Rock. Specific operator, dive sites, photographs and video to come."
+teaser: "December 2023 Similan Islands liveaboard — Thailand's Andaman Sea coral and granite-boulder reefs."
 ---
 
 ## The Similan Islands

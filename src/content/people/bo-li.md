@@ -1,5 +1,5 @@
 ---
-name: "Li Bo 李波"
+name: "Li Bo 李勃"
 aka: "Bo Li"
 line: zhou
 parents:
@@ -21,6 +21,6 @@ Details withheld &mdash; living.
 
 ## 中文
 
-**李波**（姓氏确定；名字汉字待家族确认）&mdash; 周丽婕之姨母，其母[李恂](/family/xun-li/)之妹。
+**李勃**（姓氏确定；名字汉字已由Lijie之母于2026年6月确认）&mdash; 周丽婕之姨母，其母[李恂](/family/xun-li/)之妹。
 
-> *详细生平从略 &mdash; 在世。除姓氏外人名汉字为推测，待家族确认。*
+> *详细生平从略 &mdash; 在世。除姓氏外人名汉字为推测，已由Lijie之母于2026年6月确认。*

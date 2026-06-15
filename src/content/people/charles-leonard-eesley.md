@@ -63,10 +63,10 @@ Together they raised **ten children**, with two losses along the way:
 - **James Michael "Mike"** (October 26, 1908)
 - **Donald Stuart "Don"** (September 24, 1908 – May 15, 1975, Tulsa OK)
 - **Wilbur "Will" Chenoweth** (October 6, 1910 – 1986)
-- **[Jean Goldie](/family/jean-goldie-eesley/)** (October 28, 1912 – 1924) — died at age 12 in Columbus
+- **[Jean Goldie](/family/jean-goldie-eesley/)** (28 October 1921 – 13 October 1925 per GEDCOM, age 4 at death; the year is not fully settled — see [her page](/family/jean-goldie-eesley/) for the unsettled dating per Roberta Burnes's June 2026 reconsideration, which proposes a 1926-1930 window instead)
 - **[Mary Elizabeth](/family/mary-eesley-bean/)** (August 25, 1913, Shelby MI), who married William Thomas Bean and wrote the 1985 family history
 - **[Lyle](/family/lyle-eesley/)** (August 12, 1916, Grove City OH – July 25, 1942, Cabanatuan Prison Camp, Luzon, Philippines) — died as a Japanese POW at age 25
-- **[Dale Dudley](/family/dale-eesley/)** (August 5, 1906, Pleasant Township, Franklin OH – July 14, 1939) — died at age 32; engaged to Thelma Haughn. (Bean's 1985 register gives his middle name as "George" and his birth year as 1916; the GEDCOM and FamilySearch MCZ8-WYX correct both to "Dale Dudley" and 1906.)
+- **[Dale Dudley](/family/dale-eesley/)** (August 5, 1906, Pleasant Township, Franklin OH – July 14, 1939) — died at age 32; **married Thelma Z. Haughn 15 November 1927** (correction June 2026 from Roberta's Ancestry find — they were married eleven and a half years, not engaged as this archive previously recorded). (Bean's 1985 register gives his middle name as "George" and his birth year as 1916; the GEDCOM and FamilySearch MCZ8-WYX correct both to "Dale Dudley" and 1906.)
 - **[Helen Louise](/family/helen-burnes/)** (January 16, 1924, Columbus OH), who married Edwin William Burnes — Roberta Burnes's mother
 
 ## The two acts that define him

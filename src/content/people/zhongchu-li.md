@@ -1,5 +1,5 @@
 ---
-name: "Li Zhongchu 李忠初"
+name: "Li Zhongchu 李仲初"
 aka: "Zhongchu Li"
 line: zhou
 birth:
@@ -33,7 +33,7 @@ The portrait above &mdash; the studio photograph showing him in a dark high-coll
 <figure class="my-6 max-w-md mx-auto not-prose">
   <video src="/family/zhongchu-li-portrait-animated.mp4" controls muted loop playsinline class="w-full"></video>
   <figcaption class="text-sm text-ink/70 mt-2 italic">
-    此为本页顶部李忠初照片之**人工智能动画化**版本 &mdash; 让他的面容微微动起来、眨眼、呼吸。<strong>此为诠释性影像，非真实记录</strong>：以静态照片为底，AI生成的微动效果，作为未曾谋面的后辈想象他生前神态的一种辅助。原始照片仍是历史档案，此动画仅为想象的工具，非实际影像。
+    此为本页顶部李仲初照片之**人工智能动画化**版本 &mdash; 让他的面容微微动起来、眨眼、呼吸。<strong>此为诠释性影像，非真实记录</strong>：以静态照片为底，AI生成的微动效果，作为未曾谋面的后辈想象他生前神态的一种辅助。原始照片仍是历史档案，此动画仅为想象的工具，非实际影像。
   </figcaption>
 </figure>
 
@@ -61,8 +61,8 @@ This photograph was previously catalogued on the [Zhaoxiang Zhou page](/family/z
 
 ## 中文
 
-**李忠初**（姓氏确定；名字汉字"忠初"系据拼音推测，待家族确认）&mdash; 周丽婕的外祖父。1921年9月15日生于青岛 &mdash; 与其未来妻子[商耀珍](/family/yaozhen-shang/)同年同地出生，仅相隔三天（耀珍生于9月11日）。两人成长于德占末期、日占、民国和新中国成立等历史巨变之间，共育三子女，包括[周丽婕的母亲李恂](/family/xun-li/)（1956年生）。
+**李仲初**（姓氏确定；名字汉字"忠初"（2026年6月由Lijie之母确认更正））&mdash; 周丽婕的外祖父。1921年9月15日生于青岛 &mdash; 与其未来妻子[尚耀真](/family/yaozhen-shang/)同年同地出生，仅相隔三天（耀珍生于9月11日）。两人成长于德占末期、日占、民国和新中国成立等历史巨变之间，共育三子女，包括[周丽婕的母亲李恂](/family/xun-li/)（1956年生）。
 
 **1982年11月1日辞世，享年61岁** &mdash; 距女儿李恂与[周凌](/family/ling-zhou/)结婚（1982年9月18日）仅六周，距外孙女周丽婕出生尚有一年多。终未能见到外孙女。
 
-> *注：除姓氏外，人名汉字均为推测，待家族确认。*
+> *注：除姓氏外，人名汉字均为推测，已由Lijie之母于2026年6月确认。*

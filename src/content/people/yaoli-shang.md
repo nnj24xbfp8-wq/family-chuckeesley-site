@@ -1,5 +1,5 @@
 ---
-name: "Shang Yaoli 商耀莉"
+name: "Shang Yaoli 尚耀莉"
 aka: "Yaoli Shang"
 line: zhou
 parents:
@@ -18,6 +18,6 @@ Birth and death not yet recorded. The youngest sibling of the Shang generation.
 
 ## 中文
 
-**商耀莉**（姓氏确定；名字汉字"耀莉"系据拼音及"耀"字辈推测，待家族确认）&mdash; 周丽婕的姨外祖母，商氏兄妹中最幼者。生卒待补。
+**尚耀莉**（姓氏确定；名字汉字"耀莉"系据拼音及"耀"字辈推测，待家族确认）&mdash; 周丽婕的姨外祖母，尚氏兄妹中最幼者。生卒待补。
 
 > *注：除姓氏外人名汉字为推测，待家族确认。*
