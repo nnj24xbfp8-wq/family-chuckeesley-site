@@ -14,7 +14,7 @@ parents:
   - lillie-dale-chenoweth
 spouses:
   - thelma
-summary: "Brother of Will Eesley. Born 5 August 1906 in Pleasant Township, Franklin County, Ohio; died 14 July 1939, age 32, in Franklin County and buried at Grove City. Married Thelma Z. Haughn on 15 November 1927 in Franklin County, Ohio — their marriage license #79220, surfaced from Ancestry by Roberta Burnes in June 2026, corrects nearly a century of family memory that they were only engaged. They were married for eleven and a half years until Dale's drowning at Black Lake, Michigan in July 1939. Helen Eesley Burnes never referred to Thelma as 'Aunt Thelma' to her own children; Thelma was known to the next generation only as 'a friend of the family' in Columbus. Appears in the c. 1937–1939 group portrait of Charles Leonard with five of his adult sons — the one definitive frame of him alive in the family. FamilySearch ID MCZ8-WYX."
+summary: "Brother of Will Eesley. Born 5 August 1906 in Pleasant Township, Franklin County, Ohio; died 14 July 1939, age 32, by drowning at Black Lake, Michigan; buried at Grove City. Married Thelma Z. Haughn on 15 November 1927 in Franklin County, Ohio — their marriage license #79220, surfaced from Ancestry by Roberta Burnes in June 2026, corrects nearly a century of family memory that they were only engaged. They were married for eleven and a half years. The day Dale drowned, his fifteen-year-old sister Helen had asked him to take the boat across Black Lake to buy her chocolate at the general store; the guilt over that request stayed with Helen for the rest of her life. Helen's daughter Roberta has no memory of her mother ever calling Thelma 'Aunt Thelma'; Thelma was known to the next generation only as 'a friend of the family' in Columbus. Appears in the c. 1937–1939 group portrait of Charles Leonard with five of his adult sons — the one definitive frame of him alive in the family. FamilySearch ID MCZ8-WYX."
 ---
 
 Dale Dudley Eesley was born **5 August 1906 in Pleasant Township, Franklin County, Ohio**. He died **14 July 1939**, age **32**, and is buried at Grove City, Franklin County, Ohio. He was married to **[Thelma Z. Haughn](/family/thelma/)** for the last eleven and a half years of his life; she outlived him by some decades and remained part of the family circle until her death in the 1970s.
@@ -31,26 +31,29 @@ For most of this archive's life, Dale and Thelma have been described as engaged 
 
 So Dale and Thelma were married on **15 November 1927**, at age 21 each. The marriage lasted **eleven and a half years**, until Dale's drowning at Black Lake on 14 July 1939. Thelma was Dale's wife of nearly twelve years, not his fiancée. Family memory had it wrong &mdash; in a way that turns out to matter.
 
-### "Mom never called Thelma 'Aunt Thelma' to us"
+## How he died &mdash; and what Helen carried for the rest of her life
+
+Per the family memory: **he took the boat out on Black Lake, Michigan on 14 July 1939 and never returned. The boat was later found; he had drowned in the lake.** Black Lake was where his older brother [Will](/family/wilbur-eesley/) had been photographed with their nephew Tommy in 1933 (Aunt Maggie's deck, slide 4); the lake was a family-known recreation place. Dale was thirty-two, on what should have been an ordinary summer outing on the lake. His body was returned home and is buried at **Grove City, Franklin County, Ohio**.
+
+What [Roberta Burnes](/family/roberta-burnes/) has surfaced from her mother [Helen](/family/helen-burnes/)'s side of the story is the detail that has been carried inside the family but not in the public record:
+
+> *Mom carried deep pain and guilt over Dale's death. She always blamed herself because she asked him to go across the lake to buy her some chocolate at the general store.*
+
+Helen was **fifteen** in July 1939. Dale was her older brother, eighteen years her senior. She asked him to take the boat across Black Lake to the general store on the far side for chocolate. He drowned on the trip. Her self-blame outlasted Dale by **sixty-one years** &mdash; until her own death in 2000.
+
+This detail re-frames much of the family silence that follows. The household Dale left behind &mdash; his wife Thelma's, his parents' [Charles Leonard](/family/charles-leonard-eesley/) and [Lillie Dale](/family/lillie-dale-chenoweth/)'s &mdash; was processing a grown son's drowning. Helen's household was processing the same drowning, plus a teenage daughter convinced that she had caused it.
+
+### Helen and Thelma in Columbus &mdash; the long silence
 
 In Roberta's June 2026 email surfacing the marriage record:
 
-> *Mom never called Thelma "Aunt Thelma" to us &mdash; I wonder why? We knew Thelma growing up in Columbus, but Mom never told us exactly who she was, just that she was a friend of the family. This makes me sad.*
+> *We knew Thelma growing up in Columbus, but Mom never told us exactly who she was, just that she was a friend of the family. This makes me sad.*
 
-The "Mom" here is [Helen Eesley Burnes](/family/helen-burnes/), Dale's younger sister (b. 1924, fifteen years his junior). Helen would have been **fifteen** when Dale drowned in 1939 &mdash; old enough to remember her brother's marriage well, old enough to know exactly who Thelma was. Roberta and her siblings grew up in Columbus knowing Thelma as a presence in their lives &mdash; but only as "a friend of the family." Their actual aunt-by-marriage was never named to them as such.
+And reinforcing the framing more carefully in a follow-up June 2026 email:
 
-This page does not have the answer to Roberta's *I wonder why?*. The possibilities are several and none of them are knowable from the available record:
+> *I truly don't remember Mom ever calling Thelma "Aunt Thelma".*
 
-- Thelma may have remarried after Dale's death and the family may have stopped framing her as Dale's widow once she had a new husband and new surname.
-- There may have been a falling-out between Thelma and the Eesleys in the years between Dale's drowning and Helen's children's later childhood.
-- Helen may simply have grown up not hearing her mother Lillie Dale name Thelma as Dale's wife &mdash; in households where grief is held in silence, the surviving spouse can become uncategorized.
-- There may have been Lillie Dale's complicated feelings about Thelma specifically, separable from Dale.
-
-What the archive can record is the structural fact: **Dale was married, the marriage record exists, Helen knew Thelma personally in Columbus, and Helen did not pass on to her own children that Thelma had been her brother's wife**. The silence was old enough to outlast the records that closed it. Roberta is the one who reopened it &mdash; eighty-seven years after Dale died &mdash; by looking up the marriage on Ancestry.
-
-## How he died
-
-Per the family memory: **he took the boat out on Black Lake, Michigan to go fishing on 14 July 1939 and never returned. The boat was later found; he had drowned in the lake.** Black Lake was where his older brother [Will](/family/wilbur-eesley/) had been photographed with their nephew Tommy in 1933 (Aunt Maggie's deck, slide 4); the lake was a family-known recreation place. Dale was thirty-two, on what should have been an ordinary summer fishing trip. His body was returned home and is buried at **Grove City, Franklin County, Ohio**.
+[Helen Eesley Burnes](/family/helen-burnes/) was the youngest of Charles Leonard and Lillie Dale's children &mdash; **fifteen** when Dale drowned, married to Edwin Burnes in 1946, raising her own children in Columbus through the 1950s and 1960s. **Thelma remained in Columbus through the rest of her life and was a real presence in Helen's children's growing-up years.** Helen's daughter Roberta and her siblings knew Thelma personally &mdash; but as "a friend of the family." Whether the silence was Helen's chocolate-across-the-lake guilt making it impossible to name Thelma as the sister-in-law of the brother she had sent to his death, or whether other family currents shaped Helen's framing too, this archive does not know. What can be recorded is the structural fact: **Dale was married, the marriage record exists, Helen knew Thelma personally, and Helen did not pass on to her own children that Thelma had been her brother's wife.** The silence was old enough to outlast the records that could have closed it. Roberta is the one who reopened it &mdash; eighty-seven years after Dale died &mdash; by looking up the marriage on Ancestry.
 
 The household Dale left was Thelma's. By **September 1939** &mdash; less than two months after Dale's drowning &mdash; Thelma was packing up the home she had shared with Dale and moving in with a Mrs. Hudson. **Lyle**, Dale's younger brother who would himself die at Cabanatuan three years later, drove his car and trailer for two days helping Thelma move her belongings. **Lillie Dale's letter to her son Leonard and daughter-in-law Helen, dated September 1939** (see [Lillie Dale's September 1939 letter to Leonard and Helen Eesley](/docs/lillie-dale-1939-letter-after-dales-death/)), records both Thelma's move and the line that has stayed with Roberta since: *"I am the involuntary feeling that Dale will come walking in."* The empty chair was still where the family was sitting.
 

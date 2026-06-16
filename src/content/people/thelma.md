@@ -9,7 +9,7 @@ death:
   date: "1970s"
 spouses:
   - dale-eesley
-summary: "Wife of Dale Dudley Eesley. Married 15 November 1927 in Franklin County, Ohio at age 21 (their marriage license #79220 was surfaced from Ancestry by Roberta Burnes in June 2026). Widowed at 33 in July 1939 when Dale drowned at Black Lake, Michigan, eleven and a half years into their marriage. Moved out of the home she had shared with Dale in September 1939, into Mrs. Hudson's house — Lillie Dale Eesley's letter to her son Leonard records Lyle helping Thelma move with his car and trailer over two days. Stayed within the family's circle in Columbus for the rest of her life until her death in the 1970s. Helen Eesley Burnes never named her to her own children as 'Aunt Thelma'; Roberta and her siblings grew up knowing Thelma only as 'a friend of the family.' The Ancestry-surfaced marriage record in June 2026 reopened the silence."
+summary: "Wife of Dale Dudley Eesley. Married 15 November 1927 in Franklin County, Ohio at age 21 (their marriage license #79220 was surfaced from Ancestry by Roberta Burnes in June 2026). Widowed at 33 in July 1939 when Dale drowned at Black Lake, Michigan, eleven and a half years into their marriage. Moved out of the home she had shared with Dale in September 1939, into Mrs. Hudson's house — Lillie Dale Eesley's letter to her son Leonard records Lyle helping Thelma move with his car and trailer over two days. Stayed within the family's circle in Columbus for the rest of her life until her death in the 1970s. Roberta has no memory of her mother Helen calling Thelma 'Aunt Thelma'; Helen's children grew up knowing Thelma only as 'a friend of the family.' The chocolate-across-the-lake guilt Helen carried over Dale's drowning is the new context for the long silence. The Ancestry-surfaced marriage record in June 2026 reopened it."
 ---
 
 Thelma Z. Haughn was born **c. 1906 in Grove City, Franklin County, Ohio** &mdash; the same small Franklin County town where Dale Eesley was born. She and [Dale Dudley Eesley](/family/dale-eesley/) were married in Franklin County, Ohio on **15 November 1927**, at age 21 each. The marriage lasted **eleven and a half years**.
@@ -34,18 +34,25 @@ What happened in the eighty-seven years between Dale's drowning and Roberta's An
 
 In Roberta's June 2026 email:
 
-> *Mom never called Thelma "Aunt Thelma" to us &mdash; I wonder why? We knew Thelma growing up in Columbus, but Mom never told us exactly who she was, just that she was a friend of the family. This makes me sad.*
+> *We knew Thelma growing up in Columbus, but Mom never told us exactly who she was, just that she was a friend of the family. This makes me sad.*
 
-Helen would have been **fifteen** when Dale died; she was old enough to have known her sister-in-law of eleven years well, old enough to remember the marriage clearly. By the time she had her own children some twenty-plus years later and they came to know Thelma, the framing she chose was "friend of the family" rather than "your Aunt Thelma."
+And reinforcing the framing more carefully in a follow-up June 2026 email:
 
-This archive does not know why. The possibilities, none of them definitive, include:
+> *I truly don't remember Mom ever calling Thelma "Aunt Thelma".*
 
-- That Thelma may have remarried at some point after 1939 and her new husband's surname could have made "Aunt Thelma Eesley" feel inaccurate or awkward to use.
-- That a falling-out between the Eesleys and Thelma may have shifted her status from kin to acquaintance.
-- That, in the way of households where grief is held in silence, **the widowhood became the unspoken story**: Helen could keep Thelma in her life only by not naming what tied them.
-- That Lillie Dale herself may have framed Thelma in particular ways that Helen inherited.
+Helen was **fifteen** when Dale drowned; she was old enough to have known her sister-in-law of eleven years well, old enough to remember the marriage clearly. By the time she had her own children some twenty-plus years later and they came to know Thelma, the framing she chose was "friend of the family."
 
-The silence outlasted everyone who could explain it. **Roberta found out who Thelma actually was, in her family, in June 2026, from Ancestry.com.** That is the kind of late-arriving knowledge that family-history work routinely turns up &mdash; and that this archive exists in part to hold.
+This archive does not know why with certainty. But the same June 2026 email surfaces what may be the deepest part of the answer:
+
+> *Mom carried deep pain and guilt over Dale's death. She always blamed herself because she asked him to go across the lake to buy her some chocolate at the general store.*
+
+Helen had **asked her brother to take the boat across Black Lake to buy her chocolate** on 14 July 1939; he drowned on that trip. For the rest of Helen's life &mdash; sixty-one more years, until her own death in 2000 &mdash; she carried the guilt of having been the one who sent her brother to his death.
+
+It is one explanation for the long silence around Thelma. To name Thelma to her own children as **Aunt Thelma, the wife of your Uncle Dale**, would have meant naming the husband Helen herself believed she had taken from her sister-in-law. Easier, for Helen, to keep Thelma close and to leave the structural fact unspoken &mdash; *"a friend of the family"* &mdash; than to say aloud, year after year through her children's childhoods, what she was actually carrying.
+
+This archive cannot know this for certain. Other possibilities exist: a remarriage by Thelma after 1939, a falling-out between the Eesleys and Thelma, the broader silence of mid-century Ohio families around widowhood. But the chocolate-across-the-lake story is the new context, and it sits at the center of why Helen would have wanted Thelma in her children's lives without explaining who she was.
+
+**Roberta found out who Thelma actually was, in her family, in June 2026, from Ancestry.com.** That is the kind of late-arriving knowledge that family-history work routinely turns up &mdash; and that this archive exists in part to hold.
 
 ## What is recorded about her death
 

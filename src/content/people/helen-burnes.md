@@ -30,6 +30,18 @@ Four of Helen and Edwin's six daughters kept the Burnes surname when they marrie
 
 Helen and Mary Bean were the two sisters who survived Will in 1986.
 
+## What she carried &mdash; Dale, Black Lake, and a request for chocolate
+
+The single most consequential thing Helen carried out of her childhood was the **drowning of her brother [Dale](/family/dale-eesley/) at Black Lake, Michigan on 14 July 1939.** She was **fifteen**. He was thirty-two. In her daughter Roberta's June 2026 telling:
+
+> *Mom carried deep pain and guilt over Dale's death. She always blamed herself because she asked him to go across the lake to buy her some chocolate at the general store.*
+
+The errand was the kind a younger sister might ask of an older brother on any ordinary summer day at the lake. Dale took the boat across and never made it back. The body and the empty boat were eventually found; Helen lived the rest of her life with the conviction that her request had killed him.
+
+She would have been just beginning her last year or two of school in Bexley. Three years later her brother [Lyle](/family/lyle-eesley/) would die in a Japanese prison camp at Cabanatuan. Six years after that she would marry Edwin Burnes and begin raising her own seven children. **For the next sixty-one years &mdash; until her own death in 2000 &mdash; the chocolate-across-the-lake story stayed with her.** Her daughter Roberta is the one who now carries it forward.
+
+The guilt may also be the deepest part of the answer to a separate question Roberta had been asking herself: **why did Mom never name [Aunt Thelma](/family/thelma/) to us?** Dale's widow Thelma stayed in Columbus through Roberta's growing-up years and was a real presence in the Burnes household &mdash; but always as *"a friend of the family"* rather than as the wife of Helen's brother. To name Thelma to her children as *"your Aunt Thelma, your Uncle Dale's wife"* would have meant naming, year after year, the husband Helen herself believed she had taken from her. The silence around Thelma's identity is part of the same wound the chocolate-across-the-lake story carries. [Thelma's page](/family/thelma/) and [Dale's page](/family/dale-eesley/) hold the linked discussion.
+
 ## The toddler-in-overalls photograph — Helen or Jean (reconsidered, June 2026)
 
 ![A young child of about two or three years old in dark overalls and a light shirt, smiling at the camera; cropped at left to a partial blurred figure (originally Aunt Mary Eesley Bean holding the photograph's other small child). Roberta Burnes printed this in high school from negatives she found in her mother Helen's family papers. c. 1925-1927, location not recorded — likely Bexley or Grove City, Ohio. Originally identified by Roberta as the only known solo photograph of Jean Goldie Eesley; on reconsideration in June 2026 (after Roberta's growing uncertainty about Jean's birth year), Roberta now thinks the child may be Helen herself rather than Jean — see note below.](../../assets/family/originals/helen-or-jean-as-toddler-c1925-1927.jpeg)
