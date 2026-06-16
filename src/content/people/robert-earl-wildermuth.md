@@ -24,7 +24,7 @@ After the war he came to **Stanford** on the GI Bill and earned his **Bachelor o
 
 ## The MGM camera mission
 
-Family memory holds &mdash; and the [combat log](/docs/the-big-one/) carries &mdash; that in the summer of 1945, after Hiroshima and Nagasaki, **Robert Earl was the navigator on the B-24 that flew MGM Studios cameras over the bombed cities to film the aftermath.** It is one of the most consequential single flights of his career: the cinematic record of the first atomic strikes &mdash; the footage the postwar world would form its understanding of nuclear weapons from &mdash; needed someone to navigate the plane the cameras rode in. He was that navigator.
+In the summer of 1945, after the 9 August atomic bombing of Nagasaki, **Robert Earl was the navigator on the B-24 that flew an MGM newsreel cameraman over the bombed city at treetop level to film the aftermath.** It is one of the most consequential single flights of his career &mdash; the cinematic record of the second atomic strike, footage the postwar world would form its understanding of nuclear weapons from, needed someone to navigate the plane the cameras rode in. He was that navigator. The fully-built-out treatment, with cameraman context, the parallel ground crew under Lt. Daniel A. McGovern, and the postwar US suppression of the footage, is in the [combat log's marquee-moment section](/docs/the-big-one/#nagasaki-mgm).
 
 He served again in Korea, worked at the Pentagon, retired as a lieutenant colonel, and spent the rest of his life teaching and researching the family back to the early 1700s in W&uuml;rttemberg.
 
@@ -39,7 +39,7 @@ The obituary gives the **specific service dates** that the memoir-as-recollectio
 - **Service entry: 24 March 1943** &mdash; Air Corps, US Army.
 - **Air Corps Navigation Training Center graduation: 4 July 1944** &mdash; the navigator's wings.
 - **Commission as Second Lieutenant**: later that summer, on receipt of his Class 44-9 cadet rating.
-- **Last WWII mission: the MGM movie camera/newsman flight over Nagasaki** to record atomic-bomb damage. (The memoir-from-recollection mentions both Hiroshima and Nagasaki; the obituary specifies Nagasaki only. This is one of the small documentary tensions across the maternal record this page has long carried.)
+- **Last WWII mission: the MGM movie camera/newsman flight over Nagasaki** to record atomic-bomb damage. (Both [the memoir](/docs/robert-earl-wildermuth-memoir/) and the obituary name the camera-mission destination as Nagasaki only; the memoir contextualizes it with the 6 August Hiroshima and 9 August Nagasaki bombings together as the historical pair that triggered the surrender movement, but the overflight itself was Nagasaki only.)
 - **Separation from the army as 1st Lieutenant: 30 November 1945.**
 - **Stanford BA: 1948.**
 - **Rejoined as bombardier/navigator**, *"the new Army Air Corps"* &mdash; the post-war re-formed service.
