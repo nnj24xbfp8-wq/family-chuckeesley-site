@@ -1,6 +1,9 @@
 ---
 name: "Sadye Irene (Fleming) Wildermuth"
 aka: "Mrs. Earl Wildermuth; Sadye I. Wildermuth; Sadye Irene Fleming, maiden"
+portrait:
+  image: ../../assets/family/originals/sadye-fleming-graduation-portrait-1919.jpeg
+  caption: "Sadye Irene Fleming, graduation portrait, c. 1919 — age 18, about eighteen months before her marriage to Earl A. Wildermuth on New Year's Eve 1920. The earliest photograph of her in the archive. ([artifact](/archive/sadye-fleming-graduation-portrait-1919/))"
 line: maternal
 birth:
   date: "1901-07-15"
@@ -20,6 +23,15 @@ summary: "Robert Earl Wildermuth's mother. Born 15 July 1901 in Waverly, West Vi
 Sadye Irene Fleming was born 15 July 1901 in Waverly, West Virginia &mdash; the small Pleasants County town on the Ohio River south of Marietta &mdash; to [Wesley Fleming](/family/wesley-fleming/) and [Verona B. Sheppard Fleming](/family/verona-sheppard-fleming/). She spent most of her life in Marietta, Ohio, the river town across the state line her family married into.
 
 On 31 December 1920 &mdash; New Year's Eve, age nineteen &mdash; she married [Earl A. Wildermuth](/family/earl-a-wildermuth/) of Marietta, opening the Fleming line into the Wildermuth shoemaker family that [Johann Michael Wildermuth](/family/) had founded there in the 1840s. The marriage is the seam at which the Fleming / Sheppard branch of Chuck's maternal ancestry joins the Wildermuth / Württemberg branch &mdash; the two sides Robert Earl would later research and write up across his retirement.
+
+## The earliest portraits — c. 1919 and c. 1920
+
+Two photographs of Sadye from before her marriage now sit in the archive &mdash; the earliest images of her here:
+
+- [Graduation portrait c. 1919](/archive/sadye-fleming-graduation-portrait-1919/) &mdash; a soft-focus studio portrait at eighteen, the family-typed caption box identifying it as her graduation picture.
+- [On a porch in plaid, c. 1920](/archive/sadye-fleming-plaid-dress-porch-c1920/) &mdash; a candid snapshot on the concrete stoop of a wood-clapboard house, the early-1920s side-coiled *"headphone braids"* hairstyle and two-tier plaid dress placing it close to the same window.
+
+The two images sit at the start of her adult life &mdash; before the [31 December 1920 marriage](/family/earl-a-wildermuth/), before the five children, before the Wildermuth-shoemaker household she would help run for the next fifty-five years.
 
 ## Five children
 
