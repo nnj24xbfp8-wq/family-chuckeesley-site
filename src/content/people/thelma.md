@@ -16,9 +16,7 @@ Thelma Z. Haughn was born **c. 1906 in Grove City, Franklin County, Ohio** &mdas
 
 ## The marriage record
 
-Marriage License Application **No. 79220**, Probate Court of Franklin County, Ohio. License issued 9 August 1927; granted 15 October 1927; marriage solemnized 15 November 1927 by N.V. Lechler; filed and recorded 16 November 1927. Recorded in the *Ohio, U.S., County Marriage Records, 1774-1993*, Franklin County volume covering 1925-1928. The application names Dale's parents as **C.L. Eesley** and **Lillie Chenoweth**; Thelma's parents are recorded on the application as well. Her middle initial **Z** appears on the marriage license but the underlying name is not on file in this archive.
-
-The marriage record surfaced on Ancestry in **June 2026**, filling in a part of the picture &mdash; that Dale and Thelma had been married, not engaged &mdash; that had not made it across the generations. See [Dale Eesley's page](/family/dale-eesley/) for the discussion in context.
+Marriage License Application No. 79220, Probate Court of Franklin County, Ohio. License issued 9 August 1927; granted 15 October 1927; marriage solemnized 15 November 1927 by N.V. Lechler; filed and recorded 16 November 1927. Recorded in the *Ohio, U.S., County Marriage Records, 1774-1993*, Franklin County volume covering 1925-1928. The application names Dale's parents as C.L. Eesley and Lillie Chenoweth; Thelma's parents are recorded on the application as well. Her middle initial **Z** appears on the marriage license but the underlying name is not on file in this archive.
 
 ## Widowed at 33
 
@@ -30,7 +28,7 @@ So in the immediate aftermath of Dale's drowning, **Lyle &mdash; Dale's younger 
 
 ## "A friend of the family" — the silence that lasted
 
-What happened in the eighty-seven years between Dale's drowning and Roberta's Ancestry discovery is partly recoverable and partly not. Thelma lived in Columbus through the rest of her life and was a real presence in the Eesley family's life across decades. She remained close enough that **Helen Eesley Burnes's children &mdash; Roberta and her siblings &mdash; knew Thelma personally as they were growing up in Columbus**. But Helen never told them who Thelma was.
+Thelma lived in Columbus through the rest of her life and was a real presence in the Eesley family's life across decades. She remained close enough that **Helen Eesley Burnes's children knew Thelma personally as they were growing up in Columbus**. But Helen never told them who Thelma was.
 
 Helen was **fifteen** when Dale drowned; she was old enough to have known her sister-in-law of eleven years well, old enough to remember the marriage clearly. By the time she had her own children some twenty-plus years later and they came to know Thelma, the framing she chose was "friend of the family."
 

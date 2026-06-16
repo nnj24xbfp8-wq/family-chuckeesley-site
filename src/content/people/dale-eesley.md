@@ -23,13 +23,11 @@ His birth date is sometimes recorded in family memory as **1916**, but the GEDCO
 
 He appears in the [c. 1937&ndash;1939 group portrait of Charles Leonard with five of his adult sons and grandson Tommy](/archive/charles-leonard-and-sons-late-1930s/), as the figure on the right end of the brothers' line &mdash; the only definitive photograph of him in this archive's keeping, taken in the last window before his death at thirty-two.
 
-## Marriage to Thelma Z. Haughn — 15 November 1927
+## Marriage to Thelma Z. Haughn
 
-The story that came down through the family was that Dale and Thelma were engaged at the time of his death. Their Ohio marriage record &mdash; surfaced on Ancestry in June 2026 &mdash; fills in a part of the picture that had not made it across the generations:
+Dale married [Thelma Z. Haughn](/family/thelma/) on **15 November 1927** in Franklin County, Ohio, at age 21 each. The marriage lasted **eleven and a half years**, until Dale's drowning at Black Lake on 14 July 1939.
 
-> *Marriage License Application #79220, Probate Court, Franklin County, Ohio. Dale D. Eesley (age 21, of Pleasant Township, Ohio) and Thelma Z. Haughn (age 21, of Grove City, Ohio). License issued 9 August 1927 and granted 15 October 1927. Marriage solemnized **15 November 1927** by N.V. Lechler. Filed and recorded 16 November 1927. Ohio County Marriage Records, 1774-1993, Franklin County, 1925-1928.*
-
-Dale and Thelma were married on **15 November 1927**, at age 21 each. The marriage lasted **eleven and a half years**, until Dale's drowning at Black Lake on 14 July 1939. Thelma was his wife, not his fiancée.
+> *Marriage License Application #79220, Probate Court, Franklin County, Ohio. Dale D. Eesley (age 21, of Pleasant Township, Ohio) and Thelma Z. Haughn (age 21, of Grove City, Ohio). License issued 9 August 1927 and granted 15 October 1927. Marriage solemnized 15 November 1927 by N.V. Lechler. Filed and recorded 16 November 1927. Ohio County Marriage Records, 1774-1993, Franklin County, 1925-1928.*
 
 ## How he died &mdash; and what Helen carried for the rest of her life
 
