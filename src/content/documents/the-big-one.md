@@ -28,7 +28,7 @@ Ten men on the B-24 Liberator. Robert Earl was the navigator.
 - **Top Turret Engineer: Lyle** &mdash; the only crew member with a driver's license at enlistment. Re-entered service postwar; survived a Caribbean B-29 crash that made the MGM newsreel.
 - **Radio Operator: T.Sgt. Frederick "Fuzzy" Kuszmaul** &mdash; from Logansport, IN. Pre-med at Indiana University. Robert Earl's best friend on the crew despite the no-fraternization rule.
 - **Ball Turret Gunner: Milton** &mdash; armament supervisor. Eliminated from pilot training in the cadet phase-down.
-- **Tail Gunner: S.Sgt. Jesse Murdock** &mdash; from Ferris, TX. *"A TEXAN!! &hellip; cowboy boots and all."* Crew photographer; *"Quite often the subject would turn out on film minus his head or perhaps his legs."*
+- **Tail Gunner: S.Sgt. Jesse Murdoch** &mdash; from Tyler, TX. *"A TEXAN!! &hellip; cowboy boots and all."* Crew photographer; *"Quite often the subject would turn out on film minus his head or perhaps his legs."*
 
 Bombardier and remaining gunners are on a page the OCR caught only partially &mdash; a careful manual transcription would fill them in. Robert Earl closes the crew section: ***"These then were the young 'kids' who went to war, defeated the Japs and came back men."***
 
