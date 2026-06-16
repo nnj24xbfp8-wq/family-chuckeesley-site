@@ -1,5 +1,5 @@
 ---
-title: "Lillie Dale Eesley's September 1939 letter to Leonard & Helen — \"I am the involuntary feeling that Dale will come walking in\""
+title: "Lillie Dale Eesley's September 1939 letter to Leonard & Helen — \"the involuntary feeling that Dale will come walking in\""
 type: letter
 sortDate: "1939-09-12"
 people:
@@ -10,8 +10,8 @@ people:
   - lyle-eesley
   - wilbur-eesley
   - mary-eesley-bean
-summary: "Letter from Lillie Dale (Mrs. C.L. Eesley) at 230 N. Cassidy Road, Bexley, Ohio to her son Leonard David Eesley and daughter-in-law Helen Bernadine Alspach at 107 Sunnyside Road, Silver Spring, Maryland. Postmarked Columbus, Ohio, September 12, 1939 — two months after Dale's drowning at Black Lake on July 14, 1939. Roberta Burnes noted on the envelope: 'mentions Dale after his death (recent).' The letter records (1) Lillie Dale's grief in the line 'I am the involuntary feeling that Dale will come walking in,' (2) Thelma — Dale's widow — moving in with Mrs. Hudson with Lyle helping her relocate with his car and trailer over two days, (3) Bill (Will) and Mary visiting for Labor Day, and (4) Leonard and Helen recovering from medical casts of some kind."
-teaser: "Lillie Dale's September 1939 letter, two months after Dale's drowning — Thelma's move, Lyle's two days of helping, and the line: 'the involuntary feeling that Dale will come walking in.'"
+summary: "Letter from Lillie Dale (Mrs. C.L. Eesley) at 230 N. Cassidy Road, Bexley, Ohio to her son Leonard David Eesley and daughter-in-law Helen Bernadine Alspach at 107 Sunnyside Road, Silver Spring, Maryland. Postmarked Columbus, Ohio, September 12, 1939 — two months after Dale's drowning at Black Lake on July 14, 1939. Roberta Burnes noted on the envelope: 'mentions Dale after his death (recent).' The letter records (1) Lillie Dale's grief in the line 'the involuntary feeling that Dale will come walking in,' (2) Thelma — Dale's widow — moving in with Mrs. Hudson with Lyle helping her relocate with his car and trailer over two days, (3) Bill (Will) and Mary visiting for Labor Day, and (4) Leonard and Helen recovering from medical casts of some kind."
+teaser: "Lillie Dale's September 1939 letter, two months after Dale's drowning — Thelma's move, Lyle's two days of helping, and the line: 'It is hard to go back to the lake and no matter how one reasons there is that involuntary feeling that Dale will come walking in.'"
 ---
 
 ## What this letter is
@@ -44,15 +44,15 @@ The opening references *"the college"* &mdash; the Eesley family had connections
 
 > *letter to once in my life. I wonder when this grand rush will ease up & a certain amount of relaxation can be indulged.*
 >
-> *Oh Time &mdash; go easy on the babies &mdash; don't let them get to college too soon! I sure would be tickled pink to see Michael crawl. He is so wonderfully developed that I'll bet he can stir up dust when he travels. And Tommy, didn't he have such grand times up here! Tommy McCray took his choler tone (I don't know how to spell it) but he and Cynthia started to school yesterday! Mrs. Earnshaw has had to have time off the past two weeks &mdash; had to stay quiet in bed. Certainly hope she can stay away from an operation &mdash; tumor is supposed to be giving the trouble. The Feathers reported a grand time with you folks &amp; we were so sorry to have missed them here &mdash; we had left Tuesday morning after you folks had gone & Feathers' were here the next day. They were at Petoskey the following Sunday & spent the night with Mother Feathers &mdash; this caused some so much that when it came time to leave for the cottage you could scarcely see across the street. Everyone was so fine everywhere &mdash; it is hard to go back to the lake & no matter how the season is that*
+> *Oh Time &mdash; go easy on the babies &mdash; don't let them get to college too soon! I sure would be tickled pink to see Michael crawl. He is so wonderfully developed that I'll bet he can stir up dust when he travels. And Tommy, didn't he have such grand times up here! Tommy McCray took his choler tone (I don't know how to spell it) but he and Cynthia started to school yesterday! Mrs. Earnshaw has had to have time off the past two weeks &mdash; had to stay quiet in bed. Certainly hope she can stay away from an operation &mdash; tumor is supposed to be giving the trouble. The Feathers reported a grand time with you folks &amp; we were so sorry to have missed them here &mdash; we had left Tuesday morning after you folks had gone & Feathers' were here the next day. They were at Petoskey the following Sunday & spent the night with Mother Feathers &mdash; this caused some so much that when it came time to leave for the cottage you could scarcely see across the street. Everyone was so fine everywhere &mdash; it is hard to go back to the lake & no matter how one reasons there is that*
 
 This page is full of detail about the **late summer 1939 family circuit**: Michael (a baby in the family, likely Leonard and Helen's son), Tommy (probably **Tommy McCray** &mdash; a child relative or family friend), and **Mrs. Earnshaw** being out with a possible tumor. The **Feathers** &mdash; another family name &mdash; visited Leonard and Helen in Maryland and then came back through Bexley, with side-trips to Petoskey, Michigan.
 
-The line *"it is hard to go back to the lake"* &mdash; running into the next page &mdash; **almost certainly references Black Lake**, where Dale had drowned eight weeks before. *"No matter how the season is"* is Lillie Dale processing the place that took her son.
+The line *"it is hard to go back to the lake"* &mdash; running into the next page &mdash; references **Black Lake**, where Dale had drowned eight weeks before and where the family had owned the cottage that was the gathering place of every Eesley summer for years. *"No matter how one reasons"* is Lillie Dale processing the place that took her son.
 
 ## Page 3 — "the involuntary feeling that Dale will come walking in"
 
-![Third page — the most charged passage of the letter. Lillie Dale's line "I am the involuntary feeling that Dale will come walking in." Then Thelma moving in with Mrs. Hudson, with Lyle helping her two days with his old car & trailer. Then Bill & Mary at the Labor Day weekend, and Leonard & Helen's casts. From Roberta Burnes's keeping.](../../assets/family/originals/lillie-dale-1939-letter-page3.jpeg)
+![Third page — the most charged passage of the letter. Lillie Dale's line "the involuntary feeling that Dale will come walking in." Then Thelma moving in with Mrs. Hudson, with Lyle helping her two days with his old car & trailer. Then Bill & Mary at the Labor Day weekend, and Leonard & Helen's casts. From Roberta Burnes's keeping.](../../assets/family/originals/lillie-dale-1939-letter-page3.jpeg)
 
 > *involuntary feeling that Dale will come walking in. I must tell you that Thelma is moving in with Mrs. Hudson. Papa & Mr. Blair (came Sunday) are over taking the last of the little things down &mdash; Lyle has helped two days with his old car & the trailer. Then tomorrow everything goes. I am expecting Thelma, her sister & brother for supper tonight. Bill & Mary were over for the Labor Day week end & it was such a comfort to have them. Mary was telling about the "shock" she had when she rec'd your telegram for her birthday. She certainly did appreciate it. Let us know when your casts are over Leonard & Helen. I do hope you are back to normalcy now &mdash; just a shame you were so sick! The cake is*
 
@@ -60,7 +60,11 @@ Three things this page records, in the order they appear:
 
 ### "the involuntary feeling that Dale will come walking in"
 
-The first line continues from the previous page; the structure is *"&mdash; this involuntary feeling that Dale will come walking in."* Lillie Dale is **eight weeks past her son's drowning**, in her own house at the kitchen table waiting for the cake to bake, and her body keeps preparing for him to enter the room. The line catches what grief does in the early months better than any phrasing a later generation could supply &mdash; the involuntary anticipation, the wait that the conscious mind knows is now permanent and the unconscious mind hasn't accepted.
+The first line continues from the previous page. The full sentence, spanning the page break, reads:
+
+> *It is hard to go back to the lake and no matter how one reasons there is that involuntary feeling that Dale will come walking in.*
+
+Lillie Dale is **eight weeks past her son's drowning**, in her own house at the kitchen table waiting for the cake to bake, and the lake is the place she cannot quite return to. The line catches what grief does in the early months better than any phrasing a later generation could supply &mdash; the involuntary anticipation, the wait that the conscious mind knows is now permanent and the unconscious mind hasn't accepted.
 
 ### Thelma's move into Mrs. Hudson's house — and Lyle's two days
 
