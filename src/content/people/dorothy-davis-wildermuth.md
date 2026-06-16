@@ -7,7 +7,7 @@ birth:
   place: "Waterford Township, Waterford, Washington County, Ohio"
 death:
   date: "2010-03-05"
-  place: "Brookhaven, Georgia"
+  place: "UniHealth Care Center, Brookhaven, Georgia (death at 4:30 p.m.)"
 generation: 5
 parents:
   - homer-davis
@@ -97,6 +97,28 @@ Nine images of Dottie reproduced in [Robert Earl's 1990 Wildermuth/Fleming Herit
 ## The memorial program
 
 The fullest single document on Dottie that this archive holds is the [printed program from her memorial service](/archive/dorothy-wildermuth-memorial-program-2010/), held Friday 13 August 2010 at the Church of Christ on Sixth Street, Marietta &mdash; five months after her death in Brookhaven, Georgia at 85. The program's biographical panel is the single most complete sketch of her career (bookkeeper at Citizen's Bank Marietta → Southeast Bank Orlando → Hoover Library at Stanford → Maitland Public Library), her faith (Methodist), her interests (flowers, singing, square-dancing, quilting and needlework), and the names of all four children and all six grandchildren as of August 2010.
+
+## The 2010 obituary &mdash; the contemporaneous document of record
+
+The **Marietta Times obituary** (Section A, Page 6, weekend of 13&ndash;14 March 2010), supplied by the Atlanta-side family who were with her at the end, sharpens several details the rest of the archive had previously held only loosely:
+
+> *"ATLANTA, Ga. &mdash; Dorothy 'Dot' Marie (Davis) Wildermuth, 85, died at 4:30 p.m. Friday, March 5, 2010, at the UniHealth Care Center in Brookhaven, Ga."*
+
+The place of death is the **UniHealth Care Center** in Brookhaven, Georgia &mdash; the senior-care facility near Atlanta where she had been living near her daughter [Sandra Sue Clement](/family/sandra-sue-wildermuth-clement/). The 4:30 p.m. Friday timestamp is the specific moment the obituary records. The obituary identifies her, importantly, as **the second daughter of Homer Edward Davis and Bessie Marie (Hill) Davis** &mdash; the documentary confirmation of her middle-Davis-sister birth order [Robert Earl had recorded in 1990](/docs/wildermuth-fleming-heritage-1990/) and that the [c. 1929 Davis sisters photograph](/archive/davis-sisters-three-mary-dorothy-betty-c-1929/) shows.
+
+The career sequence the obituary gives in order matches and refines [the memorial program's](/archive/dorothy-wildermuth-memorial-program-2010/) panel: **bookkeeper at Citizen's Bank Marietta → Hoover Library at Stanford University → Maitland Public Library, Maitland, FL → Southeast Bank of Orlando, FL**. The Hoover Library job is named explicitly here in print &mdash; in addition to the [Robert Earl memoir mention](/docs/robert-earl-wildermuth-memoir/).
+
+She "attended the Methodist Church, and loved to spend time with her family. She enjoyed singing, square dancing, quilting and other needlework."
+
+**Survivors named at her death (March 2010):**
+
+- Daughters and son-in-law/spouses: **Terrie Lee Bain (Benjamin)** of Marietta; **Sandra Sue Clement** of Atlanta; **Debra Jean Massaro (Angelo)** of Pembroke, VA; **Robert Earl Wildermuth Jr. (Dawn)** of Sarasota, FL.
+- Siblings: **[Betty Jean (Davis) Wolfe](/family/betty-davis/)** (with husband [Norman](/family/norman-graham-wolfe/) named in parens) and brother **[William Harvey Davis](/family/william-harvey-davis-sr/)** of Indianapolis. (The Davis siblings inventory at her death was Dorothy + 2 surviving siblings.)
+- Six grandchildren named in print: **[Charles Eric Eesley](/family/charles-eric-eesley/)** (Chuck), **Robert Earl Wildermuth III "Trey"**, **Thomas Matthew Wildermuth**, **Sarah Marie Wildermuth**, **Giancarlo Salvatora Massaro**, and **[Briana Marie Massaro](/family/briana-massaro-lockett/)**.
+
+**Predeceased by:** her parents; her husband **[Robert Earl Wildermuth](/family/robert-earl-wildermuth/)** (in 1999); and her **older sister Mary Louise (Davis) Murdoch** &mdash; the eldest of the three Davis sisters, the *Mary* of [the c. 1929](/archive/davis-sisters-three-mary-dorothy-betty-c-1929/), [c. 1930](/archive/davis-sisters-1930-why-so-glum/), and [c. 1931](/archive/davis-sisters-puppies-1931/) sister portraits. The married surname **Murdoch** confirms in print here the documentation the rest of the archive had been carrying. (Dorothy's obituary spells the name **Murdoch**; [Betty's 2015 obituary](/docs/betty-jean-wolfe-obituary-2015/) spells the same sister **Murdock** &mdash; the two newspaper spellings disagree.)
+
+**Burial:** Sarasota, Florida &mdash; alongside [Robert Earl](/family/robert-earl-wildermuth/), where he had been laid to rest in 1999.
 
 ## See also — family threads
 

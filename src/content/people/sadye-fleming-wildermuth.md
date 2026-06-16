@@ -1,9 +1,7 @@
 ---
 name: "Sadye Irene (Fleming) Wildermuth"
 aka: "Mrs. Earl Wildermuth; Sadye I. Wildermuth; Sadye Irene Fleming, maiden"
-portrait:
-  image: ../../assets/family/originals/sadye-fleming-graduation-portrait-1919.jpeg
-  caption: "Sadye Irene Fleming, graduation portrait, c. 1919 — age 18, about eighteen months before her marriage to Earl A. Wildermuth on New Year's Eve 1920. The earliest photograph of her in the archive. ([artifact](/archive/sadye-fleming-graduation-portrait-1919/))"
+portrait: ../../assets/family/originals/sadye-fleming-graduation-portrait-1919.jpeg
 line: maternal
 birth:
   date: "1901-07-15"
