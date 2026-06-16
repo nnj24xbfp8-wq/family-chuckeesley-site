@@ -15,9 +15,10 @@ dateRange:
   start: "1970-12-14"
 private: false
 summary: "Charlie's letter to Terrie dated 14 December 1970, written two days after a seven-minute MARS phone call to Maryland on Sunday evening. The letter is the rear-area December letter: safe enough that the place hasn't been hit for over a year, the city walkable, the highways dangerous mostly because of the driving. Charlie tells Terrie to take the phone-call cost (~$23) out of the Christmas money he's already sent her and call it her present. Late-tour rear-area rhythm. Includes a tease about bringing home a Vietnamese girl that Terrie has read in an earlier exchange as a worry about whether he is committed."
-source: "Held in family archive — src/assets/family/originals/vietnam-letters/dad245.jpg."
+source: "Held in family archive — src/assets/family/originals/vietnam-letters/dad245.jpg (page 1), with a 'Dec 15' next-day continuation page (the 'Hi again' addition) scanned as dad247.jpg."
 scans:
   - ../../../assets/family/originals/vietnam-letters/dad245.jpg
+  - ../../../assets/family/originals/vietnam-letters/dad247.jpg
 ---
 
 ## What the letter is
