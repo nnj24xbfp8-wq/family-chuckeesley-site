@@ -15,7 +15,9 @@ dateRange:
   start: "1971-02-03"
 private: false
 summary: "Charlie's short letter to Terrie dated 3 February 1971 — written from Da Nang the day before the [4 February Laos fore-warning letter](/docs/letters/charlie-to-terrie-1971-02-04-laos-fore-warning/). Confirms his stay through March 5 and possibly longer; reports 131 days left in the army (28 of them right there in Da Nang); explains he will use his R&R *after* getting back to the field rather than before, to extend his time out of the field; closes with 'My address is still here at Danang.'"
-source: "Held in family archive — grandmaE1.pdf page 65 (gitignored locally; transcribed content surfaced here)."
+source: "Held in family archive — grandmaE1.pdf page 65 (gitignored locally; transcribed content surfaced here). Original handwritten page also scanned as src/assets/family/originals/vietnam-letters/dad144.jpg."
+scans:
+  - ../../../assets/family/originals/vietnam-letters/dad144.jpg
 ---
 
 ## What the letter is
