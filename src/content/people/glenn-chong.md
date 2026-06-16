@@ -6,12 +6,22 @@ parents:
   - stella
   - ted-chong
 living: true
-summary: "Son of Stella and Dr. Ted Chong; brother of Sue Lin. The 'boy whose name Jeanne forgot,' surfaced from his father's 2013 obituary. Of San Diego, California with wife Diane at the time of his father's death."
+summary: "Son of Stella and Dr. Ted Chong; brother of Sue Lin. The 'boy whose name Jeanne forgot,' surfaced from his father's 2013 obituary. Of San Diego, California with wife Diane at the time of his father's death (January 2013). Two children named in the same obituary as Ted Chong's grandchildren — Ryan Chong and Kevin Chong — almost certainly Glenn and Diane's."
 ---
 
 <p class="not-prose my-4 p-3 border-l-4 border-rule bg-ink/5 text-sm"><strong>📖 本页含中文版本 — <a href="#zh">点此跳至中文 ↓</a></strong> &nbsp;·&nbsp; <em>This page has a Chinese version below.</em></p>
 
-Details withheld &mdash; living. Aunt Jeanne could no longer remember Glenn's name when she shared the family story in May 2026; Ted's January 2013 obituary recovers it. Two grandchildren — **Ryan Chong** and **Kevin Chong** — are listed in the same obituary, almost certainly Glenn's.
+Details withheld &mdash; living. Aunt Jeanne could no longer remember Glenn's name when she shared the family story in May 2026; [Ted's January 2013 obituary](/family/ted-chong/) recovers it, and the structural record around him.
+
+**What the 2013 obituary records about Glenn's household:**
+
+- **Wife: Diane** (surname not given in the obit).
+- **San Diego, California** (residence as of January 2013).
+- Two grandchildren are named in the same obituary under the **Chong** surname &mdash; **Ryan Chong** and **Kevin Chong** &mdash; almost certainly Glenn and Diane's children. (The obituary's third grandchild, Lucy Freeman, is from Ted's second marriage, daughter of [Jei Lee Freeman](/family/ted-chong/#second-marriage).)
+
+Glenn's half-sisters from Ted's second marriage to [Janice M. Chong](/family/janice-chong/) are **Jei Lee Freeman** (Winchester, MA) and **Erica Slavin** (Nantucket, MA). His sister is [Sue Lin / SueLynn Chong](/family/suelynn-chong/) in Baltimore.
+
+He is the **only documented great-grandchild line of [Stella Sunn Chong](/family/stella/) and the Hawaiian-American Sunn-Chong branch this archive carries** — the Bexley wartime placement of his mother in 1942 to the next two generations, Hawaii → Bexley → New Jersey → San Diego.
 
 ---
 

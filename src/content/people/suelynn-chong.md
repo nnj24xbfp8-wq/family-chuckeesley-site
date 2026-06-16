@@ -7,12 +7,16 @@ parents:
   - stella
   - ted-chong
 living: true
-summary: "Eldest daughter of Stella and Dr. Ted Chong; Aunt Jeanne's 'SueLynn,' her father's obituary's 'Sue Lin.' Of Baltimore, Maryland at the time of her father's death in 2013."
+summary: "Eldest daughter of Stella and Dr. Ted Chong; Aunt Jeanne's 'SueLynn,' her father's obituary's 'Sue Lin.' Of Baltimore, Maryland at the time of her father's death in January 2013; no spouse and no children named in the obituary."
 ---
 
 <p class="not-prose my-4 p-3 border-l-4 border-rule bg-ink/5 text-sm"><strong>📖 本页含中文版本 — <a href="#zh">点此跳至中文 ↓</a></strong> &nbsp;·&nbsp; <em>This page has a Chinese version below.</em></p>
 
-Details withheld &mdash; living. Listed in [her father's 2013 obituary](/family/ted-chong/) as Sue Lin of Baltimore. Her brother is [Glenn](/family/glenn-chong/) — the son whose name Aunt Jeanne could no longer recall.
+Details withheld &mdash; living. Listed in [her father's 2013 obituary](/family/ted-chong/) as **Sue Lin of Baltimore, Maryland**. No spouse and no children are named under her line in the obituary &mdash; whether SueLynn was unmarried, or married without children, or had children whom the obituary-writer didn't include, is not known from the documents in this archive.
+
+She appears in the **c. 1955 family portrait** at what reads as a Chinese-restaurant or community-association hall &mdash; the older girl in the brocade tunic standing beside her mother [Stella](/family/stella/) in a cheongsam. She would have been about four or five in that frame.
+
+Her brother is [Glenn Chong](/family/glenn-chong/) (San Diego, with wife Diane), who has two sons; her half-sisters from Ted's second marriage are Jei Lee Freeman (Winchester, MA) and Erica Slavin (Nantucket, MA).
 
 ---
 
