@@ -3,10 +3,11 @@ name: "Robert Earl Wildermuth"
 aka: "Bob"
 line: maternal
 birth:
-  date: "1924"
-  place: "Marietta, Ohio"
+  date: "1924-05-08"
+  place: "123 Franklin Street, Marietta, Washington County, Ohio (in his parents' home)"
 death:
-  date: "after 1993"
+  date: "1999-06-25"
+  place: "Doctor's Hospital, Sarasota, Florida (resident of Venice, Florida)"
 generation: 5
 parents:
   - earl-a-wildermuth
@@ -14,10 +15,10 @@ parents:
 spouses:
   - dorothy-davis-wildermuth
 portrait: ../../assets/family/originals/IMG_3874.jpeg
-summary: "B-24 navigator with the 400th Squadron, 90th Bomb Group; Stanford B.A. in Biological Sciences, conferred 1 October 1948; Korea; the Pentagon; a lieutenant colonel who, in retirement, turned to genealogy and wrote the documents this archive is built on."
+summary: "Born 8 May 1924 at 123 Franklin Street, Marietta, Ohio; died 25 June 1999 at Doctor's Hospital, Sarasota, Florida, age 75. B-24 navigator with the 400th Squadron, 90th Bomb Group; three earned degrees (Stanford B.A. Biological Sciences 1948, Southern Methodist B.S. Industrial Engineering 1965, University of Central Florida B.S. Medical Record Administration 1972); Korea; Itazuke Air Base; the Pentagon; retired as lieutenant colonel 31 May 1970 with the Meritorious Service Medal. After service: Seabreeze High School mathematics teacher, salesman, state unemployment agent, golf course supervisor, electronic computer technician, and insurance work through 1986. The family genealogist for the Wildermuth and Fleming lines for the rest of his life. Charter member, American Air Museum (England). Married Dorothy Marie Davis 20 April 1946 — 53 years together. Services 29 June 1999 at Venice Memorial Gardens, Venice, Florida."
 ---
 
-Robert Earl Wildermuth was born in 1924 in Marietta, Ohio, to [Earl A. Wildermuth](/family/earl-a-wildermuth/) and [Sadye Irene (Fleming) Wildermuth](/family/sadye-fleming-wildermuth/) &mdash; the eldest of their five children, in the river town where the Wildermuth patriarch Johann Michael had set up shop as an immigrant shoemaker in the 1840s. He flew combat missions out of Biak, Leyte, and Mindoro in 1944&ndash;45 as the navigator on a ten-man B-24 crew.
+Robert Earl Wildermuth was born **8 May 1924, at home, at 123 Franklin Street in Marietta, Ohio**, to [Earl A. Wildermuth](/family/earl-a-wildermuth/) and [Sadye Irene (Fleming) Wildermuth](/family/sadye-fleming-wildermuth/) &mdash; the eldest of their five children, in the river town where the Wildermuth patriarch Johann Michael had set up shop as an immigrant shoemaker in the 1840s. He attended **Harmar Elementary School**, **graduated from Marietta High School in June 1942**, attended **Marietta College in the pre-med program**, then transferred. He flew combat missions out of Biak, Leyte, and Mindoro in 1944&ndash;45 as the navigator on a ten-man B-24 crew.
 
 After the war he came to **Stanford** on the GI Bill and earned his **Bachelor of Arts in Biological Sciences** &mdash; conferred on **October 1, 1948**, signed by President J. Wallace Sterling. The [diploma itself](/archive/robert-earl-wildermuth-stanford-ba-1948/) survives in the family's keeping. **The young portrait at the top of this entry is from his Stanford graduation day** &mdash; 1 October 1948, suit on, leaves behind him, the unmistakable post-war California light &mdash; the moment the first Stanford degree in the Wildermuth–Eesley line was conferred. The next Christmas, 1949, he and his fianc&eacute;e Dot sent out a [photo greeting](/archive/dot-and-bob-christmas-card-1949/) signed *"Love, Dot + Bob &mdash; 1949."*
 
@@ -26,6 +27,50 @@ After the war he came to **Stanford** on the GI Bill and earned his **Bachelor o
 Family memory holds &mdash; and the [combat log](/docs/the-big-one/) carries &mdash; that in the summer of 1945, after Hiroshima and Nagasaki, **Robert Earl was the navigator on the B-24 that flew MGM Studios cameras over the bombed cities to film the aftermath.** It is one of the most consequential single flights of his career: the cinematic record of the first atomic strikes &mdash; the footage the postwar world would form its understanding of nuclear weapons from &mdash; needed someone to navigate the plane the cameras rode in. He was that navigator.
 
 He served again in Korea, worked at the Pentagon, retired as a lieutenant colonel, and spent the rest of his life teaching and researching the family back to the early 1700s in W&uuml;rttemberg.
+
+## The 1999 obituary &mdash; the documentary anchor
+
+The [obituary published in the Marietta Times c. 10 July 1999](../../assets/family/originals/robert-earl-wildermuth-obituary-1999.pdf) (newspaper-clipping scan in this archive's keeping) is the contemporaneous family-supplied document of record. From it:
+
+> *"VENICE, Fla. &mdash; Robert Earl Wildermuth Sr., 75, of Venice, a former resident of Harmar, died Friday afternoon, June 25, 1999, in Doctor's Hospital in Sarasota, Fla."*
+
+The obituary gives the **specific service dates** that the memoir-as-recollection had carried only approximately:
+
+- **Service entry: 24 March 1943** &mdash; Air Corps, US Army.
+- **Air Corps Navigation Training Center graduation: 4 July 1944** &mdash; the navigator's wings.
+- **Commission as Second Lieutenant**: later that summer, on receipt of his Class 44-9 cadet rating.
+- **Last WWII mission: the MGM movie camera/newsman flight over Nagasaki** to record atomic-bomb damage. (The memoir-from-recollection mentions both Hiroshima and Nagasaki; the obituary specifies Nagasaki only. This is one of the small documentary tensions across the maternal record this page has long carried.)
+- **Separation from the army as 1st Lieutenant: 30 November 1945.**
+- **Stanford BA: 1948.**
+- **Rejoined as bombardier/navigator**, *"the new Army Air Corps"* &mdash; the post-war re-formed service.
+- **Korea: 1 year**, promoted to **captain**.
+- **1963: Air Force Commendation Medal.**
+- **1965: promoted to major**, assigned to the **1955th Communications Squadron at Itazuke Air Base, Fukuoka, Japan**. The family's Japan years begin here, with [Itazuke](/places/itazuke-air-base/) as the actual posting.
+- **Eventually promoted to lieutenant colonel.**
+- **1968: transferred to the Pentagon**, Air Force Personnel Directorate, communication specialist.
+- **31 May 1970: retired**, awarded the **Meritorious Service Medal**.
+
+The post-service career the obituary records is longer than the memoir alone had surfaced: after the Fall 1970 mathematics-teaching year at [Seabreeze High School](https://en.wikipedia.org/wiki/Seabreeze_High_School) in Daytona Beach, he worked successively as **salesman, state unemployment agent, golf course supervisor, electronic computer technician, and in the insurance business**, retiring in 1986. From 1986 forward he was **the family genealogist** &mdash; the work that produced [the 1989 memoir](/docs/robert-earl-wildermuth-memoir/), [the 1990 *Wildermuth/Fleming Heritage*](/docs/wildermuth-fleming-heritage-1990/), and the documents this archive is built on.
+
+He earned **three undergraduate degrees in three different fields** &mdash; an unusual academic record:
+
+| Year | Degree | Institution | Field |
+|---|---|---|---|
+| **1948** | B.A. | Stanford University | Biological Sciences |
+| **1965** | B.S. | Southern Methodist University | Industrial Engineering |
+| **1972** | B.S. | University of Central Florida | Medical Record Administration |
+
+The third &mdash; UCF at age 48 &mdash; matched the medical-records second career at Blue Cross of Florida the memoir documents.
+
+Charter memberships the obituary records: **Air Force Academy Athletic Association** and the **American Air Museum, England** &mdash; the museum at Duxford with its 8th and 5th Air Force veteran ties.
+
+He is survived in the obituary by his wife of 53 years **Dorothy Marie Davis Wildermuth** (whom he had married on **Easter Sunday, 20 April 1946**); their four children &mdash; [Terrie Lee Eesley](/family/terrie-lee-eesley/) of Marietta (Chuck's mother), [Sandra Sue Clement](/family/sandra-sue-wildermuth-clement/) of Atlanta, [Debra Jean Massaro](/family/debra-wildermuth/) of Pembroke, Virginia, and **Robert Earl Wildermuth Jr.** of Osprey, Florida; five grandchildren named in the document as **Charles Eric "Chuck" Eesley** (the keeper of this archive), Giancarlo Massaro, [Brianna Massaro](/family/briana-massaro-lockett/), and **Robert Earl Wildermuth III "Trey"** (the obituary lists five grandchildren but names four &mdash; the fifth either fell off the clipping or was omitted by the family who supplied the text); and **two sisters &mdash; [Norma Jean (Wildermuth) Gault](/family/norma-jean-wildermuth/) of Harbor Hills, Ohio, and [Betty Joan (Wildermuth) Haddox](/family/betty-joan-wildermuth/) of Newberry, Florida**. (The Gault and Haddox married surnames are the obituary's contribution to the record &mdash; the archive had been carrying the sisters by their birth surnames.)
+
+He was preceded in death by his brother [Carl Edward Wildermuth](/family/carl-edward-wildermuth/) and his sister [Ruth Irene (Wildermuth) Ridenour](/family/ruth-irene-wildermuth/).
+
+**Services were conducted 29 June 1999 at Venice Memorial Gardens, Venice, Florida.** He died about a year before [his youngest grandchild Robert Earl III's](/family/robert-earl-wildermuth-iii/) own first birthday, and sixteen years before [his grandson Chuck](/family/charles-eric-eesley/) joined the Stanford faculty that had granted him his first degree. The generational rhyme this archive was built to record &mdash; Stanford 1948 → Stanford c. 2010 &mdash; he didn't quite live to see the closing of.
+
+
 
 ## Dallas, the Kennedy assassination, and Marina Oswald in the neighborhood
 
