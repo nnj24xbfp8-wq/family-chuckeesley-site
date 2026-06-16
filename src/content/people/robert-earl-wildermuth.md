@@ -22,6 +22,10 @@ Robert Earl Wildermuth was born **8 May 1924, at home, at 123 Franklin Street in
 
 After the war he came to **Stanford** on the GI Bill and earned his **Bachelor of Arts in Biological Sciences** &mdash; conferred on **October 1, 1948**, signed by President J. Wallace Sterling. The [diploma itself](/archive/robert-earl-wildermuth-stanford-ba-1948/) survives in the family's keeping. **The young portrait at the top of this entry is from his Stanford graduation day** &mdash; 1 October 1948, suit on, leaves behind him, the unmistakable post-war California light &mdash; the moment the first Stanford degree in the Wildermuth–Eesley line was conferred. The next Christmas, 1949, he and his fianc&eacute;e Dot sent out a [photo greeting](/archive/dot-and-bob-christmas-card-1949/) signed *"Love, Dot + Bob &mdash; 1949."*
 
+![Robert Earl and Dorothy Davis at a club during their courtship in the 1940s.](../../assets/family/originals/74319512891__7D1F7DDB-77DB-431D-AF0E-F6C73DB8FF75.jpeg)
+
+*Robert Earl and Dorothy ("Dot") Davis during their courtship in the 1940s &mdash; the couple who would marry on Easter Sunday, 20 April 1946, and stay married fifty-three years.*
+
 ## The MGM camera mission
 
 In the summer of 1945, after the 9 August atomic bombing of Nagasaki, **Robert Earl was the navigator on the B-24 that flew an MGM newsreel cameraman over the bombed city at treetop level to film the aftermath.** It is one of the most consequential single flights of his career &mdash; the cinematic record of the second atomic strike, footage the postwar world would form its understanding of nuclear weapons from, needed someone to navigate the plane the cameras rode in. He was that navigator. The fully-built-out treatment, with cameraman context, the parallel ground crew under Lt. Daniel A. McGovern, and the postwar US suppression of the footage, is in the [combat log's marquee-moment section](/docs/the-big-one/#nagasaki-mgm).
@@ -86,11 +90,45 @@ Within weeks of the assassination, Marina Oswald — Lee Harvey Oswald's young S
 
 The career-defining Air Force episode came at [Itazuke Air Base in Fukuoka, Japan](/places/itazuke-air-base/) from 1965 to 1968. After graduating from the Air Force Institute of Technology at SMU in Dallas with an industrial-engineering degree, Robert Earl was sent to Japan as Chief of Maintenance of the 1955th Communications Squadron &mdash; in his own words, *"the third worst Communications Squadron out of thirty one in the Far East."*
 
+![Major Robert E. Wildermuth, Chief of Maintenance, looks on as Major Paul A. Hamlin presents a maintenance award, 1966.](../../assets/family/originals/00000002_00000037_00000038.jpeg)
+
+*The printed caption: "Major Paul A. Hamlin, Commander, presents the annual maintenance zero defects (1965&ndash;1966) to MSgt Joseph Stordeur, NCOIC of Nav-Aids Maintenance section. Major Robert E. Wildermuth, Chief of Maintenance looks on. &mdash; 1966." Major Hamlin &mdash; the "Major Hamelin" of the memoir &mdash; is the superior whose sudden retirement, below, made Robert Earl the squadron commander.*
+
 His commanding general, [Brigadier General Anthony Shtogren](/family/anthony-shtogren/), was *"the highest-educated general in the Air Force (three undergrad degrees plus a Harvard and an MIT Masters), and also the meanest general in the Air Force and one of the foulest talking men on earth."* After a Shtogren inspection in which the general *"ranted and raved, cursed and threatened,"* Robert Earl's immediate superior Major Hamelin retired suddenly. Robert Earl became squadron commander.
+
+![Major Robert E. Wildermuth, Commander, presents the Airman of the Month award, 1966.](../../assets/family/originals/00000002_00000023_00000024.jpeg)
+
+*"Major Robert E. Wildermuth, Commander, present[s] A1C Ronald Nasco of Radio Maintenance with the Airman of the Month award. SMS Keith Denio, Air Comm Supervisor conveys his best wishes. &mdash; 1966."*
+
+![TSgt Steve Greguresch receives the Air Force Commendation Medal from Major Robert E. Wildermuth, Commander, 1967.](../../assets/family/originals/00000002_00000025_00000026.jpeg)
+
+*"TSgt Steve Greguresch, Teletype Supervisor receives Air Force Commendation Medal from Major Robert E. Wildermuth, Commander. &mdash; 1967." Now the commander, Robert Earl is the one pinning on the medals.*
 
 His leadership method, in his own words: *"I called all of my officer and non-commissioned officer staff together... I picked their brains for ideas and methods to improve. I called all the airmen in the squadron together at a Commander's Call and apprised them of our situation and asked for their complaints, ideas and ways that we could become the BEST squadron in the Far East. I even put a suggestion box in the orderly room. I always felt that to find out better ways of doing a job, one should ask the people who were doing the job."*
 
 The squadron rose from 29th to 8th in the first quarter, to 3rd in the next, and eventually to #1 in the entire Far East, where it stayed for the rest of his tour. He won every Far East Communications Commander's Trophy there was to win, retiring some of them permanently to the squadron trophy case. He was promoted to Lieutenant Colonel below the zone of those normally eligible for promotion &mdash; the news announced at a Commanders' Conference Shtogren had flown his commanders to at Wheelus AFB in Tripoli, Libya, with Robert Earl's squadron adjutant calling from Japan to tell him through the wires.
+
+The rest of the daily work of the Itazuke communications command, 1965&ndash;67 &mdash; the squadron and group the photographs label the **1956th Communications Squadron** and the **348th Combat Support Group**:
+
+![Major Wildermuth, Col Kennedy and SSgt Mitchell at the transmitter site.](../../assets/family/originals/00000002_00000028_00000029.jpeg)
+
+*"Transmitter Site (L to R): Major Wildermuth, Col Kennedy and SSgt Mitchell."*
+
+![348th Combat Support Group headquarters — Col Kennedy, Capt Meredith and Major Wildermuth.](../../assets/family/originals/00000002_00000032_00000033.jpeg)
+
+*"348th CBS Headquarters (L to R): Col Kennedy, Capt Meredith and Major Wildermuth."*
+
+![Col G.M. Adams briefed on communication support at the Yamada munition depot, Japan, 1967.](../../assets/family/originals/00000002_00000034_00000035.jpeg)
+
+*"Col G.M. Adams is briefed on Communication support at Yamada munition depot. &mdash; 1967."*
+
+![Officers inspecting communications equipment racks.](../../assets/family/originals/00000002_00000027_00000028.jpeg)
+
+*Inspecting the communications gear the squadron kept running &mdash; the unglamorous core of the maintenance mission that took the unit from 29th to first in the Far East.*
+
+![Major Wildermuth and another officer at the 1956th Communications Squadron, Itazuke.](../../assets/family/originals/00000002_00000030_00000031.jpeg)
+
+*At the squadron, Itazuke Air Base, Fukuoka, Japan.*
 
 ## The Pentagon — and the proposal that took four years
 
