@@ -15,7 +15,10 @@ dateRange:
   start: "1970-12-31"
 private: false
 summary: "Charlie's New Year's Eve 1970 letter to Terrie — the moment the 10-month early-drop became definite. 'I've heard the 10-month tour is definite so I should be home sometime in March.' By this calculation Charlie would have been home in mid-March 1971, three months before the ETS he eventually targeted. The letter sits three weeks before the [19 January 1971 ETS-extension strategy](/docs/letters/charlie-to-terrie-1971-01-19-ets-extension/) where he chose to extend his tour to discharge directly from Vietnam on 14 June 1971 instead — trading the early home-by-March possibility for the cleaner ETS path. Brief and tired in register: 'I won't believe I'm coming home til I'm there.'"
-source: "Held in family archive — grandmaE1.pdf page 225 (gitignored locally; transcribed content surfaced here)."
+source: "Held in family archive — grandmaE1.pdf page 225 (gitignored locally; transcribed content surfaced here). Original handwritten pages also scanned as src/assets/family/originals/vietnam-letters/dad261.jpg (page 1) and dad262.jpg (page 2)."
+scans:
+  - ../../../assets/family/originals/vietnam-letters/dad261.jpg
+  - ../../../assets/family/originals/vietnam-letters/dad262.jpg
 ---
 
 ## What the letter is
