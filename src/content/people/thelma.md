@@ -46,4 +46,4 @@ Other possibilities exist too: a remarriage by Thelma after 1939, a falling-out 
 
 Thelma died **in the 1970s** &mdash; the bare framing the family memory holds. Specific dates, place of burial, and any remarriage between 1939 and her death are not in the archive at this writing. The next research-task is to find her in the 1940 and later US census records (now under the Eesley name in 1939-1940 but possibly under a new surname by the 1950s) and locate her death record.
 
-> *Sources: Ohio County Marriage Records 1774-1993, Franklin County Probate Court, License #79220 (via Ancestry, surfaced June 2026 by Roberta Burnes); [Lillie Dale Eesley's September 1939 letter to Leonard and Helen Eesley](/docs/lillie-dale-1939-letter-after-dales-death/); family memory transmitted by Roberta Burnes in her June 2026 email recording her own discovery and reaction.*
+> *Sources: Ohio County Marriage Records 1774-1993, Franklin County Probate Court, License #79220 (via Ancestry, June 2026); [Lillie Dale Eesley's September 1939 letter to Leonard and Helen Eesley](/docs/lillie-dale-1939-letter-after-dales-death/); family memory transmitted by Roberta Burnes, June 2026.*
