@@ -9,7 +9,7 @@ death:
   date: "1970s"
 spouses:
   - dale-eesley
-summary: "Wife of Dale Dudley Eesley. Married 15 November 1927 in Franklin County, Ohio at age 21 (their marriage license #79220 was surfaced from Ancestry by Roberta Burnes in June 2026). Widowed at 33 in July 1939 when Dale drowned at Black Lake, Michigan, eleven and a half years into their marriage. Moved out of the home she had shared with Dale in September 1939, into Mrs. Hudson's house — Lillie Dale Eesley's letter to her son Leonard records Lyle helping Thelma move with his car and trailer over two days. Stayed within the family's circle in Columbus for the rest of her life until her death in the 1970s. Roberta has no memory of her mother Helen calling Thelma 'Aunt Thelma'; Helen's children grew up knowing Thelma only as 'a friend of the family.' The chocolate-across-the-lake guilt Helen carried over Dale's drowning is the new context for the long silence. The Ancestry-surfaced marriage record in June 2026 reopened it."
+summary: "Wife of Dale Dudley Eesley. Married 15 November 1927 in Franklin County, Ohio at age 21 (their marriage license #79220 surfaced on Ancestry in June 2026). Widowed at 33 in July 1939 when Dale drowned at Black Lake, Michigan, eleven and a half years into their marriage. Moved out of the home she had shared with Dale in September 1939, into Mrs. Hudson's house — Lillie Dale Eesley's letter to her son Leonard records Lyle helping Thelma move with his car and trailer over two days. Stayed within the family's circle in Columbus for the rest of her life until her death in the 1970s. Helen's children grew up knowing Thelma personally — but only as 'a friend of the family,' never as their uncle Dale's wife. The chocolate-across-the-lake guilt Helen carried over Dale's drowning is the new context for the long silence."
 ---
 
 Thelma Z. Haughn was born **c. 1906 in Grove City, Franklin County, Ohio** &mdash; the same small Franklin County town where Dale Eesley was born. She and [Dale Dudley Eesley](/family/dale-eesley/) were married in Franklin County, Ohio on **15 November 1927**, at age 21 each. The marriage lasted **eleven and a half years**.
@@ -18,7 +18,7 @@ Thelma Z. Haughn was born **c. 1906 in Grove City, Franklin County, Ohio** &mdas
 
 Marriage License Application **No. 79220**, Probate Court of Franklin County, Ohio. License issued 9 August 1927; granted 15 October 1927; marriage solemnized 15 November 1927 by N.V. Lechler; filed and recorded 16 November 1927. Recorded in the *Ohio, U.S., County Marriage Records, 1774-1993*, Franklin County volume covering 1925-1928. The application names Dale's parents as **C.L. Eesley** and **Lillie Chenoweth**; Thelma's parents are recorded on the application as well. Her middle initial **Z** appears on the marriage license but the underlying name is not on file in this archive.
 
-The marriage record was surfaced by **Roberta Burnes** on Ancestry in **June 2026**, correcting nearly a century of family memory that Dale and Thelma had only been engaged. (See [Dale Eesley's page](/family/dale-eesley/) for the correction in context.) The line that this archive previously carried &mdash; *"in fact they were engaged, not married"* &mdash; was wrong, and has been replaced.
+The marriage record surfaced on Ancestry in **June 2026**, filling in a part of the picture &mdash; that Dale and Thelma had been married, not engaged &mdash; that had not made it across the generations. See [Dale Eesley's page](/family/dale-eesley/) for the discussion in context.
 
 ## Widowed at 33
 
@@ -32,17 +32,9 @@ So in the immediate aftermath of Dale's drowning, **Lyle &mdash; Dale's younger 
 
 What happened in the eighty-seven years between Dale's drowning and Roberta's Ancestry discovery is partly recoverable and partly not. Thelma lived in Columbus through the rest of her life and was a real presence in the Eesley family's life across decades. She remained close enough that **Helen Eesley Burnes's children &mdash; Roberta and her siblings &mdash; knew Thelma personally as they were growing up in Columbus**. But Helen never told them who Thelma was.
 
-In Roberta's June 2026 email:
-
-> *We knew Thelma growing up in Columbus, but Mom never told us exactly who she was, just that she was a friend of the family. This makes me sad.*
-
-And reinforcing the framing more carefully in a follow-up June 2026 email:
-
-> *I truly don't remember Mom ever calling Thelma "Aunt Thelma".*
-
 Helen was **fifteen** when Dale drowned; she was old enough to have known her sister-in-law of eleven years well, old enough to remember the marriage clearly. By the time she had her own children some twenty-plus years later and they came to know Thelma, the framing she chose was "friend of the family."
 
-This archive does not know why with certainty. But the same June 2026 email surfaces what may be the deepest part of the answer:
+This page does not know why with certainty. But what may be the deepest part of the answer is what Helen carried out of the drowning itself:
 
 > *Mom carried deep pain and guilt over Dale's death. She always blamed herself because she asked him to go across the lake to buy her some chocolate at the general store.*
 
@@ -50,9 +42,7 @@ Helen had **asked her brother to take the boat across Black Lake to buy her choc
 
 It is one explanation for the long silence around Thelma. To name Thelma to her own children as **Aunt Thelma, the wife of your Uncle Dale**, would have meant naming the husband Helen herself believed she had taken from her sister-in-law. Easier, for Helen, to keep Thelma close and to leave the structural fact unspoken &mdash; *"a friend of the family"* &mdash; than to say aloud, year after year through her children's childhoods, what she was actually carrying.
 
-This archive cannot know this for certain. Other possibilities exist: a remarriage by Thelma after 1939, a falling-out between the Eesleys and Thelma, the broader silence of mid-century Ohio families around widowhood. But the chocolate-across-the-lake story is the new context, and it sits at the center of why Helen would have wanted Thelma in her children's lives without explaining who she was.
-
-**Roberta found out who Thelma actually was, in her family, in June 2026, from Ancestry.com.** That is the kind of late-arriving knowledge that family-history work routinely turns up &mdash; and that this archive exists in part to hold.
+Other possibilities exist too: a remarriage by Thelma after 1939, a falling-out between the Eesleys and Thelma, the broader silence of mid-century Ohio families around widowhood. But the chocolate-across-the-lake story is the new context, and it sits at the center of why Helen would have wanted Thelma in her children's lives without explaining who she was.
 
 ## What is recorded about her death
 
