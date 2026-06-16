@@ -206,7 +206,7 @@ The next four months &mdash; **February, March, April, May 1945** &mdash; were h
 1. **The bombardier and remaining gunner names** from the crew section — OCR caught these only partially.
 2. **The Van Valen crew's specific B-24 tail number, nose-art name, and full roster.** Best path: the [90thbombgroup.org message board](https://90thbombgroup.org/messages); [Flight Crew Photos index](https://90thbombgroup.org/crews.php); James Lefemine's *Unit History of the 400th Bombardment Squadron Jolly Rogers* (ISBN 1505317207); AFHRA microfilm of 400th BS Operations Reports at Maxwell AFB.
 3. **The 22nd BG records of the Peleliu and Leyte attachment period** would document the night-mission roster and the Strosier-Courtney crew loss in unit-level detail.
-4. **The Hiroshima/Nagasaki MGM camera mission** detail. Some of it is in [Robert Earl's 1989 memoir](/docs/robert-earl-wildermuth-memoir/); the unit-level MGM camera assignment is described in postwar Strategic Bombing Survey records.
+4. **The exact date and aircraft tail number of the MGM Nagasaki mission.** The [marquee moment section](#nagasaki-mgm) places it c. mid-September 1945 against the 15 September 1945 MGM *News of the Day* atom-bombed-Japan newsreel release and the 9 September arrival of Daniel A. McGovern's parallel ground crew &mdash; but Robert Earl's memoir does not give a date, and the AAF mission records for the Ie Shima coverage flights would close the question. The same archive search would locate the actual aerial footage in the U.S. Strategic Bombing Survey holdings at the [National Archives Cartographic & Aerial Photography Branch (RG 326)](https://www.archives.gov/research/cartographic/aerial-photography/still-pictures-rg326-aerial-photography).
 
 ## Further reading
 
