@@ -14,8 +14,8 @@ postmarkDate: "1971-01-05"
 dateRange:
   start: "1971-01-05"
 private: false
-summary: "Charlie's four-page letter to Terrie dated 5 January 1971, from the Da Nang rear. The news is the drawdown: rumor has the 1st Air Cav Division beginning stand-down and heading home, while the 101st will likely stay through the year. Because the 101st has a manpower ceiling and will absorb transfers, Charlie reasons the early-out 'drops' should grow large — some men are already getting a 55-day drop, nearly two months. He figures Hawaii may not happen but that home is better anyway, muses about taking an in-country R&R just to sit in Da Nang and avoid the field, and is writing home for money to buy stereo equipment (the savings from skipping R&R will help). He expects to be on his way home around 12–18 March if the rumors hold, wants Terrie in Marietta when he arrives, and floats a June wedding if he gets stationed on the East Coast rather than California or Alaska. One passage on page 3 is omitted at the family's discretion."
-source: "Held in family archive — src/assets/family/originals/vietnam-letters/dad129.jpg (page 1), dad130.jpg (page 2), dad131.jpg (page 3), dad132.jpg (page 4). Handwritten, 4 pages. One passage on page 3 is omitted from the transcription at the family's discretion."
+summary: "Charlie's four-page letter to Terrie dated 5 January 1971, from the Da Nang rear. The news is the drawdown: rumor has the 1st Air Cav Division beginning stand-down and heading home, while the 101st will likely stay through the year. Because the 101st has a manpower ceiling and will absorb transfers, Charlie reasons the early-out 'drops' should grow large — some men are already getting a 55-day drop, nearly two months. He figures Hawaii may not happen but that home is better anyway, muses about taking an in-country R&R just to sit in Da Nang and avoid the field, and is writing home for money to buy stereo equipment (the savings from skipping R&R will help). He expects to be on his way home around 12–18 March if the rumors hold, wants Terrie in Marietta when he arrives, and floats a June wedding if he gets stationed on the East Coast rather than California or Alaska."
+source: "Held in family archive — src/assets/family/originals/vietnam-letters/dad129.jpg (page 1), dad130.jpg (page 2), dad131.jpg (page 3), dad132.jpg (page 4). Handwritten, 4 pages."
 scans:
   - ../../../assets/family/originals/vietnam-letters/dad129.jpg
   - ../../../assets/family/originals/vietnam-letters/dad130.jpg
@@ -51,7 +51,7 @@ His rumor was substantially right. As Vietnamization accelerated, the **1st Cava
 >
 > I should be out of here and on my way home March 12&ndash;18 if everything works out the way the rumors have it. I would like you to be in Marietta when I get there. I'll let you know more details later when I know more myself.
 >
-> How is school & all? I haven't received many letters recently from anyone so I just trust everything is going alright. Time goes slow and fast at the same time. I sleep in til 12 or 1 every day after pulling 6 hrs of guard at night. [&hellip;]
+> How is school & all? I haven't received many letters recently from anyone so I just trust everything is going alright. Time goes slow and fast at the same time. I sleep in til 12 or 1 every day after pulling 6 hrs of guard at night. Bill Fisher wrote. It seems he was beat up by some soul brothers last Dec. and had to have stitches. The race problem over here is pretty bad too but the blacks I associate with are alright and I have no problems.
 >
 > I can't believe I'm wasting 4 sheets of paper on you when it has been 3 days since I've heard from you.
 >
@@ -69,4 +69,4 @@ His rumor was substantially right. As Vietnamization accelerated, the **1st Cava
 
 **The first plain mention of a June wedding.** *"If I get back in March a June wedding would be alright if I get stationed on the east coast."* Months before the Hawaii-marriage debate of the spring, the idea of marrying in June 1971 is already on the table here &mdash; contingent, characteristically, on the Army not exiling him to Alaska.
 
-> *Editorial note: one passage on page 3 is omitted from the transcription above at the family's discretion; the omission is marked in place.*
+**A firsthand note on race in the ranks.** Charlie's report that a friend, Bill Fisher, was beaten by *"soul brothers"* and that *"the race problem over here is pretty bad"* is a small primary-source witness to a well-documented reality: racial tension and violence between Black and white soldiers ran high in rear-area Vietnam in 1970&ndash;71, as the draft-era army absorbed the same divisions tearing at the country back home. Charlie's own coda &mdash; *"the blacks I associate with are alright and I have no problems"* &mdash; is the period's casual register, preserved here as he wrote it.

@@ -17,9 +17,10 @@ dateRange:
   start: "1971-01-24"
 private: false
 summary: "Charlie's letter to Terrie dated 24 January 1971, three days after the Camp-Evans-Feb-4 letter. Beach life: blistered back from football and tennis on the sand. Asks how Terrie's college finals went and whether she has finally made senior year. The parents — Will and Peggy — keep asking when his R&R will be, and Charlie writes plainly that he still thinks Hawaii is best for a reunion with Terrie, framing the trip as something his parents will find out about sooner or later. Plans for a March 1971 meeting in Hawaii or the United States — the post-tour homecoming, planned in advance — close out the letter."
-source: "Held in family archive — src/assets/family/originals/vietnam-letters/dad114.jpg."
+source: "Held in family archive — src/assets/family/originals/vietnam-letters/dad114.jpg, with a clearer duplicate scan of the same page as dad136.jpg (which resolves the check figure as $1,000, where dad114 had been read tentatively as $260)."
 scans:
   - ../../../assets/family/originals/vietnam-letters/dad114.jpg
+  - ../../../assets/family/originals/vietnam-letters/dad136.jpg
 ---
 
 ## What the letter is
