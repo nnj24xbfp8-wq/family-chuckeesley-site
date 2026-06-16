@@ -1,6 +1,6 @@
 ---
 title: "The Big One: World War II"
-teaser: "Robert Earl's dated WWII mission log as B-24 navigator with the 400th Squadron, 90th Bomb Group — Biak, then Mindoro — and the 5th Air Force operations of November 1944 through May 1945 his crew flew alongside."
+teaser: "Robert Earl's dated WWII mission log as B-24 navigator — ~28 entries running Nov 1944 (ferry departure) through 31 May 1945 (promoted 1st Lt), in three phases: Hawaii ferry, the 22nd BG attachment at Peleliu and Tacloban, and the return to the 90th BG at Mindoro."
 type: combat-log
 author: robert-earl-wildermuth
 people:
@@ -8,189 +8,179 @@ people:
 dateRange:
   start: "1944-11"
   end: "1945-05"
-summary: "Robert Earl Wildermuth's dated mission-by-mission record as navigator on a B-24 Liberator with the 400th Bombardment Squadron ('Black Pirates') of the 90th Bombardment Group ('Jolly Rogers'), 5th Air Force, Southwest Pacific Area. The combat tour ran November 1944 through May 1945, operating from Mokmer Drome on Biak (Aug 1944 – 26 January 1945) and then McGuire Field on Mindoro in the Philippines (from 26 January 1945). The mission targets the squadron struck during this window — recoverable from the published HyperWar narrative of *The Army Air Forces in World War II* Vol. V and the 90th Bomb Group veterans' archive — were principally Mindanao airfields (late 1944), Corregidor (pre-invasion bombing 22 January – 16 February 1945), Formosa airfields and harbors (Heito, Takao, Koshun, Tainan, Matsuyama, Kiirun, Toshien — January through May 1945), Luzon close-support, Hong Kong and Saigon shipping (April–May 1945), and the first 90th BG strikes on the Chinese mainland (Canton, March 1945). The summer of 1945 Hiroshima/Nagasaki MGM camera-plane mission falls just after this window."
+summary: "Robert Earl Wildermuth's dated mission-by-mission record as navigator on a B-24 Liberator with the 400th Bombardment Squadron ('Black Pirates'), 90th Bombardment Group ('Jolly Rogers'), 5th Air Force, Southwest Pacific Area. The tour ran 14 November 1944 (ferry departure from Travis AFB) through 31 May 1945 (promotion to 1st Lieutenant at McGuire Field, Mindoro), in three operational phases: (1) Ferry across the Pacific via Honolulu and Canton Island to Biak; (2) Temporary attachment to the 22nd Bomb Group for night missions over Formosa from Peleliu and then from Leyte Air Field at Tacloban, late December 1944 through 20 January 1945; (3) Return to the 90th BG at McGuire Field, Mindoro from late January 1945 — Corregidor pre-invasion strikes, Luzon close-support, repeated Formosa airfield/industrial strikes, and finally Saigon oil-installation and Canton airdrome missions through 31 May 1945. The summer 1945 Hiroshima/Nagasaki MGM camera-plane mission sits just after this window. Notable narrative moments named below as anchors: the Strosier-Courtney crew loss on a Samar thunderstorm (17 Jan 1945), the Tokyo Rose beer-bottle propaganda response (19 Jan 1945), the 2000-lb bomb dumped in the ocean on the South China Sea fleet mission (13 Feb 1945), the Sydney R&R that turned into 21 days (2 March 1945), the commission ceremony in the jungle (c. 30 April 1945), and Lt. Finley's parachute into China (17 May 1945)."
 source: "Wildermuth-the-big-one.pdf"
 ---
 
-The full original document is available here: **[Read &ldquo;The Big One&rdquo; (PDF)](/docs/Wildermuth-the-big-one.pdf)** &mdash; 20 pages, scanned from Robert Earl's typewritten original, c. 1989. **The mission log itself is page-by-page typewritten reminiscence written in retirement, not the wartime AAF Form 5 flight log; readers should treat the dates and target names as Robert Earl's best recollection forty-plus years on, not contemporaneous record.** The contemporaneous records would be the **400th Bombardment Squadron's monthly Operations Reports** held by the Air Force Historical Research Agency at Maxwell AFB.
+The full original document is available here: **[Read &ldquo;The Big One&rdquo; (PDF)](/docs/Wildermuth-the-big-one.pdf)** &mdash; 20 pages, scanned from Robert Earl's typewritten original, c. 1989.
 
-This page surfaces the document's main content &mdash; the crew, the bases, the missions &mdash; and threads the 90th Bomb Group's *officially recorded* mission activity alongside, so Robert Earl's voice can be read against what the squadron was doing on those calendar days.
+**Treat dates and target names as his best recollection forty-plus years on, not contemporaneous record.** The wartime AAF Form 5 flight logs and the **400th Bombardment Squadron monthly Operations Reports** at the Air Force Historical Research Agency (Maxwell AFB) would be the authoritative source against which to cross-check.
+
+What this page does: surfaces the mission-by-mission entries he typed up, threads them against the published 5th Air Force operational record, and pulls out the six narrative moments that define the tour. See the companion [90th Bomb Group "Jolly Rogers" unit-context document](/docs/90th-bomb-group-jolly-rogers-context/) for the broader squadron history.
 
 ## The crew
 
-The Big One opens with descriptions of all ten men on the B-24 Liberator's crew. Robert Earl was the navigator.
+Ten men on the B-24 Liberator. Robert Earl was the navigator.
 
-- **Pilot: 1st Lt. Maxwell Van Valen** &mdash; from Newton, Massachusetts. Third-year MIT student before enlisting in the Aviation Cadet program. *"A quiet man, very intelligent, cool and calm under all stressful situations. He was an outstandingly capable pilot and he could fly close formation better than anyone else in the squadron."* Robert Earl received a postcard from him a couple of years after the war: living in Paris.
-- **Co-pilot: 1st Lt. Robert Steckroth** &mdash; from Hazleton, Pennsylvania (coal-mining country). Second-year William & Mary student at enlistment; rumored to have been a Little All-American football player there. *"He was the catcher on our squadron championship soft ball team. Bob deserved to have his own crew."*
-- **Navigator: 1st Lt. Robert E. Wildermuth** &mdash; this is Robert Earl himself. From Marietta, Ohio. One year out of high school at enlistment. Volunteered for Aviation Cadet training as a means to officer pay and prestige before the GI Bill existed; *"not fond of flying, he chose this route as a means to an end."*
-- **Bombardier**: name and details on a page of the PDF not yet cleanly transcribed.
-- **Top Turret Engineer**: Lyle &mdash; the only one on the crew who could drive an automobile and had a driver's license at enlistment. The MGM movie newsreel later showed survivors of a B-29 crash in the Caribbean, and Lyle was one of them &mdash; so he had re-entered the service after discharge.
-- **Radio Operator: T.Sgt. Frederick "Fuzzy" Kuszmaul** &mdash; from Logansport, Indiana. Second-year pre-med student at Indiana University at enlistment. *"My best friend on the crew even though military custom dictated no fraternization between officers and enlisted men. I was counselled many times by other officers about my association with Sgt. Kuszmaul."* On one mission along the China coast Fred motioned Robert Earl to switch his radio headset; Fred had been listening to a commercial station in San Francisco playing big-band music.
-- **Ball Turret Gunner: Milton** &mdash; also the armament supervisor, responsible for the .50-caliber ammunition and the bomb loading and fusing. *"If there was any person that had to have 'guts' it was the ball turret gunner."* Lowered through the floor of the B-24 in a glass bubble with guns. Milton had been eliminated from pilot training during the cadet-program phase-down.
-- **Tail Gunner: S.Sgt. Jesse Murdock** &mdash; from Ferris, Texas. *"A TEXAN!! &hellip; cowboy boots and all."* The crew photographer &mdash; *"some artistically composed pictures. Quite often the subject would turn out on film minus his head or perhaps his legs."* A subtle practical joker.
+- **Pilot: 1st Lt. Maxwell Van Valen** &mdash; from Newton, MA. Third-year MIT student before enlisting. *"A quiet man, very intelligent, cool and calm under all stressful situations."* Postcard after the war: living in Paris.
+- **Co-pilot: 1st Lt. Robert Steckroth** &mdash; from Hazleton, PA (coal country). Second-year William & Mary student; rumored Little All-American football. Catcher on the squadron softball team.
+- **Navigator: 1st Lt. Robert E. Wildermuth** &mdash; this is Robert Earl. From Marietta, Ohio. *"Not fond of flying, he chose this route as a means to an end"* &mdash; cadet program as the path to officer pay before the GI Bill existed.
+- **Top Turret Engineer: Lyle** &mdash; the only crew member with a driver's license at enlistment. Re-entered service postwar; survived a Caribbean B-29 crash that made the MGM newsreel.
+- **Radio Operator: T.Sgt. Frederick "Fuzzy" Kuszmaul** &mdash; from Logansport, IN. Pre-med at Indiana University. Robert Earl's best friend on the crew despite the no-fraternization rule.
+- **Ball Turret Gunner: Milton** &mdash; armament supervisor. Eliminated from pilot training in the cadet phase-down.
+- **Tail Gunner: S.Sgt. Jesse Murdock** &mdash; from Ferris, TX. *"A TEXAN!! &hellip; cowboy boots and all."* Crew photographer; *"Quite often the subject would turn out on film minus his head or perhaps his legs."*
 
-Robert Earl closes the crew section: ***"These then were the young 'kids' who went to war, defeated the Japs and came back men. They made Tokyo Rose eat her words and proved that she was just a misguided prognosticator."***
+Bombardier and remaining gunners are on a page the OCR caught only partially &mdash; a careful manual transcription would fill them in. Robert Earl closes the crew section: ***"These then were the young 'kids' who went to war, defeated the Japs and came back men."***
 
-## Where they actually were &mdash; base sequence
+## Mission table
 
-The published lineage of the 400th Bombardment Squadron (Maurer's *Combat Squadrons of the Air Force, World War II*, the AFHRA records, and the 90thbombgroup.org / Pacific Wrecks unit archives) places the squadron's bases as:
+Compact reference for the whole tour. Anchored callouts for the marquee moments link below.
 
-| Date | Base | Notes |
-|---|---|---|
-| 12 August 1944 | **Mokmer Drome, Biak Island** (Netherlands East Indies) | Robert Earl joined the squadron here in November 1944 after Pacific transit via Hawaii and Tarawa |
-| **26 January 1945** | **McGuire Field, Mindoro, Philippines** (= San Jose Airfield = the former Atkinson Drome, rededicated for Maj. Thomas B. McGuire Jr. of the 49th FG, MIA over Negros 7 January 1945) | All four 90th BG squadrons relocated here over four days |
-| c. 11 August 1945 | Ie Shima, Okinawa | After Robert Earl's combat tour window |
-
-**An open question.** Robert Earl's Big One log references **Tacloban (Leyte)** &mdash; but Tacloban does not appear in the 400th BS lineage in any official source. Tacloban Field on Leyte was the home of the 49th Fighter Group, 71st TRG, 417th BG (A-20s), and VPB-117 &mdash; not of any 90th BG heavy-bomber squadron. So Tacloban in his log is most likely a **staging or refuel stop** on the 26 January 1945 move from Biak to Mindoro, **a target visit**, or a misremembered airfield. Verifying the actual Big One entries against this lineage is the first thing to do on the next pass through the PDF.
-
-**Another note on naming.** Robert Earl's log mentions **"Kashung"** as a Formosa target. The 5th Air Force operational record names that target **Koshun** (south Formosa, present-day Hengchun). The 90th BG struck Koshun on 18 and 19 February 1945 and on 22 May 1945 &mdash; the Kashung entries in his log almost certainly track one of those strikes.
+| Date | Base | Target | Hours | Note |
+|---|---|---|---|---|
+| 14 Nov 1944 | Travis AFB, CA | Honolulu, HI | 14:30 | Ferry start, 2,100 mi over water |
+| 15 Nov 1944 | Honolulu | Canton Is. (Phoenix) | &mdash; | $50 whiskey on the desolate atoll |
+| late Nov 1944 | Canton Is. → Biak | (transit) | &mdash; | Join 400th BS at Mokmer Drome |
+| Dec 1944 | Peleliu Air Field | Various night Formosa missions | 20:30 total | **22nd BG attachment**; sonar-searchlight propeller-pitch trick |
+| 16 Jan 1945 | Leyte (22nd BG) | Formosa | 14:00 | |
+| 17 Jan 1945 | Leyte (22nd BG) | Formosa | 14:10 | **[Strosier-Courtney crash on Samar](#strosier-crash)** |
+| 18 Jan 1945 | Leyte (22nd BG) | Formosa | 15:00 | |
+| 19 Jan 1945 | Leyte (22nd BG) | Formosa | 14:50 | **[Tokyo Rose & the beer bottles](#tokyo-rose-beer-bottles)** |
+| 20 Jan 1945 | Leyte (22nd BG) | Formosa | 12:55 | Last 22nd BG mission; back to 90th BG |
+| 2 Feb 1945 | McGuire Field, Mindoro | Corregidor + Bataan, Luzon | 8:15 | First strike back with 90th BG |
+| 4 Feb 1945 | Mindoro | Clark Field, Luzon | 8:00 | Roosevelt propaganda leaflets over Manila |
+| 10 Feb 1945 | Mindoro | Luzon ground support | 8:00 | Some bombs hit friendly forces |
+| 13 Feb 1945 | Mindoro | Japanese Fleet, South China Sea | 10:00 | **[2000-lb bomb dumped in the ocean](#dumped-bomb)** |
+| 17 Feb 1945 | Mindoro | Luzon ground support | 3:00 | |
+| 19 Feb 1945 | Mindoro | **Koshun**, southern Formosa | 9:30 | The "Kashung" of the log; sugar mill nuisance raid; shadow interceptor |
+| 22 Feb 1945 | Mindoro | Ft. Stotsenburg, Pampanga, Luzon | 9:00 | |
+| 24 Feb 1945 | Mindoro | Luzon close-support | 8:00 | Senior crew in 400th BS |
+| 25 Feb 1945 | Mindoro | Corregidor | 9:00 | Post-jump close-support |
+| 26 Feb 1945 | Mindoro | Kiirun City, Formosa | 14:00 | 245 AA emplacements; head-hunter route over mountains |
+| 1 Mar 1945 | Mindoro | Takao Nippon Aluminum Plant | 7:30 | |
+| 2 Mar 1945 | Mindoro | Sydney, Australia | &mdash; | **[Sydney R&R: 10 days → 21 days](#sydney-rr)** |
+| 8 Apr 1945 | Mindoro | Luzon (Manila support) | 4:30 | |
+| 12 Apr 1945 | Mindoro | Tainan, Formosa | 8:40 | |
+| 16 Apr 1945 | Mindoro | Koshun, Formosa | 9:10 | |
+| 18 Apr 1945 | Mindoro | Target on Formosa | 10:45 | Phosphorous-gel AA shells |
+| 25 Apr 1945 | Mindoro | Saigon submarine target | 9:30 | All bombs missed the sub |
+| c. 30 Apr 1945 | Mindoro | (no combat) | &mdash; | **[Commission ceremony &mdash; 2nd Lt](#commission)** |
+| 1 May 1945 | Mindoro | (no combat) | &mdash; | Named Flight Leader |
+| 4 May 1945 | Mindoro | Saigon Shell Oil Refinery | 10:20 | First mission as Squadron Lead; *"oily river of fire"* |
+| 10 May 1945 | Mindoro | Canton, China &mdash; White Cloud Airdrome | 11:00 | First daylight China-proper mission for the crew |
+| 14 May 1945 | Mindoro | Shinchu hydroelectric plant, Formosa | 9:15 | |
+| 17 May 1945 | Mindoro | Kiirun hydroelectric plant, Formosa | 11:00 | **[Lt. Finley parachuted into China](#finley-china)** |
+| 31 May 1945 | Mindoro | (no combat) | &mdash; | Promoted to 1st Lt; *"shortest time in grade as 2nd Lt; about 30 days"* |
 
 ---
 
-## What 1-506&hellip; sorry, what the 400th BS was doing, month by month
+## Six marquee moments
 
-The published record &mdash; the HyperWar online edition of *The Army Air Forces in World War II* Vol. V; the 90thbombgroup.org veterans' archive; the Pacific Wrecks 400th BS page; the History of War narrative &mdash; allows the squadron's monthly operations during Robert Earl's tour to be reconstructed with substantial day-by-day detail. What follows is the *operational record* &mdash; the missions the squadron actually flew &mdash; so the personal log entries Robert Earl wrote can be matched against the unit's known calendar.
+The six moments that defined the tour, in his words. Each is a deep-link target.
 
-### November 1944 &mdash; Mokmer Drome, Biak
+### <a id="strosier-crash"></a>17 January 1945 &mdash; the Strosier-Courtney crash on Samar
 
-The 90th BG was concluding its New Guinea / Borneo / southern-Philippines phase. The Balikpapan oil-refinery campaign of September&ndash;October 1944 had just ended (the 90th's October share included the 10 October loss of 1st Lt. Leonard F. Temple in B-24J 44-40368). The 20 October Leyte invasion was underway, and Mindanao airfields were the priority target for heavy-bomber strikes from Biak.
+Flight Officer John "Jay" Strosier was Robert Earl's Selman Field navigation-cadet classmate &mdash; navigator on Lt. William Courtney's 22nd Bomb Squadron crew, also a Jolly Roger crew on temporary duty with the 22nd BG. They had alternating-day flying schedules and made a ritual of waiting up for each other at breakfast to *"unload the night's events and sort of calm our nerves down."* Jay had always been a pessimist: *"He had told me many times that he didn't think he'd ever return to the United States."*
 
-**Specific 400th BS events recorded in the published archive:**
+This was the day. The 22nd BG Operations Staff had changed the route to fool the Japanese: depart Leyte northbound up the coast of Samar, then around the north end of Luzon, then northwest to Formosa. *"Tokyo Rose was keeping pretty good tabs on us and daily in her propaganda broadcasts she would predict dire things for the Jolly Rogers Bomb Group."*
 
-- **7 November 1944** &mdash; B-24D "Sky Witch" 42-72815 on a search for the Japanese fleet in Brunei Bay. Fought a forty-minute battle with at least nine Zeros over Borneo, claimed at least four, made the ~1,000-mile return to Biak, landed but was written off as a hull loss.
-- **19 November 1944** &mdash; Bombing mission against Libby Airfield on Mindanao. **B-24J 44-41258, pilot 2nd Lt. John R. Cunningham, lost (MIA).** This is the only 400th-specific loss the Pacific Wrecks unit page records for the entire November 1944 &ndash; May 1945 window. (Flag: the actual loss roster was certainly larger; the public page is selective. AFHRA microfilm of the 400th's monthly Operations Reports would give a complete roster.)
+The Courtney crew flew into *"a huge thunderstorm just off the southern tip of Samar &hellip; a violent storm with updrafts, downdrafts, hail, lightning and thunder."* Caught in an overwhelming downdraft, Lt. Courtney pulled out at 5,000 feet, the engine barely producing thrust, the aircraft *"barely flyable and was just mushing through the air."* He gave the order to abandon ship. The survivor &mdash; the radio man &mdash; was the only one out the door. He floated down, shouted, got no answers. *"Finally he heard and observed a huge explosion and fireball. Lt. Courtney and his airplane and crew had run into a mountain ridge that rises up on the southern tip of Samar."*
 
-Wikipedia's campaign-streamer assignment puts the 400th in the **Bismarck Archipelago** campaign through 27 November 1944, the **Western Pacific** continuing, and the **Leyte** campaign from 17 October 1944 &mdash; consistent with the southern-Philippines support role from Biak.
+The survivor washed up on the beach, made contact with Filipino guerrillas, and was eventually brought back to base. He took himself off flying status; the squadron pressured him; he flew one more mission and grounded himself permanently.
 
-### December 1944 &mdash; Mokmer Drome, Biak
+Robert Earl: *"Even with Jay's loss weighing heavily on my mind, I flew that night out to a target in Formosa wondering about the fate of my friend."*
 
-Still at Biak. The US Army landed on Mindoro 15 December 1944 (Atkinson Drome construction begins the same day), but the 90th BG would not move forward for another six weeks. From 15 December 1944 the 90th entered the **Luzon** campaign streamer.
+### <a id="tokyo-rose-beer-bottles"></a>19 January 1945 &mdash; Tokyo Rose and the beer bottles
 
-Long-range strikes from Biak continued against southern Philippine and Borneo targets in support of Leyte and Mindoro. **No specific 400th BS mission detail** is recoverable from open sources for this month; Wiley O. Woods's *Legacy of the 90th Bombardment Group "The Jolly Rogers"* (1994) and Lefemine's *Unit History of the 400th* are the right book sources to fill the gap.
+> *"On this mission, one of the crews threw a case of empty beer bottles out of their airplane. On the next day, Tokyo Rose in her daily broadcast, said that the Jolly Rogers had unleashed a new psychological weapon on the 'poor rice farmers of Formosa.' She said the weapons emitted shrill shrieks and howls as it fell through the air and harmlessly landed in the rice paddies below. She predicted a dire consequence for the 'killers' of the Jolly Rogers Bomb Group. Our intelligence fellows seemed to think that the 'enemy psychological weapon' was in reality beer bottles that created a whining sound as they tumbled through the air."*
 
-### January 1945 &mdash; the base move; Formosa campaign opens
+The crew had pranked the Japanese state-propaganda apparatus with empties.
 
-**26 January 1945 &mdash; the move forward.** The 400th BS arrives at **McGuire Field, Mindoro**, on this date. The 321st arrived the same day, the 320th on the 27th, the 319th on the 29th. (Pacific Wrecks San Jose page citing the 90th BG arrival schedule.)
+### <a id="dumped-bomb"></a>13 February 1945 &mdash; the 2000-lb bomb dumped in the ocean
 
-Gen. Whitehead (5th AF advance) had originally planned to open daylight heavy-bomber attacks on Formosa on **16 January 1945** with two B-24 groups, but bad weather, slow Mindoro field construction, and Luzon ground-support demands forced cancellation; the first heavy-bomber daylight attack on Formosa actually flew on **22 January** &mdash; by the 22d BG alone, with the 90th still at Biak.
+> *"'Loaded for bear' this mission. Each airplane on this strike carried one big, fat 2000 pound bomb. Going after a Japanese fleet trying to sneak back to Japan. Solidly undercast, our naval officers would not allow us to bomb unless we could see the targets. There were U.S. submarines 'tailing' the fleet and we couldn't take a chance on hitting them. Goes to show you how much faith our operations people had in our radar bombing capability. We dumped our bomb into the ocean on the way back home."*
 
-- **22 January 1945** &mdash; GHQ formally cleared Corregidor for attack; the island *"received a substantial part of V Bomber Command's heavy bomber effort"* from this date forward. The 90th BG was one of those V Bomber Command heavy groups, about to be flying from Mindoro.
-- **29 January 1945** &mdash; **The 90th BG's first combat mission flown from Mindoro.** *"The second daylight heavy bomber attack [on Formosa] had been run on 29 January from McGuire Field on Mindoro by the newly emplaced 90th Bombardment Group which put eighteen of the 'Jolly Roger' Liberators over Heito. Fifteen to twenty enemy fighters from Takao were driven off by the escorting P-38s before any interception was attempted, but flak damaged six bombers."* (HyperWar AAF V Ch. 14.)
-- **29&ndash;30 January 1945** &mdash; 13th and 90th BS Narrative Mission Reports survive in the National Archives footnote stream for 29 and 30 January (HyperWar AAF V Ch. 12 footnote 13).
-- **31 January 1945** &mdash; *"The 90th Group returned to Formosa on 31 January&hellip;"* (HyperWar AAF V Ch. 14.)
+The official record of this strike: *"B-24's of the 90th, 43d, and 22d Bombardment Groups and forty B-25's"* were launched against *"a Japanese force of two battleships, a cruiser, and three destroyers in the South China Sea"* but the force *"evaded interception."* Robert Earl's first-person account is what *"evaded interception"* looks like from the aircraft.
 
-### February 1945 &mdash; Corregidor and Formosa
+### <a id="sydney-rr"></a>2 March 1945 &mdash; Sydney R&R, 10 days that became 21
 
-Two dominant operations: the **Corregidor pre-invasion bombardment**, climaxing in the 16 February paratroop drop by the 503d PIR; and continuing **Formosa airfield strikes** (Heito, Koshun, Takao, Matsuyama).
+> *"For a year or two, the Group policy had been for the senior crews as they accumulated a certain number of combat hours, to go on a Rest and Recuperation (R&R) to Sydney, Australia. The Group had leased a big hotel on King's Cross in the center of town. The usual length of an R&R was ten days &hellip; one could go into the kitchen and fix himself any kind of a huge sandwich, all the fresh, cold milk one could drink, cakes, pies and that long forgotten delicacy ---- ICE CREAM. It was paradise after being in the jungle for a while."*
 
-**Specific 400th BS / 90th BG dates from the published record:**
+Dorothy Lamour and a Hollywood band-selling drive in 1943 or 1944 had ended with Lamour back in the States describing Australia as *"a land of wanton women"* and recommending US troops be issued *"big sticks to fight off the girls"* &mdash; making her persona non grata in Australia. The Sydney pattern Robert Earl describes:
 
-- **1 February** &mdash; 90th BG strikes Formosa.
-- **7 February** &mdash; 90th BG strikes Formosa again.
-- **10 February** &mdash; All visible targets in southern Bataan hit by 24 B-29s, 72 A-20s, and 16 fighters in the morning; 24 B-24s, 73 A-20s, and 27 fighters again that afternoon. The B-24 share came from V Bomber Command heavy groups including the 90th.
-- **12 February** &mdash; Corregidor anti-aircraft fire ceased. Three weeks of sustained heavy-bomber pounding had silenced it.
-- **13 February** &mdash; Planned coordinated air-naval strike on a Japanese force of two battleships, a cruiser, and three destroyers in the South China Sea. **B-24s of the 90th, 43d, and 22d Bombardment Groups plus 40 B-25s** were launched. The Japanese force evaded.
-- **16 February 1945 &mdash; Corregidor airborne assault.** At 0759, **24 B-24s winged away from Corregidor after dropping frag bombs on the island's gun positions** &mdash; the final pre-jump strike, immediately preceding the 0830 paratroop drop. By that morning Corregidor had absorbed 3,128 tons of bombs in under one month, *"the heaviest concentration ever employed in the SWPA."* The 90th BG was one of the principal contributors.
-- **17 February** &mdash; Major Formosa strike attempt &mdash; two heavy groups slated for Heito, diverted by weather to Takao.
-- **18 February** &mdash; Full V Bomber Command strike, all four heavy groups (90th, 22d, 43d, 380th) plus one medium group. Three heavy groups targeted Okayama; one bombed Okayama, two hit Takao. 25 B-25s of the 38th BG hit Koshun (the *"Kashung"* in Robert Earl's log).
-- **19 February** &mdash; *"Twenty-two Liberators dropped sixty-three tons of frags on similar targets at Koshun, while fifteen heavies dropped frags on toxic-gas storage tanks at Hozan with excellent results."* 90th BG one of the contributing groups.
-- **21&ndash;22 February** &mdash; 163 B-24s placed 575.5 tons of 500- and 1,000-pound bombs on caves in the Zambales Mountains against the Kenbu force &mdash; close-support work for XI Corps. The 90th was among these heavies.
-- **24 February** &mdash; **Col. Ellis L. Brown assumed command of the 90th BG**, replacing Lt. Col. Wilson H. Banks.
-- **24 and 26 February** &mdash; Takao received 67 heavy bombers and a mixed load of 1,000-pounders, 500-pound GP, and 500-pound incendiary bombs.
-- **27 February** &mdash; *"The first daylight heavy bomber strike against harbor installations had been run by twenty-one Liberators of the 90th Group against Takao on 27 February."* **First 90th BG harbor-attack strike of the campaign.**
+> *"At about 3 P.M. each day when the offices, banks and shops closed, swarms of young girls would line up at the entrance of the hotel and soldiers exiting had to fight their way through the gauntlet and they would generally end up with a pretty young lady on each arm. It was 'tough' duty but someone had to do it."*
 
-### March 1945 &mdash; Formosa, Luzon close-support, the first China-mainland strikes
+The Van Valen crew was the **last 90th BG crew sent to Sydney** &mdash; the long distances from Mindoro had ended the practice. The Air Transport shuttles had stopped; the crew hitchhiked back; the 10-day trip became 21. *"Got no more combat time in March."*
 
-The Formosa airfield/industrial campaign in full stride; Luzon close-support continues; first attacks on the Chinese mainland authorised 20 March.
+### <a id="commission"></a>c. 30 April 1945 &mdash; the commission ceremony in the jungle
 
-- **1 March** &mdash; 44 Liberators dropped 387 x 500-pound incendiaries squarely on Tainan.
-- **2 March** &mdash; **24 Liberators of the 90th and 4 of the 380th went to Matsuyama airfield with 500-pound frags.**
-- **3 March** &mdash; **The 90th Group bombed Kiirun harbor by radar** (heavy weather).
-- **6 March** &mdash; 98 B-24s dropped 250 tons on Antipolo (Luzon close-support against the Shimbu force).
-- **12&ndash;13 March** &mdash; Tainan received 84 x 1,000-pounders.
-- **13 March** &mdash; **16 90th Group B-24s bombed by radar with unobserved results except for "an encouraging column of black smoke"** against Formosa's main hydroelectric plants.
-- **16 March** &mdash; **86 B-24s from all four heavy groups** struck Formosa airfields.
-- **17 March** &mdash; Four groups, 70 Liberators to Taichu, Toyohara, Shinchiku, Tainan airdromes.
-- **17/18, 18/19, 19/20 March (nights)** &mdash; **B-24s of the 90th hit White Cloud and Tien-Ho airdromes at Canton as secondary targets &mdash; the first 90th BG strikes on the Chinese mainland.**
-- **18 March** &mdash; 46 heavies on Tainan, Koshun, Toko.
-- **20 March** &mdash; 35 B-24s with 260-pound frags, 100-pound napalms, and 100-pound incendiaries finished off Tainan.
-- **21 March** &mdash; Two groups, 37 Liberators with P-38 cover against Samah airdrome on Hainan Island.
-- **22 March** &mdash; 77 Liberators on Tainan and its airdrome.
-- **24/25 March** &mdash; First night-radar B-24 mission to Kiirun docks.
-- **28 March** &mdash; 24 90th BG Liberators on Tainan.
-- **29 March** &mdash; Kiirun's first daylight attack &mdash; 18 Liberators.
+> *"Big day today. Took my commission and became a Second Lieutenant in the Army of the United States."*
 
-### April 1945 &mdash; Hong Kong, Saigon
+He had been graduated from Selman Field as a **Flight Officer** &mdash; a wartime warrant-officer grade for cadets who hadn't yet been 21 or whose squadrons had no Second Lieutenant vacancies. *"At my young age, I doubt if I displayed the proper leadership qualities. After all, who would follow a twenty year old kid 'still wet behind the ears'?"* The Flight Officer pay was actually $75/month *more* than a fresh 2nd Lt's, so the commission was financially neutral-to-down. The symbolic step came first: *"our Commanding General came out in the jungles and at an official ceremony, he pinned the gold bar of a second lieutenant on all of us getting promoted."* By 31 May he was a 1st Lt &mdash; *"shortest time in grade as a 2nd Lieutenant; about 30 days."*
 
-Saigon "take-out" begins (Indo-China naval yards and oil installations); intensified Formosa strikes; Luzon ground support shifts to Ipo Dam and Balete Pass.
+### <a id="finley-china"></a>17 May 1945 &mdash; Lt. Finley parachuted into China
 
-- **2 April** &mdash; 37 Liberators on Hong Kong (Kowloon and Tai Koo docks); 90th BG and other heavy groups.
-- **3 April** &mdash; Hong Kong shipping; Kagi airdrome (Formosa).
-- **4 April** &mdash; 41 Liberators on Hong Kong (Victoria harbor &mdash; power plant, oil tanks, Royal Navy Yard).
-- **5 April** &mdash; 20 B-24s on Kowloon docks and Kai Tak airdrome; 38 heavies on Kiirun.
-- **6 April** &mdash; 23 Liberators on Yulin Harbor.
-- **11, 12, 14 April** &mdash; Three heavy groups on Tainan, Takao, Okayama, Kagi, Taichu, Toyohara airdromes.
-- **15 April** &mdash; Toyohara, Shinchiku, Shinshoshi airdromes.
-- **16 April** &mdash; Matsuyama airdrome and Taihoku aircraft with 100-pound frags.
-- **17 April** &mdash; Four Liberator groups on Taichu, Shinshoshi, Toyohara, Shinchiku.
-- **20 and 21 April** &mdash; **20 Liberators bombed shipping at Saigon with 1,000-pound bombs on both days,** with hits on large merchant ships; eight B-24s holed by flak.
-- **23 April** &mdash; **24 90th Group B-24s on Saigon dry docks, warehouses, and oil-storage tanks.** Same day 20 B-24s on Yulin Harbor.
-- **25 and 26 April** &mdash; **90th and 380th Groups combined for 46 and 47 planes** over Saigon.
-- **30 April** &mdash; 42 Liberators on Toshien (Formosa) oil storage.
+The strike: hydroelectric plant at Kiirun, Formosa. Lt. Finley's aircraft lost one engine before the target and turned around. Then on the return leg over the South China Sea it lost a second engine. *"Lt. Finley decided to head for China only 70 miles away. There he would take his chances making it to Chinese held territory."*
 
-### May 1945 &mdash; Saigon climax, Formosa city strikes
+> *"At a designated point, all crew members parachuted out safely and they were greeted by friendly Chinese who helped them evade the Japanese. They sat out the rest of the war."*
 
-Saigon oil-installation strikes climax; full Indo-China rail-line offensive opens 7 May; Formosa city/area-bombing campaign peaks.
+---
 
-- **3 May** &mdash; **47 Liberators on Saigon's Texaco, Standard, Shell, Socony-Vacuum oil installations** with 100-pounders (90th + 380th).
-- **4 May** &mdash; Repeat with 250-pounders.
-- **8 May** &mdash; 48 Liberators in six-plane formations on Indo-China rail bridges.
-- **9 May** &mdash; Two groups, 41 B-24s on White Cloud (Canton); 44 planes on Tien-Ho.
-- **10 May** &mdash; Four groups on Canton airdromes.
-- **11 May** &mdash; 56 Liberators left Toshien in flames.
-- **13 May** &mdash; 43 heavies with 1,000-pounders against Indo-China coastal rail bridges.
-- **14 May** &mdash; 27 B-24s on Toshien.
-- **15 May** &mdash; 82 Liberators on Shinchiku.
-- **19 May** &mdash; 102 Liberators on Kiirun.
-- **22 May** &mdash; 89 heavies on Toshien, Okayama, **Koshun** (the second appearance of *"Kashung"* in Robert Earl's likely target list).
-- **27 May** &mdash; **24 90th BG Liberators on Muongman rail yards** (Indo-China); 20 380th BG planes on Phanrang yards.
-- **28 May** &mdash; **24 90th BG planes again** &mdash; 12 on Muongman, 6 on Gia Ray, 6 strafing rolling stock between Saigon and Phanrang. *"Heavies made strafing passes after expending bombs."*
-- **30 May (Memorial Day)** &mdash; 117 B-24s on Takao with 260-pound frags.
-- **31 May** &mdash; 114 heavies on Taihoku.
+## Phase 1 &mdash; ferry to the Pacific (November 1944)
 
-## The MGM cameras over Hiroshima and Nagasaki
+The Van Valen crew flew out of **Travis AFB, California** on the night of **14 November 1944**:
 
-The Big One closes with Robert Earl's tour-ending mission &mdash; the summer of 1945 detached duty when his B-24 was assigned to fly **MGM Studios cameras over Hiroshima and Nagasaki to film the bombed cities from the air.** The footage the postwar world would form its understanding of nuclear weapons from needed a navigator to get there. He was it.
+> *"On a dark night in November at precisely midnight, we flew out over the Golden Gate Bridge in San Francisco, California and headed for John Rodgers Field, Honolulu, Hawaii two thousand one hundred miles west in the Pacific Ocean. About fourteen and a half hours later, looking out our right front window, there was the Central Tower at John Rodgers Field about 8 miles away. We had passed our first test of a long over water hop at night enroute to the War in the Southwest Pacific."*
 
-That episode is treated more fully in [his 1989 memoir](/docs/robert-earl-wildermuth-memoir/) and on [his person page](/family/robert-earl-wildermuth/). It sits outside the Big One's November 1944 &ndash; May 1945 combat-tour window but is the document's biographical capstone.
+*"Thank heavens &mdash; I don't have much confidence or ability in 'shooting stars' with the sextant."*
 
-## Before they shipped &mdash; San Francisco, c. 1944
+The next leg, 15 November, was a 1,100-mile southwest hop to **Canton Island** in the Phoenix Group &mdash; a mile-long atoll with the airstrip running water's-edge to water's-edge. On landing, a grizzled sergeant permanently stationed there poked his head into the nose compartment and asked if they had any whiskey aboard. *"Bottles of whiskey were highly prized on these desolate islands &hellip; many aircrews transiting through these islands brought along from the United States, cartons of whiskey and sold the bottles for as much as $50 per bottle."*
 
-A single sepia-toned photograph from the combat log places Robert Earl and three of his fellow Army Air Corps officers **at a bar table in San Francisco shortly before deployment** &mdash; the staging stop on the way to the Pacific. The four men are in **Class B officer uniforms with pilot wings**; the table is loaded with **Alpen Brau beer bottles**; the lighting and grain mark it as an interior bar shot, c. 1944. The photograph reads almost as a *"last night before the war"* frame &mdash; the kind of officer's-club composition the crew would have wanted to take precisely because they all knew what they were about to fly into.
+From Canton the route continued through more atolls and finally to **Biak Island (Mokmer Drome)**, the 400th BS's home base since 12 August 1944. Robert Earl joined the squadron there in late November 1944.
 
-![Robert Earl Wildermuth (left) and three fellow officers in a San Francisco bar shortly before Pacific deployment, c. 1944. Class B uniforms, pilot wings, Alpen Brau bottles on the table.](../../assets/family/originals/00000001_00000007_00000008.jpeg)
+## Phase 2 &mdash; the 22nd Bomb Group attachment (late December 1944 &ndash; 20 January 1945)
 
-The print is the only surviving photograph in this archive of Robert Earl *in uniform but not yet in combat* &mdash; the calibration moment between the Stanford undergraduate years that hadn't yet happened and the Pacific missions about to begin.
+This phase resolves a long-standing question about The Big One. **The 400th BS lineage is unambiguous &mdash; Biak → Mindoro, with no Leyte base** &mdash; but Robert Earl's log clearly has him at Leyte. The answer is that he was on **temporary attachment to the 22nd Bomb Group** (a 7th Air Force unit) along with at least one other Jolly Roger crew (Lt. Courtney's, with Flight Officer Strosier). The 22nd BG was running night missions over Formosa first from **Peleliu Air Field** in the Palau Islands, then from **Leyte Air Field at Tacloban** in the Philippines. Robert Earl's crew went with them.
+
+**At Peleliu** the crew flew their first two night missions &mdash; 20:30 of combat time across the pair. The 22nd BG's intelligence officer briefed them that Japanese AA defenses around the navy guns used **sonar-controlled searchlights** &mdash; picking up aircraft by sound rather than radar. The countermeasure: change propeller pitch in flight to change the engine sound signature. *"Sure enough on the next flight, we gave this procedure a try and just as surely it worked. The Japs spent the whole time we were in the target area trying to pick us up."*
+
+A tent-area incident at Peleliu: a crew member who skipped lunch awoke from a nap to find a Japanese soldier rifling crew duffle bags. His yell scared the intruder away. *"There was still heavy fighting going on in the Pelau Islands while we were there and stragglers from the Japanese Army could be anyplace."* The crew slept thereafter with .45s under their pillows.
+
+**The move to Leyte** happened mid-mission. *"We flew a mission on this date from Peleliu to a target on Formosa leaving late in the afternoon and on our way back we were to land at Leyte Air Field the next morning where we would then be stationed. Thereafter we would stage out of Leyte."* The 22nd BG had moved to Tacloban; the attached crew went with them. *"Heavy fighting was still going on on Leyte Island where I recent landing of 50,000 Japanese troops had just arrived. We got an almost nightly Japanese airraid. They always seemed to bomb the town of Tacloban about ten miles away but we would jump into our fox holes and watch our search lights seek them out."*
+
+The Leyte phase was **16, 17, 18, 19, and 20 January 1945** &mdash; five night Formosa missions in five days. The 17 January strike took the [Strosier-Courtney crew on the Samar mountain](#strosier-crash). The 19 January strike produced the [Tokyo Rose beer-bottle response](#tokyo-rose-beer-bottles). The 20 January strike was the last night mission with the 22nd BG: *"Praise the Lord!!"*
+
+The crew returned to the 90th BG, which had moved from Biak to Mindoro by ship while they were attached out. *"Some kind souls had taken down our tent on Biak, secured all of our personal property and had even saved our precious and hard to get lumber so we could build another wooden floored tent abode."*
+
+## Phase 3 &mdash; back with the 90th BG at McGuire Field, Mindoro (February &ndash; May 1945)
+
+The 90th Bomb Group at Mindoro had arrived on **26 January 1945**. The 400th BS along with the rest of the group set up at **McGuire Field** (named for Maj. Thomas B. McGuire Jr., 49th FG, the war's number-two ace with 37 kills, MIA over Negros 7 January 1945; the Mindoro strip was rededicated in his honor in early January). Robert Earl rejoined the squadron there from Tacloban around the same time.
+
+The next four months &mdash; **February, March, April, May 1945** &mdash; were his core 90th BG combat tour. The missions in chronological order: **Corregidor pre-invasion strikes** (2, 17, 25 February); **Luzon close-support** for the southern Bataan campaign, the Ft. Stotsenburg-Pampanga line, and the Lingayen Gulf advance (4, 10, 17, 22, 24 February; 8 April); the **South China Sea fleet mission** that produced [the dumped 2000-lb bomb](#dumped-bomb) (13 February); **repeated Formosa airfield/industrial strikes** &mdash; Koshun (19 February, 16 April), Kiirun City and harbor (26 February, 17 May), Takao Nippon Aluminum (1 March), Tainan (12 April), Shinchu hydroelectric (14 May), and the phosphorous-gel-AA-shells mission (18 April); the **Sydney R&R** that became [21 days](#sydney-rr) (2 March); and the **Indo-China oil/transport strikes** of late April–May &mdash; the Saigon submarine mission (25 April) and the Shell Oil Refinery strike as the first [as Squadron Lead](#commission) (4 May). The final notable mission was the 17 May Kiirun hydroelectric strike that ended [with Lt. Finley parachuting into China](#finley-china). The 31 May 1st Lt promotion closed the document.
+
+## What the OCR pass settled
+
+1. **Tacloban is resolved.** Robert Earl's crew was on temporary attachment to the 22nd Bomb Group at Peleliu and then at Leyte (Tacloban), late Dec 1944 – 20 Jan 1945. The 400th BS lineage stays Biak → Mindoro.
+2. **"Kashung" = Koshun.** The 19 February 1945 Liberator frag strike at Koshun (HyperWar) matches Robert Earl's *"target on southern tip of Formosa &hellip; sugar mill nuisance raid."*
+3. **The Strosier crew loss** on 17 January 1945 in a Samar thunderstorm is documented in the personal record.
+4. **The Van Valen crew was the last 90th BG crew to fly the Sydney R&R** before the practice was discontinued in March 1945 due to the Mindoro–Sydney distance.
 
 ## What's still open
 
-1. **A cleaner mission-by-mission transcription of Robert Earl's actual log entries.** The Big One PDF is a 1989 typewritten reminiscence; a careful pass through all 20 pages would let his date entries be matched to the operational record above, mission-by-mission. The current OCR pass is rough and the date entries are partly illegible.
-2. **The Van Valen crew's specific B-24 tail number, nose-art name, and full roster.** Not surfaced in indexed public sources (Pacific Wrecks, 90thbombgroup.org crew photos, Wikipedia). Best paths: the [90thbombgroup.org message board](https://90thbombgroup.org/messages), the [Flight Crew Photos index](https://90thbombgroup.org/crews.php), James Lefemine's published *Unit History of the 400th Bombardment Squadron Jolly Rogers* (ISBN 1505317207), and AFHRA microfilm of the 400th BS monthly Operations Reports at Maxwell AFB.
-3. **The Tacloban question.** The 400th BS lineage is unambiguous: Biak &rarr; Mindoro, no Leyte permanent base. If Robert Earl's log describes Tacloban as a base, the entry needs to be re-read; it was most likely a refuel/staging stop in the 26 January 1945 move forward, or a target visit.
-4. **The "Kashung" / Koshun matching.** Three obvious candidates: 18 February 1945 (within the four-group strike), 19 February 1945 (22 heavies, 63 tons of frags), or 22 May 1945 (89 heavies on Toshien, Okayama, Koshun). The actual log entry against this list would settle which mission(s) Robert Earl flew.
-5. **The complete 400th BS loss roster.** Pacific Wrecks lists only Cunningham (19 November 1944). The actual roster will be in the squadron's monthly Operations Reports at AFHRA.
+1. **The bombardier and remaining gunner names** from the crew section — OCR caught these only partially.
+2. **The Van Valen crew's specific B-24 tail number, nose-art name, and full roster.** Best path: the [90thbombgroup.org message board](https://90thbombgroup.org/messages); [Flight Crew Photos index](https://90thbombgroup.org/crews.php); James Lefemine's *Unit History of the 400th Bombardment Squadron Jolly Rogers* (ISBN 1505317207); AFHRA microfilm of 400th BS Operations Reports at Maxwell AFB.
+3. **The 22nd BG records of the Peleliu and Leyte attachment period** would document the night-mission roster and the Strosier-Courtney crew loss in unit-level detail.
+4. **The Hiroshima/Nagasaki MGM camera mission** detail. Some of it is in [Robert Earl's 1989 memoir](/docs/robert-earl-wildermuth-memoir/); the unit-level MGM camera assignment is described in postwar Strategic Bombing Survey records.
 
 ## Further reading
 
-- [The 90th Bomb Group "Jolly Rogers" and the 400th "Black Pirates" Squadron &mdash; unit context](/docs/90th-bomb-group-jolly-rogers-context/) &mdash; companion document, broader squadron history
-- [Robert Earl's 1989 memoir](/docs/robert-earl-wildermuth-memoir/) &mdash; the autobiographical companion piece
-- [*Hiroshima*](https://en.wikipedia.org/wiki/Hiroshima_(book)) by John Hersey &mdash; the ground-level companion to what the MGM cameras saw from the air
-- [The 90th Bomb Group "Jolly Rogers"](https://en.wikipedia.org/wiki/90th_Operations_Group) on Wikipedia
-- [The 400th Bombardment Squadron](https://en.wikipedia.org/wiki/400th_Bombardment_Squadron) on Wikipedia
+- [The 90th Bomb Group "Jolly Rogers" unit-context document](/docs/90th-bomb-group-jolly-rogers-context/)
+- [Robert Earl's 1989 memoir](/docs/robert-earl-wildermuth-memoir/)
+- [22nd Bombardment Group "Red Raiders"](https://en.wikipedia.org/wiki/22d_Bombardment_Group) on Wikipedia &mdash; the unit Robert Earl's crew was attached to
+- [90th Operations Group](https://en.wikipedia.org/wiki/90th_Operations_Group) on Wikipedia
+- [400th Bombardment Squadron](https://en.wikipedia.org/wiki/400th_Bombardment_Squadron) on Wikipedia
 - [Pacific Wrecks &mdash; 400th Bomb Squadron](https://pacificwrecks.com/unit/usaaf/90bg/400bs.html)
-- [HyperWar &mdash; *The Army Air Forces in World War II*, Vol. V](https://www.ibiblio.org/hyperwar/AAF/V/) (Wesley Frank Craven and James Lea Cate, eds.) &mdash; the source for the daily mission narrative threaded above
-- [90thbombgroup.org](https://www.90thbombgroup.org/) &mdash; veterans' archive, crew photographs, mission stories
-- [*The Bomb*](https://en.wikipedia.org/wiki/The_Bomb_(book)) by Gerard J. DeGroot &mdash; the policy, technical, and military history of the weapons themselves
-- [The United States Strategic Bombing Survey](https://en.wikipedia.org/wiki/United_States_Strategic_Bombing_Survey) &mdash; the official US program the post-bombing aerial photography fed into
+- [HyperWar &mdash; *The Army Air Forces in World War II*, Vol. V](https://www.ibiblio.org/hyperwar/AAF/V/) Chapters 12, 14, 16 &mdash; the source for the operational record threaded above
+- [90thbombgroup.org](https://www.90thbombgroup.org/) &mdash; veterans' archive
 
-> *Sources for the operational record threaded above: HyperWar online edition of Craven & Cate, *The Army Air Forces in World War II*, Vol. V, Chapters 12 (Luzon / Corregidor), 14 (Formosa campaign), and 16 (South China Sea / China / Indo-China); [Pacific Wrecks 400th BS](https://pacificwrecks.com/unit/usaaf/90bg/400bs.html); [Pacific Wrecks San Jose / McGuire Field](https://pacificwrecks.com/airfield/philippines/san_jose/index.html); [Wikipedia 90th Operations Group](https://en.wikipedia.org/wiki/90th_Operations_Group); [Wikipedia 400th Bombardment Squadron](https://en.wikipedia.org/wiki/400th_Bombardment_Squadron); [History of War &mdash; 90th Bombardment Group](https://www.historyofwar.org/air/units/USAAF/90th_Bombardment_Group.html); Maurer, *Combat Squadrons of the Air Force, World War II* (1969/1982), p. 490, for the squadron lineage; Wiley O. Woods Jr., *Legacy of the 90th Bombardment Group "The Jolly Rogers"* (Turner, 1994); James Lefemine, *Unit History of the 400th Bombardment Squadron Jolly Rogers* (ISBN 1505317207); Steve Birdsall, *Flying Buccaneers* on the broader 5th AF context.*
+> *Sources: HyperWar online edition of Craven & Cate, *The Army Air Forces in World War II*, Vol. V, Chapters 12 (Luzon / Corregidor), 14 (Formosa campaign), and 16 (South China Sea / China / Indo-China); [Pacific Wrecks 400th BS](https://pacificwrecks.com/unit/usaaf/90bg/400bs.html); [Pacific Wrecks San Jose / McGuire Field](https://pacificwrecks.com/airfield/philippines/san_jose/index.html); [Wikipedia 90th Operations Group](https://en.wikipedia.org/wiki/90th_Operations_Group); [Wikipedia 400th Bombardment Squadron](https://en.wikipedia.org/wiki/400th_Bombardment_Squadron); [History of War &mdash; 90th Bombardment Group](https://www.historyofwar.org/air/units/USAAF/90th_Bombardment_Group.html); Maurer, *Combat Squadrons of the Air Force, World War II* (1969/1982), p. 490; Wiley O. Woods Jr., *Legacy of the 90th Bombardment Group "The Jolly Rogers"* (Turner, 1994); James Lefemine, *Unit History of the 400th Bombardment Squadron Jolly Rogers* (ISBN 1505317207). All first-person quotations from Robert Earl Wildermuth, *The Big One: World War II* (typewritten manuscript, c. 1989), full PDF [here](/docs/Wildermuth-the-big-one.pdf).*
