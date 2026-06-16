@@ -24,13 +24,23 @@ source: "Held in family archive — grandmaE1.pdf page 90 (gitignored locally; t
 
 <aside class="not-prose my-8 border-l-4 border-amber-700 bg-amber-50/60 dark:bg-amber-950/20 px-6 py-5 rounded-r">
 
-**What C Co, 1-506 was doing on 29 March 1971**
+**What was happening on 29 March 1971 &mdash; four days after Lam Son 719's official close**
 
-**C Co arrived at Firebase Fury (grid YC 534846, southern Thua Thien Province)** on this exact date. Fury was a 101st Abn firebase further south than the usual 1-506 AO &mdash; the redeployment suggests the army was concentrating remaining 1-506 elements on the Operation Jefferson Glenn rocket-belt mission as Lam Son 719 closed and helicopter and ground assets repositioned south from Quang Tri.
+Lam Son 719 officially ended **25 March** when the last surviving ARVN units crossed back into South Vietnam. On the night of 23 March, a PAVN sapper attack on Khe Sanh killed three Americans and destroyed several aircraft plus two ammunition dumps. Khe Sanh continued under artillery bombardment and was abandoned 6 April, ending the operation entirely.
 
-The leave embargo had lifted with Lam Son 719 closing four days earlier; R&R requests held through February were now clearing. Charlie's 12&ndash;19 April Hawaii window fell into the first round of cleared bookings.
+**The reckoning was just beginning.** Final casualty tally (per MACV Command History and the major secondary sources):
 
-*Sources: [charlie1-506.com firebase rotation table](http://www.charlie1-506.com/html/pages%20from%20main%20nav/when_where.html) (C Co arrived FB Fury 29 March 1971); [Wikipedia: Operation Jefferson Glenn](https://en.wikipedia.org/wiki/Operation_Jefferson_Glenn).*
+- **ARVN:** roughly half of the 17,000 troops killed, wounded, or captured. (1,529 KIA, 5,483 WIA, 651 MIA is the consensus; PAVN claimed 20,000 ARVN eliminated.)
+- **US Army aviation: 108 helicopters destroyed** (10 OH-6A, 6 OH-58, 53 UH-1H, 26 AH-1G, 3 CH-47, 2 CH-53), **618 damaged** (a fifth so badly that they never flew again).
+- **72 helicopter aircrew killed across the operation;** 19 US Army aviators KIA, 59 WIA, 11 MIA.
+- **101st Airborne Division alone: 84 helicopters destroyed, 430 damaged.** (More US Army helicopters destroyed by 101st Avn alone in Lam Son 719 than the entire US Army lost in any other named single Vietnam operation.)
+- 160,000 US Army helicopter sorties + 5,500 RVNAF sorties + 8,000 USAF tactical sorties + 1,358 B-52 sorties (32,000 tons of B-52 ordnance plus 20,000 tons of conventional bombs and napalm).
+
+**The public narrative was hardening fast.** Newsweek's *"Helicopter War"* cover (15 March) and late-March network coverage of the skid-cling ARVN photos had set the public verdict that the operation was a defeat &mdash; regardless of Nixon's coming **7 April televised speech** declaring *"Tonight I can report that Vietnamization has succeeded."* Charlie's brief practical letter confirming the 12&ndash;19 April Hawaii R&R window came inside that public reckoning, with the I Corps rear visibly absorbing the cost.
+
+**At Da Nang.** Helicopter staging tempo had collapsed back to routine, but medevac wards were full and press were filing post-mortems. **C Co, 1-506 arrived at Firebase Fury (grid YC 534846, southern Thua Thien Province) on this exact date** &mdash; redeploying into the post-operation Jefferson Glenn rotation. The leave embargo that had cancelled R&R bookings through February was lifting now that the operation was closed; Charlie's 12&ndash;19 April window fell into the first round of cleared requests.
+
+*Sources: [Wikipedia: Operation Lam Son 719](https://en.wikipedia.org/wiki/Operation_Lam_Son_719) (citing MACV Command History 1971, Hinh, Nalty p. 273, Stanton, Hammond p. 484, Karnow p. 630); Lewis Sorley, *A Better War* (Harcourt, 1999).*
 
 </aside>
 

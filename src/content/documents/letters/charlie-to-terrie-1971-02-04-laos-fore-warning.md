@@ -29,15 +29,17 @@ Charlie was in Da Nang &mdash; the rear-area I Corps base &mdash; and could see 
 
 <aside class="not-prose my-8 border-l-4 border-amber-700 bg-amber-50/60 dark:bg-amber-950/20 px-6 py-5 rounded-r">
 
-**What 1-506 / 101st Abn was doing on 4 February 1971**
+**What I Corps was doing on 4 February 1971**
 
-The 101st Airborne Division had just become **the principal US Army provider of helicopter and fire support for Operation Lam Son 719**. The division's aviation brigade &mdash; over 600 helicopters &mdash; was about to assault ARVN troops into Laotian landing zones in support of the largest helicopter operation of the war. **Khe Sanh Combat Base had been reactivated on 30 January 1971** under preparatory Operation Dewey Canyon II. **The Cooper&ndash;Church Amendment prohibited US ground units from crossing into Laos** &mdash; so the 101st's role would be confined to fire support, aviation, and forward base security from the Vietnam side.
+**Four days before Lam Son 719 launched.** This is the day **Abrams's press embargo on Lam Son 719 troop movements was officially lifted**. Front-page speculation in US papers about the impending Laos incursion exploded that day; non-US wire services had been reporting the troop concentrations along Route 9 for over a week. For an in-theater NCO at Da Nang, the buildup was open knowledge. Charlie's *"don't be surprised when you hear about Laos being invaded"* is the cleanest in-theater foreknowledge in the corpus &mdash; and it sits inside the documented one-day window when the embargo lifted and the rumor went public.
 
-C Co, 1-506 had moved to **Firebase Arsenal on 6 February** (two days after this letter); other 1-506 elements were already forward in Quang Tri Province supporting the imminent operation. The Texas Tech Vietnam Center photo archive contains imagery captioned *"Lam Son 719, 1st Platoon, A Co, 1st BN, March 1971"* at the Rockpile near the DMZ &mdash; confirming 1-506 ground elements operated as far north as the DMZ during the operation.
+**On the ground.** US armor and engineers had now secured Route 9 nearly to the Laotian frontier (complete the next day). The 101st Airborne was running a **diversionary feint into the A Sh&#7847;u Valley** to draw PAVN attention south away from Khe Sanh. A US naval task force was simultaneously conducting amphibious-landing maneuvers off Vinh, 20 km from the North Vietnamese coast, in a separate northward-pointing diversion.
 
-Charlie's *"don't be surprised when you hear about Laos being invaded"* is the cleanest in-theater foreknowledge in the corpus. He could see the build-up from Da Nang: helicopters massing on the tarmac, ammunition deliveries to the staging areas, the pre-positioning of medical evacuation routes.
+**Intelligence leak picture.** PAVN had been tipped off as early as 26 January, when an intercepted radio message read: *"It has been determined that the enemy may strike into our cargo carrier system in order to cut it off &hellip; Prepare to mobilize and strike the enemy hard. Be vigilant."* By early February the PAVN had already deployed 22,000 troops &mdash; three divisions plus Pathet Lao &mdash; into Base Area 604. The South Vietnamese command security had been so porous that the strategic surprise was already gone before the first ARVN trooper crossed the border.
 
-*Sources: [Wikipedia: Operation Lam Son 719](https://en.wikipedia.org/wiki/Operation_Lam_Son_719); [Wikipedia: Khe Sanh Combat Base](https://en.wikipedia.org/wiki/Khe_Sanh_Combat_Base); [charlie1-506.com firebase rotation table](http://www.charlie1-506.com/html/pages%20from%20main%20nav/when_where.html); Texas Tech [Vietnam Center & Archive photo collection](https://www.vietnam.ttu.edu/virtualarchive/).*
+**For 1-506.** The 23rd TASS at Da Nang and Qu&#7843;ng Tr&#7883; was finalizing the FAC schedule that would put six FACs over the operational area in daylight, plus a roaming artillery spotter, and at night three FACs, three C-123 flareships, and three AC-119/AC-130 gunships. Helicopter staging tempo at Khe Sanh and Qu&#7843;ng Tr&#7883; was visibly increasing day by day. C Co, 1-506 had moved to Firebase Arsenal on 6 February (two days after this letter).
+
+*Sources: [Wikipedia: Operation Lam Son 719](https://en.wikipedia.org/wiki/Operation_Lam_Son_719) (citing Fulghum, Sorley *A Better War* p. 241, Prados, Hinh, Checo); [Wikipedia: Khe Sanh Combat Base](https://en.wikipedia.org/wiki/Khe_Sanh_Combat_Base).*
 
 </aside>
 

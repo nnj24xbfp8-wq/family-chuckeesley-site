@@ -28,13 +28,19 @@ The two letters together — Charlie's and Peggy's, from opposite sides of the w
 
 <aside class="not-prose my-8 border-l-4 border-amber-700 bg-amber-50/60 dark:bg-amber-950/20 px-6 py-5 rounded-r">
 
-**What 1-506 / 101st Abn was doing on 10 February 1971**
+**What was happening on 10 February 1971 &mdash; Day 3 of Lam Son 719**
 
-**Day 3 of Operation Lam Son 719.** The ARVN ground incursion had launched 8 February; the 101st aviation brigade was conducting massive helicopter assaults into Laotian landing zones in support. C Co, 1-506 had moved to Firebase Arsenal on 6 February; other 1-506 elements were forward in Quang Tri Province providing fire support and securing the staging areas. Da Nang &mdash; where Charlie was &mdash; was the principal rear logistics and medical hub for the operation, processing helicopter casualties and managing the air-support tasking.
+**Day 3 of the incursion.** ARVN's 4,000-man armor/infantry task force was rolling west unopposed along Route 9. The 39th Rangers were on **LZ Ranger North**, the 21st Rangers on **Ranger South**; the 2nd Airborne held **FSB 30**; the 3rd Airborne Brigade HQ and 3rd Airborne occupied **FSB 31**. South of Route 9, 1st Infantry Division troops air-assaulted into LZs Blue, Don, White, Brown and FSBs Hotel, Delta, Delta 1.
 
-Charlie's *"after this big push in Laos I believe we will then start pulling out in a big way"* was the in-theater conventional wisdom: Lam Son 719 was being framed by the army as the test case for Vietnamization. If the ARVN could carry it, US ground withdrawal would accelerate. (The operation would in fact fail, and US withdrawal would accelerate anyway.)
+**The 10 February helicopter shootdown.** At 13:00, **four RVNAF UH-1H helicopters flying to LZ Ranger South were hit by 37mm anti-aircraft fire; two were shot down, killing everyone aboard.** On one chopper: the **G3 (operations) and G4 (logistics) colonels of I Corps**. **On the other: four foreign war correspondents &mdash; Larry Burrows (LIFE), Henri Huet (AP), Kent Potter (UPI), and Keisaburo Shimamoto (Newsweek) &mdash; one of the most catastrophic single losses of war photographers in the Vietnam War.** Burrows alone had been covering Vietnam for LIFE since 1962; the four-correspondent loss reshaped the early American press narrative of the operation. The deaths went out from Da Nang &mdash; the rear press hub &mdash; the same day.
 
-*Sources: [Wikipedia: Operation Lam Son 719](https://en.wikipedia.org/wiki/Operation_Lam_Son_719); [charlie1-506.com firebase rotation table](http://www.charlie1-506.com/html/pages%20from%20main%20nav/when_where.html).*
+**Earlier in the day,** at 12:30, 3rd Airborne troops 1 km east of FSB 31 engaged PAVN with light casualties but captured six Molotov trucks of ammunition plus a cache of 14 82mm mortars, four 122mm rocket launchers, and nine AK-47s.
+
+**At Da Nang.** Helicopter losses were already filtering back through the medevac flow. Route 9 was so degraded that only tracked vehicles and jeeps could make the trip; the entire logistics burden had been thrown onto helicopters, and the helicopter losses were starting to outpace the planning models. **The same day Charlie was writing his "I'm still in Danang" steady note**, four of the war's most-published photographers, two I Corps logistics colonels, and an unknown number of ARVN Ranger replacements were being pulled out of the wreckage at LZ Ranger South.
+
+**For 1-506.** C Co was on Firebase Arsenal. Other 1-506 elements were forward in Qu&#7843;ng Tr&#7883; providing fire support.
+
+*Sources: [Wikipedia: Operation Lam Son 719](https://en.wikipedia.org/wiki/Operation_Lam_Son_719) (citing Hinh p. 69, *Airwar* p. 256); on Burrows: [LIFE archive](https://en.wikipedia.org/wiki/Larry_Burrows); [HistoryNet: South Vietnam Invades Laos](https://www.historynet.com/south-vietnam-invades-laos-1971/).*
 
 </aside>
 

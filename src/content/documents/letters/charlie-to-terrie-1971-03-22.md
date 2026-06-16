@@ -28,13 +28,19 @@ scans:
 
 <aside class="not-prose my-8 border-l-4 border-amber-700 bg-amber-50/60 dark:bg-amber-950/20 px-6 py-5 rounded-r">
 
-**What 1-506 / 101st Abn was doing on 22 March 1971**
+**What was happening on 22 March 1971 &mdash; Day 43, withdrawal collapse**
 
-**Final days of Operation Lam Son 719** (which would officially close 25 March 1971). The ARVN withdrawal from Laos was nearly complete; the 101st aviation brigade had absorbed the operation's most catastrophic helicopter losses (the campaign's final loss tally included over 100 US helicopters destroyed and several hundred damaged &mdash; the highest single-operation rate of the war). C Co, 1-506 was redeploying back into Thua Thien Province for the post-operation Jefferson Glenn rotation; the company would arrive at **Firebase Fury** on 29 March.
+**One of the worst days of the entire withdrawal.** The Tchepone PR victory was already over &mdash; ARVN had entered Tchepone proper on 7 March and **at 09:00 on 9 March the 2nd Regiment was already withdrawing back to FSB Sophia.** Thi&#7879;u had ordered the withdrawal as soon as Tchepone was nominally "taken." Now, two weeks later, the withdrawal was failing.
 
-That R&R orders cleared the army's system on the same week as the Lam Son 719 closure is not coincidence &mdash; the leave-system embargo that had cancelled R&R requests through February was lifting as the operation wound down.
+**On 22 March specifically.** The **147th Marine Brigade at FSB Delta was overrun.** PAVN penetrated the perimeter and that afternoon assaulted supported by **ten flame-throwing tanks**. The Marines killed two tanks with M72 LAW rockets, mines killed a third, an airstrike killed a fourth; they then abandoned Delta and fought a pitched battle disengaging toward the 258th Marine Brigade at FSB Hotel, arriving on the morning of 23 March with **230 wounded marines and 37 missing**. On the same night of 21&ndash;22 March, the 1st Armored Brigade and 1st and 8th Airborne Battalions, withdrawing from south of FSB Bravo, were **trapped at the Sepon River after their commander pulled them off Route 9 to avoid ambush; bulldozers had to be helilifted in to ford the river.** US air support on 21 March alone included **788 helicopter gunship sorties, 157 tactical airstrikes, and 11 B-52 strikes.**
 
-*Sources: [Wikipedia: Operation Lam Son 719](https://en.wikipedia.org/wiki/Operation_Lam_Son_719); [charlie1-506.com firebase rotation table](http://www.charlie1-506.com/html/pages%20from%20main%20nav/when_where.html).*
+**This is the week of the famous photographs of ARVN troops clinging to helicopter skids.** As one eyewitness wrote: *"every UH-1 helicopter returned fully loaded with withdrawing troops and an additional four to six ARVN troops hanging on the skids."* By 18 March all three US TV networks were reporting that South Vietnamese forces were retreating from Laos.
+
+**At Da Nang.** The medevac flow was overwhelming. Helicopters going to Qu&#7843;ng Tr&#7883; and Da Nang for evacuation were unloading not only ARVN wounded but the ARVN troops who had clung to skids out of Laos. **Charlie's R&R orders being typed in an air-conditioned Da Nang office while the 147th Marine Brigade fought free of FSB Delta** is exactly the contrast the corpus is meant to surface. The clerk typing *"Mrs. Eesley"* on the dependents-fare paperwork was a small bureaucratic act happening inside the I Corps command zone whose forward bases were taking thousands of casualties that same afternoon.
+
+**For C Co, 1-506.** Redeploying back into Thua Thien Province for the post-operation Jefferson Glenn rotation; the company would arrive at Firebase Fury on 29 March.
+
+*Sources: [Wikipedia: Operation Lam Son 719](https://en.wikipedia.org/wiki/Operation_Lam_Son_719) (citing Hinh pp. 98&ndash;9, 115, 119&ndash;20, Nolan *Into Laos* p. 313, Hammond p. 473); Keith Nolan, *Into Laos* (Presidio, 1986).*
 
 </aside>
 

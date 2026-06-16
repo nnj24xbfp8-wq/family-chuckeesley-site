@@ -28,15 +28,22 @@ Charlie was in Da Nang, in an air-conditioned office, with most of his unit move
 
 <aside class="not-prose my-8 border-l-4 border-amber-700 bg-amber-50/60 dark:bg-amber-950/20 px-6 py-5 rounded-r">
 
-**What 1-506 / 101st Abn was doing on 1 March 1971**
+**What was happening on 1 March 1971 &mdash; Day 22 of Lam Son 719, bog-down on the eve of Tchepone**
 
-**Operation Lam Son 719 was at peak intensity.** ARVN ground forces had reached Tchepone, Laos and were beginning to come under heavy PAVN pressure. The 101st Airborne Division's aviation brigade &mdash; supplying nearly all US helicopter lift and gunship cover &mdash; was taking **catastrophic helicopter losses** (the operation would end with the highest single-operation helicopter loss rate of the war). Forward bases at Khe Sanh, the Rockpile, and Quang Tri were running 24-hour operations.
+By 1 March the operation had been visibly stalling for two weeks. **The ARVN central column had bogged down at A Luoi (Ban Dong), only 20 km into Laos and only halfway to Tchepone.** The disasters that had already happened:
 
-C Co, 1-506's main body was in the Quang Tri AO supporting the operation. Charlie's *"most everyone here is or has moved up to Quang Tri"* maps directly to that movement: the rear-area Da Nang headquarters elements he was assigned to had been stripped to a skeleton crew for the operation. His CQ duty meant he was holding down the office while the company forward command post coordinated air-support, medevac, and ammunition lifts north.
+- **20 February: LZ Ranger North collapsed.** 178 dead/missing of a 500-man ARVN Ranger battalion.
+- **22 February: LZ Ranger South evacuated.** Thirteen medevac helicopters lifted out 122 wounded under intense fire. The first famous *"ARVN clinging to medevac"* photographs entered the news cycle that day with the *New York Times'*s page-one report "Saigon's Rangers driven from an outpost in Laos."
+- **23 February: General &Eth;&#7895; Cao Tr&iacute;** &mdash; the III Corps commander Thi&#7879;u had dispatched to take over from the visibly failing Gen. L&atilde;m &mdash; died in a helicopter crash en route to his new command.
+- **25 February: FSB 31 fell.** Twenty PAVN tanks broke through, the ARVN Airborne brigade commander was captured; ARVN losses were **155 killed and over 100 captured.**
 
-**By 25 March 1971** &mdash; 24 days from this letter &mdash; Lam Son 719 officially ended. ARVN losses were heavy (the consensus public-record range is roughly 1,500&ndash;7,500 ARVN dead) and the operation's failure to interdict the Ho Chi Minh Trail accelerated the political reading that Vietnamization was not working. Charlie's *"the damn army is going for broke on this campaign that is now in progress. A lot of guys are going to get killed"* was the accurate reading.
+**On 1 March specifically.** USAF AC-130 gunships engaged eight PAVN tanks near Route 9 about 8 km west of A Luoi, destroying several; USAF jets killed a T-54 south of Route 9. The 17th Armored Squadron, 8th Airborne, and 3rd Airborne fought their third major engagement in the doomed effort to relieve FSB 31, suffering **27 killed and one missing, three M41 tanks and 25 armored vehicles destroyed** between 25 February and 1 March. The PAVN had massed three divisions (2nd, 304th, 308th) plus regiments of the 320th, with eight artillery regiments, three tank battalions, six anti-aircraft battalions, and eight sapper battalions &mdash; about **35,000 troops, outnumbering the ARVN 2-to-1**.
 
-*Sources: [Wikipedia: Operation Lam Son 719](https://en.wikipedia.org/wiki/Operation_Lam_Son_719); MACV Command History 1971; Texas Tech Vietnam Center & Archive [Lam Son 719 photo collection](https://www.vietnam.ttu.edu/virtualarchive/); [charlie1-506.com firebase rotation table](http://www.charlie1-506.com/html/pages%20from%20main%20nav/when_where.html).*
+**At Da Nang on 1 March.** The 3rd Brigade, 101st Airborne (Charlie's brigade) had been ordered on 25 February to **move up and replace the ARVN 2nd Regiment on the DMZ**, freeing 1st Division ARVN units for the imminent Tchepone airmobile assault &mdash; which was being staged at Khe Sanh for launch within 48 hours. Charlie's *"most everyone here is or has moved up to Quang Tri"* is exactly the 3rd Brigade northward shift. The medevac flow back to Khe Sanh, Qu&#7843;ng Tr&#7883;, and onward to Da Nang medical was overwhelming. Reporters at Khe Sanh were filing daily on mounting helicopter losses and *"returning helicopters filled with South Vietnamese dead and wounded."* Newsweek's **15 March cover story "The Helicopter War"** drew its visual material from exactly this week.
+
+**Charlie's *"the army is going for broke on this campaign. A lot of guys are going to get killed"*** was a precisely accurate read &mdash; the Tchepone airmobile assault, the largest helicopter assault of the Vietnam War (276 UH-1s escorted by AH-1 Cobras), would launch on 6 March, five days from this letter.
+
+*Sources: [Wikipedia: Operation Lam Son 719](https://en.wikipedia.org/wiki/Operation_Lam_Son_719) (citing Fulghum p. 85, Sander pp. 131&ndash;4, Hinh pp. 79&ndash;80, 85, 91&ndash;2, Hammond pp. 445&ndash;6, 456, Prib p. 372, PAVN official history); Newsweek "The Helicopter War" cover, 15 March 1971.*
 
 </aside>
 

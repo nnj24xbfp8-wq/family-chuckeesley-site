@@ -24,13 +24,15 @@ source: "Held in family archive — grandmaE1.pdf page 65 (gitignored locally; t
 
 <aside class="not-prose my-8 border-l-4 border-amber-700 bg-amber-50/60 dark:bg-amber-950/20 px-6 py-5 rounded-r">
 
-**What 1-506 / 101st Abn was doing on 3 February 1971**
+**What I Corps was doing on 3 February 1971**
 
-**Five days before Operation Lam Son 719 launched.** The 101st Airborne's aviation brigade was at peak preparation tempo: helicopters massed at Khe Sanh, Quang Tri, and Da Nang; ammunition deliveries running 24 hours; medical evacuation routes pre-positioned. **Operation Dewey Canyon II** (the US Army preparatory operation to reactivate Khe Sanh Combat Base) was in its fourth day. Most of 1-506's forward elements were repositioning into Quang Tri Province for the Laos support mission.
+**Five days before Operation Lam Son 719 launched.** Operation Dewey Canyon II (the US Army preparatory operation, began 30 January) was in its fourth day. **On 3 February the 7th Combat Engineer Battalion broke ground on a "pioneer road" running directly from The Rockpile to Khe Sanh** &mdash; the *Red Devil Road*, opened to tracked vehicles 8 February &mdash; because Route 9 was so choked with armored convoys and weather-related delays that engineers fell over a week behind on the original Khe Sanh airstrip rehab and had to build a new one. Battery A, 5th Battalion, 4th Field Artillery established **FSB Phu Loc northwest of Khe Sanh** for long-range fires into Laos. The 9th Special Operations Squadron's O-2B FAC aircraft were running leaflet and forward-air-control missions over the Ho Chi Minh Trail from Da Nang airfield. **The press embargo Abrams had imposed on troop movements was still in force on 3 February** &mdash; it would lift the next day &mdash; but non-US wire services had already broken the buildup story.
 
-Charlie was in Da Nang on rear-area assignment &mdash; his *"it is all too good to be true"* reading reflects the gap between his routine and the operational tempo around him: the war was about to expand visibly and he had been left back in a safe rear billet. His *"I'll use my R&R after I get back to the field so I can keep out of the field some more"* is the timing calculation of a draftee using every administrative lever to stay out of the spear-tip.
+For Charlie at Da Nang: the buildup was anything but a secret. The fixed-wing tempo at Da Nang Air Base was at peak; ammunition convoys ran day and night; helicopter-staging visibility through the rear-area routine was unmistakable. His *"it is all too good to be true"* reading reflects the gap between his individual rear billet and what he was watching get ready around him.
 
-*Sources: [Wikipedia: Operation Lam Son 719](https://en.wikipedia.org/wiki/Operation_Lam_Son_719); [Wikipedia: Operation Dewey Canyon II](https://en.wikipedia.org/wiki/Operation_Dewey_Canyon_II); [charlie1-506.com firebase rotation table](http://www.charlie1-506.com/html/pages%20from%20main%20nav/when_where.html).*
+For 1-506: the 1st Brigade and 3rd Brigade infantry battalions were not slated for Laos. The major troop relocations Abrams was protecting under the embargo were the **1st Brigade, 5th Infantry Division (Mechanized)** and the **101st Aviation Group**. Charlie's *"staying here in Danang til March 5"* line is plausible for an NCO in a 1-506 rear billet.
+
+*Sources: [Wikipedia: Operation Lam Son 719](https://en.wikipedia.org/wiki/Operation_Lam_Son_719) (citing Checo, Prados, Hinh, Nolan *Into Laos*, Palmer); [Wikipedia: Operation Dewey Canyon II](https://en.wikipedia.org/wiki/Operation_Dewey_Canyon_II); first-person Tony Lolas (9th SOS O-2B pilot at Da Nang, June 2023 comment thread); Keith Nolan, *Into Laos* (Presidio, 1986).*
 
 </aside>
 
