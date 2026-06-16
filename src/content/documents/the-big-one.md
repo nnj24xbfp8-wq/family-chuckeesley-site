@@ -205,6 +205,10 @@ The crew returned to the 90th BG, which had moved from Biak to Mindoro by ship w
 
 ## Phase 3 &mdash; back with the 90th BG at McGuire Field, Mindoro (February &ndash; May 1945)
 
+![Robert Earl and a crewmate among the palms at a Pacific tent camp.](../../assets/family/originals/2018-03-30-0079.jpeg)
+
+*The jungle base life of the Mindoro months — Robert Earl and a crewmate among the palms and tents, the "wooden floored tent abode" the crew rebuilt after returning from the 22nd BG attachment.*
+
 The 90th Bomb Group at Mindoro had arrived on **26 January 1945**. The 400th BS along with the rest of the group set up at **McGuire Field** (named for Maj. Thomas B. McGuire Jr., 49th FG, the war's number-two ace with 37 kills, MIA over Negros 7 January 1945; the Mindoro strip was rededicated in his honor in early January). Robert Earl rejoined the squadron there from Tacloban around the same time.
 
 The next four months &mdash; **February, March, April, May 1945** &mdash; were his core 90th BG combat tour. The missions in chronological order: **Corregidor pre-invasion strikes** (2, 17, 25 February); **Luzon close-support** for the southern Bataan campaign, the Ft. Stotsenburg-Pampanga line, and the Lingayen Gulf advance (4, 10, 17, 22, 24 February; 8 April); the **South China Sea fleet mission** that produced [the dumped 2000-lb bomb](#dumped-bomb) (13 February); **repeated Taiwan airfield/industrial strikes** &mdash; Koshun (19 February, 16 April), Kiirun City and harbor (26 February, 17 May), Takao Nippon Aluminum (1 March), Tainan (12 April), Shinchu hydroelectric (14 May), and the phosphorous-gel-AA-shells mission (18 April); the **Sydney R&R** that became [21 days](#sydney-rr) (2 March); and the **Indo-China oil/transport strikes** of late April–May &mdash; the Saigon submarine mission (25 April) and the Shell Oil Refinery strike as the first [as Squadron Lead](#commission) (4 May). The final notable mission was the 17 May Kiirun hydroelectric strike that ended [with Lt. Finley parachuting into China](#finley-china). The 31 May 1st Lt promotion closed the document.
