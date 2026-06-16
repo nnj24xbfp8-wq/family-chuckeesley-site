@@ -18,6 +18,10 @@ The full original document is available here: **[Read &ldquo;The Big One&rdquo; 
 
 What this page does: surfaces the mission-by-mission entries he typed up, threads them against the published 5th Air Force operational record, and pulls out the six narrative moments that define the tour. See the companion [90th Bomb Group "Jolly Rogers" unit-context document](/docs/90th-bomb-group-jolly-rogers-context/) for the broader squadron history.
 
+![Robert Earl Wildermuth, July 1944, age twenty, in U.S. Army uniform before shipping out for the Pacific.](../../assets/family/originals/00000007_00000110_00000111.jpeg)
+
+*Robert Earl Wildermuth, July 1944 — twenty years old, before he shipped out. The earliest photograph of him in the archive, and the young navigator who would fly the missions logged below.*
+
 ## The crew
 
 Ten men on the B-24 Liberator. The full crew, recovered from a 300-DPI OCR pass through the typewritten "Crew Members and My Recollections" section of the original manuscript:
@@ -34,6 +38,10 @@ Ten men on the B-24 Liberator. The full crew, recovered from a 300-DPI OCR pass 
 - **Tail Gunner: [S.Sgt. Jesse Murdock](/family/jesse-murdoch/)** &mdash; from **Ferris, Texas** per the typewritten Big One manuscript. *"A TEXAN!! &hellip; cowboy boots and all."* Crew photographer; *"Quite often the subject would turn out on film minus his head or perhaps his legs."* Subtle practical joker; *"Let's get on with it"* was his standard line. ([Robert Earl's separate 1989 memoir](/docs/robert-earl-wildermuth-memoir/) spells him "Murdoch" and places him in Tyler, TX, so the two manuscripts disagree on both spelling and town &mdash; preserved here as written in The Big One.)
 
 Robert Earl closes the crew section: ***"These then were the young 'kids' who went to war, defeated the Japs and came back men. They made Tokyo Rose eat her words and proved that she was just a misguided prognosticator."***
+
+![Airmen of the 90th Bomb Group at a Pacific tent camp — Robert Earl among the crew, shirtsleeves and tents in the jungle heat.](../../assets/family/originals/2018-03-30-0073.jpeg)
+
+*The "young kids who went to war" — Robert Earl's crew and their tent camp in the Pacific.*
 
 ## Mission table
 
@@ -166,6 +174,10 @@ He started Marietta College's winter session for returning servicemen on **2 Dec
 ---
 
 ## Phase 1 &mdash; ferry to the Pacific (November 1944)
+
+![Robert Earl Wildermuth (far left) and fellow Army Air Forces officers around a table covered with beer bottles, San Francisco, before shipping out for the Pacific.](../../assets/family/originals/00000001_00000007_00000008.jpeg)
+
+*San Francisco, before shipping out — Robert Earl (far left) and fellow officers around a table of beer bottles. The send-off, days before the midnight flight out over the Golden Gate.*
 
 The Van Valen crew flew out of **Travis AFB, California** on the night of **14 November 1944**:
 
