@@ -1,14 +1,18 @@
 ---
-name: "Cpl. Orland Young"
+name: "S.Sgt. Orland Young"
 line: crew
 status: sketch
-summary: "Waist gunner of Robert Earl Wildermuth's B-24 crew, 400th Squadron, 90th Bomb Group, Pacific theater 1944–45. From Akron, Ohio. The waist gunner positions on a B-24 — one on each side of the fuselage at large open windows midway down the aircraft — were exposed to the slipstream and the cold at altitude. The MGM newsreel cameraman who flew with the crew over Nagasaki in August 1945 hung out one of these waist windows to film the bombed city."
+summary: "Top turret gunner of Robert Earl Wildermuth's B-24 crew, 400th Squadron, 90th Bomb Group, Pacific theater 1944–45. From Coldwater, Ohio (near Akron) — 'another good old Ohioan' in Robert Earl's pen. 'Very quiet and shy; a loner but absolutely dependable.' One of two Ohioans on the crew, the other being Robert Earl himself."
 ---
 
-**Waist gunner** of Robert Earl Wildermuth's B-24, 400th Squadron, 90th Bomb Group, Pacific theater 1944–45. From **Akron, Ohio** — the rubber-manufacturing capital, home to Goodyear, Firestone, and the war-effort tire industry. Robert Earl's father Earl Adam ran the [Marietta concrete-stave plant](/family/earl-a-wildermuth/) for a similar industrial-economy company in the same era.
+He was the **top turret gunner** of Robert Earl Wildermuth's ten-man B-24 Liberator crew &mdash; manning the upper-fuselage turret mounted on the roof of the airplane, twin .50-caliber machine guns covering the full upper hemisphere. (An earlier version of this page had him as the *waist gunner* from Akron; the [June 2026 OCR pass through the Big One manuscript](/docs/the-big-one/) settles his position as the top turret and his hometown as Coldwater.)
 
-The **waist gunner** positions on a B-24 were at large **open windows midway down the fuselage** — one gunner on each side — exposed to the slipstream and the bitter cold at altitude. The waist windows were also the **photo positions** during the crew's most consequential mission, the post-surrender flight over Nagasaki in August 1945, when the **MGM newsreel cameraman hung out one of these waist windows** to film the bombed city from tree-top level to 5,000 feet. Orland Young's gun position was either right next to the camera or directly across from it.
+From **Coldwater, Ohio** &mdash; a small village south of Akron in northeastern Ohio. Robert Earl's [Big One manuscript](/docs/the-big-one/) opens his sketch with the warm shorthand of shared geography &mdash; *"another good old Ohioan"* &mdash; and gives him a brief, careful character note:
 
-He is named in Robert Earl's [1989 memoir](/docs/robert-earl-wildermuth-memoir/) and the [combat log *The Big One*](/docs/the-big-one/). His pre-war Akron life and post-war return are open research.
+> *"Orland was very quiet and shy; a loner but absolutely dependable."*
 
-> *Sources: [Robert Earl Wildermuth's 1989 memoir](/docs/robert-earl-wildermuth-memoir/); [The Big One](/docs/the-big-one/).*
+He is one of the **two Ohioans on the crew**, the other being Robert Earl himself (Marietta). The Ohio connection is most of what the manuscript preserves of him.
+
+His postwar trajectory is open. The path forward sits at the **Coldwater / Akron, Ohio local press**, **Ohio state-veteran records**, and the **90th Bomb Group veterans' archive**.
+
+> *Sources: Robert Earl Wildermuth, [*The Big One: World War II*](/docs/the-big-one/) (typewritten manuscript, c. 1989), Crew Members section.*

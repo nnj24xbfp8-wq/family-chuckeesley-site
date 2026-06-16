@@ -43,6 +43,14 @@ The lake also took [Dale Eesley](/family/dale-eesley/). On the afternoon of **14
 
 Helen kept the guilt for the rest of her life &mdash; the chocolate-across-the-lake story stayed inside the family for sixty-one years until her own death in 2000. The Lillie Dale September 1939 letter's *"it is hard to go back to the lake"* line is the same lake.
 
+## Black Lake photographs in the archive
+
+Three dated Black Lake images sit in this archive, covering the cottage from its early years through its last decade:
+
+- **[Leonard bringing in the dock, 1928](/archive/leonard-bringing-in-the-dock-black-lake-1928/)** &mdash; Charles Leonard's eldest son [Leonard David Eesley](/family/leonard-david-eesley/), age 24, shirtless and knee-deep in the lake doing the seasonal dock-installation labor. The earliest dated Black Lake photograph here.
+- **[Family group at the cottage with Leonard, c. 1928](/archive/black-lake-group-with-leonard-1928/)** &mdash; eight people grouped in front of the cottage's painted clapboard wall on (presumably) the same summer. The older woman in the cloche hat is almost certainly [Lillie Dale](/family/lillie-dale-chenoweth/); the small child in white fits the age window for [Helen](/family/helen-burnes/). Most of the cast is still open.
+- **[Will and Peggy with Charlie, Jeanne, and Anne on the dock, c. 1950&ndash;1952](/archive/black-lake-family-on-dock-c1950s/)** &mdash; [Will Eesley](/family/wilbur-eesley/) and [Peggy](/family/margaret-mcmaster-eesley/) on the dock with three of their young children: little [Charlie](/family/charles-eesley/) (Chuck's father, age three-to-five) sitting on the edge with his feet over the water, [Jeanne](/family/jeanne-eesley-kamiab/) standing in a polka-dot swimsuit, and [Anne](/family/anne-eesley/) as a toddler in the shallows. The next-generation summer at Charles Leonard's cottage.
+
 ## After the cottage
 
 The cottage burned in the 1950s and was not rebuilt. The Eesley summer ended. Whatever stayed on at Black Lake after that &mdash; family visits, return trips, the lake itself &mdash; lives now in family memory. Roberta has more lake stories than this archive has been able to carry yet.
