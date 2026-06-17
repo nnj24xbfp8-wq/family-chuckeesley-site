@@ -12,10 +12,10 @@ generation: 5
 spouses:
   - leonard-david-eesley
 status: sketch
-summary: "Wife of Leonard David 'Len' Eesley — the eldest of Charles Leonard and Lillie Dale Chenoweth Eesley's eight children. Born 5 October 1902 in Bloom Township, Fairfield County, Ohio (about 30 miles southeast of Columbus); married Leonard in 1925 when both were in their twenties; died July 1986 in Hennepin County, Minnesota — six weeks after Will Eesley's June 1986 death and ten years after Leonard's January 1976 death. Called 'Big Helen' in family-memory shorthand to distinguish her from her sister-in-law Helen Burnes ('Little Helen'). Photographed in the c. 1970s Eesley extended family reunion portrait. Chuck's great-aunt by marriage."
+summary: "Wife of Leonard David 'Len' Eesley — the eldest of Charles Leonard and Lillie Dale Chenoweth Eesley's ten children. Born 5 October 1902 in Bloom Township, Fairfield County, Ohio (about 30 miles southeast of Columbus); married Leonard in 1925 when both were in their twenties; died July 1986 in Hennepin County, Minnesota — six weeks after Will Eesley's June 1986 death and ten years after Leonard's January 1976 death. Called 'Big Helen' in family-memory shorthand to distinguish her from her sister-in-law Helen Burnes ('Little Helen'). Photographed in the c. 1970s Eesley extended family reunion portrait. Chuck's great-aunt by marriage."
 ---
 
-**Helen Bernadine (Alspach) Eesley** was the **wife of [Leonard David "Len" Eesley](/family/leonard-david-eesley/)** — the eldest of Charles Leonard and Lillie Dale Chenoweth Eesley's eight children. She is **"Big Helen"** in the family-memory shorthand, distinguished from her sister-in-law **[Helen Louise "Little Helen" Burnes](/family/helen-burnes/)** (Leonard's youngest sister) — the two Helens of Chuck's grandfather's generation who needed everyday-family disambiguation.
+**Helen Bernadine (Alspach) Eesley** was the **wife of [Leonard David "Len" Eesley](/family/leonard-david-eesley/)** — the eldest of Charles Leonard and Lillie Dale Chenoweth Eesley's ten children. She is **"Big Helen"** in the family-memory shorthand, distinguished from her sister-in-law **[Helen Louise "Little Helen" Burnes](/family/helen-burnes/)** (Leonard's youngest sister) — the two Helens of Chuck's grandfather's generation who needed everyday-family disambiguation.
 
 ## The Bloom Township beginning
 

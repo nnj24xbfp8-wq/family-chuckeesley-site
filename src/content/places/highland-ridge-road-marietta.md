@@ -57,7 +57,7 @@ visits:
       - ../../assets/family/originals/00000004_00000046_00000047.jpeg
     caption: "<strong>Young Chuck on the frozen pond at Highland Ridge.</strong> Confirmed by Chuck Eesley 2026. <strong>Young Chuck Eesley</strong> — about 12–15 — standing on the ice in dark pants and brown jacket, in winter, woods bare behind. <strong>This is the pond his father's <a href='/docs/eulogy-charles-mcmaster-eesley/'>eulogy</a> describes him breaking through as a smaller boy</strong> — the pond Charlie pulled him out of, his boots staying behind 'still stuck in the mud on the bottom to this day.' The photograph captures Chuck a few years older, the ice frozen solidly enough now to bear him, the boots presumably still in the mud below the surface he's standing on."
     alignmentNote: "The same pond at the center of one of the eulogy's most-quoted stories. The boots are still in the mud."
-  - year: "c. 1973–1975 (Charles Leonard Eesley extended-family reunion — five of his eight children together)"
+  - year: "c. 1973–1975 (Charles Leonard Eesley extended-family reunion — five of his ten children together)"
     images:
       - ../../assets/family/originals/00000004_00000047_00000048.jpeg
     caption: "<strong>Charles Leonard Eesley extended-family reunion at Highland Ridge — full labeled cast of twelve.</strong> Five of Charles Leonard's eight children together: Leonard 'Len' Eesley, Donald Eesley, Wilbur 'Will' Eesley, Mary Eesley Bean, and Helen 'Little Helen' Burnes. Plus three of their spouses (Peggy McMaster Eesley, Peggy Yeoman Eesley, Big Helen Eesley), two of Helen Burnes's children (Katie and Roberta Burnes), Will's daughter Anne Eesley, and the Chenoweth-side cousin Mafry Smith Hyatt. Don Eesley died May 1975, so the reunion must precede that. The most important multi-sibling Charles Leonard Eesley reunion frame in this archive. Full cast and reference-box transcription on the <a href='/archive/highland-ridge-family-group-portrait-c-1980/'>dedicated artifact page</a>."
@@ -147,7 +147,7 @@ Six frames span from the late 1970s through the mid-1980s &mdash; the **first su
 
 ### Charles Leonard Eesley extended-family reunion
 
-![Charles Leonard Eesley extended-family reunion at Highland Ridge, c. 1980 — twelve people with five of Charles Leonard's eight children together, spouses, and the next generation. ([artifact page](/archive/highland-ridge-family-group-portrait-c-1980/))](../../assets/family/originals/00000004_00000047_00000048.jpeg)
+![Charles Leonard Eesley extended-family reunion at Highland Ridge, c. 1980 — twelve people with five of Charles Leonard's ten children together, spouses, and the next generation. ([artifact page](/archive/highland-ridge-family-group-portrait-c-1980/))](../../assets/family/originals/00000004_00000047_00000048.jpeg)
 
 ### Extended Eesley family gathering, c. 1985–1986
 
