@@ -1,0 +1,130 @@
+---
+// ListenButton.astro — client-side "read this page aloud" using the browser's
+// built-in Web Speech API (SpeechSynthesis). No dependencies, no cost, no network.
+// Reads the page <h1> plus the element marked [data-readable]. The control hides
+// itself automatically on browsers without speech support.
+---
+<div class="not-prose mb-8 flex items-center gap-3" data-tts-controls hidden>
+  <button
+    type="button"
+    data-tts-play
+    class="inline-flex items-center gap-2 rounded border border-rule px-3 py-1.5 text-sm text-ink/80 hover:bg-sepia/10 transition-colors"
+    aria-label="Listen to this page read aloud"
+  >
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <path d="M11 5 6 9H2v6h4l5 4V5z"></path>
+      <path d="M15.54 8.46a5 5 0 0 1 0 7.07"></path>
+      <path d="M19.07 4.93a10 10 0 0 1 0 14.14"></path>
+    </svg>
+    <span data-tts-label>Listen</span>
+  </button>
+  <button type="button" data-tts-stop hidden class="text-sm text-ink/50 hover:text-ink underline-offset-2 hover:underline">Stop</button>
+</div>
+
+<script is:inline>
+  (function () {
+    var synth = window.speechSynthesis;
+    var controls = document.querySelector('[data-tts-controls]');
+    if (!controls) return;
+    if (!synth || typeof SpeechSynthesisUtterance === 'undefined') return; // unsupported: leave hidden
+    controls.hidden = false;
+
+    var playBtn = controls.querySelector('[data-tts-play]');
+    var stopBtn = controls.querySelector('[data-tts-stop]');
+    var label = controls.querySelector('[data-tts-label]');
+
+    var chunks = [];
+    var idx = 0;
+    var state = 'idle'; // idle | playing | paused
+
+    try { synth.getVoices(); } catch (e) {}
+
+    function buildText() {
+      var parts = [];
+      var h1 = document.querySelector('article h1');
+      if (h1) parts.push(h1.innerText);
+      var body = document.querySelector('[data-readable]');
+      if (body) parts.push(body.innerText);
+      return parts.join('. ');
+    }
+
+    function splitChunks(text) {
+      var raw = (text || '').replace(/\s+/g, ' ').trim();
+      if (!raw) return [];
+      var sentences = raw.match(/[^.!?]+[.!?]+(\s|$)|[^.!?]+$/g) || [raw];
+      var out = [], cur = '';
+      sentences.forEach(function (s) {
+        s = s.trim();
+        if (!s) return;
+        if ((cur + ' ' + s).trim().length > 220) {
+          if (cur) out.push(cur.trim());
+          cur = s;
+        } else {
+          cur = (cur + ' ' + s).trim();
+        }
+      });
+      if (cur.trim()) out.push(cur.trim());
+      return out;
+    }
+
+    function pickVoice() {
+      var voices = synth.getVoices() || [];
+      var pref = ['Samantha', 'Google US English', 'Microsoft Aria Online (Natural) - English (United States)', 'Microsoft Jenny', 'Daniel', 'Karen', 'Moira'];
+      for (var i = 0; i < pref.length; i++) {
+        var m = voices.filter(function (v) { return v.name === pref[i]; })[0];
+        if (m) return m;
+      }
+      var en = voices.filter(function (v) { return /^en[-_]?/i.test(v.lang); })[0];
+      return en || voices[0] || null;
+    }
+
+    function speakNext() {
+      if (state !== 'playing') return;
+      if (idx >= chunks.length) { reset(); return; }
+      var u = new SpeechSynthesisUtterance(chunks[idx]);
+      var v = pickVoice();
+      if (v) { u.voice = v; u.lang = v.lang; }
+      u.rate = 0.96;
+      u.pitch = 1.0;
+      u.onend = function () { idx++; speakNext(); };
+      u.onerror = function () { idx++; speakNext(); };
+      synth.speak(u);
+    }
+
+    function start() {
+      synth.cancel();
+      chunks = splitChunks(buildText());
+      if (!chunks.length) return;
+      idx = 0;
+      state = 'playing';
+      label.textContent = 'Pause';
+      stopBtn.hidden = false;
+      speakNext();
+    }
+
+    function reset() {
+      synth.cancel();
+      state = 'idle';
+      idx = 0;
+      label.textContent = 'Listen';
+      stopBtn.hidden = true;
+    }
+
+    playBtn.addEventListener('click', function () {
+      if (state === 'idle') {
+        start();
+      } else if (state === 'playing') {
+        synth.pause();
+        state = 'paused';
+        label.textContent = 'Resume';
+      } else if (state === 'paused') {
+        state = 'playing';
+        synth.resume();
+        label.textContent = 'Pause';
+      }
+    });
+
+    stopBtn.addEventListener('click', reset);
+    window.addEventListener('beforeunload', function () { try { synth.cancel(); } catch (e) {} });
+  })();
+</script>
