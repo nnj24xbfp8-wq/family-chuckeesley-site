@@ -33,7 +33,7 @@ Dating reads **c. 1910s-1920s** by the photographic paper, his apparent age (mid
 
 ## The 1922 widower
 
-When Verona Belle Dunbar Fleming died on **27 October 1922 at Marietta, Washington County, Ohio**, age 53, Wesley was 66 and had been with her for at least two decades. He outlived her by **eighteen years**, dying on **2 October 1940 at Marietta, age 84**, and was buried two days later, on 4 October 1940. He lived to see his daughter Sadye marry [Earl Adam Wildermuth](/family/earl-adam-wildermuth/), and to see his grandson [Robert Earl Wildermuth](/family/robert-earl-wildermuth/) born (6 October 1924) and grow into a young man &mdash; Robert Earl was 16 when his maternal grandfather died.
+When Verona Belle Dunbar Fleming died on **27 October 1922 at Marietta, Washington County, Ohio**, age 53, Wesley was 66 and had been with her for at least two decades. He outlived her by **eighteen years**, dying on **2 October 1940 at Marietta, age 84**, and was buried two days later, on 4 October 1940. He lived to see his daughter Sadye marry [Earl Adam Wildermuth](/family/earl-a-wildermuth/), and to see his grandson [Robert Earl Wildermuth](/family/robert-earl-wildermuth/) born (6 October 1924) and grow into a young man &mdash; Robert Earl was 16 when his maternal grandfather died.
 
 Robert Earl's [1989 memoir](/docs/robert-earl-wildermuth-memoir/) records his father Earl Adam's lament that *"neither my mother's mother nor his mother lived until my sister and I were old enough to remember them"* &mdash; the absent grandmothers being Verona Dunbar Fleming and Flora Schlicher Wildermuth, both dead by 1922. **Wesley Fleming was a present grandfather**, the surviving senior on the Fleming side across Robert Earl's childhood and adolescence.
 

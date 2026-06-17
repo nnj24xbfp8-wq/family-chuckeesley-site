@@ -68,7 +68,7 @@ That Charlie sent this line to a Mothers for Peace member &mdash; rather than to
 
 ## What this letter does for the archive
 
-It closes the loop on **the Dorothy Hauser identification** that had been ambiguous since the [April 1971 parental conflict letter](/docs/letters/charlie-to-terrie-1971-04-02-parents-against-hawaii/) and the [Mothers for Peace research-thread retraction](/family/dorothy-wildermuth/) on Dorothy Wildermuth's page. Dorothy Hauser was real, was close to Peggy, was part of Mothers for Peace, and was a person Charlie himself wrote to from Vietnam. The framing across the archive should reflect that, including:
+It closes the loop on **the Dorothy Hauser identification** that had been ambiguous since the [April 1971 parental conflict letter](/docs/letters/charlie-to-terrie-1971-04-02-parents-against-hawaii/) and the [Mothers for Peace research-thread retraction](/family/dorothy-davis-wildermuth/) on Dorothy Wildermuth's page. Dorothy Hauser was real, was close to Peggy, was part of Mothers for Peace, and was a person Charlie himself wrote to from Vietnam. The framing across the archive should reflect that, including:
 
 - The [Dorothy Hauser](/family/dorothy-hauser/) person page (if not yet created, should be);
 - The [Mothers for Peace](https://en.wikipedia.org/wiki/Mothers_for_Peace) reference on Peggy's page should be kept and tied to Dorothy directly;

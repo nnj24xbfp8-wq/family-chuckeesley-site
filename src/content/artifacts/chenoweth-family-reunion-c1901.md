@@ -21,7 +21,7 @@ Transmitted by [Roberta Burnes](/family/roberta-burnes/) in June 2026 from mater
 
 ## Dating the photograph
 
-Roberta has identified her great-aunt [Elsie Chenoweth Borror](/family/elsie-borror/) at center with her husband [Jonas Borror](/family/jonas-borror/), holding a toddler. The blur on that small group is consistent with the difficulty of holding a small child still for the long exposure of a turn-of-the-century group portrait. **If the toddler is the Borrors' first-born son [Eugene Everette Borror](/family/eugene-borror/) (b. 1 September 1901)**, the photograph dates to approximately **1901–1902** &mdash; with Eugene in his first or second year. The Borror family register has no earlier child, which lends further support to that identification.
+Roberta has identified her great-aunt [Elsie Chenoweth Borror](/family/elsie-chenoweth-borror/) at center with her husband [Jonas Borror](/family/jonas-borror/), holding a toddler. The blur on that small group is consistent with the difficulty of holding a small child still for the long exposure of a turn-of-the-century group portrait. **If the toddler is the Borrors' first-born son [Eugene Everette Borror](/family/eugene-borror/) (b. 1 September 1901)**, the photograph dates to approximately **1901–1902** &mdash; with Eugene in his first or second year. The Borror family register has no earlier child, which lends further support to that identification.
 
 ## The labeled version
 
@@ -32,7 +32,7 @@ Roberta provided both an **unmarked print** (above, as the primary archival imag
 The three confirmed identifications:
 
 - **Upper left**: [Lillie Dale Chenoweth Eesley](/family/lillie-dale-chenoweth/) &mdash; Roberta's grandmother and Chuck's great-grandmother. The Chenoweth matriarch of the Eesley line. She would have been about 24 in 1901, four years after her own birth (per the structured record: born 5 August 1877) and not yet two years away from her marriage to Charles Leonard Eesley around 1903.
-- **Center**: [Elsie Chenoweth Borror](/family/elsie-borror/) &mdash; Lillie's older sister (b. 20 July 1869 per Egge's record) &mdash; with her husband **Jonas Borror** (b. 25 May 1863) and the toddler who is most likely their first son **Eugene Everette Borror** (b. 1 September 1901). The blur on the small group is exposure-related.
+- **Center**: [Elsie Chenoweth Borror](/family/elsie-chenoweth-borror/) &mdash; Lillie's older sister (b. 20 July 1869 per Egge's record) &mdash; with her husband **Jonas Borror** (b. 25 May 1863) and the toddler who is most likely their first son **Eugene Everette Borror** (b. 1 September 1901). The blur on the small group is exposure-related.
 - **Upper right**: [Joseph Hill Chenoweth](/family/joseph-hill-chenoweth/) and his wife [Mary Ohio Timmons Chenoweth](/family/mary-ohio-timmons-chenoweth/) &mdash; Roberta's great-grandparents and Chuck's great-great-grandparents. Joseph was 68 at the probable date of the photograph; Mary was 56. They would live until 1910 (Joseph) and 1919 (Mary), respectively.
 
 The three identifications cover the central Chenoweth-Timmons family threesome and the Chenoweth daughter (Elsie) who carried the line into the Borrors. Roberta has noted that the remaining ~95 figures in the frame are extended Chenoweth, Timmons, Smith, and connected family relations; **most are unidentified**, and a future labeled-cast pass against Egge's [Elijah Jr. and Nancy descendants page](https://www.chenowethsite.com/ch6t6ee.htm) would likely surface another dozen identifications.

@@ -48,6 +48,19 @@ const childLetters = isCollection
 // Resolve recipient names for the child-letter listing.
 const allPeople = isCollection ? await getCollection('people') : [];
 const personById = new Map(allPeople.map((p) => [p.id, p]));
+
+// Chronological reader — for a doc that belongs to a collection, find the
+// previous/next siblings in date order so visitors can read straight through.
+const navKey = (d) => d.data.sortDate ?? d.data.postmarkDate ?? d.data.dateRange?.start ?? '';
+const dateLabel = (d) => d.data.postmarkDate ?? d.data.dateRange?.start ?? '';
+const seq = doc.data.partOf
+  ? allDocs
+      .filter((d) => d.data.partOf?.id === doc.data.partOf.id)
+      .sort((a, b) => navKey(a).localeCompare(navKey(b)))
+  : [];
+const seqIndex = seq.findIndex((d) => d.id === doc.id);
+const prevDoc = seqIndex > 0 ? seq[seqIndex - 1] : undefined;
+const nextDoc = seqIndex >= 0 && seqIndex < seq.length - 1 ? seq[seqIndex + 1] : undefined;
 ---
 <BaseLayout title={doc.data.title} description={doc.data.summary}>
   <article>
@@ -109,6 +122,36 @@ const personById = new Map(allPeople.map((p) => [p.id, p]));
           ))}
         </div>
       </section>
+    )}
+
+    {seq.length > 1 && seqIndex >= 0 && (
+      <nav class="mt-12 pt-6 border-t border-rule not-prose" aria-label="Read in chronological order">
+        <div class="flex justify-between items-start gap-6 text-sm">
+          {prevDoc ? (
+            <a href={`/docs/${prevDoc.id}/`} class="flex-1 group">
+              <span class="block text-xs uppercase tracking-wider text-ink/50 mb-0.5">&larr; Previous</span>
+              <span class="block text-ink/80 group-hover:text-ink">
+                {dateLabel(prevDoc) && <span class="font-mono text-xs text-ink/50">{dateLabel(prevDoc)} &middot; </span>}
+                {prevDoc.data.title}
+              </span>
+            </a>
+          ) : <span class="flex-1"></span>}
+          {nextDoc ? (
+            <a href={`/docs/${nextDoc.id}/`} class="flex-1 group text-right">
+              <span class="block text-xs uppercase tracking-wider text-ink/50 mb-0.5">Next &rarr;</span>
+              <span class="block text-ink/80 group-hover:text-ink">
+                {dateLabel(nextDoc) && <span class="font-mono text-xs text-ink/50">{dateLabel(nextDoc)} &middot; </span>}
+                {nextDoc.data.title}
+              </span>
+            </a>
+          ) : <span class="flex-1"></span>}
+        </div>
+        {parent && (
+          <p class="text-center text-xs text-ink/50 mt-4">
+            {seqIndex + 1} of {seq.length} in <a href={`/docs/${parent.id}/`} class="hover:text-ink"><em>{parent.data.title}</em></a>
+          </p>
+        )}
+      </nav>
     )}
 
     {isCollection && (
