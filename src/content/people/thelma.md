@@ -1,22 +1,22 @@
 ---
-name: "Thelma Z. (Haughn) Eesley"
-aka: "Thelma Z. Haughn (maiden); 'a friend of the family' to Helen Burnes's children growing up in Columbus"
+name: "Thelma G. Eesley"
+aka: "Thelma G. Eesley (per the Ancestry death record); recorded as 'Thelma Z. Haughn' on the 1927 marriage license — maiden name disputed; 'a friend of the family' to Helen Burnes's children growing up in Columbus"
 line: other
 birth:
   date: "c. 1906"
-  place: "Grove City, Franklin, Ohio"
 death:
-  date: "1970s"
+  date: "1974-08-10"
+  place: "Columbus, Ohio"
 spouses:
   - dale-eesley
-summary: "Wife of Dale Dudley Eesley. Married 15 November 1927 in Franklin County, Ohio at age 21 (their marriage license #79220 surfaced on Ancestry in June 2026). Widowed at 33 in July 1939 when Dale drowned at Black Lake, Michigan, eleven and a half years into their marriage. Moved out of the home she had shared with Dale in September 1939, into Mrs. Hudson's house — Lillie Dale Eesley's letter to her son Leonard records Lyle helping Thelma move with his car and trailer over two days. Stayed within the family's circle in Columbus for the rest of her life until her death in the 1970s. Helen's children grew up knowing Thelma personally — but only as 'a friend of the family,' never as their uncle Dale's wife. The chocolate-across-the-lake guilt Helen carried over Dale's drowning is the new context for the long silence."
+summary: "Wife of Dale Dudley Eesley. Married 15 November 1927 in Franklin County, Ohio at age 21 (their marriage license #79220 surfaced on Ancestry in June 2026). Widowed at 33 in July 1939 when Dale drowned at Black Lake, Michigan, eleven and a half years into their marriage. Moved out of the home she had shared with Dale in September 1939, into Mrs. Hudson's house — Lillie Dale Eesley's letter to her son Leonard records Lyle helping Thelma move with his car and trailer over two days. Stayed within the family's circle in Columbus for the rest of her life until her death there on 10 August 1974. Helen's children grew up knowing Thelma personally — but only as 'a friend of the family,' never as their uncle Dale's wife. The chocolate-across-the-lake guilt Helen carried over Dale's drowning is the new context for the long silence."
 ---
 
-Thelma Z. Haughn was born c. 1906 in Grove City, Franklin County, Ohio &mdash; the same small Franklin County town where Dale Eesley was born. She and [Dale Dudley Eesley](/family/dale-eesley/) were married in Franklin County, Ohio on 15 November 1927, at age 21 each. The marriage lasted eleven and a half years.
+Thelma &mdash; recorded in the family's Ancestry death record as **Thelma G. Eesley** &mdash; was the wife of [Dale Dudley Eesley](/family/dale-eesley/). Born about 1906, she married Dale in Franklin County, Ohio on 15 November 1927, when they were each 21. The marriage lasted eleven and a half years. She appears in the [c. 1928 Black Lake cottage group photograph](/archive/black-lake-group-with-leonard-1928/), seated in the front row between Dale and his younger brother [Lyle](/family/lyle-eesley/).
 
 ## The marriage record
 
-Marriage License Application No. 79220, Probate Court of Franklin County, Ohio. License issued 9 August 1927; granted 15 October 1927; marriage solemnized 15 November 1927 by N.V. Lechler; filed and recorded 16 November 1927. Recorded in the *Ohio, U.S., County Marriage Records, 1774-1993*, Franklin County volume covering 1925-1928. The application names Dale's parents as C.L. Eesley and Lillie Chenoweth; Thelma's parents are recorded on the application as well. Her middle initial Z appears on the marriage license but the underlying name is not on file in this archive.
+Marriage License Application No. 79220, Probate Court of Franklin County, Ohio. License issued 9 August 1927; granted 15 October 1927; marriage solemnized 15 November 1927 by N.V. Lechler; filed and recorded 16 November 1927. Recorded in the *Ohio, U.S., County Marriage Records, 1774-1993*, Franklin County volume covering 1925-1928. The application names Dale's parents as C.L. Eesley and Lillie Chenoweth; Thelma's parents are recorded on the application as well. The license records the bride as *"Thelma Z. Haughn"* &mdash; but the identity behind that name is now in question. Reviewing Ancestry in 2026, [Roberta Burnes](/family/roberta-burnes/) found that the records attached to a *"Thelma Z. Haughn"* describe a servant whose family connections do not fit, while the family's own death record names Dale's wife as **Thelma G. Eesley** (died Columbus, 10 August 1974). The middle initial may be a misreading of *G* for *Z*, and the *Haughn* maiden name may belong to a different person altogether. The marriage license is unquestionably Dale's &mdash; it carries his parents' names &mdash; but Thelma's maiden name is treated here as **unconfirmed** pending further records.
 
 ## Widowed at 33
 

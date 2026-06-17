@@ -10,8 +10,13 @@ idNumber: "EESLEY-BLACK-LAKE-GROUP-1928"
 provenance: "Eesley family archive; file label 'Black Lake group with Leonard 1928'; transmitted by Chuck Eesley June 2026."
 rights: "Family use; permission required for republication."
 people:
+  - dale-eesley
+  - thelma
+  - lyle-eesley
+  - helen-burnes
   - leonard-david-eesley
-  - charles-leonard-eesley
+  - wilbur-eesley
+  - don-eesley
   - lillie-dale-chenoweth
 ---
 
@@ -19,25 +24,24 @@ A group of eight people in front of the [Black Lake cottage](/places/black-lake-
 
 ## What the photograph shows
 
-Three rough rows of figures grouped on the porch or steps:
+Eight members of the family, identified in 2026 by [Roberta Burnes](/family/roberta-burnes/) (Helen's daughter), in two rows. Roberta noted the photograph was taken *"when mom was only four"* &mdash; fixing it to 1928.
 
-Back row (standing or seated higher), from left to right:
+**Front row, left to right:**
 
-- A young man in a white shirt and tie, dark hair combed back.
-- A young man in a white open-collar shirt, holding what reads as a dark straw boater or felt hat in his lap. The file label *"with Leonard"* most plausibly identifies this figure or one of the back-row group as [Leonard David Eesley](/family/leonard-david-eesley/), Charles Leonard and Lillie Dale's eldest son (b. 1904), who would have been about 24 in 1928.
-- An older woman in a dark cloche hat with a pale band, round wire-rim spectacles, and a dark dress with a draped cape collar &mdash; almost certainly [Lillie Dale Chenoweth Eesley](/family/lillie-dale-chenoweth/), the cottage's matriarch.
+- **[Dale Eesley](/family/dale-eesley/)** &mdash; in a tan straw boater and dark leather jacket, smiling; eleven years before his drowning on this same lake.
+- **[Thelma](/family/thelma/)** &mdash; Dale's wife, in a soft cloche hat and dark coat with a small dark book or wallet in her lap, seated between Dale and Lyle.
+- **[Lyle Eesley](/family/lyle-eesley/)** &mdash; about twelve here, in a plaid sweater and dark tie, hands clasped; he would die a Japanese POW at Cabanatuan in 1942.
+- **[Helen Eesley](/family/helen-burnes/)** &mdash; the small child of about four in a white pinafore-style smock, looking slightly off-camera; Roberta's mother, seated between Lyle and Len.
+- **[Leonard "Len" David Eesley](/family/leonard-david-eesley/)** &mdash; at right, thick dark hair and a wide grin, sleeves rolled; the "Leonard" of the file label.
 
-Front row, from left to right:
+**Back row:**
 
-- A young man in a tan straw boater and dark leather jacket, smiling.
-- A young woman in a soft cloche hat and dark coat, holding a small dark book or wallet in her lap.
-- A boy of about eleven or twelve in a plaid sweater and dark tie, hands clasped in his lap.
-- A small child of about four, in a white pinafore-style smock with dark trim, looking slightly off-camera. By the dating window this is the age [Helen Eesley](/family/helen-burnes/) would have been in summer 1928 (she turned four on 16 January 1928, so age four from January 1928 to January 1929), but the identification is not confirmed.
-- A young man at right with thick dark hair and a wide grin, sleeves rolled, in a white shirt.
+- **[Will](/family/wilbur-eesley/)** and **[Don Eesley](/family/don-eesley/)** &mdash; two of the older brothers, in white shirts.
+- **[Lillie Dale Chenoweth Eesley](/family/lillie-dale-chenoweth/)** &mdash; "Grandma," in a dark cloche hat with a pale band, round wire-rim spectacles, and a draped cape collar; the cottage's matriarch.
 
-## Open identifications
+## The cast, confirmed
 
-The file label *"with Leonard"* is the only direct cast information attached to the file. The older woman in the cloche hat is most plausibly Lillie Dale. The small child fits the age window for Helen. The other figures &mdash; presumably some combination of Will, Don, Dale, perhaps Leonard's wife Helen Alspach, perhaps Tommy or other relatives or Black Lake neighbors &mdash; are not yet identified. 
+For years this was one of the archive's open-identification photographs &mdash; only the file label *"with Leonard"* and the likely figure of Lillie Dale were certain. In 2026 [Roberta Burnes](/family/roberta-burnes/) named the whole group from memory: front row, Dale, Thelma, Lyle, Helen, and Len; back row, Will, Don, and their mother Lillie Dale. 
 The photograph sits with the [Leonard-at-the-dock 1928 frame](/archive/leonard-bringing-in-the-dock-black-lake-1928/) as the two earliest dated Black Lake images in the archive &mdash; the same summer, in [the cottage Charles Leonard had built with his older sons](/family/charles-leonard-eesley/), three years before [Helen and Tommy would later find the abandoned-boat shipwreck with the false teeth in it](/places/black-lake-michigan/), eleven years before [Dale's drowning on the lake](/family/dale-eesley/), and roughly two decades before the cottage burned in the 1950s.
 
 > *Source: Eesley family archive; transmitted by Chuck Eesley June 2026.*
