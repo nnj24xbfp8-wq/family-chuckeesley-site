@@ -82,8 +82,7 @@ The letters that are reproduced in full on this site, in date order. Letters in 
 
 **Spring tour &mdash; in country**
 
-- [15 March 1970 &mdash; six catch-up letters at Danang](/docs/letters/charlie-to-terrie-1970-03-29-ticket-cash/) &mdash; arrival
-- [22 March 1970 &mdash; Saigon, R&R orders mailed](/docs/letters/charlie-to-terrie-1970-03-29-ticket-cash/)
+- [29 March 1970 &mdash; ticket and cash arrangements](/docs/letters/charlie-to-terrie-1970-03-29-ticket-cash/)
 - [22 June 1970 &mdash; *"your father's attitude is better"*](/docs/letters/charlie-to-terrie-1970-06-22/)
 
 **Summer 1970 field rotation &mdash; the bush**
