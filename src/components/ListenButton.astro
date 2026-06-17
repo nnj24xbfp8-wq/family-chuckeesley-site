@@ -1,10 +1,19 @@
 ---
-// ListenButton.astro — client-side "read this page aloud" using the browser's
-// built-in Web Speech API (SpeechSynthesis). No dependencies, no cost, no network.
-// Reads the page <h1> plus the element marked [data-readable]. The control hides
-// itself automatically on browsers without speech support.
+// ListenButton.astro — "read this page aloud."
+// If a pre-generated narration MP3 exists for this page (audioSrc), the button
+// plays that natural-voice file. Otherwise it falls back to the browser's built-in
+// Web Speech API (device voice). No dependencies; the MP3 path adds no runtime cost.
+interface Props {
+  audioSrc?: string | null;
+}
+const { audioSrc } = Astro.props;
 ---
-<div class="not-prose mb-8 flex items-center gap-3" data-tts-controls hidden>
+<div
+  class="not-prose mb-8 flex items-center gap-3"
+  data-tts-controls
+  data-audio-src={audioSrc ?? ''}
+  hidden
+>
   <button
     type="button"
     data-tts-play
@@ -19,24 +28,55 @@
     <span data-tts-label>Listen</span>
   </button>
   <button type="button" data-tts-stop hidden class="text-sm text-ink/50 hover:text-ink underline-offset-2 hover:underline">Stop</button>
+  <span data-tts-mode class="text-xs text-ink/40"></span>
 </div>
 
 <script is:inline>
   (function () {
-    var synth = window.speechSynthesis;
     var controls = document.querySelector('[data-tts-controls]');
     if (!controls) return;
-    if (!synth || typeof SpeechSynthesisUtterance === 'undefined') return; // unsupported: leave hidden
+
+    var audioSrc = (controls.getAttribute('data-audio-src') || '').trim();
+    var synth = window.speechSynthesis;
+    var hasSpeech = !!synth && typeof SpeechSynthesisUtterance !== 'undefined';
+
+    // Nothing to offer? stay hidden.
+    if (!audioSrc && !hasSpeech) return;
     controls.hidden = false;
 
     var playBtn = controls.querySelector('[data-tts-play]');
     var stopBtn = controls.querySelector('[data-tts-stop]');
     var label = controls.querySelector('[data-tts-label]');
-
-    var chunks = [];
-    var idx = 0;
+    var mode = controls.querySelector('[data-tts-mode]');
     var state = 'idle'; // idle | playing | paused
 
+    // ---------- Natural-voice path: pre-generated MP3 ----------
+    if (audioSrc) {
+      if (mode) mode.textContent = 'narrated';
+      var audio = new Audio(audioSrc);
+      audio.preload = 'none';
+      audio.addEventListener('ended', reset);
+      audio.addEventListener('error', function () {
+        // If the MP3 fails to load, fall back to device speech if available.
+        if (hasSpeech) { audioSrc = ''; if (mode) mode.textContent = 'device voice'; }
+      });
+      playBtn.addEventListener('click', function () {
+        if (audioSrc === '') return speechClick(); // fell back
+        if (state === 'idle' || state === 'paused') {
+          audio.play(); state = 'playing'; label.textContent = 'Pause'; stopBtn.hidden = false;
+        } else {
+          audio.pause(); state = 'paused'; label.textContent = 'Resume';
+        }
+      });
+      stopBtn.addEventListener('click', function () { audio.pause(); audio.currentTime = 0; reset(); });
+      window.addEventListener('beforeunload', function () { try { audio.pause(); } catch (e) {} });
+      function reset() { state = 'idle'; label.textContent = 'Listen'; stopBtn.hidden = true; }
+      return;
+    }
+
+    // ---------- Fallback path: Web Speech API (device voice) ----------
+    if (mode) mode.textContent = 'device voice';
+    var chunks = [], idx = 0;
     try { synth.getVoices(); } catch (e) {}
 
     function buildText() {
@@ -47,83 +87,44 @@
       if (body) parts.push(body.innerText);
       return parts.join('. ');
     }
-
     function splitChunks(text) {
       var raw = (text || '').replace(/\s+/g, ' ').trim();
       if (!raw) return [];
       var sentences = raw.match(/[^.!?]+[.!?]+(\s|$)|[^.!?]+$/g) || [raw];
       var out = [], cur = '';
       sentences.forEach(function (s) {
-        s = s.trim();
-        if (!s) return;
-        if ((cur + ' ' + s).trim().length > 220) {
-          if (cur) out.push(cur.trim());
-          cur = s;
-        } else {
-          cur = (cur + ' ' + s).trim();
-        }
+        s = s.trim(); if (!s) return;
+        if ((cur + ' ' + s).trim().length > 220) { if (cur) out.push(cur.trim()); cur = s; }
+        else { cur = (cur + ' ' + s).trim(); }
       });
       if (cur.trim()) out.push(cur.trim());
       return out;
     }
-
     function pickVoice() {
       var voices = synth.getVoices() || [];
-      var pref = ['Samantha', 'Google US English', 'Microsoft Aria Online (Natural) - English (United States)', 'Microsoft Jenny', 'Daniel', 'Karen', 'Moira'];
-      for (var i = 0; i < pref.length; i++) {
-        var m = voices.filter(function (v) { return v.name === pref[i]; })[0];
-        if (m) return m;
-      }
-      var en = voices.filter(function (v) { return /^en[-_]?/i.test(v.lang); })[0];
-      return en || voices[0] || null;
+      var pref = ['Samantha', 'Google US English', 'Microsoft Aria Online (Natural) - English (United States)', 'Daniel', 'Karen', 'Moira'];
+      for (var i = 0; i < pref.length; i++) { var m = voices.filter(function (v) { return v.name === pref[i]; })[0]; if (m) return m; }
+      return voices.filter(function (v) { return /^en[-_]?/i.test(v.lang); })[0] || voices[0] || null;
     }
-
     function speakNext() {
       if (state !== 'playing') return;
       if (idx >= chunks.length) { reset(); return; }
       var u = new SpeechSynthesisUtterance(chunks[idx]);
-      var v = pickVoice();
-      if (v) { u.voice = v; u.lang = v.lang; }
-      u.rate = 0.96;
-      u.pitch = 1.0;
+      var v = pickVoice(); if (v) { u.voice = v; u.lang = v.lang; }
+      u.rate = 0.96; u.pitch = 1.0;
       u.onend = function () { idx++; speakNext(); };
       u.onerror = function () { idx++; speakNext(); };
       synth.speak(u);
     }
-
-    function start() {
-      synth.cancel();
-      chunks = splitChunks(buildText());
-      if (!chunks.length) return;
-      idx = 0;
-      state = 'playing';
-      label.textContent = 'Pause';
-      stopBtn.hidden = false;
-      speakNext();
-    }
-
-    function reset() {
-      synth.cancel();
-      state = 'idle';
-      idx = 0;
-      label.textContent = 'Listen';
-      stopBtn.hidden = true;
-    }
-
-    playBtn.addEventListener('click', function () {
+    function reset() { try { synth.cancel(); } catch (e) {} state = 'idle'; idx = 0; label.textContent = 'Listen'; stopBtn.hidden = true; }
+    function speechClick() {
       if (state === 'idle') {
-        start();
-      } else if (state === 'playing') {
-        synth.pause();
-        state = 'paused';
-        label.textContent = 'Resume';
-      } else if (state === 'paused') {
-        state = 'playing';
-        synth.resume();
-        label.textContent = 'Pause';
-      }
-    });
-
+        synth.cancel(); chunks = splitChunks(buildText()); if (!chunks.length) return;
+        idx = 0; state = 'playing'; label.textContent = 'Pause'; stopBtn.hidden = false; speakNext();
+      } else if (state === 'playing') { synth.pause(); state = 'paused'; label.textContent = 'Resume'; }
+      else if (state === 'paused') { state = 'playing'; synth.resume(); label.textContent = 'Pause'; }
+    }
+    playBtn.addEventListener('click', speechClick);
     stopBtn.addEventListener('click', reset);
     window.addEventListener('beforeunload', function () { try { synth.cancel(); } catch (e) {} });
   })();
