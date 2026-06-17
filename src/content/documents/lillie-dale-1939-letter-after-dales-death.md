@@ -74,9 +74,9 @@ Thelma had been Dale's wife for eleven and a half years. By September 1939 she w
 - **Lyle** &mdash; Dale's twenty-three-year-old younger brother, who had **three years left to live before his death at Cabanatuan POW camp in July 1942** &mdash; spent *"two days with his old car & the trailer"* helping Thelma move.
 - **Lillie Dale was hosting Thelma, her sister, and her brother for supper that night** &mdash; the last evening before everything went down.
 
-So the line on Thelma's [page](/family/thelma/) that the family kept her in the circle is grounded right here: **after Dale's drowning, his parents and his brother literally physically moved his widow into her new house**. The chosen-family practice the Eesleys carried &mdash; the same impulse that brought [Stella](/family/stella/) into the household during the war &mdash; shows itself in this letter at the granular labor-of-loving level.
+So the line on Thelma's [page](/family/thelma/) that the family kept her in the circle is grounded right here: after Dale's drowning, his parents and his brother physically moved his widow into her new house. The chosen-family practice the Eesleys carried &mdash; the same impulse that brought [Stella](/family/stella/) into the household during the war &mdash; shows itself in this letter at the granular labor-of-loving level.
 
-That **Helen Burnes, fifteen years old in 1939, watched her parents and her brother spend two days helping her sister-in-law of eleven years move out of the house her dead brother had built with her**, and twenty years later told her own children that Thelma was "a friend of the family" rather than their aunt &mdash; is the silence the marriage record later filled in. The letter is the record of the bond that the silence later obscured.
+That Helen Burnes, fifteen years old in 1939, watched her parents and her brother spend two days helping her sister-in-law of eleven years move out of the house her dead brother had built with her, and twenty years later told her own children that Thelma was "a friend of the family" rather than their aunt &mdash; is the silence the marriage record later filled in. The letter is the record of the bond that the silence later obscured.
 
 ### Bill, Mary, Leonard's & Helen's casts
 

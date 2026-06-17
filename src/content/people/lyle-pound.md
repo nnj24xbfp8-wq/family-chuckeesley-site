@@ -6,15 +6,15 @@ status: sketch
 summary: "Flight engineer of Robert Earl Wildermuth's B-24 crew, 400th Squadron, 90th Bomb Group, Pacific theater 1944–45. From Great Bend, Kansas — a farm boy whose family farmed a thousand-acre wheat farm. At age 22 the oldest member of the crew and its 'old man' and counsellor. The only crew member with a driver's license at enlistment. Re-entered service postwar; survived a Caribbean B-29 crash that made the MGM movie newsreel — Robert Earl saw him in the survivors' shot."
 ---
 
-He was the **flight engineer** of [Robert Earl Wildermuth](/family/robert-earl-wildermuth/)'s ten-man B-24 Liberator crew &mdash; the man responsible for the airplane's mechanical systems in flight, monitoring engines, fuel transfer, hydraulics, and the small constant calibrations that kept the Liberator working through the long Pacific missions.
+He was the flight engineer of [Robert Earl Wildermuth](/family/robert-earl-wildermuth/)'s ten-man B-24 Liberator crew &mdash; the man responsible for the airplane's mechanical systems in flight, monitoring engines, fuel transfer, hydraulics, and the small constant calibrations that kept the Liberator working through the long Pacific missions.
 
-From **Great Bend, Kansas** &mdash; central Kansas, the south-central part of the Great Plains. His family farmed a **thousand-acre wheat farm** there. Robert Earl's [Big One manuscript](/docs/the-big-one/) opens his sketch with the homecoming-of-shorthand: *"Lyle was a farm boy from the land of really big farms Kansas."*
+From Great Bend, Kansas &mdash; central Kansas, the south-central part of the Great Plains. His family farmed a thousand-acre wheat farm there. Robert Earl's [*Big One* manuscript](/docs/the-big-one/) opens his sketch with shorthand: *"Lyle was a farm boy from the land of really big farms Kansas."*
 
 > *"Lyle was an excellent aircraft engineer and he was always 'tinkering' with the various aircraft systems to make everything as fine tuned as possible."*
 
-He was **age 22** on enlistment &mdash; **the oldest member of the crew** by a year or more over Van Valen and Steckroth, and by four or five over the youngest. The age made him the crew's **"old man" and counsellor**: *"he acted as 'old man' and counsellor to the other crew members."* The role was real. In a crew of mostly 18-to-21-year-olds at the edges of their lives, the farm-boy engineer two years out of high school was the steady ear.
+He was age 22 on enlistment &mdash; the oldest member of the crew by a year or more over Van Valen and Steckroth, and by four or five over the youngest. The age made him the crew's "old man" and counsellor: *"he acted as 'old man' and counsellor to the other crew members."* The role was real. In a crew of mostly 18-to-21-year-olds at the edges of their lives, the farm-boy engineer two years out of high school was the steady ear.
 
-Coming from a Kansas wheat farm where he had **driven all kinds of farm equipment from boyhood**, Lyle was also the **only crew member who possessed a driver's license** at enlistment. The detail is a small data point of how rural the country still was in 1942&ndash;43 &mdash; nine of ten crew members on a heavy bomber had never driven a car.
+Coming from a Kansas wheat farm where he had driven all kinds of farm equipment from boyhood, Lyle was also the only crew member who possessed a driver's license at enlistment. The detail is a small data point of how rural the country still was in 1942&ndash;43 &mdash; nine of ten crew members on a heavy bomber had never driven a car.
 
 ## The Caribbean B-29 crash, postwar
 

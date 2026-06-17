@@ -30,7 +30,7 @@ Dorothy was still a child. She and Mary started school at Unionville Grade Schoo
 
 ## A portrait, c. 1941
 
-A studio portrait of Dorothy as a Marietta High School student, c. 1941, arrived in this archive in June 2026. She is **about sixteen** &mdash; in a dark sweater with a lace-edged peter-pan collar, a small oval pendant on a chain at her throat, hair curled and pulled to a soft side-bow. The smile is direct and warm; the sepia-toned print is the kind of formal school-or-studio frame a Marietta family would have sat their daughter for in the early war years.
+A studio portrait of Dorothy as a Marietta High School student, c. 1941, arrived in this archive in June 2026. She is about sixteen &mdash; in a dark sweater with a lace-edged peter-pan collar, a small oval pendant on a chain at her throat, hair curled and pulled to a soft side-bow. The smile is direct and warm; the sepia-toned print is the kind of formal school-or-studio frame a Marietta family would have sat their daughter for in the early war years.
 
 ![Dorothy Davis, c. 1941 — Marietta High School portrait, about age sixteen.](../../assets/family/originals/dorothy-davis-c1941-portrait.jpeg)
 
@@ -102,9 +102,9 @@ The **Marietta Times obituary** (Section A, Page 6, weekend of 13&ndash;14 March
 
 > *"ATLANTA, Ga. &mdash; Dorothy 'Dot' Marie (Davis) Wildermuth, 85, died at 4:30 p.m. Friday, March 5, 2010, at the UniHealth Care Center in Brookhaven, Ga."*
 
-The place of death is the **UniHealth Care Center** in Brookhaven, Georgia &mdash; the senior-care facility near Atlanta where she had been living near her daughter [Sandra Sue Clement](/family/sandra-sue-wildermuth-clement/). The 4:30 p.m. Friday timestamp is the specific moment the obituary records. The obituary identifies her, importantly, as **the second daughter of Homer Edward Davis and Bessie Marie (Hill) Davis** &mdash; the documentary confirmation of her middle-Davis-sister birth order [Robert Earl had recorded in 1990](/docs/wildermuth-fleming-heritage-1990/) and that the [c. 1929 Davis sisters photograph](/archive/davis-sisters-three-mary-dorothy-betty-c-1929/) shows.
+The place of death is the UniHealth Care Center in Brookhaven, Georgia &mdash; the senior-care facility near Atlanta where she had been living near her daughter [Sandra Sue Clement](/family/sandra-sue-wildermuth-clement/). The 4:30 p.m. Friday timestamp is the specific moment the obituary records. The obituary identifies her as the second daughter of Homer Edward Davis and Bessie Marie (Hill) Davis &mdash; the documentary confirmation of her middle-Davis-sister birth order [Robert Earl had recorded in 1990](/docs/wildermuth-fleming-heritage-1990/) and that the [c. 1929 Davis sisters photograph](/archive/davis-sisters-three-mary-dorothy-betty-c-1929/) shows.
 
-The career sequence the obituary gives in order matches and refines [the memorial program's](/archive/dorothy-wildermuth-memorial-program-2010/) panel: **bookkeeper at Citizen's Bank Marietta → Hoover Library at Stanford University → Maitland Public Library, Maitland, FL → Southeast Bank of Orlando, FL**. The Hoover Library job is named explicitly here in print &mdash; in addition to the [Robert Earl memoir mention](/docs/robert-earl-wildermuth-memoir/).
+The career sequence the obituary gives in order matches and refines [the memorial program's](/archive/dorothy-wildermuth-memorial-program-2010/) panel: bookkeeper at Citizen's Bank Marietta → Hoover Library at Stanford University → Maitland Public Library, Maitland, FL → Southeast Bank of Orlando, FL. The Hoover Library job is named explicitly here in print &mdash; in addition to the [Robert Earl memoir mention](/docs/robert-earl-wildermuth-memoir/).
 
 She "attended the Methodist Church, and loved to spend time with her family. She enjoyed singing, square dancing, quilting and other needlework."
 
