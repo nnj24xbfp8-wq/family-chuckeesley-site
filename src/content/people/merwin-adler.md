@@ -10,7 +10,7 @@ He was the **radar bombardier** of [Robert Earl Wildermuth](/family/robert-earl-
 
 From **Buffalo, New York**. He had been **a second-year college student at Buffalo University** when he enlisted. Robert Earl's [Big One manuscript](/docs/the-big-one/) gives him the **only frankly-negative review** of any crew member:
 
-> *"He was careless in his duties, lax in his [duties]."*
+> *"He was careless in his duties, lax in his personal hygiene and appearance and often had to be counseled by those with whom he lived. He was over confident and was not much of a 'team player.'"*
 
 He is the same Lt. Adler of [the [1989 memoir](/docs/robert-earl-wildermuth-memoir/)'s homecoming-radar-nap story]. After about fifteen missions, on an all-night radar-bombing mission from Tacloban airstrip to a Japanese naval base on the northern tip of Taiwan, Adler was *"over-confident in the new equipment"* and 120 miles from base he told Robert Earl he had the home airstrip locked on radar &mdash; *"if I wanted he would direct the plane back to home base and I could take a nap if I liked."* The radar lock was wrong; the story is one Robert Earl never quite let go of.
 
