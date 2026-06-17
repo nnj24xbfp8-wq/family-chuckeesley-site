@@ -35,6 +35,8 @@ The letters he wrote home from Saigon survived the trip back to Marietta. Most o
 
 A few of the things this layer carries that the rest of the page does not: the stereo and record player that was the first thing he bought when he got back, the Beatles and the Rolling Stones as the music of the year of his life he had been living through, the "smart-ass comments that probably nearly got him court-marshaled" he kept making across the rest of his life, the Skype call decades later when Chuck was visiting Saigon and Charlie, on the other end, declined to come.
 
+[A color photograph of him home from the tour, c. 1971](/archive/charlie-returning-from-vietnam-c1971/) sits in this archive &mdash; Charlie in his Army officer's wool overcoat, smiling broadly in front of a wall of leather-bound volumes at his parents' Sixth Street house, with a hand visible at the left edge raising a drink to him in welcome. [Terrie](/family/terrie-lee-eesley/) captioned the print years later in red felt-tip: *"RETURNING FROM VIETNAM &mdash; CHARLIE CIRCA 1972 EESLEY"*.
+
 ## The long tail of the war &mdash; Agent Orange, diabetes, and the forced retirement
 
 The Vietnam letters carry [a confirmed September 1970 malaria episode](/docs/letters/charlie-to-terrie-1970-09-21-malaria-hospital/) at a Vietnam hospital, followed by [convalescence at the U.S. military's 6th Convalescent Center at Cam Ranh Bay](/docs/letters/charlie-to-terrie-1970-09-28-cam-ranh-bay-convalescence/). The malaria recovered. The deeper exposure didn't.
