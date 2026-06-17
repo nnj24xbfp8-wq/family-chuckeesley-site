@@ -41,6 +41,18 @@ Dale's youngest sister [Helen](/family/helen-burnes/) was **fifteen** in July 19
 
 The household Dale left behind &mdash; his wife Thelma's, his parents' [Charles Leonard](/family/charles-leonard-eesley/) and [Lillie Dale](/family/lillie-dale-chenoweth/)'s &mdash; was processing a grown son's drowning. Helen's household was processing the same drowning, plus a teenage daughter convinced that she had caused it.
 
+## What likely happened &mdash; informed speculation
+
+What follows is **speculation, not record.** The archive holds only the outline: a fit thirty-two-year-old crossing a familiar lake alone in a small boat in mid-July, the boat found afterward, his body recovered. No cause-of-death or eyewitness account has reached this page. But the few facts point in a direction.
+
+The most telling detail is that **the boat was found.** A storm that swamped or sank the boat would have taken the boat down with him; an intact, empty boat instead suggests Dale went into the water while the boat stayed afloat &mdash; the ordinary pattern of a small-boat drowning. That makes a simple **fall overboard** the likeliest explanation. In a rowboat or a small outboard, the dangerous moment is almost always a shift of weight &mdash; standing, leaning, reaching, restarting a balky motor &mdash; that tips the hull just enough. A man suddenly in deep water in his clothes and shoes, alone, with no one to pull him back, can be in serious trouble within moments, especially if he struck his head going in.
+
+A second possibility is a **sudden medical event** &mdash; a faint, a cardiac arrhythmia, a seizure &mdash; uncommon at thirty-two but not unheard of, and effectively a drowning if it dropped him over deep water with no one aboard to help. **Weather** is a third, but the surviving boat argues against a squall as the primary cause.
+
+What does *not* belong in the explanation is the errand itself. Helen carried the guilt of having asked Dale to make the chocolate run, but the errand only put him on the water that afternoon; whatever actually took him &mdash; a lean, a wave, his own heart &mdash; would have been just as possible on any other crossing.
+
+Two records could move this from guess to fact: Dale's **1939 Michigan death certificate** (the state recorded the death where it occurred, and the certificate would name a cause and often a circumstance), and the **local Cheboygan-area newspaper**, which in 1939 would almost certainly have reported a summer drowning on Black Lake. Both are research leads still open.
+
 ### Helen and Thelma in Columbus
 
 Thelma stayed in Columbus and remained part of the family's life. Helen's eldest daughter Barb knew Thelma was their aunt; her younger sisters Roberta and Katie grew up knowing her only as "a friend of the family." See [Thelma's page](/family/thelma/).

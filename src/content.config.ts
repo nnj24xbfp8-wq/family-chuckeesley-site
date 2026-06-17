@@ -20,6 +20,10 @@ const people = defineCollection({
       birth: z
         .object({ date: z.string().optional(), place: z.string().optional() })
         .optional(),
+      // Sort-only birth hint (ISO or year). Not displayed; used to order
+      // auto-derived sibling/children lists by birth order when `birth.date`
+      // is absent (e.g. living people) or fuzzy. Falls back to birth.date.
+      sortBirth: z.string().optional(),
       death: z
         .object({ date: z.string().optional(), place: z.string().optional() })
         .optional(),

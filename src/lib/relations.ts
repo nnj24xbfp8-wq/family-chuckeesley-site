@@ -13,22 +13,46 @@ export async function getAllPeople(): Promise<Person[]> {
   });
 }
 
-/** Children of `person` — derived by reverse lookup on `parents`. */
-export async function childrenOf(person: Person): Promise<Person[]> {
-  const all = await getCollection('people');
-  return all.filter((p) => p.data.parents.some((ref) => ref.id === person.id));
+/** Numeric birth-order key (YYYYMMDD). Undated people sort last. */
+function birthKey(p: Person): number {
+  const raw = p.data.sortBirth ?? p.data.birth?.date ?? '';
+  const m = raw.match(/(\d{4})(?:-(\d{1,2}))?(?:-(\d{1,2}))?/);
+  if (!m) return Number.POSITIVE_INFINITY;
+  return (
+    parseInt(m[1], 10) * 10000 +
+    (m[2] ? parseInt(m[2], 10) : 0) * 100 +
+    (m[3] ? parseInt(m[3], 10) : 0)
+  );
 }
 
-/** Siblings = anyone who shares at least one parent. */
+/** Order siblings/children by birth, then name. */
+function byBirth(a: Person, b: Person): number {
+  const ka = birthKey(a);
+  const kb = birthKey(b);
+  if (ka !== kb) return ka - kb;
+  return a.data.name.localeCompare(b.data.name);
+}
+
+/** Children of `person` — derived by reverse lookup on `parents`, birth-ordered. */
+export async function childrenOf(person: Person): Promise<Person[]> {
+  const all = await getCollection('people');
+  return all
+    .filter((p) => p.data.parents.some((ref) => ref.id === person.id))
+    .sort(byBirth);
+}
+
+/** Siblings = anyone who shares at least one parent, birth-ordered. */
 export async function siblingsOf(person: Person): Promise<Person[]> {
   if (person.data.parents.length === 0) return [];
   const parentIds = new Set(person.data.parents.map((r) => r.id));
   const all = await getCollection('people');
-  return all.filter(
-    (p) =>
-      p.id !== person.id &&
-      p.data.parents.some((ref) => parentIds.has(ref.id))
-  );
+  return all
+    .filter(
+      (p) =>
+        p.id !== person.id &&
+        p.data.parents.some((ref) => parentIds.has(ref.id))
+    )
+    .sort(byBirth);
 }
 
 /** Resolve a list of person references to full entries (drops misses silently). */

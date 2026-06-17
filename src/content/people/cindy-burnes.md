@@ -6,6 +6,7 @@ parents:
   - helen-burnes
 living: true
 status: sketch
+sortBirth: "1953"
 summary: "Daughter of Helen Louise (Eesley) Burnes and Edwin William Burnes — one of six daughters in the Burnes household, and Chuck's first cousin once removed on the paternal Eesley side. Kept her own surname on marriage (one of four Burnes daughters to do so, alongside Shelley, Liz, and Roberta; her oldest sister Barb took Hester and her youngest sister Katie took McKeel)."
 ---
 
