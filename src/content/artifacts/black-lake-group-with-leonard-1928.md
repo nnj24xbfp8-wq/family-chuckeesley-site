@@ -15,19 +15,19 @@ people:
   - lillie-dale-chenoweth
 ---
 
-A group of **eight people** in front of the [Black Lake cottage](/places/black-lake-michigan/), c. 1928 &mdash; the year of the [companion *"Leonard bringing in the dock"* photograph](/archive/leonard-bringing-in-the-dock-black-lake-1928/) on the same beach. The cottage's pale-painted wood-clapboard wall is the backdrop, with two glass-paned windows and a screened doorway visible behind the cluster of figures.
+A group of eight people in front of the [Black Lake cottage](/places/black-lake-michigan/), c. 1928 &mdash; the year of the [companion *"Leonard bringing in the dock"* photograph](/archive/leonard-bringing-in-the-dock-black-lake-1928/) on the same beach. The cottage's pale-painted wood-clapboard wall is the backdrop, with two glass-paned windows and a screened doorway visible behind the cluster of figures.
 
 ## What the photograph shows
 
 Three rough rows of figures grouped on the porch or steps:
 
-**Back row (standing or seated higher), from left to right:**
+Back row (standing or seated higher), from left to right:
 
 - A young man in a white shirt and tie, dark hair combed back.
 - A young man in a white open-collar shirt, holding what reads as a dark straw boater or felt hat in his lap. The file label *"with Leonard"* most plausibly identifies this figure or one of the back-row group as [Leonard David Eesley](/family/leonard-david-eesley/), Charles Leonard and Lillie Dale's eldest son (b. 1904), who would have been about 24 in 1928.
 - An older woman in a dark cloche hat with a pale band, round wire-rim spectacles, and a dark dress with a draped cape collar &mdash; almost certainly [Lillie Dale Chenoweth Eesley](/family/lillie-dale-chenoweth/), the cottage's matriarch.
 
-**Front row, from left to right:**
+Front row, from left to right:
 
 - A young man in a tan straw boater and dark leather jacket, smiling.
 - A young woman in a soft cloche hat and dark coat, holding a small dark book or wallet in her lap.

@@ -7,11 +7,11 @@ summary: "U.S. Marine Corps and Army Air Forces airfield on Peleliu Island in th
 significance: "Robert Earl's first combat-base — and the place where the crew first flew night missions and first slept with weapons within arm's reach. The 'sonar-controlled searchlight' propeller-pitch countermeasure that worked over Taiwan was learned in the 22nd BG briefing tent here."
 ---
 
-**Peleliu Air Field** sat on the southern half of **[Peleliu Island](https://en.wikipedia.org/wiki/Peleliu)** in the Palau Islands group, in the western Pacific about 550 miles east of the Philippines. The island was the objective of the **[Battle of Peleliu](https://en.wikipedia.org/wiki/Battle_of_Peleliu)** &mdash; the September&ndash;November 1944 amphibious operation in which the 1st Marine Division and the 81st Infantry Division took the island from a Japanese garrison of about 11,000 men dug into the coral-cave network of Bloody Nose Ridge. The cost: roughly **1,800 American dead and over 8,000 wounded**, against nearly the entire Japanese garrison killed or captured. The campaign became one of the most strategically debated battles of the Pacific theater.
+Peleliu Air Field sat on the southern half of [Peleliu Island](https://en.wikipedia.org/wiki/Peleliu) in the Palau Islands group, in the western Pacific about 550 miles east of the Philippines. The island was the objective of the [Battle of Peleliu](https://en.wikipedia.org/wiki/Battle_of_Peleliu) &mdash; the September&ndash;November 1944 amphibious operation in which the 1st Marine Division and the 81st Infantry Division took the island from a Japanese garrison of about 11,000 men dug into the coral-cave network of Bloody Nose Ridge. The cost: roughly 1,800 American dead and over 8,000 wounded, against nearly the entire Japanese garrison killed or captured. The campaign became one of the most strategically debated battles of the Pacific theater.
 
 ## The Van Valen crew at Peleliu — December 1944
 
-**[Robert Earl Wildermuth](/family/robert-earl-wildermuth/)** and the Van Valen crew were attached out from the 90th Bomb Group to the **[22nd Bomb Group](https://en.wikipedia.org/wiki/22d_Bombardment_Group)** &mdash; a 7th Air Force B-24 unit running night missions over Taiwan from Peleliu &mdash; in **December 1944**. They flew their first two combat missions from this airstrip, accumulating **20:30 hours of combat time** across the pair.
+[Robert Earl Wildermuth](/family/robert-earl-wildermuth/) and the Van Valen crew were attached out from the 90th Bomb Group to the [22nd Bomb Group](https://en.wikipedia.org/wiki/22d_Bombardment_Group) &mdash; a 7th Air Force B-24 unit running night missions over Taiwan from Peleliu &mdash; in December 1944. They flew their first two combat missions from this airstrip, accumulating 20:30 hours of combat time across the pair.
 
 The 22nd BG's intelligence officer briefed them on a Japanese AA countermeasure that became one of the lasting technical anecdotes of the tour:
 
@@ -21,13 +21,13 @@ The propeller-pitch trick became a 22nd BG standard for the Taiwan-from-Peleliu 
 
 ## Sleeping with .45s under their pillows
 
-The fighting on Peleliu had **officially ended on 27 November 1944**, but Japanese stragglers were still hiding in the island's coral caves through December. Robert Earl's memoir records the incident that prompted the crew to start sleeping armed:
+The fighting on Peleliu had officially ended on 27 November 1944, but Japanese stragglers were still hiding in the island's coral caves through December. Robert Earl's memoir records the incident that prompted the crew to start sleeping armed:
 
 > *"One day the whole crew went to lunch except one co-pilot who had flown all night. They heard a scream from the tent area. The co-pilot had been awakened by a Japanese soldier ransacking the tent for food and clothing — not aggressive, just hungry, bypassed in the recapture. There was still heavy fighting going on in the Palau Islands while we were there and stragglers from the Japanese Army could be anyplace. We slept thereafter with .45s under our pillows."*
 
 ## The move to Tacloban
 
-The crew's stay at Peleliu ended **mid-mission**. Robert Earl's [Big One](/docs/the-big-one/) records the transition:
+The crew's stay at Peleliu ended mid-mission. Robert Earl's [Big One](/docs/the-big-one/) records the transition:
 
 > *"We flew a mission on this date from Peleliu to a target on Taiwan leaving late in the afternoon and on our way back we were to land at Leyte Air Field the next morning where we would then be stationed. Thereafter we would stage out of Leyte."*
 

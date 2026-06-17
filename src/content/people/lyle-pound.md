@@ -18,12 +18,12 @@ Coming from a Kansas wheat farm where he had driven all kinds of farm equipment 
 
 ## The Caribbean B-29 crash, postwar
 
-Robert Earl notes that Lyle **re-entered the service after his postwar discharge**:
+Robert Earl notes that Lyle re-entered the service after his postwar discharge:
 
 > *"One time while I was attending a movie, the MGM movie newsreel showed survivors of a B-29 type aircraft that had crashed in the Caribbean and Lyle was one of them."*
 
-This is the only one of the ten-man crew Robert Earl can confirm by accident the postwar life of &mdash; the **MGM newsreel survivor shot of a Caribbean B-29 crash** that put Lyle's face on the screen in a Marietta theater years after the war. Lyle survived. **Robert Earl flew the MGM cameraman over Nagasaki [in c. mid-September 1945](/docs/the-big-one/#nagasaki-mgm); the same studio's news cameras later put his crewmate Lyle on screen.** The MGM cameras intersected this crew twice.
+This is the only one of the ten-man crew Robert Earl can confirm by accident the postwar life of &mdash; the MGM newsreel survivor shot of a Caribbean B-29 crash that put Lyle's face on the screen in a Marietta theater years after the war. Lyle survived. Robert Earl flew the MGM cameraman over Nagasaki [in c. mid-September 1945](/docs/the-big-one/#nagasaki-mgm); the same studio's news cameras later put his crewmate Lyle on screen. The MGM cameras intersected this crew twice.
 
-Which Caribbean B-29 crash, which year, which newsreel &mdash; these are the open research questions. The path forward sits at **MGM *News of the Day* newsreel archives**, **postwar B-29 accident reports from the Caribbean (likely late 1940s or 1950s)**, and **Great Bend / Kansas wheat-belt newspaper records** that may have covered his return.
+Which Caribbean B-29 crash, which year, which newsreel &mdash; these are the open research questions. The path forward sits at **MGM *News of the Day* newsreel archives, postwar B-29 accident reports from the Caribbean (likely late 1940s or 1950s), and Great Bend / Kansas wheat-belt newspaper records** that may have covered his return.
 
 > *Sources: Robert Earl Wildermuth, [*The Big One: World War II*](/docs/the-big-one/) (typewritten manuscript, c. 1989), Crew Members section.*
