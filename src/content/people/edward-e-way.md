@@ -33,7 +33,7 @@ The marriage produced **ten children** in the GEDCOM record, the older ones bear
 - [Belsora "Belle" A. Way](/family/belsora-way-wickens/) (b. 19 December 1880; d. 1912) &mdash; the bride of the 1901 Wickens wedding portrait
 - A child (I225) (b. ?)
 - [Emma Maude Way](/family/emma-maude-way/) (b. 3 July 1883; d. 1917) &mdash; would die in Lost Springs, Converse County, Wyoming
-- [Angie Nora Way](/family/angie-nora-way/) (b. 26 July 1884; d. 1938)
+- [Angie Nora Way](/family/nora-angie-way/) (b. 26 July 1884; d. 1938)
 - Three further siblings (I220, I227, I229)
 
 Tacy died on **29 January 1902**, four months after Belle's September 1901 wedding to Howard Wickens &mdash; making the 1901 wedding portrait one of the last photographs taken of her. Edward E. survived her by **twenty-two years**, dying on **2 November 1924, age 73**, and was buried two days later at Crooked Tree Cemetery, Noble County &mdash; the same ground where Tacy and several of his daughters (Victoria, Belle, Emma, Nora Angie) had been buried.
