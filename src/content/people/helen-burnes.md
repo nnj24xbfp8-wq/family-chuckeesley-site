@@ -40,7 +40,7 @@ The errand was the kind a younger sister might ask of an older brother on any or
 
 She would have been just beginning her last year or two of school in Bexley. Three years later her brother [Lyle](/family/lyle-eesley/) would die in a Japanese prison camp at Cabanatuan. Six years after that she would marry Edwin Burnes and begin raising her own seven children. For the next sixty-one years &mdash; until her own death in 2000 &mdash; the chocolate-across-the-lake story stayed with her.
 
-The guilt may also be the deepest part of the answer to a question her children later carried about [Thelma](/family/thelma/). Helen's eldest daughter [Barb](/family/barb-burnes-hester/) knew Thelma was their aunt; her younger sisters [Roberta](/family/roberta-burnes/) and [Katie](/family/katie-burnes/) don't recall ever being told. By the time the youngest two were old enough to ask, Helen may have judged it too hard to explain &mdash; to name Thelma as *"your Aunt Thelma, your Uncle Dale's wife"* would have meant naming, year after year, the husband Helen herself believed she had taken from her sister-in-law. The silence around Thelma's identity to the younger daughters is part of the same wound the chocolate-across-the-lake story carries. [Thelma's page](/family/thelma/) and [Dale's page](/family/dale-eesley/) hold the linked discussion.
+It may also bear on a small family question: Helen's eldest daughter [Barb](/family/barb-burnes-hester/) knew that [Thelma](/family/thelma/) was their aunt, but her younger sisters [Roberta](/family/roberta-burnes/) and [Katie](/family/katie-burnes/) grew up knowing Thelma only as "a friend of the family." See [Thelma's page](/family/thelma/).
 
 ## The toddler-in-overalls photograph — Jean Goldie Eesley (resolved, 2026)
 
