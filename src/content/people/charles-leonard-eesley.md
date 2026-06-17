@@ -13,14 +13,14 @@ parents:
 spouses:
   - lillie-dale-chenoweth
 portrait: ../../assets/family/maggie-deck/charles-leonard-eesley.jpeg
-summary: "Son of Albert Robert Eesley Sr and Jeanie Goldie; husband of Lillie Dale Chenoweth (1877–1970); one of the six miller-brothers of his generation per William Eesley's c. 1916 obituary — the trade carried directly from his father's Stratford-on-Avon-to-Toronto milling years through John Franklin's Plainwell Sunshine Flour Mill and William's College Corner mill into his own working life. Father of ten children — Leonard David (1904), Thomas Leonard (1906), Dale Dudley (1906–1939), James Michael 'Mike' (1908), Donald Stuart (1908), Wilbur 'Will' (1910), Jean Goldie (1912, died age 12), Mary Elizabeth (Bean, 1913), Lyle (1916–1942, Cabanatuan), and Helen Louise (Burnes, 1924). Per the GEDCOM (FamilySearch MCZ8-WYX for Dale, LB4C-DH3 for Lyle), Dale's birth year is 1906 not 1916 and Lyle's is 1916 not 1914 — Bean's 1985 register has these two swapped. The household was in Bexley, Ohio. Brought Stella Sunn into the family during the war and kept her there for over a decade."
+summary: "Son of Albert Robert Eesley Sr and Jeanie Goldie; husband of Lillie Dale Chenoweth (1877–1970); one of the six miller-brothers of his generation per William Eesley's c. 1916 obituary — the trade carried directly from his father's Stratford-on-Avon-to-Toronto milling years through John Franklin's Plainwell Sunshine Flour Mill and William's College Corner mill into his own working life. Father of ten children — Leonard David (1904), Dale Dudley (1906–1939), Thomas Leonard (1906), Donald Stuart (1908), James Michael 'Mike' (1908), Wilbur 'Will' (1910), Mary Elizabeth (Bean, 1913), Lyle (1916–1942, Cabanatuan), Jean Goldie (1921–1925, died age 4), and Helen Louise (Burnes, 1924). Per the GEDCOM (FamilySearch MCZ8-WYX for Dale, LB4C-DH3 for Lyle), Dale's birth year is 1906 not 1916 and Lyle's is 1916 not 1914 — Bean's 1985 register has these two swapped. The household was in Bexley, Ohio. Brought Stella Sunn into the family during the war and kept her there for over a decade."
 ---
 
 Charles Leonard Eesley was born **September 26, 1879**, the ninth of ten children of [Albert Robert Eesley](/family/albert-robert-eesley/) and [Jeanie Goldie](/family/jeanie-goldie/). He married **[Lillie Dale Chenoweth](/family/lillie-dale-chenoweth/)** (b. August 9, 1877). Their family home was in **Bexley, Ohio** — the leafy independent municipality embedded in eastern Columbus, at **230 North Cassidy Road** per [Charlie's 1965 autobiography](/docs/charles-eesley-12th-grade-autobiography-1965/) — and the house often took in boarders.
 
 ## A portrait from his young manhood
 
-A studio portrait of Charles Leonard as a young man &mdash; from [Roberta Burnes's keeping](/family/roberta-burnes/), shared June 2026 &mdash; arrived in this archive in June 2026. It is a head-and-shoulders studio frame, his dark coat buttoned, white shirt and dark bow-tie at his throat, his hair parted in the period style. The look on his face is calm and steady. He is most likely in his late twenties to early thirties, which places the portrait between roughly 1907 and 1912 &mdash; the years his children were starting to arrive (Leonard 1904, Thomas 1906, Dale 1906, James 1908, Donald 1908, Will 1910) and he was establishing himself in the Ohio milling-and-trade life. It is the first portrait of him as a young man in the archive.
+A studio portrait of Charles Leonard as a young man &mdash; from [Roberta Burnes's keeping](/family/roberta-burnes/), shared June 2026 &mdash; arrived in this archive in June 2026. It is a head-and-shoulders studio frame, his dark coat buttoned, white shirt and dark bow-tie at his throat, his hair parted in the period style. The look on his face is calm and steady. He is most likely in his late twenties to early thirties, which places the portrait between roughly 1907 and 1912 &mdash; the years his children were starting to arrive (Leonard 1904, Dale 1906, Thomas 1906, Donald 1908, James 1908, Will 1910) and he was establishing himself in the Ohio milling-and-trade life. It is the first portrait of him as a young man in the archive.
 
 ![Charles Leonard Eesley as a young man, c. 1907-1912. From Roberta Burnes's keeping.](../../assets/family/originals/charles-leonard-eesley-young-portrait.jpeg)
 
@@ -59,14 +59,14 @@ Each move is consistent with a milling assignment at a different mill. By the la
 Together they raised **ten children**, with two losses along the way:
 
 - **Leonard David** (1904, Geneva OH – 1976, Silver Spring MD)
+- **[Dale Dudley](/family/dale-eesley/)** (August 5, 1906, Pleasant Township, Franklin OH – July 14, 1939) — died at age 32; **married Thelma G. Haughn 15 November 1927** — they were married eleven and a half years. (Bean's 1985 register gives his middle name as "George" and his birth year as 1916; the GEDCOM and FamilySearch MCZ8-WYX correct both to "Dale Dudley" and 1906.)
 - **Thomas Leonard** (1906)
-- **James Michael "Mike"** (October 26, 1908)
 - **Donald Stuart "Don"** (September 24, 1908 – May 15, 1975, Tulsa OK)
+- **James Michael "Mike"** (October 26, 1908)
 - **Wilbur "Will" Chenoweth** (October 6, 1910 – 1986)
-- **[Jean Goldie](/family/jean-goldie-eesley/)** (28 October 1921 – 13 October 1925 per GEDCOM, age 4 at death; the year is not fully settled — see [her page](/family/jean-goldie-eesley/) for the unsettled dating per Roberta Burnes's June 2026 reconsideration, which proposes a 1926-1930 window instead)
 - **[Mary Elizabeth](/family/mary-eesley-bean/)** (August 25, 1913, Shelby MI), who married William Thomas Bean and wrote the 1985 family history
 - **[Lyle](/family/lyle-eesley/)** (August 12, 1916, Grove City OH – July 25, 1942, Cabanatuan Prison Camp, Luzon, Philippines) — died as a Japanese POW at age 25
-- **[Dale Dudley](/family/dale-eesley/)** (August 5, 1906, Pleasant Township, Franklin OH – July 14, 1939) — died at age 32; **married Thelma Z. Haughn 15 November 1927** (correction June 2026 from Roberta's Ancestry find — they were married eleven and a half years, not engaged as this archive previously recorded). (Bean's 1985 register gives his middle name as "George" and his birth year as 1916; the GEDCOM and FamilySearch MCZ8-WYX correct both to "Dale Dudley" and 1906.)
+- **[Jean Goldie](/family/jean-goldie-eesley/)** (28 October 1921 – 13 October 1925) — died at age 4; the birth date is now confirmed by her Ohio death certificate (see [her page](/family/jean-goldie-eesley/))
 - **[Helen Louise](/family/helen-burnes/)** (January 16, 1924, Columbus OH), who married Edwin William Burnes — Roberta Burnes's mother
 
 ## The two acts that define him

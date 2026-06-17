@@ -14,20 +14,20 @@ parents:
   - lillie-dale-chenoweth
 spouses:
   - thelma
-summary: "Brother of Will Eesley. Born 5 August 1906 in Pleasant Township, Franklin County, Ohio; died 14 July 1939, age 32, by drowning at Black Lake, Michigan; buried at Grove City. Married Thelma Z. Haughn on 15 November 1927 in Franklin County, Ohio — eleven and a half years before his death — longer than the family had remembered. The day Dale drowned, his fifteen-year-old sister Helen had asked him to take the boat across Black Lake to buy her chocolate at the general store; the guilt over that request stayed with Helen for the rest of her life. Thelma stayed close to the Eesleys in Columbus through the rest of her life but was known to the next generation only as 'a friend of the family.' Dale appears in the c. 1937–1939 group portrait of Charles Leonard with five of his adult sons — the one definitive frame of him alive in the family. FamilySearch ID MCZ8-WYX."
+summary: "Brother of Will Eesley. Born 5 August 1906 in Pleasant Township, Franklin County, Ohio; died 14 July 1939, age 32, by drowning at Black Lake, Michigan; buried at Grove City. Married Thelma G. Haughn on 15 November 1927 in Franklin County, Ohio — eleven and a half years before his death. The day Dale drowned, his fifteen-year-old sister Helen had asked him to take the boat across Black Lake to buy her chocolate at the general store; the guilt over that request stayed with Helen for the rest of her life. Thelma stayed close to the Eesleys in Columbus through the rest of her life but was known to the next generation only as 'a friend of the family.' Dale appears in the c. 1937–1939 group portrait of Charles Leonard with five of his adult sons — the one definitive frame of him alive in the family. FamilySearch ID MCZ8-WYX."
 ---
 
-Dale Dudley Eesley was born **5 August 1906 in Pleasant Township, Franklin County, Ohio**. He died **14 July 1939**, age **32**, and is buried at Grove City, Franklin County, Ohio. He was married to **[Thelma Z. Haughn](/family/thelma/)** for the last eleven and a half years of his life; she outlived him by some decades and remained part of the family circle until her death in the 1970s.
+Dale Dudley Eesley was born **5 August 1906 in Pleasant Township, Franklin County, Ohio**. He died **14 July 1939**, age **32**, and is buried at Grove City, Franklin County, Ohio. He was married to **[Thelma G. Haughn](/family/thelma/)** for the last eleven and a half years of his life; she outlived him by some decades and remained part of the family circle until her death in the 1970s.
 
 His birth date is sometimes recorded in family memory as **1916**, but the GEDCOM and FamilySearch record MCZ8-WYX give **1906**, which is consistent with his position as one of Charles Leonard and Lillie Dale's older children and with his age in the group portrait. Bean's 1985 register also gives his middle name as **"George,"** but the GEDCOM has just "Dale Dudley"; the third name may be a Bean expansion or a family-memory variant.
 
 He appears in the [c. 1937&ndash;1939 group portrait of Charles Leonard with five of his adult sons and grandson Tommy](/archive/charles-leonard-and-sons-late-1930s/), as the figure on the right end of the brothers' line &mdash; the only definitive photograph of him in this archive's keeping, taken in the last window before his death at thirty-two.
 
-## Marriage to Thelma Z. Haughn
+## Marriage to Thelma G. Haughn
 
-Dale married [Thelma Z. Haughn](/family/thelma/) on **15 November 1927** in Franklin County, Ohio, at age 21 each. The marriage lasted **eleven and a half years**, until Dale's drowning at Black Lake on 14 July 1939.
+Dale married [Thelma G. Haughn](/family/thelma/) on **15 November 1927** in Franklin County, Ohio, at age 21 each. The marriage lasted **eleven and a half years**, until Dale's drowning at Black Lake on 14 July 1939.
 
-> *Marriage License Application #79220, Probate Court, Franklin County, Ohio. Dale D. Eesley (age 21, of Pleasant Township, Ohio) and Thelma Z. Haughn (age 21, of Grove City, Ohio). License issued 9 August 1927 and granted 15 October 1927. Marriage solemnized 15 November 1927 by N.V. Lechler. Filed and recorded 16 November 1927. Ohio County Marriage Records, 1774-1993, Franklin County, 1925-1928.*
+> *Marriage License Application #79220, Probate Court, Franklin County, Ohio. Dale D. Eesley (age 21, of Pleasant Township, Ohio) and Thelma G. Haughn (age 21, of Grove City, Ohio, occupation bookkeeper). License issued 9 August 1927 and granted 15 October 1927. Marriage solemnized 15 November 1927 by N.V. Lechler. Filed and recorded 16 November 1927. The marriage certificate names the bride as "Thelma G. Haughn," confirming both the middle initial G and the Haughn maiden name (an earlier "Thelma Z. Haughn" reading was a misreading of the G). Franklin County Marriage Record, FamilySearch ark:/61903/3:1:9392-S59M-MH, image 699 of 861.*
 
 ## How he died &mdash; and what Helen carried for the rest of her life
 
@@ -41,7 +41,7 @@ Dale's youngest sister [Helen](/family/helen-burnes/) was **fifteen** in July 19
 
 The household Dale left behind &mdash; his wife Thelma's, his parents' [Charles Leonard](/family/charles-leonard-eesley/) and [Lillie Dale](/family/lillie-dale-chenoweth/)'s &mdash; was processing a grown son's drowning. Helen's household was processing the same drowning, plus a teenage daughter convinced that she had caused it.
 
-### Helen and Thelma in Columbus &mdash; the long silence
+### Helen and Thelma in Columbus
 
 Thelma stayed in Columbus through the rest of her life and was a real presence in Helen's children's growing-up years. Helen's eldest daughter Barb knew Thelma was their aunt; her younger sisters Roberta and Katie don't recall ever being told that. By the time the youngest two were old enough to ask, Helen may have judged it too hard to explain. Whether the chocolate-across-the-lake guilt was part of why she didn't speak Thelma's identity into the younger daughters' world is not something this page can answer.
 

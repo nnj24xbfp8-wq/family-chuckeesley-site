@@ -14,7 +14,7 @@ parents:
 summary: "Sister of Will Eesley; Chuck's great-aunt. Author of the 1985 Eesley Family History — the indented descendant register that is this archive's relationship backbone. Married William Thomas Bean (b. 13 November 1909). Of Narberth, Pennsylvania."
 ---
 
-Mary Elizabeth Eesley was born **August 25, 1913 in Shelby, Michigan** — the seventh of Charles Leonard and Lillie Dale Chenoweth Eesley's ten children, and the second of their three daughters. She married **William Thomas Bean** (born November 13, 1909). They had one daughter, **Margaret Louise Bean** (b. December 11, 1941), who married Jay Albert Kirkpatrick.
+Mary Elizabeth Eesley was born **August 25, 1913 in Shelby, Michigan** — the seventh of Charles Leonard and Lillie Dale Chenoweth Eesley's ten children, and the eldest of their three daughters (ahead of Jean, b. 1921, and Helen, b. 1924). She married **William Thomas Bean** (born November 13, 1909). They had one daughter, **Margaret Louise Bean** (b. December 11, 1941), who married Jay Albert Kirkpatrick.
 
 ## Mary's wedding portrait
 
