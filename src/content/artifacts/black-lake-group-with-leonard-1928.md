@@ -32,7 +32,7 @@ Three rough rows of figures grouped on the porch or steps:
 - A **young man** in a tan **straw boater** and dark leather jacket, smiling.
 - A **young woman** in a soft cloche hat and dark coat, holding a small dark book or wallet in her lap.
 - A **boy** of about eleven or twelve in a plaid sweater and dark tie, hands clasped in his lap.
-- A **small child of about four**, in a white pinafore-style smock with dark trim, looking slightly off-camera. By the dating window this is the age [Helen Eesley](/family/helen-burnes/) would have been in summer 1928 (she turned four on 16 January 1924, so age four through 1927-28), but the identification is not confirmed.
+- A **small child of about four**, in a white pinafore-style smock with dark trim, looking slightly off-camera. By the dating window this is the age [Helen Eesley](/family/helen-burnes/) would have been in summer 1928 (she turned four on 16 January 1928, so age four from January 1928 to January 1929), but the identification is not confirmed.
 - A **young man** at right with thick dark hair and a wide grin, sleeves rolled, in a white shirt.
 
 ## Open identifications

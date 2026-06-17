@@ -20,7 +20,7 @@ summary: "Robert Earl Wildermuth's mother. Born 15 July 1901 in Waverly, West Vi
 
 Sadye Irene Fleming was born 15 July 1901 in Waverly, West Virginia &mdash; the small Pleasants County town on the Ohio River south of Marietta &mdash; to [Wesley Fleming](/family/wesley-fleming/) and [Verona B. Sheppard Fleming](/family/verona-sheppard-fleming/). She spent most of her life in Marietta, Ohio, the river town across the state line her family married into.
 
-On 31 December 1920 &mdash; New Year's Eve, age nineteen &mdash; she married [Earl A. Wildermuth](/family/earl-a-wildermuth/) of Marietta, opening the Fleming line into the Wildermuth shoemaker family that [Johann Michael Wildermuth](/family/) had founded there in the 1840s. The marriage is the seam at which the Fleming / Sheppard branch of Chuck's maternal ancestry joins the Wildermuth / Württemberg branch &mdash; the two sides Robert Earl would later research and write up across his retirement.
+On 31 December 1920 &mdash; New Year's Eve, age nineteen &mdash; she married [Earl A. Wildermuth](/family/earl-a-wildermuth/) of Marietta, opening the Fleming line into the Wildermuth shoemaker family that [Johann Michael Wildermuth](/family/johann-michael-wildermuth/) had founded there in the 1840s. The marriage is the seam at which the Fleming / Sheppard branch of Chuck's maternal ancestry joins the Wildermuth / Württemberg branch &mdash; the two sides Robert Earl would later research and write up across his retirement.
 
 ## The earliest portraits — c. 1919 and c. 1920
 

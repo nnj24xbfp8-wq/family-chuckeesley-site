@@ -18,7 +18,7 @@ portrait: ../../assets/family/originals/dorothy-davis-c1941-portrait.jpeg
 summary: "Wife of Robert Earl Wildermuth. Born 11:15 AM, 24 February 1925, in Waterford Township, Washington County, Ohio, to truck driver Homer Edward Davis and Bessie Marie (Hill) Davis. Middle Davis sister of three — older sister Mary, younger sister Betty. Lost the Davis family home in a fire while still a child at Unionville, Ohio; lived through the cold winter that followed in a one-room garage with her parents and a small shed with her sisters. Graduated Marietta High School June 1943. Worked as bookkeeper at Citizen's Bank in Marietta. Married Robert Earl Wildermuth 20 April 1946. Mother of Terrie Lee, Sandra Sue, Robert Jr., and Debra. Followed Robert Earl through Air Force postings across Florida, California, Oklahoma, Ohio, Colorado, Texas, Maryland, and Japan. Died 5 March 2010 in Brookhaven, Georgia, age 85."
 ---
 
-Dorothy Marie Davis was born at 11:15 a.m. on 24 February 1925 in Waterford Township, Washington County, Ohio, daughter of [Homer Edward Davis](/family/homer-davis/) (then twenty-five, a truck driver) and [Bessie Marie (Hill) Davis](/family/bessie-hill-davis/) (then nineteen). She was the second of three Davis sisters — older sister Mary (b. ~1923) and younger sister Betty (b. ~1926). Her birth certificate, registered 10 May 1925 by H. S. Dickson, is one of the documents reproduced in [Robert Earl Wildermuth's 1990 Wildermuth/Fleming Heritage](/docs/wildermuth-fleming-heritage-1990/).
+Dorothy Marie Davis was born at 11:15 a.m. on 24 February 1925 in Waterford Township, Washington County, Ohio, daughter of [Homer Edward Davis](/family/homer-davis/) (then twenty-five, a truck driver) and [Bessie Marie (Hill) Davis](/family/bessie-hill-davis/) (then nineteen). She was the second of three Davis sisters — older sister Mary (b. 17 January 1924) and younger sister Betty (b. ~1926). Her birth certificate, registered 10 May 1925 by H. S. Dickson, is one of the documents reproduced in [Robert Earl Wildermuth's 1990 Wildermuth/Fleming Heritage](/docs/wildermuth-fleming-heritage-1990/).
 
 ## The Waterford home and the Unionville fire
 
@@ -62,8 +62,6 @@ Two newly placed photographs show Dottie at the center of the household she ran 
 
 - [The Wildermuth family portrait, mid-1960s](/archive/wildermuth-family-portrait-1960s/) &mdash; Dottie with Robert Earl and all four children: Terrie and Sandy as teenagers, Debbie school-age, Rob a toddler.
 - [Terrie's high school graduation in Japan, c. 1967](/archive/terrie-high-school-graduation-japan/) &mdash; Dottie in a pale jacket with a leaf brooch at the lapel, on the other side of her daughter from Robert Earl in dress blues. The diploma frame, the family at the end of the Japan years.
-
-Biography otherwise pending &mdash; she's a figure most fully seen here through her children's records and the photographs the family kept.
 
 ## The Unionville house fire
 

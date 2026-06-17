@@ -20,7 +20,7 @@ summary: "Born 8 May 1924 at 123 Franklin Street, Marietta, Ohio; died 25 June 1
 
 Robert Earl Wildermuth was born **8 May 1924, at home, at 123 Franklin Street in Marietta, Ohio**, to [Earl A. Wildermuth](/family/earl-a-wildermuth/) and [Sadye Irene (Fleming) Wildermuth](/family/sadye-fleming-wildermuth/) &mdash; the eldest of their five children, in the river town where the Wildermuth patriarch Johann Michael had set up shop as an immigrant shoemaker in the 1840s. He attended **Harmar Elementary School**, **graduated from Marietta High School in June 1942**, attended **Marietta College in the pre-med program**, then transferred. He flew combat missions out of Biak, Leyte, and Mindoro in 1944&ndash;45 as the navigator on a ten-man B-24 crew.
 
-After the war he came to **Stanford** on the GI Bill and earned his **Bachelor of Arts in Biological Sciences** &mdash; conferred on **October 1, 1948**, signed by President J. Wallace Sterling. The [diploma itself](/archive/robert-earl-wildermuth-stanford-ba-1948/) survives in the family's keeping. **The young portrait at the top of this entry is from his Stanford graduation day** &mdash; 1 October 1948, suit on, leaves behind him, the unmistakable post-war California light &mdash; the moment the first Stanford degree in the Wildermuth–Eesley line was conferred. The next Christmas, 1949, he and his fianc&eacute;e Dot sent out a [photo greeting](/archive/dot-and-bob-christmas-card-1949/) signed *"Love, Dot + Bob &mdash; 1949."*
+After the war he came to **Stanford** on the GI Bill and earned his **Bachelor of Arts in Biological Sciences** &mdash; conferred on **October 1, 1948**, signed by President J. Wallace Sterling. The [diploma itself](/archive/robert-earl-wildermuth-stanford-ba-1948/) survives in the family's keeping. **The young portrait at the top of this entry is from his Stanford graduation day** &mdash; 1 October 1948, suit on, leaves behind him, the unmistakable post-war California light &mdash; the moment the first Stanford degree in the Wildermuth–Eesley line was conferred. The next Christmas, 1949, he and his wife Dot sent out a [photo greeting](/archive/dot-and-bob-christmas-card-1949/) signed *"Love, Dot + Bob &mdash; 1949."*
 
 ![Robert Earl and Dorothy Davis at a club during their courtship in the 1940s.](../../assets/family/originals/74319512891__7D1F7DDB-77DB-431D-AF0E-F6C73DB8FF75.jpeg)
 
@@ -68,11 +68,11 @@ The third &mdash; UCF at age 48 &mdash; matched the medical-records second caree
 
 Charter memberships the obituary records: **Air Force Academy Athletic Association** and the **American Air Museum, England** &mdash; the museum at Duxford with its 8th and 5th Air Force veteran ties.
 
-He is survived in the obituary by his wife of 53 years **Dorothy Marie Davis Wildermuth** (whom he had married on **Easter Sunday, 20 April 1946**); their four children &mdash; [Terrie Lee Eesley](/family/terrie-lee-eesley/) of Marietta (Chuck's mother), [Sandra Sue Clement](/family/sandra-sue-wildermuth-clement/) of Atlanta, [Debra Jean Massaro](/family/debra-wildermuth/) of Pembroke, Virginia, and **Robert Earl Wildermuth Jr.** of Osprey, Florida; five grandchildren named in the document as **Charles Eric "Chuck" Eesley** (the keeper of this archive), Giancarlo Massaro, [Brianna Massaro](/family/briana-massaro-lockett/), and **Robert Earl Wildermuth III "Trey"** (the obituary lists five grandchildren but names four &mdash; the fifth either fell off the clipping or was omitted by the family who supplied the text); and **two sisters &mdash; [Norma Jean (Wildermuth) Gault](/family/norma-jean-wildermuth/) of Harbor Hills, Ohio, and [Betty Joan (Wildermuth) Haddox](/family/betty-joan-wildermuth/) of Newberry, Florida**. (The Gault and Haddox married surnames are the obituary's contribution to the record &mdash; the archive had been carrying the sisters by their birth surnames.)
+He is survived in the obituary by his wife of 53 years **Dorothy Marie Davis Wildermuth** (whom he had married on **Easter Sunday, 20 April 1946**); their four children &mdash; [Terrie Lee Eesley](/family/terrie-lee-eesley/) of Marietta (Chuck's mother), [Sandra Sue Clement](/family/sandra-sue-wildermuth-clement/) of Atlanta, [Debra Jean Massaro](/family/debbie-wildermuth/) of Pembroke, Virginia, and **Robert Earl Wildermuth Jr.** of Osprey, Florida; five grandchildren named in the document as **Charles Eric "Chuck" Eesley** (the keeper of this archive), Giancarlo Massaro, [Brianna Massaro](/family/briana-massaro-lockett/), and **Robert Earl Wildermuth III "Trey"** (the obituary lists five grandchildren but names four &mdash; the fifth either fell off the clipping or was omitted by the family who supplied the text); and **two sisters &mdash; [Norma Jean (Wildermuth) Gault](/family/norma-jean-wildermuth/) of Harbor Hills, Ohio, and [Betty Joan (Wildermuth) Haddox](/family/betty-joan-wildermuth/) of Newberry, Florida**. (The Gault and Haddox married surnames are the obituary's contribution to the record &mdash; the archive had been carrying the sisters by their birth surnames.)
 
 He was preceded in death by his brother [Carl Edward Wildermuth](/family/carl-edward-wildermuth/) and his sister [Ruth Irene (Wildermuth) Ridenour](/family/ruth-irene-wildermuth/).
 
-**Services were conducted 29 June 1999 at Venice Memorial Gardens, Venice, Florida.** He died about a year before [his youngest grandchild Robert Earl III's](/family/robert-earl-wildermuth-iii/) own first birthday, and sixteen years before [his grandson Chuck](/family/charles-eric-eesley/) joined the Stanford faculty that had granted him his first degree. The generational rhyme this archive was built to record &mdash; Stanford 1948 → Stanford c. 2010 &mdash; he didn't quite live to see the closing of.
+**Services were conducted 29 June 1999 at Venice Memorial Gardens, Venice, Florida.** He died about a year before [his youngest grandchild Robert Earl III's](/family/robert-earl-wildermuth-iii/) own first birthday, and sixteen years before [his grandson Chuck](/family/charles-eric-eesley/) joined the Stanford faculty that had granted him his first degree. The generational rhyme this archive was built to record &mdash; Stanford 1948 → Stanford c. 2014–2015 &mdash; he didn't quite live to see the closing of.
 
 
 
@@ -108,7 +108,7 @@ His leadership method, in his own words: *"I called all of my officer and non-co
 
 The squadron rose from 29th to 8th in the first quarter, to 3rd in the next, and eventually to #1 in the entire Far East, where it stayed for the rest of his tour. He won every Far East Communications Commander's Trophy there was to win, retiring some of them permanently to the squadron trophy case. He was promoted to Lieutenant Colonel below the zone of those normally eligible for promotion &mdash; the news announced at a Commanders' Conference Shtogren had flown his commanders to at Wheelus AFB in Tripoli, Libya, with Robert Earl's squadron adjutant calling from Japan to tell him through the wires.
 
-The rest of the daily work of the Itazuke communications command, 1965&ndash;67 &mdash; the squadron and group the photographs label the **1956th Communications Squadron** and the **348th Combat Support Group**:
+The rest of the daily work of the Itazuke communications command, 1965&ndash;67 &mdash; the squadron and group the photographs label the **1955th Communications Squadron** and the **348th Combat Support Group**:
 
 ![Major Wildermuth, Col Kennedy and SSgt Mitchell at the transmitter site.](../../assets/family/originals/00000002_00000028_00000029.jpeg)
 
@@ -177,12 +177,12 @@ Robert Earl is an anchor for seven of the ten threads in the [**Family threads**
 - **Thread #1 — Education as inheritance** — as the first Stanford BA in the family (1948 GI Bill), the generational rhyme this archive was built to record.
 - **Thread #2 — Patience and the long view** — as the eighteen-year (1971–1989) genealogical research arc that produced the [1990 Heritage](/docs/wildermuth-fleming-heritage-1990/).
 - **Thread #3 — Writing things down for the future** — his closing-of-the-manuscript line addressed to *"future genealogists"* is the operating motto of the whole archive.
-- **Thread #4 — Returning to the places that matter** — the November 1992 pilgrimage to Rielingshausen and Marbach is the founding instance.
+- **Thread #4 — Returning to the places that matter** — the November 1993 pilgrimage to Rielingshausen and Marbach is the founding instance.
 - **Thread #5 — Service, stewardship, and giving** — B-24 navigator → Stanford → Korea → Pentagon → lieutenant colonel; sustained military service across decades.
 - **Thread #8 — Place-and-language curiosity (Japan and China)** — the 1965–68 Itazuke posting that opened the family's three-generation Japan thread.
 - **Thread #9 — Crossing for what's next** — the 1948 Marietta → Stanford crossing, founding the *moving for education and career* instance of the lineage.
 
-> *Structured record: [Dale Eesley / FamilySearch — Robert Earl Wildermuth (GMLH-NYT)](https://www.familysearch.org/tree/person/details/GMLH-NYT).*
+> *Structured record: [FamilySearch — Robert Earl Wildermuth (GMLH-NYT)](https://www.familysearch.org/tree/person/details/GMLH-NYT).*
 
 ## Further reading
 

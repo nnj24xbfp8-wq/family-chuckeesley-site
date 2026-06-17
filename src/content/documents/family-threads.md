@@ -59,7 +59,7 @@ The lesson: the present generation owes a record to the next one, and the form t
 
 ## 4. Returning to the places that matter — pilgrimage as family form
 
-Robert Earl's [November 1992 pilgrimage to Rielingshausen and Marbach](/places/rielingshausen-town-square/) is the founding instance — he went back to the German villages the family had left in the 1840s and brought home photographs and a typed travelogue explaining what he had found. Twenty-six years later, [I went back to the same villages with Lijie](/places/rielingshausen-church/) and made the interior pictures Robert Earl had been intimidated out of making by the old cleaning woman. The same year we also did the [Hanwell and Old Stratford pass](/places/old-stratford-rother-street/) on the Eesley side — and in 2019, Lijie and I made the [three-frame echo at the Lingyin Temple gate in Hangzhou](/places/lingyin-temple-hangzhou/), where her parents had stood for their honeymoon in 1982. The [1965 Stanford family return visit](/places/stanford-university/) — Dottie and the four Wildermuth kids at the White Memorial Fountain — is an earlier instance of the same pattern, before any of us were old enough to formalize it.
+Robert Earl's [November 1993 pilgrimage to Rielingshausen and Marbach](/places/rielingshausen-town-square/) is the founding instance — he went back to the German villages the family had left in the 1840s and brought home photographs and a typed travelogue explaining what he had found. Twenty-six years later, [I went back to the same villages with Lijie](/places/rielingshausen-church/) and made the interior pictures Robert Earl had been intimidated out of making by the old cleaning woman. The same year we also did the [Hanwell and Old Stratford pass](/places/old-stratford-rother-street/) on the Eesley side — and in 2019, Lijie and I made the [three-frame echo at the Lingyin Temple gate in Hangzhou](/places/lingyin-temple-hangzhou/), where her parents had stood for their honeymoon in 1982. The [1965 Stanford family return visit](/places/stanford-university/) — Dottie and the four Wildermuth kids at the White Memorial Fountain — is an earlier instance of the same pattern, before any of us were old enough to formalize it.
 
 The archive's entire "then-and-now pair" structure — every place page in the `places/` collection holds a `pairs` block in its schema for exactly this — is the architectural expression of this thread. Returning to places is what the family does; the archive simply made the practice into a data field.
 
@@ -236,7 +236,7 @@ The threads above are what the family has actually been passing down. The archiv
 
 ## 四、回到那些有分量的地方 —— 把"朝圣"当作家族形式
 
-我外祖父 [1992年11月对里林斯豪森和马尔巴赫的朝圣](/places/rielingshausen-town-square/) 是这条线索的奠基事件 &mdash; 他回到了一百多年前家族离开的那两个德国小镇，带回了照片，也带回了一份打字记下的"回去看看"游记。二十六年后，[我和丽婕回到同样的村庄](/places/rielingshausen-church/)，把我外祖父当年被那位执勤的老太太吓退的那张教堂内景，补拍了。同一年，我们也在伊斯利一侧完成了 [汉韦尔和老斯特拉特福的回访](/places/old-stratford-rother-street/)；2019年，我和丽婕在 [杭州灵隐寺的山门前](/places/lingyin-temple-hangzhou/) 拍下了与1982年丽婕父母亲蜜月照同一构图的合影 &mdash; 三代人，同一道门。再往前看，1965年我外祖母多蒂带着她的四个孩子 [在斯坦福校园返访](/places/stanford-university/)，在白氏纪念喷泉前合影 &mdash; 那是同一模式更早的一例，那时候我们这一辈还没出生。
+我外祖父 [1993年11月对里林斯豪森和马尔巴赫的朝圣](/places/rielingshausen-town-square/) 是这条线索的奠基事件 &mdash; 他回到了一百多年前家族离开的那两个德国小镇，带回了照片，也带回了一份打字记下的"回去看看"游记。二十六年后，[我和丽婕回到同样的村庄](/places/rielingshausen-church/)，把我外祖父当年被那位执勤的老太太吓退的那张教堂内景，补拍了。同一年，我们也在伊斯利一侧完成了 [汉韦尔和老斯特拉特福的回访](/places/old-stratford-rother-street/)；2019年，我和丽婕在 [杭州灵隐寺的山门前](/places/lingyin-temple-hangzhou/) 拍下了与1982年丽婕父母亲蜜月照同一构图的合影 &mdash; 三代人，同一道门。再往前看，1965年我外祖母多蒂带着她的四个孩子 [在斯坦福校园返访](/places/stanford-university/)，在白氏纪念喷泉前合影 &mdash; 那是同一模式更早的一例，那时候我们这一辈还没出生。
 
 整个档案的 "今与昔成对照" 结构 &mdash; `places/` 集合里每一个地点页面在数据架构里都有一个 `pairs` 字段，正是为这件事而设的 &mdash; 是这条线索在网站架构上的表达。回到那些地方是这家族在做的事；档案不过是把这件事固化为一个数据字段而已。
 
@@ -330,7 +330,7 @@ The threads above are what the family has actually been passing down. The archiv
 
 档案里还有一个有意思的反向案例。我母亲 [特丽](/family/terrie-lee-eesley/) 自己的童年就是被父亲的空军职业不停地搬来搬去 &mdash; 她有意识地选择留在玛丽埃塔，让她的儿子（也就是我）能够用她自己的话说 &mdash; *"有一组从小一起长大的朋友。"* 跨越的冲动其实是双向的：有时候，你对它的回应方式，正是为下一代人主动拒绝它。这种拒绝本身，也是一种迁徙的姿态。
 
-把整条线索串起来的有两点。第一，档案中每一次被点名的跨越，都是奔着一个具体的机会去的 &mdash; 一座面粉厂、一个学位、一个战时避难所、一个驻地任命、一桩婚姻 &mdash; 不是为了浪游本身。第二，跨越的冲动和朝圣的冲动不是相互冲突的。档案里每一代都做了一次向前的跨越，而下一代都回去致敬：约翰·迈克尔离开了符腾堡，外祖父罗伯特·厄尔1992年回到里林斯豪森，我和丽婕2018年又回去了一次。伊斯利一家离开了斯特拉特福；丽婕和我2018年回到汉韦尔和老斯特拉特福地址。丽婕离开了青岛；我们一起回到了她小学的栅栏前，回到了杭州她父母亲蜜月时去过的那座寺庙。*向前的跨越，和回头的朝圣，是同一种家族实践。*
+把整条线索串起来的有两点。第一，档案中每一次被点名的跨越，都是奔着一个具体的机会去的 &mdash; 一座面粉厂、一个学位、一个战时避难所、一个驻地任命、一桩婚姻 &mdash; 不是为了浪游本身。第二，跨越的冲动和朝圣的冲动不是相互冲突的。档案里每一代都做了一次向前的跨越，而下一代都回去致敬：约翰·迈克尔离开了符腾堡，外祖父罗伯特·厄尔1993年回到里林斯豪森，我和丽婕2018年又回去了一次。伊斯利一家离开了斯特拉特福；丽婕和我2018年回到汉韦尔和老斯特拉特福地址。丽婕离开了青岛；我们一起回到了她小学的栅栏前，回到了杭州她父母亲蜜月时去过的那座寺庙。*向前的跨越，和回头的朝圣，是同一种家族实践。*
 
 教诲是：当"下一步"不在你现在所在的地方时，去 &mdash; 然后保证下一代里有人知道你是从哪里来的，这样他们才能替你也替他们自己，回去看看那个地方。
 

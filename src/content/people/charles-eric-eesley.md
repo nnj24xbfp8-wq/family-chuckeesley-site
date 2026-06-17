@@ -74,4 +74,4 @@ Chuck is an anchor for seven of the ten threads in the [Family threads](/docs/fa
 - Thread #9 — Crossing for what's next — Marietta → Duke → MIT → Stanford, three crossings in fifteen years.
 - Thread #10 — Building things (entrepreneurship) — the meta-instance: research field is *entrepreneurship itself*, the family's habit-become-the-family's-research-program.
 
-> *Structured record: [Dale Eesley / FamilySearch &mdash; Charles Eric Eesley (GMLW-PXW)](https://www.familysearch.org/tree/person/details/GMLW-PXW).*
+> *Structured record: [FamilySearch &mdash; Charles Eric Eesley (GMLW-PXW)](https://www.familysearch.org/tree/person/details/GMLW-PXW).*

@@ -29,7 +29,7 @@ She and Dorothy started school together at the **Unionville Grade School** in so
 
 Mary's married surname surfaces in print only at the end of her sisters' obituaries. **[Dorothy's 2010 obituary](/family/dorothy-davis-wildermuth/)** spells the name **Murdoch**. **[Betty's 2015 obituary](/docs/betty-jean-wolfe-obituary-2015/)** spells the same name **Murdock**. Newspaper transcription accounts for most of the discrepancy &mdash; both spellings appear in 20th-century American records as variants of the same Scottish-derived surname.
 
-Mary's husband's first name and the date and location of the marriage are not in this archive. He is not the Cpl. **[Jesse Murdoch](/family/jesse-murdoch/)** from Tyler, Texas who was tail gunner on Robert Earl's B-24 crew &mdash; that is a separate Murdoch, in the paternal-line crew record, presumably unrelated.
+Mary's husband's first name and the date and location of the marriage are not in this archive. He is not the Cpl. **[Jesse Murdoch](/family/jesse-murdoch/)** from Tyler, Texas who was tail gunner on Robert Earl's B-24 crew &mdash; that is a separate Murdoch, in the maternal-line crew record, presumably unrelated.
 
 ## Death before 2010
 
