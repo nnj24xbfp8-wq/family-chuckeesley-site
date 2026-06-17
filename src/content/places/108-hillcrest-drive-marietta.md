@@ -96,8 +96,36 @@ Across decades, a quiet practical-care kind of Christianity ran out of this kitc
 
 Five small Ohio-river-town addresses inside walking distance of each other, holding most of the family geography of Chuck's first decades.
 
+## The photographs
+
+Six frames document the house across five decades.
+
+### Norm and Betty Wolfe at Thanksgiving, 2011
+
+![Norm and Betty Wolfe at Thanksgiving Day 2011 at 108 Hillcrest Drive — the last documented holiday photograph of them together in the house. ([artifact page](/archive/norm-betty-wolfe-thanksgiving-2011/))](../../assets/family/originals/00000006_00000005_00000006.jpeg)
+
+### Norm with his three daughters at the brick fireplace, 1960s
+
+![Norm Wolfe with his three daughters at the Hillcrest brick fireplace, 1960s. ([artifact page](/archive/family-at-fireplace-1960s/))](../../assets/family/originals/00000004_00000017_00000018.jpeg)
+
+### Family group in the living room with the bookshelves
+
+![Family group in the living room at 108 Hillcrest Drive with Betty's bookshelves behind them. ([artifact page](/archive/family-group-bookshelf-living-room/))](../../assets/family/originals/IMG_4445.jpeg)
+
+### Young Chuck with his parents on the back porch
+
+![Young Chuck on the 108 Hillcrest back porch with his parents Charlie and Terrie. ([artifact page](/archive/young-chuck-with-parents-on-hillcrest-porch/))](../../assets/family/originals/00000005_00000015_00000016.jpeg)
+
+### Wildermuth grandparents arrive from Orlando
+
+![Chuck with his mother Terrie and his Wildermuth grandparents Robert Earl and Dottie, who had just driven up from Orlando, in the Hillcrest driveway. ([artifact page](/archive/wildermuth-grandparents-drove-up-from-orlando/))](../../assets/family/originals/00000005_00000027_00000028.jpeg)
+
+### Young Chuck on the couch with a sprained arm
+
+![Young Chuck on the couch at Hillcrest with what appears to be a sprained arm in a cast — one of the sick-day visits the page describes. ([artifact page](/archive/young-chuck-with-cast-at-hillcrest/))](../../assets/family/originals/00000004_00000022_00000023.jpeg)
+
 ## A pilgrimage photograph
 
-The interior frames in the visit gallery above carry the room across fifty years. An exterior photograph of the house from the street — in the tradition of the [c. 2026 Google Street View capture of 413 Harmar Street](/places/413-harmar-street-marietta/) and the [Mid-Ohio Valley MLS exterior of 651 Sixth Street](/archive/651-sixth-street-marietta-mls-exterior/) — would round out the visual record on the maternal-Wolfe side. The Washington County property record would identify the current owner and the current condition.
+The interior frames above carry the room across fifty years. An exterior photograph of the house from the street — in the tradition of the [c. 2026 Google Street View capture of 413 Harmar Street](/places/413-harmar-street-marietta/) and the [Mid-Ohio Valley MLS exterior of 651 Sixth Street](/archive/651-sixth-street-marietta-mls-exterior/) — would round out the visual record on the maternal-Wolfe side. The Washington County property record would identify the current owner and the current condition.
 
 > *Sources: family memory transmitted by Chuck Eesley 2026; [Betty Wolfe's 2015 Marietta Times obituary](/docs/betty-jean-wolfe-obituary-2015/); [Norm Wolfe's 2015 Marietta Times obituary](/docs/norman-graham-wolfe-obituary-2015/); the [2011 Thanksgiving photograph](/archive/norm-betty-wolfe-thanksgiving-2011/) labeled by Chuck.*

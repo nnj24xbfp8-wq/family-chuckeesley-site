@@ -127,7 +127,33 @@ This place sits with the other Marietta Eesley addresses, **the four anchors of 
 
 ## The photographic record this page now holds
 
-The visits gallery above is the **first substantial photographic record of Highland Ridge** this archive has been able to assemble &mdash; nine frames spanning from the late 1970s through the early 1990s. Together they document the **bridge** (in winter snow, in summer family group with Will + Charlie + Terrie + Aunt Sandy, in mid-construction with Will and his shovel), **the house itself** (from above in autumn, from the driveway in winter), **the interior** (Charlie in front of the stone fireplace, young Chuck in front of the Chinese mountain-and-river mural), **the pond** (with young Chuck standing on the frozen surface of the same pond he had broken through as a smaller boy), and **a large family group** still queued for full cast identification. The frames are mostly Kodachrome, mostly Will's photography, with a c. 1980 summer-bridge frame likely Peggy's and the c. 1990&ndash;95 frozen-pond frame likely Charlie's; the photographic record threads through three generations of family camera-work at the same property.
+Six frames span from the late 1970s through the mid-1980s &mdash; the **first substantial photographic record of Highland Ridge** this archive has been able to assemble.
+
+### Will Eesley on the John Deere
+
+![Will Eesley on the John Deere tractor on the Highland Ridge property — the same tractor that flipped on Charlie in the eulogy story. ([artifact page](/archive/will-eesley-on-john-deere/))](../../assets/family/originals/00000000_00000026_00000027.jpeg)
+
+### The small red bridge in winter
+
+![The small red wooden bridge Will built across the pond at Highland Ridge, in winter snow, c. 1978–1980. ([artifact page](/archive/highland-ridge-red-bridge-winter/))](../../assets/family/originals/bridge_highland_ridge.jpeg)
+
+### Will, Peggy, Charlie, and Terrie at the stone fireplace
+
+![Will, Peggy, Charlie, and Terrie at the Highland Ridge stone fireplace, c. 1980 — interior of the house Will designed. ([artifact page](/archive/will-peggy-charlie-terrie-highland-ridge-fireplace/))](../../assets/family/originals/will-peggy-charlie-terrie-highland-ridge-fireplace-c1980.jpeg)
+
+### Terrie reading Star Wars to Chuck
+
+![Terrie reading Star Wars to young Chuck, c. 1983–84, at Highland Ridge. ([artifact page](/archive/terrie-reading-to-chuck-c1984/))](../../assets/family/originals/00000001_00000018_00000019.jpeg)
+
+### Charles Leonard Eesley extended-family reunion
+
+![Charles Leonard Eesley extended-family reunion at Highland Ridge, c. 1980 — twelve people with five of Charles Leonard's eight children together, spouses, and the next generation. ([artifact page](/archive/highland-ridge-family-group-portrait-c-1980/))](../../assets/family/originals/00000004_00000047_00000048.jpeg)
+
+### Extended Eesley family gathering, c. 1985–1986
+
+![Extended Eesley family gathering outdoors at Highland Ridge, c. 1985–1986 — Will, Peggy, and several of the next generation. ([artifact page](/archive/eesley-family-gathering-c-1985-1986/))](../../assets/family/originals/00000000_00000022_IMG_0022.jpeg)
+
+Together they document the **bridge** (in winter snow), **the property** (Will on the John Deere), **the interior** (the family of four at the stone fireplace, Terrie reading to Chuck), **the family** (Charles Leonard's reunion and the mid-1980s gathering). The frames are mostly Kodachrome, mostly Will's photography, with a c. 1980 summer-bridge frame likely Peggy's and the c. 1990&ndash;95 frozen-pond frame likely Charlie's; the photographic record threads through three generations of family camera-work at the same property.
 
 **A more recent pilgrimage photograph** &mdash; in the tradition of [Robert Earl and Sandra's 1993 trip to Rielingshausen](/places/rielingshausen-church/) and the [c. 2026 Google Street View capture of 413 Harmar Street](/places/413-harmar-street-marietta/) on the maternal side &mdash; would deepen the layer further. The house may still stand under different ownership; the Highland Ridge address itself would be findable through Washington County, Ohio property records.
 
