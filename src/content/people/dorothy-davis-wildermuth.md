@@ -18,7 +18,7 @@ portrait: ../../assets/family/originals/dorothy-davis-c1941-portrait.jpeg
 summary: "Wife of Robert Earl Wildermuth. Born 11:15 AM, 24 February 1925, in Waterford Township, Washington County, Ohio, to truck driver Homer Edward Davis and Bessie Marie (Hill) Davis. Middle Davis sister of three — older sister Mary, younger sister Betty. Lost the Davis family home in a fire while still a child at Unionville, Ohio; lived through the cold winter that followed in a one-room garage with her parents and a small shed with her sisters. Graduated Marietta High School June 1943. Worked as bookkeeper at Citizen's Bank in Marietta. Married Robert Earl Wildermuth 20 April 1946. Mother of Terrie Lee, Sandra Sue, Robert Jr., and Debra. Followed Robert Earl through Air Force postings across Florida, California, Oklahoma, Ohio, Colorado, Texas, Maryland, and Japan. Died 5 March 2010 in Brookhaven, Georgia, age 85."
 ---
 
-Dorothy Marie Davis was born at 11:15 a.m. on 24 February 1925 in Waterford Township, Washington County, Ohio, daughter of [Homer Edward Davis](/family/homer-davis/) (then twenty-five, a truck driver) and [Bessie Marie (Hill) Davis](/family/bessie-hill-davis/) (then nineteen). She was the second of three Davis sisters — older sister Mary (b. ~1923) and younger sister Betty (b. ~1926). Her birth certificate, registered 10 May 1925 by H. S. Dickson, is one of the documents reproduced in [Robert Earl Wildermuth's 1990 Wildermuth/Fleming Heritage](/docs/wildermuth-fleming-heritage-1990/).
+Dorothy Marie Davis was born at 11:15 a.m. on 24 February 1925 in Waterford Township, Washington County, Ohio, daughter of [Homer Edward Davis](/family/homer-davis/) (then twenty-five, a truck driver) and [Bessie Marie (Hill) Davis](/family/bessie-hill-davis/) (then nineteen). She was the second of three Davis sisters — older sister Mary (b. 17 January 1924) and younger sister Betty (b. ~1926). Her birth certificate, registered 10 May 1925 by H. S. Dickson, is one of the documents reproduced in [Robert Earl Wildermuth's 1990 Wildermuth/Fleming Heritage](/docs/wildermuth-fleming-heritage-1990/).
 
 ## The Waterford home and the Unionville fire
 
@@ -30,7 +30,7 @@ Dorothy was still a child. She and Mary started school at Unionville Grade Schoo
 
 ## A portrait, c. 1941
 
-A studio portrait of Dorothy as a Marietta High School student, c. 1941, arrived in this archive in June 2026. She is **about sixteen** &mdash; in a dark sweater with a lace-edged peter-pan collar, a small oval pendant on a chain at her throat, hair curled and pulled to a soft side-bow. The smile is direct and warm; the sepia-toned print is the kind of formal school-or-studio frame a Marietta family would have sat their daughter for in the early war years.
+A studio portrait of Dorothy as a Marietta High School student, c. 1941, arrived in this archive in June 2026. She is about sixteen &mdash; in a dark sweater with a lace-edged peter-pan collar, a small oval pendant on a chain at her throat, hair curled and pulled to a soft side-bow. The smile is direct and warm; the sepia-toned print is the kind of formal school-or-studio frame a Marietta family would have sat their daughter for in the early war years.
 
 ![Dorothy Davis, c. 1941 — Marietta High School portrait, about age sixteen.](../../assets/family/originals/dorothy-davis-c1941-portrait.jpeg)
 
@@ -62,8 +62,6 @@ Two newly placed photographs show Dottie at the center of the household she ran 
 
 - [The Wildermuth family portrait, mid-1960s](/archive/wildermuth-family-portrait-1960s/) &mdash; Dottie with Robert Earl and all four children: Terrie and Sandy as teenagers, Debbie school-age, Rob a toddler.
 - [Terrie's high school graduation in Japan, c. 1967](/archive/terrie-high-school-graduation-japan/) &mdash; Dottie in a pale jacket with a leaf brooch at the lapel, on the other side of her daughter from Robert Earl in dress blues. The diploma frame, the family at the end of the Japan years.
-
-Biography otherwise pending &mdash; she's a figure most fully seen here through her children's records and the photographs the family kept.
 
 ## The Unionville house fire
 
@@ -104,9 +102,9 @@ The **Marietta Times obituary** (Section A, Page 6, weekend of 13&ndash;14 March
 
 > *"ATLANTA, Ga. &mdash; Dorothy 'Dot' Marie (Davis) Wildermuth, 85, died at 4:30 p.m. Friday, March 5, 2010, at the UniHealth Care Center in Brookhaven, Ga."*
 
-The place of death is the **UniHealth Care Center** in Brookhaven, Georgia &mdash; the senior-care facility near Atlanta where she had been living near her daughter [Sandra Sue Clement](/family/sandra-sue-wildermuth-clement/). The 4:30 p.m. Friday timestamp is the specific moment the obituary records. The obituary identifies her, importantly, as **the second daughter of Homer Edward Davis and Bessie Marie (Hill) Davis** &mdash; the documentary confirmation of her middle-Davis-sister birth order [Robert Earl had recorded in 1990](/docs/wildermuth-fleming-heritage-1990/) and that the [c. 1929 Davis sisters photograph](/archive/davis-sisters-three-mary-dorothy-betty-c-1929/) shows.
+The place of death is the UniHealth Care Center in Brookhaven, Georgia &mdash; the senior-care facility near Atlanta where she had been living near her daughter [Sandra Sue Clement](/family/sandra-sue-wildermuth-clement/). The 4:30 p.m. Friday timestamp is the specific moment the obituary records. The obituary identifies her as the second daughter of Homer Edward Davis and Bessie Marie (Hill) Davis &mdash; the documentary confirmation of her middle-Davis-sister birth order [Robert Earl had recorded in 1990](/docs/wildermuth-fleming-heritage-1990/) and that the [c. 1929 Davis sisters photograph](/archive/davis-sisters-three-mary-dorothy-betty-c-1929/) shows.
 
-The career sequence the obituary gives in order matches and refines [the memorial program's](/archive/dorothy-wildermuth-memorial-program-2010/) panel: **bookkeeper at Citizen's Bank Marietta → Hoover Library at Stanford University → Maitland Public Library, Maitland, FL → Southeast Bank of Orlando, FL**. The Hoover Library job is named explicitly here in print &mdash; in addition to the [Robert Earl memoir mention](/docs/robert-earl-wildermuth-memoir/).
+The career sequence the obituary gives in order matches and refines [the memorial program's](/archive/dorothy-wildermuth-memorial-program-2010/) panel: bookkeeper at Citizen's Bank Marietta → Hoover Library at Stanford University → Maitland Public Library, Maitland, FL → Southeast Bank of Orlando, FL. The Hoover Library job is named explicitly here in print &mdash; in addition to the [Robert Earl memoir mention](/docs/robert-earl-wildermuth-memoir/).
 
 She "attended the Methodist Church, and loved to spend time with her family. She enjoyed singing, square dancing, quilting and other needlework."
 

@@ -39,23 +39,23 @@ That puts Maggie's visit around 1961–62, with Stella and Ted then in their own
 
 > *"Stella is a mystery to me. No one is alive who remembers exactly how she became part of the family. She may have joined the scene after [Lyle](/family/lyle-eesley/) died ... I think that's possible. Mom said Stella lived with the Eesleys in the family home in Bexley (they often took in boarders) until sometime in the 50s. When Stella left, all the other Eesley kids had grown and gone, and Grandpa fell into a deep depression. That is pretty much all I know. Except when Grandpa died in the early 70s, we got flowers from Hawaii that must have been from Stella and her family."*
 
-Three quietly devastating pieces in that account: that Charles Leonard fell into depression when Stella left; that the Chongs sent flowers from Hawaii when Charles died around 1972; and that Roberta's collection of 1940s letters &mdash; possibly the only direct documentary trace of how Stella came to the household &mdash; sits unread because the handwriting hasn't been deciphered.
+Three quietly devastating pieces in that account: that Charles Leonard fell into depression when Stella left; that the Chongs sent flowers from Hawaii when Charles died around 1972; and that the family's 1940s letter collection &mdash; possibly the only direct documentary trace of how Stella came to the household &mdash; sits unread because the handwriting hasn't been deciphered.
 
-Roberta added the specific flower in a June 2026 email:
+A June 2026 follow-up added the specific flower:
 
-> *"I remember so well the Hawaiian flowers they sent for Grandpa's memorial. I had never seen anything like them, **Anthurium** I think is what they are called."*
+> *"I remember so well the Hawaiian flowers they sent for Grandpa's memorial. I had never seen anything like them, Anthurium I think is what they are called."*
 
-The detail is precise and tender: **anthurium**, the heart-shaped tropical bloom in vivid red or pink with a yellow center spadix, native to Central and South America but commercially grown in Hawaii throughout the twentieth century and a signature of Hawaiian floral arrangements. A 12-year-old Roberta in central Ohio in October 1972 had never seen them; the Chongs, sending memorial flowers across the Pacific to a Bexley funeral, sent the flower their adopted Hawaiian home grew best. Thirty years before Roberta would meet them, the family had already become permanent in central Ohio's flower memory.
+The detail is precise and tender: anthurium, the heart-shaped tropical bloom in vivid red or pink with a yellow center spadix, native to Central and South America but commercially grown in Hawaii throughout the twentieth century and a signature of Hawaiian floral arrangements. A nine-year-old Roberta in central Ohio in October 1972 had never seen them; the Chongs, sending memorial flowers across the Pacific to a Bexley funeral, sent the flower their adopted Hawaiian home grew best. Thirty years before Roberta would meet them, the family had already become permanent in central Ohio's flower memory.
 
 ## Roberta's photo collection of Stella — a queued resource
 
-In the same June 2026 email, Roberta surfaced a major undocumented resource:
+A second thread in the same exchange surfaced a major undocumented resource still in the family's keeping:
 
 > *"I have so many photos of Stella, her wedding, her children and parents. I would love to know what became of that family."*
 
-A **substantial collection of Stella photographs** &mdash; including her **wedding to [Ted Chong](/family/ted-chong/)**, photographs of **her children [SueLynn](/family/suelynn-chong/) and [Glenn](/family/glenn-chong/)**, and photographs of **her parents [Koon Hung Sunn](/family/koon-hung-sunn/) and [Mabel Lee Sunn](/family/mabel-lee-sunn/)** &mdash; sits in Roberta's keeping. None of it has been digitized into this archive yet. When it surfaces, it will be the single largest expansion of the Stella visual record in the family's holdings.
+A substantial collection of Stella photographs &mdash; including her wedding to [Ted Chong](/family/ted-chong/), photographs of her children [SueLynn](/family/suelynn-chong/) and [Glenn](/family/glenn-chong/), and photographs of her parents [Koon Hung Sunn](/family/koon-hung-sunn/) and [Mabel Lee Sunn](/family/mabel-lee-sunn/) &mdash; sits in family keeping. None of it has been digitized into this archive yet. When it surfaces, it will be the single largest expansion of the Stella visual record in the family's holdings.
 
-Roberta has also flagged that she will ask **[Lyle Stuart Eesley](/family/lyle-stuart-eesley/)** (Don Eesley's son, b. 1948) whether he has any memory of Stella's connection to the Eesleys &mdash; another open thread for the [reconstruction](/family/stella/) the rest of this page describes.
+Another open thread: [Lyle Stuart Eesley](/family/lyle-stuart-eesley/) (Don Eesley's son, b. 1948) may carry his own family-memory layer on Stella's arrival in the Bexley household — to be asked.
 
 ## What the family remembers — earlier framing
 
@@ -63,7 +63,7 @@ The story-as-told that this archive originally seeded with came from Aunt Jeanne
 
 > *"Stella was a girl from Hawaii and I think she might have been from a mixed parentage (Chinese & Japanese). At any rate she was in danger of being incarcerated in the concentration camps in the west during World War II. So grandpa Eesley brought her over to live with them during the war and she became part of the family at that time. She later married to Dr. Ted Chong and they had two children &mdash; SueLynn and I forget what the boy's name was. But they used to send us macadamia nuts and toasted coconut cans from Hawaii before they were ever popular here and it was so fun to get those packages. They later moved to Philadelphia and were divorced."*
 
-The 2019 thread sharpens this in two places: Maggie's first-hand correction &mdash; **"They were Chinese, not Japanese"** &mdash; aligns with the FamilySearch record of Stella's parents as Chinese-American Hawaiians. Roberta adds the **Bexley, Ohio** address and the timing window: Stella lived in the Eesley home into the 1950s, then left, then sometime later Charles Leonard's grief reset the household.
+The 2019 thread sharpens this in two places: Maggie's first-hand correction &mdash; *"They were Chinese, not Japanese"* &mdash; aligns with the FamilySearch record of Stella's parents as Chinese-American Hawaiians. The Bexley, Ohio address and the timing window come from the 2026 thread &mdash; Stella lived in the Eesley home into the 1950s, then left, and sometime later Charles Leonard's grief reset the household.
 
 ## The most likely reconstruction — Honolulu → Manila → Gripsholm → Bexley
 
@@ -79,53 +79,53 @@ Stella's documented arrival in the Eesley home at age 17-18 (so c. 1942-43) and 
 
 The chain &mdash; **Honolulu → Manila → Santo Tomas Internment Camp → MS Gripsholm exchange voyage → New York → Bexley** &mdash; fits the geography, the timing, the citizenship status, and the family-memory "boat from Manila" trace. It is the best-supported single reconstruction with the documentary record currently in hand.
 
-**It is also a hypothesis, not a conclusion.** The single most consequential undeciphered source is **[Roberta Burnes Walker's collection of Charles Leonard's 1940s letters](/family/roberta-burnes/)** &mdash; the original correspondence from exactly this period, in Charles Leonard's hand. If the letters carry a reference to a placement agency, a Gripsholm passenger, a Manila-evacuated American civilian, or the specific channel by which Stella's name reached the Eesley household, they would settle the open leg of this story. Reading them is the path forward.
+It is also a hypothesis, not a conclusion. The single most consequential undeciphered source is [the Burnes family's collection of Charles Leonard's 1940s letters](/family/roberta-burnes/) &mdash; the original correspondence from exactly this period, in Charles Leonard's hand. If the letters carry a reference to a placement agency, a Gripsholm passenger, a Manila-evacuated American civilian, or the specific channel by which Stella's name reached the Eesley household, they would settle the open leg of this story. Reading them is the path forward.
 
 ## After
 
-After the war Stella married **[Dr. Ted Wah Sing Chong](/family/ted-chong/)**, also of Honolulu. They had two children, **[Sue Lin / SueLynn](/family/suelynn-chong/)** and **[Glenn](/family/glenn-chong/)**. They settled eventually in the Philadelphia area &mdash; Aunt Jeanne and Aunt Maggie both visited them at their home on the East Coast in the 1960s. The Chongs sent **macadamia nuts and toasted-coconut cans back to Ohio**, food from Hawaii that the Eesleys could not yet buy where they lived. The packages went to multiple Eesley households &mdash; Helen Burnes received macadamia nuts from Stella too, and they were Helen's absolute favorite. The shipments were Stella's small ongoing thread back into the Eesley household across decades, the perishable, mailable equivalent of staying in touch. Stella and Ted later divorced; Ted remarried Janice and would live until 2013.
+After the war Stella married [Dr. Ted Wah Sing Chong](/family/ted-chong/), also of Honolulu. They had two children, [Sue Lin / SueLynn](/family/suelynn-chong/) and [Glenn](/family/glenn-chong/). They settled eventually in the Philadelphia area &mdash; Aunt Jeanne and Aunt Maggie both visited them at their home on the East Coast in the 1960s. The Chongs sent macadamia nuts and toasted-coconut cans back to Ohio, food from Hawaii that the Eesleys could not yet buy where they lived. The packages went to multiple Eesley households &mdash; Helen Burnes received macadamia nuts from Stella too, and they were Helen's absolute favorite. The shipments were Stella's small ongoing thread back into the Eesley household across decades, the perishable, mailable equivalent of staying in touch. Stella and Ted later divorced; Ted remarried Janice and would live until 2013.
 
 ### Open question &mdash; did Stella leave Ohio earlier than the 1950s?
 
-The working timeline this archive carries has Stella living with the Eesleys in Bexley *"until sometime in the 50s."* But the wedding date, the move back to Hawaii, and the Ancestry-side records of her adult life suggest she may have left Ohio earlier than that. If Stella married Ted in the late 1940s &mdash; and the [Bradford Bachrach portrait above](#) is c. late 1940s on East-Coast stationery &mdash; she could have been on the East Coast earlier than the family memory has held. **The exact year Stella's residence shifted from Bexley to the East Coast and then to Hawaii is open.** What is documented: she was alive and in the Eesley family's life through her death in February 1971, and Charles Leonard fell into a deep depression at some point in the years before his own death in the early 1970s.
+The working timeline this archive carries has Stella living with the Eesleys in Bexley *"until sometime in the 50s."* But the wedding date, the move back to Hawaii, and the Ancestry-side records of her adult life suggest she may have left Ohio earlier than that. If Stella married Ted in the late 1940s &mdash; and the Bradford Bachrach portrait below is c. late 1940s on East-Coast stationery &mdash; she could have been on the East Coast earlier than the family memory has held. The exact year Stella's residence shifted from Bexley to the East Coast and then to Hawaii is open. What is documented: she was alive and in the Eesley family's life through her death in February 1971, and Charles Leonard fell into a deep depression at some point in the years before his own death in the early 1970s.
 
 She appears in the [family group portrait taken at Charles and Lillie Dale's home in Bexley](/archive/eesley-family-group-portrait-late-1940s/) standing beside Ted, with Uncle Will in front. That photograph and her early death in 1971 bracket roughly twenty-five years of her adult life inside this family. She had been part of the family for close to thirty years when she died.
 
 ## The Stella photographs — first major batch, June 2026
 
-Roberta Burnes Walker began sending photographs of Stella in June 2026 &mdash; the first substantial expansion of Stella's visual record in this archive. The first batch contains **six photographs spanning roughly twenty years of her adult life**:
+A first substantial batch of Stella photographs arrived in June 2026 from the Burnes side of the family &mdash; the largest single expansion of Stella's visual record in this archive. The first batch contains **seven photographs spanning roughly twenty years of her adult life**:
 
 ### Formal studio portrait — Bradford Bachrach, c. late 1940s
 
-A **Bradford Bachrach** formal studio portrait of Stella in her early-to-mid twenties &mdash; soft three-quarter lighting against a neutral backdrop, hair waved in the late-1940s/early-1950s style, an off-the-shoulder dark satin dress with a fitted bodice and ruffled neckline. The portrait is **signed *"Bradford Bachrach"*** in gold along the lower right edge &mdash; the New York and Philadelphia portrait-studio chain famous for high-end society and presidential portraits of the mid-twentieth century. The Bradford Bachrach commission marks Stella's late-1940s East-Coast life: a formal portrait of the Bexley-raised Hawaiian-American young woman taken at the kind of prestige studio that the Eesleys' adopted daughter was photographed at, like any of the Eesley-side daughters by birth.
+A Bradford Bachrach formal studio portrait of Stella in her early-to-mid twenties &mdash; soft three-quarter lighting against a neutral backdrop, hair waved in the late-1940s/early-1950s style, an off-the-shoulder dark satin dress with a fitted bodice and ruffled neckline. The portrait is signed *"Bradford Bachrach"* in gold along the lower right edge &mdash; the New York and Philadelphia portrait-studio chain famous for high-end society and presidential portraits of the mid-twentieth century. The Bradford Bachrach commission marks Stella's late-1940s East-Coast life: a formal portrait of the Bexley-raised Hawaiian-American young woman taken at the kind of prestige studio that the Eesleys' adopted daughter was photographed at, like any of the Eesley-side daughters by birth.
 
 ![Stella, Bradford Bachrach studio portrait, c. late 1940s.](../../assets/family/originals/stella-bradford-bachrach-studio-portrait-c1948.jpeg)
 
 ### Stella as a young woman on the lawn, c. 1942
 
-A relaxed outdoor portrait of Stella sitting on grass in a polka-dot or check-pattern day dress with puffed sleeves. She is **late teens to about twenty**, smiling broadly into the camera, dark hair shoulder-length and curled in the period style. The dress and hair place the frame at **c. 1941-1943** &mdash; almost certainly **the first year or two of her time in the Bexley Eesley household**.
+A relaxed outdoor portrait of Stella sitting on grass in a polka-dot or check-pattern day dress with puffed sleeves. She is late teens to about twenty, smiling broadly into the camera, dark hair shoulder-length and curled in the period style. The dress and hair place the frame at c. 1941-1943 &mdash; almost certainly the first year or two of her time in the Bexley Eesley household.
 
 ![Stella as a young woman, c. 1942 &mdash; almost certainly during her first year or two with the Eesleys in Bexley. From Roberta Burnes Walker's Eesley family album.](../../assets/family/originals/stella-young-woman-portrait-c1942.jpeg)
 
 ### Stella with Charles Leonard on the lawn
 
-A casual snapshot of **Charles Leonard Eesley** sitting on a lawn with his arm around **Stella**, both smiling broadly for the photographer. Stella holds what appears to be a small handful of objects (perhaps eggs or marbles or fruit) in her lap; she is in a white blouse and a floral-print skirt. Charles Leonard, balding and in shirtsleeves and tie, kneels with one leg up. The composition reads as a **chosen-family-grandfather and adopted-granddaughter ease** &mdash; one of the most affectionate images of Charles Leonard and Stella together that the archive will likely ever have. **Late 1940s** by clothing.
+A casual snapshot of Charles Leonard Eesley sitting on a lawn with his arm around Stella, both smiling broadly for the photographer. Stella holds what appears to be a small handful of objects (perhaps eggs or marbles or fruit) in her lap; she is in a white blouse and a floral-print skirt. Charles Leonard, balding and in shirtsleeves and tie, kneels with one leg up. The composition reads as a chosen-family-grandfather and adopted-granddaughter ease &mdash; one of the most affectionate images of Charles Leonard and Stella together that the archive will likely ever have. Late 1940s by clothing.
 
 ![Charles Leonard Eesley with Stella, late 1940s &mdash; the kind of casual chosen-family portrait that is the documentary core of the whole archive's Stella-as-family argument.](../../assets/family/originals/charles-leonard-with-stella-on-grass.jpeg)
 
 ### Stella with a friend and Charles Leonard, late 1940s
 
-A three-figure outdoor portrait at the Bexley house: a **second young Chinese-American woman** at left in a floral-print dress, **Charles Leonard** at center in his characteristic fedora and three-piece suit, and **Stella** at right in a dark coat. Both young women have their arms around Charles Leonard's shoulders, and all three are smiling. The other woman is **not identified** &mdash; possibly a Sunn-family relative, a Chong-family connection, or a wartime-evacuated Chinese-American friend Stella brought into the Eesley household.
+A three-figure outdoor portrait at the Bexley house: a second young Chinese-American woman at left in a floral-print dress, Charles Leonard at center in his characteristic fedora and three-piece suit, and Stella at right in a dark coat. Both young women have their arms around Charles Leonard's shoulders, and all three are smiling. The other woman is not identified &mdash; possibly a Sunn-family relative, a Chong-family connection, or a wartime-evacuated Chinese-American friend Stella brought into the Eesley household.
 
 ![Charles Leonard Eesley (center) with Stella (right) and an unidentified young Chinese-American woman (left), late 1940s. From Roberta Burnes Walker's Eesley family album.](../../assets/family/originals/stella-with-friend-and-charles-leonard.jpeg)
 
 ### Ted Chong in Navy uniform with Stella, Washington DC, April 1945
 
-A wartime portrait of **Ted Chong in U.S. Navy dress uniform** with Stella beside him in a dark coat with a bow at the collar, standing on a pier or seawall under flowering cherry trees with water behind them. The composition reads strongly as **the Tidal Basin in Washington, D.C., cherry-blossom season** &mdash; an iconic wartime backdrop for servicemembers and their wives or sweethearts. The back of the print is stamped *"KISCO Certified Photo Service, APR 10, 1945."*
+A wartime portrait of Ted Chong in U.S. Navy dress uniform with Stella beside him in a dark coat with a bow at the collar, standing on a pier or seawall under flowering cherry trees with water behind them. The composition reads strongly as the Tidal Basin in Washington, D.C., cherry-blossom season &mdash; an iconic wartime backdrop for servicemembers and their wives or sweethearts. The back of the print is stamped *"KISCO Certified Photo Service, APR 10, 1945."*
 
 ![Ted Chong in U.S. Navy dress uniform with Stella at the cherry-blossom-season Tidal Basin in Washington, D.C., dated 10 April 1945 by the photo service stamp on the back.](../../assets/family/originals/ted-chong-navy-with-stella-cherry-blossoms-april-1945.jpeg)
 
-The April 1945 date is significant &mdash; the war in the Pacific would not end for four more months. Ted's Navy service is a **new biographical detail** the archive had not previously carried.
+The April 1945 date is significant &mdash; the war in the Pacific would not end for four more months. Ted's Navy service is a new biographical detail the archive had not previously carried.
 
 ### Stella, Ted, and their two children — formal studio portrait, c. mid-1950s
 
@@ -195,7 +195,7 @@ Roberta在2026年6月的邮件中补充了花的具体品种：
 
 > *"我清楚记得他们为爷爷的追思会送来的夏威夷鲜花。我从未见过那样的花 &mdash; 我想是叫**火鹤花** (Anthurium)。"*
 
-火鹤花 &mdash; 心形热带花朵，鲜红或粉红色，中央有黄色佛焰苞，原产中南美洲但二十世纪在夏威夷广泛栽培，是夏威夷花艺的标志。1972年10月，12岁的Roberta在俄亥俄州中部第一次见到这种花。张氏一家从太平洋彼岸寄来这种他们夏威夷新家最熟悉的花 &mdash; 给Bexley的丧礼。**Chuck三十年后才会见到张家人，但在那之前，他们已经成为俄亥俄州中部花艺记忆中永恒的一部分。**
+火鹤花 &mdash; 心形热带花朵，鲜红或粉红色，中央有黄色佛焰苞，原产中南美洲但二十世纪在夏威夷广泛栽培，是夏威夷花艺的标志。1972年10月，9岁的Roberta在俄亥俄州中部第一次见到这种花。张氏一家从太平洋彼岸寄来这种他们夏威夷新家最熟悉的花 &mdash; 给Bexley的丧礼。**Chuck三十年后才会见到张家人，但在那之前，他们已经成为俄亥俄州中部花艺记忆中永恒的一部分。**
 
 ### 最合理的重建 &mdash; 檀香山 → 马尼拉 → 格里普斯霍尔姆号 → Bexley
 

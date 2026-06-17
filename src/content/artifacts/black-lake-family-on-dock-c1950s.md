@@ -31,6 +31,6 @@ Per Chuck Eesley, June 2026 (tentative on the two girls):
 
 The figure further out on the dock walking toward the swim platform is most plausibly Jeanne or Anne in a second moment of the same afternoon (or possibly a fourth child &mdash; uncertain).
 
-The image is the **earliest photograph of Will and Peggy's young family in this archive's Black Lake set** &mdash; the next-generation summer at the cottage Will's father Charles Leonard had built two decades earlier, captured a few years before [the cottage burned down](/places/black-lake-michigan/) and the Eesley summers at the lake ended.
+The image is the earliest photograph of Will and Peggy's young family in this archive's Black Lake set &mdash; the next-generation summer at the cottage Will's father Charles Leonard had built two decades earlier, captured a few years before [the cottage burned down](/places/black-lake-michigan/) and the Eesley summers at the lake ended.
 
 > *Source: Eesley family archive; cast IDed by Chuck Eesley, June 2026.*

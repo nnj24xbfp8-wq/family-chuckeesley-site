@@ -27,7 +27,11 @@ The pieces of original work Chuck has so far contributed to the line's documenta
 
 He grew up on the [Highland Ridge Road house](/family/wilbur-eesley/) his grandfather Will designed, with the orchard Will planted and the small red bridge Will built; took his BA at Duke (his mother committed him to it before he had decided on the cost question) &mdash; the Duke years are visible in the archive's earliest piece of public press to have him in the frame, the [March 2001 *News & Observer* feature on a spring-break meditation visit to a North Carolina Buddhist monastery](/archive/chuck-spring-break-2001-meditation/) &mdash; finished his [PhD at M.I.T. on 5 June 2009](/archive/mit-phd-graduation-chuck-terrie-2009/), with Terrie at the M.I.T. dome to see it; and joined the Stanford faculty &mdash; the campus his grandfather Robert Earl had attended on the GI Bill in 1948, the generational rhyme [Stanford's page](/places/stanford-university/) is built around.
 
-He and [Lijie](/family/lijie-zhou/) made their life together at Stanford. The Zhou side of the family &mdash; Lijie's parents, grandparents, and the line behind them &mdash; is held open as the next major thread of this archive to build, in parallel with the Eesley and Wildermuth sides.
+He and [Lijie](/family/lijie-zhou/) made their life together at Stanford. The Zhou side of the family &mdash; [Lijie's parents](/family/zhongchu-li/), [grandparents](/family/zhaoxiang-zhou/), and the line behind them &mdash; is now built into this archive in parallel with the Eesley and Wildermuth sides, with Chinese versions of the [Stella](/family/stella/) and Chong-side pages closing the Eesley-side Chinese-heritage branch as well. The two [Lingyin Temple visits](/places/lingyin-temple-hangzhou/) &mdash; his parents-in-law in 1982 on their honeymoon, then he and Lijie in 2019 in the same frame &mdash; are the visual capstone of that joining.
+
+## The Foundation and the entrepreneurship research
+
+Two pieces of public work sit alongside the academic record: the **[Zhou & Eesley Family Foundation](https://zhoueesleyfoundation.com)**, which he and Lijie co-founded to bring education to communities that mainstream programs overlook; and the **research field itself** &mdash; entrepreneurship as a discipline. The choice of research field is the meta-instance of the family's habit-become-the-family's-research-program: in a line that includes [Charles Leonard](/family/charles-leonard-eesley/) running mills and grain elevators across Ohio, his son [Will](/family/wilbur-eesley/) running a regional construction business, and [Charlie](/family/charles-eesley/) starting and selling small businesses in Marietta, **Chuck is the one who turned the family habit into the family research program**.
 
 ## The three-generation Japan thread
 
@@ -70,4 +74,4 @@ Chuck is an anchor for seven of the ten threads in the [Family threads](/docs/fa
 - Thread #9 — Crossing for what's next — Marietta → Duke → MIT → Stanford, three crossings in fifteen years.
 - Thread #10 — Building things (entrepreneurship) — the meta-instance: research field is *entrepreneurship itself*, the family's habit-become-the-family's-research-program.
 
-> *Structured record: [Dale Eesley / FamilySearch &mdash; Charles Eric Eesley (GMLW-PXW)](https://www.familysearch.org/tree/person/details/GMLW-PXW).*
+> *Structured record: [FamilySearch &mdash; Charles Eric Eesley (GMLW-PXW)](https://www.familysearch.org/tree/person/details/GMLW-PXW).*

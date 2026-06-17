@@ -30,7 +30,7 @@ The Jean-and-Ota and Helen-and-Ota threads place Aunt Ota at two of the most cha
 
 ## The dates — 28 October 1921 to 13 October 1925
 
-Three different family sources have given three different birth-year readings across the decades:
+Three different family sources gave three different birth-year readings across the decades:
 
 - **Mary Bean's 1985 *Eesley Family History*** gave her as *"b. Oct. 28, 1912, Grove City Ohio. d. died 1924, Columbus Ohio"* — making her 12 at death.
 - **The c. 1970s Eesley reunion-portrait caption** gave her as *"1926–1930"* (age 4).
@@ -40,8 +40,8 @@ The GEDCOM dates are the ones this archive carries — confirmed by Chuck Eesley
 
 She is the predeceased sister Will's 1986 obituary refers to.
 
-## The toddler-in-overalls photograph — Helen, not Jean (June 2026)
+## The toddler-in-overalls photograph — Helen or Jean (June 2026, open)
 
-For many years, a photograph Roberta Burnes had printed in high school from negatives in her mother Helen's papers was held by the family as **the only known solo photograph of Jean**. The full negative shows two figures: a standing toddler in dark overalls and, to one side, **Aunt Mary Eesley Bean holding a baby**. On Roberta's June 2026 reconsideration, the standing toddler is now identified as **Helen**, not Jean — consistent with Helen's January 1924 birth and Jean's October 1921 birth (Jean would have been three to four years older than Helen in the dating window, not a younger toddler).
+For many years, a photograph Roberta Burnes had printed in high school from negatives in her mother Helen's papers was held by the family as **the only known solo photograph of Jean**. The full negative shows two figures: a standing toddler in dark overalls and, to one side, **Aunt Mary Eesley Bean holding a baby**. On Roberta's June 2026 reconsideration she now thinks the standing toddler may be **Helen** rather than Jean. The identification is open. The original reading (Jean as the standing toddler, Helen as the baby in Aunt Mary's arms) remains consistent with Jean's October 1921 birth and Helen's January 1924 birth if the photograph dates to c. 1924-1925; the Helen-as-toddler reading works for a c. 1926-1927 dating.
 
-The photograph and the re-identification sit on **[Helen's page](/family/helen-burnes/)**. As of June 2026, **this archive holds no confirmed solo photograph of Jean Goldie Eesley.**
+The photograph and the re-identification sit on **[Helen's page](/family/helen-burnes/)**. As of June 2026, **this archive holds no confirmed solo photograph of Jean Goldie Eesley — the toddler image remains the closest, with the identification open.**
