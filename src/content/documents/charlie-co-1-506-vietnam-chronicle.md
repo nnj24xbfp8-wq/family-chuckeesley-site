@@ -26,7 +26,7 @@ By the time Charlie Eesley arrived in Vietnam in mid-1970, the company's operati
 
 Key firebases of the 1-506th's operational area &mdash; many of which appear in Higgins's chronicle and many of which Charlie's letters allude to:
 
-- **Camp Eagle** &mdash; division base near Phu Bai, the 1-506th's home base. *(Charlie's [10 February 1971 Camp Eagle letter](/docs/letters/charlie-to-terrie-1971-02-10-camp-eagle/) was written from here.)*
+- **Camp Eagle** &mdash; division base near Phu Bai, the 1-506th's home base. *(Charlie's [10 February 1971 Camp Eagle letter](/docs/letters/charlie-to-terrie-1971-02-08-clerk-job-camp-eagle/) was written from here.)*
 - **Camp Evans** &mdash; brigade base north of Hue
 - **FB Jack, FB Sword, FB Veghel, FB Bastogne, FB Birmingham, FB Tomahawk, FB Ripcord** &mdash; the firebase chain northwest, west, and southwest of Camp Evans
 - **FB Currahee, FB Blaze, FB Berchtesgaden, FB Currahee Mountain** &mdash; firebases on Route 547, the road built into the A Shau Valley in 1969
@@ -55,11 +55,11 @@ That date &mdash; 1 May 1971 &mdash; closely tracks the published Vietnamization
 
 ### Malaria — September 1970, Cam Ranh Bay
 
-Charlie was hospitalized for **falciparum malaria in late September 1970**. His letters from this period &mdash; the [21 September "just diagnosed" letter](/docs/letters/charlie-to-terrie-1970-09-21-malaria-hospital/) and the [28 September Cam Ranh Bay convalescence letter](/docs/letters/charlie-to-terrie-1970-09-28-cam-ranh-bay/) on American National Red Cross stationery &mdash; place him at the rear-area hospital and convalescent center on the central coast. Malaria was a major cause of non-combat losses for 1-506th and the 101st as a whole in 1969-71.
+Charlie was hospitalized for **falciparum malaria in late September 1970**. His letters from this period &mdash; the [21 September "just diagnosed" letter](/docs/letters/charlie-to-terrie-1970-09-21-malaria-hospital/) and the [28 September Cam Ranh Bay convalescence letter](/docs/letters/charlie-to-terrie-1970-09-28-cam-ranh-bay-convalescence/) on American National Red Cross stationery &mdash; place him at the rear-area hospital and convalescent center on the central coast. Malaria was a major cause of non-combat losses for 1-506th and the 101st as a whole in 1969-71.
 
 ### Congressional intervention — February 1971
 
-In early February 1971 Charlie's mother [Peggy McMaster Eesley](/family/margaret-mcmaster-eesley/) wrote her congressman over what she perceived as an extension of Charlie's tour at **Camp Eagle**. Her [10 February 1971 letter to Terrie](/docs/peggy-to-terrie-1971-02-10/) was sent the same day as Charlie's own [10 February 1971 Da Nang letter](/docs/letters/charlie-to-terrie-1971-02-10-camp-eagle/). The two letters captured opposite poles of the same moment from inside the same family.
+In early February 1971 Charlie's mother [Peggy McMaster Eesley](/family/margaret-mcmaster-eesley/) wrote her congressman over what she perceived as an extension of Charlie's tour at **Camp Eagle**. Her [10 February 1971 letter to Terrie](/docs/peggy-to-terrie-1971-02-10/) was sent the same day as Charlie's own [10 February 1971 Da Nang letter](/docs/letters/charlie-to-terrie-1971-02-08-clerk-job-camp-eagle/). The two letters captured opposite poles of the same moment from inside the same family.
 
 ### One Hawaii R&R — April 1971
 

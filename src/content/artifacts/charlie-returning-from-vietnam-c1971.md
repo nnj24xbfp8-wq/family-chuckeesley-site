@@ -26,7 +26,7 @@ Charlie stands in front of a tall wood bookshelf packed with **leather-bound vol
 
 On the shelf to his right, a small **picture frame** is visible, containing what reads as a family portrait. Charlie holds something in his left hand &mdash; possibly a souvenir from the tour, possibly a letter opener from the shelf.
 
-The whole composition is a **homecoming**: the officer's coat, the bookshelves of his parents' house, the drink being raised to him from off-camera, the easy smile. After [602 days in Vietnam](/docs/letters-from-vietnam/), the [malaria episode of September 1970](/docs/letters/charlie-to-terrie-1970-09-21-just-diagnosed/), the [Da Nang clerk's job after Camp Eagle](/docs/letters/charlie-to-terrie-1971-02-10-danang/), the [Hawaii R&R in April 1971](/docs/letters/charlie-to-terrie-1971-03-29-second-rr-booking/), and the long ride home &mdash; this is the frame on the other side of all of it.
+The whole composition is a **homecoming**: the officer's coat, the bookshelves of his parents' house, the drink being raised to him from off-camera, the easy smile. After [602 days in Vietnam](/docs/letters-from-vietnam/), the [malaria episode of September 1970](/docs/letters/charlie-to-terrie-1970-09-21-malaria-hospital/), the [Da Nang clerk's job after Camp Eagle](/docs/letters/charlie-to-terrie-1971-02-10-danang/), the [Hawaii R&R in April 1971](/docs/letters/charlie-to-terrie-1971-03-29-second-rr-booking/), and the long ride home &mdash; this is the frame on the other side of all of it.
 
 ## See also
 

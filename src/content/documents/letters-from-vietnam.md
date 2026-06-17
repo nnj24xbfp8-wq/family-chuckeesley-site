@@ -82,8 +82,8 @@ The letters that are reproduced in full on this site, in date order. Letters in 
 
 **Spring tour &mdash; in country**
 
-- [15 March 1970 &mdash; six catch-up letters at Danang](/docs/letters/charlie-to-terrie-1970-03-15/) &mdash; arrival
-- [22 March 1970 &mdash; Saigon, R&R orders mailed](/docs/letters/charlie-to-terrie-1970-03-22/)
+- [15 March 1970 &mdash; six catch-up letters at Danang](/docs/letters/charlie-to-terrie-1970-03-29-ticket-cash/) &mdash; arrival
+- [22 March 1970 &mdash; Saigon, R&R orders mailed](/docs/letters/charlie-to-terrie-1970-03-29-ticket-cash/)
 - [22 June 1970 &mdash; *"your father's attitude is better"*](/docs/letters/charlie-to-terrie-1970-06-22/)
 
 **Summer 1970 field rotation &mdash; the bush**
@@ -97,7 +97,7 @@ The letters that are reproduced in full on this site, in date order. Letters in 
 - [21 September 1970 &mdash; malaria hospitalization](/docs/letters/charlie-to-terrie-1970-09-21-malaria-hospital/)
 - [28 September 1970 &mdash; Cam Ranh Bay convalescence](/docs/letters/charlie-to-terrie-1970-09-28-cam-ranh-bay-convalescence/)
 - [14 October 1970 &mdash; *"all combat troops are being withdrawn"* + first Hawaii R&R proposal](/docs/letters/charlie-to-terrie-1970-10-14-combat-withdrawal/)
-- [21 November 1970 &mdash; monsoons + *"violent campus"* read](/docs/letters/charlie-to-terrie-1970-11-21/)
+- [21 November 1970 &mdash; monsoons + *"violent campus"* read](/docs/letters/charlie-to-terrie-1970-11-21-firebase/)
 - [16 December 1970 &mdash; the enlisted men's club photo + Vietnamese hostesses + 60-day-drop rumor](/docs/letters/charlie-to-terrie-1970-12-16-em-club-photo/)
 - [31 December 1970 &mdash; *"the 10-month tour is definite"*](/docs/letters/charlie-to-terrie-1970-12-31-ten-month-tour-definite/)
 - [c. late 1970 / early January 1971 &mdash; marijuana, the Donut Dollies, and the GI culture letter](/docs/letters/charlie-to-terrie-1971-01-danang-base-and-gi-life/)

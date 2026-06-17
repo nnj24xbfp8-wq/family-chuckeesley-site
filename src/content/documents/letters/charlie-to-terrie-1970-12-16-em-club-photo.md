@@ -63,7 +63,7 @@ The line *"at times they act like 12 yr olds"* is the small culturally-incomplet
 
 | Date | Letter | What it records |
 |---|---|---|
-| 21 Nov 1970 | [Late November 1970 letter](/docs/letters/charlie-to-terrie-1970-11-21/) | Field rotation, monsoons |
+| 21 Nov 1970 | [Late November 1970 letter](/docs/letters/charlie-to-terrie-1970-11-21-firebase/) | Field rotation, monsoons |
 | 16 Dec 1970 | This letter | EM club photo, Vietnamese hostesses, 60-day drop rumor |
 | 1 Jan 1971 | [Letter to Dorothy Hauser](/docs/letters/charlie-to-dorothy-hauser-1971-01-01/) | Mothers for Peace, Nixon line |
 | 19 Jan 1971 | [ETS-extension strategy](/docs/letters/charlie-to-terrie-1971-01-19-ets-extension/) | Decision to extend |

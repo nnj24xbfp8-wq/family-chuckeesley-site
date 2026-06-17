@@ -45,11 +45,25 @@ Helen kept the guilt for the rest of her life &mdash; the chocolate-across-the-l
 
 ## Black Lake photographs in the archive
 
-Three dated Black Lake images sit in this archive, covering the cottage from its early years through its last decade:
+Three dated Black Lake images sit in this archive, covering the cottage from its early years through its last decade.
 
-- **[Leonard bringing in the dock, 1928](/archive/leonard-bringing-in-the-dock-black-lake-1928/)** &mdash; Charles Leonard's eldest son [Leonard David Eesley](/family/leonard-david-eesley/), age 24, shirtless and knee-deep in the lake doing the seasonal dock-installation labor. The earliest dated Black Lake photograph here.
-- **[Family group at the cottage with Leonard, c. 1928](/archive/black-lake-group-with-leonard-1928/)** &mdash; eight people grouped in front of the cottage's painted clapboard wall on (presumably) the same summer. The older woman in the cloche hat is almost certainly [Lillie Dale](/family/lillie-dale-chenoweth/); the small child in white fits the age window for [Helen](/family/helen-burnes/). Most of the cast is still open.
-- **[Will and Peggy with Charlie, Jeanne, and Anne on the dock, c. 1950&ndash;1952](/archive/black-lake-family-on-dock-c1950s/)** &mdash; [Will Eesley](/family/wilbur-eesley/) and [Peggy](/family/margaret-mcmaster-eesley/) on the dock with three of their young children: little [Charlie](/family/charles-eesley/) (Chuck's father, age three-to-five) sitting on the edge with his feet over the water, [Jeanne](/family/jeanne-eesley-kamiab/) standing in a polka-dot swimsuit, and [Anne](/family/anne-eesley/) as a toddler in the shallows. The next-generation summer at Charles Leonard's cottage.
+### Leonard bringing in the dock, 1928
+
+Charles Leonard's eldest son [Leonard David Eesley](/family/leonard-david-eesley/), age 24, shirtless and knee-deep in the lake doing the seasonal dock-installation labor. The earliest dated Black Lake photograph here.
+
+![Leonard David Eesley at age 24, shirtless and in swim trunks, knee-deep in Black Lake hauling in the wooden dock; a clinker-built wooden lake boat with brass fittings sits beached on the sand at right; calm silver water and a distant tree-line opposite. 1928. ([artifact page](/archive/leonard-bringing-in-the-dock-black-lake-1928/))](../../assets/family/originals/Leonard%20bringing%20in%20the%20dock%201928.jpeg)
+
+### Family group at the cottage with Leonard, c. 1928
+
+Eight people grouped in front of the cottage's painted clapboard wall on (presumably) the same summer. The older woman in the cloche hat is almost certainly [Lillie Dale](/family/lillie-dale-chenoweth/); the small child in white fits the age window for [Helen](/family/helen-burnes/). Most of the cast is still open.
+
+![Eight people in three rough rows in front of the cottage's pale-painted wood-clapboard wall, c. 1928. Back row: two young men in white shirts (one in tie, one with a dark hat in his lap); an older woman in a dark cloche hat with pale band and round spectacles, in a dark dress with cape collar — almost certainly Lillie Dale Chenoweth Eesley. Front row from left: a young man in tan straw boater and leather jacket; a young woman in cloche hat and dark coat holding a small dark book; a boy of about eleven or twelve in a plaid sweater; a small child of about four in a white pinafore-style smock; a smiling young man at right with thick dark hair and rolled sleeves. ([artifact page](/archive/black-lake-group-with-leonard-1928/))](../../assets/family/originals/black-lake-group-with-leonard-1928.jpeg)
+
+### Will and Peggy with Charlie, Jeanne, and Anne on the dock, c. 1950–1952
+
+[Will Eesley](/family/wilbur-eesley/) and [Peggy](/family/margaret-mcmaster-eesley/) on the dock with three of their young children: little [Charlie](/family/charles-eesley/) (Chuck's father, age three-to-five) sitting on the edge with his feet over the water, [Jeanne](/family/jeanne-eesley-kamiab/) standing in a polka-dot swimsuit, and [Anne](/family/anne-eesley/) as a toddler in the shallows. The next-generation summer at Charles Leonard's cottage.
+
+![Will Eesley and Peggy McMaster Eesley sitting on a wooden dock at Black Lake c. 1950-1952, with three of their young children: Charlie (about three-to-five years old, sitting on the dock edge with his bare feet over the water, in a patterned shirt); Jeanne (standing on the dock in a polka-dot two-piece swimsuit, one hand raised); and Anne (a toddler in a small striped swimsuit, sitting at the very edge of the shallow water on the beach). A floating swim platform sits in the middle distance; the lake fades silver to the far shore under soft cumulus. ([artifact page](/archive/black-lake-family-on-dock-c1950s/))](../../assets/family/originals/black-lake-family-on-dock-c1950s.jpeg)
 
 ## After the cottage
 
