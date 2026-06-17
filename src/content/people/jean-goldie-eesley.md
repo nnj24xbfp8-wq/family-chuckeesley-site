@@ -42,10 +42,4 @@ She is the predeceased sister Will's 1986 obituary refers to.
 
 ## The toddler-in-overalls photograph — Jean Goldie Eesley (resolved, 2026)
 
-For many years, a photograph [Roberta Burnes](/family/roberta-burnes/) had printed in high school from negatives in her mother Helen's papers was held by the family as **the only known solo photograph of Jean**. The full negative shows two figures: a standing toddler in dark overalls and, to one side, **Aunt Mary Eesley Bean holding a baby**.
-
-Roberta briefly reconsidered in June 2026, wondering whether the standing toddler might be Helen instead, because she had seen conflicting birth years for Jean. With Jean's birth date confirmed as **28 October 1921** &mdash; making Jean the older child and Helen (b. January 1924) the baby in Aunt Mary's arms &mdash; Roberta settled it:
-
-> *I think if you're sure about the earlier birthdate, then that must be a photo of her [Jean], not my mother. And that makes more sense in my memory of mom saying she was the youngest in the family.*
-
-So the standing toddler is **Jean** &mdash; the archive's longstanding reading, now confirmed. This is the only known solo photograph of Jean Goldie Eesley. It sits on **[Helen's page](/family/helen-burnes/)**.
+The only known solo photograph of Jean is one [Roberta Burnes](/family/roberta-burnes/) printed in high school from negatives in her mother Helen's papers: a standing toddler in dark overalls, with **Aunt Mary Eesley Bean holding a baby** to one side. With Jean's birth confirmed as **28 October 1921**, the standing toddler is Jean and the baby is Helen (b. January 1924). The photograph sits on **[Helen's page](/family/helen-burnes/)**.

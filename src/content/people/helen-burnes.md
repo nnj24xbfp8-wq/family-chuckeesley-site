@@ -46,13 +46,7 @@ The guilt may also be the deepest part of the answer to a question her children 
 
 ![A young child of about two or three years old in dark overalls and a light shirt, smiling at the camera; cropped at left to a partial blurred figure (originally Aunt Mary Eesley Bean holding the photograph's other small child). Roberta Burnes printed this in high school from negatives she found in her mother Helen's family papers. c. 1923-1924, location not recorded — likely Bexley or Grove City, Ohio. The only known solo photograph of Jean Goldie Eesley.](../../assets/family/originals/helen-or-jean-as-toddler-c1925-1927.jpeg)
 
-For many years this photograph was held as the only known solo photograph of [Jean Goldie Eesley](/family/jean-goldie-eesley/). Roberta Burnes had found the original negatives among her mother Helen's papers and had printed this image &mdash; cropped to the child &mdash; in high school. The full negative carries a second visible figure: cropped off here, [Aunt Mary Eesley Bean](/family/mary-eesley-bean/) holding the other child as a baby.
-
-Roberta briefly reconsidered in June 2026, wondering whether the standing toddler might be Helen herself, because she had seen conflicting birth years for Jean. With Jean's birth date now confirmed as **28 October 1921** &mdash; making Jean the older child and Helen (b. January 1924) the baby in Aunt Mary's arms &mdash; Roberta settled the question:
-
-> *I think if you're sure about the earlier birthdate, then that must be a photo of her [Jean], not my mother. And that makes more sense in my memory of mom saying she was the youngest in the family.*
-
-So the standing toddler is **Jean** &mdash; the archive's longstanding reading, now confirmed. Roberta's recollection that her mother always said Helen was the youngest is consistent with it. See [Jean's page](/family/jean-goldie-eesley/).
+This is the only known solo photograph of [Jean Goldie Eesley](/family/jean-goldie-eesley/), Helen's older sister. [Roberta Burnes](/family/roberta-burnes/) printed it in high school from negatives in her mother Helen's papers; the full negative also shows [Aunt Mary Eesley Bean](/family/mary-eesley-bean/) holding the other child as a baby (cropped off here). With Jean's birth confirmed as **28 October 1921**, Jean is the standing toddler and Helen (b. January 1924) the baby. See [Jean's page](/family/jean-goldie-eesley/).
 
 ## On the Pacific shore at twelve — westbound trip with Grandma Lillie Dale, winter 1936
 
