@@ -9,10 +9,10 @@ parents:
   - helen-burnes
 living: true
 status: sketch
-summary: "Daughter of Helen Louise (Eesley) Burnes and Edwin William Burnes — one of six daughters in the Burnes household, and Chuck's first cousin once removed on the paternal Eesley side. Married Donald Faux but kept her own surname (one of four Burnes daughters to keep Burnes through marriage, alongside Cindy, Shelley, and Roberta; her oldest sister Barb took Hester and her youngest sister Katie took McKeel)."
+summary: "Daughter of Helen Louise (Eesley) Burnes and Edwin William Burnes — one of six daughters in the Burnes household, and Chuck's first cousin once removed on the paternal Eesley side. Married Donald Faux but kept her own surname (one of four Burnes daughters to keep Burnes through marriage, alongside Shelley, Cindy, and Roberta; her oldest sister Barb took Hester and her youngest sister Katie took McKeel)."
 ---
 
-Elizabeth "Liz" Burnes is the daughter of [Helen Louise (Eesley) Burnes](/family/helen-burnes/) and Edwin William Burnes — one of six daughters in the Burnes household, and Chuck's first cousin once removed on the paternal Eesley side. She married **Donald Faux** but kept her own surname. Her sisters are [Barb Burnes Hester](/family/barb-burnes-hester/), [Cindy Burnes](/family/cindy-burnes/), [Shelley Burnes](/family/shelley-burnes/), [Roberta Burnes](/family/roberta-burnes/), and [Katie Burnes McKeel](/family/katie-burnes/).
+Elizabeth "Liz" Burnes is the daughter of [Helen Louise (Eesley) Burnes](/family/helen-burnes/) and Edwin William Burnes — one of six daughters in the Burnes household, and Chuck's first cousin once removed on the paternal Eesley side. She married **Donald Faux** but kept her own surname. Her sisters are [Barb Burnes Hester](/family/barb-burnes-hester/), [Shelley Burnes](/family/shelley-burnes/), [Cindy Burnes](/family/cindy-burnes/), [Roberta Burnes](/family/roberta-burnes/), and [Katie Burnes McKeel](/family/katie-burnes/).
 
 Details otherwise withheld &mdash; living.
 

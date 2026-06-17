@@ -36,10 +36,12 @@ Three different family sources gave three different birth-year readings across t
 - **The c. 1970s Eesley reunion-portrait caption** gave her as *"1926–1930"* (age 4).
 - **Dale's GEDCOM (FS LB4Y-P86)** gives her as **28 October 1921 to 13 October 1925** (age 4).
 
-The GEDCOM dates are the ones this archive carries — confirmed by Chuck Eesley in June 2026. Jean was born **October 1921** and died in **October 1925** at age four, fifteen days short of her fourth birthday. She was Helen's older sister by **two years and three months** (Helen b. 16 January 1924). Charlie's 1965 autobiography line — *"died from a childhood accident when she was five years old"* — is the family-memory close-paraphrase of the actual age-four-at-death.
+The GEDCOM dates are now confirmed by the primary record. Jean's **Ohio death certificate** (Franklin County, 1925) gives her date of birth as **28 October**, her birthplace as **Grove City**, and her age at death as **3 years, 11 months, and 15 days** — which counts back from her 13 October 1925 death to a birth on **28 October 1921**, matching the GEDCOM exactly and settling the date against the two later misreadings. Jean was born **October 1921** and died in **October 1925** at age four, fifteen days short of her fourth birthday. She was Helen's older sister by **two years and three months** (Helen b. 16 January 1924). Charlie's 1965 autobiography line — *"died from a childhood accident when she was five years old"* — is the family-memory close-paraphrase of the actual age-four-at-death.
 
 She is the predeceased sister Will's 1986 obituary refers to.
 
 ## The toddler-in-overalls photograph — Jean Goldie Eesley (resolved, 2026)
 
 The only known solo photograph of Jean is one [Roberta Burnes](/family/roberta-burnes/) printed in high school from negatives in her mother Helen's papers: a standing toddler in dark overalls, with **Aunt Mary Eesley Bean holding a baby** to one side. With Jean's birth confirmed as **28 October 1921**, the standing toddler is Jean and the baby is Helen (b. January 1924). The photograph sits on **[Helen's page](/family/helen-burnes/)**.
+
+> *Sources: Jean Eesley, Ohio Certificate of Death, Franklin County, 1925 (b. 28 October, Grove City; age 3y 11m 15d at death) — FamilySearch, ark:/61903/3:1:S3HT-6SCS-BKD, image 494 of 3121, Image Group 004258152 (Ohio Historical Society, Columbus); Dale Eesley GEDCOM (FamilySearch LB4Y-P86); Mary Eesley Bean, [Eesley Family History](/docs/eesley-family-history-1985/), 1985; Roberta Burnes, June 2026.*
