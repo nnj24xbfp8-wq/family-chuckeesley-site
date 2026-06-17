@@ -3,6 +3,7 @@ name: "Elsie (Chenoweth) Borror"
 aka: "Elsie Chenoweth, maiden"
 line: paternal
 generation: 4
+sortBirth: "1869"
 parents:
   - joseph-hill-chenoweth
   - mary-ohio-timmons-chenoweth
@@ -14,7 +15,7 @@ summary: "Lillie Dale Chenoweth Eesley's older sister and Chuck's great-great-au
 
 Elsie Chenoweth was the **second of Joseph Hill Chenoweth and Mary Ohio Timmons Chenoweth's five children** &mdash; the older sister of [Scioto Mafry "Aunt Ota" Chenoweth Smith](/family/scioto-mafry-chenoweth/), of Chuck's great-grandmother [Lillie Dale Chenoweth Eesley](/family/lillie-dale-chenoweth/), and of [Dwight Kennedy Chenoweth](/family/dwight-chenoweth/). The full sibling order &mdash; per [Roberta Burnes Walker's June 2026 reconstruction](/family/roberta-burnes/) &mdash; is **Howard Glen, Elsie, Scioto Mafry, Lillie Dale, Dwight Kennedy**.
 
-Her birth and death dates and her specific place of birth are not yet recovered from this archive's holdings. The most likely range, by triangulating against her siblings (Scioto 1871, Lillie Dale 1877), is **early to mid 1870s**.
+Her birth and death dates and her specific place of birth are not yet recovered from this archive's holdings. Given her place as the **second of the five children** &mdash; older than Scioto, who was born in 1871 &mdash; her birth most likely falls in the **late 1860s**.
 
 ## Marriage to Jonas Borror
 
