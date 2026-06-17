@@ -32,6 +32,6 @@ The specific portion of the Philippines Chuck and Lijie's December 2026 boat wil
 ## See also
 
 - [The parent scuba-trips document](/docs/scuba-trips/) — frames the broader corpus
-- [Thailand &mdash; Similan Islands](/docs/scuba-thailand-similan-islands/) — the previous liveaboard region
+- [Thailand &mdash; Similan Islands](/docs/2023-scuba-thailand-similan-islands/) — the previous liveaboard region
 
 > *Entry is a pre-trip placeholder &mdash; photographs, video, and a substantive trip narrative will replace this scaffolding after 2 January 2027.*

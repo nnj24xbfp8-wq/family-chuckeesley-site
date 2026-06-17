@@ -84,7 +84,7 @@ The campaign would close on 25 March 1971 with substantial ARVN losses (the publ
 | 21 Jan 1971 | [Camp Evans Feb 4 return](/docs/letters/charlie-to-terrie-1971-01-21/) | 145 days left |
 | 24 Jan 1971 | [Sunburn + finals](/docs/letters/charlie-to-terrie-1971-01-24/) | March reunion planning |
 | 4 Feb 1971 | [Laos fore-warning](/docs/letters/charlie-to-terrie-1971-02-04-laos-fore-warning/) | "Don't be surprised when you hear about Laos being invaded" |
-| 10 Feb 1971 | [Da Nang letter](/docs/letters/charlie-to-terrie-1971-02-10-danang/); [Peggy congressional letter](/docs/peggy-to-terrie-1971-02-10/) | Camp Eagle extension paperwork |
+| 10 Feb 1971 | [Da Nang letter](/docs/letters/charlie-to-terrie-1971-02-10-danang/); [Peggy congressional letter](/docs/letters/peggy-to-terrie-1971-02-10/) | Camp Eagle extension paperwork |
 | 1 Mar 1971 | This letter | Lam Son 719 in progress, Hawaii R&R chances dropping, Cape Hatteras proposed |
 
 The Laos thread &mdash; from the 4 February fore-warning through the 1 March commentary &mdash; is the most sustained piece of war-commentary in Charlie's own voice that the corpus contains.

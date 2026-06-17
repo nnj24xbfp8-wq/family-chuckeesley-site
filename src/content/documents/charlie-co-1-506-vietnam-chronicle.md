@@ -59,7 +59,7 @@ Charlie was hospitalized for **falciparum malaria in late September 1970**. His 
 
 ### Congressional intervention — February 1971
 
-In early February 1971 Charlie's mother [Peggy McMaster Eesley](/family/margaret-mcmaster-eesley/) wrote her congressman over what she perceived as an extension of Charlie's tour at **Camp Eagle**. Her [10 February 1971 letter to Terrie](/docs/peggy-to-terrie-1971-02-10/) was sent the same day as Charlie's own [10 February 1971 Da Nang letter](/docs/letters/charlie-to-terrie-1971-02-08-clerk-job-camp-eagle/). The two letters captured opposite poles of the same moment from inside the same family.
+In early February 1971 Charlie's mother [Peggy McMaster Eesley](/family/margaret-mcmaster-eesley/) wrote her congressman over what she perceived as an extension of Charlie's tour at **Camp Eagle**. Her [10 February 1971 letter to Terrie](/docs/letters/peggy-to-terrie-1971-02-10/) was sent the same day as Charlie's own [10 February 1971 Da Nang letter](/docs/letters/charlie-to-terrie-1971-02-08-clerk-job-camp-eagle/). The two letters captured opposite poles of the same moment from inside the same family.
 
 ### One Hawaii R&R — April 1971
 

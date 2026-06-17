@@ -77,6 +77,6 @@ Charlie was on the south-central coast beach (presumed Cam Ranh Bay), explicitly
 | 19 Jan 1971 | [ETS-extension strategy](/docs/letters/charlie-to-terrie-1971-01-19-ets-extension/) | Decision to extend tour by 32–33 days to ETS from Vietnam |
 | 21 Jan 1971 | [Camp Evans Feb 4 return](/docs/letters/charlie-to-terrie-1971-01-21/) | Unit reassembly at Camp Evans, 145 days left, *Godfather* during malaria |
 | 24 Jan 1971 | This letter | Sunburn, Terrie's finals, March 1971 reunion plans |
-| 10 Feb 1971 | [Charlie writes from Da Nang](/docs/letters/charlie-to-terrie-1971-02-10-danang/); [Peggy's congressional letter](/docs/peggy-to-terrie-1971-02-10/) | The Camp Eagle extension paperwork reaches Congressman Miller |
+| 10 Feb 1971 | [Charlie writes from Da Nang](/docs/letters/charlie-to-terrie-1971-02-10-danang/); [Peggy's congressional letter](/docs/letters/peggy-to-terrie-1971-02-10/) | The Camp Eagle extension paperwork reaches Congressman Miller |
 
 The three January 1971 letters together are the longest densely-dated stretch in the corpus — a four-day window of beach-base routine in the final weeks of the tour.

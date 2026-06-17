@@ -33,7 +33,7 @@ scans:
 
 Three things this letter pins down. First, the **engagement**: *"you sure are lucky I asked you to marry me"* confirms that by 9 January 1971 Charlie and Terrie were engaged &mdash; months before the spring's Hawaii-and-marriage logistics, the question of *whether* was already answered; what remained was *when and where.*
 
-Second, **"mom's congressional inquiry."** Charlie's mother, [Peggy McMaster Eesley](/family/margaret-mcmaster-eesley/), had taken his case to their congressman &mdash; the same intervention documented in the [10 February 1971 letter Peggy wrote Terrie](/docs/peggy-to-terrie-1971-02-10/) about Congressman Miller and Camp Eagle. Here Charlie reports the bureaucratic wake of it: the Army wants another statement from him. *No harm done.*
+Second, **"mom's congressional inquiry."** Charlie's mother, [Peggy McMaster Eesley](/family/margaret-mcmaster-eesley/), had taken his case to their congressman &mdash; the same intervention documented in the [10 February 1971 letter Peggy wrote Terrie](/docs/letters/peggy-to-terrie-1971-02-10/) about Congressman Miller and Camp Eagle. Here Charlie reports the bureaucratic wake of it: the Army wants another statement from him. *No harm done.*
 
 Third, the **Tet calendar**: the lunar new year fell on 27 January in 1971, and the Army had frozen tour-curtailment *drops* until after the holiday (Charlie dates the window 26&ndash;29 January) for fear of an offensive &mdash; after which, he'd been told, the drops would come big. The wait is *"driving me crazy."*
 

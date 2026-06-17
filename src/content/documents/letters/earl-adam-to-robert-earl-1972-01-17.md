@@ -80,7 +80,7 @@ The six Theodore-and-Eva Schlicher children:
 5. **Emma Schlicher** &mdash; *"married Henry Rachen, they had four children two girls and twoboys. Clarence Rachen Married a girl from Chancey Ohio and lived there and worked in a coal mine. Raymond Rachen married a Marietta girl Burl Day and left Marietta. Leona Rachen married Oran Master they had a boy and a girl, Bob Masters and Joan Masters married a Whocamp boy I dont no where they live."*
 6. **Leona Schlicher** &mdash; *"Edward Schlicher's twin"* (per the page, ambiguous; possibly the seventh child, possibly Earl Adam misremembering).
 
-The Schlicher emigration line as Earl Adam carried it in his head: **Germany on the Rhine &rarr; Philadelphia &rarr; Marietta, Ohio &rarr; Theodore the cooper's barrel shop in east Marietta**. That is the family-memory backbone behind everything Robert Earl would later research about the Schlicher emigration, including the [1853 Johann Michael Wildermuth Philadelphia naturalization](/docs/johann-michael-wildermuth-1853-naturalization/) pattern he would later identify on the Wildermuth side.
+The Schlicher emigration line as Earl Adam carried it in his head: **Germany on the Rhine &rarr; Philadelphia &rarr; Marietta, Ohio &rarr; Theodore the cooper's barrel shop in east Marietta**. That is the family-memory backbone behind everything Robert Earl would later research about the Schlicher emigration, including the [1853 Johann Michael Wildermuth Philadelphia naturalization](/docs/johann-michael-wildermuth-naturalization-1853/) pattern he would later identify on the Wildermuth side.
 
 The page ends with Earl Adam apologizing for typewriter ribbon condition and asking Bob to *"take it easy and write when you can"*.
 

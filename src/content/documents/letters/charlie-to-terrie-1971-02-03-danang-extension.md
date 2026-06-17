@@ -69,7 +69,7 @@ For 1-506: the 1st Brigade and 3rd Brigade infantry battalions were not slated f
 | 30 Jan 1971 | (still in batch, not yet ingested) | Pay-day mix-up, $850 stereo near complete |
 | 3 Feb 1971 | This letter | Da Nang through March 5, 131 days left, R&R-after-the-field strategy |
 | 4 Feb 1971 | [Laos fore-warning](/docs/letters/charlie-to-terrie-1971-02-04-laos-fore-warning/) | *"Don't be surprised when you hear about Laos being invaded"* |
-| 10 Feb 1971 | [Da Nang letter](/docs/letters/charlie-to-terrie-1971-02-10-danang/); [Peggy congressional letter](/docs/peggy-to-terrie-1971-02-10/) | Camp Eagle extension paperwork |
+| 10 Feb 1971 | [Da Nang letter](/docs/letters/charlie-to-terrie-1971-02-10-danang/); [Peggy congressional letter](/docs/letters/peggy-to-terrie-1971-02-10/) | Camp Eagle extension paperwork |
 | 1 Mar 1971 | [Lam Son 719 in progress](/docs/letters/charlie-to-terrie-1971-03-01-lam-son-719/) | Operation underway |
 
 The 3 February letter sits one day before the [4 February letter](/docs/letters/charlie-to-terrie-1971-02-04-laos-fore-warning/). The Laos fore-warning was already being thought through on 3 February &mdash; this letter doesn't say so, but the next day's letter would put it in writing. The shape of the Da Nang stay was, by 3 February, fully understood: stay through early March, possibly longer, on the Laos operation timetable.
