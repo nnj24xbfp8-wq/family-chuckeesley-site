@@ -27,7 +27,7 @@ He appears in the [c. 1937&ndash;1939 group portrait of Charles Leonard with fiv
 
 Dale married [Thelma G. Haughn](/family/thelma/) on **15 November 1927** in Franklin County, Ohio, at age 21 each. The marriage lasted **eleven and a half years**, until Dale's drowning at Black Lake on 14 July 1939.
 
-> *Marriage License Application #79220, Probate Court, Franklin County, Ohio. Dale D. Eesley (age 21, of Pleasant Township, Ohio) and Thelma G. Haughn (age 21, of Grove City, Ohio, occupation bookkeeper). License issued 9 August 1927 and granted 15 October 1927. Marriage solemnized 15 November 1927 by N.V. Lechler. Filed and recorded 16 November 1927. The marriage certificate names the bride as "Thelma G. Haughn," confirming both the middle initial G and the Haughn maiden name (an earlier "Thelma Z. Haughn" reading was a misreading of the G). Franklin County Marriage Record, FamilySearch ark:/61903/3:1:9392-S59M-MH, image 699 of 861.*
+> *[Marriage License Application #79220](/archive/dale-eesley-thelma-haughn-marriage-license-1927/), Probate Court, Franklin County, Ohio. Dale D. Eesley (age 21, of Pleasant Township, Ohio) and Thelma G. Haughn (age 21, of Grove City, Ohio, occupation bookkeeper). License issued 9 August 1927 and granted 15 October 1927. Marriage solemnized 15 November 1927 by N.V. Lechler. Filed and recorded 16 November 1927. The marriage certificate names the bride as "Thelma G. Haughn," confirming both the middle initial G and the Haughn maiden name (an earlier "Thelma Z. Haughn" reading was a misreading of the G). Franklin County Marriage Record, FamilySearch ark:/61903/3:1:9392-S59M-MH, image 699 of 861.*
 
 ## How he died &mdash; and what Helen carried for the rest of her life
 

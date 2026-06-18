@@ -5,7 +5,7 @@ region: "Kyushu"
 country: "Japan"
 summary: "The U.S. Air Force base in Fukuoka, Kyushu, where Robert Earl Wildermuth was assigned as Chief of Maintenance — and later squadron commander — of the 1955th Communications Squadron from 1965 to 1968. The base under Brigadier General Anthony Shtogren's Far East command, where Robert Earl turned a 29th-of-31 squadron into the #1 Far East communications squadron and was promoted to Lieutenant Colonel below the zone. The Japan years also frame the period Chuck's mother Terrie Lee — at sixteen to nineteen — spent abroad with the family per her own 2017 obituary's 'traveled the U.S. and Japan until graduating high school' line."
 significance: "The single overseas posting that anchors Terrie Lee Wildermuth's 'United States and Japan' traveling-Air-Force-daughter line in her 2017 obituary. The Air Force station where Robert Earl earned the squadron commander turnaround and below-the-zone promotion that culminated his career — and where his youngest son Robert Earl Jr. spent his infancy. Now closed: the airfield reverted to civilian use as Fukuoka Airport in 1972."
-status: described-only
+status: photographed
 relatedPeople:
   - robert-earl-wildermuth
   - dorothy-davis-wildermuth
@@ -58,4 +58,26 @@ Robert Earl and Dottie's 1965–1968 Itazuke years sit inside a **three-generati
 
 Itazuke is therefore the structural anchor of a Japan-interest line that begins with Robert Earl's posting, runs through his daughter's high-school years, surfaces in the Wildermuth-and-Eesley parental conversation over a courtship, and continues into Chuck's ongoing Kobe University teaching.
 
-> *Sources: [Robert Earl Wildermuth's 1989 memoir](/docs/robert-earl-wildermuth-memoir/); [Terrie Lee Bain's 2017 obituary](/docs/terrie-lee-bain-obituary-2017/); [Wildermuth family portrait, mid-1960s](/archive/wildermuth-family-portrait-1960s/); [Terrie's high school graduation in Japan, c. 1967](/archive/terrie-high-school-graduation-japan/); Chuck Eesley family-memory thread on the parents-meeting conversation about Japan, transmitted 2026.*
+## Photographs from the Itazuke years
+
+Four frames from the 1965&ndash;1968 tour place the family on the base in their own faces.
+
+### The full Wildermuth family, mid-1960s
+
+![Robert Earl and Dottie with all four children — Terrie and Sandy in the older-teen positions, Debbie school-age, Rob a toddler — in a single mid-1960s family frame from the Air Force years. ([artifact page](/archive/wildermuth-family-portrait-1960s/))](../../assets/family/originals/00000007_00000028_00000029.jpeg)
+
+### Robert Earl and Dottie at Itazuke, 1968
+
+![Robert Earl in a dark suit with a boutonni&egrave;re on the lapel, Dottie beside him in a pale formal dress holding a small bouquet, at Itazuke Air Base, 1968 &mdash; the closing year of the tour. The boutonni&egrave;re suggests a formal event, possibly Terrie's high school graduation the same year, or a base squadron function. ([artifact page](/archive/bob-and-dorothy-itazuke-1968/))](../../assets/family/heritage-1990/bob-and-dorothy-itazuke-1968.jpg)
+
+### The Wildermuth family of six, Itazuke 1968
+
+![The family-of-six group portrait at Itazuke in 1968 &mdash; Sandra Sue and Terrie Lee standing behind their parents in older-teen positions, Debra Jean and toddler Bobby Jr. flanking Robert Earl and Dorothy in front. One of the rare frames in the archive that holds all four Wildermuth children together at one time. ([artifact page](/archive/wildermuth-family-1968-itazuke/))](../../assets/family/heritage-1990/wildermuth-family-1968-group.jpg)
+
+### Terrie's high school graduation in Japan, c. 1967
+
+![Terrie Lee with her 1st PLACE diploma plaque (engraved *TERRIE WILDERMUTH &middot; 1ST PLACE*), Robert Earl in dress blues and Dottie in a pale jacket with a leaf brooch beside her, at her Japan high school graduation c. 1967. The biographical anchor of Terrie's 'traveled the U.S. and Japan until graduating high school' line in her 2017 obituary. ([artifact page](/archive/terrie-high-school-graduation-japan/))](../../assets/family/originals/00000002_00000021_00000022.jpeg)
+
+Together the four frames cover the household (the mid-60s family portrait), the parents on base (the boutonni&egrave;re couple's portrait), the full family on base (the 1968 group portrait), and Terrie's graduation &mdash; the four most documented moments of the Wildermuth Itazuke years.
+
+> *Sources: [Robert Earl Wildermuth's 1989 memoir](/docs/robert-earl-wildermuth-memoir/); [Terrie Lee Bain's 2017 obituary](/docs/terrie-lee-bain-obituary-2017/); [Wildermuth family portrait, mid-1960s](/archive/wildermuth-family-portrait-1960s/); [Bob and Dorothy at Itazuke, 1968](/archive/bob-and-dorothy-itazuke-1968/); [The Wildermuth family at Itazuke, 1968](/archive/wildermuth-family-1968-itazuke/); [Terrie's high school graduation in Japan, c. 1967](/archive/terrie-high-school-graduation-japan/); Chuck Eesley family-memory thread on the parents-meeting conversation about Japan, transmitted 2026.*

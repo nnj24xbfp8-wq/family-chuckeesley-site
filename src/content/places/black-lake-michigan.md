@@ -45,7 +45,7 @@ Helen kept the guilt for the rest of her life &mdash; the chocolate-across-the-l
 
 ## Black Lake photographs in the archive
 
-Three dated Black Lake images sit in this archive, covering the cottage from its early years through its last decade.
+Four dated Black Lake images sit in this archive, covering the cottage from its early years through its last decade.
 
 ### Leonard bringing in the dock, 1928
 
@@ -58,6 +58,12 @@ Charles Leonard's eldest son [Leonard David Eesley](/family/leonard-david-eesley
 Eight people grouped in front of the cottage's painted clapboard wall on (presumably) the same summer. The older woman in the cloche hat is almost certainly [Lillie Dale](/family/lillie-dale-chenoweth/); the small child in white fits the age window for [Helen](/family/helen-burnes/). Most of the cast is still open.
 
 ![Eight people in three rough rows in front of the cottage's pale-painted wood-clapboard wall, c. 1928. Back row: two young men in white shirts (one in tie, one with a dark hat in his lap); an older woman in a dark cloche hat with pale band and round spectacles, in a dark dress with cape collar — almost certainly Lillie Dale Chenoweth Eesley. Front row from left: a young man in tan straw boater and leather jacket; a young woman in cloche hat and dark coat holding a small dark book; a boy of about eleven or twelve in a plaid sweater; a small child of about four in a white pinafore-style smock; a smiling young man at right with thick dark hair and rolled sleeves. ([artifact page](/archive/black-lake-group-with-leonard-1928/))](../../assets/family/originals/black-lake-group-with-leonard-1928.jpeg)
+
+### Will at age 19 with a string of fish, c. 1929
+
+[Will Eesley](/family/wilbur-eesley/) standing in the shallows of Black Lake in a pale work shirt and dark trousers tucked into laced boots, holding up a string of two long fish &mdash; northern pike by their shape &mdash; from his afternoon's catch. Calm silver water, distant tree-line opposite. The second-earliest dated Black Lake photograph here. Will would have been just out of his teens; ten years before his brother Dale's drowning on this same lake.
+
+![Will Eesley at age 19 standing on the sandy Black Lake shore in c. 1929, in pale work shirt and dark wool jodhpurs-style trousers tucked into laced leather boots; head bowed, looking down at the string of two long fish (northern pike) he holds up by their tails; calm silver lake stretching to a distant tree-lined far shore. ([artifact page](/archive/will-eesley-black-lake-fishing-1929/))](../../assets/family/originals/Will%20Black%20Lake%201929%20Age%2019.jpeg)
 
 ### Will and Peggy with Charlie, Jeanne, and Anne on the dock, c. 1950–1952
 

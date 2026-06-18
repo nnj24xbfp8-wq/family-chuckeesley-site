@@ -10,7 +10,7 @@ summary: "The flour mill John F. Eesley built in Plainwell, Michigan in 1887 —
 significance: "The family surname literally on the historical register. Three generations of Eesley millers — Joseph in Hanwell, John in Old Stratford, John F. in Plainwell — and this is the building that closed the chain. It is the only piece of physical Eesley infrastructure to survive into the 21st century."
 relatedPeople:
   - john-f-eesley
-status: unreached
+status: photographed
 visits: []
 ---
 
@@ -27,5 +27,11 @@ visits: []
 **Recognition and reuse (2010 – ):** Listed on the National Register of Historic Places in 2010. The building's 100-year-old wooden floors, posts, and post-and-beam architecture were preserved during renovation, and the site now operates as **The Old Mill Brewpub** — a local restaurant, coffee shop, and brewery.
 
 > *No family photographs of the mill in operation are yet in this archive, and no Eesley descendant has yet stood at the building in the present generation. **Chuck plans the first family visit in November**, on the same trip as a talk at the University of Michigan; the page will move from* `unreached` *to* `photographed` *after that frame is made. The surviving present-day evidence for now is what others have photographed of the building — the **EESLEY MILL · BUILT 1903** sign on the present-day façade — visible in [the historical marker on hmdb.org](https://www.hmdb.org/m.asp?m=74530) and the [mlive coverage](https://www.mlive.com/penaseeglobe/2010/03/eesley_mill.html) when the building made the National Register in 2010.*
+
+## The "Historic Eesley Mill" sign
+
+![A tall vertical hanging sign, painted green and red with cream lettering, mounted on an iron bracket from a downtown Plainwell storefront. Stacked panels read: 'Historic EESLEY MILL' (header with wheat-sheaf emblem), 'PLAINWELL COFFEE MILL', 'DINNER IS SERVED CATERING', 'EESLEY PLACE BANQUETS', and 'HEAVENS PETALS FLOWERS'. Bright blue sky behind, bare tree at right. The Eesley name carried forward into the present commercial life of the mill site. ([artifact page](/archive/plainwell-eesley-mill-sign/))](../../assets/family/originals/Mill%20sign.jpeg)
+
+The Eesley name on the current downtown Plainwell sign &mdash; carrying [John F. Eesley](/family/john-f-eesley/)'s 1880s milling enterprise into the 21st-century commercial life of the building. The four panel businesses all operate on or around the mill site today.
 
 > *Sources: [J. F. Eesley Milling Co. Flour Mill–Elevator, Wikipedia](https://en.wikipedia.org/wiki/J._F._Eesley_Milling_Co._Flour_Mill%E2%80%93Elevator); [Plainwell mill history at mlive.com](https://www.mlive.com/penaseeglobe/2010/03/eesley_mill.html); historical marker at hmdb.org/m.asp?m=74530; [The Old Mill Brewpub opening, mlive.com](https://www.mlive.com/business/west-michigan/2012/02/new_brewpub_opens_this_week_in.html).*
