@@ -1,11 +1,11 @@
 ---
-title: "Charlie Eesley — formal studio portrait, c. 1972 (tentative; Marietta or Baltimore/Annapolis)"
+title: "Charlie Eesley — formal studio portrait, c. 1972, Annapolis area (tentative)"
 type: "Photograph"
 image: ../../assets/family/originals/charlie-eesley-formal-studio-portrait.jpeg
 medium: "Color formal studio portrait"
 dateCreated: "c. 1972 (tentative)"
 sortDate: "1972-06-01"
-placeCreated: "Marietta, Ohio — or Baltimore / Annapolis, Maryland (tentative)"
+placeCreated: "Annapolis, Maryland area (Sears years, tentative)"
 idNumber: "EESLEY-CHARLIE-FORMAL-STUDIO-PORTRAIT"
 provenance: "Eesley family archive."
 rights: "Family use; permission required for republication."
@@ -25,7 +25,9 @@ The styling &mdash; **wide-lapel suit, longer hair brushed back, clean shave** &
 
 ## Where it was taken
 
-The location is open between **Marietta, Ohio** and the **Baltimore / Annapolis, Maryland** area. Charlie and [Terrie](/family/terrie-lee-eesley/) lived around the Baltimore/Annapolis region in the years just after his Army discharge &mdash; the portrait may date from that period and have been made at an east-coast studio rather than back home in Marietta. Both possibilities are open until a studio mark on the back of the original print fixes it.
+The likely location is the **Annapolis, Maryland** area. Charlie and [Terrie](/family/terrie-lee-eesley/) settled around the Baltimore/Annapolis region after his June 1971 ETS from the U.S. Army, and Charlie worked at **Sears** through those east-coast years &mdash; the household where [Chuck](/family/charles-eric-eesley/) would be born in **December 1979** and where the family lived until the 1983 return to Marietta. A **company-portrait sitting at Sears** in the Annapolis area would explain the formal studio framing.
+
+Marietta, Ohio remains a backup possibility if the family was in Ohio for a stretch of c. 1972 &mdash; but the Annapolis years are the stronger fit.
 
 If the date holds, this is **the earliest civilian-life portrait of Charlie in the archive** &mdash; on the near side of the Vietnam tour, before the rest of his life folded in around it. The man looking past the camera here is **roughly the same Charlie of the [c. 1971 Vietnam-return photograph](/archive/charlie-returning-from-vietnam-c1971/) at his parents' Sixth Street house** &mdash; just a year or so later, in a studio rather than in front of bookshelves.
 
