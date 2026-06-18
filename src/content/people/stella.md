@@ -127,6 +127,30 @@ A wartime portrait of Ted Chong in U.S. Navy dress uniform with Stella beside hi
 
 The April 1945 date is significant &mdash; the war in the Pacific would not end for four more months. Ted's Navy service is a new biographical detail the archive had not previously carried.
 
+### The wedding day — c. April 1945
+
+The Roberta June 2026 batch also surfaced **three frames from Stella and Ted's wedding day itself**, all consistent with the same KISCO APR 10 1945 development date as the cherry-blossom photograph.
+
+#### The formal wedding portrait
+
+![Stella in a long white satin wedding gown with cathedral-length veil holding a cascading bouquet of white lilies, beside Ted in his U.S. Navy white dress uniform with brass buttons and a service ribbon bar; both stand in front of a studio backdrop of palm fronds and gladiolus arrangements. c. April 1945. ([artifact page](/archive/stella-ted-chong-wedding-portrait-1945/))](../../assets/family/originals/7365.jpeg)
+
+The studio bride-and-groom portrait. The palm fronds and gladiolus backdrop read as a hotel-ballroom photographer's setup of the early 1940s &mdash; the classic wartime wedding-day frame.
+
+#### At 230 N. Cassady Avenue, Bexley — with Will and Helen Eesley
+
+A labeled five-person outdoor group at **230 N. Cassady Avenue, Bexley** &mdash; the [Charles Leonard and Lillie Dale Eesley](/family/charles-leonard-eesley/) family house. The handwritten back of the print names all five figures: **Marietta Chong** (Ted's sister), [Will Eesley](/family/wilbur-eesley/) in a tweed suit and fedora holding a camera, **Stella Sunn (Chong)** in a dark wedding coat with white buttons, [Ted Chong](/family/ted-chong/) in Navy double-breasted dress uniform, and [Helen Eesley](/family/helen-burnes/) (then 21) in a dark sweater dress.
+
+![Marietta Chong, Will Eesley, Stella, Ted, and Helen Eesley at 230 N. Cassady Avenue, Bexley, on Stella and Ted's wedding day, c. April 1945. KISCO Photo Service stamp APR 10 1945 on the back; handwritten caption naming all five. ([artifact page](/archive/stella-ted-chong-wedding-cassady-group-1945/))](../../assets/family/originals/7366.jpeg)
+
+The labeled back of the print also writes Stella's full name in the form *"Stella Sunn (Chong),"* preserving her **Sunn** maiden surname alongside her married name.
+
+#### The nine-person porch group
+
+![Nine people on the front porch and walkway of 230 N. Cassady Avenue, Bexley, on Stella and Ted's wedding day, c. April 1945 — a child held up at left, the adults in two informal rows; Stella (in dark coat with white buttons) right of center, Ted (Navy uniform) at far right. The largest single-frame gathering from the wedding day in the archive. ([artifact page](/archive/stella-ted-chong-wedding-day-cassady-porch-1945/))](../../assets/family/originals/7364.jpeg)
+
+The largest single group frame from the wedding day. Cast partially identified from the labeled smaller-group photograph; the full nine-person cast remains open.
+
 ### Stella, Ted, and their two children — formal studio portrait, c. mid-1950s
 
 A formal family-of-four portrait of **Stella, Ted, and their two children** &mdash; **SueLynn** (the older girl, perhaps four or five, in a Chinese-style brocade tunic) and a toddler (perhaps two, possibly **Glenn**) on Stella's lap. Stella wears a **traditional Chinese silk cheongsam (旗袍)**, embroidered with floral motifs; Ted is in a white dinner jacket with a black bow-tie. The setting is a formally-decorated room with elaborate carved-wood paneling and hexagonal stained-glass windows behind &mdash; reading as a **Chinese-restaurant or community-association formal hall** of the mid-1950s.
