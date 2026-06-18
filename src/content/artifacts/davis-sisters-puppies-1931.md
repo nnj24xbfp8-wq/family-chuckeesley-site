@@ -12,7 +12,7 @@ rights: "Family use; permission required for republication."
 inscription: "From the left: Dorothy Davis - age 6; Betty Davis and Mary Davis. Cute little puppies and cute little bare feet."
 people:
   - dorothy-davis-wildermuth
-  - mary-davis
+  - mary-louise-davis-murdock
   - betty-davis
 relatedDocument: wildermuth-fleming-heritage-1990
 ---
@@ -23,6 +23,6 @@ The third of the Davis-sisters frames in the 1990 Heritage — Dorothy, Betty, a
 
 Paired with the [c. 1930 "why so glum?" frame](/archive/davis-sisters-1930-why-so-glum/) on the same page of the Heritage, this is the lighter of the two: the same three sisters about a year later, in the kind of summer-yard frame that ran through Ohio childhoods of the period. The puppies and the bare feet are the small textures of the [Unionville](/family/dorothy-davis-wildermuth/) backyard before the house fire that would relocate the household.
 
-The three Davis girls in this frame are the same three who, ninety years later, would still be running through Chuck's childhood in different forms — [Dorothy](/family/dorothy-davis-wildermuth/) as his maternal grandmother, [Betty](/family/betty-davis/) as his great-aunt and the wife of *Uncle Norm* the Wolfe-side anchor, [Mary](/family/mary-davis/) as the sister who stayed in Ohio. The kinship that runs through the [Norm and Betty Wolfe Thanksgiving 2011 frame](/archive/norm-betty-wolfe-thanksgiving-2011/) and the [Wolfe-Wildermuth long-visiting tradition](/family/terrie-lee-eesley/) named in Terrie's 2017 obituary starts here, in three small girls on a Washington County summer lawn.
+The three Davis girls in this frame are the same three who, ninety years later, would still be running through Chuck's childhood in different forms — [Dorothy](/family/dorothy-davis-wildermuth/) as his maternal grandmother, [Betty](/family/betty-davis/) as his great-aunt and the wife of *Uncle Norm* the Wolfe-side anchor, [Mary](/family/mary-louise-davis-murdock/) as the sister who stayed in Ohio. The kinship that runs through the [Norm and Betty Wolfe Thanksgiving 2011 frame](/archive/norm-betty-wolfe-thanksgiving-2011/) and the [Wolfe-Wildermuth long-visiting tradition](/family/terrie-lee-eesley/) named in Terrie's 2017 obituary starts here, in three small girls on a Washington County summer lawn.
 
 > *Source: [The Wildermuth/Fleming Heritage by Robert Earl Wildermuth, 1990](/docs/wildermuth-fleming-heritage-1990/) — Davis section.*

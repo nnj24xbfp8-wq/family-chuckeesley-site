@@ -9,6 +9,7 @@ parents:
 spouses:
   - dawn-wildermuth
 living: true
+sortBirth: "1961"
 summary: "Son of Robert Earl and Dorothy Wildermuth; Chuck's maternal uncle. Of Venice, Florida (per his sister Terrie's 2017 obituary), married to Dawn. Father of Sarah, Trey, and Thomas."
 ---
 

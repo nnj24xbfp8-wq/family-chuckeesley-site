@@ -9,6 +9,7 @@ parents:
 spouses:
   - angelo-massaro
 living: true
+sortBirth: "1956"
 summary: "Daughter of Robert Earl and Dottie Wildermuth; sister of Terrie Lee, Rob, and Sandy; Chuck's maternal aunt. Married Angelo Massaro (deceased before Terrie's 2017 death). Mother of Briana (Massaro) Lockett and Gian Carlo Massaro."
 ---
 
