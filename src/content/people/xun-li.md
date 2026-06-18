@@ -8,6 +8,7 @@ parents:
   - zhongchu-li
   - yaozhen-shang
 living: true
+sortBirth: "1956"
 summary: "Lijie's mother. Daughter of Zhongchu Li (1921–1982) and Yaozhen Shang (1921–2013). Married Ling Zhou in 1982 in Qingdao."
 ---
 

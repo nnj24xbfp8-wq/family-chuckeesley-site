@@ -8,6 +8,9 @@ birth:
 death:
   date: "2022-12-09"
   place: "Qingdao, Shandong, China"
+parents:
+  - maoli-zhou
+  - huancai-pang
 spouses:
   - yunzhe-sun
 portrait: ../../assets/family/originals/IMG_1803.jpeg
@@ -28,7 +31,7 @@ Outside the studio he kept a daily tai chi (太极拳) practice &mdash; the slow
 
 A late-life photograph of Lijie's paternal grandfather is in the archive: [a visit with Lijie's parents](/archive/visit-with-zhaoxiang-zhou-and-family/) &mdash; the elder Zhou seated between his son and daughter-in-law, Lijie and Chuck standing behind, taken in a community gathering room with a colorful folk-art mural behind them. A companion frame from the same visit, with one of his daughters and her husband, is in the family's keeping and will be placed when re-uploaded.
 
-The Zhou family of Jiaozhou Shi extends further back than Lijie's paternal grandfather in this archive: his parents [Zhou Huiting](/family/huiting-zhou/) and [Leng](/family/leng-zhou/), and his own grandfather [Zhou Maoli](/family/maoli-zhou/) (who died in Jiaozhou Shi in 1935), are documented as far back as Lijie's family's oral record currently reaches. Further generations may follow as Lijie's family is able to add them.
+The Zhou family of Jiaozhou Shi extends further back than Lijie's paternal grandfather in this archive: his father [Zhou Maoli](/family/maoli-zhou/) (who died in Jiaozhou Shi in 1935, when Zhaoxiang was five), and before him his grandparents [Zhou Huiting](/family/huiting-zhou/) and [Leng](/family/leng-zhou/), are documented as far back as Lijie's family's oral record currently reaches. Zhaoxiang's brother [Zhaozheng](/family/zhaozheng-zhou/) (b. 1938) and sister [Xiuzhen](/family/xiuzhen-zhou/) complete his own sibling set. Further generations may follow as Lijie's family is able to add them.
 
 ## See also — family threads
 
@@ -59,7 +62,7 @@ Zhou Zhaoxiang is the Zhou-side anchor for two of the ten threads in the [Family
 
 照相馆之外，他每日坚持太极拳练习 &mdash; 这一缓慢的站桩冥想式拳法，塑造了一代又一代中国老人身姿。摄影机的精准与晨练时太极拳的从容 &mdash; 二者合起来，便是他度过九十多年人生的姿态写照。
 
-他是本档案目前周氏一脉记载最深的祖辈。再往前可追溯至他的父母 [周慧亭](/family/huiting-zhou/) 与 [冷氏](/family/leng-zhou/)、以及他自己的父亲 [周茂礼](/family/maoli-zhou/)（1935年卒于胶州）。
+再往前可追溯至他的父亲 [周茂礼](/family/maoli-zhou/)（1935年卒于胶州，时兆祥五岁），以及更上一辈的祖父母 [周慧亭](/family/huiting-zhou/) 与 [冷氏](/family/leng-zhou/) &mdash; 这是本档案目前周氏一脉记载最深的几代。兆祥的弟弟 [周兆帧](/family/zhaozheng-zhou/)（1938年生）与妹妹 [周秀珍](/family/xiuzhen-zhou/) 同属其手足一辈。
 
 ### 兆字辈
 

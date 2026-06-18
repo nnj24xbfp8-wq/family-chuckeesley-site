@@ -5,6 +5,8 @@ line: zhou
 parents:
   - zhaoxiang-zhou
   - yunzhe-sun
+spouses:
+  - jianxun-hao
 living: true
 summary: "Lijie's paternal aunt; sister of Ling Zhou (Lijie's father). Daughter of Zhaoxiang Zhou and Yunzhe Sun."
 ---

@@ -5,7 +5,10 @@ line: zhou
 parents:
   - zhongchu-li
   - yaozhen-shang
+spouses:
+  - de-chang-ding
 living: true
+sortBirth: "1957"
 summary: "Lijie's maternal aunt; younger sister of Xun Li (Lijie's mother)."
 ---
 
