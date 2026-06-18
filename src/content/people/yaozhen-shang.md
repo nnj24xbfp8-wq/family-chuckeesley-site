@@ -7,6 +7,9 @@ birth:
   place: "Qingdao, Shandong, China"
 death:
   date: "2013-01-10"
+parents:
+  - dechen-shang
+  - chune-tan
 spouses:
   - zhongchu-li
 summary: "Lijie's maternal grandmother. Born 11 September 1921 in Qingdao — the same year and the same city as her future husband Zhongchu Li. Outlived her husband by more than thirty years and lived to see her granddaughter Lijie grow up. Died 10 January 2013, age 91."
