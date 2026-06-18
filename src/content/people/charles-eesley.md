@@ -2,6 +2,7 @@
 name: "Charles McMaster Eesley"
 aka: "Charlie; Dad"
 line: paternal
+portrait: ../../assets/family/originals/charlie-eesley-formal-studio-portrait.jpeg
 birth:
   date: "1947-02-17"
   place: "Columbus, Ohio"
