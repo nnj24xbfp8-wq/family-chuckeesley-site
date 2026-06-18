@@ -5,8 +5,18 @@ import { getCollection } from 'astro:content';
 const places = await getCollection('places');
 
 // Group by country. Hand-ordered to follow the two-family narrative:
-// English origins → German origins → Chinese origins → American settlement → Vietnam.
-const countryOrder = ['England', 'Germany', 'China', 'United States', 'Vietnam'];
+// English origins → German origins → Chinese origins → American settlement → Pacific theater → Vietnam.
+const countryOrder = [
+  'England',
+  'Germany',
+  'China',
+  'Japan',
+  'United States',
+  'Philippines',
+  'Indonesia',
+  'Palau',
+  'Vietnam',
+];
 
 const groups = new Map<string, typeof places>();
 for (const p of places) {

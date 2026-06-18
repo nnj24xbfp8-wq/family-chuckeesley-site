@@ -2,7 +2,7 @@
 title: "Canton Island — the Pacific ferry stop, 15 November 1944"
 name: "Canton Island, Phoenix Group"
 region: pacific
-country: US
+country: "United States"
 summary: "A mile-long sand atoll in the Phoenix Islands of the central Pacific, 1,100 miles southwest of Honolulu — Robert Earl Wildermuth's first ferry-leg stop on the way to the war in November 1944. The airstrip ran water's-edge to water's-edge across the atoll's narrow width. The Van Valen crew's first overnight stop after the Honolulu hop; a grizzled sergeant met them at the nose compartment asking if they had any whiskey aboard ($50 a bottle on these atolls). Operated as a U.S. wartime air-ferry refueling stop and now a remote Kiribati-administered atoll."
 significance: "The smallest place Robert Earl ever landed an airplane. The atoll's single-tree weather station and $50 whiskey bottles capture the loneliness of the Pacific ferry route in November 1944 — the half-step between the United States and the war."
 ---

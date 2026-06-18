@@ -2,7 +2,7 @@
 title: "Ie Shima — 90th Bomb Group forward base, summer 1945; the surrender and the MGM camera"
 name: "Ie Shima, Ryukyu Islands"
 region: asia
-country: JP
+country: "Japan"
 summary: "Small coral island off the northwest coast of Okinawa, captured by U.S. forces in April 1945 during the Battle of Okinawa. War correspondent Ernie Pyle was killed by a Japanese sniper here on 18 April 1945 — the most prominent American war-reporter death of WWII. The 90th Bomb Group moved forward to Ie Shima for the last months of the war. From this strip Robert Earl Wildermuth's Van Valen crew flew the cancelled-then-Shanghai-redirected suicide mission of late July 1945, watched the Japanese surrender delegation land in three green-cross-painted Betty bombers in August, hid in foxholes through the peace-celebration friendly-fire night, rode out the 185-knot Pacific typhoon, and finally flew the MGM newsreel cameraman over Nagasaki c. mid-September 1945."
 significance: "The closing chapter of Robert Earl's Pacific tour — the strip where he watched the war end and waited to go home. The MGM newsreel cameraman over Nagasaki flight launched from here. Ie Shima also holds the Ernie Pyle memorial — one of the war's quietest and most resonant losses."
 ---

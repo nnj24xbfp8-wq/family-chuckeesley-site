@@ -2,7 +2,7 @@
 title: "Black Lake, Michigan — the Eesley cottage"
 name: "Black Lake, Michigan"
 region: midwest
-country: US
+country: "United States"
 summary: "Black Lake in northern Michigan was the Eesley family's summer place across the 1920s–1940s. Charles Leonard and Lillie Dale Eesley owned a cottage on the lake; every summer their children and grandchildren came up. It is the place where Dale Eesley drowned on 14 July 1939 on an errand across the water — and where the surviving Eesley summer-family stories are set: the false-teeth boat the children found, Charles Leonard's 4 AM fishing trips and his 'Consarn it!!' echoing across the water, his Chief Whitecloud impersonation by canoe to fool the children at their campfire, the long visits with the Feathers family. The cottage burned down sometime in the 1950s and was not rebuilt."
 significance: "Black Lake in northern Michigan — between Cheboygan and Onaway — was the Eesley family's summer place across the 1920s, 1930s, and 1940s. Charles Leonard and Lillie Dale Eesley owned a cottage on the lake; every summer their children and grandchildren came up, sometimes for weeks at a time. It is the place where Dale Eesley drowned on 14 July 1939 on an errand across the water. It is also the place where most of the surviving Eesley summer-family stories are set — the false-teeth boat the children found, Charles Leonard's 4 AM fishing trips and his 'Consarn it!!' echoing across the water, his Chief Whitecloud impersonation by canoe to fool the children at their campfire, the long visits with the Feathers family. The cottage burned down sometime in the 1950s and was not rebuilt; the lake stayed in family memory."
 ---

@@ -2,7 +2,7 @@
 title: "Leyte Air Field (Tacloban) — 22nd Bomb Group attachment, January 1945"
 name: "Leyte Air Field, Tacloban, Philippines"
 region: asia
-country: PH
+country: "Philippines"
 summary: "U.S. Army Air Forces airfield at Tacloban on the northeast coast of Leyte Island in the central Philippines. Captured by U.S. forces during the October 1944 Leyte landings — Douglas MacArthur came ashore here on 20 October 1944 with his famous 'I have returned' speech. The 22nd Bomb Group moved to Tacloban from Peleliu in early January 1945, and Robert Earl Wildermuth's attached Van Valen crew flew five night Taiwan missions from this strip — 16, 17, 18, 19, and 20 January 1945. Heavy Japanese counter-air-raids hit the town nearly every night."
 significance: "The base from which the Van Valen crew flew their five January 1945 night missions over Taiwan — including the 17 January Strosier-Courtney crash on Samar and the 19 January Tokyo Rose beer-bottle response. 50,000 newly-landed Japanese troops were still fighting on Leyte; the crew jumped into foxholes most nights to watch the searchlights track Japanese bombers over Tacloban."
 ---

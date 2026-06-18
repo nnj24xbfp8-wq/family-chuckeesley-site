@@ -2,7 +2,7 @@
 title: "Mokmer Drome, Biak Island — 400th BS home base, Nov 1944 to Jan 1945"
 name: "Mokmer Drome, Biak Island"
 region: pacific
-country: ID
+country: "Indonesia"
 summary: "Airfield on Biak Island, in the Schouten Islands off the northwest coast of Dutch New Guinea (now Papua, Indonesia). Captured by US forces in June 1944 after the bloody Battle of Biak; became the 5th Air Force's main bomber base in the Netherlands East Indies. The 400th Bombardment Squadron, 90th Bomb Group ('Jolly Rogers') moved here on 12 August 1944. Robert Earl Wildermuth joined the squadron at Mokmer in late November 1944 after his Travis-Honolulu-Canton ferry route. The squadron stayed at Biak until late January 1945, when it moved forward to McGuire Field at Mindoro in the Philippines."
 significance: "The base from which Robert Earl Wildermuth flew his first combat missions of the Pacific tour — the home tent area he returned to from the 22nd Bomb Group's Peleliu and Tacloban attachments in January 1945, only to find it being struck for the move to Mindoro."
 ---

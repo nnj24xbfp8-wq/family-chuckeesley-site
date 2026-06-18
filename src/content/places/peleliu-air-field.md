@@ -2,7 +2,7 @@
 title: "Peleliu Air Field — 22nd Bomb Group attachment, December 1944"
 name: "Peleliu Air Field, Palau Islands"
 region: pacific
-country: PW
+country: "Palau"
 summary: "U.S. Marine Corps and Army Air Forces airfield on Peleliu Island in the Palau Islands group, captured in the Battle of Peleliu (September–November 1944) at a cost of nearly 1,800 American dead — one of the war's most costly small-island campaigns. Robert Earl Wildermuth's B-24 crew operated from Peleliu on temporary attachment to the 22nd Bomb Group in December 1944, flying their first two night missions over Taiwan from the strip. Heavy fighting was still going on; Japanese stragglers were hiding in the island's coral caves. The crew slept with .45-caliber pistols under their pillows after a duffel-bag intruder incident."
 significance: "Robert Earl's first combat-base — and the place where the crew first flew night missions and first slept with weapons within arm's reach. The 'sonar-controlled searchlight' propeller-pitch countermeasure that worked over Taiwan was learned in the 22nd BG briefing tent here."
 ---
