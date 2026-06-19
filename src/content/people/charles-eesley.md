@@ -26,7 +26,7 @@ The single longest piece of Charlie's own voice in this archive is [&ldquo;My Mo
 
 ## The Annapolis years and the 1983 return to Marietta
 
-After his June 1971 ETS from the U.S. Army, Charlie and [Terrie](/family/terrie-lee-eesley/) settled on the east coast &mdash; in the **Annapolis, Maryland** area &mdash; where Charlie worked at **Sears** in the years that followed. [Chuck](/family/charles-eric-eesley/) was born in **Annapolis on 4 December 1979**; the Annapolis household carried the family's first decade of married life.
+After his June 1971 ETS from the U.S. Army, Charlie and [Terrie](/family/terrie-lee-eesley/) settled on the east coast &mdash; in the **Annapolis, Maryland** area &mdash; where Charlie worked at **Sears** in the years that followed. [Chuck](/family/charles-eric-eesley/) was born there; the Annapolis household carried the family's first decade of married life.
 
 The family **moved back to Marietta in 1983, to 137 Hillcrest Drive** &mdash; on the same street as Chuck's [Aunt Betty (Davis) Wolfe](/family/betty-davis/) and [Uncle Norm Wolfe](/family/norman-wolfe/) at [108 Hillcrest Drive](/places/108-hillcrest-drive-marietta/), a few houses down. Chuck was three years old. The Hillcrest proximity to Betty and Norm anchored the next chapter of his childhood: the holiday-host household down the street that the [108 Hillcrest place page](/places/108-hillcrest-drive-marietta/) describes.
 

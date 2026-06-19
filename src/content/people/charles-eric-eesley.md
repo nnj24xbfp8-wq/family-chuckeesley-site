@@ -3,7 +3,6 @@ name: "Charles Eric 'Chuck' Eesley"
 aka: "Chuck"
 line: paternal
 birth:
-  date: "1979-12-04"
   place: "Annapolis, Anne Arundel, Maryland"
 generation: 7
 parents:
@@ -12,7 +11,7 @@ parents:
 spouses:
   - lijie-zhou
 living: true
-summary: "Keeper of this archive. Born 4 December 1979 in Annapolis, Maryland; raised on Highland Ridge Road in Lowell, Ohio (Washington County, about ten miles north of Marietta proper, in the house Will Eesley the architect designed and built); married to Lijie Zhou; W. M. Keck Foundation Faculty Scholar in Management Science & Engineering at Stanford University."
+summary: "Keeper of this archive. Born in Annapolis, Maryland; raised on Highland Ridge Road in Lowell, Ohio (Washington County, about ten miles north of Marietta proper, in the house Will Eesley the architect designed and built); married to Lijie Zhou; W. M. Keck Foundation Faculty Scholar in Management Science & Engineering at Stanford University."
 ---
 
 This site is Chuck's contribution to the family record &mdash; the narrative archive that sits alongside [Dale Eesley's structured FamilySearch tree](/docs/dale-eesley-familysearch-tree/). Robert Earl Wildermuth closed his memoirs by addressing *"future genealogists."* This is one of them at work.
