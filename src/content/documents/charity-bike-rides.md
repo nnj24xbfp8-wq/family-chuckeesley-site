@@ -34,6 +34,32 @@ A handful of **destination rides** &mdash; Mo'omomi Beach on Molokai (2025), Ast
 
 ---
 
+## Prehistory &mdash; the earliest documented rides, c. 1981&ndash;1986
+
+Before the charity rides, before the Bay Area road bikes, before Sequoia or Asti or any video at all, there were two stretches of toddler-and-elementary-school riding in the family album. Surfaced here, **in jest**, as the deepest archaeological layer of the cycling corpus.
+
+### Annapolis, c. 1981&ndash;83 &mdash; the Radio Flyer trike
+
+[Chuck on the red tricycle in the driveway of the Annapolis house](/archive/young-chuck-on-trike-annapolis-c1982/), c. age two &mdash; in the [Annapolis years](/family/charles-eesley/) before the family moved back to Marietta. **The earliest known frame of him on three wheels.**
+
+![Toddler Chuck in a red anchor-print romper and sandals on a red Radio Flyer tricycle in the driveway of the Annapolis, Maryland house, c. 1981–83. ([artifact page](/archive/young-chuck-on-trike-annapolis-c1982/))](../../assets/family/originals/young-chuck-on-trike-annapolis-c1982.jpeg)
+
+### Hillcrest, c. 1984&ndash;86 &mdash; the BMX cruiser indoors with training wheels
+
+[Chuck at roughly five or six on the same red BMX bike with training wheels, indoors at the Hillcrest house](/archive/young-chuck-on-bike-hillcrest-c1984-86/), grinning. The brick fireplace + wood-paneled rec room places the family's first house after the 1983 [Marietta return](/family/charles-eesley/).
+
+![Young Chuck on a red BMX-style bike with training wheels, indoors on a patterned rug at Hillcrest Drive Marietta, c. 1984–86. ([artifact page](/archive/young-chuck-on-bike-hillcrest-c1984-86/))](../../assets/family/originals/young-chuck-on-bike-hillcrest-c1984-86.jpeg)
+
+### Highland Ridge, c. 1984&ndash;86 &mdash; the wet blacktop loop
+
+[Same bike, same training wheels, outdoors on the blacktop loop driveway at Highland Ridge](/archive/young-chuck-on-bike-highland-ridge-c1984-86/) &mdash; the house [Will the architect](/family/wilbur-eesley/) had designed for the family.
+
+![Young Chuck on a red BMX-style bike with training wheels on the wet blacktop loop driveway at Highland Ridge Road, Lowell, c. 1984–86. ([artifact page](/archive/young-chuck-on-bike-highland-ridge-c1984-86/))](../../assets/family/originals/young-chuck-on-bike-highland-ridge-c1984-86.jpeg)
+
+A thirty-year gap then runs to the [2014 Sequoia Half Century](/docs/charity-bike-rides/#2014) below &mdash; the first ride in the corpus with a five-minute YouTube cut.
+
+---
+
 ## The video record, year by year
 
 Each ride below is a roughly five-minute YouTube recap.
