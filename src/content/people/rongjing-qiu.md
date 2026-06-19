@@ -2,9 +2,11 @@
 name: "Qiu Rongjing 邱蓉镜"
 aka: "Rongjing Qiu"
 line: zhou
+death:
+  date: "1974"
 spouses:
   - fengting-li
-summary: "Lijie's maternal great-grandmother. Wife of Fengting Li; mother of Zhongchu Li and his three siblings."
+summary: "Lijie's maternal great-grandmother. Wife of Fengting Li; mother of Zhongchu Li and his three siblings. Died 1974."
 ---
 
 <p class="not-prose my-4 p-3 border-l-4 border-rule bg-ink/5 text-sm"><strong>📖 本页含中文版本 — <a href="#zh">点此跳至中文 ↓</a></strong> &nbsp;·&nbsp; <em>This page has a Chinese version below.</em></p>

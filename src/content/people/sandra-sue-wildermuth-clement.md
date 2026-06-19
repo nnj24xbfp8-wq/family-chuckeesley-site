@@ -7,6 +7,7 @@ parents:
   - robert-earl-wildermuth
   - dorothy-davis-wildermuth
 living: true
+sortBirth: "1951"
 summary: "Daughter of Robert Earl and Dottie Wildermuth; sister of Terrie Lee Eesley, Rob Wildermuth Jr., and Debra Wildermuth Massaro; Chuck's maternal aunt. Traveled with Robert Earl on the November 1992 Germany pilgrimage and stands at the Rielingshausen town fountain in his print of that visit. Of Atlanta, Georgia at the time of her sister Terrie's death in 2017."
 ---
 

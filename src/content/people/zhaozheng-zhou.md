@@ -8,6 +8,8 @@ birth:
 parents:
   - maoli-zhou
   - huancai-pang
+spouses:
+  - su-ying-xian
 summary: "Lijie's paternal great-uncle — brother of her grandfather Zhaoxiang Zhou. Born 1938 in Jiaozhou Shi. Married Su Ying Xian."
 ---
 

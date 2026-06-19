@@ -12,7 +12,7 @@ rights: "Family use; permission required for republication."
 inscription: "From the left: Mary Davis - age 6; Dorothy Davis - age 5 and Betty Davis - age 4. Why so glum?"
 people:
   - dorothy-davis-wildermuth
-  - mary-davis
+  - mary-louise-davis-murdock
   - betty-davis
 relatedDocument: wildermuth-fleming-heritage-1990
 ---

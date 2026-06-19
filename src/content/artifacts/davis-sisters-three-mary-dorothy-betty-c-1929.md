@@ -12,7 +12,7 @@ rights: "Family use; permission required for republication."
 inscription: "From the left: Mary Davis age 5; Dorothy Davis age 4; Betty Davis age 3"
 people:
   - dorothy-davis-wildermuth
-  - mary-davis
+  - mary-louise-davis-murdock
   - betty-davis
 relatedDocument: wildermuth-fleming-heritage-1990
 ---

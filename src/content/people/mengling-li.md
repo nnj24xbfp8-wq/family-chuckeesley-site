@@ -5,7 +5,10 @@ line: zhou
 parents:
   - zhongchu-li
   - yaozhen-shang
+spouses:
+  - an-qin-teng
 living: true
+sortBirth: "1952"
 summary: "Lijie's maternal uncle; elder brother of Xun Li (Lijie's mother)."
 ---
 

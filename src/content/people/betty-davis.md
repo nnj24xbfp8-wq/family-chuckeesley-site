@@ -29,7 +29,7 @@ summary: "Dorothy Marie Davis Wildermuth's younger sister — Chuck's great-aunt
 
 Born **16 March 1926 in McConnelsville, Morgan County, Ohio** &mdash; about thirty miles north of Marietta &mdash; she was the **third of four children** of [Homer Edward Davis](/family/homer-davis/) (1900&ndash;1982) and [Bessie Marie ("Marie") Hill Davis](/family/bessie-hill-davis/) (c. 1906&ndash;1950). Her siblings:
 
-- **[Mary Louise Davis Murdock](/family/mary-davis/)** (b. 1924) &mdash; eldest sister, married name **Murdock** per Betty's own 2015 obituary.
+- **[Mary Louise Davis Murdock](/family/mary-louise-davis-murdock/)** (b. 1924) &mdash; eldest sister, married name **Murdock** per Betty's own 2015 obituary.
 - **[Dorothy Marie Davis Wildermuth](/family/dorothy-davis-wildermuth/)** (b. 24 February 1925) &mdash; **Chuck's grandmother**, just thirteen months Betty's senior.
 - **Betty Jean Davis Wolfe** (b. 16 March 1926) &mdash; this page.
 - **[William Harvey Davis Sr.](/family/william-harvey-davis-sr/)** (b. 20 August 1941, d. 22 April 2022) &mdash; their much-younger brother. Married Becky Angel in 1963; later lived in Gap Mills, West Virginia; buried in Ronceverte, West Virginia.

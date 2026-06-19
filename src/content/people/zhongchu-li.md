@@ -7,6 +7,9 @@ birth:
   place: "Qingdao, Shandong, China"
 death:
   date: "1982-11-01"
+parents:
+  - fengting-li
+  - rongjing-qiu
 spouses:
   - yaozhen-shang
 portrait: ../../assets/family/originals/IMG_0824.jpeg
