@@ -6,12 +6,20 @@
   html {
     @apply bg-cream text-ink;
     font-family: 'Cormorant Garamond', Georgia, serif;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
   }
   body {
     @apply leading-relaxed;
   }
   a {
     @apply text-sepia underline decoration-rule decoration-1 underline-offset-2 hover:decoration-sepia;
+  }
+  a:focus-visible {
+    outline: 2px solid #8c6a3b;
+    outline-offset: 2px;
+    border-radius: 2px;
   }
   h1, h2, h3 {
     @apply font-serif tracking-tight;
