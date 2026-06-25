@@ -17,7 +17,7 @@ people:
   - helen-burnes
 ---
 
-A **labeled five-person outdoor group photograph** taken at **[230 N. Cassady Avenue, Bexley, Franklin County, Ohio](/family/charles-leonard-eesley/)** &mdash; the [Charles Leonard and Lillie Dale Eesley](/family/charles-leonard-eesley/) family house &mdash; on Stella and Ted's wedding day, c. April 1945. The KISCO Certified Photo Service stamp on the back reads **APR 10 1945**, fixing the development date to the same week as the [Tidal Basin cherry-blossom photograph](/archive/ted-chong-navy-with-stella-cherry-blossoms-april-1945/).
+A **labeled five-person outdoor group photograph** taken at **[230 N. Cassady Avenue, Bexley, Franklin County, Ohio](/family/charles-leonard-eesley/)** &mdash; the [Charles Leonard and Lillie Dale Eesley](/family/charles-leonard-eesley/) family house &mdash; on Stella and Ted's wedding day, c. April 1945. The KISCO Certified Photo Service stamp on the back reads **APR 10 1945**, fixing the development date to the same week as the Tidal Basin cherry-blossom photograph.
 
 ## The cast &mdash; labeled
 
@@ -26,7 +26,7 @@ The handwritten caption on the back of the print, in blue ink, names all five fi
 - **Marietta Chong** &mdash; at left, in a dark floral-print dress; **Ted's sister**, the maid-of-honor or close family attendant.
 - **[Will Eesley](/family/wilbur-eesley/)** &mdash; Stella's brother (and Chuck's grandfather), in a tweed suit and fedora hat, holding a camera. The presence of the family-side architect on Stella's wedding day is one of the only direct documentary contacts in this archive between Stella's Chong-side branch and the rest of the Eesley line.
 - **[Stella Sunn (Chong)](/family/stella/)** &mdash; center, in a dark wool wedding coat with large white buttons over what is presumably her wedding dress. The caption uses her full married name &mdash; **Sunn (Chong)** &mdash; preserving her Chinese-American surname Sunn alongside her married name Chong.
-- **[Ted Chong](/family/ted-chong/)** &mdash; in his **U.S. Navy double-breasted dark dress uniform** with brass buttons, the same uniform he wears in the [10 April 1945 cherry-blossom portrait](/archive/ted-chong-navy-with-stella-cherry-blossoms-april-1945/).
+- **[Ted Chong](/family/ted-chong/)** &mdash; in his **U.S. Navy double-breasted dark dress uniform** with brass buttons, the same uniform he wears in the 10 April 1945 cherry-blossom portrait.
 - **[Helen (Eesley) Burnes](/family/helen-burnes/)** &mdash; at right, in a dark turtleneck-style sweater dress with a slim belt. **Helen was twenty-one years old** at her sister-in-law's wedding day &mdash; the youngest of Charles Leonard and Lillie Dale's surviving children.
 
 ## Why the photograph matters

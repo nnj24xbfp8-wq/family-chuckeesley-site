@@ -27,7 +27,7 @@ The **four of them** &mdash; standing together against the Highland Ridge stone 
 
 ## The fireplace and what it carries
 
-The **stone fireplace wall behind them** is the [Highland Ridge house's defining interior feature](/places/highland-ridge-road/) &mdash; Will's architect's eye for natural stone, brought to the family room of the home he designed. A small wooden ledge supports a basket-and-broom folk-art arrangement at the right; a small carved figure (possibly Asian-inspired, fitting the Eesleys' Japan-and-Hong-Kong travel architectural taste) sits at the lower left.
+The **stone fireplace wall behind them** is the [Highland Ridge house's defining interior feature](/places/highland-ridge-road-marietta/) &mdash; Will's architect's eye for natural stone, brought to the family room of the home he designed. A small wooden ledge supports a basket-and-broom folk-art arrangement at the right; a small carved figure (possibly Asian-inspired, fitting the Eesleys' Japan-and-Hong-Kong travel architectural taste) sits at the lower left.
 
 ## Dating — the late seventies to early eighties
 

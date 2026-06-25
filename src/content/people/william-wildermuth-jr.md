@@ -26,6 +26,6 @@ After William Jr.'s death, the family went on to have **[Earl Adam](/family/earl
 
 ## In the 1896 family portrait
 
-The archive holds a **[c. 1896 Wildermuth family portrait](/archive/william-clifford-wildermuth-family-portrait-1896/)** of William Clifford and Flora with three of their children. **If the youngest child in that portrait is the infant William Jr.**, this archive holds **the only surviving photograph of him &mdash; an infant who would die before his second birthday**. The 1896 portrait would have been taken in the same year of his April birth, possibly within his first months of life. Cast confirmation of the infant figure in that portrait is queued for the family-research layer.
+The archive holds a **[c. 1896 Wildermuth family portrait](/archive/william-wildermuth-family-group-portrait/)** of William Clifford and Flora with three of their children. **If the youngest child in that portrait is the infant William Jr.**, this archive holds **the only surviving photograph of him &mdash; an infant who would die before his second birthday**. The 1896 portrait would have been taken in the same year of his April birth, possibly within his first months of life. Cast confirmation of the infant figure in that portrait is queued for the family-research layer.
 
 > *Sources: [Dale Eesley / FamilySearch — Wildermuth family record](https://www.familysearch.org/); [Robert Earl Wildermuth's 1990 Wildermuth/Fleming Heritage](/docs/wildermuth-fleming-heritage-1990/).*
