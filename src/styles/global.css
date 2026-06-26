@@ -6,12 +6,16 @@
   html {
     @apply bg-cream text-ink;
     font-family: 'Cormorant Garamond', Georgia, serif;
+    /* Cormorant Garamond has a small x-height and light strokes; a slightly
+       larger root keeps it comfortable to read. Scales type + spacing together. */
+    font-size: 18px;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
   }
   body {
     @apply leading-relaxed;
+    font-weight: 500;
   }
   a {
     @apply text-sepia underline decoration-rule decoration-1 underline-offset-2 hover:decoration-sepia;
