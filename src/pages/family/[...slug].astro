@@ -43,7 +43,7 @@ const personLink = (p: { id: string; data: { name: string } }) =>
   <article>
     {person.data.portrait && (
       <figure class="mb-6">
-        <Image src={person.data.portrait} alt={d.name} class="w-full max-w-2xl mx-auto" />
+        <Image src={person.data.portrait} alt={d.name} class="w-full max-w-2xl mx-auto border border-rule" />
       </figure>
     )}
     <header class="mb-8 pb-4 border-b border-rule">
@@ -116,7 +116,7 @@ const personLink = (p: { id: string; data: { name: string } }) =>
           {arts.map((a) => (
             <figure class="m-0">
               <a href={`/archive/${a.id}/`} class="block no-underline">
-                <Image src={a.data.image} alt={a.data.title} class="w-full" />
+                <Image src={a.data.image} alt={a.data.title} class="w-full border border-rule" />
                 <figcaption class="text-sm mt-2">
                   <span class="font-serif">{a.data.title}</span>
                   {a.data.dateCreated && <span class="text-ink/60"> &middot; {a.data.dateCreated}</span>}

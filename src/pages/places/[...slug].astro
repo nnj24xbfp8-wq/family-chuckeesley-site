@@ -64,14 +64,14 @@ const relatedDocs = d.relatedDocuments
                 {p.caption && <p class="text-sm text-ink/70 italic mb-3" set:html={p.caption} />}
                 <div class={gridClass}>
                   <figure>
-                    <Image src={p.thenImage} alt={`${p.subject} — ${p.thenYear}`} class="w-full" />
+                    <Image src={p.thenImage} alt={`${p.subject} — ${p.thenYear}`} class="w-full border border-rule" />
                     <figcaption class="text-xs text-ink/60 mt-1">
                       <span class="uppercase tracking-wider">{p.thenYear}</span>
                       {p.thenCaption && <> &middot; <span set:html={p.thenCaption} /></>}
                     </figcaption>
                   </figure>
                   <figure>
-                    <Image src={p.nowImage} alt={`${p.subject} — ${p.nowYear}`} class="w-full" />
+                    <Image src={p.nowImage} alt={`${p.subject} — ${p.nowYear}`} class="w-full border border-rule" />
                     <figcaption class="text-xs text-ink/60 mt-1">
                       <span class="uppercase tracking-wider">{p.nowYear}</span>
                       {p.nowCaption && <> &middot; <span set:html={p.nowCaption} /></>}
@@ -79,7 +79,7 @@ const relatedDocs = d.relatedDocuments
                   </figure>
                   {hasEcho && p.echoImage && (
                     <figure>
-                      <Image src={p.echoImage} alt={`${p.subject} — ${p.echoYear ?? 'echo'}`} class="w-full" />
+                      <Image src={p.echoImage} alt={`${p.subject} — ${p.echoYear ?? 'echo'}`} class="w-full border border-rule" />
                       <figcaption class="text-xs text-ink/60 mt-1">
                         {p.echoYear && <span class="uppercase tracking-wider">{p.echoYear}</span>}
                         {p.echoCaption && <> &middot; <span set:html={p.echoCaption} /></>}
@@ -113,7 +113,7 @@ const relatedDocs = d.relatedDocuments
                 {v.images.length > 0 ? (
                   <div class="space-y-3">
                     {v.images.map((img) => (
-                      <Image src={img} alt={v.caption ?? d.title} class="w-full" />
+                      <Image src={img} alt={v.caption ?? d.title} class="w-full border border-rule" />
                     ))}
                   </div>
                 ) : (
