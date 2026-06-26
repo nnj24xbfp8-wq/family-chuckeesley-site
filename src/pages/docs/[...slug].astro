@@ -117,7 +117,7 @@ const nextDoc = seqIndex >= 0 && seqIndex < seq.length - 1 ? seq[seqIndex + 1] :
         <div class="space-y-6">
           {doc.data.scans.map((img, i) => (
             <figure>
-              <Image src={img} alt={`${doc.data.title} — scan ${i + 1}`} class="w-full max-w-2xl mx-auto border border-rule" />
+              <Image src={img} alt={`${doc.data.title} — scan ${i + 1}`} class="mx-auto h-auto border border-rule max-w-[min(32rem,100%)]" />
             </figure>
           ))}
         </div>

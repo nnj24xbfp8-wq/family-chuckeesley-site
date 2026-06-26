@@ -37,7 +37,7 @@ const catalogue: [string, string | undefined][] = [
     <h1 class="text-3xl font-serif mb-4">{d.title}</h1>
 
     <figure class="mb-8">
-      <Image src={d.image} alt={d.title} class="w-full max-w-2xl mx-auto border border-rule" />
+      <Image src={d.image} alt={d.title} class="mx-auto h-auto border border-rule max-w-[min(32rem,100%)]" />
     </figure>
 
     <div class="prose prose-stone max-w-prose mb-10">
