@@ -6,9 +6,10 @@
   html {
     @apply bg-cream text-ink;
     font-family: 'Cormorant Garamond', Georgia, serif;
-    /* Cormorant Garamond has a small x-height and light strokes; a slightly
-       larger root keeps it comfortable to read. Scales type + spacing together. */
-    font-size: 18px;
+    /* Cormorant Garamond has a small x-height and light strokes; a larger root
+       keeps it comfortable to read, including for older readers. Scales type +
+       spacing together. */
+    font-size: 20px;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
