@@ -12,6 +12,8 @@ generation: 3
 parents:
   - johann-michael-wildermuth
   - catharina-boeshar-wildermuth
+spouses:
+  - arminda-jane-hayes-wildermuth
 summary: "Youngest of Johann Michael Wildermuth and Catharina Boeshar's three documented sons — born 17 February 1873 in Marietta, Ohio; died 7 July 1964 in Marietta at age 91. Younger brother of William Clifford Wildermuth (b. 1866 — Robert Earl Wildermuth's paternal grandfather) and John Charles Wildermuth (b. September 1865). Married Arminda Jane Hayes (b. 1886, Lawrence Township, Washington County, Ohio) on 15 April 1918, when he was 45 and she was 32. Visible in the c. 1896 William Clifford Wildermuth family group portrait as the back-row mustachioed young man at the right, age 23, with Flora's younger sister Emma Schlicher (also 22) standing next to him. The longest-lived of the three brothers — outlived William Clifford by twenty-one years. Chuck's great-great-uncle on the maternal Wildermuth side."
 ---
 

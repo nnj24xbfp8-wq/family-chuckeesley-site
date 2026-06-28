@@ -12,6 +12,8 @@ generation: 0
 parents:
   - johann-adam-wildermuth-1720
   - rosina-kreher
+spouses:
+  - margaretha-laemmle
 summary: "Chuck's five-times-great-grandfather on the maternal Wildermuth line — the deepest Wildermuth Robert Earl's 1990 research could reach, since extended by three more generations in the FamilySearch tree. A vineyard gardener in 18th-century Rielingshausen, in the small Neckar-valley village his family had been in for at least four generations by the time he was born. His son Adam (b. 1768, named after Andreus's father who had died that year) would follow him into the same trade."
 ---
 

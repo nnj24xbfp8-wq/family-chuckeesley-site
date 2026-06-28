@@ -11,6 +11,8 @@ generation: 5
 parents:
   - charles-leonard-eesley
   - lillie-dale-chenoweth
+spouses:
+  - bill-bean
 summary: "Sister of Will Eesley; Chuck's great-aunt. Author of the 1985 Eesley Family History — the indented descendant register that is this archive's relationship backbone. Married William Thomas Bean (b. 13 November 1909). Of Narberth, Pennsylvania."
 ---
 

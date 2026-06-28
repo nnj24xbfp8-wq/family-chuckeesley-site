@@ -12,6 +12,8 @@ generation: 5
 parents:
   - charles-leonard-eesley
   - lillie-dale-chenoweth
+spouses:
+  - helen-bernadine-alspach-eesley
 summary: "Eldest of Charles Leonard and Lillie Dale Chenoweth Eesley's ten children. Born 1904 in Geneva, Ohio; died 1976 in Silver Spring, Maryland. Father of Tommy Eesley, the small boy photographed with his uncle Will at Black Lake, Michigan around 1933 and with his grandfather and uncles in the late-1930s group portrait. Leonard David is the eldest figure in the c. 1937–1939 group portrait of Charles Leonard with five sons."
 ---
 

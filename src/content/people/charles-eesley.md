@@ -15,6 +15,7 @@ parents:
   - margaret-mcmaster-eesley
 spouses:
   - terrie-lee-eesley
+  - diana-hoffer
 summary: "Son of Will and Peggy Eesley; father of Chuck. Vietnam veteran (U.S. Army, 1969–71), Marietta College economics graduate, stockbroker; member of First Congregational UCC in Marietta; lived on Highland Ridge Road in a house his architect father had designed. Lost a foot to complications late in life and kept his dark, inappropriate sense of humor about it. Died at sixty-eight."
 ---
 
