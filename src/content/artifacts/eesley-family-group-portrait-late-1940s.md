@@ -11,7 +11,7 @@ provenance: "Family collection; digitized 28 July 2019."
 rights: "Family use; permission required for republication"
 people:
   - thelma
-  - peggy-don-eesley
+  - margaret-youman-eesley
   - don-eesley
   - margaret-mcmaster-eesley
   - mary-eesley-bean
@@ -41,7 +41,7 @@ Eleven people, all now identified by Chuck via face-tagging the print in 2026, w
 **Front row, left to right:**
 
 - **[Thelma G. Haughn](/family/thelma/)** — at the far left, in a pale jacket. Engaged to Dale Eesley when he died young in 1939; she stayed close to the family until her own death in the 1970s.
-- **[Don's Peggy — Peggy Yeoman / Youman Eesley](/family/peggy-don-eesley/)** — beside Thelma, dark wavy hair. Donald Stuart "Don" Eesley's wife. Family memory carries two spellings of her maiden name &mdash; **Yeoman** (per the family label that came with this print) and **Youman** (per Bean's 1985 register) &mdash; both variants in use.
+- **[Don's Peggy — Peggy Yeoman / Youman Eesley](/family/margaret-youman-eesley/)** — beside Thelma, dark wavy hair. Donald Stuart "Don" Eesley's wife. Family memory carries two spellings of her maiden name &mdash; **Yeoman** (per the family label that came with this print) and **Youman** (per Bean's 1985 register) &mdash; both variants in use.
 - **[Will's Peggy — Margaret Jane McMaster Eesley](/family/margaret-mcmaster-eesley/)** — front center, young woman with darker straight hair, Will's wife and Chuck's paternal grandmother. The two Peggys in this generation, by marriage to Will and to Don respectively, are both in this frame.
 - **[Grandma Eesley — Lily Dale Chenoweth Eesley](/family/lillie-dale-chenoweth/)** — middle of the front, the matriarch (b. 1877, d. 1970). The family label uses the **"Lily"** spelling of her first name; Bean's 1985 register uses **"Lillie."** Both variants are in family use.
 - **[Will Eesley](/family/wilbur-eesley/)** — front right, in suit and light tie. Chuck's grandfather, the architect.

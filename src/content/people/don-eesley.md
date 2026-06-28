@@ -13,7 +13,7 @@ parents:
   - charles-leonard-eesley
   - lillie-dale-chenoweth
 spouses:
-  - peggy-don-eesley
+  - margaret-youman-eesley
 summary: "Brother of Will Eesley; born 24 September 1908 in Lebanon, Ohio; died 15 May 1975 in Tulsa, Oklahoma. Married Margaret Adelyne Youman (b. 24 June 1913) — the family's second 'Peggy.' Father of five: Lyle Stuart (1948), Robert Douglas (1950), Marilyn (1951), Charles Stuart (1955), Donald Steven (1975)."
 ---
 

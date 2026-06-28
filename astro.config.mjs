@@ -12,5 +12,7 @@ export default defineConfig({
   redirects: {
     '/docs/letters/charlie-to-terrie-1971-06-22/': '/docs/letters/charlie-to-terrie-1970-06-22/',
     '/places/saigon-1970/': '/places/saigon/',
+    // Merged duplicate person entry into margaret-youman-eesley (same person).
+    '/family/peggy-don-eesley/': '/family/margaret-youman-eesley/',
   },
 });

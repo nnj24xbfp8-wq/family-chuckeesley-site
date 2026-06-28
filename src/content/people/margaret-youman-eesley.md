@@ -33,4 +33,4 @@ She appears second from the right in the **[c. 1970s Eesley extended family reun
 
 She is **Chuck's great-aunt by marriage** on the paternal Eesley side.
 
-> *Source: [Dale Eesley / FamilySearch — Margaret Adeline Youman (LBZX-4TP)](https://www.familysearch.org/tree/person/details/LBZX-4TP); [c. 1970s Eesley extended family reunion portrait](/archive/highland-ridge-family-group-portrait-c-1980/) typed caption.*
+> *Source: [Dale Eesley / FamilySearch — Margaret Adeline Youman (LBZX-4TP)](https://www.familysearch.org/tree/person/details/LBZX-4TP); [c. 1970s Eesley extended family reunion portrait](/archive/highland-ridge-family-group-portrait-c-1980/) typed caption; Mary Eesley Bean, [Eesley Family History](/docs/eesley-family-history-1985/) (1985), p. 8.*

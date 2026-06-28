@@ -4,7 +4,7 @@ type: essay
 author: charles-eric-eesley
 people:
   - margaret-mcmaster-eesley
-  - peggy-don-eesley
+  - margaret-youman-eesley
   - peggy-arnold
   - wilbur-eesley
   - don-eesley
@@ -21,7 +21,7 @@ source: "Written by Chuck Eesley, June 2026 — a small companion piece to the [
 Three women named Peggy circulated through the Eesley side of this family across one generation. They were unrelated to each other &mdash; one married into the line from a Pittsburgh-suburb Pennsylvania family, one married into the line from Don's wife's side, and one was the neighbor on Highland Ridge Road in Lowell whose house was a hundred yards from ours. All three were called Peggy. None of the three was a *Margaret* in the way the Mary Eesley Bean register of names treats first names — *Margaret* was the formal version; *Peggy* was the name they actually lived under.
 
 - [Margaret Jane "Peggy" (McMaster) Eesley](/family/margaret-mcmaster-eesley/) (1914–2007) — *Will's Peggy.* My grandmother. From Coraopolis, Pennsylvania, Penn State '36, Home Economics teacher, lifelong member of First Congregational UCC in Marietta, the figurehead of the Eesley side in her generation.
-- [Margaret Adelyne "Peggy" (Youman) Eesley](/family/peggy-don-eesley/) (b. 1913) — *Don's Peggy.* Born one year and three months before Will's Peggy. The other Eesley-side Peggy of the same generation, distinguished in family memory by the name of the brother she married. Mother of five children with Don, including Charles Stuart Eesley (b. 1955), the *other* Charles in Don's family.
+- [Margaret Adelyne "Peggy" (Youman) Eesley](/family/margaret-youman-eesley/) (b. 1913) — *Don's Peggy.* Born one year and three months before Will's Peggy. The other Eesley-side Peggy of the same generation, distinguished in family memory by the name of the brother she married. Mother of five children with Don, including Charles Stuart Eesley (b. 1955), the *other* Charles in Don's family.
 - [Peggy Arnold](/family/peggy-arnold/) — *the Arnolds' Peggy.* The nearest neighbor on Highland Ridge Road, married to John Arnold. Not blood family. Counted as family in everything that mattered.
 
 The pattern, drawn out:
@@ -44,7 +44,7 @@ She is also the Peggy who supplied the *McMaster* middle name to my father in 19
 
 ## Don's Peggy — the parallel
 
-Will's brother [Don](/family/don-eesley/) married his own Peggy &mdash; [Margaret Adelyne Youman](/family/peggy-don-eesley/), born one year and three months *before* Will's Peggy on 24 June 1913 &mdash; and the Eesleys of generation 5 thereby had two Peggys at once. The family distinguished them, exactly as you'd expect, by the brother each had married: *Will's Peggy* and *Don's Peggy.* Don's Peggy raised five children &mdash; Lyle Stuart (named for Don's brother who died at Cabanatuan), Robert Douglas, Marilyn, Charles Stuart, and Donald Steven &mdash; and lived in Tulsa with Don in his later years. The Charles Stuart in the line above is the *fourth* Charles to circulate through the Eesley family of this generation, after [Charles Leonard](/family/charles-leonard-eesley/), [Charles McMaster](/family/charles-eesley/) my father, and [me](/family/charles-eric-eesley/) &mdash; named, again, for the grandfather Charles Leonard, in the same naming-after-the-grandfather pattern the Three Charleses essay traces.
+Will's brother [Don](/family/don-eesley/) married his own Peggy &mdash; [Margaret Adelyne Youman](/family/margaret-youman-eesley/), born one year and three months *before* Will's Peggy on 24 June 1913 &mdash; and the Eesleys of generation 5 thereby had two Peggys at once. The family distinguished them, exactly as you'd expect, by the brother each had married: *Will's Peggy* and *Don's Peggy.* Don's Peggy raised five children &mdash; Lyle Stuart (named for Don's brother who died at Cabanatuan), Robert Douglas, Marilyn, Charles Stuart, and Donald Steven &mdash; and lived in Tulsa with Don in his later years. The Charles Stuart in the line above is the *fourth* Charles to circulate through the Eesley family of this generation, after [Charles Leonard](/family/charles-leonard-eesley/), [Charles McMaster](/family/charles-eesley/) my father, and [me](/family/charles-eric-eesley/) &mdash; named, again, for the grandfather Charles Leonard, in the same naming-after-the-grandfather pattern the Three Charleses essay traces.
 
 Don's Peggy and Will's Peggy appear together in the [late-1940s family group portrait](/archive/eesley-family-group-portrait-late-1940s/) at Charles Leonard's Bexley home, and in the [c. 1971–1972 Highland Ridge reunion portrait](/archive/highland-ridge-family-group-portrait-c-1980/) at Will's place, where Roberta's labeled caption distinguishes them by their husbands' first names. The two Peggys lived their adult lives in different Ohio cities &mdash; Marietta and Tulsa &mdash; and were brought together at the family reunions that became annual after Charles Leonard's October 1972 death.
 

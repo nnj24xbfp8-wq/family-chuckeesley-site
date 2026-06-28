@@ -20,7 +20,7 @@ people:
   - mafry-smith-hyatt
   - wilbur-eesley
   - helen-bernadine-alspach-eesley
-  - peggy-don-eesley
+  - margaret-youman-eesley
   - leonard-david-eesley
 ---
 
@@ -40,7 +40,7 @@ The label below the photograph lists the twelve figures left to right:
 8. **[Mafry Smith Hyatt](/family/mafry-smith-hyatt/)** &mdash; *"Dad's cousin"* &mdash; daughter of Lilly Chenoweth Eesley's sister **Dr. Sciota "Ota" Chenoweth Smith**, the physician of the older generation.
 9. **[Wilbur Chenoweth "Will" Eesley](/family/wilbur-eesley/)** &mdash; Charlie's father, Chuck's paternal grandfather, the Highland Ridge architect.
 10. **[Helen "Big Helen" (Alspach) Eesley](/family/helen-bernadine-alspach-eesley/)** &mdash; Leonard ("Len") Eesley's wife.
-11. **[Peggy (Yeoman) Eesley](/family/peggy-don-eesley/)** &mdash; Don Eesley's wife, the other Peggy of this generation.
+11. **[Peggy (Yeoman) Eesley](/family/margaret-youman-eesley/)** &mdash; Don Eesley's wife, the other Peggy of this generation.
 12. **[Leonard "Len" David Eesley](/family/leonard-david-eesley/)** &mdash; Will's eldest brother, with a camera at the far right of the frame.
 
 ## Five of Charles Leonard's ten children together
