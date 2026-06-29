@@ -15,7 +15,9 @@ dateRange:
   start: "1971-03-29"
 private: false
 summary: "Charlie's short letter to Terrie dated 29 March 1971 — confirms the Hawaii R&R is on, four days after Operation Lam Son 719 closed (25 March 1971). The R&R window is set: arrival 12 April, departure 19 April. Charlie tells Terrie to book her ticket under 'Mrs. Eesley' for the military-spouse fare reduction — the same convention they had been planning around since the [22 March R&R orders letter](/docs/letters/charlie-to-terrie-1971-03-22/) a week earlier. $100 has been sent with a money-order receipt enclosed. 77 days left in the army puts the ETS at 14 June 1971, holding the [4 February target](/docs/letters/charlie-to-terrie-1971-02-04-laos-fore-warning/) exactly. Closes 'Everything is fine here with 77 days left.'"
-source: "Held in family archive — grandmaE1.pdf page 90 (gitignored locally; transcribed content surfaced here)."
+source: "Held in family archive — grandmaE1.pdf page 90 (gitignored locally; transcribed content surfaced here). Original letter scan (dad169) located and attached June 2026; verified word-for-word against the existing transcription."
+scans:
+  - ../../../assets/family/originals/vietnam-letters/dad169.jpg
 ---
 
 ## What the letter is
