@@ -15,7 +15,9 @@ dateRange:
   start: "1970-12-16"
 private: false
 summary: "Charlie's letter to Terrie dated 16 December 1970 — explaining a photo she had received of him in the enlisted men's club at his post. The letter is one of the small sociological notes in the corpus: the EM club at Camp Eagle had Vietnamese hostesses, mostly young married women with children who 'at times act like 12 year olds,' whom Charlie describes as 'some of the only honest Vietnamese I've come in contact with' — a candid sentence about the broader theft-and-cheating culture he was navigating in country, where 'most will try to cheat you out of your money if not outright steal from you.' Plus the recurring 60-day-early-drop rumor: 'I've been disappointed too many times to really get my hopes too high but I'm still hoping.'"
-source: "Held in family archive — grandmaE1.pdf page 115 (gitignored locally; transcribed content surfaced here)."
+source: "Held in family archive — grandmaE1.pdf page 115 (transcription source); the original handwritten letter scan src/assets/family/originals/vietnam-letters/dad195.jpg was located and attached June 2026 and the transcription verified against it."
+scans:
+  - ../../../assets/family/originals/vietnam-letters/dad195.jpg
 ---
 
 ## What the letter is
