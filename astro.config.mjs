@@ -14,5 +14,7 @@ export default defineConfig({
     '/places/saigon-1970/': '/places/saigon/',
     // Merged duplicate person entry into margaret-youman-eesley (same person).
     '/family/peggy-don-eesley/': '/family/margaret-youman-eesley/',
+    // Merged duplicate Jan 1 1971 Dorothy Hauser letter into the canonical page.
+    '/docs/letters/charlie-to-dorothy-1971-01-01-mothers-for-peace/': '/docs/letters/charlie-to-dorothy-hauser-1971-01-01/',
   },
 });

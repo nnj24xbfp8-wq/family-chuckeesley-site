@@ -41,9 +41,9 @@ Charlie wrote often. Some of what he wrote was the news of the week. Some of it 
 
 This archive treats the collection as follows:
 
-1. A small **published set** &mdash; expected to be **five to seven letters** &mdash; are reproduced here in full, chosen for the way they let his voice come through across a half-century and for the way they let his family today understand the year that shaped him most. Each published letter has its own page in the documents section, with the transcribed text and the scans.
+1. A **published set** &mdash; which has grown, through the 2026 mining of the family-archive scans, from the handful first envisioned to most of the surviving correspondence (now on the order of seventy letters) &mdash; is reproduced here in full, chosen for the way they let his voice come through across a half-century and for the way they let his family today understand the year that shaped him most. Each published letter has its own page in the documents section, with the transcribed text and, where the original scan has been located, the handwriting itself.
 
-2. The **remaining letters** are catalogued here too. Their pages carry the metadata &mdash; the date, the recipient, the place they were written from, the place they were mailed to, a one-line summary if it can be given without compromising the content &mdash; but the body is withheld. The archive's index stays complete; the intimacy of the letters stays inside the family.
+2. A **small number of remaining letters** are catalogued here too, body withheld. Their pages carry the metadata &mdash; the date, the recipient, the place they were written from, the place they were mailed to, a one-line summary if it can be given without compromising the content. The archive's index stays complete; the intimacy of those letters stays inside the family.
 
 3. The letters that the family has decided should not be public **in any form**, including as a metadata entry, are held in the private family archive only. They are not listed here.
 

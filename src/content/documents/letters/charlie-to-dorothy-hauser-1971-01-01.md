@@ -6,6 +6,7 @@ author: charles-eesley
 recipient: dorothy-hauser
 people:
   - charles-eesley
+  - dorothy-hauser
   - margaret-mcmaster-eesley
 partOf: letters-from-vietnam
 locationFrom: "Da Nang, Vietnam (on guard duty, 3 AM)"
@@ -15,7 +16,9 @@ dateRange:
   start: "1971-01-01"
 private: false
 summary: "Charlie's brief New Year's letter from Da Nang to Dorothy Hauser — Peggy McMaster Eesley's friend and a member of the Mothers for Peace group Peggy belonged to in Marietta. Written at 3 AM Vietnam time while on guard duty. The letter is short (one sheet) and contains the single most direct piece of Nixon commentary in Charlie's correspondence: 'I guess Tricky Dick hasn't ruined the whole country yet. I guess he is having problems and needs a few more years to do an efficient job.' Closes 'Say hi to the Mothers for Peace for me' — confirming both that Dorothy Hauser was the Mothers-for-Peace Dorothy, and that Charlie knew the group as a whole. This is the only surviving letter from Charlie to anyone outside his immediate family circle in the corpus."
-source: "Held in family archive — grandmaE1.pdf page 140 (gitignored locally; transcribed content surfaced here)."
+source: "Held in family archive — grandmaE1.pdf page 140 (transcription source); original letter scan src/assets/family/originals/vietnam-letters/dad225.jpg located and attached June 2026 and verified against the transcription (settling the earlier variant reading 'so hot' as '3 AM over here', and the sign-off as 'Charles'). A duplicate page entry (formerly charlie-to-dorothy-1971-01-01-mothers-for-peace) was merged into this one."
+scans:
+  - ../../../assets/family/originals/vietnam-letters/dad225.jpg
 ---
 
 ## What the letter is
