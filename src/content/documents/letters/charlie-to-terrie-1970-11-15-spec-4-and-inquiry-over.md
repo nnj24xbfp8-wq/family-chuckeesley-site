@@ -15,7 +15,7 @@ dateRange:
   start: "1970-11-15"
 private: false
 summary: "Charlie's two-page letter to Terrie dated 15 November 1970, reassembled from its scans (dad178 page 1, dad179 page 2), likely written during the one-week stand-down the 8 November letter had announced. Her package arrived the other day, basically what he wanted; he'll mail a package to her and home with a list of the things still to add, not wanting to sound greedy. General news: he's now Spec 4 (E-4), $70 more a month, confirming the promotion he thought he'd made in the 5 November letter. There's official word of a possible 2-week leave; it sounds too good to be real and he tells her not to get her hopes up, noting how hard it would be to return after two weeks at home with her, it's putting a strain on things, and he'll let her know the final decision in a week or so. The congressional inquiry his mother opened in October is now over. He's had a chance to drink, two nights in a row. Signed 'Love, Charles.'"
-source: "Held in family archive — reassembled from src/assets/family/originals/vietnam-letters/dad178.jpg (page 1), dad179.jpg (page 2). Handwritten, 2 pages; page 2 faint, a few readings bracketed. locationFrom/locationTo inferred for late 1970; confirm. Draft transcription pending review."
+source: "Held in family archive — reassembled from src/assets/family/originals/vietnam-letters/dad178.jpg (page 1), dad179.jpg (page 2). Handwritten, 2 pages; page 2 faint, a few readings bracketed. locationFrom/locationTo inferred for late 1970; confirm. Transcription verified word-for-word against the scans, June 2026."
 scans:
   - ../../../assets/family/originals/vietnam-letters/dad178.jpg
   - ../../../assets/family/originals/vietnam-letters/dad179.jpg

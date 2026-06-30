@@ -15,7 +15,7 @@ dateRange:
   start: "1971-02-21"
 private: false
 summary: "Charlie's brief one-page morning letter to Terrie dated 21 February 1971. The orders he was waiting on in the 18 February letter have come through: he's finally at Camp Eagle, the 101st Airborne Division's base near Phu Bai, assigned to the Office of the Chief of Staff in what he calls a relatively safe area. He writes that it is morning and he must go to work, promises a more comprehensive letter that evening, and notes the job won't be soft but at least he's safe. He gives his new APO address (HHC, 101st Abn Div, Office of Chief of Staff, APO SF 96383). Signed 'Love, Charles.'"
-source: "Held in family archive — src/assets/family/originals/vietnam-letters/dad162.jpg. Handwritten, 1 page. Draft transcription pending review. NOTE: the original address block includes Charlie's service number; redacted in the transcription below pending an editorial decision."
+source: "Held in family archive — src/assets/family/originals/vietnam-letters/dad162.jpg. Handwritten, 1 page. Transcription verified word-for-word against the scans, June 2026. The original address block includes Charlie's service number; it is redacted in the transcription below."
 scans:
   - ../../../assets/family/originals/vietnam-letters/dad162.jpg
 ---

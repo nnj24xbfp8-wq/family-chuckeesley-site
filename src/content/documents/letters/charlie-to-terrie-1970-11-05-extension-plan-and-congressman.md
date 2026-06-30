@@ -15,7 +15,7 @@ dateRange:
   start: "1970-11-05"
 private: false
 summary: "Charlie's two-page letter to Terrie dated 5 November 1970, reassembled from its scans (dad174 page 1, dad175 page 2). Written from the field in the monsoon: fourteen days since anyone there received mail, over a month since he last showered, eight or nine days of straight rain a few days earlier. About a month ago his mother wrote their congressman about his situation (health-wise, he guesses), and now he has to go to the rear as part of that inquiry. He thinks he made E-4, which would add $50 to his pay. He then lays out the extension plan the rest of the tour runs on: he plans to extend 32 days, which would let him out of the army on 13 June 1971 with a 50-day early-out; there is also a 90-day early-out going for a while that, even with the extension, could get him out around 14 May, 'it all depends and everything is up in the air.' The sun is out and he's in good spirits; he figures the army still owes him $500. Signed 'I love you. Love, Charles.'"
-source: "Held in family archive — reassembled from src/assets/family/originals/vietnam-letters/dad174.jpg (page 1), dad175.jpg (page 2). Handwritten, 2 pages. Draft transcription pending review. locationFrom/locationTo inferred for late 1970; confirm."
+source: "Held in family archive — reassembled from src/assets/family/originals/vietnam-letters/dad174.jpg (page 1), dad175.jpg (page 2). Handwritten, 2 pages. Transcription verified word-for-word against the scans, June 2026. locationFrom/locationTo inferred for late 1970; confirm."
 scans:
   - ../../../assets/family/originals/vietnam-letters/dad174.jpg
   - ../../../assets/family/originals/vietnam-letters/dad175.jpg

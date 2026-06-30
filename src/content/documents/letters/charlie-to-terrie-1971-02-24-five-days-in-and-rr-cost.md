@@ -15,7 +15,7 @@ dateRange:
   start: "1971-02-24"
 private: false
 summary: "Charlie's two-page evening letter to Terrie dated 24 February 1971, reassembled from its scans (dad163 page 1, dad164 page 2; dad165 is a duplicate scan of page 2). He has received her letters dated 16 February and is sorry to hear she's sick, hoping she's recovered by the time this arrives. He's been at Camp Eagle five days now, everything is fine, not yet settled into his quarters. On R&R his one reservation is the cost: the allocations come down on 5-6 March, which is when he must commit for an April Hawaii window, and he expects to be able to get Hawaii. He presses Terrie for a firm answer so they can plan properly to meet, says he thinks it would be very nice if they could, and signs off tired, heading to bed. Signed 'Love, Charles.'"
-source: "Held in family archive — reassembled from src/assets/family/originals/vietnam-letters/dad163.jpg (page 1), dad164.jpg (page 2). dad165.jpg is a duplicate scan of page 2. Handwritten, 2 pages. Draft transcription pending review."
+source: "Held in family archive — reassembled from src/assets/family/originals/vietnam-letters/dad163.jpg (page 1), dad164.jpg (page 2). dad165.jpg is a duplicate scan of page 2. Handwritten, 2 pages. Transcription verified word-for-word against the scans, June 2026."
 scans:
   - ../../../assets/family/originals/vietnam-letters/dad163.jpg
   - ../../../assets/family/originals/vietnam-letters/dad164.jpg

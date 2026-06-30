@@ -15,7 +15,7 @@ dateRange:
   start: "1971-02-18"
 private: false
 summary: "Charlie's brief one-page letter to Terrie dated 18 February 1971 from Da Nang, the day after the longer typing-job-and-stereo letter (dad158-160). The orders he expected didn't arrive; he'll call the next day if they still haven't come. He frames the clerk job as the hinge for everything else — getting it is what lets him ETS, go to Hawaii on R&R, and clear up his finance problems. He counts himself down to 115 days if everything goes to plan, notes there's 'nothing hard about being here' so maybe he's better off, and passes along a rumor the unit could be extended in-country another 30 days. The weather has been pleasant and sunny and his sunburn didn't peel, so he's doing alright. Signed 'Love, Charles.'"
-source: "Held in family archive — src/assets/family/originals/vietnam-letters/dad161.jpg. Handwritten, 1 page. Draft transcription pending review."
+source: "Held in family archive — src/assets/family/originals/vietnam-letters/dad161.jpg. Handwritten, 1 page. Transcription verified word-for-word against the scans, June 2026."
 scans:
   - ../../../assets/family/originals/vietnam-letters/dad161.jpg
 ---

@@ -15,7 +15,7 @@ dateRange:
   start: "1971-01-01"
 private: false
 summary: "Charlie's brief one-page letter to Terrie dated 1 January 1971. The new year has finally arrived and he's still in doubt about whether and when he gets out of Vietnam, with a hundred conflicting rumors and theories going around, half-joking that he may take the next flight out. He's enclosed a picture she may want. He notes that some of the people around him don't even know there's a war going on, and guesses they're just lucky. He admits he's having real difficulty keeping up with the letters he owes people. Signed 'Love, Charles.' Precedes the [2 January booby-trap letter](/docs/letters/charlie-to-terrie-1971-01-02-booby-trap-and-the-drop/) by a day."
-source: "Held in family archive — src/assets/family/originals/vietnam-letters/dad173.jpg. Handwritten, 1 page. Draft transcription pending review. locationFrom inferred from the surrounding January 1971 letters; confirm."
+source: "Held in family archive — src/assets/family/originals/vietnam-letters/dad173.jpg. Handwritten, 1 page. Transcription verified word-for-word against the scans, June 2026. locationFrom inferred from the surrounding January 1971 letters; confirm."
 scans:
   - ../../../assets/family/originals/vietnam-letters/dad173.jpg
 ---

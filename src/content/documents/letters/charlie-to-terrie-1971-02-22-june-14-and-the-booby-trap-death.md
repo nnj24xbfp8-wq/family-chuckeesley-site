@@ -15,7 +15,7 @@ dateRange:
   start: "1971-02-22"
 private: false
 summary: "Charlie's two-page evening letter to Terrie dated 22 February 1971, reassembled from its scans (dad167 page 1, dad168 page 2). Two days into the Camp Eagle clerk job, he still hasn't cleared his old company but everything is in order. He confirms he has extended and will be out of the Army on 14 June. The work isn't hard but the hours are long, 7:30 AM to 7:00 PM, seven days a week. The April R&R allocations haven't come down yet; he expects them around 2 March and presses Terrie again for a firm answer and to tell her parents. He has just seen two men from his old platoon on their way to Bangkok R&R, who told him how it has been out there, 'pure hell.' The soldier who stepped on a booby trap the previous December, while Charlie was in Da Nang, died 21 days later. His platoon-mates missed his presence and his letters to his congressman about the war; he is, he says, so anti-Army and anti-war now he can barely describe it. He asks her to let him know about Hawaii as soon as possible. Signed 'I love you. Love, Charles.'"
-source: "Held in family archive — reassembled from src/assets/family/originals/vietnam-letters/dad167.jpg (page 1), dad168.jpg (page 2). Handwritten, 2 pages. Draft transcription pending review."
+source: "Held in family archive — reassembled from src/assets/family/originals/vietnam-letters/dad167.jpg (page 1), dad168.jpg (page 2). Handwritten, 2 pages. Transcription verified word-for-word against the scans, June 2026."
 scans:
   - ../../../assets/family/originals/vietnam-letters/dad167.jpg
   - ../../../assets/family/originals/vietnam-letters/dad168.jpg
