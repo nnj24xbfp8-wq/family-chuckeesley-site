@@ -14,11 +14,13 @@ postmarkDate: "1970-11-25"
 dateRange:
   start: "1970-11-25"
 private: false
-summary: "Charlie's letter to Terrie dated 25 November 1970 — the day before Thanksgiving, written from the field in a continuous misty rain and fog, with no sense that the holidays have arrived. Good news and bad: Pan Am has cut the California-to-Hawaii fare from $700 to $350, bringing his total R&R transportation to about $550-600, still high. No official word yet on the leave deal; he might go to California for two weeks and asks if Terrie would meet him there, admitting he's afraid he'd go AWOL if he came all the way home. Answering her worry about combat 'contact,' he explains the two recent deaths in the unit plainly: in one, US troops chased the enemy at dark, were ambushed, and lost three men; in the other, a man went to sleep on guard — both things soldiers simply aren't supposed to do, and neither how his own unit operates. He loves her but is unsure about ordinary leave, since unlike R&R it counts against him from the moment he leaves the company until he returns."
-source: "Held in family archive — reassembled from src/assets/family/originals/vietnam-letters/dad184.jpg (page 1) and dad185.jpg (page 2; duplicate scan dad186.jpg). Handwritten; the closing page is not present in the surviving scans."
+summary: "Charlie's letter to Terrie dated 25 November 1970 — the day before Thanksgiving, written from the field in a continuous misty rain and fog, with no sense that the holidays have arrived. Good news and bad: Pan Am has cut the California-to-Hawaii fare from $700 to $350, bringing his total R&R transportation to about $550-600, still high. No official word yet on the leave deal; he might go to California for two weeks and asks if Terrie would meet him there, admitting he's afraid he'd go AWOL if he came all the way home. Answering her worry about combat 'contact,' he explains the two recent deaths in the unit plainly: in one, US troops chased the enemy at dark, were ambushed, and lost three men; in the other, a man went to sleep on guard — both things soldiers simply aren't supposed to do, and neither how his own unit operates. He loves her but is unsure about ordinary leave, since unlike R&R it counts against him from the moment he leaves the company until he returns. Pages 3-4 (the closing pages, recovered June 2026): with Sydney being closed out as an R&R destination, Charlie makes his first serious Hawaii proposal — meet on his R&R in Feb or March, he'll pay her way, 'I'm serious about it this time' — the origin of the spring 1971 Hawaii plan."
+source: "Held in family archive — reassembled from src/assets/family/originals/vietnam-letters/dad184.jpg (page 1), dad185.jpg (page 2; duplicate scan dad186.jpg), dad187.jpg (page 3), and dad188.jpg (page 4). Handwritten, 4 pages. Pages 3-4 — the closing pages previously recorded as 'not present in the surviving scans' — were located, transcribed, and attached June 2026. Draft transcription (pages 3-4) pending review."
 scans:
   - ../../../assets/family/originals/vietnam-letters/dad184.jpg
   - ../../../assets/family/originals/vietnam-letters/dad185.jpg
+  - ../../../assets/family/originals/vietnam-letters/dad187.jpg
+  - ../../../assets/family/originals/vietnam-letters/dad188.jpg
 ---
 
 ## What the letter is
@@ -51,15 +53,26 @@ The leave distinction is the other practical thread. **Ordinary leave** ran agai
 >
 > You are concerned about contact. Well of the two incidents where men were killed: in one the US troops spotted the enemy and chased them at dark and were ambushed and lost 3 men. In the other the element went to sleep on guard. Both things simply aren't supposed to be done. I know we don't chase the enemy at night or even in the day and very few of us sleep at night.
 >
-> Dear Terrie &mdash; I do love you but I just don't know about coming home for just two weeks &mdash; the leave isn't like R&R as it starts when I leave the company and ends when I get back [&hellip;]
+> Dear Terrie &mdash; I do love you but I just don't know about coming home for just two weeks &mdash; the leave isn't like R&R as it starts when I leave the company and ends when I get back,
 >
-> [closing page not present in the surviving scans]
+> [page 3:] which would give me 6-7 days at home and the rest spent traveling. R&R starts when I get there and ends there too. It would be better if I met you in Hawaii in Feb or March. It seems they are closing out Sydney as an R&R right around January so I guess I won't get to go there either. Money wise and time wise it seems it would be better to meet you in Hawaii on my R&R. There is really no other place I would want to go. Also I would pay your way. Let me know what you think. I wouldn't be as tempted to go AWOL then either.
+>
+> Well it seems Sandy is quite a mover. Going to Penn State and everything. I hope she is happy. Tell her hi for me.
+>
+> At this time for me to see you [page 4:] during X-mas vacation is out of the question almost, as it would take too much time to get the leave orders through the proper channels.
+>
+> Well let me know how you are doing and what you think of my new Hawaii proposal. I'm serious about it this time. I would be there 7 days and you would be there 7 also but you would have to allow 2-3 days extra for travel etc. I'll pay the way for you.
+>
+> Love
+> Charles
 
 ## What the letter records
 
 **Thanksgiving with no Thanksgiving.** The holiday arrives in the field as nothing &mdash; just more misty rain. The flatness is the point: the calendar of home had stopped meaning anything.
 
 **Death explained, not hidden.** Faced with Terrie's worry, Charlie neither minimizes nor dramatizes. He explains exactly how two men died and why it wouldn't happen to him &mdash; the closest the corpus comes to him talking through the actual mechanics of mortal danger, and a measure of how he managed her fear from eight thousand miles away.
+
+**Pages 3-4, recovered June 2026: the Hawaii proposal begins here.** The closing pages, long recorded as lost, carry the first serious version of the plan that organizes the entire spring of 1971. With Sydney being "closed out" as an R&R destination, Charlie pivots: *"It would be better if I met you in Hawaii in Feb or March... There is really no other place I would want to go. Also I would pay your way."* By page 4 it has a name, *"my new Hawaii proposal. I'm serious about it this time."* The booked-and-confirmed April 1971 trip of the [29 March letter](/docs/letters/charlie-to-terrie-1971-03-29-second-rr-booking/), and the parental-conflict letters around it, all trace back to this proposal, made the day before Thanksgiving 1970 from a rain-soaked firebase. (The page also carries a small cameo &mdash; *"Sandy is quite a mover. Going to Penn State"* &mdash; and Charlie's recurring AWOL worry, eased: with R&R instead of leave, *"I wouldn't be as tempted to go AWOL then either."*)
 
 **"Afraid I would go AWOL if I come home."** The most honest line in the letter: he doesn't trust himself to come back if he goes all the way home, which is part of why he keeps leaning toward meeting partway, or waiting for R&R. The pull of home is strong enough that he treats it as a risk.
 
