@@ -16,6 +16,7 @@ relatedPeople:
 relatedDocuments:
   - eulogy-charles-mcmaster-eesley
   - charles-eesley-12th-grade-autobiography-1965
+  - highland-ridge-architecture
 visits:
   - year: "c. 1978–1985 (winter)"
     photographer: wilbur-eesley
