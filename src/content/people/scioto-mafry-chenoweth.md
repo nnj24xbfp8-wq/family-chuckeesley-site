@@ -2,6 +2,7 @@
 name: "Scioto Mafry (Chenoweth) Smith"
 aka: "Scioto Mafry Chenoweth, maiden; 'the Sciota Chenoweth' of Maggie Eesley's deck"
 line: paternal
+portrait: ../../assets/family/originals/ota-chenoweth-smith-portrait.jpeg
 birth:
   date: "1871-08-31"
   place: "Pleasant Township, Franklin, Ohio"
@@ -16,6 +17,10 @@ summary: "Sister of Lillie Dale Chenoweth Eesley; Chuck's great-great-aunt on th
 ---
 
 Scioto Mafry Chenoweth was born **31 August 1871 in Pleasant Township, Franklin County, Ohio**, daughter of [Joseph Hill Chenoweth](/family/joseph-hill-chenoweth/) and [Mary O. Timmons Chenoweth](/family/mary-ohio-timmons-chenoweth/), sister of [Lillie Dale Chenoweth Eesley](/family/lillie-dale-chenoweth/) (Chuck's great-grandmother). She is **Chuck's great-great-aunt** &mdash; Lillie Dale's older sister by six years.
+
+A profile portrait of Ota &mdash; identified by [Roberta Burnes](/family/roberta-burnes/) from her Chenoweth family album, shared June 2026 &mdash; is a side-on studio portrait, her hair piled up in the high-bun style of the late 1880s&ndash;1890s, a delicate lace collar at her throat, the expression composed. The family GEDCOM records a single Scioto Mafry Chenoweth (married Dr. Lewis Albert Smith, 29 December 1898), so the *"Ota Chenoweth Smith"* portrait &mdash; briefly catalogued as its own stub in June 2026 &mdash; is her, and has been merged into this page.
+
+![Scioto "Ota" Mafry (Chenoweth) Smith — profile portrait c. 1890s. From Roberta Burnes's keeping.](../../assets/family/originals/ota-chenoweth-smith-portrait.jpeg)
 
 ## The river-name
 

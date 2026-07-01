@@ -19,5 +19,7 @@ export default defineConfig({
     // Merged duplicate B-24 crew pages (variant spellings) into the memoir-spelling canonical pages.
     '/family/lyle-pound/': '/family/lyle-found/',
     '/family/charles-boyt/': '/family/charles-bojt/',
+    // Merged duplicate stub (portrait) into the canonical Scioto "Ota" Chenoweth Smith page — GEDCOM confirms one person.
+    '/family/ota-chenoweth-smith/': '/family/scioto-mafry-chenoweth/',
   },
 });
