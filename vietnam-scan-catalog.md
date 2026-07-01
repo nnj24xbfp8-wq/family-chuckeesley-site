@@ -72,7 +72,7 @@ Scans already used: nco-school=dad5, christmas-leave=dad221, 1970-02-basic-train
 |---|---|
 | dad214 (=dad216) | **PUBLISHED** → charlie-to-terrie-basic-training-first-day (undated; first day of basic, KP 3:30AM) |
 | dad206/207 (p1) + dad208 (close) | Training "Letter B" — tests/promotion/"I hate this place" → "discussed when I call" — NOT yet published (verify 2pp vs missing middle) |
-| dad212 (p1) + a closing | Training "Letter C" — inspection Saturday, NCO-school-vs-Vietnam, G-3 test — NOT yet published |
+| dad212 (=dad5) | Page 1 of **`charlie-to-terrie-1969-nco-school`** — Chuck un-withheld it June 2026 (was private). Now PUBLIC with full transcription; scan dad5 shown. dad212 is a second scan of the same page. Closing page still not identified. |
 | dad213 (=dad215) | Training closing — Doug Hass/Sears, income tax, wart — pairs with a training p1 — NOT yet published |
 | dad217 | **PUBLISHED** → charlie-to-terrie-reception-basic-begins-monday (single; reception week, "Basic begins Monday", visit 20 Dec) |
 | dad218 (p1) + dad219 (close) | **PUBLISHED** → charlie-to-terrie-training-m72-and-the-ring (AIT; M-72 launchers, the $20 ring, "still willing to marry you"; ~Easter/spring 1970) |
@@ -80,6 +80,11 @@ Scans already used: nco-school=dad5, christmas-leave=dad221, 1970-02-basic-train
 | dad289 (p1) + dad290 (close) | **PUBLISHED** → charlie-to-terrie-1970-10-19-160-days (VIETNAM, dated Oct 19 1970; chopper mail, 160 days, lowlands ~Nov 2) |
 
 **jp2 block (dad207–220, 289–290) fully read.** Published from it this session: dad209 (Dec 17), dad214 (first day basic), dad217 (reception), dad218+219 (M-72/ring), dad289+290 (Oct 19). Still to pair/publish (training, undated, need continuations): **dad206/207 p1 + dad208 close** (Letter B — tests/"I hate this place"), **dad212 p1 + a closing** (Letter C — NCO-school-vs-Vietnam), **dad213** (Doug-Hass closing), **dad220** (Thanksgiving-eve p1). Their continuation pages may be in the un-read jpg tail (dad222+) or low-number stragglers.
+
+| dad222 (p1) + dad223 (close) | **PUBLISHED** → charlie-to-terrie-training-mortar-and-nco-decision (mortar training, 50/50 Vietnam, why NCO school "isn't worth it"). Chuck: "publish both." |
+| dad213 (=dad215) | Training closing (Doug Hass/Sears, income tax, wart) — unpaired; could be the closing of the withheld nco-school letter OR a separate letter. Hold until its p1 is found. |
+
+**PRIVACY NOTE:** the family withheld the `1969-nco-school` letter (private: true). When mining training letters, check each against the private entries before publishing — a readable scan of a withheld letter must NOT be published or attached (the template hides scans of private letters, so attaching would be pointless anyway).
 
 Provisional training-arc order (Chuck to fix from envelopes): dad220 (Thanksgiving eve, ~Nov 1969) → dad217 (reception, "basic begins Monday", ~mid-Dec 1969) → dad214 (first day of basic, ~late Dec 1969) → [basic/AIT letters] → dad218+219 (M-72/ring, ~spring 1970, Easter) → existing Fort Bragg/orders letters (Mar–Apr 1970) → Vietnam (May 1970).
 
