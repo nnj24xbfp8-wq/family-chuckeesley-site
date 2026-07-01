@@ -16,5 +16,8 @@ export default defineConfig({
     '/family/peggy-don-eesley/': '/family/margaret-youman-eesley/',
     // Merged duplicate Jan 1 1971 Dorothy Hauser letter into the canonical page.
     '/docs/letters/charlie-to-dorothy-1971-01-01-mothers-for-peace/': '/docs/letters/charlie-to-dorothy-hauser-1971-01-01/',
+    // Merged duplicate B-24 crew pages (variant spellings) into the memoir-spelling canonical pages.
+    '/family/lyle-pound/': '/family/lyle-found/',
+    '/family/charles-boyt/': '/family/charles-bojt/',
   },
 });
