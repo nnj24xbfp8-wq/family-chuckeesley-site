@@ -44,7 +44,36 @@ The 16 `.jp2` files overlap in content with the `.jpg` series and with each othe
 
 Remaining unreferenced ≈ 120 scans after twins. Sampling dad202-210 shows the seam holds **genuinely new letters** — Dec 9, Dec 17/18, a mid-Nov 1970 letter (Letter A), and a pre-Vietnam training letter (Letter B) — **interleaved with duplicates and lower-res jp2 re-scans**. Fully cataloging + publishing the remainder is a multi-session effort; each letter needs page-matching across the jpg/jp2 series. NOT a quick sequential read.
 
-Still to catalog: dad211-220 (jp2), then the jpg tail dad217-336 and the low-number stragglers (dad6,11,12,18,26,101,103,119,125,137,147,148,152-157,166,181).
+Still to catalog: dad214, dad217-220 (jp2), dad289-290 (jp2), then the jpg tail dad222-336 and the low-number stragglers (dad6,11,12,18,26,101,103,119,125,137,147,148,152-157,166,181).
+
+## jp2 block mapped (dad208-213) — a PRE-VIETNAM TRAINING CLUSTER + Dec 1970 letters
+
+| scan | date | role | notes | assignment |
+|---|---|---|---|---|
+| dad209 | 17–18 Dec 1970 | single | "Dec 17 Dear Terrie, Not much happening. One of the towers we pull guard from was fired at..." + Dec 18; Love Charles | **PUBLISHED** → charlie-to-terrie-1970-12-17-tower-fired-on (converted dad209.jp2→dad209.jpg) |
+| dad210 | 9 Dec 1970 | p1 | "Dec 9 Dear Terrie, My address for the next 6 days... HHC XXIV Corp, Security Platoon, Da Nang... easy and safe job" | **Dec 9 letter** (likely missing a middle page before dad211) |
+| dad211 | 9 Dec 1970 | last | "...me a little. Otherwise things couldn't be brighter... hard to make a call around here but I'll try before X-mas." Love Charles | **Dec 9 letter** closing |
+| dad212 | training (pre-VN) | p1 | "Dear Terrie, ...preparing for this damn inspection on Saturday... Another company just graduated. All went to Germany except their NCO's. They went to Viet Nam... refusing NCO school... beginning to hate the army... G-3 test" | **Training Letter C** (AIT/NCO-school decision) |
+| dad213 (=dad215) | training (pre-VN) | last | "The guy from Sears was Doug Hass... I still haven't sent my income tax in... due back from US & Maryland... had my wart treated, they froze it..." Love Charles | **Training closing** (pairs with a training p1 — income-tax ref ⇒ ~Jan–Apr) |
+
+**Big finding:** the jp2 series holds a cluster of Charlie's **pre-Vietnam Army training letters** (Basic/AIT, the NCO-school-vs-Vietnam decision, "beginning to hate the army" before he ever shipped) — a genuinely NEW chapter the site doesn't yet cover. These are **undated** (no date headers), multi-page, and interleaved, with likely page gaps — so they need the whole cluster read and assembled by content/ink/handwriting before publishing cleanly. Identified so far: Letter B (dad206/207 p1 + dad208 close), Letter C (dad212 p1 + a closing), plus the dad213 training closing.
+
+**Note on jp2:** these scans are `.jp2` (native 1190×1541). Astro/sharp on Vercel may not read jp2, so each one published must be converted to `.jpg` in the assets folder first (as done for dad209, dad214).
+
+## DATING WORKFLOW (per Chuck): undated letters have postmarks on their envelopes
+
+Chuck will add the real dates later from the original envelopes. So: publish undated training letters marked **UNDATED** (no `postmarkDate`; provisional `sortDate` only for ordering; a "date on the envelope" note in `source` and an aside), and don't fabricate a display date. Slugs for undated letters are **yearless** (e.g. `charlie-to-terrie-basic-training-first-day`) so Chuck can date + rename without fighting a wrong year in the URL.
+
+## Existing pre-Vietnam training letters already on the site (DEDUP against these!)
+
+Scans already used: nco-school=dad5, christmas-leave=dad221, 1970-02-basic-training-orders=dad236, 1970-02-18-nco-training=dad240, fort-bragg-pistol-and-grenades=dad228, 1970-04-12-orders=dad226/227, 1970-03-29-ticket-cash, 1970-spring-woodstock. **None overlap** with the jp2 training scans (dad206/208/212/213/214), so those are NEW content. (Caution: the "nine weeks into training" anchor in the 18 Feb 1970 letter is NCO training, not basic — don't use it to date basic.)
+
+| scan | status |
+|---|---|
+| dad214 (=dad216) | **PUBLISHED** → charlie-to-terrie-basic-training-first-day (undated; first day of basic, KP 3:30AM) |
+| dad206/207 (p1) + dad208 (close) | Training "Letter B" — tests/promotion/"I hate this place" → "discussed when I call" — NOT yet published (verify 2pp vs missing middle) |
+| dad212 (p1) + a closing | Training "Letter C" — inspection Saturday, NCO-school-vs-Vietnam, G-3 test — NOT yet published |
+| dad213 (=dad215) | Training closing — Doug Hass/Sears, income tax, wart — pairs with a training p1 — NOT yet published |
 
 ## To catalog (unreferenced, minus twins)
 
