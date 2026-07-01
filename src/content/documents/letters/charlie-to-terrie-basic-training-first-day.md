@@ -10,7 +10,7 @@ people:
 partOf: letters-from-vietnam
 locationFrom: "US Army basic training (reception/basic post, not named on the page), stateside"
 locationTo: "Terrie (Maryland or Florida) — confirm"
-sortDate: "1969-11-15"
+sortDate: "1969-12-22"
 private: false
 summary: "Charlie's letter to Terrie from the first day of Army basic training (undated on the page). His turn on KP has already come up on day one — from 3:30 AM when they wake the trainees to 7:00 PM when they're let go — but tomorrow will be regular basic and he won't be back on KP for five weeks. The physical part isn't so hard, he says; it's the fact that everyone has to do everything together. Passing news: the last he heard, Terry Morris was alright; he wrote her another letter Friday but left his return address off, and the Army won't send a letter out without it. He lives in a barracks — not so bad, though there are much better places. If she sees Jay Schiavo, he doesn't have Jay's new address but will write him in New Jersey. He thanks her for the stamps and will write later. Opens 'Dear Terry' (spelled without the -ie). Signed 'Love, Charles.'"
 source: "Held in family archive — src/assets/family/originals/vietnam-letters/dad214.jpg (converted June 2026 from the archival dad214.jp2 scan; a duplicate scan exists as dad216). Single sheet, complete. UNDATED on the page — the postmark date is on the envelope and will be added later. Provisionally ordered at the start of the 1969–70 Army-training sequence (the earliest training event: first day of basic). Transcription verified against the scan, June 2026."

@@ -74,6 +74,14 @@ Scans already used: nco-school=dad5, christmas-leave=dad221, 1970-02-basic-train
 | dad206/207 (p1) + dad208 (close) | Training "Letter B" — tests/promotion/"I hate this place" → "discussed when I call" — NOT yet published (verify 2pp vs missing middle) |
 | dad212 (p1) + a closing | Training "Letter C" — inspection Saturday, NCO-school-vs-Vietnam, G-3 test — NOT yet published |
 | dad213 (=dad215) | Training closing — Doug Hass/Sears, income tax, wart — pairs with a training p1 — NOT yet published |
+| dad217 | **PUBLISHED** → charlie-to-terrie-reception-basic-begins-monday (single; reception week, "Basic begins Monday", visit 20 Dec) |
+| dad218 (p1) + dad219 (close) | **PUBLISHED** → charlie-to-terrie-training-m72-and-the-ring (AIT; M-72 launchers, the $20 ring, "still willing to marry you"; ~Easter/spring 1970) |
+| dad220 | training p1 — "Dear Terry, this place isn't much better than a prison. Thanksgiving day eve, a day off from training..." — NOT yet published (needs continuation) |
+| dad289 (p1) + dad290 (close) | **PUBLISHED** → charlie-to-terrie-1970-10-19-160-days (VIETNAM, dated Oct 19 1970; chopper mail, 160 days, lowlands ~Nov 2) |
+
+**jp2 block (dad207–220, 289–290) fully read.** Published from it this session: dad209 (Dec 17), dad214 (first day basic), dad217 (reception), dad218+219 (M-72/ring), dad289+290 (Oct 19). Still to pair/publish (training, undated, need continuations): **dad206/207 p1 + dad208 close** (Letter B — tests/"I hate this place"), **dad212 p1 + a closing** (Letter C — NCO-school-vs-Vietnam), **dad213** (Doug-Hass closing), **dad220** (Thanksgiving-eve p1). Their continuation pages may be in the un-read jpg tail (dad222+) or low-number stragglers.
+
+Provisional training-arc order (Chuck to fix from envelopes): dad220 (Thanksgiving eve, ~Nov 1969) → dad217 (reception, "basic begins Monday", ~mid-Dec 1969) → dad214 (first day of basic, ~late Dec 1969) → [basic/AIT letters] → dad218+219 (M-72/ring, ~spring 1970, Easter) → existing Fort Bragg/orders letters (Mar–Apr 1970) → Vietnam (May 1970).
 
 ## To catalog (unreferenced, minus twins)
 
