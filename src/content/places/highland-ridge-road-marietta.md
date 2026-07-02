@@ -78,7 +78,7 @@ It is the **paternal-side counterpart to the maternal Wildermuth family's [413 H
 
 Per the family-memory layer that runs through [Chuck's eulogy for his father](/docs/eulogy-charles-mcmaster-eesley/) and [Will Eesley's page](/family/wilbur-eesley/), the Highland Ridge property carried:
 
-- **The house itself**, designed by [Will Eesley](/family/wilbur-eesley/) — the architect who had spent eight years before this remodeling the 651 Sixth Street house his children grew up in (per [Charlie's 1965 autobiography](/docs/charles-eesley-12th-grade-autobiography-1965/)). After 651 Sixth Street he built one of his own to his fancy.
+- **The house itself**, designed by [Will Eesley](/family/wilbur-eesley/) — the architect who had spent eight years before this remodeling the 651 Sixth Street house his children grew up in (per [Charlie's 1965 autobiography](/docs/charles-eesley-12th-grade-autobiography-1965/)). After 651 Sixth Street he built one of his own to his fancy. For how Will's 1970s travels through Japan and Hong Kong shaped the design &mdash; the low deep-eaved rooflines, the red arched garden bridge, the stone lantern, the *shan shui* mural inside &mdash; see [Highland Ridge Road: A House Shaped by Japan and Hong Kong](/docs/highland-ridge-architecture/).
 - **An orchard** Will planted — the trees Charlie and Chuck would later tend together.
 - **A small red bridge** over the pond out back — built by Will, later **rebuilt by Charlie and Chuck together** (per the eulogy).
 - **A pond** — the one Chuck remembered breaking through while testing the ice as a boy, his father wading in to pull him out *"of my boots, still stuck in the mud on the bottom to this day"* per the eulogy.
