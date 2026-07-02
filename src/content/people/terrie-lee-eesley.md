@@ -91,6 +91,49 @@ The photograph at the head of this page shows Terrie at the **Stanford Alumni Ce
 
 A memorial service was held **July 8, 2017 at 2:00 p.m.** at the Hadley Funeral Reno Chapel, 1021 Pike Street, Marietta. Cremation. The printed program shows speakers in order: **Chuck Eesley, son; Sandy Clement, sister; Debbie Massaro, sister; [Daniel Ebaugh](/family/daniel-ebaugh/), friend; Tribute from the Teachers and Students of Harmar School (read by Chuck Eesley).** Terrie's own poem was printed alongside the obituary.
 
+## The tribute wall
+
+On the Hadley Funeral Home tribute wall, Chuck posted the list he called the **wisdom of his mother** &mdash; the distilled inheritance of how she lived:
+
+> **The wisdom of my mother:**
+>
+> - Love of reading, learning, and of books.
+> - To have a meaningful life, give your life for a cause &mdash; hers was teaching reading and raising me.
+> - Value family, friends, and experiences over things.
+> - Her love of nature, flowers, and animals; she got pleasure from the simplest thing from nature.
+> - Send letters and cards for friends' and family's birthdays and holidays, to show you care and to keep in touch.
+> - Learn the family history; treasure family photos.
+> - Travel is overrated unless it's visiting family.
+> - When guests visit, cook them a lot of food to show how much they mean to you.
+> - Work hard and be diligent, but celebrate the little successes along the way.
+> - Send a check in the mail when nieces and nephews are in college.
+> - Trust and communication, along with shared hobbies and interests, are the most important things in a relationship.
+> - For those who have children, tell them often how much you love them &mdash; and that you KNOW they can accomplish anything they set their minds to do.
+>
+> &mdash; Chuck Eesley, 1 June 2017
+
+Friends, neighbors, colleagues, and family added their own remembrances:
+
+> *"Terrie's smile, conversation, and presence are missed daily. She was the brightness across our street every day &mdash; watching her leave for school every morning, planting and tending to her flowers, unloading her groceries, enjoying her porch. Seeing and talking with Terrie was always a joy. We will always cherish the vibrancy of her big wave to say hello, and her daily smile and determination."*
+> &mdash; Heather McCarter and Jordana Bungard (neighbors), 8 July 2017
+
+> *"We loved the 'wisdom of Terrie' you wrote; very true and a beautiful portrait of a loving mother. She was such a kind person, hospitable and an excellent teacher. Her love of children was especially evident when engaging them in a story. I have a photo of her reading to [Nooreen](/family/nooreen-rubin/) in which she has the same expression as Princess Diana when she greeted children &mdash; so lovely."*
+> &mdash; [Jeanne Kamiab](/family/jeanne-eesley-kamiab/) ("Aunt Jeanne"), 5 June 2017
+
+> *"I taught with your mother and also subbed for her a few times. I considered her a good friend and I am so sad about her passing. I will greatly miss her."*
+> &mdash; Linda Christman, 11 June 2017
+
+> *"We fondly remember Terrie reading stories to the young children at the Washington County Public Library story hour every week. She definitely instilled a love of books and reading in all the children she worked with."*
+> &mdash; Karen and Richard DeLong, 29 May 2017
+
+> *"The above describes Terrie FOR SURE. We will miss her tremendously!"*
+> &mdash; Dorothy Ullmann Wilkinson, 3 June 2017
+
+> *"This is beautiful and honest and a true reflection of an amazing woman and mother and teacher."*
+> &mdash; Rachael Carbone, 30 June 2017
+
+> *Source: [Terrie Lee Bain obituary and tribute wall](https://www.hadleyfh.com/obituaries/Terrie-Lee-Bain?obId=1871041), Hadley Funeral Home, May&ndash;July 2017.*
+
 ## See also — family threads
 
 Terrie is an anchor for four of the ten threads in the [**Family threads**](/docs/family-threads/) synthesis essay:
