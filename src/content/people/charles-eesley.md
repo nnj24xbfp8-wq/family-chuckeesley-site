@@ -77,6 +77,36 @@ The places Chuck named at the end of the eulogy &mdash; the track at Marietta Mi
 
 > _Biographical summary above draws on his published obituary at Cawley &amp; Peoples Funeral Home; the rest of the page comes from Chuck's eulogy._
 
+## From his obituary
+
+![Charlie Eesley in a later studio portrait, c. 1990s — the photograph used in his 2015 obituary.](../../assets/family/originals/charlie-eesley-later-studio-portrait-c1990s.jpeg)
+
+Charlie's [obituary](https://www.cawleyandpeoples.com/obituaries/charles-eesley), published by Cawley &amp; Peoples Funeral Homes, gathers the public shape of his life. He was a Vietnam veteran, having served with the U.S. Army from 1969 to 1971, and a member of **American Legion Post 64**. He took his economics degree at Marietta College, worked in sales and human resources at Sears, then became a stockbroker for The Ohio Company and later Hazlett, Burt &amp; Watson. He was an *"active, long-standing member of First Congregational United Church of Christ,"* where he served on boards and helped manage the church's endowment funds.
+
+Two lines of it are pure Charlie. He *"enjoyed studying the Civil War and military strategy."* And: *"Charlie was a staunch Republican, and believed that voting is a privilege of every citizen and is important to effect change and ensure the future of the nation."*
+
+He was survived by his wife [Diana Hoffer Eesley](/family/diana-hoffer/), whom he married 9 January 1999; his son [Charles E. Eesley, Ph.D.](/family/charles-eric-eesley/), of Stanford, CA; his mother [Terrie Bain](/family/terrie-lee-eesley/), of Marietta; three sisters &mdash; [Jeanne Kamiab](/family/jeanne-eesley-kamiab/) (Joe), of Cleveland, [Anne Eesley](/family/anne-eesley/), of Muskegon, Michigan, and [Margaret Eesley](/family/margaret-maggie-eesley/), of Kent; nieces Stephanie Mullin, Amena Rubin, and [Nooreen Rubin](/family/nooreen-rubin/); and great-nephews Cameron and Harrison Mullin.
+
+Funeral services were held 11:00 am Saturday, 12 December 2015 at the First Congregational Church, the Rev. Linda Steelman officiating, **with full military honors**. The family directed memorial donations to the **American Diabetes Association** and the First Congregational Church Memorial Fund &mdash; the diabetes a quiet last echo of the Agent Orange exposure the rest of this page traces.
+
+### Remembrances left in the guestbook
+
+Condolences signed on the funeral-home guestbook in the weeks after his death:
+
+> *"Charlie was always so nice to me and our family. He was kind, funny, and a wonderful person. He will be missed. I have happy memories, and my prayers and love to my sister, Diana."*
+> &mdash; Ellen Wittekind (with Dan &amp; family), 3 December 2015
+
+> *"My family was close to the Eesley family. Charley was always a friend and felt he was a brother."*
+> &mdash; Julia Hausser Guffey, 9 December 2015
+
+> *"Charlie will be greatly missed. I remember well how he would call the church office and give me a hard time, or ask 'What's going on at the church?' We would have good talks when he appeared in the office. Charlie was a great guy. My deepest sympathies to you and to all the family."*
+> &mdash; Diana Whitlatch, 8 December 2015
+
+> *"Diana &amp; family, I am so sorry to hear about your husband. May God's peace help you through this time. Love &amp; prayers."*
+> &mdash; Teresa Beach (WSCC), 2 December 2015
+
+> *Source: [Charles McMaster Eesley obituary and guestbook](https://www.cawleyandpeoples.com/obituaries/charles-eesley), Cawley &amp; Peoples Funeral Homes, November&ndash;December 2015.*
+
 ## See also
 
 He is the middle of [the three Charleses](/docs/the-three-charleses/) — named in 1947 for his grandfather Charles Leonard (skipping his own father Will's first name), with McMaster for his mother Peggy's family. He in turn named his son Charles Eric in 1979. A short essay reads the grandfather-and-grandson naming chain across the three generations.

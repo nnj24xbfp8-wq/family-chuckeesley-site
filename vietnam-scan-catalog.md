@@ -86,6 +86,15 @@ Scans already used: nco-school=dad5, christmas-leave=dad221, 1970-02-basic-train
 
 **PRIVACY NOTE:** the family withheld the `1969-nco-school` letter (private: true). When mining training letters, check each against the private entries before publishing — a readable scan of a withheld letter must NOT be published or attached (the template hides scans of private letters, so attaching would be pointless anyway).
 
+## jpg tail — dad222+ (mining in progress)
+
+| scan | date | role | notes | assignment |
+|---|---|---|---|---|
+| dad222 (p1) + dad223 (close) | training | 2pp | **PUBLISHED** → charlie-to-terrie-training-mortar-and-nco-decision |
+| dad224 | 26 Jun 1970 | single | **PUBLISHED** → charlie-to-dorothy-hauser-1970-06-26-keep-working-for-peace |
+| dad229 | fall 1969 ("618 days left") | p1 | ⚠️ **PRIVACY HOLD** — the D.C.-guard-assignment thread (Tomb of the Unknown Soldier, "instead of NCO school"), BUT opens with sister **Anne** and sister **Jeanne (living)** admitting themselves for psychiatric help at U. of Wisconsin. Living-person mental-health content → awaiting Chuck's call before publishing. Page 2 not yet found. |
+| dad230 | spring 1970 (Easter) | close | orphan closing — Easter leave planning, "come up," uncle; mild "take a cold shower" tease. Needs its p1. |
+
 Provisional training-arc order (Chuck to fix from envelopes): dad220 (Thanksgiving eve, ~Nov 1969) → dad217 (reception, "basic begins Monday", ~mid-Dec 1969) → dad214 (first day of basic, ~late Dec 1969) → [basic/AIT letters] → dad218+219 (M-72/ring, ~spring 1970, Easter) → existing Fort Bragg/orders letters (Mar–Apr 1970) → Vietnam (May 1970).
 
 ## To catalog (unreferenced, minus twins)
