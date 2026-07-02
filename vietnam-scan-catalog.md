@@ -86,6 +86,16 @@ Scans already used: nco-school=dad5, christmas-leave=dad221, 1970-02-basic-train
 
 **PRIVACY NOTE:** the family withheld the `1969-nco-school` letter (private: true). When mining training letters, check each against the private entries before publishing — a readable scan of a withheld letter must NOT be published or attached (the template hides scans of private letters, so attaching would be pointless anyway).
 
+## ⚠️ NON-CHARLIE / SENSITIVE finds — DO NOT PUBLISH
+
+- **dad242 (p1) + dad243 (p2)** — 13 Oct 1967 love letter to Terrie ("Dearest Tari") from an unknown serviceman stationed at **Yamada, Japan** ("relieve Butch... TDY to Korea"), an **earlier suitor** from Terrie's Air-Force-dependent years (her father Robert Earl was the commanding officer; "the commander's daughter... stay away from Dependents"). NOT Charlie (he was at Marietta College in 1967). Signed with an illegible short name. **Chuck: "Hold it — don't publish."** Kept in private archive only.
+- **Implication:** the dad### scan set is NOT all Charlie's letters — it includes some of Terrie's other/earlier correspondence. Watch every letter's author/date before publishing.
+
+## orphan closing fragments (need their page-1s)
+
+- **dad239** — tiny closing ("Mrs. Hauser sent it... She is funny. Keep studying. Love Charles" + "got your package" P.S.).
+- **dad241** — closing ("phones here not very private... may call you on my birthday [~Feb 17]... reading Catch-22... Love Charles").
+
 ## jpg tail — dad222+ (mining in progress)
 
 | scan | date | role | notes | assignment |
