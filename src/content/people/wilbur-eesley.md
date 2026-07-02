@@ -46,6 +46,16 @@ Per Chuck Eesley's family memory (transmitted June 2026), **Will's architecture 
 
 When Will and Peggy travelled to Japan and Hong Kong is open research, but the trip(s) appear to have been formative for his practice. The Chinese mural at Highland Ridge — visible in the [c. 1980–82 photograph of young Chuck on the rug below it with his grandmother Peggy, Aunt Jeanne, and his mother Terrie](/places/highland-ridge-road-marietta/) — was almost certainly a souvenir of one of those trips. The architectural influence ran deeper than the souvenir: Highland Ridge as Will built it carries the bones of an East Asian residential-with-landscape design philosophy, translated into West Virginia / southeast Ohio river-valley vernacular.
 
+## The firm, and buildings beyond Highland Ridge
+
+Highland Ridge was the personal expression, but most of Will's architecture was the work of a **career-long Marietta firm**. After the Ohio State degree and the Columbus years, he practiced in Marietta from 1949 as **Scott and Eesley** and then **Eesley, Lee, Vargo and Cassady**, retiring around 1978. The practice outlived him under successive partner names &mdash; later **Vargo, Cassady, Ingham & Gibbs** &mdash; remaining one of southeast Ohio's principal architecture firms, on Front Street in Marietta, into the 2000s.
+
+The firm's work was largely **institutional and civic**, in the mid-century-modern idiom &mdash; a different register from the Japanesque house he built for himself. The building most clearly documented from his active years is **Andrew V. Thomas Memorial Hall at Marietta College (1969)**, attributed to Eesley, Lee & Vargo in the **New Formalism** style: the symmetrical, columned institutional modernism of the period. *(Attribution per Ohio's statewide "Ohio Modern" architecture survey &mdash; worth a second confirmation.)* The firm's **Gallia County Courthouse in Gallipolis (1985)** is a firm project of the successor generation rather than Will's own hand, given that it postdates his retirement.
+
+A period record of the firm's own account of itself survives and is the best single lead to a fuller catalog of what Will and his partners designed: a 1973 publication, ***Eesley, Lee & Vargo, in Marietta, Ohio: An Architectural Portrait*** &mdash; dating to Will's active years, and likely traceable through Marietta College's Legacy Library or the Washington County historical society.
+
+> *Sources: Will's 1986 Marietta obituary (firm names, Ohio State degree, career dates); [Ohio History Connection &mdash; Ohio Modern statewide survey](https://www.ohiohistory.org/wp-content/uploads/2022/01/rp-17-11.pdf) (Thomas Memorial Hall, Marietta College &mdash; Eesley, Lee & Vargo, 1969); [Supreme Court of Ohio &mdash; Ohio Courthouses](https://www.supremecourt.ohio.gov/courts/judicial-system/ohio-trial-courts/courthouses/) (Gallia County Courthouse, 1985); and the firm's 1973 monograph* Eesley, Lee & Vargo, in Marietta, Ohio: An Architectural Portrait *(to be located).*
+
 ## The eight-year remodel of the Marietta house
 
 [Charlie Eesley's 12th-grade autobiography (c. 1964&ndash;1965)](/docs/charles-eesley-12th-grade-autobiography-1965/) carries one of the most affectionate father-portraits in the archive &mdash; Charlie at seventeen describing the architect-father he had lived with through eight years of continuous home renovation:
