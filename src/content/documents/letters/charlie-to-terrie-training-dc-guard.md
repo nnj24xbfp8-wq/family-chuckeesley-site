@@ -13,9 +13,10 @@ locationTo: "Maryland (University of Maryland, College Park) — confirm"
 sortDate: "1969-10-20"
 private: false
 summary: "Charlie's quick note to Terrie (undated on the page; headed 'Sunday, mailed Monday — 618 days left,' page 1 of a letter whose closing page is not located). After a short family-health passage held private at the family's discretion, he turns to 'the good news': the Army needs guards in Washington, D.C., and after the nonsense of his current training he would go there and become one — guarding things like the Tomb of the Unknown Soldier. He missed his interview but will make it up next Saturday; he won't know for certain until the 8th week, but if he passes the interview he understands the chances would be very good, and he'll keep her posted. The job would be one day on and two days off — a very good deal. He had a good time this weekend: he got drunk, but that was all, and he did forget the army for a while, which was good."
-source: "Held in family archive — src/assets/family/originals/vietnam-letters/dad229.jpg (page 1). Headed 'Sunday, mailed Monday — 618 days left.' The opening family-health passage is withheld from the public transcription at the family's discretion. The closing page is not located among the surviving scans. UNDATED on the page — the postmark date is on the envelope and will be added later; provisionally ordered in fall 1969 (the '618 days left' count places it early in his service, in the NCO-school-vs-D.C. decision period). Transcription verified against the scan, June 2026."
+source: "Held in family archive — reassembled from src/assets/family/originals/vietnam-letters/dad229.jpg (page 1, headed 'Sunday, mailed Monday — 618 days left') and dad233.jpg (a later page, the closing, signed 'Love, Charles'). A middle page may be missing between the two. The opening family-health passage is withheld from the public transcription at the family's discretion. UNDATED on the page — the postmark date is on the envelope and will be added later; provisionally ordered in the NCO-school-vs-D.C. decision period (the closing page refers to the Washington guard posting 'from the 15 April on' and an interview 'Saturday for the guard job'). Transcription verified against the scans, June 2026."
 scans:
   - ../../../assets/family/originals/vietnam-letters/dad229.jpg
+  - ../../../assets/family/originals/vietnam-letters/dad233.jpg
 ---
 
 ## What the letter is
@@ -46,7 +47,16 @@ Guarding *"the unknown soldier"* in Washington points to the **3rd U.S. Infantry
 >
 > I had a good time this weekend. I got drunk but that was all. I did forget the army for a while and that was good.
 >
-> *[The closing page is not located among the surviving scans.]*
+> *[a middle page appears to be missing; the letter continues on a later page:]* ...there from the 15 April on. I'll let you know after my interview Saturday for the "guard" job.
+>
+> Our mail seems to be messed up something awful. I get 2 letters, then no letters for several days, and then 2 again. I haven't heard from Al or Jay yet, or Abbott for all that matters.
+>
+> How was your slumber party? I hope you are not so lonely you can't have fun. Just don't date or do anything naughty.
+>
+> I hope everything is okay. What are you doing on your app? Just don't rush into it like I did. Also, what are you doing about transportation once you're out on your own?
+>
+> Love
+> Charles
 
 ## What the letter records
 
