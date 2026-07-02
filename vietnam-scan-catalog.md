@@ -91,10 +91,15 @@ Scans already used: nco-school=dad5, christmas-leave=dad221, 1970-02-basic-train
 - **dad242 (p1) + dad243 (p2)** — 13 Oct 1967 love letter to Terrie ("Dearest Tari") from an unknown serviceman stationed at **Yamada, Japan** ("relieve Butch... TDY to Korea"), an **earlier suitor** from Terrie's Air-Force-dependent years (her father Robert Earl was the commanding officer; "the commander's daughter... stay away from Dependents"). NOT Charlie (he was at Marietta College in 1967). Signed with an illegible short name. **Chuck: "Hold it — don't publish."** Kept in private archive only.
 - **Implication:** the dad### scan set is NOT all Charlie's letters — it includes some of Terrie's other/earlier correspondence. Watch every letter's author/date before publishing.
 
-## orphan closing fragments (need their page-1s)
+## orphan fragments (need their other pages)
 
 - **dad239** — tiny closing ("Mrs. Hauser sent it... She is funny. Keep studying. Love Charles" + "got your package" P.S.).
 - **dad241** — closing ("phones here not very private... may call you on my birthday [~Feb 17]... reading Catch-22... Love Charles").
+- **dad246** — Dec 1970 MIDDLE page ("...when we are living together... if there is a 10 month tour I would be home middle of March... I leave here Feb 4... meet in Hawaii... mail it to Florida... I'll finish the letter tomorrow"). Page 1 AND page 3 both missing (multi-day letter). Mild "if we are both horny" tease.
+
+## Vietnam Dec 1970 — published this pass
+
+- **dad244** → **PUBLISHED** charlie-to-terrie-1970-12-08-call-and-the-mess-hall (Dec 8: "hope to call you Dec 13," rear-area good life; sets up the existing Dec 14 phone-call letter). Anne/Jeanne "breakdowns" passage TRIMMED per standing call.
 
 ## jpg tail — dad222+ (mining in progress)
 
