@@ -100,6 +100,13 @@ Scans already used: nco-school=dad5, christmas-leave=dad221, 1970-02-basic-train
 ## Vietnam Dec 1970 — published this pass
 
 - **dad244** → **PUBLISHED** charlie-to-terrie-1970-12-08-call-and-the-mess-hall (Dec 8: "hope to call you Dec 13," rear-area good life; sets up the existing Dec 14 phone-call letter). Anne/Jeanne "breakdowns" passage TRIMMED per standing call.
+- **dad259 (p1) + dad260 (p2)** → **PUBLISHED** charlie-to-terrie-1970-12-28-ten-month-rumor-and-married-early (Dec 28: 10-month tour rumor / "married early"; the "platoon wiped out" scare that was a lie; "stop sending magazines... they have a library").
+
+## faint orphan middle pages (relationship/marriage; low-res, hard to place)
+
+- **dad250** ("2") — "still serious about you... faithful... clear my doubts... still a good boy so don't worry."
+- **dad251** ("5"?) — "I just don't want to be rushed... I want to be married also just as bad as you... the army is one hell of a strain."
+(These belong to one or more long marriage-discussion letters; page 1s/other pages not yet matched. dad246 may belong with these.)
 
 ## jpg tail — dad222+ (mining in progress)
 
