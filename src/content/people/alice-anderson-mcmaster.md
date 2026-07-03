@@ -20,11 +20,19 @@ Alice Gertrude Anderson was born **9 July 1871** in Pennsylvania to [Reverend Ab
 
 Robert died in **1919**, age 53; Peggy was only five years old. Alice was **forty-eight**, with twenty-six more years of teaching school still to come and two children to finish raising on her own.
 
+![Alice Anderson as a young woman — cabinet card by the Eyer studio of McDonald, Pennsylvania, late 1880s / early 1890s. Profile portrait in an oval mount, her hair swept up, a lace collar at the throat.](../../assets/family/originals/alice-anderson-young-woman-eyer-cabinet-card.jpeg)
+
 ## The schoolteacher
 
 Alice ran the **Clifton School** in Pennsylvania. The deck preserves a **1928 class photograph** of her with her students. A second photograph, undated, shows her alone in her schoolroom. Her granddaughter Maggie Eesley's *Four Generations* archive catalogues both, plus a young-woman cabinet card by the **Eyer** studio of **McDonald, Pennsylvania** (late 1880s / early 1890s), plus a 1910&ndash;12 frame of her on a porch with her young son Don.
 
+![Alice Anderson McMaster on a porch step with her young son Donald A. McMaster, c. 1910&ndash;12, Pennsylvania. Alice wears a large feathered hat &mdash; the deck notes it is trimmed with a whole bird &mdash; and Don, in a wool coat and cap, sits solemnly beside her.](../../assets/family/originals/alice-anderson-mcmaster-porch-with-son-don-c1911.jpeg)
+
+![Alice Anderson McMaster with her students at the Clifton School, 1928 &mdash; a glossy black-and-white class photograph. Alice stands in the doorway at the back; some three dozen children are ranged on the school steps in front of the brick building.](../../assets/family/originals/alice-mcmaster-clifton-school-students-1928.jpeg)
+
 She died in **1961**, age 90 &mdash; thirteen years before her son Don and forty-six years before her daughter Peggy. The Clifton School where she had taught for decades is the institutional trace of her in the world Maggie's deck preserves.
+
+![Alice Anderson McMaster in her schoolroom, undated &mdash; posed in front of the blackboard where she taught, her hair gone white, looking down. One of the quieter frames in the deck.](../../assets/family/originals/alice-mcmaster-in-her-schoolroom.jpeg)
 
 ## The last six years — living with the Eesleys
 
@@ -37,7 +45,7 @@ She died in **1961**, age 90 &mdash; thirteen years before her son Don and forty
 - **Alice with her Clifton School students** (1928) &mdash; class photograph.
 - **Alice in her schoolroom** &mdash; undated.
 
-Each carries the full archival catalogue in Maggie's deck and will appear in this archive as separate artifact entries.
+All four are shown above, reproduced from Maggie's deck; each carries the full archival catalogue (title, medium, measurements) in the deck itself.
 
 She is **Chuck's great-grandmother** through Peggy &rarr; [Charles McMaster Eesley](/family/charles-eesley/) &rarr; Chuck.
 
