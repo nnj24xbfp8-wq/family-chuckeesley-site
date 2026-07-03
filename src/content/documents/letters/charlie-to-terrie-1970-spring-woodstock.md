@@ -16,9 +16,8 @@ dateRange:
   end: "1970-05-31"
 private: true
 summary: "Letter recording Charlie's viewing of the documentary 'Woodstock' (released March 1970) at some Vietnam-based screening — likely a rear-area Special Services facility, USO, or division film service. The whole letter is mostly faded blue-ink cursive, but the closing line survives in clearer hand: 'I saw the movie Woodstock today. Quite interesting!!' One sentence is the entire record of a 22-year-old infantryman in Vietnam watching a documentary about the music festival his civilian-side peers attended the summer before he shipped. He gets to it with two exclamation points and a sense of distance."
-source: "Held in family archive — src/assets/family/originals/vietnam-letters/dad270.jpg. Date inferred from the Woodstock film's March 26, 1970 release; would have reached overseas film circuits within weeks."
-scans:
-  - ../../../assets/family/originals/vietnam-letters/dad270.jpg
+source: "Held in family archive. The surfaced line — 'I saw the movie Woodstock today. Quite interesting!!' — was transcribed from the physical letter; the specific scan is currently UNLOCATED among the digital scans. (An earlier draft cited dad270.jpg, but that image is in fact page 2 of the 6 October 1970 letter — see charlie-to-terrie-1970-10-06-back-to-the-field-raise-hell — so the citation was removed. The scans appear to have been renumbered after this entry was first written.) Date inferred from the Woodstock film's 26 March 1970 release; it would have reached overseas military film circuits within weeks, so the screening most likely fell in late spring or summer 1970, after Charlie reached Vietnam. To be matched to its scan/envelope."
+scans: []
 ---
 
 ## What the letter is
