@@ -3,11 +3,10 @@ name: "Elizabeth \"Liz\" Burnes"
 aka: "Liz Burnes; m. Donald Faux (kept her own surname)"
 line: paternal
 generation: 6
-birth:
-  date: "1955-05-15"
 parents:
   - helen-burnes
 living: true
+sortBirth: "1955-05-15"
 status: sketch
 summary: "Daughter of Helen Louise (Eesley) Burnes and Edwin William Burnes — one of six daughters in the Burnes household, and Chuck's first cousin once removed on the paternal Eesley side. Married Donald Faux but kept her own surname (one of four Burnes daughters to keep Burnes through marriage, alongside Shelley, Cindy, and Roberta; her oldest sister Barb took Hester and her youngest sister Katie took McKeel)."
 ---

@@ -3,11 +3,10 @@ name: "Barbara \"Barb\" Lynn Burnes Hester"
 aka: "Barb Burnes, maiden; Barb Hester, married"
 line: paternal
 generation: 6
-birth:
-  date: "1950-09-13"
 parents:
   - helen-burnes
 living: true
+sortBirth: "1950-09-13"
 status: sketch
 summary: "Oldest of Helen Louise (Eesley) Burnes and Edwin William Burnes's six daughters — Chuck's first cousin once removed on the paternal Eesley side. Married Phillip 'Phil' Hester and took his surname (one of two of the Burnes daughters to do so, with her younger sister Katie McKeel; sisters Liz, Cindy, Shelley, and Roberta all kept Burnes). Most importantly for this archive: Barb made photocopies of all of Grandpa Charles Leonard Eesley's 1940s letters. Her photocopy set is the most likely entry point for any future deciphering pass of the [1940s Eesley letter collection](/docs/charles-leonard-letter-collection/) — letting the originals stay safely in Roberta's keeping while a readable working copy circulates."
 ---
