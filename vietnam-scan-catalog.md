@@ -134,6 +134,40 @@ Scans already used: nco-school=dad5, christmas-leave=dad221, 1970-02-basic-train
 
 Provisional training-arc order (Chuck to fix from envelopes): dad220 (Thanksgiving eve, ~Nov 1969) → dad217 (reception, "basic begins Monday", ~mid-Dec 1969) → dad214 (first day of basic, ~late Dec 1969) → [basic/AIT letters] → dad218+219 (M-72/ring, ~spring 1970, Easter) → existing Fort Bragg/orders letters (Mar–Apr 1970) → Vietnam (May 1970).
 
-## To catalog (unreferenced, minus twins)
+## dad279–336 block — fully read and mined this pass (16 new letters + 2 existing entries completed)
 
-dad6 dad11 dad12 dad18 dad26 dad101 dad103 dad119 dad125 dad137 dad147 dad148 dad152 dad153 dad154 dad155 dad156 dad157 dad166 dad181 dad207 dad208 dad209 dad210 dad211 dad212 dad213 dad214 dad217 dad218 dad219 dad220 dad222 dad223 dad224 dad229 dad230 dad231 dad232 dad233 dad237 dad238 dad239 dad241 dad242 dad243 dad244 dad246 dad250 dad251 dad252 dad259 dad260 dad263 dad264 dad265 dad266 dad267 dad268 dad269 dad271 dad272 dad273 dad274 dad275 dad276 dad277 dad278 dad279 dad280 dad281 dad282 dad283 dad284 dad289 dad290 dad291 dad292 dad293 dad294 dad295 dad296 dad297 dad298 dad299 dad300 dad301 dad302 dad304 dad305 dad306 dad307 dad308 dad309 dad310 dad311 dad312 dad313 dad314 dad315 dad317 dad319 dad320 dad321 dad322 dad323 dad324 dad325 dad326 dad327 dad328 dad329 dad330 dad331 dad333 dad334 dad335 dad336
+Surveyed the entire dad279–336 range. Found a much richer seam than expected: 16 new complete, datable letters spanning 1 July – 28 October 1970, plus the true closing pages for two letters that were already on the site as page-1-only stubs. All published this pass:
+
+**New letters published:**
+- **dad321+322+323** → **PUBLISHED** charlie-to-terrie-1970-07-01-the-month-is-over (1 July 1970, 3pp — one of the earliest surviving tour letters; "the month is over with, I have survived," 50 days in, marriage location left entirely up to her, enemy complex spotted by helicopter).
+- **dad324+325+326+327** → **PUBLISHED** charlie-to-terrie-1970-08-05-ripcord-and-casualties (5 Aug 1970, 4pp — FSB Ripcord reference: he left it in June before it took 1000+ shells; 12 dead in one company, 9 in D Co; Japan trip idea from Joanne; dad's new car; "don't want to marry a big debt").
+- **dad328+329** → **PUBLISHED** charlie-to-terrie-1970-08-05-beach-and-the-village (a SECOND, shorter letter also dated 5 Aug 1970 — beach day, Daytona Beach daydream, the village/prostitution/children-as-brokers passage, "I've been a good boy for the 85 days." No formal sign-off — letter just stops).
+- **dad330+333+336+331** → **PUBLISHED** charlie-to-terrie-1970-08-09-the-beard-and-slow-down-on-marriage (9–11 Aug 1970 multi-day letter — captain rotation, "calm down a little" on wedding planning, beard restarted, parents' address requested). ⚠️ **dad334 WITHHELD** — the same undated run includes a page with a much harsher jealousy/moral passage (a tasteless "joke" about his own reaction, questions about Terrie's dating history) than anything else in the corpus; Chuck's call was to publish the rest and cut this passage entirely, no placeholder. The opening fragment of dad331 ("really can't tell.") is the tail of that same passage and is also omitted — published transcription of dad331 starts at its next sentence.
+- **dad308+309** → **PUBLISHED** charlie-to-terrie-1970-08-29-109-days-and-the-wedding-plan (29 Aug 1970, 2pp — O'Reilly/Katherine status, 109 days in, contingency wedding plan if she doesn't graduate on time).
+- **dad304** → **PUBLISHED** charlie-to-terrie-1970-09-04-new-captain-and-the-monsoon (4 Sept 1970, page 1 only — writing under a poncho, new captain's questionable patrol call. NOTE: dad305, initially guessed as this letter's closing, turned out on close reading to be a duplicate scan of the Sept 28 letter's closing (dad319) — NOT this letter's page 2. This letter's true closing is still unlocated.).
+- **dad306+307** → **PUBLISHED** charlie-to-terrie-1970-09-07-firebases-and-the-honeymoon (7 Sept 1970, 2pp — O'Reilly/Katheryn evacuated for the monsoon, not the enemy; honeymoon location ideas; $130 check).
+- **dad310+311** → **PUBLISHED** charlie-to-terrie-1970-09-10-helicopter-crash-and-canada (10 Sept 1970, 2pp — helicopter crash killed 33 ("one of the minor things to worry about"), camera/radio shopping list, "I'd be a resident of Canada now," overheard conversation on race).
+- **dad312+313+314+315** → **PUBLISHED** charlie-to-terrie-1970-09-14-jungle-mountains-and-first-contact (14 Sept 1970, 4pp — 50-day no-contact streak broken, one enemy killed ("a terrible, cruel business"), Harty's draft lottery number, Dorothy Hauser's care packages, reading list).
+- **dad320** → **PUBLISHED** charlie-to-terrie-1970-09-30-twenty-inches-of-rain (30 Sept 1970, 1pp — dreading forecast October rain, $130 confirmed received, pulled onto guard duty the same night).
+- **dad279+280** → **PUBLISHED** charlie-to-terrie-1970-10-15-first-kill-in-three-months (15 Oct 1970, 2pp — VIPs by helicopter after the brigade's first kill in 3 months; Marjie's sorority rush; still hasn't written Terrie's parents).
+- **dad281+282** → **PUBLISHED** charlie-to-terrie-1970-10-17-the-only-group-with-contact (17 Oct 1970, 2pp — "the only group that has contact anymore"; June 12 out-date, 240 days).
+- **dad291+292+293+294** → **PUBLISHED** charlie-to-terrie-1970-10-20-the-apartment-and-other-girls (20 Oct 1970, 4pp — Sandy reassurance/Hawaii suggestion, GE stock, apartment-before-marriage idea, "you still get the most letters" re: other girls writing him).
+- **dad295+296+297** → **PUBLISHED** charlie-to-terrie-1970-10-24-typhoon-alert-and-165-days (24 Oct 1970, 3pp — typhoon alert, congressman's reply pending, 9 GIs killed in a booby trap, stereo brochures).
+- **dad299+300+301** → **PUBLISHED** charlie-to-terrie-1970-10-28-one-year-in-the-army (28 Oct 1970, 3pp — "I do think I came back out too soon" re: his malaria evacuation, 1-year-in-Army milestone 9 Nov, no support "at this time").
+
+**Existing page-1-only entries completed with their true closing pages:**
+- charlie-to-terrie-1970-09-21-malaria-hospital — added page 2 from **dad317** (Woodstock tape, flush toilets, "keep writing and I love you").
+- charlie-to-terrie-1970-09-28-cam-ranh-bay-convalescence — added page 2 from **dad319** ("I guess I'm in good enough health... getting ready to move now").
+
+**Non-byte-identical duplicate scans identified this pass** (same content as an already-used scan, different scan pass — add to the dedup list): dad283=dad289, dad284=dad290, dad302=dad301, dad305=dad319.
+
+**Still open from this block:**
+- **dad298** — tiny orphan fragment: "...my uncle says you may move soon... landlord problems... most landlords are bastards so don't have any guilt feelings about moving." Not yet matched to a letter.
+- **dad335** — "August 14" letter, page 1 only ("We are finally in the lowlands but only for a week... company lost 8 men over an 8-month period... 301 days left"). Continuation/closing not located in this block — check the low-number stragglers.
+- The true closing of the **4 September letter** (dad304) is still unlocated.
+
+## Still to catalog
+
+**Low-number stragglers — NOT YET SURVEYED** (next priority): dad6 dad11 dad12 dad18 dad26 dad101 dad103 dad119 dad125 dad137 dad147 dad148 dad152 dad153 dad154 dad155 dad156 dad157 dad166 dad181
+
+**Still-open orphans from earlier passes** (unchanged): dad239, dad241, dad246, dad250, dad251, dad264, dad298, dad335 (see above), plus the Woodstock scan (unlocated — Chuck to match from the physical letter/envelope).
