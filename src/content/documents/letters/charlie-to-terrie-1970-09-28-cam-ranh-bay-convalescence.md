@@ -14,10 +14,11 @@ postmarkDate: "1970-09-28"
 dateRange:
   start: "1970-09-28"
 private: false
-summary: "Charlie's letter to Terrie dated 28 September 1970, on American National Red Cross stationery, from the U.S. military convalescence center at Cam Ranh Bay on the southern Vietnamese coast — one week after the 21 September hospital letter. Charlie has been transferred from the initial admitting hospital to the rear-area convalescent facility. He is recovering from malaria, prescribed bed rest in a place that offers a beach and a movie every night, no idea how long he'll be there but ready to stretch it as long as possible. The convalescent paragraph of the medical episode."
-source: "Held in family archive — src/assets/family/originals/malaria letters/dad318.jpeg."
+summary: "Charlie's two-page letter to Terrie dated 28 September 1970, on American National Red Cross stationery, from the U.S. military convalescence center at Cam Ranh Bay on the southern Vietnamese coast — one week after the 21 September hospital letter. Charlie has been transferred from the initial admitting hospital to the rear-area convalescent facility. He is recovering from malaria, prescribed bed rest in a place that offers a beach and a movie every night, no idea how long he'll be there but ready to stretch it as long as possible. He is in good enough health and starting out right, and has to get ready to move again before the next resupply."
+source: "Held in family archive — page 1 at src/assets/family/originals/malaria letters/dad318.jpeg; page 2 (closing) reassembled from src/assets/family/originals/vietnam-letters/dad319.jpg, a separate scan of the same letter. Handwritten, 2 pages, dated 28 September 1970 on American National Red Cross stationery. Transcription verified against the scans, July 2026."
 scans:
   - ../../../assets/family/originals/malaria letters/dad318.jpeg
+  - ../../../assets/family/originals/vietnam-letters/dad319.jpg
 ---
 
 ## What the letter is
@@ -48,7 +49,14 @@ This is the **second of Charlie's two Vietnam coastal-rear locations** in the su
 >
 > Dear Terrie,
 >
-> You may be interested in knowing what I'm doing now. I'm at Cam Ranh Bay at a convalescence center to fully recover from my bout with Malaria. I feel pretty good now but the longer I spend here the less time I'll have to spend in the field. There is a beach and a movie every night. It isn't raining steadily here yet but I guess it is where my company is. I have no idea how long I'll stay here but I'm prepared to [...] possible. All I do here is sit around. I guess they forward my mail as I got one from home today. Their phone is out of order so I can't even call home let alone call you. I just lay here adding days to my stay in the wretched land and count the days till I go home...
+> You may be interested in knowing what I'm doing now. I'm at Cam Ranh Bay at a convalescence center to fully recover from my bout with Malaria. I feel pretty good now but the longer I spend here the less time I'll have to spend in the field. There is a beach and a movie every night. It isn't raining steadily here yet but I guess it is where my company is. I have no idea how long I'll stay here but I'm prepared to stay as long as possible. All I do here is sit around. I guess they forward my mail as I got one from home today. Their phone is out of order so I can't even call home let alone call you. I just lay here adding days to my stay in the wretched land and count the days till I go home.
+>
+> [page 2:] I guess I'm in good enough health, at least I'm starting out right.
+>
+> I'm going to have to get ready to move now so till next resupply.
+>
+> Love
+> Charles
 
 ## What the letter records
 
@@ -60,6 +68,6 @@ This is the **second of Charlie's two Vietnam coastal-rear locations** in the su
 
 **The mail and the phone.** Mail forwarded from his unit to Cam Ranh Bay; the local convalescent-center phone out of service; no way to call Marietta let alone Maryland. The letter is one of the few that mentions the **phone** as a category at all &mdash; long-distance calling from Vietnam to the United States in 1970 ran through MARS (Military Affiliate Radio System) operators and was tedious, expensive, and often unavailable.
 
-**"I just lay here adding days to my stay in the wretched land and count the days till I go home."** The closing thought of the recoverable page. The convalescent center is the safest he has been in months, and the only thing on his mind is the count to the end of his tour. He returned to the field after this stay; the [4 February 1971 Da Nang letter](/docs/letters/charlie-to-terrie-1971-02-04-laos-fore-warning/) and [Peggy's 10 February 1971 letter](/docs/letters/peggy-to-terrie-1971-02-10/) frame the late-tour transition.
+**"I just lay here adding days to my stay in the wretched land and count the days till I go home."** The convalescent center is the safest he has been in months, and the only thing on his mind is the count to the end of his tour.
 
-> *Privacy note: page 1 of the letter is reproduced. Page 2 (closing) is open in the family archive and may be added later.*
+**"I'm going to have to get ready to move now."** The second page is three lines and a signature &mdash; the stretch is over. "Starting out right" reads as his own assessment that he's recovered cleanly; "get ready to move" means back toward the company and the field. He returned to the field after this stay; the [4 February 1971 Da Nang letter](/docs/letters/charlie-to-terrie-1971-02-04-laos-fore-warning/) and [Peggy's 10 February 1971 letter](/docs/letters/peggy-to-terrie-1971-02-10/) frame the late-tour transition.
