@@ -41,7 +41,7 @@ Charlie wrote often. Some of what he wrote was the news of the week. Some of it 
 
 This archive treats the collection as follows:
 
-1. A **published set** &mdash; which has grown, through the 2026 mining of the family-archive scans, from the handful first envisioned to most of the surviving correspondence (now on the order of seventy letters) &mdash; is reproduced here in full, chosen for the way they let his voice come through across a half-century and for the way they let his family today understand the year that shaped him most. Each published letter has its own page in the documents section, with the transcribed text and, where the original scan has been located, the handwriting itself.
+1. A **published set** &mdash; which has grown, through the 2026 mining of the family-archive scans, from the handful first envisioned to most of the surviving correspondence (now **110 letters**) &mdash; is reproduced here in full, chosen for the way they let his voice come through across a half-century and for the way they let his family today understand the year that shaped him most. Each published letter has its own page in the documents section, with the transcribed text and, where the original scan has been located, the handwriting itself.
 
 2. A **small number of remaining letters** are catalogued here too, body withheld. Their pages carry the metadata &mdash; the date, the recipient, the place they were written from, the place they were mailed to, a one-line summary if it can be given without compromising the content. The archive's index stays complete; the intimacy of those letters stays inside the family.
 
@@ -68,64 +68,142 @@ If you are a family member who has additional letters &mdash; or who knew Charli
 
 ## Chronological index of published letters
 
-The letters that are reproduced in full on this site, in date order. Letters in italics are not Charlie's own &mdash; they are from family or family-friend correspondents writing into the same period.
+The letters that are reproduced in full on this site, in date order &mdash; **110 letters** as of this pass (July 2026). Letters in italics are not Charlie's own &mdash; they are from family or family-friend correspondents writing into the same period.
 
 **Pre-army &mdash; Marietta College senior year**
 
 - [31 Oct 1968 &mdash; Vanilla Fudge concert review](/docs/letters/charlie-to-terrie-1968-10-31-vanilla-fudge/) &mdash; the earliest letter Charlie wrote to Terrie in the archive
 - [c. April 1969 &mdash; Florida spring break + Federal Reserve and Sears interviews](/docs/letters/charlie-to-terrie-1969-04-florida-spring-break/) &mdash; the pre-draft career track
 
-**Stateside &mdash; NCO training**
+**Stateside &mdash; NCO school, basic, and AIT**
 
-- [Late November or December 1969 &mdash; Christmas-leave letter](/docs/letters/charlie-to-terrie-1969-christmas-leave/) &mdash; *"711 days left in the army"*
-- [18 February 1970 &mdash; nine weeks into stateside NCO training](/docs/letters/charlie-to-terrie-1970-02-18-nco-training/)
+- [Late 1969 &mdash; refusing NCO school, and "beginning to hate the army"](/docs/letters/charlie-to-terrie-1969-nco-school/)
+- [20 Oct 1969 &mdash; the D.C. guard interview, and the Tomb of the Unknown Soldier](/docs/letters/charlie-to-terrie-training-dc-guard/)
+- [Nov 1969 &mdash; Christmas-leave letter, "711 days left"](/docs/letters/charlie-to-terrie-1969-christmas-leave/)
+- [16 Dec 1969 &mdash; reception week: "Basic begins Monday"](/docs/letters/charlie-to-terrie-reception-basic-begins-monday/)
+- [22 Dec 1969 &mdash; first day of basic training, KP from 3:30 AM](/docs/letters/charlie-to-terrie-basic-training-first-day/)
+- [10 Jan 1970 &mdash; mortar training, and why NCO school "just isn't worth it"](/docs/letters/charlie-to-terrie-training-mortar-and-nco-decision/)
+- [20 Jan 1970 &mdash; clerk training, an E-2 not a PFC](/docs/letters/charlie-to-terrie-training-clerk-e2/)
+- [1 Feb 1970 &mdash; Fort Bragg, the .45 and the hand grenades](/docs/letters/charlie-to-terrie-1970-fort-bragg-pistol-and-grenades/)
+- [1 Feb 1970 &mdash; orders, and 80 days in the army](/docs/letters/charlie-to-terrie-1970-02-basic-training-orders/)
+- [18 Feb 1970 &mdash; nine weeks into stateside NCO training, rumors of Vietnam](/docs/letters/charlie-to-terrie-1970-02-18-nco-training/)
+- [5 Mar 1970 &mdash; mortar training, NCO school turned down, "at least I won't be going overseas"](/docs/letters/charlie-to-terrie-training-washington-after-april/)
+- [25 Mar 1970 &mdash; firing the M-72, the $20 ring, "I'm still willing to marry you"](/docs/letters/charlie-to-terrie-training-m72-and-the-ring/)
+- [12 Apr 1970 &mdash; "a lot depends on my orders now," finish school, not forcing a marriage](/docs/letters/charlie-to-terrie-training-orders-decide-everything/)
+- [12 Apr 1970 &mdash; "this may be your last letter from here"](/docs/letters/charlie-to-terrie-1970-04-12-orders-on-my-mind/)
 
 **Spring tour &mdash; in country**
 
-- [29 March 1970 &mdash; ticket and cash arrangements](/docs/letters/charlie-to-terrie-1970-03-29-ticket-cash/)
-- [22 June 1970 &mdash; *"your father's attitude is better"*](/docs/letters/charlie-to-terrie-1970-06-22/)
+- [22 June 1970 &mdash; "your father's attitude is better"](/docs/letters/charlie-to-terrie-1970-06-22/)
+- [26 June 1970 &mdash; *to Dorothy Hauser: "keep working for peace," a company hit hard*](/docs/letters/charlie-to-dorothy-hauser-1970-06-26-keep-working-for-peace/)
 
 **Summer 1970 field rotation &mdash; the bush**
 
+- [1 July 1970 &mdash; "the month is over with, I have survived," 50 days in](/docs/letters/charlie-to-terrie-1970-07-01-the-month-is-over/)
 - [8 July 1970 &mdash; the censorship discovery + the newsmen-and-sob-story letter](/docs/letters/charlie-to-terrie-1970-07-08-newsmen-sob-story/)
-- [18 July 1970 &mdash; gung-ho captain + *"screw the gov't anyway you can"*](/docs/letters/charlie-to-terrie-1970-07-18-no-mail/)
-- [mid-1970 &mdash; the M-60 machine gun + the first Marietta-wedding-plan line](/docs/letters/charlie-to-terrie-1970-mid-tour-m60-and-marietta-wedding/)
+- [c. mid-July 1970 &mdash; the M-60 machine gun + the first Marietta-wedding-plan line](/docs/letters/charlie-to-terrie-1970-mid-tour-m60-and-marietta-wedding/)
+- [18 July 1970 &mdash; gung-ho captain + "screw the gov't anyway you can"](/docs/letters/charlie-to-terrie-1970-07-18-no-mail/)
+- [c. summer 1970 &mdash; "5th day out... violent campus"](/docs/letters/charlie-to-terrie-1970-monsoon-5th-day-out/)
+- [5 Aug 1970 &mdash; Firebase Ripcord's shelling, company losses, "just homesick"](/docs/letters/charlie-to-terrie-1970-08-05-ripcord-and-casualties/)
+- [5 Aug 1970 &mdash; a beach day, and what happened when some guys went to the village](/docs/letters/charlie-to-terrie-1970-08-05-beach-and-the-village/)
+- [9&ndash;11 Aug 1970 &mdash; a new captain expected, a beard restarted, "calm down a little" on marriage](/docs/letters/charlie-to-terrie-1970-08-09-the-beard-and-slow-down-on-marriage/)
+- [17 Aug 1970 &mdash; beach guard, and a few things she should know](/docs/letters/charlie-to-terrie-1970-08-17-beach-guard/)
+- [29 Aug 1970 &mdash; 109 days in, "we will work things out as they happen"](/docs/letters/charlie-to-terrie-1970-08-29-109-days-and-the-wedding-plan/)
+- [4 Sept 1970 &mdash; writing from under a poncho, a new captain's bad call](/docs/letters/charlie-to-terrie-1970-09-04-new-captain-and-the-monsoon/)
+- [7 Sept 1970 &mdash; the firebases evacuate for the monsoon, and honeymoon ideas](/docs/letters/charlie-to-terrie-1970-09-07-firebases-and-the-honeymoon/)
+- [10 Sept 1970 &mdash; a helicopter crash, camera shopping, "I'd be a resident of Canada now"](/docs/letters/charlie-to-terrie-1970-09-10-helicopter-crash-and-canada/)
+- [14 Sept 1970 &mdash; the 50-day streak of no contact broken, "a terrible, cruel business"](/docs/letters/charlie-to-terrie-1970-09-14-jungle-mountains-and-first-contact/)
 
-**Fall 1970 &mdash; malaria + convalescence + first foresight**
+**Fall 1970 &mdash; malaria, convalescence, and the drawdown**
 
-- [21 September 1970 &mdash; malaria hospitalization](/docs/letters/charlie-to-terrie-1970-09-21-malaria-hospital/)
-- [28 September 1970 &mdash; Cam Ranh Bay convalescence](/docs/letters/charlie-to-terrie-1970-09-28-cam-ranh-bay-convalescence/)
-- [14 October 1970 &mdash; *"all combat troops are being withdrawn"* + first Hawaii R&R proposal](/docs/letters/charlie-to-terrie-1970-10-14-combat-withdrawal/)
-- [21 November 1970 &mdash; monsoons + *"violent campus"* read](/docs/letters/charlie-to-terrie-1970-11-21-firebase/)
-- [16 December 1970 &mdash; the enlisted men's club photo + Vietnamese hostesses + 60-day-drop rumor](/docs/letters/charlie-to-terrie-1970-12-16-em-club-photo/)
-- [31 December 1970 &mdash; *"the 10-month tour is definite"*](/docs/letters/charlie-to-terrie-1970-12-31-ten-month-tour-definite/)
-- [c. late 1970 / early January 1971 &mdash; marijuana, the Donut Dollies, and the GI culture letter](/docs/letters/charlie-to-terrie-1971-01-danang-base-and-gi-life/)
+- [21 Sept 1970 &mdash; "Guess what! Here I am in the hospital suffering from Malaria"](/docs/letters/charlie-to-terrie-1970-09-21-malaria-hospital/)
+- [28 Sept 1970 &mdash; Cam Ranh Bay convalescence](/docs/letters/charlie-to-terrie-1970-09-28-cam-ranh-bay-convalescence/)
+- [30 Sept 1970 &mdash; dreading 20 inches of October rain, pulled for guard instead](/docs/letters/charlie-to-terrie-1970-09-30-twenty-inches-of-rain/)
+- [c. Oct 1970 &mdash; "I will vote for the immediate pull-out candidates"](/docs/letters/charlie-to-terrie-1970-10-vote-immediate-pullout/)
+- [3 Oct 1970 &mdash; recovering from malaria at Cam Ranh Bay, 144 days in](/docs/letters/charlie-to-terrie-1970-10-03-malaria-cam-ranh-bay/)
+- [6 Oct 1970 &mdash; back to the field, booby traps, "raise hell" if the letters stop](/docs/letters/charlie-to-terrie-1970-10-06-back-to-the-field-raise-hell/)
+- [8 Oct 1970 &mdash; "I leave for the damn field today"](/docs/letters/charlie-to-terrie-1970-10-08-leaving-for-the-field/)
+- [10 Oct 1970 &mdash; "still alive," in the lowlands, hoping Nixon announces a plan](/docs/letters/charlie-to-terrie-1970-10-10-still-alive-lowlands/)
+- [14 Oct 1970 &mdash; "all combat troops are being withdrawn" + first Hawaii R&R proposal](/docs/letters/charlie-to-terrie-1970-10-14-combat-withdrawal/) &nbsp;and&nbsp; [the Hawaii idea, first floated](/docs/letters/charlie-to-terrie-1970-10-14-the-hawaii-idea/)
+- [15 Oct 1970 &mdash; VIPs by helicopter, "the first enemy killed in over 3 months" in the brigade](/docs/letters/charlie-to-terrie-1970-10-15-first-kill-in-three-months/)
+- [17 Oct 1970 &mdash; "the only group that has contact anymore," 240 days left](/docs/letters/charlie-to-terrie-1970-10-17-the-only-group-with-contact/)
+- [19 Oct 1970 &mdash; 160 days in, mailing out by chopper](/docs/letters/charlie-to-terrie-1970-10-19-160-days/)
+- [20 Oct 1970 &mdash; the apartment question, "you still get the most letters"](/docs/letters/charlie-to-terrie-1970-10-20-the-apartment-and-other-girls/)
+- [24 Oct 1970 &mdash; a typhoon alert, a congressman's reply, 165 days in](/docs/letters/charlie-to-terrie-1970-10-24-typhoon-alert-and-165-days/)
+- [28 Oct 1970 &mdash; one year in the Army, "I do think I came back out too soon"](/docs/letters/charlie-to-terrie-1970-10-28-one-year-in-the-army/)
+
+**November&ndash;December 1970 &mdash; the drop rumors and the rear**
+
+- [5 Nov 1970 &mdash; fourteen days without mail, the congressman inquiry, the extension plan](/docs/letters/charlie-to-terrie-1970-11-05-extension-plan-and-congressman/)
+- [c. 8 Nov 1970 &mdash; the stand-down, day 180, a Sydney R&R idea](/docs/letters/charlie-to-terrie-1970-11-08-stand-down-and-sydney/)
+- [12 Nov 1970 &mdash; a short answer to ten letters, 213 days left](/docs/letters/charlie-to-terrie-1970-11-12-short-answer-and-213-days/)
+- [15 Nov 1970 &mdash; the package, Spec 4, the inquiry closed](/docs/letters/charlie-to-terrie-1970-11-15-spec-4-and-inquiry-over/)
+- [18 Nov 1970 &mdash; back out to "really hairy" action, half drunk in the rear](/docs/letters/charlie-to-terrie-1970-11-18-really-hairy/)
+- [21 Nov 1970 &mdash; "I love you but would prefer to send you $1000"](/docs/letters/charlie-to-terrie-1970-11-21-firebase/)
+- [23 Nov 1970 &mdash; platoon radio operator, Thanksgiving in the rear](/docs/letters/charlie-to-terrie-1970-11-23-radio-operator-and-the-schedule/)
+- [25 Nov 1970 &mdash; Thanksgiving in the field, two deaths explained](/docs/letters/charlie-to-terrie-1970-11-25-thanksgiving-field/)
+- [28 Nov 1970 &mdash; "what is your answer to the Hawaii deal?"](/docs/letters/charlie-to-terrie-1970-11-28-the-hawaii-answer/)
+- [30 Nov 1970 &mdash; disgusted with the Army, the lowlands flooding](/docs/letters/charlie-to-terrie-1970-11-30-disgusted-with-the-army/)
+- [8 Dec 1970 &mdash; the phone call he's planning, the good life in the rear](/docs/letters/charlie-to-terrie-1970-12-08-call-and-the-mess-hall/)
+- [12 Dec 1970 &mdash; settled into the rear, a friend killed back home](/docs/letters/charlie-to-terrie-1970-12-12-routine-and-a-friend-killed/)
+- [14 Dec 1970 &mdash; the $3.30-per-minute phone call and the Christmas-present joke](/docs/letters/charlie-to-terrie-1970-12-14/)
+- [16 Dec 1970 &mdash; the enlisted men's club photo](/docs/letters/charlie-to-terrie-1970-12-16-em-club-photo/)
+- [17&ndash;18 Dec 1970 &mdash; a guard tower fired on, a beach day](/docs/letters/charlie-to-terrie-1970-12-17-tower-fired-on/)
+- [18 Dec 1970 &mdash; the 50-50 odds, and the children at the fence](/docs/letters/charlie-to-terrie-1970-12-18-fifty-fifty-and-the-fence/)
+- [22 Dec 1970 &mdash; a bad outlook for the drop, and "Budda"](/docs/letters/charlie-to-terrie-1970-12-22-budda-and-175-days/)
+- [25 Dec 1970 &mdash; Christmas morning on guard](/docs/letters/charlie-to-terrie-1970-12-25-christmas-bob-hope/)
+- [28 Dec 1970 &mdash; the 10-month-tour rumor, "maybe even get married early"](/docs/letters/charlie-to-terrie-1970-12-28-ten-month-rumor-and-married-early/)
+- [31 Dec 1970 &mdash; "10-month tour is definite, I should be home in March"](/docs/letters/charlie-to-terrie-1970-12-31-ten-month-tour-definite/)
 
 **January-February 1971 &mdash; the extension decision and the Laos thread**
 
+- [c. Jan 1971 &mdash; the Da Nang base, marijuana, and GI life](/docs/letters/charlie-to-terrie-1971-01-danang-base-and-gi-life/)
 - [1 January 1971 &mdash; *Charlie to Dorothy Hauser, Mothers for Peace and the Nixon line*](/docs/letters/charlie-to-dorothy-hauser-1971-01-01/)
+- [1 Jan 1971 &mdash; the new year, the rumors, a picture enclosed](/docs/letters/charlie-to-terrie-1971-01-01-new-year-uncertainty/)
+- [2 Jan 1971 &mdash; a booby trap, Tet rumors, and the drop](/docs/letters/charlie-to-terrie-1971-01-02-booby-trap-and-the-drop/)
+- [5 Jan 1971 &mdash; the 1st Air Cav stands down and the drops grow](/docs/letters/charlie-to-terrie-1971-01-05-air-cav-standdown/)
+- [9 Jan 1971 &mdash; a birthday letter from the general's beach house](/docs/letters/charlie-to-terrie-1971-01-09-birthday/) &nbsp;and&nbsp; [mail delays and the "Donut Dollies"](/docs/letters/charlie-to-terrie-1971-01-09-mail-and-donut-dollies/)
+- [13 Jan 1971 &mdash; rats, the Bob Hope show, a word against poetry](/docs/letters/charlie-to-terrie-1971-01-13-rats-and-bob-hope/)
+- [14 Jan 1971 &mdash; 1:45 a.m., rumors and a puzzling tape](/docs/letters/charlie-to-terrie-1971-01-14-no-set-tour/)
+- [15 Jan 1971 &mdash; on guard, scotch, what's actually hard about the field](/docs/letters/charlie-to-terrie-1971-01-15-guard-and-what-is-hard/)
 - [19 January 1971 &mdash; the ETS-extension strategy](/docs/letters/charlie-to-terrie-1971-01-19-ets-extension/)
 - [21 January 1971 &mdash; Camp Evans, 4 February return](/docs/letters/charlie-to-terrie-1971-01-21/)
 - [24 January 1971 &mdash; sunburn + finals](/docs/letters/charlie-to-terrie-1971-01-24/)
+- [29 Jan 1971 &mdash; monsoons, 136 days, dreading the field](/docs/letters/charlie-to-terrie-1971-01-29-monsoons-136-days/)
+- [c. Feb 1971 &mdash; NCO school or the early-out](/docs/letters/charlie-to-terrie-1971-02-nco-school-or-early-out/)
+- [2 Feb 1971 &mdash; "a last ditch effort to win the war"](/docs/letters/charlie-to-terrie-1971-02-02-laos-last-ditch/)
 - [3 February 1971 &mdash; Da Nang stay through March 5](/docs/letters/charlie-to-terrie-1971-02-03-danang-extension/)
-- [4 February 1971 &mdash; *"Don't be surprised when you hear about Laos being invaded"*](/docs/letters/charlie-to-terrie-1971-02-04-laos-fore-warning/)
+- [4 February 1971 &mdash; "Don't be surprised when you hear about Laos being invaded"](/docs/letters/charlie-to-terrie-1971-02-04-laos-fore-warning/)
+- [8 Feb 1971 &mdash; "I finally got a clerk job"](/docs/letters/charlie-to-terrie-1971-02-08-clerk-job-camp-eagle/)
 - [10 February 1971 &mdash; *Peggy's congressional intervention re: Camp Eagle extension*](/docs/letters/peggy-to-terrie-1971-02-10/) &nbsp;and&nbsp; [Charlie's letter the same day from Da Nang](/docs/letters/charlie-to-terrie-1971-02-10-danang/)
-- [1 March 1971 &mdash; Lam Son 719 in progress, *"a lot of guys are going to get killed"*](/docs/letters/charlie-to-terrie-1971-03-01-lam-son-719/)
+- [14 Feb 1971 &mdash; a Valentine, and the clerk orders clear](/docs/letters/charlie-to-terrie-1971-02-14-valentines-clerk-orders/)
+- [17 Feb 1971 &mdash; the typing job, R&R allocation, the stereo](/docs/letters/charlie-to-terrie-1971-02-17-typing-job-and-stereo/)
+- [18 Feb 1971 &mdash; still in Da Nang, waiting on orders, down to 115](/docs/letters/charlie-to-terrie-1971-02-18-orders-and-115-days/)
+- [21 Feb 1971 &mdash; finally at Camp Eagle, the clerk job comes through](/docs/letters/charlie-to-terrie-1971-02-21-camp-eagle-finally-here/)
+- [22 Feb 1971 &mdash; extended to June 14, a death from December](/docs/letters/charlie-to-terrie-1971-02-22-june-14-and-the-booby-trap-death/)
+- [24 Feb 1971 &mdash; five days in, and the cost of R&R](/docs/letters/charlie-to-terrie-1971-02-24-five-days-in-and-rr-cost/)
 
-**Spring 1971 &mdash; the Hawaii R&R lead-up**
+**Spring 1971 &mdash; Lam Son 719 through the Hawaii R&R lead-up**
 
+- [1 March 1971 &mdash; Lam Son 719 in progress, "a lot of guys are going to get killed"](/docs/letters/charlie-to-terrie-1971-03-01-lam-son-719/)
+- [5 Mar 1971 &mdash; "I arrived yesterday and am now at Quang Tri"](/docs/letters/charlie-to-terrie-1971-03-05-arrived-quang-tri/)
 - [15 March 1971 &mdash; six catch-up letters at Danang](/docs/letters/charlie-to-terrie-1971-03-15/) &mdash; mail backlog
+- [18 Mar 1971 &mdash; "it is up to you"](/docs/letters/charlie-to-terrie-1971-03-18-its-up-to-you/)
 - [22 March 1971 &mdash; R&R orders](/docs/letters/charlie-to-terrie-1971-03-22/)
+- [25 Mar 1971 &mdash; "my old company is near Khe Sanh"](/docs/letters/charlie-to-terrie-1971-03-25-khe-sanh-mrs-eesley/)
 - [26 March 1971 &mdash; *Dorothy Wildermuth: "utterly sick about your planning to meet Charlie in Hawaii"*](/docs/letters/dorothy-to-terrie-1971-03-26-utterly-sick/)
-- [29 March 1971 &mdash; R&R booking confirmed, *"Please get your ticket under (Mrs. Eesley)"*](/docs/letters/charlie-to-terrie-1971-03-29-second-rr-booking/)
+- [27 Mar 1971 &mdash; "I'm beginning to hate everyone around me"](/docs/letters/charlie-to-terrie-1971-03-27-hate-everyone/)
+- [29 March 1971 &mdash; R&R booking confirmed, "Please get your ticket under (Mrs. Eesley)"](/docs/letters/charlie-to-terrie-1971-03-29-second-rr-booking/)
 - [31 March 1971 &mdash; R&R planning](/docs/letters/charlie-to-terrie-1971-03-31-rr-planning/)
 - [2-3 April 1971 &mdash; the parental conflict over Hawaii](/docs/letters/charlie-to-terrie-1971-04-02-parents-against-hawaii/)
-- [5 April 1971 &mdash; *"Mom suggested that we get married in Hawaii"*](/docs/letters/charlie-to-terrie-1971-04-05-mom-suggested-hawaii-marriage/)
+- [5 April 1971 &mdash; "Mom suggested that we get married in Hawaii"](/docs/letters/charlie-to-terrie-1971-04-05-mom-suggested-hawaii-marriage/)
 - 12-19 April 1971 &mdash; the Hawaii R&R itself, no letters in the archive
 
 **Late spring 1971 &mdash; the run to ETS**
 
-- [29 May 1971 &mdash; *"17 days left"*](/docs/letters/charlie-to-terrie-1971-05-29/) &mdash; countdown to the 14 June 1971 ETS
+- [2 May 1971 &mdash; "43 days left, or 33 working days"](/docs/letters/charlie-to-terrie-1971-05-02-43-days/)
+- [9 May 1971 &mdash; the PACEX list](/docs/letters/charlie-to-terrie-1971-05-09-pacex/)
+- [29 May 1971 &mdash; "17 days left"](/docs/letters/charlie-to-terrie-1971-05-29/) &mdash; countdown to the 14 June 1971 ETS
 
 **Later &mdash; post-tour family correspondence in the same archive**
 
