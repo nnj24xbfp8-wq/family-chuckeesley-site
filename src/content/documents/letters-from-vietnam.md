@@ -64,7 +64,7 @@ No timeline. The site itself is the first round of curation; whatever happens wi
 
 Below, as the scans and transcriptions come in, the individual letter pages will appear &mdash; some as full transcriptions, some as metadata-only entries with a "Withheld at the family's request" panel where the body would be. Both are part of the same record.
 
-If you are a family member who has additional letters &mdash; or who knew Charlie during those years and has letters of your own that should sit alongside his &mdash; please contact Chuck.
+If you are a family member who has additional letters &mdash; or who knew Charlie during those years and has letters of your own that should sit alongside his &mdash; please [contact Chuck](https://chuckeesley.com/contact).
 
 ## Chronological index of published letters
 
