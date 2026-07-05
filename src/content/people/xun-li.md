@@ -36,7 +36,7 @@ Details withheld &mdash; living. Mother of [Lijie 周丽婕](/family/lijie-zhou/
 
 本档案中收有李恂晚年与公公周兆祥及丈夫周玲的[合影](/archive/visit-with-zhaoxiang-zhou-and-family/)：李恂身穿驼色大衣，居周兆祥左侧。
 
-兄弟姊妹：[李孟灵](/family/mengling-li/)、[李勃](/family/bo-li/)。
+兄弟姊妹：[李孟令](/family/mengling-li/)、[李勃](/family/bo-li/)。
 
 > *详细生平从略 &mdash; 在世。姓名汉字已由家族确认：李恂。*
 

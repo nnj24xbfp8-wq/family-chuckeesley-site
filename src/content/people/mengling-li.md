@@ -1,5 +1,5 @@
 ---
-name: "Li Mengling 李孟靈"
+name: "Li Mengling 李孟令"
 aka: "Mengling Li"
 line: zhou
 parents:
@@ -30,6 +30,6 @@ The pier photograph was for many years catalogued on the Zhaoxiang Zhou (Lijie's
 
 ## 中文
 
-**李孟灵**（姓氏确定；名字汉字待家族确认）&mdash; 周丽婕之舅父，其母[李恂](/family/xun-li/)之兄长。
+**李孟令**（姓名汉字已由家族确认）&mdash; 周丽婕之舅父，其母[李恂](/family/xun-li/)之兄长。
 
-> *详细生平从略 &mdash; 在世。除姓氏外人名汉字为推测，待家族确认。*
+> *详细生平从略 &mdash; 在世。人名汉字已由家族确认。*

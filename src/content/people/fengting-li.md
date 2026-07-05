@@ -17,6 +17,6 @@ Li Fengting is named in the GEDCOM as the father of [Zhongchu Li](/family/zhongc
 
 ## 中文
 
-**李凤廷**（姓氏确定；名字汉字已由Lijie之母于2026年6月确认）&mdash; 周丽婕的外曾祖父，李氏一脉。[邱荣敬](/family/rongjing-qiu/)之夫，育有四子女：[李仲初](/family/zhongchu-li/)（周丽婕之外祖父）、[李云华](/family/yunhua-li/)、[李承武](/family/chengwu-li/)、[李云英](/family/yunying-li/)。生卒及早年事迹待补。
+**李凤廷**（姓氏确定；名字汉字已由Lijie之母于2026年6月确认）&mdash; 周丽婕的外曾祖父，李氏一脉。[邱荣敬](/family/rongjing-qiu/)之夫，育有四子女：[李仲初](/family/zhongchu-li/)（周丽婕之外祖父）、[李蕴华](/family/yunhua-li/)、[李城武](/family/chengwu-li/)、[李蕴英](/family/yunying-li/)。生卒及早年事迹待补。
 
 > *注：除姓氏外人名汉字为推测，已由Lijie之母于2026年6月确认。*

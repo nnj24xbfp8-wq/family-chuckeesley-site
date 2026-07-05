@@ -1,5 +1,5 @@
 ---
-name: "Li Chengwu 李承武"
+name: "Li Chengwu 李城武"
 aka: "Chengwu Li"
 line: zhou
 parents:
@@ -18,6 +18,6 @@ Birth and death not yet recorded.
 
 ## 中文
 
-**李承武**（姓氏确定；名字汉字"承武"系据拼音推测，待家族确认）&mdash; 周丽婕的舅外祖父，[李仲初](/family/zhongchu-li/)（周丽婕之外祖父）之兄弟。生卒待补。
+**李城武**（姓氏确定；名字汉字"城武"系据拼音推测，待家族确认）&mdash; 周丽婕的舅外祖父，[李仲初](/family/zhongchu-li/)（周丽婕之外祖父）之兄弟。生卒待补。
 
-> *注：除姓氏外人名汉字为推测，待家族确认。*
+> *注：人名汉字已由家族确认。*
