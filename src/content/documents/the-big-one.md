@@ -177,9 +177,9 @@ He started Marietta College's winter session for returning servicemen on **2 Dec
 
 ## Phase 1 &mdash; ferry to the Pacific (November 1944)
 
-![Robert Earl Wildermuth (far left) and fellow Army Air Forces officers around a table covered with beer bottles, San Francisco, before shipping out for the Pacific.](../../assets/family/originals/00000001_00000007_00000008.jpeg)
+![Robert Earl Wildermuth and fellow Army Air Forces airmen around a table covered with beer bottles, San Francisco, before shipping out for the Pacific.](../../assets/family/originals/00000001_00000007_00000008.jpeg)
 
-*San Francisco, before shipping out — Robert Earl (far left) and fellow officers around a table of beer bottles. The send-off, days before the midnight flight out over the Golden Gate.*
+*San Francisco, before shipping out — Robert Earl (in the background at left) with friends and crew around a table of beer bottles. Per his own typed caption ["Say It Isn't So"](/archive/robert-earl-wildermuth-san-francisco-beer-1944/), the far-left foreground man is his navigational-school friend 2Lt. Ralph Wagner; also at the table are Cpl. Milton Emkow and Cpl. Fred Kuszmaul. The send-off, days before the midnight flight out over the Golden Gate.*
 
 The Van Valen crew flew out of **Travis AFB, California** on the night of **14 November 1944**:
 

@@ -41,4 +41,8 @@ This is the **send-off photograph** &mdash; the last stateside night out before 
 
 It also rhymes, by coincidence, with the most-told story of his combat tour: two months later, over Taiwan, one of the Jolly Roger crews would heave a case of empty beer bottles out of their B-24, and [Tokyo Rose would broadcast](/docs/the-big-one/#tokyo-rose-beer-bottles) that the Americans had unleashed a shrieking new weapon on the "poor rice farmers of Taiwan." The empties on this San Francisco table and the empties whistling down over the rice paddies belong to the same young men.
 
+## Where this was taken
+
+Robert Earl's caption places the scene in **San Francisco**, and his [memoir](/docs/robert-earl-wildermuth-memoir/) dates the crew's departure to **midnight on 14 November 1944**, flying out over the Golden Gate from **Travis AFB** — so this "last night on the town" is almost certainly **13–14 November 1944**. The specific bar is not identified in any surviving record, and the photograph offers no signage to place it; the interior (venetian blinds, a chrome napkin dispenser, a vinyl-topped table) is a generic 1940s San Francisco tavern. The **Alpen Brau** bottles on the table are not a local clue — Alpen Brau was a St. Louis beer (Columbia Brewing Co.), so the tavern simply happened to stock a Midwestern brand.
+
 > *Source: Eesley/Wildermuth family archive; identifications from Robert Earl Wildermuth's own typed caption affixed to the print. Surfaced in [*The Big One: World War II*](/docs/the-big-one/).*
