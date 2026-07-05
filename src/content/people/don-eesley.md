@@ -14,17 +14,18 @@ parents:
   - lillie-dale-chenoweth
 spouses:
   - margaret-youman-eesley
-summary: "Brother of Will Eesley; born 24 September 1908 in Lebanon, Ohio; died 15 May 1975 in Tulsa, Oklahoma. Married Margaret Adelyne Youman (b. 24 June 1913) — the family's second 'Peggy.' Father of five: Lyle Stuart (1948), Robert Douglas (1950), Marilyn (1951), Charles Stuart (1955), Donald Steven (1975)."
+summary: "Brother of Will Eesley; born 24 September 1908 in Lebanon, Ohio; died 15 May 1975 in Tulsa, Oklahoma. Married Margaret Adelyne Youman (b. 24 June 1913) — the family's second 'Peggy.' Father of three: Lyle Stuart (1948), Robert Douglas (1950), and Marilyn (1951)."
 ---
 
-Donald Stuart Eesley was born September 24, 1908 in Lebanon, Ohio — born almost the same year as his brother [James Michael "Mike"](/family/charles-leonard-eesley/) (October 26, 1908) — and died May 15, 1975 in Tulsa, Oklahoma. He married **Margaret Adelyne Youman** (born June 24, 1913) — and so the Eesleys of this generation had **two Peggys** in the family by marriage: Will's wife Peggy McMaster and Don's wife Margaret Adelyne Youman, both called Peggy.
+Donald Stuart Eesley was born September 24, 1908 in Lebanon, Ohio — the third of Charles Leonard and Lillie Dale's sons, between [Dale Dudley](/family/dale-eesley/) (1906) and [Wilbur "Will"](/family/wilbur-eesley/) (1910) — and died May 15, 1975 in Tulsa, Oklahoma. He married **Margaret Adelyne Youman** (born June 24, 1913) — and so the Eesleys of this generation had **two Peggys** in the family by marriage: Will's wife Peggy McMaster and Don's wife Margaret Adelyne Youman, both called Peggy.
 
-Don and Margaret had five children:
-- **[Lyle Stuart Eesley](/family/lyle-stuart-eesley/)** (b. January 9, 1948) — named for Don's brother who died at Cabanatuan, and whose son Daniel Stewart was born October 31, 1973
-- **Robert Douglas Eesley** (b. December 1, 1950)
-- **Marilyn Eesley** (b. December 24, 1951)
-- **Charles Stuart Eesley** (b. December 24, 1955)
-- **Donald Steven Eesley** (b. June 24, 1975)
+Per Bean's 1985 register, Don and Margaret had **three children** (generation V):
+
+- **[Lyle Stuart Eesley](/family/lyle-stuart-eesley/)** (b. January 9, 1948) — named for Don's brother who died at Cabanatuan; married Linda Cash, with three children of his own (Danielle Elizabeth, Charles Stuart, and Donald Steven).
+- **[Robert Douglas Eesley](/family/robert-douglas-eesley/)** (b. December 1, 1950) — married Roxie Mucklerath; children Amelia (1977) and Douglas Stuart (1979).
+- **[Marilyn Eesley](/family/marilyn-eesley-elkins/)** (b. December 24, 1951) — married James Elkins; children Emily Elkins (1977) and Peter Donald Elkins (1979).
+
+*(An earlier version of this page listed "five children," folding Lyle Stuart's sons Charles Stuart and Donald Steven in as Don's own; Bean's register places them a generation down, as Don's grandsons. Corrected 2026.)*
 
 He appears with Margaret in the [late-1940s/'60s Eesley family group portrait](/archive/eesley-family-group-portrait-late-1940s/), taken at his parents' home in Bexley.
 

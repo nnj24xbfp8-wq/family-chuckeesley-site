@@ -7,10 +7,10 @@ parents:
   - don-eesley
   - margaret-youman-eesley
 living: true
-summary: "Eldest of Donald Stuart Eesley and Margaret Adelyne 'Peggy' Youman Eesley's five children; Chuck Eesley's first cousin once removed on the paternal Eesley side. Named for his uncle Lyle Eesley, who died on 25 July 1942 at the Cabanatuan Prison Camp on Luzon in the Philippines, six years before this Lyle was born. The Don-Eesley family memorial-naming carries the WWII Eesley loss forward into the next generation. Father of Daniel Stewart Eesley (b. 31 October 1973)."
+summary: "Eldest of Donald Stuart Eesley and Margaret Adelyne 'Peggy' Youman Eesley's three children; Chuck Eesley's first cousin once removed on the paternal Eesley side. Named for his uncle Lyle Eesley, who died on 25 July 1942 at the Cabanatuan Prison Camp on Luzon in the Philippines, six years before this Lyle was born. The Don-Eesley family memorial-naming carries the WWII Eesley loss forward into the next generation. Married Linda Cash; father of three — Danielle Elizabeth (1971), Charles Stuart (1973), and Donald Steven (1975)."
 ---
 
-Lyle Stuart Eesley is the eldest of [Donald Stuart "Don" Eesley](/family/don-eesley/) and [Margaret Adelyne "Peggy" Youman Eesley](/family/margaret-youman-eesley/)'s five children — Chuck Eesley's first cousin once removed on the paternal Eesley side. His siblings are Robert Douglas, Marilyn, Charles Stuart, and Donald Steven Eesley. His son is Daniel Stewart Eesley.
+Lyle Stuart Eesley is the eldest of [Donald Stuart "Don" Eesley](/family/don-eesley/) and [Margaret Adelyne "Peggy" Youman Eesley](/family/margaret-youman-eesley/)'s three children — Chuck Eesley's first cousin once removed on the paternal Eesley side. His siblings are [Robert Douglas Eesley](/family/robert-douglas-eesley/) and [Marilyn Eesley (Elkins)](/family/marilyn-eesley-elkins/). He married Linda Cash, and per Bean's register their children are **Danielle Elizabeth** (b. 31 October 1971), **Charles Stuart** (b. 14 December 1973), and **Donald Steven** (b. 24 June 1975).
 
 ## The namesake
 
