@@ -22,6 +22,8 @@ source: "Eesley-family-history-1985.pdf"
 
 The full original document is available here: **[Read the 1985 Eesley Family History (PDF)](/docs/Eesley-family-history-1985.pdf)**.
 
+![The cover of the 1985 Eesley Family History — Will Eesley's pen-and-ink drawing of the Goldie flour mill, beneath the title in blackletter. Will drew the mill where his grandmother Jeanie Goldie's family had worked and where his grandparents Jeanie and Albert Eesley met.](../../assets/family/originals/eesley-family-history-cover-will-eesley.png)
+
 Mary Eesley Bean — sister of Will Eesley, great-aunt of Chuck, and the most important figure in the previous generation of family record-keepers on the paternal side — compiled this register in 1985, in Narberth, Pennsylvania, with the cover drawing of the Goldie flour mill by her brother Will. The register opens with a narrative section on the family's emigration from England via Scotland, then walks the descendant line in indented generations I through VII, and ends with an address appendix.
 
 The address appendix is the reason this archive's privacy rules exist. The PDF preserves it; the public site does not surface it.
