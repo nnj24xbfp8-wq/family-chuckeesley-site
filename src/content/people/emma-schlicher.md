@@ -9,7 +9,7 @@ death:
 generation: 3
 parents:
   - theobald-david-schlicher
-  - flora-schlicher-mother
+  - eva-schmidt-schlicher
 status: sketch
 summary: "Younger sister of Flora Schlicher Wildermuth (Robert Earl's paternal grandmother) — born June 1874 in Marietta, Ohio, the youngest of six children of Theobald 'David' Schlicher and his wife. The only sister among Flora's five siblings (the other four were brothers: George 1861, Daniel 1864, David F 1866, Edward 1869). Visible in the c. 1896 William Clifford Wildermuth family group portrait as the young woman holding her 22-year-old aunt's namesake — her 3-year-old niece Emma Wildermuth — high on her shoulder. Death date and any marriage not yet documented in this archive. Chuck's great-great-grand-aunt on the maternal Wildermuth-Schlicher side."
 ---
