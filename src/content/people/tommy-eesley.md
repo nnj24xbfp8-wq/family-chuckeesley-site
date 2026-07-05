@@ -30,6 +30,6 @@ Per Bean's 1985 register, Tommy married twice. His first wife was **Alymer E. Cr
 - **Laurie Collene Eesley**, b. 16 July 1962
 - **Dale Thomas Eesley**, b. 1 February 1965
 
-He later married a second time, to **Dorothy**, who brought two stepchildren (Stacie and Stephen) into the family. His younger brother was [James Michael "Mike" Eesley](/family/leonard-david-eesley/) (b. 1938).
+He later married a second time, to **Dorothy**, who brought two stepchildren (Stacie and Stephen) into the family. His younger brother was [James Michael "Mike" Eesley](/family/james-michael-eesley/) (b. 1938).
 
 > *Sources: Mary Eesley Bean, *[Eesley Family History](/docs/eesley-family-history-1985/)*, 1985 (descendant register, generations IV&ndash;VI); Maggie Eesley, *Four Generations of the Eesley Family*.*
