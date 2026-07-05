@@ -25,6 +25,6 @@ Yunhua was the eldest sibling on the Li side at this generation, born **30 June 
 
 ## 中文
 
-**李蕴华**（姓氏确定；名字汉字"蕴华"系据拼音推测，待家族确认）&mdash; 周丽婕的姨外祖母，[李仲初](/family/zhongchu-li/)（周丽婕之外祖父）之姐妹。**1911年6月30日生于青岛** &mdash; 比弟弟忠初早十年。迎娶[尚耀福](/family/yaofu-shang/) &mdash; 即[尚耀真](/family/yaozhen-shang/)（周丽婕之外祖母）之兄弟，亦即周丽婕的姨外祖父。是[尚李两家在本代的双重通婚](/family/yaofu-shang/)之一。
+**李蕴华**（姓氏确定；名字汉字"蕴华"已由家族确认）&mdash; 周丽婕的姨外祖母，[李仲初](/family/zhongchu-li/)（周丽婕之外祖父）之姐妹。**1911年6月30日生于青岛** &mdash; 比弟弟忠初早十年。迎娶[尚耀福](/family/yaofu-shang/) &mdash; 即[尚耀真](/family/yaozhen-shang/)（周丽婕之外祖母）之兄弟，亦即周丽婕的姨外祖父。是[尚李两家在本代的双重通婚](/family/yaofu-shang/)之一。
 
 > *注：人名汉字已由家族确认。*

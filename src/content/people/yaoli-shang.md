@@ -18,6 +18,6 @@ Birth and death not yet recorded. The youngest sibling of the Shang generation.
 
 ## 中文
 
-**尚耀礼**（姓氏确定；名字汉字"耀礼"系据拼音及"耀"字辈推测，待家族确认）&mdash; 周丽婕的姨外祖母，尚氏兄妹中最幼者。生卒待补。
+**尚耀礼**（姓氏确定；名字汉字"耀礼"已由家族确认）&mdash; 周丽婕的姨外祖母，尚氏兄妹中最幼者。生卒待补。
 
 > *注：人名汉字已由家族确认。*
