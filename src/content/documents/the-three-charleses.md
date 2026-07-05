@@ -18,7 +18,7 @@ source: "Written by Chuck Eesley, June 2026 — a small companion piece to the f
 
 Three Eesley men in this archive carry the first name *Charles*, across three different generations of the line:
 
-- [Charles Leonard Eesley](/family/charles-leonard-eesley/) (1879–1972) — generation 4. Son of [Albert Robert Eesley](/family/albert-robert-eesley/) and [Jeanie Goldie](/family/jeanie-goldie/); husband of [Lillie Dale Chenoweth](/family/lillie-dale-chenoweth/); father of ten children including [Will Eesley](/family/wilbur-eesley/) the architect. Raised the Bexley, Ohio household that brought [Stella](/family/stella/) in from Hawaii during the war.
+- [Charles Leonard Eesley](/family/charles-leonard-eesley/) (1879–1972) — generation 4. Son of [Albert Robert Eesley](/family/albert-robert-eesley/) and [Jeanie Goldie](/family/jeanie-goldie/); husband of [Lillie Dale Chenoweth](/family/lillie-dale-chenoweth/); father of eight children including [Will Eesley](/family/wilbur-eesley/) the architect. Raised the Bexley, Ohio household that brought [Stella](/family/stella/) in from Hawaii during the war.
 - [Charles McMaster "Charlie" Eesley](/family/charles-eesley/) (1947–2015) — generation 6. Son of Will and [Peggy McMaster Eesley](/family/margaret-mcmaster-eesley/); Vietnam veteran (U.S. Army, 1969–1971); Marietta College economics graduate; stockbroker; longtime First Congregational endowment manager; my father.
 - [Charles Eric "Chuck" Eesley](/family/charles-eric-eesley/) (b. 1979) — generation 7. My own page in this archive; W. M. Keck Foundation Faculty Scholar in Management Science & Engineering at Stanford; archive-builder; husband of [Lijie 周丽婕](/family/lijie-zhou/); co-founder of the [Zhou & Eesley Family Foundation](https://zhoueesleyfoundation.com).
 

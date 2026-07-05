@@ -13,10 +13,10 @@ parents:
 spouses:
   - charles-leonard-eesley
 portrait: ../../assets/family/maggie-deck/lillie-dale-chenoweth.jpeg
-summary: "Wife of Charles Leonard Eesley. Born 9 August 1877; died January 1970, age 92. Mother of ten children — three of whom died before she did: Jean Goldie at four in 1925, Dale Dudley at thirty-two in 1939, and Lyle at twenty-five in 1942 at the Cabanatuan POW camp. Through her the Chenoweth and Timmons lines enter the family. Sits at the center of the family group portrait."
+summary: "Wife of Charles Leonard Eesley. Born 9 August 1877; died January 1970, age 92. Mother of eight children — three of whom died before she did: Jean Goldie at four in 1925, Dale Dudley at thirty-two in 1939, and Lyle at twenty-five in 1942 at the Cabanatuan POW camp. Through her the Chenoweth and Timmons lines enter the family. Sits at the center of the family group portrait."
 ---
 
-Lillie Dale Chenoweth was born **August 9, 1877**. She married Charles Leonard Eesley on **Wednesday morning, 9 September 1903 at the Methodist Episcopal Church in Harrisburg, Ohio** &mdash; the engraved wedding invitation [survives in Roberta Burnes Walker's family album](/docs/lillie-dale-charles-leonard-wedding-invitation-1903/), naming her parents formally as *"Mr. and Mrs. J. Hill Chenoweth"* and the bride herself as *"Lilly Dale."* She and Charles Leonard raised ten children together in Geneva, Lebanon, Shelby, Grove City, and Columbus Ohio (with one daughter, Mary, born in Shelby, Michigan during a Michigan stay). She **outlived three of her children**: Jean Goldie died at four in 1925, Dale at thirty-two in 1939, and Lyle at twenty-five in 1942 at a Japanese POW camp.
+Lillie Dale Chenoweth was born **August 9, 1877**. She married Charles Leonard Eesley on **Wednesday morning, 9 September 1903 at the Methodist Episcopal Church in Harrisburg, Ohio** &mdash; the engraved wedding invitation [survives in Roberta Burnes Walker's family album](/docs/lillie-dale-charles-leonard-wedding-invitation-1903/), naming her parents formally as *"Mr. and Mrs. J. Hill Chenoweth"* and the bride herself as *"Lilly Dale."* She and Charles Leonard raised eight children together in Geneva, Lebanon, Shelby, Grove City, and Columbus Ohio (with one daughter, Mary, born in Shelby, Michigan during a Michigan stay). She **outlived three of her children**: Jean Goldie died at four in 1925, Dale at thirty-two in 1939, and Lyle at twenty-five in 1942 at a Japanese POW camp.
 
 ## Lillie Dale as a child, c. 1881–1884
 
@@ -24,7 +24,7 @@ A tintype of Lillie Dale as a small child &mdash; perhaps **four to seven years 
 
 ![Lillie Dale Chenoweth as a child, c. 1881-1884](../../assets/family/originals/lillie-dale-chenoweth-child.jpeg)
 
-The tintype process and the decorative oval mount place the photograph in the **early-to-mid 1880s** &mdash; Lillie would have been a small child in Franklin County, Ohio, decades before she would marry Charles Leonard Eesley, become the Chenoweth matriarch of the Eesley line, and outlive three of her ten children. **The Ohio State music years are still ahead of her.** So is everything else.
+The tintype process and the decorative oval mount place the photograph in the **early-to-mid 1880s** &mdash; Lillie would have been a small child in Franklin County, Ohio, decades before she would marry Charles Leonard Eesley, become the Chenoweth matriarch of the Eesley line, and outlive three of her eight children. **The Ohio State music years are still ahead of her.** So is everything else.
 
 It is among the earliest photographs of any direct Eesley-line ancestor in this archive.
 

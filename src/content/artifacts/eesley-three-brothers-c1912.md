@@ -22,7 +22,7 @@ people:
 
 A sepia outdoor portrait of three young Eesley brothers, c. 1912, standing in a row on a patch of grass. The composition is plain &mdash; head-and-shoulders crops loosened a little, no studio backdrop, the kind of outdoor frame a parent or relative would take at home with a hand-held camera in the early years of family photography.
 
-Per [Chuck](/family/charles-eric-eesley/) (June 2026), the three brothers are **Don, Will, and Len** &mdash; three of the ten children of [Charles Leonard Eesley](/family/charles-leonard-eesley/) and [Lillie Dale Chenoweth Eesley](/family/lillie-dale-chenoweth/).
+Per [Chuck](/family/charles-eric-eesley/) (June 2026), the three brothers are **Don, Will, and Len** &mdash; three of the eight children of [Charles Leonard Eesley](/family/charles-leonard-eesley/) and [Lillie Dale Chenoweth Eesley](/family/lillie-dale-chenoweth/).
 
 ![Three Eesley brothers c. 1912 — Don (left, age ~4), Will (middle, age ~2), and Len (right, age ~8). From Roberta Burnes's keeping.](../../assets/family/originals/eesley-three-brothers-c1912.jpeg)
 

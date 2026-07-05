@@ -30,7 +30,7 @@ An extended-family reunion of [Charles Leonard Eesley](/family/charles-leonard-e
 
 The label below the photograph lists the twelve figures left to right:
 
-1. **[Helen "Little Helen" (Eesley) Burnes](/family/helen-burnes/)** &mdash; Will Eesley's youngest sister, the youngest of Charles Leonard's ten children, born 16 January 1924.
+1. **[Helen "Little Helen" (Eesley) Burnes](/family/helen-burnes/)** &mdash; Will Eesley's youngest sister, the youngest of Charles Leonard's eight children, born 16 January 1924.
 2. **[Katie Burnes](/family/katie-burnes/)** &mdash; Helen Burnes's daughter.
 3. **[Mary (Eesley) Bean](/family/mary-eesley-bean/)** &mdash; Will's older sister, author of the 1985 *Eesley Family History* register.
 4. **[Donald "Don" Eesley](/family/don-eesley/)** &mdash; Will's older brother.
@@ -43,9 +43,9 @@ The label below the photograph lists the twelve figures left to right:
 11. **[Peggy (Yeoman) Eesley](/family/margaret-youman-eesley/)** &mdash; Don Eesley's wife, the other Peggy of this generation.
 12. **[Leonard "Len" David Eesley](/family/leonard-david-eesley/)** &mdash; Will's eldest brother, with a camera at the far right of the frame.
 
-## Five of Charles Leonard's ten children together
+## Five of Charles Leonard's eight children together
 
-The reunion captures **five of Charles Leonard and Lilly Dale Chenoweth Eesley's ten children** in a single frame:
+The reunion captures **five of Charles Leonard and Lilly Dale Chenoweth Eesley's eight children** in a single frame:
 
 - Leonard David Eesley (b. 19 November 1904)
 - Donald Eesley (b. 24 September 1908)

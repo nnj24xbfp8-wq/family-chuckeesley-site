@@ -13,7 +13,7 @@ parents:
 summary: "Elder son of Leonard David Eesley and Helen Bernadine Alspach; Chuck's first cousin once removed on the paternal side. Born 1 December 1930 in Columbus, Ohio. The 'nephew Tommy' in Aunt Maggie's deck slide of Will Eesley at Black Lake, Michigan around 1933; the small boy standing beside his grandfather Charles Leonard in the c. 1937–1939 group portrait. Married twice — first Alymer E. Crafts (d. 1974), then Dorothy — and had three children by his first marriage: Amy Helen (1958), Laurie Collene (1962), and Dale Thomas (1965)."
 ---
 
-Thomas Leonard "Tommy" Eesley was born **1 December 1930 in Columbus, Ohio** &mdash; the elder son of **[Leonard David Eesley](/family/leonard-david-eesley/)** (1904&ndash;1976) and **[Helen Bernadine Alspach](/family/helen-bernadine-alspach-eesley/)** (b. 1902). His father was the eldest of Charles Leonard and Lillie Dale's ten children, which made Tommy the eldest grandchild of that generation.
+Thomas Leonard "Tommy" Eesley was born **1 December 1930 in Columbus, Ohio** &mdash; the elder son of **[Leonard David Eesley](/family/leonard-david-eesley/)** (1904&ndash;1976) and **[Helen Bernadine Alspach](/family/helen-bernadine-alspach-eesley/)** (b. 1902). His father was the eldest of Charles Leonard and Lillie Dale's eight children, which made Tommy the eldest grandchild of that generation.
 
 He appears in two photographs in this archive across the first decade of his life:
 
