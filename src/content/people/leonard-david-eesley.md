@@ -6,7 +6,7 @@ birth:
   date: "1904-11-19"
   place: "Geneva, Ohio"
 death:
-  date: "1976-01"
+  date: "1976-01-08"
   place: "Silver Spring, Maryland"
 generation: 5
 parents:
@@ -21,9 +21,14 @@ Leonard David Eesley was the **eldest** of Charles Leonard and Lillie Dale Cheno
 
 In that group portrait he is the **figure at the far left** &mdash; the oldest of the five brothers in the frame, in his early thirties.
 
-This page is a stub; biographical detail to be added as family memory and Bean's register together fill it in.
+## Marriage and children
 
-> *Sources: Mary Eesley Bean, *[Eesley Family History](/docs/eesley-family-history-1985/)*, 1985; family memory.*
+Leonard David married **[Helen Bernadine Alspach](/family/helen-bernadine-alspach-eesley/)** (b. 5 October 1902). Per Bean's 1985 register they had **two sons**:
+
+- **[Thomas Leonard "Tommy" Eesley](/family/tommy-eesley/)**, b. 1 December 1930 in Columbus, Ohio &mdash; the boy in the Black Lake and group-portrait photographs above. He married Alymer E. Crafts (d. 1974) and later Dorothy, with children Amy Helen (1958), Laurie Collene (1962), and Dale Thomas (1965).
+- **James Michael "Mike" Eesley**, b. 26 October 1938 &mdash; married Adrienne Woods, with sons Gregory Scott (1968) and Thomas Patrick (1969). Mike does not yet have his own page in this archive.
+
+> *Sources: Mary Eesley Bean, *[Eesley Family History](/docs/eesley-family-history-1985/)*, 1985 (descendant register, generations IV&ndash;VI); family memory.*
 
 ## With his brothers c. 1912
 
