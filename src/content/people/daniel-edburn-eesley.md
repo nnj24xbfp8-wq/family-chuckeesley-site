@@ -13,6 +13,7 @@ parents:
   - george-e-eesley
   - edla-scaife-eesley
 spouses:
+  - joan-allnutt-eesley
   - susan-thompson-lucas-eesley
 summary: "Dan Eesley — born 29 November 1931 in Buffalo, New York; died 7 January 2018 in San Francisco, age 86, of Alzheimer's. Grew up in Buffalo and Lakewood, Ohio (Cleveland suburb). University of Michigan 1954, Sigma Chi. U.S. Coast Guard Lieutenant Junior Grade — left him with a lifelong love of nautical history and lighthouses, and later in life he helped restore the Hercules, a 1907 steam tugboat now preserved at the San Francisco Maritime National Historical Park. Began his Bay Area technology career in the early 1960s as a systems engineer at IBM, then Amdahl, Memorex, Hewlett-Packard. Retired from HP in 2000. Continuous resident of San Francisco from 1962. SF Symphony season ticket holder and donor 30+ years. Champion of the California Academy of Sciences. Mechanical genius — disassembled car engines as a teen; managed and remodelled his own SF triplex for five decades. Twain Harte Lake summer fixture. Swedenborgian Church member. Married Susan Thompson Lucas 27 years. Two daughters from his first marriage to Joan Allnutt: Kate Grey of Las Vegas and Beth (Eesley) MacLean of Alameda. Three granddaughters: Abby Griswold, Ellie and Grace MacLean. Stepdaughter Sarah Lucas Kass. Chuck's second cousin once removed via the R. Albert Eesley branch of Albert Robert Sr's family."
 ---
@@ -54,7 +55,7 @@ The line about the triplex is itself the line about an era of San Francisco. Buy
 
 ## Marriages and family
 
-He married twice. **Joan Allnutt** was his first wife; together they had two daughters:
+He married twice. **[Joan Allnutt](/family/joan-allnutt-eesley/)** was his first wife; together they had two daughters:
 
 - **Kate Grey** &mdash; of Las Vegas, Nevada.
 - **Beth (Eesley) MacLean** &mdash; of Alameda, California; married Bruce MacLean; mother of granddaughters **Ellie** and **Grace MacLean**.
