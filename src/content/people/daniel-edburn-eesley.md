@@ -20,6 +20,8 @@ summary: "Dan Eesley — born 29 November 1931 in Buffalo, New York; died 7 Janu
 
 Daniel Edburn Eesley was born **29 November 1931 in Buffalo, New York**, to [George Edburn "Bus" Eesley](/family/george-e-eesley/) of the Fremont, Ohio Eesleys and [Edla "Eddie" Scaife](/family/edla-scaife-eesley/) of Cleveland. His father, an Ohio Wesleyan graduate working in the Buffalo-area aviation industry, would die in 1942 when Dan was ten. The family had spent its early years in Buffalo and then in **Lakewood, Ohio**, the Cleveland suburb on Lake Erie.
 
+Dan was one of **three children** of George and Edla. His 2018 obituary records that he was preceded in death by both siblings: his **sister Jane**, who *"died tragically in her youth,"* and a **brother, Richard**. Neither has further biography in this archive yet.
+
 He went on to the **University of Michigan**, graduating in **1954** as a member of **Sigma Chi**, and entered the **U.S. Coast Guard** as a **Lieutenant Junior Grade.** His Coast Guard years left him, in the words of his 2018 obituary, *"a deep love of nautical lore, especially lighthouses."* Late in life he would contribute that love practically: **he helped restore the *Hercules*, a 1907 steam tugboat preserved at the [San Francisco Maritime National Historical Park](https://www.nps.gov/safr/).**
 
 ## The Bay Area technology years
