@@ -36,6 +36,8 @@ Together they had three children:
 - **Jane Eesley** &mdash; **died tragically in her youth** (Dan's 2018 obituary phrasing). The 1942 newspaper has her alive at the time of George's death, age unspecified.
 - **[Daniel Edburn "Dan" Eesley](/family/daniel-edburn-eesley/)** (29 November 1931 &ndash; 7 January 2018) &mdash; the San Francisco computing-industry engineer and 50-year SF Symphony donor whose 2018 obituary is also in this archive.
 
+George carried the distinctive middle name **"Edburn,"** and passed it to his son **Daniel *Edburn* Eesley** &mdash; the name threading two generations of this branch. Its own origin (a family surname carried in as a middle name, in the common 19th-century pattern) is not yet documented in this archive.
+
 ## Family at the time of his death
 
 The 1942 obituary lists, in addition to his wife and three children:
