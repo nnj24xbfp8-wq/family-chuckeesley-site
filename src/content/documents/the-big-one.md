@@ -161,7 +161,7 @@ The Barnouw film is the closest visible analogue to what the Van Valen crew's ca
 
 ## Phase 4 &mdash; postscript: Ie Shima, the surrender, and the trip home
 
-The dated combat log stops at 31 May 1945 with Robert Earl's promotion to 1st Lieutenant. The Van Valen crew kept flying through the summer from Ie Shima, the [Nagasaki MGM mission](#nagasaki-mgm) being the last of those flights. The remaining months were peace.
+The dated combat missions stop at 31 May 1945 with Robert Earl's promotion to 1st Lieutenant, though the log itself carries one final dated entry — the **28 October 1945 flight home** (below). The Van Valen crew kept flying through the summer from Ie Shima, the [Nagasaki MGM mission](#nagasaki-mgm) being the last of those flights. The remaining months were peace.
 
 **The Japanese surrender delegation.** Robert Earl watched the delegation land at Ie Shima in **three Betty bombers painted with green crosses**; the door opened and *"the first thing we saw was a hand with a bottle of champagne sticking out."*
 
@@ -169,7 +169,13 @@ The dated combat log stops at 31 May 1945 with Robert Earl's promotion to 1st Li
 
 **The typhoon.** *"The biggest typhoon on record"* delayed his trip home. The mess hall &mdash; a two-unit Quonset hut anchored on a concrete slab &mdash; *"blew away in one piece and it didn't touch ground until it had flown across a baseball field about 150 feet in distance."* The weather station blew away with winds at 185 knots (the conventional Saffir-Simpson scale tops out at Category 5 at 137+ knots; 185 knots is at the upper edge of recorded Pacific typhoon wind speeds).
 
-**The trip home.** Three days of repairs to the airplane after the storm, then the long flight back via Hawaii to **McClellan Field, California**. Robert Earl and [Fred "Fuzzy" Kuszmaul](/family/frederick-kuszmaul/) rode the train together east to Wright-Patterson and *"had a scrumptious last meal together in the swankiest restaurant in Dayton, Ohio,"* then parted. **On 30 November 1945** he was separated from the Army as a first lieutenant. *"It was now time for me to get on with my life."*
+**The trip home — the last log entry, 28 October 1945.** Three days of repairs to the airplane after the storm, then the long flight back via Hawaii. His **final combat-log entry is dated 28 October 1945: Hickam Field, Honolulu → Mather Field, Sacramento** — the flight home. He navigated it with quiet confidence:
+
+> *"If I could find tiny little Canton Island way back in November 1944 going west to fight the Japs, I was confident that I could find America going east… This was a 'no sweat' flight. Missed my estimated time of arrival by a half hour!!! Had they moved the USA since I'd been gone?"*
+
+The half-hour miss had a cause the returning fleets were only then discovering — *"a strong continental wind that blew westward giving all incoming aircraft a terrific headwind,"* throwing off every navigator's ETA. It was his **last flight in a B-24** — the ungainly Liberator most aviators had scorned when it first arrived (*"too ugly, wings too narrow, it will never get off the ground, too square it looks like a boxcar — not true!!!!"*), and which he defends: *"any airplane that gets a person through a tour of combat is a mighty good airplane."* (The curated summary previously placed this landing at McClellan Field; his own log names **Mather Field**.)
+
+At Mather, the crew scattered to their home towns — *"To this day, sad to say, none of us have ever met again."* Robert Earl and his best friend, radioman [Fred "Fuzzy" Kuszmaul](/family/frederick-kuszmaul/), rode the train together east to the out-processing center at Wright-Patterson in Dayton, Ohio, had *"a scrumptious last meal together in the swankiest restaurant in Dayton,"* and parted. *"Our war had ended."* **On 30 November 1945** he was formally separated from the Army as a first lieutenant. *"It was now time for me to get on with my life."*
 
 He started Marietta College's winter session for returning servicemen on **2 December 1945** &mdash; two days after separation &mdash; the [GI Bill](https://www.va.gov/education/about-gi-bill-benefits/) covering tuition plus books plus ninety dollars a month. The civilian life that closed the war began the same week. The pre-med program at Marietta would lead two years later to [the Stanford BA](/archive/robert-earl-wildermuth-stanford-ba-1948/) that opens the family's Stanford thread.
 
