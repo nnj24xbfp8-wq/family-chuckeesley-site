@@ -169,7 +169,14 @@ The dated combat missions stop at 31 May 1945 with Robert Earl's promotion to 1s
 
 **The typhoon.** *"The biggest typhoon on record"* delayed his trip home. The mess hall &mdash; a two-unit Quonset hut anchored on a concrete slab &mdash; *"blew away in one piece and it didn't touch ground until it had flown across a baseball field about 150 feet in distance."* The weather station blew away with winds at 185 knots (the conventional Saffir-Simpson scale tops out at Category 5 at 137+ knots; 185 knots is at the upper edge of recorded Pacific typhoon wind speeds).
 
-**The trip home — the last log entry, 28 October 1945.** Three days of repairs to the airplane after the storm, then the long flight back via Hawaii. His **final combat-log entry is dated 28 October 1945: Hickam Field, Honolulu → Mather Field, Sacramento** — the flight home. He navigated it with quiet confidence:
+**The trip home — the log's homeward legs, October 1945.** Three days of repairs to the airplane after the storm, then the long island-hopping flight back across the Pacific, which the log records leg by leg:
+
+- **9 October 1945** — departed **Ie Shima for the last time**, flying over to **Kadena Air Strip, Okinawa**. *"We're on our way."*
+- **25 October 1945** — **Kadena → Harmon Field, Guam** (8 hours 40 minutes). The stop produced the tour's best slapstick-with-teeth story: stripped down for *"a long, relaxing, tension relieving shower,"* the water suddenly stopped — a truck had broken the water line. When someone hollered *"Water's on,"* the aggressive bathers jumped under and *"just as quickly jumped out."* The truck had also broken a **paralleling high-octane fuel line, and the connections were reconnected backwards** — the first bathers got *"a shower of high octane fuel and smarting burning bodies."*
+- **26 October 1945** — **Harmon Field, Guam → Kwajalein, Marshall Islands**, a ~1,400-mile *"uneventful, peaceful flight of 10 hours closer to home."*
+- **27 October 1945** — **Kwajalein → Hickam Field, Oahu, Hawaii**: over 2,000 miles, *"all over water with no alternate airfields,"* except tiny Johnson Island ~700 miles southwest of Hawaii — *"when I looked down I thought we were passing over a large vessel. That's all the bigger that island was. No wonder it was the pits to be stationed there."* Flying time: 15 hours.
+
+His **final combat-log entry is dated 28 October 1945: Hickam Field, Honolulu → Mather Field, Sacramento** — the flight home. He navigated it with quiet confidence:
 
 > *"If I could find tiny little Canton Island way back in November 1944 going west to fight the Japs, I was confident that I could find America going east… This was a 'no sweat' flight. Missed my estimated time of arrival by a half hour!!! Had they moved the USA since I'd been gone?"*
 
