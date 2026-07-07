@@ -1,5 +1,6 @@
 ---
 title: "Letter to Terrie, c. late October 1970 — Hawaii, the November leave, and 'move in with me'"
+type: letter
 author: charles-eesley
 recipient: terrie-lee-eesley
 people:
