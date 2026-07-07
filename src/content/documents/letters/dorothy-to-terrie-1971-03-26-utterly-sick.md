@@ -8,7 +8,7 @@ people:
   - dorothy-davis-wildermuth
   - terrie-lee-eesley
   - charles-eesley
-  - debra-wildermuth
+  - debbie-wildermuth
 partOf: letters-from-vietnam
 locationFrom: "Florida (Orlando area)"
 locationTo: "Maryland (University of Maryland, College Park)"

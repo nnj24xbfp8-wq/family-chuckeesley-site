@@ -11,14 +11,14 @@ idNumber: "TERRIE-BAIN-OBIT-2017"
 provenance: "Hadley Funeral Home (Marietta, OH) obituary, May 2017. Transmitted by Chuck Eesley 2026."
 rights: "Public obituary text."
 people:
-  - terrie-lee-wildermuth-bain
+  - terrie-lee-eesley
   - charles-eesley
-  - chuck-eesley
+  - charles-eric-eesley
   - robert-earl-wildermuth
   - dorothy-davis-wildermuth
-  - sandra-wildermuth-clement
-  - debra-wildermuth-massaro
-  - robert-wildermuth-jr
+  - sandra-sue-wildermuth-clement
+  - debbie-wildermuth
+  - rob-wildermuth
   - norman-graham-wolfe
   - betty-davis
 ---

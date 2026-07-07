@@ -15,7 +15,7 @@ people:
   - norman-graham-wolfe
   - mary-louise-davis-murdock
   - dorothy-davis-wildermuth
-  - william-homer-davis
+  - william-harvey-davis-sr
   - homer-davis
   - bessie-hill-davis
 ---
