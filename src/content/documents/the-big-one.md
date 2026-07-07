@@ -1,6 +1,6 @@
 ---
 title: "The Big One: World War II"
-teaser: "Robert Earl's dated WWII mission log as B-24 navigator — ~28 entries running Nov 1944 (ferry departure) through 31 May 1945 (promoted 1st Lt), in four phases: Hawaii ferry, the 22nd BG attachment at Peleliu and Tacloban, the return to the 90th BG at Mindoro, and the Ie Shima postscript that ends with the MGM newsreel cameraman over Nagasaki and 30 November 1945 separation from the army."
+teaser: "Robert Earl's dated WWII mission log as B-24 navigator — the mission-by-mission record running Nov 1944 (ferry departure) through the October 1945 flight home, in four phases: Hawaii ferry, the 22nd BG attachment at Peleliu and Tacloban, the return to the 90th BG at Mindoro, and the Ie Shima postscript that ends with the MGM newsreel cameraman over Nagasaki and 30 November 1945 separation from the army."
 type: combat-log
 author: robert-earl-wildermuth
 people:
@@ -8,7 +8,7 @@ people:
 dateRange:
   start: "1944-11"
   end: "1945-05"
-summary: "Robert Earl Wildermuth's dated mission-by-mission record as navigator on a B-24 Liberator with the 400th Bombardment Squadron ('Black Pirates'), 90th Bombardment Group ('Jolly Rogers'), 5th Air Force, Southwest Pacific Area. The dated combat log ran 14 November 1944 (ferry departure from Travis AFB) through 31 May 1945 (promotion to 1st Lieutenant at McGuire Field, Mindoro), in three combat phases plus a postscript: (1) Ferry across the Pacific via Honolulu and Canton Island to Biak; (2) Temporary attachment to the 22nd Bomb Group for night missions over Taiwan from Peleliu and then from Leyte Air Field at Tacloban, late December 1944 through 20 January 1945; (3) Return to the 90th BG at McGuire Field, Mindoro from late January 1945 — Corregidor pre-invasion strikes, Luzon close-support, repeated Taiwan airfield/industrial strikes, and finally Saigon oil-installation and Canton airdrome missions through 31 May 1945. The postscript phase covers the summer 1945 forward move to Ie Shima off Okinawa, the cancelled Inland Sea suicide mission redirected to Shanghai aerodrome, the MGM newsreel cameraman flown over Nagasaki at treetop level after the 9 August atomic bombing, the surrender delegation in three Betty bombers with green crosses, the 185-knot typhoon, and the 30 November 1945 separation. Notable narrative moments named below as anchors: the Strosier-Courtney crew loss on a Samar thunderstorm (17 Jan 1945), the Tokyo Rose beer-bottle propaganda response (19 Jan 1945), the 2000-lb bomb dumped in the ocean on the South China Sea fleet mission (13 Feb 1945), the Sydney R&R that turned into 21 days (2 March 1945), the commission ceremony in the jungle (c. 30 April 1945), Lt. Finley's parachute into China (17 May 1945), and the MGM camera mission over Nagasaki (c. mid-September 1945)."
+summary: "Robert Earl Wildermuth's dated mission-by-mission record as navigator on a B-24 Liberator with the 400th Bombardment Squadron ('Black Pirates'), 90th Bombardment Group ('Jolly Rogers'), 5th Air Force, Southwest Pacific Area. The dated combat log ran 14 November 1944 (ferry departure from Travis AFB) through 31 May 1945 (promotion to 1st Lieutenant at McGuire Field, Mindoro), in three combat phases plus a postscript: (1) Ferry across the Pacific via Honolulu and Canton Island to Biak; (2) Temporary attachment to the 22nd Bomb Group for night missions over Taiwan from Peleliu and then from Leyte Air Field at Tacloban, late December 1944 through 20 January 1945; (3) Return to the 90th BG at McGuire Field, Mindoro from late January 1945 — Corregidor pre-invasion strikes, Luzon close-support, repeated Taiwan airfield/industrial strikes, and finally Saigon oil-installation and Canton airdrome missions through 31 May 1945. The postscript phase covers the summer 1945 forward move to Ie Shima off Okinawa, the cancelled Inland Sea suicide mission redirected to Shanghai aerodrome, the MGM newsreel cameraman flown over Nagasaki at treetop level after the 9 August atomic bombing, the surrender delegation in three Betty bombers with green crosses, the 185-knot typhoon, and the 30 November 1945 separation. Notable narrative moments named below as anchors: the Strosier-Courtney crew loss on a Samar thunderstorm (17 Jan 1945), the Tokyo Rose beer-bottle propaganda response (19 Jan 1945), the 2000-lb bomb dumped in the ocean on the South China Sea fleet mission (13 Feb 1945), the Sydney R&R that turned into 21 days (2 March 1945), the commission ceremony in the jungle (c. 30 April 1945), Lt. Finley's parachute into China (19 May 1945), and the MGM camera mission over Nagasaki (28 September 1945)."
 source: "Wildermuth-the-big-one.pdf"
 ---
 
@@ -80,11 +80,36 @@ Compact reference for the whole tour. Anchored callouts for the marquee moments 
 | 4 May 1945 | Mindoro | Saigon Shell Oil Refinery | 10:20 | First mission as Squadron Lead; *"oily river of fire"* |
 | 10 May 1945 | Mindoro | Canton, China &mdash; White Cloud Airdrome | 11:00 | First daylight China-proper mission for the crew |
 | 14 May 1945 | Mindoro | Shinchu hydroelectric plant, Taiwan | 9:15 | |
-| 17 May 1945 | Mindoro | Kiirun hydroelectric plant, Taiwan | 11:00 | **[Lt. Finley parachuted into China](#finley-china)** |
-| 31 May 1945 | Mindoro | (no combat) | &mdash; | Promoted to 1st Lt; *"shortest time in grade as 2nd Lt; about 30 days"* |
-| Summer 1945 | Ie Shima, Okinawa | (forward move) | &mdash; | 90th BG at Ie Shima for last weeks of war |
-| early Aug 1945 | Ie Shima | (cancelled 3x; aborted to Shanghai aerodrome) | &mdash; | The sealed-envelope "suicide" mission; 54 aircraft destroyed at Shanghai instead |
-| c. mid-Sep 1945 | Ie Shima | Nagasaki (camera mission) | &mdash; | **[MGM newsreel cameraman over Nagasaki](#nagasaki-mgm)** |
+| 19 May 1945 | Mindoro | Kiirun hydroelectric plant, Taiwan | 11:00 | **[Lt. Finley parachuted into China](#finley-china)** |
+| 21 May 1945 | Mindoro | (no combat) | &mdash; | Promoted to 1st Lt; *"shortest time in grade as 2nd Lt; about 30 days"* |
+| 27 May 1945 | Mindoro | Saigon rail lines & bridges, Indo-China | 12:45 | Trains/bridges/strafing; the water-buffalo stampede; Capt. Woods beached at Mindoro out of fuel |
+| 31 May 1945 | Mindoro | Taihoku, Formosa | 11:30 | *"Back to Formosa to torment the Japs"* |
+| 3 Jun 1945 | Mindoro | Taichu airfield, Formosa | 9:00 | Led the entire Group (23 aircraft) up the Luzon coast; the flak-fearing radar bombardier missed the turning point |
+| 12 Jun 1945 | Mindoro | Saigon rail yards, Indo-China | 12:00 | Rail lines/bridges north of Saigon; great success, no enemy action |
+| 17 Jun 1945 | Mindoro | Balikpapan, Borneo | 12:30 | Once dangerous from Biak; from Mindoro *"almost a milk run"* |
+| 22 Jun 1945 | Mindoro | Balikpapan, Borneo | 12:30 | Pre-invasion raid over the invasion fleet (MacArthur watching); frag bombs accidentally rained on the fleet; Group CO reprimanded |
+| 23 Jun 1945 | Mindoro | Troop support, Luzon | 5:00 | *"No sweat"*; nearing the 300 combat hours needed to rotate home |
+| 25 Jun 1945 | Mindoro | Targets on Formosa | 12:50 | Four missions in a week |
+| 28 Jun 1945 | Mindoro | Targets on Formosa | 13:00 | Neutralizing Formosa before the Okinawa move; the chicken-nest-in-the-wheel-well flight to Clark Field |
+| 6 Jul 1945 | Ie Shima | Ryutan airdrome, Formosa | 12:20 | Squadron now forward at Ie Shima (where Ernie Pyle was killed); nightly kamikazes over Okinawa |
+| 12 Jul 1945 | Ie Shima | Quartermaster depot N. of Canton, China | 11:30 | Lost a plane to engine trouble; crew bailed into occupied China, rescued by missionaries |
+| 18 Jul 1945 | Ie Shima | (sealed target; salvoed & aborted) | 7:30 | **The Inland Sea "suicide" mission** — cancelled; briefed *"do not drop it near a town called HIROSHIMA"* (see [below](#nagasaki-mgm)) |
+| 22 Jul 1945 | Ie Shima | (same sealed target; aborted) | 7:00 | Second attempt; same result |
+| 24 Jul 1945 | Ie Shima | Shanghai aerodrome (alternate) | 8:15 | Third attempt diverted to Shanghai — 54 aircraft destroyed; the real target was the Japanese fleet hidden in the Inland Sea |
+| 25 Jul 1945 | Ie Shima | Targets on Formosa | 6:30 | Formosa now a boring *"milk run"* |
+| 1 Aug 1945 | Ie Shima | (no combat) | &mdash; | Word came: enough combat time to rotate home; returning crews given new aircraft |
+| 4–5 Aug 1945 | Ie Shima | (no combat) | &mdash; | Assigned a brand-new B-24 to fly home; two test hops |
+| 7 Aug 1945 | Ie Shima | (no combat) | &mdash; | The great typhoon (winds to 154 mph); the mess hall blown across a baseball field; the home-bound plane damaged |
+| 14 Aug 1945 | Ie Shima | (no combat) | &mdash; | Japan accepts surrender; green-cross Betty bombers land enroute to Manila (flowers & champagne); the dangerous drunken celebration |
+| 17 Aug 1945 | Ie Shima | (no combat) | &mdash; | Repair parts arrive for the home-bound plane |
+| 9 Sep 1945 | Ie Shima | POW pickup, Japan/Korea → Clark Field | &mdash; | Two trips hauling freed Dutch POWs down to Manila |
+| 28 Sep 1945 | Ie Shima | Nagasaki (camera mission) | &mdash; | **[MGM newsreel cameraman over Nagasaki](#nagasaki-mgm)** |
+| 7 Oct 1945 | Ie Shima | (no combat) | &mdash; | Home-bound aircraft repaired and test-flown |
+| 9 Oct 1945 | Ie Shima | Kadena, Okinawa | &mdash; | Departed Ie Shima for the last time |
+| 25 Oct 1945 | Kadena, Okinawa | Harmon Field, Guam | 8:40 | The high-octane "shower" |
+| 26 Oct 1945 | Guam | Kwajalein, Marshall Is. | 10:00 | Second leg home |
+| 27 Oct 1945 | Kwajalein | Hickam Field, Hawaii | 15:00 | Over 2,000 miles of open water; Johnson I. the only alternate |
+| 28 Oct 1945 | Hickam Field, Hawaii | Mather Field, Sacramento | &mdash; | Home. *"Our war had ended."* His last B-24 flight |
 | 30 Nov 1945 | (CONUS) | (separation) | &mdash; | Discharged 1st Lt, Wright-Patterson |
 
 ---
@@ -133,15 +158,15 @@ The Van Valen crew was the **last 90th BG crew sent to Sydney** &mdash; the long
 
 He had been graduated from Selman Field as a **Flight Officer** &mdash; a wartime warrant-officer grade for cadets who hadn't yet been 21 or whose squadrons had no Second Lieutenant vacancies. *"At my young age, I doubt if I displayed the proper leadership qualities. After all, who would follow a twenty year old kid 'still wet behind the ears'?"* The Flight Officer pay was actually $75/month *more* than a fresh 2nd Lt's, so the commission was financially neutral-to-down. The symbolic step came first: *"our Commanding General came out in the jungles and at an official ceremony, he pinned the gold bar of a second lieutenant on all of us getting promoted."* By 31 May he was a 1st Lt &mdash; *"shortest time in grade as a 2nd Lieutenant; about 30 days."*
 
-### <a id="finley-china"></a>17 May 1945 &mdash; Lt. Finley parachuted into China
+### <a id="finley-china"></a>19 May 1945 &mdash; Lt. Finley parachuted into China
 
-The strike: hydroelectric plant at Kiirun, Taiwan. Lt. Finley's aircraft lost one engine before the target and turned around. Then on the return leg over the South China Sea it lost a second engine. *"Lt. Finley decided to head for China only 70 miles away. There he would take his chances making it to Chinese held territory."*
+The strike: hydroelectric plant at Kiirun, Taiwan. Lt. Finley's aircraft lost one engine before the target and turned around. Then on the return leg over the South China Sea it lost a second engine. *"Lt. Finley decided to head for China only 90 miles away. There he would take his chances making it to Chinese held territory."*
 
 > *"At a designated point, all crew members parachuted out safely and they were greeted by friendly Chinese who helped them evade the Japanese. They sat out the rest of the war."*
 
-### <a id="nagasaki-mgm"></a>c. mid-September 1945 &mdash; the MGM cameraman over Nagasaki
+### <a id="nagasaki-mgm"></a>28 September 1945 &mdash; the MGM cameraman over Nagasaki
 
-The seventh marquee moment of the tour &mdash; and the one that closes the war. It happens after the 31 May 1945 promotion that ends the dated mission log, after the squadron's move from Mindoro forward to **Ie Shima** (the small coral island off Okinawa where war correspondent Ernie Pyle had been killed by a sniper on 18 April), and after the **6 and 9 August 1945** atomic bombings of [Hiroshima and Nagasaki](https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki) forced the Japanese capitulation. Robert Earl's account in his [1989 memoir](/docs/robert-earl-wildermuth-memoir/):
+The seventh marquee moment of the tour &mdash; and the one that closes the war. It happens on **28 September 1945**, after the squadron's move from Mindoro forward to **Ie Shima** (the small coral island off Okinawa where war correspondent Ernie Pyle had been killed by a sniper on 18 April), and after the **6 and 9 August 1945** atomic bombings of [Hiroshima and Nagasaki](https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki) forced the Japanese capitulation. Robert Earl's account in his [1989 memoir](/docs/robert-earl-wildermuth-memoir/):
 
 > *"With the Japanese moving toward surrender, the crew was assigned one more mission &mdash; to fly an MGM newsreel cameraman over Nagasaki to film the bombed city. We flew up to Nagasaki and made several flights over the city from tree top level to 5,000 feet while the camera/newsman hung out the waist window taking pictures. He promised us some one of a kind still pictures of his movie but we never did receive them."*
 
@@ -155,13 +180,13 @@ The Barnouw film is the closest visible analogue to what the Van Valen crew's ca
 
 **The Hiroshima/Nagasaki question.** Robert Earl's own [1989 memoir](/docs/robert-earl-wildermuth-memoir/) lists Hiroshima (6 August) and Nagasaki (9 August) together as the historical context for the surrender movement, then names the camera mission destination as **Nagasaki only.** Robert Earl's [1999 obituary](/family/robert-earl-wildermuth/) similarly names **Nagasaki only.** The two primary-source documents agree. Any later family-memory shorthand pairing the two cities together as a single MGM camera mission &mdash; "Hiroshima and Nagasaki" &mdash; is a conflation of the two atomic-bomb cities as a single event, common across postwar American memory of August 1945, rather than a separate confirmed overflight of Hiroshima. This archive treats the mission as a Nagasaki overflight only, per Robert Earl's own pen.
 
-**The mission that almost happened first.** Before Hiroshima, with the war still being fought, the Van Valen crew had finished their required missions and been assigned a brand-new airplane to fly home &mdash; and then **their names went back up on the operations board for one more mission**. At the briefing tent only the oldest crews were present, the Group Chaplain (who had never attended a briefing before) was there, and **no target was marked on the map.** The target was in a sealed envelope to be opened thirty minutes into the flight. The mission was cancelled three days running. On the fourth day, in the air, it was aborted to the secondary target &mdash; **Shanghai aerodrome**, where the strike destroyed 54 enemy aircraft on the ground. Only after returning was the original target revealed: **the camouflaged remains of the Japanese fleet in the Inland Sea of Japan**, just discovered by reconnaissance. The flight up the inlet, with heavy land-based anti-aircraft on both sides for thirty miles, would have been a **suicide mission**. The Navy ended up sending low-level dive bombers in. Robert Earl's marginal note: *"Hurray for the Navy!!!"* &mdash; the relief of having drawn Shanghai instead of the Inland Sea, surviving to fly the Nagasaki camera mission instead.
+**The mission that almost happened first.** Before Hiroshima, with the war still being fought, the Van Valen crew had finished their required missions and been assigned a brand-new airplane to fly home &mdash; and then **their names went back up on the operations board for one more mission**. At the briefing tent only the oldest crews were present, the Group Chaplain (who had never attended a briefing before) was there, and **no target was marked on the map.** The target was in a sealed envelope to be opened thirty minutes into the flight. The mission was briefed and scrubbed on **18 and 22 July 1945**; on the third attempt, **24 July 1945**, it was aborted in the air to the secondary target &mdash; **Shanghai aerodrome**, where the strike destroyed 54 enemy aircraft on the ground. Only after returning was the original target revealed: **the camouflaged remains of the Japanese fleet in the Inland Sea of Japan**, just discovered by reconnaissance. The flight up the inlet, with heavy land-based anti-aircraft on both sides for thirty miles, would have been a **suicide mission**. The Navy ended up sending low-level dive bombers in. Robert Earl's marginal note: *"Hurray for the Navy!!!"* &mdash; the relief of having drawn Shanghai instead of the Inland Sea, surviving to fly the Nagasaki camera mission instead.
 
 ---
 
 ## Phase 4 &mdash; postscript: Ie Shima, the surrender, and the trip home
 
-The dated combat missions stop at 31 May 1945 with Robert Earl's promotion to 1st Lieutenant, though the log itself carries one final dated entry — the **28 October 1945 flight home** (below). The Van Valen crew kept flying through the summer from Ie Shima, the [Nagasaki MGM mission](#nagasaki-mgm) being the last of those flights. The remaining months were peace.
+The dated log runs on without a break through the summer and fall of 1945 (all in the table above): the forward move to **Ie Shima**, the July **Inland Sea diversions**, the August **surrender and typhoon**, the September **Nagasaki camera flight**, and the **October legs home**. The narrative highlights below tell the stories behind those late entries. The [Nagasaki MGM mission](#nagasaki-mgm) on 28 September was effectively the crew's last combat-adjacent flight; the remaining weeks were peace and the long trip home.
 
 **The Japanese surrender delegation.** Robert Earl watched the delegation land at Ie Shima in **three Betty bombers painted with green crosses**; the door opened and *"the first thing we saw was a hand with a bottle of champagne sticking out."*
 
