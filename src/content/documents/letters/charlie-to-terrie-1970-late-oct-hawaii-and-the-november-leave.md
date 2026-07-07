@@ -12,9 +12,9 @@ sortDate: "1970-10-30"
 private: false
 summary: "Undated Vietnam letter from Charlie to Terrie, placed c. late October 1970 from internal evidence: he is 'eligible after Nov 16 when it takes effect' for a rumored 3-week stateside leave and hopes to 'be home X-mas,' and R&R in Hawaii is on the table. He reassures her not to take his letters so seriously ('I love you, everything will work out all right'), jokes about whether he proposed they live together before the wedding, notes the PX stereo will still run about $1000, and hasn't yet received her second package. Signed 'Love, Charles.' Transcribed from scans dad203–dad205; the letter's opening page was not located in the scan set, so the transcription begins mid-sentence."
 scans:
-  - ../../assets/family/originals/vietnam-letters/dad203.jpg
-  - ../../assets/family/originals/vietnam-letters/dad204.jpg
-  - ../../assets/family/originals/vietnam-letters/dad205.jpg
+  - ../../../assets/family/originals/vietnam-letters/dad203.jpg
+  - ../../../assets/family/originals/vietnam-letters/dad204.jpg
+  - ../../../assets/family/originals/vietnam-letters/dad205.jpg
 ---
 
 *The opening page of this letter was not located in the scan set; the transcription begins mid-sentence on the surviving pages (scans dad203–dad205). It is dated c. late October 1970 from internal evidence — the pending "Nov 16" leave eligibility and the hope of being home for Christmas.*
