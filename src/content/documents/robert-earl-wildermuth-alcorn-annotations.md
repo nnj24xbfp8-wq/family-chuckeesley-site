@@ -65,6 +65,18 @@ Where Alcorn describes the radar-equipped (H2X) Liberators of the 320th and 321s
 
 This is the [Peleliu attachment](/docs/the-big-one/) phase of his tour — the night radar missions over Taiwan flown on temporary duty with the 22nd BG. A companion note about the difficulty of the work is only partly legible: *"Our crews [were] unaccustomed [to] night flying …"* — the rest of the passage is not confidently readable.
 
+## Lost over the Philippines — the night of 13/14 January 1945
+
+The single longest annotation runs down the margin of Alcorn's page on the Mindoro operations, wrapping around a map of the Philippines (on which Robert Earl highlighted Mindoro, Samar and Leyte and circled a spot marked **"LOST"**). It is the full firsthand version of the radar-nap story his [combat log](/docs/the-big-one/) and [memoir](/docs/robert-earl-wildermuth-memoir/) only summarize:
+
+> *"After moving to Leyte, on a night flight [of] 13–14 January [1945] we got lost. We had flown all night and about 120 miles out from our base on Leyte, the bombardier/radar man, Lt. Adler, said he could pick our base up on radar and that if I wanted to, I could take a nap and he'd direct us back to our home base. I immediately stretched out on the flight deck and went to sleep. Radioman T.Sgt. Fred Kuszmaul woke me up about an hour later — the radar man had erroneously picked [a return] up and thought it was our base. We flew in circles for about an hour, our radioman radioing our base to pick us up on their radar and then give us a heading to home base. Our messages were intercepted by the Japanese, and unknown to us they would send back false headings to fly. Finally [I] saw a huge Navy convoy moving on a northwesterly heading [and] told [the] pilot to take up [the] same heading. As the convoy was probably going to Leyte, [it] turned out to be right. Landed at our base with [15] minutes of fuel left. Caught hell from all of our superior officers, all the way up to 5th Air Force headquarters. Glad to return to our outfit to start flying day missions again. — REW"*
+
+Two things in this note go beyond his other tellings. First, it names the culprit outright — **Lt. [Merwin] Adler**, the radar/bombardier whom Robert Earl's [combat-log crew roster](/docs/the-big-one/) already flags as over-confident, whose false radar "lock" 120 miles out is exactly the homecoming-nap story told there. Second, and remarkable: **the Japanese were intercepting their position-finding radio traffic and transmitting false headings back** to lure the lost aircraft further astray — a piece of electronic deception Robert Earl only recorded here, in the margin of the official history. What saved the crew was old-fashioned navigation: spotting a U.S. Navy convoy steaming northwest toward Leyte and simply following it home, landing on fifteen minutes' fuel.
+
+A separate short note on the same spread records that the enemy was not entirely gone from the rear areas either:
+
+> *"Still active on Pelilu — a Jap soldier in [the] tent next to ours. — REW"*
+
 ## 17/18 January 1945 — Jay Strozier
 
 The most striking annotation sits beside Alcorn's account of a **320th Squadron aircraft lost on the night of 17/18 January 1945**, which the book notes Wiley Woods remembered as piloted by a man named **Courtney**. Robert Earl's hand fills the margin:
