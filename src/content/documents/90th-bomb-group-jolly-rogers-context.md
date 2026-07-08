@@ -83,6 +83,7 @@ For this family archive, Alcorn's book is the natural print reference for two th
 
 ## See also
 
+- [Robert Earl Wildermuth's marginalia in Alcorn's *Jolly Rogers*](/docs/robert-earl-wildermuth-alcorn-annotations/) &mdash; his handwritten notes on the group's own published history, correcting and confirming it in his own hand
 - [Robert Earl Wildermuth's combat log "The Big One"](/docs/the-big-one/) &mdash; his own mission record
 - [Robert Earl Wildermuth's 1989 memoir](/docs/robert-earl-wildermuth-memoir/) &mdash; the broader narrative including the Pacific tour
 - [Robert Earl Wildermuth's Wildermuth/Fleming Heritage (1990)](/docs/wildermuth-fleming-heritage-1990/) &mdash; the genealogical project his second career produced

@@ -109,6 +109,8 @@ Robert Earl made a bed of flight jackets and slept. He woke up to the pilot tell
 
 > *"I caught hell from the 5th Air Force Chief Navigator for several weeks thereafter... Please learn from my experience, if you want a job done to your satisfaction — DO IT YOURSELF."*
 
+He told this same story a second time, decades later, in the margin of his copy of the group's published history — dating it to the night of **13/14 January 1945** and naming Lt. Adler outright. See [his annotations to Alcorn's *Jolly Rogers*](/docs/robert-earl-wildermuth-alcorn-annotations/), which also carry his note about the Japanese soldier found in the next tent on Peleliu.
+
 ### The Peleliu sleeper
 
 Before the Tacloban basing, the bomb group flew briefly from the **Peleliu Islands**, recently retaken from the Japanese. One day the whole crew went to lunch except one co-pilot who had flown all night. They heard a scream from the tent area. The co-pilot had been awakened by a **Japanese soldier** ransacking the tent for food and clothing — not aggressive, just hungry, bypassed in the recapture. *"Needless to say from that time on, no one stayed behind when the whole group went to eat and everyone slept with their pistols under their pillows at night."* Twenty-five years later in Japan he had a Japanese secretary whose father had supervised a coconut plantation on Peleliu and evacuated **one week before the American campaign began**. *"It's a small world after all and even enemies can become partners."*
