@@ -85,6 +85,28 @@ The most striking annotation sits beside Alcorn's account of a **320th Squadron 
 
 This is the firsthand ground truth behind the [Strosier–Courtney marquee moment](/docs/the-big-one/#strosier-crash) in his combat log — the Selman Field navigation-cadet classmate who had told Robert Earl many times that he never expected to make it home, lost with Lt. Courtney's crew in a thunderstorm off Samar. The combat log spells the name **"Strosier"**; here in Alcorn's margin he writes **"Strozier."** Both are in Robert Earl's own hand; the archive keeps both spellings on the record. The detail his annotation adds — that he *waited and waited that morning of the 18th to go to breakfast with Jay* — is the small, unbearable human fact the official history has no room for.
 
+## February 1945 — the Navy, and the crew in the next tent
+
+On the page covering February operations and **"A Golden Opportunity Lost"** — Alcorn's account of the solid undercast on 13/14 February 1945 that kept the group from striking a powerful Japanese naval force (two hermaphrodite battleship-carriers, *Ise* and *Hyuga*, a cruiser and destroyers) in the South China Sea — Robert Earl registered his verdict in four words:
+
+> *"Phooey! Haven't thought much of the Navy since. — REW"*
+
+This is the same episode as the [13 February 1945 entry in his combat log](/docs/the-big-one/#dumped-bomb): the day his crew carried a single 2,000-lb bomb after the fleet, the naval officers refused to let them bomb through the undercast for fear of hitting U.S. submarines, and they dumped the bomb in the ocean on the way home. The margin note is his lasting opinion of how that "golden opportunity" was handled.
+
+Lower on the page, beside Alcorn's account of an 11 February crash of a heavily laden 400th Squadron aircraft (pilot Lt. Al Hill among the four survivors, seven killed), Robert Earl added a piece of the human aftermath:
+
+> *"This crew lived in the tent next to ours. Co-pilot James Miller also survived, and after a short rest from flying he flew his first mission back with us. Acted as a radio security man. Scared to death. Rode right by the escape hatch on all missions with us. — REW"*
+
+A man who had walked away from a four-engine power loss on takeoff, back in the air weeks later in the next crew's tent-mate's aircraft, flying every mission within reach of the escape hatch — the small true detail of what surviving a crash did to a man.
+
+## March 1945 — Major Robeck's last mission
+
+Robert Earl was an eyewitness to one of the losses Alcorn records in the **"March Climax"** chapter: the death of **Major Stanley Robeck**, C.O. of the 321st Squadron, on the 2 March 1945 raid on the Matsuyama airdrome near Taipei. Alcorn's text describes Robeck taking the group across the target twice when his bombs hung up, then being hit directly in the bomb bay and exploding at about 1,000 feet. In the margin, Robert Earl confirms he flew that mission and adds the bitter irony the official history leaves out:
+
+> *"Flew this mission and one the following day. Saw Maj. Robeck's ship hit. Robeck was on his second tour in the Pacific. Had been heard to claim the Japs couldn't hit the side of a barn. Flew over the target the 2nd time on the same heading and same altitude as the first. Japs didn't miss. — REW"*
+
+*(A note on dating: his combat log places his [Sydney R&R](/docs/the-big-one/#sydney-rr) at "2 March 1945," with "no more combat time in March," while this annotation has him flying the 2 March Matsuyama raid. One of the two dates is approximate in his memory; the annotation is a firsthand eyewitness account of Robeck's loss, so he was certainly on that raid — the R&R likely fell slightly later in the month.)*
+
 ## See also
 
 - [*The Big One* — Robert Earl's combat log](/docs/the-big-one/), which several of these notes corroborate and date

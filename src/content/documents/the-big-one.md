@@ -142,7 +142,7 @@ The crew had pranked the Japanese state-propaganda apparatus with empties.
 
 > *"'Loaded for bear' this mission. Each airplane on this strike carried one big, fat 2000 pound bomb. Going after a Japanese fleet trying to sneak back to Japan. Solidly undercast, our naval officers would not allow us to bomb unless we could see the targets. There were U.S. submarines 'tailing' the fleet and we couldn't take a chance on hitting them. Goes to show you how much faith our operations people had in our radar bombing capability. We dumped our bomb into the ocean on the way back home."*
 
-The official record of this strike: *"B-24's of the 90th, 43d, and 22d Bombardment Groups and forty B-25's"* were launched against *"a Japanese force of two battleships, a cruiser, and three destroyers in the South China Sea"* but the force *"evaded interception."* Robert Earl's first-person account is what *"evaded interception"* looks like from the aircraft.
+The official record of this strike: *"B-24's of the 90th, 43d, and 22d Bombardment Groups and forty B-25's"* were launched against *"a Japanese force of two battleships, a cruiser, and three destroyers in the South China Sea"* but the force *"evaded interception."* Robert Earl's first-person account is what *"evaded interception"* looks like from the aircraft. Alcorn's published history calls this same episode **"A Golden Opportunity Lost"** &mdash; and in the margin of his copy Robert Earl scrawled his lasting verdict: *"Phooey! Haven't thought much of the Navy since."* (See his [annotations to Alcorn's *Jolly Rogers*](/docs/robert-earl-wildermuth-alcorn-annotations/).)
 
 ### <a id="sydney-rr"></a>2 March 1945 &mdash; Sydney R&R, 10 days that became 21
 
