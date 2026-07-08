@@ -166,6 +166,8 @@ The strike: hydroelectric plant at Kiirun, Taiwan. Lt. Finley's aircraft lost on
 
 > *"At a designated point, all crew members parachuted out safely and they were greeted by friendly Chinese who helped them evade the Japanese. They sat out the rest of the war."*
 
+Robert Earl flew this same 19 May raid, in another aircraft of the formation: against Alcorn's detailed "Odyssey of Lt. Finley's Crew," he wrote in the margin simply *"Flew on this mission this day."* (See his [annotations to Alcorn's *Jolly Rogers*](/docs/robert-earl-wildermuth-alcorn-annotations/).)
+
 ### <a id="nagasaki-mgm"></a>28 September 1945 &mdash; the MGM cameraman over Nagasaki
 
 The seventh marquee moment of the tour &mdash; and the one that closes the war. It happens on **28 September 1945**, after the squadron's move from Mindoro forward to **Ie Shima** (the small coral island off Okinawa where war correspondent Ernie Pyle had been killed by a sniper on 18 April), and after the **6 and 9 August 1945** atomic bombings of [Hiroshima and Nagasaki](https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki) forced the Japanese capitulation. Robert Earl's account in his [1989 memoir](/docs/robert-earl-wildermuth-memoir/):

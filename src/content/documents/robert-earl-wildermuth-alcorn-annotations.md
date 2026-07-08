@@ -7,7 +7,7 @@ people:
   - robert-earl-wildermuth
 dateRange:
   start: "1944-12-20"
-  end: "1945-01-18"
+  end: "1945-09-28"
 sortDate: "1945-01-10"
 summary: "Robert Earl Wildermuth's own copy of John S. Alcorn's The Jolly Rogers: History of the 90th Bomb Group During World War II (1981) is annotated in his hand on almost every page — a veteran of the group writing his firsthand memories, corrections, and identifications directly onto the official published history. This document transcribes his marginal notes (signed 'REW' or 'RE') with the minimum of printed context needed to make each intelligible; the printed text remains under copyright to Alcorn and is only paraphrased. His notes date his first two combat missions (20 and 25 December 1944, both to Davao from Biak), describe the Kiirun and Taichu Formosa strikes, place him on R&R in Sydney when the group moved to Mindoro, confirm his H2X plane's detachment to Peleliu, and — most poignantly — identify his best friend and cadet classmate 2Lt. Jay Strozier as the navigator on the crew lost on the night of 17/18 January 1945, whose return he waited for that morning. Several notes corroborate and enrich his own combat log, The Big One."
 source: "Robert Earl Wildermuth's annotated copy of John S. Alcorn, The Jolly Rogers: History of the 90th Bomb Group During World War II (Historical Aviation Album, 1981; ISBN 0-911852-89-1). Pages photographed by Chuck Eesley, 2026. Transcriptions are of Robert Earl's handwriting; Alcorn's printed text is paraphrased, not reproduced, and remains under copyright."
@@ -106,6 +106,40 @@ Robert Earl was an eyewitness to one of the losses Alcorn records in the **"Marc
 > *"Flew this mission and one the following day. Saw Maj. Robeck's ship hit. Robeck was on his second tour in the Pacific. Had been heard to claim the Japs couldn't hit the side of a barn. Flew over the target the 2nd time on the same heading and same altitude as the first. Japs didn't miss. — REW"*
 
 *(A note on dating: his combat log places his [Sydney R&R](/docs/the-big-one/#sydney-rr) at "2 March 1945," with "no more combat time in March," while this annotation has him flying the 2 March Matsuyama raid. One of the two dates is approximate in his memory; the annotation is a firsthand eyewitness account of Robeck's loss, so he was certainly on that raid — the R&R likely fell slightly later in the month.)*
+
+## May 1945 — the missions he shared
+
+Two of the individual-crew stories Alcorn tells in detail turned out to be missions Robert Earl flew himself, and he marked each *"Flew on this mission this day."*
+
+Beside **"The Odyssey of Lt. Finley's Crew"** — the 19 May 1945 strike on the hydroelectric plant at Kiirun, on which Lt. W. H. Finley's 319th crew lost two engines and bailed out into China (they survived, helped by the underground) — Robert Earl noted he was on that same raid. It is the [19 May 1945 "Finley parachuted into China" moment](/docs/the-big-one/#finley-china) in his combat log, seen from another aircraft in the same formation.
+
+Beside **Capt. Wiley Wood's diary account of his "notable 56th mission"** — the 27 May 1945 strike on railroad and rolling stock in Indo-China (the Saigon rail yards), a near-disaster with a burning engine and a bomb-bay tank salvoed to stretch the fuel home to Mindoro — Robert Earl again wrote *"Flew on this mission this day."* His [combat log's 27 May 1945 entry](/docs/the-big-one/) records the same strike from his own cockpit.
+
+## June 1945 — Balikpapan, and the bombs over the invasion fleet
+
+On the "Summer Glad, Summer Sad" page covering the pre-invasion softening-up of Balikpapan, Borneo, Robert Earl wrote the longest note of this group, wrapping the margin around the strike photograph:
+
+> *"On this mission [I] was told not to open bomb bay doors while flying over the invasion fleet. When carrying frag bombs — loosely bundled — [the] bombs would sometimes fall out when the bomb bay doors were opened. Someone disobeyed, and bombs fell out on the fleet below. Gen. MacArthur was observing the invasion on a destroyer. Bombs fell all around the ship. Many heads rolled for this, including our Group C.O. — REW"*
+
+This is the firsthand version of the [Balikpapan pre-invasion story in his combat log](/docs/the-big-one/) — the frag bombs raining accidentally onto the U.S. invasion fleet with MacArthur watching from a destroyer, and the Group commander relieved as a result.
+
+## August 1945 — V-J night in a foxhole
+
+Beside Alcorn's account of the surrender news reaching the group, Robert Earl set down the same near-death he tells in his memoir and combat log — this time written straight into the margin:
+
+> *"Pandemonium broke loose this day. Everyone had been drinking, and when the announcement came all hell broke loose. Drunken airmen started shooting their guns, demolishing their tents. Bullets whined thru the air. I jumped in a foxhole to be safe and listened to the announcements on my radio. [I] didn't want to get killed at this time. — REW"*
+
+And beside the account of the Japanese surrender delegation landing at Ie Shima in green-cross Betty bombers on 19 August, a note about a keepsake distributed to the group:
+
+> *"Copies of the photos of the Japanese surrender party were given to all members of the Jolly Rogers. — REW"*
+
+## September 1945 — the Nagasaki camera flight
+
+At the top of Alcorn's "Occupation" page, Robert Earl dated and described the mission that closes his war:
+
+> *"28 Sep — chosen to fly an MGM movie news cameraman over Nagasaki at low level. Very little rubble. Looked like [a] giant bulldozer had pushed everything into the sea. — REW"*
+
+This fixes the date of the [MGM Nagasaki camera flight](/docs/the-big-one/#nagasaki-mgm) at **28 September 1945** and matches, almost word for word, the description in his own combat log — the flattened city that looked as if it had been bulldozed into the sea.
 
 ## See also
 
