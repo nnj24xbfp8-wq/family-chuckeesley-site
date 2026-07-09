@@ -171,3 +171,34 @@ Surveyed the entire dad279–336 range. Found a much richer seam than expected: 
 **Low-number stragglers — NOT YET SURVEYED** (next priority): dad6 dad11 dad12 dad18 dad26 dad101 dad103 dad119 dad125 dad137 dad147 dad148 dad152 dad153 dad154 dad155 dad156 dad157 dad166 dad181
 
 **Still-open orphans from earlier passes** (unchanged): dad239, dad241, dad246, dad250, dad251, dad264, dad298, dad335 (see above), plus the Woodstock scan (unlocated — Chuck to match from the physical letter/envelope).
+
+## Low-number stragglers — SURVEYED this pass (dad6, 11, 12, 18, 26, 101, 103, 119, 125, 137, 147, 148, 152–157, 166, 181)
+
+All 20 read. **Key finding:** by the time this pass ran, the entire Jan–Mar 1971 rear-echelon run was already densely published (124 letters in `letters/`), so most stragglers turned out to be **alternate/duplicate scans of already-published letters** rather than new content. Three genuinely new letters were found and published; the rest are duplicates, non-letters, or orphans.
+
+**New letters published this pass:**
+- **dad154** → **PUBLISHED** `charlie-to-terrie-1971-01-30-pay-day-and-the-stereo` (30 Jan 1971, 1pp complete: pay-clerk foul-up, never got to see anyone about "my problem," dreads the field, $850 stereo "the most I've spent on a luxury item." Year from content; Chuck to confirm from envelope.)
+- **dad147 (p1) + dad148 (p2)** → **PUBLISHED** `charlie-to-terrie-1971-02-15-danang-awaiting-orders` (Feb 15 1971: still in Da Nang awaiting the clerk-job orders, sunburn, Laos activity picking up, Hawaii R&R budget for April 9–19 — "eat hot dogs and stay in bed to save money" — Australia/Thailand fallback, birthday yo-yo from parents + Anne). **Sign-off page NOT located** (p2 breaks off at "Save your money").
+- **dad156 (p1) + dad157 (p2)** → **PUBLISHED** `charlie-to-terrie-1971-02-15-hawaii-one-room` (Feb 15 1971, complete, "Love Charles": numbered reply to her Feb 8 letter — "no U.S. troops in Laos except support, the news is telling the truth"; parents want "separate rooms" told, truth is "one room & one bed"; her F in English Lit; marry in August; $2500-3500 + stocks, $350 tuition; "look human by Hawaii").
+
+⚠️ **TWO letters both headed "Feb 15"** (dad147/148 and dad156/157). Content is distinct (awaiting-orders/budget vs. numbered-reply-to-Feb-8) and neither matches any existing entry, so both were published as Feb 15 1971, cross-linked. **Chuck to confirm exact dates/order from the envelopes** — one may be a second same-day letter, or one date may shift by a day or two.
+
+**Confirmed duplicate scans of already-published letters (add to dedup list, do NOT republish):**
+- **dad103** = another scan (typed) of **dad22** → `charlie-to-terrie-1971-03-01-lam-son-719` (1 Mar 1971, Quang Tri/CQ, "a lot of guys are going to get killed," 105 days, Cape Hatteras). Verbatim match.
+- **dad166** = duplicate scan of **dad163** (page 1) of `charlie-to-terrie-1971-02-24-five-days-in-and-rr-cost` (Feb 24 evening: "5 days now… March 5-6 allocations… I should be able to get Hawaii"). Verbatim match to that entry's p1.
+
+**Additional/fuller scans of an existing entry — CANDIDATE TO ENRICH (not done this pass):**
+- **dad155 (p1, "Jan 19") + dad152 (p3) + dad153 (p4)** = the same letter as `charlie-to-terrie-1971-01-19-ets-extension` (existing entry cites **dad115** as a single scan). These are the fuller multi-page scans. Page 2 still missing. If enriched, note the passages that need the **standing privacy trim**: (a) the fidelity passage on p3 ("…if you tell your medic friend I said I haven't had sex with any of these women… still a good boy as far as sexual relations are concerned"), and (b) the intimate passage on p4 ("no pajamas… I only had you naked once… contraceptives…"). The marijuana/drug-economy passage on p3 (few puffs at Camp Evans, the fence kids, 17¢ vs 95¢ cigarettes) is historically valuable and can stay.
+
+**Non-letters / non-Charlie (do not publish as war letters):**
+- **dad26** — modern note, block-printed: "Hi Chuck… Tom Rose [tlrose228@aol.com]… send him an email… Love Dad." Charlie writing to adult Chuck; a stray modern scan in the dad### set.
+- **dad125** — scrapbook page: an early note from "Terry" to Charlie ("Thanks for a really terrific weekend! … come for Thanksgiving… try harder than your last visit"), plus a 1971 wedding photo (bride+groom) and a mid-century house exterior. Not a letter; photos likely already catalogued.
+- **dad101** = the scan for existing **`peggy-to-terrie-1971-02-10`** (Peggy McMaster Eesley → Terrie, 10 Feb 1971, third-person about "Charlie," enclosing the CO→Congressman Miller letter, the stainless-steel flatware). Non-Charlie. **Candidate to attach** to that entry if it's currently scanless — verify content/author first.
+
+**Orphans / holds (need other pages, dates, or Chuck's call):**
+- **dad6** — drunk rear-area near-closing fragment: "84 more days until we are together… God how I hate this army… [a general] sent the other general's aide back to the field because his quarters were musty." ~Spring 1971 (84-day countdown ≈ late March if the count is to an out-date ~mid-June). Other pages unmatched.
+- **dad11 (mid) + dad12 (close)** — a letter about the **Hawaii meeting and Terrie's parents' disapproval** ("this trip isn't so damn important that we ruin relations with your parents… my mother is basically against us meeting like this too… I'm bringing about $400… make reservations… get a room after you get there… keep studying"). Page 1 (date/greeting) missing. NOTE: **dad12 is already referenced by** `charlie-to-terrie-1970-03-29-ticket-cash` — reconcile before any action (likely this pair belongs to that thread or the early-1971 Hawaii thread; don't double-publish).
+- **dad18** — dated "June 22": first firefight ("ran into our first activity… see 15 feet ahead through the brush… wasn't really in it"), "20 June I got 12 letters and only 1 from you," the 6% army savings ("about $2000 when [I get out]"). A page of the **June 22 1970** letter (dad1); candidate to attach/verify.
+- **dad119 (=dad120)** — closing: "Not much else to say except that Jeanne writes and says that Stephie already calls you Aunt Terrie. Love Charles." (benign; the Jeanne mention is NOT psychiatric.) ~early 1971. Orphan close.
+- **dad137** — P.S. fragment: "Remember my address reverts back to the old one after Feb 4 so about Feb 1 change back." Belongs to a late-Jan 1971 letter.
+- **dad181** — closing: "[intimate line trimmed] …I'm just counting the days off. If I get more catalogs I'll send them… hope the stainless steel ware gets there intact and soon. I think I'll end this and mail it… Love Charlie." Orphan close (does NOT match Feb 24's p2 = dad164); the stainless-steel ref places it ~Feb 1971.
