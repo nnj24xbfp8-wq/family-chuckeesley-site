@@ -20,7 +20,7 @@ summary: "Robert Earl Wildermuth's mother. Born 15 July 1901 in Waverly, West Vi
 
 Sadye Irene Fleming was born 15 July 1901 in Waverly, West Virginia &mdash; the small Pleasants County town on the Ohio River south of Marietta &mdash; to [Wesley Fleming](/family/wesley-fleming/) and [Verona B. Sheppard Fleming](/family/verona-sheppard-fleming/). She spent most of her life in Marietta, Ohio, the river town across the state line her family married into.
 
-On 31 December 1920 &mdash; New Year's Eve, age nineteen &mdash; she married [Earl A. Wildermuth](/family/earl-a-wildermuth/) of Marietta, opening the Fleming line into the Wildermuth shoemaker family that [Johann Michael Wildermuth](/family/johann-michael-wildermuth/) had founded there in the 1840s. The marriage is the seam at which the Fleming / Sheppard branch of Chuck's maternal ancestry joins the Wildermuth / Württemberg branch &mdash; the two sides Robert Earl would later research and write up across his retirement.
+On **New Year's Eve she married [Earl A. Wildermuth](/family/earl-a-wildermuth/)** of Marietta, opening the Fleming line into the Wildermuth shoemaker family that [Johann Michael Wildermuth](/family/johann-michael-wildermuth/) had founded there in the 1840s. (This archive has carried the year as **1920**; [Robert Earl's own genealogy](/docs/wildermuth-family-of-marietta-book/) gives **31 December 1921** — a one-year discrepancy not yet resolved.) The marriage is the seam at which the Fleming / Sheppard branch of Chuck's maternal ancestry joins the Wildermuth / Württemberg branch &mdash; the two sides Robert Earl would later research and write up across his retirement.
 
 ## The earliest portraits — c. 1919 and c. 1920
 
@@ -45,7 +45,7 @@ Nine grandchildren by the time of her death, four of whom were Robert Earl's: [T
 
 ## Her siblings
 
-Per the obituary, Sadye was one of at least seven Fleming children &mdash; three brothers and two sisters predeceased her, and two sisters survived: Mrs. La Verna (Fleming) Raison of Newark, Ohio, and Mrs. Etha (Fleming) Becker of Columbus, Ohio. The Newark concentration &mdash; Sadye's daughter Ruth, daughter Betty, and sister La Verna all there &mdash; suggests a Fleming-side Newark community that the Wildermuth-side daughters married into and stayed near. The five-and-five preceding-and-surviving sibling count makes Sadye one of the youngest in a large Fleming family.
+[Robert Earl's own genealogy](/docs/wildermuth-family-of-marietta-book/) documents the full family: Sadye was the **eighth of [Verona](/family/verona-sheppard-fleming/) and [Wesley Fleming](/family/wesley-fleming/)'s fourteen children** — near the middle, not one of the youngest as an earlier reading of her obituary had it. Her siblings, in birth order, were Walter George (1886), Della (1888), Nora (1890), Mary (1892), Howard (1895), Frank (1897), May (1899, died in infancy), Sadye herself (1901), Etha (1904), Diatha (1904, Etha's twin), Belle (1905, died at two weeks), Genevieve (died in infancy), LaVerna (1907), and Grace (c. 1910, died in infancy). By her 1976 death the survivors were her sisters Mrs. LaVerna (Fleming) Raison of Newark, Ohio and Mrs. Etha (Fleming) Becker of Columbus, Ohio — the Newark concentration (Sadye's daughters Ruth and Betty and sister LaVerna all there) marking a Fleming-side community the family stayed near.
 
 ## The end
 
