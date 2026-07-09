@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import { Image } from 'astro:assets';
 import { getAllPeople, publicDisplay, effectiveStatus } from '../../lib/relations';
 import { formatLifespan, sortableYear } from '../../utils/lifespan';
 
@@ -119,11 +120,21 @@ const order: LineKey[] = ['paternal', 'maternal', 'zhou', 'connected', 'crew'];
               const d = publicDisplay(p);
               const span = d.living ? '' : formatLifespan(d.birth?.date, d.death?.date);
               const isSketch = effectiveStatus(p) === 'sketch';
+              const portrait = 'portrait' in d ? d.portrait : undefined;
               return (
-                <li>
-                  <a href={`/family/${p.id}/`}>{d.name}</a>
-                  {span && <span class="text-ink/60 text-sm"> &nbsp;({span})</span>}
-                  {isSketch && <span class="text-ink/40 text-xs ml-2" title="Thin page — being deepened over time">sketch</span>}
+                <li class="flex items-center gap-2">
+                  {portrait && (
+                    <a href={`/family/${p.id}/`} class="shrink-0 no-underline" tabindex="-1" aria-hidden="true">
+                      <span class="block w-8 h-8 overflow-hidden border border-rule bg-rule/40">
+                        <Image src={portrait} alt="" width={64} height={64} class="w-full h-full object-cover" />
+                      </span>
+                    </a>
+                  )}
+                  <span>
+                    <a href={`/family/${p.id}/`}>{d.name}</a>
+                    {span && <span class="text-ink/60 text-sm"> &nbsp;({span})</span>}
+                    {isSketch && <span class="text-ink/40 text-xs ml-2" title="Thin page — being deepened over time">sketch</span>}
+                  </span>
                 </li>
               );
             })}

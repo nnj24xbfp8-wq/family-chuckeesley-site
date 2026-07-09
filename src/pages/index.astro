@@ -1,29 +1,126 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { Image } from 'astro:assets';
 import { getCollection } from 'astro:content';
 
 const people = await getCollection('people');
 const docs = await getCollection('documents');
 const arts = await getCollection('artifacts');
 const places = await getCollection('places');
+
+// A small hand-picked strip of photographs for the landing page — chosen to
+// span the lines and the eras (1899 → 1980s) and to put faces on the door.
+const featuredIds = [
+  'eesley-family-group-portrait-1899',
+  'charlie-eesley-july-1970-vietnam',
+  'eesley-wedding-1971-portrait',
+  'wildermuth-family-1968-itazuke',
+  'black-lake-family-on-dock-c1950s',
+  'terrie-reading-to-chuck-c1984',
+];
+const byId = new Map(arts.map((a) => [a.id, a]));
+const featured = featuredIds
+  .map((id) => byId.get(id))
+  .filter((a): a is NonNullable<typeof a> => Boolean(a));
+
+// The "Enter" cards — the real navigation into the archive.
+const entries = [
+  {
+    href: '/docs/family-threads/',
+    title: 'Family threads',
+    note: 'the synthesis essay — nine cross-generational values, bilingual',
+    star: true,
+  },
+  { href: '/family/', title: 'The family', note: `${people.length} people` },
+  { href: '/docs/', title: 'Stories & memoirs', note: `${docs.length} documents` },
+  {
+    href: '/places/',
+    title: 'Places, then & now',
+    note: `${places.length} sites — including the German villages, photographed across generations`,
+  },
+  { href: '/archive/', title: 'Photo & letter archive', note: `${arts.length} artifacts` },
+];
 ---
 <BaseLayout title="Eesley · Wildermuth" description="A narrative archive of the Eesley and Wildermuth families.">
-  <section class="prose max-w-prose">
+  <section class="max-w-prose">
     <h1 class="text-4xl font-serif mb-2">Eesley · Wildermuth</h1>
-    <p class="text-ink/70 italic mt-0">
+    <p class="text-ink/70 italic mt-0 mb-8">
       A narrative archive of two American families &mdash; one out of Stratford-on-Avon
       by way of a Scottish flour mill, one out of Württemberg by way of Marietta &mdash;
       meeting in a single generation.
     </p>
+  </section>
 
-    <p>
+  {featured.length > 0 && (
+    <section class="not-prose mb-10">
+      <ul class="grid grid-cols-3 sm:grid-cols-6 gap-2 sm:gap-3">
+        {featured.map((a) => (
+          <li>
+            <a href={`/archive/${a.id}/`} class="block no-underline group" title={a.data.title}>
+              <div class="aspect-square overflow-hidden bg-rule/40 border border-rule">
+                <Image
+                  src={a.data.image}
+                  alt={a.data.title}
+                  widths={[150, 300]}
+                  sizes="(max-width: 640px) 33vw, 150px"
+                  class="w-full h-full object-cover transition group-hover:opacity-90"
+                />
+              </div>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </section>
+  )}
+
+  <section class="prose max-w-prose">
+    <p class="mt-0">
       This site was inspired by the work of <strong>Robert Earl Wildermuth</strong>, Chuck's maternal
       grandfather, who in his retirement turned to genealogy and wrote the memoirs, the
       combat log, the &ldquo;Return to Germany&rdquo; travelogue, and the German-ancestor sketches
       that frame everything maternal here. He closed his last manuscript by addressing
-      <em>&ldquo;future genealogists.&rdquo;</em> This site is one of them answering.
+      <em>&ldquo;future genealogists.&rdquo;</em> This site is one of them answering. Their work is
+      the archive; this site is the next layer of it.
+    </p>
+  </section>
+
+  {/* Enter — the real way in, surfaced high on the page. */}
+  <section class="not-prose my-10">
+    <h2 class="text-sm uppercase tracking-wider text-ink/50 mb-4">Enter</h2>
+    <ul class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+      {entries.map((e) => (
+        <li>
+          <a
+            href={e.href}
+            class="block h-full no-underline border border-rule rounded-sm px-4 py-3 transition hover:border-sepia hover:bg-sepia/5"
+          >
+            <span class="font-serif text-lg">
+              {e.star && <span class="text-sepia" aria-hidden="true">★ </span>}{e.title}
+            </span>
+            <span class="block text-sm text-ink/60 mt-1">{e.note}</span>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </section>
+
+  <section class="prose max-w-prose">
+    <p>
+      <strong>The Zhou side &mdash; live and growing, in two languages.</strong>
+      The Eesley and Wildermuth lines have a year of intensive work behind them; the
+      <strong>Zhou family of Qingdao, Shandong</strong> &mdash;
+      <a href="/family/lijie-zhou/">Lijie</a>'s line &mdash; is built out four generations deep
+      and being extended branch by branch. <strong>Every Zhou-side page carries both English
+      and <span lang="zh">中文</span> versions on the same page</strong> &mdash;
+      paragraphs in English at the top, then a parallel <span lang="zh">中文</span> section below.
+      Open the dedicated <a href="/zh/" lang="zh">中文 hub</a> for the Chinese-first entry point,
+      or read any Zhou-side person, place, or story page in either language. Name characters and
+      earlier generations are still being confirmed with the family.
     </p>
 
+    <hr class="my-8 border-rule" />
+
+    <h2 class="text-2xl mt-8">The keepers of this archive</h2>
     <p>
       Four keepers built the paternal side. <strong><a href="/family/mary-eesley-bean/">Mary Eesley Bean</a></strong>'s 1985 indented register laid
       down the relationships from Stratford through to Marietta. <strong><a href="/family/margaret-maggie-eesley/">Margaret &ldquo;Maggie&rdquo; Eesley</a></strong>'s
@@ -56,33 +153,6 @@ const places = await getCollection('places');
       Eesley genealogists should consult first.
     </p>
 
-    <p>
-      Their work is the archive; this site is the next layer of it.
-    </p>
-
-    <p>
-      <strong>If you only read one page on this site, read <a href="/docs/family-threads/">Family threads &mdash; the values and practices that run across the generations</a>.</strong>
-      A synthesis pass across the archive that names nine threads &mdash;
-      education, patience, writing things down, returning to places, service, humor,
-      showing up, the Japan-and-China curiosity, and the crossing impulse &mdash;
-      each anchored to specific people, documents, and places in the rest of the
-      archive. Bilingual: English at the top, full <span lang="zh">中文</span>
-      translation underneath.
-    </p>
-
-    <p>
-      <strong>The Zhou side &mdash; live and growing, in two languages.</strong>
-      The Eesley and Wildermuth lines have a year of intensive work behind them; the
-      <strong>Zhou family of Qingdao, Shandong</strong> &mdash;
-      <a href="/family/lijie-zhou/">Lijie</a>'s line &mdash; is built out four generations deep
-      and being extended branch by branch. <strong>Every Zhou-side page carries both English
-      and <span lang="zh">中文</span> versions on the same page</strong> &mdash;
-      paragraphs in English at the top, then a parallel <span lang="zh">中文</span> section below.
-      Open the dedicated <a href="/zh/" lang="zh">中文 hub</a> for the Chinese-first entry point,
-      or read any Zhou-side person, place, or story page in either language. Name characters and
-      earlier generations are still being confirmed with the family.
-    </p>
-
     <hr class="my-8 border-rule" />
 
     <h2 class="text-2xl mt-8">On living people</h2>
@@ -94,16 +164,5 @@ const places = await getCollection('places');
       held offline. The fuller editorial note is on the
       <a href="/about/privacy/">archive's privacy page</a>.
     </p>
-
-    <hr class="my-8 border-rule" />
-
-    <h2 class="text-2xl mt-8">Enter</h2>
-    <ul class="not-prose space-y-2 mt-4">
-      <li>&#9733; <a href="/docs/family-threads/"><strong>Family threads</strong></a> &nbsp;&middot;&nbsp; <span class="text-ink/60 text-sm">the synthesis essay &mdash; nine cross-generational values, bilingual</span></li>
-      <li><a href="/family/">The family</a> &nbsp;&middot;&nbsp; <span class="text-ink/60 text-sm">{people.length} people</span></li>
-      <li><a href="/docs/">Stories &amp; memoirs</a> &nbsp;&middot;&nbsp; <span class="text-ink/60 text-sm">{docs.length} documents</span></li>
-      <li><a href="/places/">Places, then &amp; now</a> &nbsp;&middot;&nbsp; <span class="text-ink/60 text-sm">{places.length} sites &mdash; including the German villages, photographed across generations</span></li>
-      <li><a href="/archive/">Photo &amp; letter archive</a> &nbsp;&middot;&nbsp; <span class="text-ink/60 text-sm">{arts.length} artifacts</span></li>
-    </ul>
   </section>
 </BaseLayout>
