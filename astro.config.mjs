@@ -21,5 +21,7 @@ export default defineConfig({
     '/family/charles-boyt/': '/family/charles-bojt/',
     // Merged duplicate stub (portrait) into the canonical Scioto "Ota" Chenoweth Smith page — GEDCOM confirms one person.
     '/family/ota-chenoweth-smith/': '/family/scioto-mafry-chenoweth/',
+    // Merged misdated duplicate of the 29 Mar 1971 R&R-booking letter (had been filed as "1970-03-29"; same letter, scan dad9).
+    '/docs/letters/charlie-to-terrie-1970-03-29-ticket-cash/': '/docs/letters/charlie-to-terrie-1971-03-29-second-rr-booking/',
   },
 });
