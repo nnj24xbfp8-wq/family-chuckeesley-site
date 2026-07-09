@@ -1,6 +1,6 @@
 ---
 name: "Edward E. Way"
-aka: "Edward E. Way (Jr.); 'Edward E.' on the family-papers ID legend"
+aka: "Edward Ellison Way (his full name in Robert Earl's genealogy); Edward E. Way (Jr.); 'Edward E.' on the family-papers ID legend"
 line: maternal
 generation: 6
 birth:
@@ -23,7 +23,7 @@ He was born **14 May 1851 in Noble County, Ohio**, the eldest known son of [Edwa
 
 ## The Matthews marriage and ten children
 
-On **11 April 1872 at Noble County, Ohio** &mdash; one month before his 21st birthday &mdash; Edward married **[Tacy Elizabeth Matthews](/family/tacy-elizabeth-matthews/)** (1848-1902), of Washington County, Ohio. Tacy was three years older.
+On **11 April 1872 at Noble County, Ohio** &mdash; one month before his 21st birthday &mdash; Edward married **[Tacy Elizabeth Matthews](/family/tacy-elizabeth-matthews/)** (1848-1902), of Washington County, Ohio. Tacy was three years older. After Tacy's death in 1902 he **married a second time, to Mrs. Lovina (Shuman) Taylor**, per [Robert Earl's genealogy](/docs/wildermuth-family-of-marietta-book/), which also gives his full name as **Edward Ellison Way**.
 
 The marriage produced **ten children** in the GEDCOM record, the older ones bearing the brunt of the late-nineteenth-century farm-family pattern of large rural households:
 
