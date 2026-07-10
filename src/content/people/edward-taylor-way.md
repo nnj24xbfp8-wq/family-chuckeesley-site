@@ -9,6 +9,8 @@ birth:
 death:
   date: "1879"
   place: "Noble County, Ohio"
+parents:
+  - william-f-way
 spouses:
   - anna-ellison
 summary: "English-immigrant Noble County farmer; Chuck's maternal four-times-great-grandfather on the Way line. Born 11 September 1812 on the Isle of Wight, England; son of William F. Way and Harriet Rowlands. Came to America in 1820 as a boy with his family, landing at Norfolk and settling in the Duck Creek Valley of Washington County, Ohio; built a 40-acre Crooked Tree homestead (1833) into a 600-acre farm. Married twice: first to Elizabeth Raney (1834, d. 1844; two sons who died at birth), then to Anna Ellison (English-born, of Coppull, Lancashire) in 1845 — the marriage that produced his nine children, including Edward E. Way (1851-1924), Chuck's direct ancestor and father of Victoria Anna Way Davis. Died 20 December 1879 near Macksburg, en route by rail to Marietta, of heart disease; buried at Crooked Tree Cemetery, Noble County."
@@ -18,7 +20,7 @@ Edward Taylor Way is **Chuck's maternal four-times-great-grandfather** on the Wa
 
 ## From the Isle of Wight to Noble County
 
-Edward Taylor Way was born **11 September 1812 on the Isle of Wight, England** &mdash; a thirty-mile-wide chalk-down island off the south coast of Hampshire, four miles across the Solent from Portsmouth. Per [Robert Earl's genealogy](/docs/wildermuth-family-of-marietta-book/), he was a son of **William F. Way and Harriet Rowlands**, and came to America in **1820**, at about eight years old, with his father, mother and a sister; the family landed at Norfolk, Virginia and settled in the Duck Creek Valley of Washington County, Ohio (his father, a blacksmith, later moved to Wood County, Virginia, where he died in 1846). Young Edward grew up poor, for a time working Peter Taylor's farm for a third of its product; in **1833** he sold his only possession, a horse, to make the first payment on 40 acres at Crooked Tree in Noble County, and by hard labor built that into a **600-acre** estate. He was a Methodist whose "word was as good as his bond."
+Edward Taylor Way was born **11 September 1812 on the Isle of Wight, England** &mdash; a thirty-mile-wide chalk-down island off the south coast of Hampshire, four miles across the Solent from Portsmouth. Per [Robert Earl's genealogy](/docs/wildermuth-family-of-marietta-book/), he was a son of **[William F. Way](/family/william-f-way/) and Harriet Rowlands**, and came to America in **1820**, at about eight years old, with his father, mother and a sister; the family landed at Norfolk, Virginia and settled in the Duck Creek Valley of Washington County, Ohio (his father, a blacksmith, later moved to Wood County, Virginia, where he died in 1846). Young Edward grew up poor, for a time working Peter Taylor's farm for a third of its product; in **1833** he sold his only possession, a horse, to make the first payment on 40 acres at Crooked Tree in Noble County, and by hard labor built that into a **600-acre** estate. He was a Methodist whose "word was as good as his bond."
 
 ## The two marriages
 
