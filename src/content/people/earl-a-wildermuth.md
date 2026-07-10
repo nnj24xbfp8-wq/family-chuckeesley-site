@@ -15,10 +15,10 @@ parents:
 spouses:
   - sadye-fleming-wildermuth
 portrait: ../../assets/family/originals/IMG_2646.jpeg
-summary: "Robert Earl Wildermuth's father — full name Earl Adam Wildermuth, per his son's 1990 Wildermuth/Fleming Heritage dedication. Born 6 October 1899 in Marietta, sixth of William Clifford Wildermuth and Flora Schlicher's nine children. Married Sadye Irene Fleming on 31 December 1920 in Marietta. Father of Robert Earl, Carl E., Ruth I. (Ridenour), Betty J. (Haddox), and Norma J. (Gault). Self-described 'hard-headed Dutch' from 'the Rhine River area of Germany' — the family memory source for the German-origin Wildermuth line. Wrote a 17 January 1972 letter to his son that became the starting point for the 18-year genealogical research producing the 1990 Heritage. Suffered a massive stroke on 8 December 1977 (a year after his wife Sadye's August 1976 death) and was buried at Reno, Washington County, Ohio."
+summary: "Robert Earl Wildermuth's father — full name Earl Adam Wildermuth, per his son's 1990 Wildermuth/Fleming Heritage dedication. Born 6 October 1899 in Marietta, sixth of William Clifford Wildermuth and Flora Schlicher's nine children. Married Sadye Irene Fleming on 31 December 1921 in Marietta. Father of Robert Earl, Carl E., Ruth I. (Ridenour), Betty J. (Haddox), and Norma J. (Gault). Self-described 'hard-headed Dutch' from 'the Rhine River area of Germany' — the family memory source for the German-origin Wildermuth line. Wrote a 17 January 1972 letter to his son that became the starting point for the 18-year genealogical research producing the 1990 Heritage. Suffered a massive stroke on 8 December 1977 (a year after his wife Sadye's August 1976 death) and was buried at Reno, Washington County, Ohio."
 ---
 
-Earl A. Wildermuth married [Sadye Irene Fleming](/family/sadye-fleming-wildermuth/) on 31 December 1920 in Marietta, Ohio. Together they raised five children:
+Earl A. Wildermuth married [Sadye Irene Fleming](/family/sadye-fleming-wildermuth/) on 31 December 1921 in Marietta, Ohio. Together they raised five children:
 
 - [Robert Earl Wildermuth](/family/robert-earl-wildermuth/) &mdash; Chuck's grandfather, the B-24 navigator and 1948 Stanford BA.
 - Carl E. Wildermuth &mdash; of Marietta.

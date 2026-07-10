@@ -28,7 +28,7 @@ A formal posed studio photograph against a plain backdrop. Four figures:
 
 ## Why this is a significant find
 
-This photograph is **Robert Earl Wildermuth's father, Earl Adam, as a young man** — first time visible in this archive. Earl Adam would marry **Sadye Irene Fleming on 31 December 1920** and become the patriarch of the Marietta-Ohio Wildermuth line that runs to Robert Earl, Terrie, and Chuck. The portrait captures him in **the years just before that marriage** — a sixteen-to-nineteen-year-old in his father's household, photographed with the parents whose home at the dream house on Harmar Street would still be his Marietta-childhood address when Robert Earl arrived in 1924.
+This photograph is **Robert Earl Wildermuth's father, Earl Adam, as a young man** — first time visible in this archive. Earl Adam would marry **Sadye Irene Fleming on 31 December 1921** and become the patriarch of the Marietta-Ohio Wildermuth line that runs to Robert Earl, Terrie, and Chuck. The portrait captures him in **the years just before that marriage** — a sixteen-to-nineteen-year-old in his father's household, photographed with the parents whose home at the dream house on Harmar Street would still be his Marietta-childhood address when Robert Earl arrived in 1924.
 
 It is also **one of the last photographs of Flora Schlicher Wildermuth before her 1919 death** — the grandmother Robert Earl never met (he was born five years after her death).
 
