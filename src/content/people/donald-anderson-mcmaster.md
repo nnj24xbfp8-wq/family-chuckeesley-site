@@ -30,6 +30,10 @@ Don sent his teenage nephew Charlie a subscription to the **Wall Street Journal*
 
 The deck flags him twice as a **"dedicated photographer"** &mdash; slides 12 and 13 of Maggie's *Four Generations* archive give him the title outright. The frames of him as student and as photographer appear back-to-back. The first photograph of him in the family archive is the one of him as a child on the porch with his mother Alice, c. 1910&ndash;12, when he was seven or eight.
 
+![Don McMaster, the family's dedicated photographer, caught in the act of snapping a photo &mdash; around 1965, at the wedding reception of his niece Jeanne Eesley, in Marietta, Ohio. Black-and-white print from Maggie Eesley's *Four Generations* deck (ID DAM001); provenance Peggy McMaster Eesley.](../../assets/family/maggie-deck/donald-anderson-mcmaster-photographer-1965.jpeg)
+
+The photograph above is the one the deck titles *"amateur photographer, caught in the act of snapping a photo"* &mdash; Don behind a 35mm SLR at Jeanne's reception, the photographer for once fixed in someone else's frame. It is the truest picture of him in the archive: not posed, but working.
+
 That his role as the family's photographer would survive into Maggie's generation as worth labelling matters: the McMaster line has run an unusual amount of visual record-keeping. Alice's mother Nancy Jane Shaw sat for cabinet portraits in 1860 and 1888. Alice herself sat for one as a young woman. Don, in his own generation, was the one behind the camera as much as in front of it. Maggie inherited the archive and built the deck out of it.
 
 He is **Chuck's great-uncle** &mdash; the brother of Chuck's grandmother Peggy.

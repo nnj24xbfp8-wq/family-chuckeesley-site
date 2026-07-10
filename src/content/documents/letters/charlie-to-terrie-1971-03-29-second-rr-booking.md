@@ -15,9 +15,10 @@ dateRange:
   start: "1971-03-29"
 private: false
 summary: "Charlie's short letter to Terrie dated 29 March 1971 — confirms the Hawaii R&R is on, four days after Operation Lam Son 719 closed (25 March 1971). The R&R window is set: arrival 12 April, departure 19 April. Charlie tells Terrie to book her ticket under 'Mrs. Eesley' for the military-spouse fare reduction — the same convention they had been planning around since the [22 March R&R orders letter](/docs/letters/charlie-to-terrie-1971-03-22/) a week earlier. $100 has been sent with a money-order receipt enclosed. 77 days left in the army puts the ETS at 14 June 1971, holding the [4 February target](/docs/letters/charlie-to-terrie-1971-02-04-laos-fore-warning/) exactly. Closes 'Everything is fine here with 77 days left.'"
-source: "Held in family archive — grandmaE1.pdf page 90 (gitignored locally; transcribed content surfaced here). Original letter scan (dad169) located and attached June 2026; verified word-for-word against the existing transcription."
+source: "Held in family archive — grandmaE1.pdf page 90 (gitignored locally; transcribed content surfaced here). Two scans of the letter exist: dad169.jpg and dad9.jpg, both showing the same page, verified word-for-word against the transcription (on dad9 the amount sent is struck/illegible; the pdf reading of $100 is authoritative). This entry was merged (July 2026) with a former duplicate, `charlie-to-terrie-1970-03-29-ticket-cash`, which had catalogued the same letter from a visual read of dad9, misdated it to 1970 (29 March fell on a Sunday in 1970 but a Monday in 1971 — the old 'Sunday' note was circular from the wrong year), and misread the amount as $400 by conflating it with the separate dad12 fragment ('I'm bringing about $400'). The old URL now redirects here."
 scans:
   - ../../../assets/family/originals/vietnam-letters/dad169.jpg
+  - ../../../assets/family/originals/vietnam-letters/dad9.jpg
 ---
 
 ## What the letter is
