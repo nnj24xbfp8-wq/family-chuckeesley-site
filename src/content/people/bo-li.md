@@ -12,18 +12,20 @@ sortBirth: "1957"
 summary: "Lijie's maternal aunt; younger sister of Xun Li (Lijie's mother)."
 ---
 
-<p class="not-prose my-4 p-3 border-l-4 border-rule bg-ink/5 text-sm"><strong>📖 本页含中文版本 — <a href="#zh">点此跳至中文 ↓</a></strong> &nbsp;·&nbsp; <em>This page has a Chinese version below.</em></p>
-
-Details withheld &mdash; living.
-
-> *Structured record: [FamilySearch — Bo Li (GM1Y-SZC)](https://www.familysearch.org/tree/person/details/GM1Y-SZC).*
-
----
+<p class="not-prose my-4 p-3 border-l-4 border-rule bg-ink/5 text-sm"><strong>📖 English version below — <a href="#en">Jump to English ↓</a></strong> &nbsp;·&nbsp; <em>本页中文在上，英文见下方。</em></p>
 
 <a id="zh"></a>
-
-## 中文
 
 **李勃**（姓氏确定；名字汉字已由Lijie之母于2026年6月确认）&mdash; 周丽婕之姨母，其母[李恂](/family/xun-li/)之妹。
 
 > *详细生平从略 &mdash; 在世。除姓氏外人名汉字为推测，已由Lijie之母于2026年6月确认。*
+
+<hr class="my-8 border-rule" />
+
+<a id="en"></a>
+
+## English
+
+Details withheld &mdash; living.
+
+> *Structured record: [FamilySearch — Bo Li (GM1Y-SZC)](https://www.familysearch.org/tree/person/details/GM1Y-SZC).*

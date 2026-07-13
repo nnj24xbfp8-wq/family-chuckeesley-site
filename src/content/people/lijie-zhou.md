@@ -14,7 +14,32 @@ living: true
 summary: "Wife of Chuck Eesley. Born in Qingdao, Shandong, China. Came to the United States and to Stanford, where she and Chuck made their life. Co-traveler with Chuck on the 2018 England research trip that produced the Oxford library notes — the document set that pushed the Eesley line back another generation."
 ---
 
-<p class="not-prose my-4 p-3 border-l-4 border-rule bg-ink/5 text-sm"><strong>📖 本页含中文版本 — <a href="#zh">点此跳至中文 ↓</a></strong> &nbsp;·&nbsp; <em>This page has a Chinese version below.</em></p>
+<p class="not-prose my-4 p-3 border-l-4 border-rule bg-ink/5 text-sm"><strong>📖 English version below — <a href="#en">Jump to English ↓</a></strong> &nbsp;·&nbsp; <em>本页中文在上，英文见下方。</em></p>
+
+<a id="zh"></a>
+
+**周丽婕**，生于中国山东省青岛市。Chuck Eesley之妻，斯坦福大学家族档案的另一半建立者。她于2018年陪同丈夫前往英国牛津公共图书馆，参与了将Eesley家族世系追溯到18世纪初期Hanwell教区Joseph Eesley和Frances Ayris夫妇的研究工作。
+
+### 她的家族
+
+更新后的家谱（GEDCOM）现已开启周氏一脉的记录：
+
+- **父亲：[周玲](/family/ling-zhou/)**。父之父母：
+  - [周兆祥](/family/zhaoxiang-zhou/)（1930年8月1日生于胶州市 &mdash; 周氏远祖之地 &mdash; 2022年12月9日卒于青岛）。
+  - [孙云哲](/family/yunzhe-sun/)（2023年12月卒于青岛）。
+- **母亲：[李恂](/family/xun-li/)**。母之父母：
+  - [李仲初](/family/zhongchu-li/)（1921年9月15日 &ndash; 1982年11月1日，青岛）。女儿李恂与周玲成婚后六周辞世；未及与外孙女周丽婕相见。
+  - [尚耀真](/family/yaozhen-shang/)（1921年9月11日 &ndash; 2013年1月10日）。守寡三十年，亲眼见证外孙女周丽婕长大成人。
+
+周玲和李恂于**1982年在[青岛](/places/qingdao/)成婚**。周丽婕次年出生。这一支周氏现代青岛生活背后的远祖之地是[**胶州市**](/places/qingdao/) &mdash; 周兆祥家族的起源地。
+
+> *注：本页两位主角的姓名汉字已由家族确认（**周丽婕**、母亲**李恂**）；周氏祖辈一支（兆祥、运哲等）的汉字仍以推测为主，待家族进一步确认。*
+
+<hr class="my-8 border-rule" />
+
+<a id="en"></a>
+
+## English
 
 Lijie was born in **Qingdao** on China's eastern coast, in **Shandong** province &mdash; the home of the Zhou and Li families this side of the archive is being built around. She and Chuck made a life together at Stanford, where they continue to live, and where this archive itself was put together.
 
@@ -66,26 +91,3 @@ Lijie is an anchor for five of the ten threads in the [**Family threads**](/docs
 - **Thread #10 — Building things (entrepreneurship)** — co-founder of the Zhou & Eesley Family Foundation alongside Chuck.
 
 > *Structured record: [Dale Eesley / FamilySearch &mdash; Lijie Zhou (GMLV-Q8P)](https://www.familysearch.org/tree/person/details/GMLV-Q8P).*
-
----
-
-<a id="zh"></a>
-
-## 中文
-
-**周丽婕**，生于中国山东省青岛市。Chuck Eesley之妻，斯坦福大学家族档案的另一半建立者。她于2018年陪同丈夫前往英国牛津公共图书馆，参与了将Eesley家族世系追溯到18世纪初期Hanwell教区Joseph Eesley和Frances Ayris夫妇的研究工作。
-
-### 她的家族
-
-更新后的家谱（GEDCOM）现已开启周氏一脉的记录：
-
-- **父亲：[周玲](/family/ling-zhou/)**。父之父母：
-  - [周兆祥](/family/zhaoxiang-zhou/)（1930年8月1日生于胶州市 &mdash; 周氏远祖之地 &mdash; 2022年12月9日卒于青岛）。
-  - [孙云哲](/family/yunzhe-sun/)（2023年12月卒于青岛）。
-- **母亲：[李恂](/family/xun-li/)**。母之父母：
-  - [李仲初](/family/zhongchu-li/)（1921年9月15日 &ndash; 1982年11月1日，青岛）。女儿李恂与周玲成婚后六周辞世；未及与外孙女周丽婕相见。
-  - [尚耀真](/family/yaozhen-shang/)（1921年9月11日 &ndash; 2013年1月10日）。守寡三十年，亲眼见证外孙女周丽婕长大成人。
-
-周玲和李恂于**1982年在[青岛](/places/qingdao/)成婚**。周丽婕次年出生。这一支周氏现代青岛生活背后的远祖之地是[**胶州市**](/places/qingdao/) &mdash; 周兆祥家族的起源地。
-
-> *注：本页两位主角的姓名汉字已由家族确认（**周丽婕**、母亲**李恂**）；周氏祖辈一支（兆祥、运哲等）的汉字仍以推测为主，待家族进一步确认。*

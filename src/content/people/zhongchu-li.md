@@ -16,7 +16,42 @@ portrait: ../../assets/family/originals/IMG_0824.jpeg
 summary: "Lijie's maternal grandfather. Born 15 September 1921 in Qingdao — the same year and the same city as his future wife Yaozhen Shang. Died 1 November 1982, age 61, just six weeks after the marriage of his daughter Xun Li to Ling Zhou — the marriage from which Lijie would come a year later."
 ---
 
-<p class="not-prose my-4 p-3 border-l-4 border-rule bg-ink/5 text-sm"><strong>📖 本页含中文版本 — <a href="#zh">点此跳至中文 ↓</a></strong> &nbsp;·&nbsp; <em>This page has a Chinese version below.</em></p>
+<p class="not-prose my-4 p-3 border-l-4 border-rule bg-ink/5 text-sm"><strong>📖 English version below — <a href="#en">Jump to English ↓</a></strong> &nbsp;·&nbsp; <em>本页中文在上，英文见下方。</em></p>
+
+<a id="zh"></a>
+
+**李仲初**（姓氏确定；名字汉字"忠初"（2026年6月由Lijie之母确认更正））&mdash; 周丽婕的外祖父。1921年9月15日生于青岛 &mdash; 与其未来妻子[尚耀真](/family/yaozhen-shang/)同年同地出生，仅相隔三天（耀珍生于9月11日）。两人成长于德占末期、日占、民国和新中国成立等历史巨变之间，共育三子女，包括[周丽婕的母亲李恂](/family/xun-li/)（1956年生）。
+
+**1982年11月1日辞世，享年61岁** &mdash; 距女儿李恂与[周凌](/family/ling-zhou/)结婚（1982年9月18日）仅六周，距外孙女周丽婕出生尚有一年多。终未能见到外孙女。
+
+### 照片动画
+
+<figure class="my-6 max-w-md mx-auto not-prose">
+  <video src="/family/zhongchu-li-portrait-animated.mp4" controls muted loop playsinline class="w-full"></video>
+  <figcaption class="text-sm text-ink/70 mt-2 italic">
+    此为本页顶部李仲初照片之**人工智能动画化**版本 &mdash; 让他的面容微微动起来、眨眼、呼吸。<strong>此为诠释性影像，非真实记录</strong>：以静态照片为底，AI生成的微动效果，作为未曾谋面的后辈想象他生前神态的一种辅助。原始照片仍是历史档案，此动画仅为想象的工具，非实际影像。
+  </figcaption>
+</figure>
+
+### 回忆我的父亲 &mdash; 女儿手记（2026年7月）
+
+2026年7月，女儿[李恂](/family/xun-li/)（周丽婕之母）写下对父亲的回忆。因全文以追忆他为主，此处照录全篇（[其本人页面](/family/xun-li/)亦载此文）：
+
+> 我的父亲是个性格耿直、很有才华的人，写得一手好字，聪明而有智慧。我记得小时候，不管谁家有事，都愿意来找他商量，他也总能帮别人找到解决的办法。母亲则热情好客，凡是来的客人，都以好菜好饭招待。所以家里总是亲戚朋友往来不断，我就是在这样温暖的环境中长大成人。
+>
+> 父亲从小教育我们：做人要正直，待人接物要有礼貌，要多学习&mdash;&mdash;人只有具备一技之长，才能在这世上立足谋生。后来他生病了，偏瘫在身，却凭着坚强的毅力坚持康复锻炼。右手不能写字，他就用左手重新学写字；每天还跟着收音机学日语。这些事，都在我的记忆中留下了深刻的印象。
+>
+> 后来他再次病倒，这一次很严重（贲门癌&mdash;&mdash;胃的贲门部，即胃的上端入口）。在父亲的影响下，我立志要好好学习，做一个像他那样有学识的人。只是我们这一代生不逢时，赶上文化大革命，始终没能上一所正规的四年制大学。后来，我一边工作一边完成了继续教育的学业。所以在我有了孩子以后，心里便默默立下心愿：一定要让孩子接受最好的教育，以弥补我当年的缺憾，也不辜负父辈的期望。如今，孩子能够用所学回馈社会，是我最大的欣慰&mdash;&mdash;她以自己的学识，投身[社会慈善事业](https://zhoueesleyfoundation.com)。
+>
+> *&mdash; 2026年7月*
+
+> *注：除姓氏外，人名汉字均为推测，已由Lijie之母于2026年6月确认。*
+
+<hr class="my-8 border-rule" />
+
+<a id="en"></a>
+
+## English
 
 The portrait above &mdash; the studio photograph showing him in a dark high-collared Chinese-style jacket, looking directly at the camera with the serious composure of mid-century Chinese formal portraiture &mdash; is the **only image of Zhongchu Li in this archive**, and the only way his face enters the visual record of the family at all. He died before Lijie was born, so no one in the next generation knew him in person. The print is aged, edges spotted with mottling typical of pre-1980 Chinese photographic paper. It is among the most precious single objects on the Zhou side.
 
@@ -24,19 +59,6 @@ The portrait above &mdash; the studio photograph showing him in a dark high-coll
   <video src="/family/zhongchu-li-portrait-animated.mp4" controls muted loop playsinline class="w-full"></video>
   <figcaption class="text-sm text-ink/70 mt-2 italic">
     The same portrait, AI-animated to subtle motion &mdash; a gesture toward how he might have moved, breathed, blinked. This is **interpretive fiction, not a record**: a documentary aid for descendants who never met him, generated from the still photograph above. Like the AI-colorization of the 1965 Stanford fountain photograph elsewhere in this archive, the original still is the historical record; this animation is an aid to imagining his presence, not a literal trace of it.
-  </figcaption>
-</figure>
-
-<hr class="my-8 border-rule" />
-
-<a id="zh"></a>
-
-## 中文：照片动画
-
-<figure class="my-6 max-w-md mx-auto not-prose">
-  <video src="/family/zhongchu-li-portrait-animated.mp4" controls muted loop playsinline class="w-full"></video>
-  <figcaption class="text-sm text-ink/70 mt-2 italic">
-    此为本页顶部李仲初照片之**人工智能动画化**版本 &mdash; 让他的面容微微动起来、眨眼、呼吸。<strong>此为诠释性影像，非真实记录</strong>：以静态照片为底，AI生成的微动效果，作为未曾谋面的后辈想象他生前神态的一种辅助。原始照片仍是历史档案，此动画仅为想象的工具，非实际影像。
   </figcaption>
 </figure>
 
@@ -71,25 +93,3 @@ The Zhanqiao pier itself &mdash; an 1891 pier projecting into Qingdao Bay, the c
 This photograph was previously catalogued on the [Zhaoxiang Zhou page](/family/zhaoxiang-zhou/) (Lijie's *paternal* grandfather), where the senior man was identified as Zhaoxiang Zhou and the children as Lijie and her cousins. Chuck's correction in June 2026 reassigned the photograph: the senior man is **Lijie's maternal grandfather on the Li side** &mdash; not Lijie's paternal grandfather &mdash; and the family group is **his own household**, not the Zhou family. The misidentification was an inference-error from the earlier pass, of the same class as the Walker-husband and Way-line generational mistakes elsewhere in this archive. The Tianzhen Photography studio name and the Zhanqiao pier setting are both Qingdao-anchored regardless of which side of Lijie's family is in the frame.
 
 > *Structured record: [FamilySearch &mdash; Zhongchu Li (GMG8-RDD)](https://www.familysearch.org/tree/person/details/GMG8-RDD).*
-
-<hr class="my-8 border-rule" />
-
-## 中文
-
-**李仲初**（姓氏确定；名字汉字"忠初"（2026年6月由Lijie之母确认更正））&mdash; 周丽婕的外祖父。1921年9月15日生于青岛 &mdash; 与其未来妻子[尚耀真](/family/yaozhen-shang/)同年同地出生，仅相隔三天（耀珍生于9月11日）。两人成长于德占末期、日占、民国和新中国成立等历史巨变之间，共育三子女，包括[周丽婕的母亲李恂](/family/xun-li/)（1956年生）。
-
-**1982年11月1日辞世，享年61岁** &mdash; 距女儿李恂与[周凌](/family/ling-zhou/)结婚（1982年9月18日）仅六周，距外孙女周丽婕出生尚有一年多。终未能见到外孙女。
-
-### 回忆我的父亲 &mdash; 女儿手记（2026年7月）
-
-2026年7月，女儿[李恂](/family/xun-li/)（周丽婕之母）写下对父亲的回忆。因全文以追忆他为主，此处照录全篇（[其本人页面](/family/xun-li/)亦载此文）：
-
-> 我的父亲是个性格耿直、很有才华的人，写得一手好字，聪明而有智慧。我记得小时候，不管谁家有事，都愿意来找他商量，他也总能帮别人找到解决的办法。母亲则热情好客，凡是来的客人，都以好菜好饭招待。所以家里总是亲戚朋友往来不断，我就是在这样温暖的环境中长大成人。
->
-> 父亲从小教育我们：做人要正直，待人接物要有礼貌，要多学习&mdash;&mdash;人只有具备一技之长，才能在这世上立足谋生。后来他生病了，偏瘫在身，却凭着坚强的毅力坚持康复锻炼。右手不能写字，他就用左手重新学写字；每天还跟着收音机学日语。这些事，都在我的记忆中留下了深刻的印象。
->
-> 后来他再次病倒，这一次很严重（贲门癌&mdash;&mdash;胃的贲门部，即胃的上端入口）。在父亲的影响下，我立志要好好学习，做一个像他那样有学识的人。只是我们这一代生不逢时，赶上文化大革命，始终没能上一所正规的四年制大学。后来，我一边工作一边完成了继续教育的学业。所以在我有了孩子以后，心里便默默立下心愿：一定要让孩子接受最好的教育，以弥补我当年的缺憾，也不辜负父辈的期望。如今，孩子能够用所学回馈社会，是我最大的欣慰&mdash;&mdash;她以自己的学识，投身[社会慈善事业](https://zhoueesleyfoundation.com)。
->
-> *&mdash; 2026年7月*
-
-> *注：除姓氏外，人名汉字均为推测，已由Lijie之母于2026年6月确认。*
