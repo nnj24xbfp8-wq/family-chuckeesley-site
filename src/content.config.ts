@@ -13,7 +13,7 @@ const people = defineCollection({
       // line distinguishes the major family threads in this archive.
       //   'paternal'  = Chuck's father's side (Eesley / Chenoweth / McMaster / Anderson)
       //   'maternal'  = Chuck's mother's side (Wildermuth / Davis / Fleming / German line)
-      //   'zhou'      = Lijie's side (Zhou family of Qingdao, Shandong — and its branches)
+      //   'zhou'      = Lijie's side (Zhou and Li families of Qingdao, Shandong — the paternal Zhou line and the maternal Li/Shang lines — and their branches)
       //   'crew'      = Robert Earl's B-24 crew, non-family individuals he served with
       //   'other'     = family-by-marriage, family-by-friendship, and other adjacencies
       line: z.enum(['paternal', 'maternal', 'zhou', 'crew', 'other']).optional(),

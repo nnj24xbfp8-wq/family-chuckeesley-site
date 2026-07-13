@@ -12,7 +12,7 @@ const ogLocale = lang.startsWith('zh') ? 'zh_CN' : 'en_US';
 const fullTitle = title === 'Eesley · Wildermuth' ? title : `${title} — Eesley · Wildermuth`;
 const metaDescription =
   description ??
-  'A narrative archive of the Eesley and Wildermuth families, and the Zhou family of Qingdao — memoirs, letters, photographs, and the places that shaped them across the generations.';
+  'A narrative archive of the Eesley and Wildermuth families, and the Zhou and Li families of Qingdao — memoirs, letters, photographs, and the places that shaped them across the generations.';
 const base = Astro.site ?? Astro.url;
 const canonical = new URL(Astro.url.pathname, base);
 const ogImage = new URL(image, base);
@@ -65,7 +65,7 @@ const ogImage = new URL(image, base);
           <a href="/archive/">Archive</a>
           <a href="/about/">About</a>
           <a href="/search/" aria-label="Search the archive">Search</a>
-          <a href="/zh/" lang="zh">周家 · Zhou (中文)</a>
+          <a href="/zh/" lang="zh">周家 · 李家 · Zhou/Li (中文)</a>
         </nav>
       </div>
     </header>

@@ -16,7 +16,7 @@ summary: "Wife of Chuck Eesley. Born in Qingdao, Shandong, China. Came to the Un
 
 <p class="not-prose my-4 p-3 border-l-4 border-rule bg-ink/5 text-sm"><strong>📖 本页含中文版本 — <a href="#zh">点此跳至中文 ↓</a></strong> &nbsp;·&nbsp; <em>This page has a Chinese version below.</em></p>
 
-Lijie was born in **Qingdao** on China's eastern coast, in **Shandong** province &mdash; the home of one branch of the Zhou family this side of the archive is being built around. She and Chuck made a life together at Stanford, where they continue to live, and where this archive itself was put together.
+Lijie was born in **Qingdao** on China's eastern coast, in **Shandong** province &mdash; the home of the Zhou and Li families this side of the archive is being built around. She and Chuck made a life together at Stanford, where they continue to live, and where this archive itself was put together.
 
 She joined Chuck on the [2018 visit to the Oxford public library](/docs/eesley-line-research-notes/) where the volunteer genealogist worked through the Eesley line back to Joseph and Frances Ayris. The Oxfordshire half of the surviving English research record bears her presence as well as his.
 
@@ -51,7 +51,7 @@ Ling and Xun married in **1982 in [Qingdao](/places/qingdao/)**. Lijie was born 
 - **The earlier Zhou and Li generations** &mdash; great-grandparents and beyond &mdash; where Lijie's family is able to name them.
 - **Generation names** (字辈 / 班辈) if the Zhou family uses them &mdash; the traditional Chinese lineage device where a single character is shared by all male family members of one generation, drawn from a generation-poem (字辈诗) written by an ancestor.
 - **Lijie's siblings** if any, and her aunts and uncles: paternal aunts **Ai Hua Zhou** and **Ai Qin Zhou** and uncle **Quan Zhou**; maternal uncle **Mengling Li** and aunt **Bo Li**.
-- **A "Zhou family of Qingdao" document** &mdash; the place-of-origin narrative, analogous to the [Wildermuth villages of W&uuml;rttemberg](/places/rielingshausen-town-square/) and the [Eesley parishes of Oxfordshire](/family/joseph-eesley/) on the existing sides.
+- **A "Zhou and Li families of Qingdao" document** &mdash; the place-of-origin narrative for both her father's Zhou line and her mother's Li and Shang lines, analogous to the [Wildermuth villages of W&uuml;rttemberg](/places/rielingshausen-town-square/) and the [Eesley parishes of Oxfordshire](/family/joseph-eesley/) on the existing sides.
 - **Photographs and oral history** &mdash; the Zhou side's analog to Robert Earl's memoirs and Aunt Maggie's photo deck.
 
 ## See also — family threads

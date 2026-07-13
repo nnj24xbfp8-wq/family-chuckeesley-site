@@ -27,7 +27,7 @@ The portrait above &mdash; the studio photograph showing him in a dark high-coll
   </figcaption>
 </figure>
 
----
+<hr class="my-8 border-rule" />
 
 <a id="zh"></a>
 
@@ -44,11 +44,17 @@ Lijie's maternal grandfather and his future wife [Yaozhen Shang](/family/yaozhen
 
 He died **1 November 1982**, age 61 &mdash; six weeks after [his daughter's marriage to Ling Zhou](/family/xun-li/) on 18 September 1982, and a little over a year before Lijie was born. He did not live to meet his granddaughter.
 
-## As remembered by his daughter (2026)
+## Remembering My Father &mdash; his daughter's note (July 2026)
 
-In July 2026, his daughter [Li Xun](/family/xun-li/) &mdash; Lijie's mother &mdash; wrote down her memories of him. This excerpt is drawn from that note (the full text is on [her page](/family/xun-li/)):
+In July 2026, his daughter [Li Xun](/family/xun-li/) &mdash; Lijie's mother &mdash; wrote a remembrance of her father. Because the note is above all about him, it is reproduced here in full, in her own words (it also appears on [her own page](/family/xun-li/)):
 
-> My father was a man of upright character and real talent. He had beautiful handwriting, and he was clever and wise. When I was young, no matter which family had a problem, they came to him for advice, and he could always help them find a way through. Later, when illness left him with hemiplegia, he worked at his recovery with sheer strength of will: when his right hand could no longer write, he taught himself to write with his left, and every day he followed the radio to study Japanese. These things left a deep impression on me. He taught us to conduct ourselves with integrity, to treat others with courtesy, and to keep learning &mdash; for only with a skill of one's own can a person make a living in this world.
+> My father was a man of upright character and real talent. He had beautiful handwriting, and he was clever and wise. I remember that when I was young, no matter which family in our circle had a problem, they were all willing to come to him for advice, and he could always help them find a way through. My mother was warm and hospitable; whoever came was received with good food and a good table. So our home was always full of relatives and friends coming and going, and it was in this warm environment that I grew up.
+>
+> From early on, Father taught us to conduct ourselves with integrity, to treat others with courtesy, to keep learning, and that only with a skill of one's own can a person make a living in this world. Later he fell ill and was left with hemiplegia, but through sheer strength of will he worked at his rehabilitation. When his right hand could no longer write, he taught himself to write with his left, and every day he followed the radio to study Japanese. These things left a deep impression on me.
+>
+> Later he fell ill again, and this time it was serious &mdash; a cancer of the stomach, at the cardia, the top entrance to the stomach. Under my father's influence, I resolved to study hard and become a person of learning as he was. But our generation came of age at the wrong time: with the Cultural Revolution, I never had the chance at a proper four-year college education. In later years I completed my studies through continuing education while working. So after I had a child of my own, I quietly resolved to give my child the best education possible, to make up for what I had lacked and to fulfill the hopes of the generation before me. Today, that my child gives back to society is my greatest comfort &mdash; she devotes her learning to [charity work for society](https://zhoueesleyfoundation.com).
+>
+> *&mdash; July 2026*
 
 ## At the Qingdao Zhanqiao (青岛栈桥) pier, c. 1960s &mdash; family group portrait
 
@@ -66,7 +72,7 @@ This photograph was previously catalogued on the [Zhaoxiang Zhou page](/family/z
 
 > *Structured record: [FamilySearch &mdash; Zhongchu Li (GMG8-RDD)](https://www.familysearch.org/tree/person/details/GMG8-RDD).*
 
----
+<hr class="my-8 border-rule" />
 
 ## 中文
 
@@ -74,10 +80,16 @@ This photograph was previously catalogued on the [Zhaoxiang Zhou page](/family/z
 
 **1982年11月1日辞世，享年61岁** &mdash; 距女儿李恂与[周凌](/family/ling-zhou/)结婚（1982年9月18日）仅六周，距外孙女周丽婕出生尚有一年多。终未能见到外孙女。
 
-### 女儿回忆（2026年）
+### 回忆我的父亲 &mdash; 女儿手记（2026年7月）
 
-2026年7月，女儿[李恂](/family/xun-li/)（周丽婕之母）写下对他的回忆，节录于下（全文见[其页面](/family/xun-li/)）：
+2026年7月，女儿[李恂](/family/xun-li/)（周丽婕之母）写下对父亲的回忆。因全文以追忆他为主，此处照录全篇（[其本人页面](/family/xun-li/)亦载此文）：
 
-> 我的父亲是个性格耿直、很有才华的人，写得一手好字，聪明而有智慧。小时候，不管谁家有事，都愿意来找他商量，他也总能帮别人找到解决的办法。后来他生病偏瘫，却凭着坚强的毅力坚持康复锻炼：右手不能写字，就用左手重新学写字；每天还跟着收音机学日语。这些事，都在我的记忆中留下了深刻的印象。他教育我们做人要正直，待人接物要有礼貌，要多学习&mdash;&mdash;只有具备一技之长，才能在这世上立足谋生。
+> 我的父亲是个性格耿直、很有才华的人，写得一手好字，聪明而有智慧。我记得小时候，不管谁家有事，都愿意来找他商量，他也总能帮别人找到解决的办法。母亲则热情好客，凡是来的客人，都以好菜好饭招待。所以家里总是亲戚朋友往来不断，我就是在这样温暖的环境中长大成人。
+>
+> 父亲从小教育我们：做人要正直，待人接物要有礼貌，要多学习&mdash;&mdash;人只有具备一技之长，才能在这世上立足谋生。后来他生病了，偏瘫在身，却凭着坚强的毅力坚持康复锻炼。右手不能写字，他就用左手重新学写字；每天还跟着收音机学日语。这些事，都在我的记忆中留下了深刻的印象。
+>
+> 后来他再次病倒，这一次很严重（贲门癌&mdash;&mdash;胃的贲门部，即胃的上端入口）。在父亲的影响下，我立志要好好学习，做一个像他那样有学识的人。只是我们这一代生不逢时，赶上文化大革命，始终没能上一所正规的四年制大学。后来，我一边工作一边完成了继续教育的学业。所以在我有了孩子以后，心里便默默立下心愿：一定要让孩子接受最好的教育，以弥补我当年的缺憾，也不辜负父辈的期望。如今，孩子能够用所学回馈社会，是我最大的欣慰&mdash;&mdash;她以自己的学识，投身[社会慈善事业](https://zhoueesleyfoundation.com)。
+>
+> *&mdash; 2026年7月*
 
 > *注：除姓氏外，人名汉字均为推测，已由Lijie之母于2026年6月确认。*
