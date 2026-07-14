@@ -18,7 +18,9 @@ summary: "Father of Peggy McMaster Eesley (Chuck's grandmother); civil engineer.
 
 Robert Thompson McMaster was born in **1866** to [Gilbert Clement McMaster](/family/gilbert-clement-mcmaster/) and [Margaret Thompson McMaster](/family/margaret-thompson-mcmaster/), one of twin sons. His twin brother, **[Erasmus Darwin McMaster](/family/erasmus-darwin-mcmaster/)**, died young of a weakened heart. Robert carried the same condition and **lived with it until age 55**, dying in **1919**.
 
-Two photographs of him survive in the family archive &mdash; he appears twice in Maggie Eesley's *Four Generations* deck. He was, per the family memory recorded on his daughter Peggy's page, a **civil engineer**.
+Two photographs of him survive in the family archive &mdash; he appears twice in Maggie Eesley's *Four Generations* deck. He was, per the family memory recorded on his daughter Peggy's page, a **civil engineer**. The two frames bracket his life: the railroad-survey portrait of him as a working engineer (shown above) and, at the other end, the cabinet card below of him as a small boy of three.
+
+![Robert Thompson McMaster at age three, 1869 &mdash; a cabinet card by the Pittsburgh photographer B.&thinsp;L.&thinsp;H. Dabbs, the boy in pants, an overskirt, and high laced boots. Inscribed on the back &ldquo;Grandfather McMaster (Peggy's father about 1869).&rdquo; From Maggie Eesley's *Four Generations* deck (ID RTM001); provenance Peggy McMaster Eesley.](../../assets/family/maggie-deck/robert-thompson-mcmaster-age-three-1869.jpeg)
 
 He married **[Alice Anderson McMaster](/family/alice-anderson-mcmaster/)** (1871&ndash;1961), daughter of [Reverend Abraham Ramsey Anderson](/family/abraham-ramsey-anderson/) the Presbyterian minister. Their children included:
 
