@@ -1,21 +1,33 @@
 ---
-name: "Eva (Schmidt?) Schlicher"
-aka: "the Schlicher mother — name unconfirmed"
+name: "Eva (Schmidt) Schlicher"
+aka: "Eva Schmidt, maiden"
 line: maternal
 generation: 2
+birth:
+  date: "1837-12-29"
+  place: "Bavaria, Germany"
+death:
+  date: "1915-10-24"
+parents:
+  - john-jacob-schmidt
+  - eva-barbara-bourtine
 spouses:
   - theobald-david-schlicher
 children:
   - flora-schlicher-wildermuth
   - emma-schlicher
 status: sketch
-summary: "Wife of Theobald 'David' Schlicher and mother of the six Schlicher children of Marietta, Ohio — including Flora Schlicher Wildermuth and Emma Schlicher. Her given name is unresolved: Dale Eesley's GEDCOM family record (@F56@) names Flora's mother as 'Eva Schmidt,' but the same record appears in a transcription tangle (Eva Schmidt is also recorded elsewhere as Charles Daniel Wildermuth's wife at @I145@), so the identification is not confirmed."
+summary: "The Schlicher mother — now confirmed as Eva Schmidt, daughter of the Bavarian farmer John Jacob Schmidt. Born 29 December 1837 in Bavaria; came to Washington County, Ohio with her family as a girl; married Theobald David Schlicher at Marietta on 20 January 1861; mother of Flora Schlicher Wildermuth, Emma Schlicher, and four sons. Died 24 October 1915. Chuck's maternal ancestor on the Schlicher line."
 ---
 
-This is the **mother of the Schlicher children** — wife of **[Theobald "David" Schlicher](/family/theobald-david-schlicher/)** and mother of [Flora](/family/flora-schlicher-wildermuth/), [Emma](/family/emma-schlicher/), and their four brothers (George, Daniel, David F, and Edward).
+This is the **mother of the Schlicher children** &mdash; wife of **[Theobald "David" Schlicher](/family/theobald-david-schlicher/)** and mother of [Flora](/family/flora-schlicher-wildermuth/), [Emma](/family/emma-schlicher/), and their four brothers (George, Daniel, David F, and Edward).
 
-**Her given name is not settled.** Dale Eesley's GEDCOM family record (@F56@) names Flora's mother as **"Eva Schmidt"** — but the same "Eva Schmidt" is also recorded elsewhere in the tree as Charles Daniel Wildermuth's wife (@I145@). That overlap looks like a reused record or a transcription tangle in the GEDCOM, so the name is carried here only tentatively. This page exists chiefly so the family tree connects; the mother's confirmed name is open research.
+## Her name is now settled: Eva Schmidt
 
-> *Sketch — placeholder for an unconfirmed ancestor. Name pending resolution of the GEDCOM tangle noted on [Emma Schlicher](/family/emma-schlicher/)'s page.*
+An earlier version of this page carried her name only tentatively, because Dale Eesley's GEDCOM family record (@F56@) named Flora's mother as "Eva Schmidt" while another "Eva Schmidt" appeared elsewhere in the tree &mdash; a transcription tangle that left the identification unconfirmed.
 
-> *Source: Dale Eesley / FamilySearch — @F56@ family record and @I145@ (see [Emma Schlicher](/family/emma-schlicher/) for the full note on the tangle).*
+The **[Schmidt family-history sheet and 1899 obituary](/family/john-jacob-schmidt/)** in Chuck's keeping resolve it independently. Eva Schmidt was the daughter of the Bavarian farmer **[John Jacob Schmidt](/family/john-jacob-schmidt/)** (1817&ndash;1899) and **[Eva Barbara (Bourtine) Schmidt](/family/eva-barbara-bourtine/)**; she was **born 29 December 1837 in Bavaria**, came with her family to Washington County, Ohio in the late 1840s, **married Theobald David Schlicher on 20 January 1861 at Marietta**, and **died 24 October 1915**. Her father spent his last year in her and David's Greene Street home and died there in January 1899. That documentary chain confirms she is the Schlicher mother, and the GEDCOM tangle can be set aside.
+
+She is Chuck's ancestor on the Schlicher line: Eva &rarr; [Flora Schlicher Wildermuth](/family/flora-schlicher-wildermuth/) &rarr; [Earl Adam Wildermuth](/family/earl-a-wildermuth/) &rarr; [Robert Earl Wildermuth](/family/robert-earl-wildermuth/) &rarr; [Terrie](/family/terrie-lee-eesley/) &rarr; Chuck.
+
+> *Sources: family-history sheet "John Jacob Schmidt" and the transcribed 26 January 1899 *Daily Register* obituary (Chuck's keeping), which name Eva (Schmidt) Schlicher with her birth (29 December 1837), death (24 October 1915), and 20 January 1861 Marietta marriage; [Eesley/Wildermuth GEDCOM tree](/docs/dale-eesley-familysearch-tree/) family record @F56@.*
