@@ -40,13 +40,13 @@ He married **[Bessie M. Hill](/family/bessie-hill-davis/)** on **29 May 1923** (
 - **[Betty Jean Davis](/family/betty-davis/)** (b. 16 March 1926; m. Norman Wolfe, of Marietta)
 - **[William Harvey Davis Sr.](/family/william-harvey-davis-sr/)** (b. 20 August 1941) &mdash; the *"son, William H. of Westfield, Ind."* of the obituary
 
-## Homer with a small boy, c. 1944-1945 — best-guess identification
+## Homer with his son William Harvey Davis Sr., c. 1944-1945
 
 Homer kneels in this snapshot &mdash; in a knit sweater and tie, on a driveway in front of a two-story clapboard house with a smaller white outbuilding behind. A small boy of about three or four sits on his knee in a winter coat. The composition reads as **mid-1940s** by clothing and photographic style.
 
-![Homer Davis (tentative — see below) with a small boy on his knee, c. 1944-1945. From Chuck's keeping.](../../assets/family/originals/homer-davis-with-w-h-davis-sr-c1944-tentative.jpeg)
+![Homer Davis with his son William Harvey Davis Sr. on his knee, c. 1944-1945. From Chuck's keeping.](../../assets/family/originals/homer-davis-with-w-h-davis-sr-c1944-tentative.jpeg)
 
-The best-guess identification is **Homer with his son [William Harvey Davis Sr.](/family/william-harvey-davis-sr/)** (b. 20 August 1941). The boy's age (~3-4) puts the photograph at **c. 1944-1945**, when Homer would have been **44-45**. The house behind reads as the Waterford-area Davis family home where Homer was raising his children. This identification is **not certain** &mdash; the man could also plausibly be a son-in-law (Robert Earl Wildermuth with one of his children, or Jack Murdock with one of Mary's), but the closer-cropped facial structure most resembles the later Homer photographs in this archive.
+**Chuck confirms (July 2026)** that this is **Homer with his son [William Harvey Davis Sr.](/family/william-harvey-davis-sr/)** (b. 20 August 1941). The boy's age (~3&ndash;4) places the photograph at **c. 1944&ndash;1945**, when Homer would have been about 44&ndash;45, at the Waterford-area Davis family home where he raised his children.
 
 ## Homer with his daughters Betty and Dorothy in a hilly pasture, c. 1944-1948
 
