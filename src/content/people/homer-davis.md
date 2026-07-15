@@ -33,11 +33,12 @@ The frame is, by date, the **earliest photograph of any of Chuck's maternal-line
 
 At the time of Dorothy's birth on **24 February 1925**, Homer was twenty-five, working as a **truck driver** out of Waterford, Washington County, Ohio. His [1982 obituary](/docs/homer-davis-obituary-1982/) records that he later went on to a long career at the **Standard Oil Company of Ohio** &mdash; the transition from independent truck driver to Standard Oil employee likely tracks the 1920s-1930s consolidation of the Ohio petroleum-distribution industry into the regional Standard Oil subsidiary.
 
-He married **[Bessie M. Hill](/family/bessie-hill-davis/)** at some date before the 1923 birth of their first daughter Mary. The three daughters together:
+He married **[Bessie M. Hill](/family/bessie-hill-davis/)** on **29 May 1923** (per his [1982 obituary](/docs/homer-davis-obituary-1982/)); their first child, Mary Louise, followed in January 1924. Bessie died **29 May 1950 &mdash; on their 27th wedding anniversary, to the day**. Homer and Bessie's four children:
 
-- **Mary Davis** (b. ~1923)
-- **[Dorothy Marie Davis](/family/dorothy-davis-wildermuth/)** (b. 24 February 1925)
-- **Betty Davis** (b. ~1926)
+- **[Mary Louise Davis](/family/mary-louise-davis-murdock/)** (b. January 1924; m. Jack Murdock, of Twenty-Nine Palms, California)
+- **[Dorothy Marie Davis](/family/dorothy-davis-wildermuth/)** (b. 24 February 1925; m. [Robert Earl Wildermuth](/family/robert-earl-wildermuth/)) &mdash; Chuck's grandmother
+- **[Betty Jean Davis](/family/betty-davis/)** (b. 16 March 1926; m. Norman Wolfe, of Marietta)
+- **[William Harvey Davis Sr.](/family/william-harvey-davis-sr/)** (b. 20 August 1941) &mdash; the *"son, William H. of Westfield, Ind."* of the obituary
 
 ## Homer with a small boy, c. 1944-1945 — best-guess identification
 
@@ -47,13 +48,13 @@ Homer kneels in this snapshot &mdash; in a knit sweater and tie, on a driveway i
 
 The best-guess identification is **Homer with his son [William Harvey Davis Sr.](/family/william-harvey-davis-sr/)** (b. 20 August 1941). The boy's age (~3-4) puts the photograph at **c. 1944-1945**, when Homer would have been **44-45**. The house behind reads as the Waterford-area Davis family home where Homer was raising his children. This identification is **not certain** &mdash; the man could also plausibly be a son-in-law (Robert Earl Wildermuth with one of his children, or Jack Murdock with one of Mary's), but the closer-cropped facial structure most resembles the later Homer photographs in this archive.
 
-## Homer with two of his daughters in a hilly pasture, c. 1944-1948 — best-guess identification
+## Homer with his daughters Betty and Dorothy in a hilly pasture, c. 1944-1948
 
 A summer-day pasture snapshot &mdash; rolling hills behind, a fence on the left, a single tree casting shadow on the ground. Homer stands at center in a light suit and fedora, his hands clasped at his front. A young woman in a pleated knee-length light dress stands on his right (the viewer's left); a second young woman in a white blouse and bouquet-print skirt stands on his left.
 
-![Homer Davis with two of his daughters (best-guess: Dorothy and Betty) in the Waterford-area hill country, c. 1944-1948. From Chuck's keeping.](../../assets/family/originals/homer-davis-with-daughters-pasture-c1945-tentative.jpeg)
+![Homer Davis with his daughters Betty Jean (Davis) Wolfe and Dorothy (Davis) Wildermuth in the Waterford-area hill country, c. 1944-1948. From Chuck's keeping.](../../assets/family/originals/homer-davis-with-daughters-pasture-c1945-tentative.jpeg)
 
-The best-guess identification is **Homer flanked by his daughters [Dorothy Marie Davis](/family/dorothy-davis-wildermuth/) (left, b. 24 Feb 1925) and [Betty Jean Davis](/family/betty-davis/) (right, b. 16 March 1926)**, c. 1944-1948. The women's clothing &mdash; the pleated knee-length light dress and the bouquet-print full skirt &mdash; reads as **mid-1940s**, putting Dorothy and Betty at 19-23 and Homer at 44-48. The hilly southeastern Ohio landscape fits the Waterford-Unionville area. The identification is **not certain** &mdash; one of the women could be Mary Davis Murdock (b. ~1923) rather than Dorothy or Betty &mdash; but the height-and-build pairing reads as the two sisters who are within one year of each other (Dorothy + Betty), rather than the elder Mary.
+**Chuck confirms (July 2026)** that this is **Homer with two of his daughters &mdash; "Aunt Betty" [Betty Jean (Davis) Wolfe](/family/betty-davis/) (b. 16 March 1926) and "Grandma Wildermuth" [Dorothy Marie Davis](/family/dorothy-davis-wildermuth/) (b. 24 February 1925), Chuck's grandmother.** Their clothing &mdash; the pleated knee-length light dress and the bouquet-print full skirt &mdash; reads as **mid-1940s**, putting the two sisters (who were born within a year of each other) at about 19&ndash;23 and Homer at 44&ndash;48. The hilly southeastern-Ohio landscape fits the Waterford&ndash;Unionville area where Homer raised his children. It is one of the few photographs in the archive that holds Chuck's grandmother together with her father.
 
 ## Homer in his fifties — a backyard family group, c. 1953-1955
 
@@ -79,6 +80,8 @@ The Waterford family home where Dorothy was born is one of the photographs repro
 
 > *In Unionville, while the parents were away from home, they suffered a tremendous calamity. The house caught fire and burned to the ground. This was a real tragedy, but with the help of friends and neighbors, they recovered, moved into a small shed not damaged in the fire while their parents lived in a poorly insulated one-room garage throughout the cold winter that followed.*
 
-Page is a stub. Homer's parents, his birth date, his marriage date to Bessie, and his death are pending further research.
+## Waterford High, Standard Oil, the Masons, and the Florida years
 
-> *Sources: [Dorothy Marie Davis's birth certificate, 24 February 1925](/docs/wildermuth-fleming-heritage-1990/); [Dorothy Marie Wildermuth funeral program, 13 August 2010](/family/dorothy-davis-wildermuth/).*
+His [1982 obituary](/docs/homer-davis-obituary-1982/) fills in the shape of a full life: he **graduated from Waterford High School with the class of 1919**, worked for the **Standard Oil Company of Ohio**, and was a **Mason (Mt. Moriah Lodge 37 F&AM at Beverly)** and a member of the **Lower Muskingum Historical Society** at Beverly. In later life he and his second wife moved to **Matlacha / Pine Island, Florida**, where he belonged to the Pine Island United Methodist Church. He died at Cape Coral on 13 January 1982, age 81, leaving eleven grandchildren and four great-grandchildren; Masonic services were held at the McCurdy Funeral Home in Beverly.
+
+> *Sources: [Homer Davis obituary, January 1982](/docs/homer-davis-obituary-1982/); [Dorothy Marie Davis's birth certificate, 24 February 1925](/docs/wildermuth-fleming-heritage-1990/); [Dorothy Marie Wildermuth funeral program, 13 August 2010](/family/dorothy-davis-wildermuth/); [Eesley/Wildermuth GEDCOM tree](/docs/dale-eesley-familysearch-tree/).*
