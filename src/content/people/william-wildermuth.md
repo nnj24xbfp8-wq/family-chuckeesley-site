@@ -41,7 +41,7 @@ William Clifford and Flora married **29 December 1886 in Washington County, Ohio
 - **[Margaret Zelma Wildermuth](/family/margaret-zelma-wildermuth/)** (b. 6 November 1891) — moved to California, died Los Angeles in 1943.
 - **[Emma Wildermuth](/family/emma-wildermuth/)** (b. 3 October 1893) — stayed in Marietta, died there 1958.
 - **William Wildermuth** (b. 3 April 1896) — second son. Visible behind his father in the **[c. 1915–1918 four-person family portrait](/archive/william-wildermuth-four-person-family-portrait/)** at about age 19.
-- **[Earl Adam Wildermuth](/family/earl-a-wildermuth/)** (b. 6 October 1899) — **Chuck's great-grandfather**, the father of Robert Earl Wildermuth. Visible as the younger boy in the four-person portrait at about age 16. Married Sadye Irene Fleming in 1921 and produced the Marietta-Ohio Wildermuth line that runs to Robert Earl, Terrie, and Chuck.
+- **[Earl Adam Wildermuth](/family/earl-a-wildermuth/)** (b. 6 October 1899) — **Chuck's great-grandfather**, the father of Robert Earl Wildermuth. Visible as the younger boy in the four-person portrait at about age 16. Married Sadye Irene Fleming in 1920 and produced the Marietta-Ohio Wildermuth line that runs to Robert Earl, Terrie, and Chuck.
 - **Pearl Wildermuth** (b. 5 October 1899) — Earl Adam's near-twin, just one day apart in birth.
 - **George D Wildermuth** (b. 30 October 1902) — youngest son.
 - **Blanche Wildermuth** — date not yet documented; the youngest.
