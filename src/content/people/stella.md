@@ -17,7 +17,99 @@ spouses:
 summary: "Born in Honolulu on 5 October 1925 to Koon Hung Sunn and Mabel Lee Sunn — a Chinese-American Hawaiian family. As a teenager during the Second World War, brought into the Eesley household in Bexley, Ohio by Charles Leonard Eesley to keep her clear of the West Coast Japanese-American internment, and (in cousin Roberta's reconstruction) perhaps to fill a household made suddenly emptier by Lyle Eesley's recent death. She stayed in the family from then on. Married Dr. Ted Wah Sing Chong; mother of Sue Lin and Glenn. Died February 15, 1971, age 45."
 ---
 
-<p class="not-prose my-4 p-3 border-l-4 border-rule bg-ink/5 text-sm"><strong>📖 本页含中文版本 — <a href="#zh">点此跳至中文 ↓</a></strong> &nbsp;·&nbsp; <em>This page has a Chinese version below.</em></p>
+<p class="not-prose my-4 p-3 border-l-4 border-rule bg-ink/5 text-sm"><strong>📖 English version below — <a href="#en">Jump to English ↓</a></strong> &nbsp;·&nbsp; <em>本页中文在上，英文见下方。</em></p>
+
+<a id="zh"></a>
+
+**斯特拉·埃莱恩·孙·张 (Stella Elaine Sunn Chong)** &mdash; 这一家族档案中**唯一一位华裔成员**（除了Lijie的家人之外）。她不是Eesley家族的血亲，但成为了这个家族的一员 &mdash; 1942年战争年代被Chuck的曾祖父[Charles Leonard Eesley](/family/charles-leonard-eesley/)接到俄亥俄州Bexley的家中收留，从此成为家族永久的一员。她的故事是本档案"血缘之外亦为家人"这一主题最清晰的一例。
+
+### 出生与家庭
+
+**1925年10月5日生于夏威夷领地檀香山** &mdash; 当时夏威夷尚未成为美国的州（1959年方加入联邦）。父亲为[Koon Hung Sunn (孙姓，名拼音Koon Hung)](/family/koon-hung-sunn/)，约1898年生于檀香山；母亲为[Mabel Lee Sunn (李姓出嫁孙姓)](/family/mabel-lee-sunn/)，约1900年生于美国本土。**双亲皆为夏威夷出生的华裔**，属于自19世纪中叶起即在夏威夷扎根的华人社群。
+
+1940年人口普查时，孙家居住于瓦胡岛第五选区。
+
+### 家族口述记忆
+
+2019年7月家族邮件交流中，三位家族成员回忆了Stella：
+
+**[Maggie姑姑 (Margaret Eesley)](/family/margaret-maggie-eesley/)** &mdash; Will Eesley的小女儿，Chuck的姑姑：
+
+> *"我10、11岁时去看过Stella和Ted。他们是华人，不是日本人。爷爷对他们非常保护。"*
+
+**[Jeanne姑姑 (Jeanne Eesley Kamiab)](/family/jeanne-eesley-kamiab/)** &mdash; Will的长女：
+
+> *"五十年后我还记得他们的名字，说明他们对我很重要。我们绕道去他们东海岸的家里探望。Stella招待我们吃饼干，我因为吃了最后一块没给还没下班的Ted留着，被骂了。这块饼干大概就是我至今还记得这次探访的原因。"*
+
+**[Roberta堂姐 (Roberta Burnes Walker)](/family/roberta-burnes/)** &mdash; Chuck的堂姑：
+
+> *"Stella对我来说是个谜。没有一个还活着的人确切记得她是怎么进入这个家的。她可能是在Lyle牺牲之后才出现的……我想这是有可能的。妈妈说Stella一直住在Eesley家在Bexley的房子里，直到五十年代某个时候。当Stella离开后，其他Eesley孩子都已长大成人各自独立。爷爷因此陷入深深的抑郁。当七十年代初爷爷去世时，我们收到了来自夏威夷的鲜花，应该是Stella一家送的。"*
+
+### 火鹤花的记忆 — 1972年的纪念花
+
+Roberta在2026年6月的邮件中补充了花的具体品种：
+
+> *"我清楚记得他们为爷爷的追思会送来的夏威夷鲜花。我从未见过那样的花 &mdash; 我想是叫**火鹤花** (Anthurium)。"*
+
+火鹤花 &mdash; 心形热带花朵，鲜红或粉红色，中央有黄色佛焰苞，原产中南美洲但二十世纪在夏威夷广泛栽培，是夏威夷花艺的标志。1972年10月，9岁的Roberta在俄亥俄州中部第一次见到这种花。张氏一家从太平洋彼岸寄来这种他们夏威夷新家最熟悉的花 &mdash; 给Bexley的丧礼。**Chuck三十年后才会见到张家人，但在那之前，他们已经成为俄亥俄州中部花艺记忆中永恒的一部分。**
+
+### 最合理的重建 &mdash; 檀香山 → 马尼拉 → 格里普斯霍尔姆号 → Bexley
+
+Stella约17、18岁（即1942-43年间）到达Eesley家的时间窗口，以及家族口述中"从马尼拉乘船而来"的线索，受到太平洋战争初期实际可能性的严格制约。最合理的重建：
+
+**第一段 — 战前从檀香山到马尼拉。** 像孙家这样的夏威夷华裔家庭，往往与**马尼拉规模庞大的华人侨居社群**有家族、学校或生意上的联系。15、16岁的Stella1940-41年间在马尼拉的最合理原因，是探亲、求学（天主教学校或华语学校）或访友。战前从檀香山到马尼拉的航程在那时并不罕见。
+
+**陷阱 — 1941年12月。** 日本于**1941年12月8日**（与珍珠港同时）入侵菲律宾。1942年4月巴丹陷落；5月科雷希多岛陷落。马尼拉自1942年1月起处于日本占领之下，直到1944年10月麦克阿瑟回归。被困于马尼拉的美国公民 &mdash; 包括持有美国国籍的华裔美国人 &mdash; 被关押在**圣多默斯拘留营** (Santo Tomas Internment Camp)，菲律宾最大的平民拘留所（高峰时约4000人）。若Stella战争爆发时在马尼拉，这里最有可能是她度过1942年部分时光的地方。
+
+**出口 &mdash; 格里普斯霍尔姆号 (MS Gripsholm) 交换航行。** 1942年和1943年，瑞典籍中立邮轮**[MS Gripsholm](https://en.wikipedia.org/wiki/MS_Gripsholm_(1924))**进行了两次美国平民交换航行，将被日本扣押的美国公民送回美国。第一次1942年6-8月在莫桑比克洛伦索马克斯（今马普托）交换；第二次1943年9-12月在葡属印度果阿交换。两次航行都将美国平民送回**纽约** &mdash; 包括数百名曾被关押在马尼拉、上海等沦陷地的美国公民。1942或1943年的格里普斯霍尔姆号航行，与Stella到达Bexley的时间窗口完全吻合。
+
+**安置至Bexley。** 1942-43年间，美国新教和天主教救援组织将从亚洲返回的美国平民安置到美国寄宿家庭。**Charles Leonard Eesley** &mdash; Bexley著名的面粉厂主，1942年7月刚因儿子[Lyle](/family/lyle-eesley/)在菲律宾[Cabanatuan战俘营牺牲](/family/lyle-eesley/)而失去亲人，自己的成年子女均已离家 &mdash; 是显见而乐意接纳的寄主。无论是通过**教会的难民安置网络**，还是通过**Lyle战俘圈的人脉**（同营战俘的家属、红十字会工作人员、刚从马尼拉返回的美国人），亦或其他途径，从太平洋返回的美国平民的安置机制在那几年是真实而活跃的。
+
+整条链 &mdash; **檀香山 → 马尼拉 → 圣多默斯拘留营 → MS Gripsholm 交换航行 → 纽约 → Bexley** &mdash; 在地理、时间、国籍身份及家族口述"从马尼拉乘船而来"等所有维度上都吻合。这是目前所有证据最为支持的单一重建。
+
+**但这仍是一个假设，而非定论。** 唯一最具决定性的未解读资料是[Roberta堂姐收藏的Charles Leonard 1940年代信件](/family/roberta-burnes/) &mdash; 那个时期Charles Leonard亲笔写下的原始通信。若这些信中提及任何安置机构、Gripsholm船员、马尼拉撤离的美国平民或Stella的名字进入Eesley家的具体渠道，就能解开这段故事的开放环节。读懂这些信件是前进之路。
+
+### 战后
+
+战后Stella嫁给了**[张华星医生 (Dr. Ted Wah Sing Chong)](/family/ted-chong/)**，也是檀香山出生。育有两个孩子：**[SueLynn 张](/family/suelynn-chong/)** (Sue Lin) 和 **[Glenn 张](/family/glenn-chong/)**。最终定居费城地区。Jeanne姑姑和Maggie姑姑均在1960年代到东海岸他们家拜访过。张氏夫妇常从夏威夷寄夏威夷豆 (macadamia) 和椰子干罐头回俄亥俄 &mdash; 在那个年代，Eesley家在中西部还买不到这些夏威夷的食物。Stella与Ted后离婚；Ted再娶Janice，直至2013年辞世。
+
+**1971年2月15日逝世，享年45岁。** 葬于新泽西州Burlington郡Moorestown镇的**第一长老会教会墓地**。
+
+她出现在[Charles和Lillie Dale在Bexley家中拍摄的家族合影](/archive/eesley-family-group-portrait-late-1940s/)里 &mdash; 站在Ted身旁，Will叔叔在前排。**从这张照片到她1971年的早逝，标记了她作为Eesley家庭一员的二十五年成年生活。她去世时，已在这个家族里生活了近三十年。**
+
+### Roberta 2026年6月寄来的Stella照片首批 &mdash; 七张
+
+2026年6月Roberta开始整理她收藏的Stella照片，**首批七张照片**横跨Stella成年生活的二十年：
+
+**1. Bradford Bachrach正装影楼肖像 (1940年代末)。** 中性背景下的三分之四光肖像，Stella身着深色绸缎露肩礼服，发型为1940年代末1950年代初流行的波浪卷。底部以金色字签名 *"Bradford Bachrach"* &mdash; 美国二十世纪中叶以高端社交圈与总统肖像闻名的纽约与费城连锁影楼。**Bexley长大的夏威夷裔华人姑娘，被这家与任何Eesley嫁出去的女儿同等级别的高级影楼摄影留念** &mdash; 这本身即说明她在家族中的地位。
+
+**2. Stella草地坐姿，约1942年。** 户外随意肖像，约二十岁，呈现她在Bexley Eesley家庭中**最初一两年**的样貌。
+
+**3. Stella与Charles Leonard在草坪上，1940年代末。** 两人都笑容灿烂；Charles Leonard用手揽着她肩膀。**家族档案中Charles Leonard与Stella合影最亲切的一张** &mdash; 是Stella作为"被接纳的孙女"角色的视觉佐证。
+
+**4. Stella、不知名朋友与Charles Leonard，1940年代末。** Bexley屋前三人合影：Stella、另一位华裔美国女子（身份不明，可能为Sunn家族亲戚、Chong家族联系人或Stella带回家的战时撤离友人）、Charles Leonard。两位年轻女子双臂搂着Charles Leonard肩膀，三人都笑。
+
+**5. Ted Chong海军礼服与Stella在华盛顿特区潮汐湖樱花树下，1945年4月10日。** 战时肖像，Ted身着美国海军礼服。底面盖戳为KISCO Certified Photo Service 1945年4月10日。**Ted的海军服役是本档案此前未记录的新生平事实。**
+
+**6. Stella、Ted与两个孩子的正式家庭合影，约1950年代中期。** Stella身着**中式锦缎旗袍**，Ted身着白色晚礼服。两个孩子 &mdash; 较大的女孩**SueLynn**身着中式锦缎短装，膝上的幼儿可能是**Glenn**。背景为雕花木隔与六角彩绘玻璃窗 &mdash; 像是1950年代中式餐馆或华人社团宴会厅的正式场所。
+
+**7. (头条照片) Charles Leonard + Lillie Dale + Stella 在檀香山，1953年 &mdash; 五十周年金婚纪念。** 这是本批最重要的照片。**Charles Leonard 与 Lillie Dale 戴着夏威夷迎宾花环 (lei) 站在船甲板上，Stella立于两人之间。** 照片背面有Lillie Dale亲笔写的注解："Lilly 戴着这条花环在檀香山，是我们结婚50周年时拍的。" 这是**他们1953年专程乘船到夏威夷与Stella和Ted夫妇庆祝金婚纪念**的纪实。
+
+**这趟1953年金婚纪念赴夏威夷的旅行，是本档案中关于Charles Leonard与Lillie Dale一段全新的重要事实。** 他们[1903年9月9日在俄亥俄州Harrisburg卫理公会教堂](/docs/lillie-dale-charles-leonard-wedding-invitation-1903/)结婚，五十年后，1953年，他们乘船至夏威夷与Stella和Ted夫妇共度纪念日 &mdash; 这位在战时被接进家门的"养女"，连同她的丈夫。**1942年战时安置所建立的"Bexley-檀香山"纽带，到1953年已牢固到金婚纪念本身就在那里举办。** Charles Leonard 与 Lillie Dale 颈上的花环正是Stella和Ted在码头迎接他们时戴上的。
+
+这张照片是Eesley家族档案中最珍贵的单一影像之一 &mdash; 是[第七主线（"以小事、日常、不张扬的方式坚守"）](/docs/family-threads/)和整个[Stella叙事](/family/stella/)的视觉总结。
+
+### 与家族主线的连结
+
+Stella是[家族主线综合论](/docs/family-threads/)中**第七主线（"以小事、日常、不张扬的方式坚守"）**的标志性范例。Charles Leonard Eesley战时**把她从夏威夷接到Bexley家中**以保护她免于西海岸日裔美国人集中营 &mdash; 以及她此后留下、嫁给Ted、养育子女、**"几十年里一直从夏威夷寄夏威夷豆回来"** &mdash; 是本档案中**"血缘之外亦为家人"** (kinship as practice rather than identity) 最清晰的单一实例。**1953年金婚纪念在檀香山举行**，是这一主线的视觉终章。她也是**第九主线（"为了'下一步'而迁徙"）**中战时迁徙的代表 &mdash; 一次为了"下一步最安全的版本"而进行的迁徙。
+
+> *注：除孙、张姓氏外，相关人名汉字均为推测，待家族确认。*
+
+<hr class="my-8 border-rule" />
+
+<a id="en"></a>
+
+## English
 
 The documented record (FamilySearch ID **L614-Z2P**, seven sources): **Stella Elaine Sunn**, born October 5, 1925, Honolulu, Oahu, Territory of Hawaii. Her parents were **Koon Hung Sunn** (b. ~1898, Honolulu) and **Mabel Lee Sunn** (b. ~1900, USA) — both Hawaii-born Chinese-Americans. In 1940 the Sunns were living in Representative District 5, Oahu. Stella died **February 15, 1971**, age 45, and is buried in First Presbyterian Church Cemetery in Moorestown Township, Burlington County, New Jersey.
 
@@ -182,93 +274,3 @@ On the larger history Stella's wartime sits inside:
 ## See also — family threads
 
 Stella is the **canonical anchor for Thread #7 (Showing up — in small, daily, unglamorous ways)** in the [**Family threads**](/docs/family-threads/) synthesis essay. The wartime decision by [Charles Leonard Eesley](/family/charles-leonard-eesley/) to **bring her from Hawaii into the Bexley household** to keep her clear of the West Coast internment camps — and her staying, marrying Ted, raising a family, *"sending macadamia nuts back from Hawaii for years"* — is the archive's clearest single instance of **kinship as a practice rather than an identity**. She is also referenced in **Thread #9 (Crossing for what's next)** as a wartime crossing made *for the safest version of "what's next."*
-
----
-
-<a id="zh"></a>
-
-## 中文
-
-**斯特拉·埃莱恩·孙·张 (Stella Elaine Sunn Chong)** &mdash; 这一家族档案中**唯一一位华裔成员**（除了Lijie的家人之外）。她不是Eesley家族的血亲，但成为了这个家族的一员 &mdash; 1942年战争年代被Chuck的曾祖父[Charles Leonard Eesley](/family/charles-leonard-eesley/)接到俄亥俄州Bexley的家中收留，从此成为家族永久的一员。她的故事是本档案"血缘之外亦为家人"这一主题最清晰的一例。
-
-### 出生与家庭
-
-**1925年10月5日生于夏威夷领地檀香山** &mdash; 当时夏威夷尚未成为美国的州（1959年方加入联邦）。父亲为[Koon Hung Sunn (孙姓，名拼音Koon Hung)](/family/koon-hung-sunn/)，约1898年生于檀香山；母亲为[Mabel Lee Sunn (李姓出嫁孙姓)](/family/mabel-lee-sunn/)，约1900年生于美国本土。**双亲皆为夏威夷出生的华裔**，属于自19世纪中叶起即在夏威夷扎根的华人社群。
-
-1940年人口普查时，孙家居住于瓦胡岛第五选区。
-
-### 家族口述记忆
-
-2019年7月家族邮件交流中，三位家族成员回忆了Stella：
-
-**[Maggie姑姑 (Margaret Eesley)](/family/margaret-maggie-eesley/)** &mdash; Will Eesley的小女儿，Chuck的姑姑：
-
-> *"我10、11岁时去看过Stella和Ted。他们是华人，不是日本人。爷爷对他们非常保护。"*
-
-**[Jeanne姑姑 (Jeanne Eesley Kamiab)](/family/jeanne-eesley-kamiab/)** &mdash; Will的长女：
-
-> *"五十年后我还记得他们的名字，说明他们对我很重要。我们绕道去他们东海岸的家里探望。Stella招待我们吃饼干，我因为吃了最后一块没给还没下班的Ted留着，被骂了。这块饼干大概就是我至今还记得这次探访的原因。"*
-
-**[Roberta堂姐 (Roberta Burnes Walker)](/family/roberta-burnes/)** &mdash; Chuck的堂姑：
-
-> *"Stella对我来说是个谜。没有一个还活着的人确切记得她是怎么进入这个家的。她可能是在Lyle牺牲之后才出现的……我想这是有可能的。妈妈说Stella一直住在Eesley家在Bexley的房子里，直到五十年代某个时候。当Stella离开后，其他Eesley孩子都已长大成人各自独立。爷爷因此陷入深深的抑郁。当七十年代初爷爷去世时，我们收到了来自夏威夷的鲜花，应该是Stella一家送的。"*
-
-### 火鹤花的记忆 — 1972年的纪念花
-
-Roberta在2026年6月的邮件中补充了花的具体品种：
-
-> *"我清楚记得他们为爷爷的追思会送来的夏威夷鲜花。我从未见过那样的花 &mdash; 我想是叫**火鹤花** (Anthurium)。"*
-
-火鹤花 &mdash; 心形热带花朵，鲜红或粉红色，中央有黄色佛焰苞，原产中南美洲但二十世纪在夏威夷广泛栽培，是夏威夷花艺的标志。1972年10月，9岁的Roberta在俄亥俄州中部第一次见到这种花。张氏一家从太平洋彼岸寄来这种他们夏威夷新家最熟悉的花 &mdash; 给Bexley的丧礼。**Chuck三十年后才会见到张家人，但在那之前，他们已经成为俄亥俄州中部花艺记忆中永恒的一部分。**
-
-### 最合理的重建 &mdash; 檀香山 → 马尼拉 → 格里普斯霍尔姆号 → Bexley
-
-Stella约17、18岁（即1942-43年间）到达Eesley家的时间窗口，以及家族口述中"从马尼拉乘船而来"的线索，受到太平洋战争初期实际可能性的严格制约。最合理的重建：
-
-**第一段 — 战前从檀香山到马尼拉。** 像孙家这样的夏威夷华裔家庭，往往与**马尼拉规模庞大的华人侨居社群**有家族、学校或生意上的联系。15、16岁的Stella1940-41年间在马尼拉的最合理原因，是探亲、求学（天主教学校或华语学校）或访友。战前从檀香山到马尼拉的航程在那时并不罕见。
-
-**陷阱 — 1941年12月。** 日本于**1941年12月8日**（与珍珠港同时）入侵菲律宾。1942年4月巴丹陷落；5月科雷希多岛陷落。马尼拉自1942年1月起处于日本占领之下，直到1944年10月麦克阿瑟回归。被困于马尼拉的美国公民 &mdash; 包括持有美国国籍的华裔美国人 &mdash; 被关押在**圣多默斯拘留营** (Santo Tomas Internment Camp)，菲律宾最大的平民拘留所（高峰时约4000人）。若Stella战争爆发时在马尼拉，这里最有可能是她度过1942年部分时光的地方。
-
-**出口 &mdash; 格里普斯霍尔姆号 (MS Gripsholm) 交换航行。** 1942年和1943年，瑞典籍中立邮轮**[MS Gripsholm](https://en.wikipedia.org/wiki/MS_Gripsholm_(1924))**进行了两次美国平民交换航行，将被日本扣押的美国公民送回美国。第一次1942年6-8月在莫桑比克洛伦索马克斯（今马普托）交换；第二次1943年9-12月在葡属印度果阿交换。两次航行都将美国平民送回**纽约** &mdash; 包括数百名曾被关押在马尼拉、上海等沦陷地的美国公民。1942或1943年的格里普斯霍尔姆号航行，与Stella到达Bexley的时间窗口完全吻合。
-
-**安置至Bexley。** 1942-43年间，美国新教和天主教救援组织将从亚洲返回的美国平民安置到美国寄宿家庭。**Charles Leonard Eesley** &mdash; Bexley著名的面粉厂主，1942年7月刚因儿子[Lyle](/family/lyle-eesley/)在菲律宾[Cabanatuan战俘营牺牲](/family/lyle-eesley/)而失去亲人，自己的成年子女均已离家 &mdash; 是显见而乐意接纳的寄主。无论是通过**教会的难民安置网络**，还是通过**Lyle战俘圈的人脉**（同营战俘的家属、红十字会工作人员、刚从马尼拉返回的美国人），亦或其他途径，从太平洋返回的美国平民的安置机制在那几年是真实而活跃的。
-
-整条链 &mdash; **檀香山 → 马尼拉 → 圣多默斯拘留营 → MS Gripsholm 交换航行 → 纽约 → Bexley** &mdash; 在地理、时间、国籍身份及家族口述"从马尼拉乘船而来"等所有维度上都吻合。这是目前所有证据最为支持的单一重建。
-
-**但这仍是一个假设，而非定论。** 唯一最具决定性的未解读资料是[Roberta堂姐收藏的Charles Leonard 1940年代信件](/family/roberta-burnes/) &mdash; 那个时期Charles Leonard亲笔写下的原始通信。若这些信中提及任何安置机构、Gripsholm船员、马尼拉撤离的美国平民或Stella的名字进入Eesley家的具体渠道，就能解开这段故事的开放环节。读懂这些信件是前进之路。
-
-### 战后
-
-战后Stella嫁给了**[张华星医生 (Dr. Ted Wah Sing Chong)](/family/ted-chong/)**，也是檀香山出生。育有两个孩子：**[SueLynn 张](/family/suelynn-chong/)** (Sue Lin) 和 **[Glenn 张](/family/glenn-chong/)**。最终定居费城地区。Jeanne姑姑和Maggie姑姑均在1960年代到东海岸他们家拜访过。张氏夫妇常从夏威夷寄夏威夷豆 (macadamia) 和椰子干罐头回俄亥俄 &mdash; 在那个年代，Eesley家在中西部还买不到这些夏威夷的食物。Stella与Ted后离婚；Ted再娶Janice，直至2013年辞世。
-
-**1971年2月15日逝世，享年45岁。** 葬于新泽西州Burlington郡Moorestown镇的**第一长老会教会墓地**。
-
-她出现在[Charles和Lillie Dale在Bexley家中拍摄的家族合影](/archive/eesley-family-group-portrait-late-1940s/)里 &mdash; 站在Ted身旁，Will叔叔在前排。**从这张照片到她1971年的早逝，标记了她作为Eesley家庭一员的二十五年成年生活。她去世时，已在这个家族里生活了近三十年。**
-
-### Roberta 2026年6月寄来的Stella照片首批 &mdash; 七张
-
-2026年6月Roberta开始整理她收藏的Stella照片，**首批七张照片**横跨Stella成年生活的二十年：
-
-**1. Bradford Bachrach正装影楼肖像 (1940年代末)。** 中性背景下的三分之四光肖像，Stella身着深色绸缎露肩礼服，发型为1940年代末1950年代初流行的波浪卷。底部以金色字签名 *"Bradford Bachrach"* &mdash; 美国二十世纪中叶以高端社交圈与总统肖像闻名的纽约与费城连锁影楼。**Bexley长大的夏威夷裔华人姑娘，被这家与任何Eesley嫁出去的女儿同等级别的高级影楼摄影留念** &mdash; 这本身即说明她在家族中的地位。
-
-**2. Stella草地坐姿，约1942年。** 户外随意肖像，约二十岁，呈现她在Bexley Eesley家庭中**最初一两年**的样貌。
-
-**3. Stella与Charles Leonard在草坪上，1940年代末。** 两人都笑容灿烂；Charles Leonard用手揽着她肩膀。**家族档案中Charles Leonard与Stella合影最亲切的一张** &mdash; 是Stella作为"被接纳的孙女"角色的视觉佐证。
-
-**4. Stella、不知名朋友与Charles Leonard，1940年代末。** Bexley屋前三人合影：Stella、另一位华裔美国女子（身份不明，可能为Sunn家族亲戚、Chong家族联系人或Stella带回家的战时撤离友人）、Charles Leonard。两位年轻女子双臂搂着Charles Leonard肩膀，三人都笑。
-
-**5. Ted Chong海军礼服与Stella在华盛顿特区潮汐湖樱花树下，1945年4月10日。** 战时肖像，Ted身着美国海军礼服。底面盖戳为KISCO Certified Photo Service 1945年4月10日。**Ted的海军服役是本档案此前未记录的新生平事实。**
-
-**6. Stella、Ted与两个孩子的正式家庭合影，约1950年代中期。** Stella身着**中式锦缎旗袍**，Ted身着白色晚礼服。两个孩子 &mdash; 较大的女孩**SueLynn**身着中式锦缎短装，膝上的幼儿可能是**Glenn**。背景为雕花木隔与六角彩绘玻璃窗 &mdash; 像是1950年代中式餐馆或华人社团宴会厅的正式场所。
-
-**7. (头条照片) Charles Leonard + Lillie Dale + Stella 在檀香山，1953年 &mdash; 五十周年金婚纪念。** 这是本批最重要的照片。**Charles Leonard 与 Lillie Dale 戴着夏威夷迎宾花环 (lei) 站在船甲板上，Stella立于两人之间。** 照片背面有Lillie Dale亲笔写的注解："Lilly 戴着这条花环在檀香山，是我们结婚50周年时拍的。" 这是**他们1953年专程乘船到夏威夷与Stella和Ted夫妇庆祝金婚纪念**的纪实。
-
-**这趟1953年金婚纪念赴夏威夷的旅行，是本档案中关于Charles Leonard与Lillie Dale一段全新的重要事实。** 他们[1903年9月9日在俄亥俄州Harrisburg卫理公会教堂](/docs/lillie-dale-charles-leonard-wedding-invitation-1903/)结婚，五十年后，1953年，他们乘船至夏威夷与Stella和Ted夫妇共度纪念日 &mdash; 这位在战时被接进家门的"养女"，连同她的丈夫。**1942年战时安置所建立的"Bexley-檀香山"纽带，到1953年已牢固到金婚纪念本身就在那里举办。** Charles Leonard 与 Lillie Dale 颈上的花环正是Stella和Ted在码头迎接他们时戴上的。
-
-这张照片是Eesley家族档案中最珍贵的单一影像之一 &mdash; 是[第七主线（"以小事、日常、不张扬的方式坚守"）](/docs/family-threads/)和整个[Stella叙事](/family/stella/)的视觉总结。
-
-### 与家族主线的连结
-
-Stella是[家族主线综合论](/docs/family-threads/)中**第七主线（"以小事、日常、不张扬的方式坚守"）**的标志性范例。Charles Leonard Eesley战时**把她从夏威夷接到Bexley家中**以保护她免于西海岸日裔美国人集中营 &mdash; 以及她此后留下、嫁给Ted、养育子女、**"几十年里一直从夏威夷寄夏威夷豆回来"** &mdash; 是本档案中**"血缘之外亦为家人"** (kinship as practice rather than identity) 最清晰的单一实例。**1953年金婚纪念在檀香山举行**，是这一主线的视觉终章。她也是**第九主线（"为了'下一步'而迁徙"）**中战时迁徙的代表 &mdash; 一次为了"下一步最安全的版本"而进行的迁徙。
-
-> *注：除孙、张姓氏外，相关人名汉字均为推测，待家族确认。*

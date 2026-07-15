@@ -15,33 +15,9 @@ spouses:
 summary: "Born in Honolulu on 24 August 1920 to Mr. and Mrs. C.S. Wing; died in Moorestown, NJ on 20 January 2013, age 92. McKinley High School, Honolulu; University of Pennsylvania (BA, MD, graduate medical studies, under the U.S. Naval Reserve program). Lt. Junior Grade, USNR, 1943–45 — including service at Operation Sandstone in the Enewetak Atoll and at Tripler Medical Hospital in Aiea. OB/GYN, first in Honolulu and then for over fifty years in South Jersey. Founded a breast cancer clinic at Zurbrugg Hospital in Riverside, NJ. Married first Stella Sunn (m. ~late 1940s; d. 1971); married second Janice M. Chong; four children. Avid golfer to age 92."
 ---
 
-<p class="not-prose my-4 p-3 border-l-4 border-rule bg-ink/5 text-sm"><strong>📖 本页含中文版本 — <a href="#zh">点此跳至中文 ↓</a></strong> &nbsp;·&nbsp; <em>This page has a Chinese version below.</em></p>
-
-Dr. Ted Wah Sing Chong (FamilySearch **GDG6-3J1**, eleven sources) was born in Honolulu on August 24, 1920 to Mr. and Mrs. C.S. Wing — five years before [Stella Sunn](/family/stella/), in the same city. He attended **McKinley High School** in Honolulu, then went to the U.S. mainland for higher education: undergraduate degree, medical degree, and graduate medical studies all at the **University of Pennsylvania**, with medical school taken under the United States Naval Reserve program.
-
-He was on active duty as a **Lieutenant Junior Grade** in the USNR from 1943 to 1945, serving at **Tripler Medical Hospital in Aiea, Hawaii** and at **Operation Sandstone in the Enewetak Atoll** in the Pacific. After the war he began a private **obstetric and gynecology practice in Honolulu**.
-
-In the years that followed he relocated to **Moorestown, New Jersey**, where he practiced medicine in South Jersey for over fifty years. He served on the clinical faculty of **Thomas Jefferson University** and **Cooper Hospitals**, and at Zurbrugg Hospital in Riverside, NJ, was a **founder of a breast cancer clinic for women** — a notable thing for a male OB/GYN of his generation to have organized.
-
-He was a serious amateur golfer. He carried a single-digit handicap for many years and remained a golfer through age 92. He belonged to the Doctors Golf Association of Philadelphia and the Tavistock Country Club. He kept a garden.
-
-**First marriage** — to [Stella Elaine Sunn](/family/stella/), in the years after the war. Stella died February 15, 1971. They had two children: **[Sue Lin / SueLynn](/family/suelynn-chong/)** and **[Glenn](/family/glenn-chong/)**.
-
-**Second marriage** — to [Janice M. Chong](/family/janice-chong/), who survived him. Two further children, **Jei Lee Freeman** (married Barry Freeman; of Winchester, MA at the time of Ted's death) and **Erica Slavin** (of Nantucket, MA at the time of Ted's death). Grandchildren listed in the obituary as Ryan Chong, Kevin Chong, and Lucy Freeman.
-
-Surviving extended family in 2013 included his sister **Marietta Eng** of Honolulu and sister-in-law **Blanche Chong** of Honolulu.
-
-He appears in the [late-1960s family group portrait](/archive/eesley-family-group-portrait-late-1940s/) standing beside Stella, with Uncle Will in front.
-
-Aunt Jeanne's most durable memory of Ted is a non-memory: he was at work the afternoon she visited Stella and Ted's home on the East Coast, hadn't come home yet, and Jeanne ate the last cookie Stella had set out for him. She was "fussed at" for it. Fifty years later that was the detail that came back when she thought about Stella and Ted &mdash; *"that cookie is probably why I remember the visit."*
-
-> *Sources: [FamilySearch GDG6-3J1](https://www.familysearch.org/en/tree/person/GDG6-3J1); Ted Chong's published obituary (Burlington County Times, January 2013).*
-
----
+<p class="not-prose my-4 p-3 border-l-4 border-rule bg-ink/5 text-sm"><strong>📖 English version below — <a href="#en">Jump to English ↓</a></strong> &nbsp;·&nbsp; <em>本页中文在上，英文见下方。</em></p>
 
 <a id="zh"></a>
-
-## 中文
 
 **张华星医生 (Ted Wah Sing Chong, M.D.)** &mdash; [Stella](/family/stella/) 的丈夫，亦是Eesley家族在战后年代延伸出的华裔分支的核心人物。1920年8月24日生于檀香山 &mdash; 比Stella早五岁，同城出生。他与Stella结合的婚姻，使Eesley家族在1942年战时收留Stella的决定，到了二十世纪中叶有了持续到今天的下一代延续。
 
@@ -71,3 +47,29 @@ Aunt Jeanne's most durable memory of Ted is a non-memory: he was at work the aft
 **2013年1月20日辞世于新泽西州Moorestown市**，享年92岁。
 
 > *注：除张姓外，本页所用人名汉字均为推测，待家族确认。*
+
+<hr class="my-8 border-rule" />
+
+<a id="en"></a>
+
+## English
+
+Dr. Ted Wah Sing Chong (FamilySearch **GDG6-3J1**, eleven sources) was born in Honolulu on August 24, 1920 to Mr. and Mrs. C.S. Wing — five years before [Stella Sunn](/family/stella/), in the same city. He attended **McKinley High School** in Honolulu, then went to the U.S. mainland for higher education: undergraduate degree, medical degree, and graduate medical studies all at the **University of Pennsylvania**, with medical school taken under the United States Naval Reserve program.
+
+He was on active duty as a **Lieutenant Junior Grade** in the USNR from 1943 to 1945, serving at **Tripler Medical Hospital in Aiea, Hawaii** and at **Operation Sandstone in the Enewetak Atoll** in the Pacific. After the war he began a private **obstetric and gynecology practice in Honolulu**.
+
+In the years that followed he relocated to **Moorestown, New Jersey**, where he practiced medicine in South Jersey for over fifty years. He served on the clinical faculty of **Thomas Jefferson University** and **Cooper Hospitals**, and at Zurbrugg Hospital in Riverside, NJ, was a **founder of a breast cancer clinic for women** — a notable thing for a male OB/GYN of his generation to have organized.
+
+He was a serious amateur golfer. He carried a single-digit handicap for many years and remained a golfer through age 92. He belonged to the Doctors Golf Association of Philadelphia and the Tavistock Country Club. He kept a garden.
+
+**First marriage** — to [Stella Elaine Sunn](/family/stella/), in the years after the war. Stella died February 15, 1971. They had two children: **[Sue Lin / SueLynn](/family/suelynn-chong/)** and **[Glenn](/family/glenn-chong/)**.
+
+**Second marriage** — to [Janice M. Chong](/family/janice-chong/), who survived him. Two further children, **Jei Lee Freeman** (married Barry Freeman; of Winchester, MA at the time of Ted's death) and **Erica Slavin** (of Nantucket, MA at the time of Ted's death). Grandchildren listed in the obituary as Ryan Chong, Kevin Chong, and Lucy Freeman.
+
+Surviving extended family in 2013 included his sister **Marietta Eng** of Honolulu and sister-in-law **Blanche Chong** of Honolulu.
+
+He appears in the [late-1960s family group portrait](/archive/eesley-family-group-portrait-late-1940s/) standing beside Stella, with Uncle Will in front.
+
+Aunt Jeanne's most durable memory of Ted is a non-memory: he was at work the afternoon she visited Stella and Ted's home on the East Coast, hadn't come home yet, and Jeanne ate the last cookie Stella had set out for him. She was "fussed at" for it. Fifty years later that was the detail that came back when she thought about Stella and Ted &mdash; *"that cookie is probably why I remember the visit."*
+
+> *Sources: [FamilySearch GDG6-3J1](https://www.familysearch.org/en/tree/person/GDG6-3J1); Ted Chong's published obituary (Burlington County Times, January 2013).*
