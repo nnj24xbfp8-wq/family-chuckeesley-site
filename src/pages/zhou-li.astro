@@ -1,0 +1,132 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const allPeople = await getCollection('people');
+
+// Group by relationship to Lijie for the English-language listing.
+// We group by id since the names themselves are mixed-language (Chinese + pinyin).
+const groups: Record<string, string[]> = {
+  'Lijie herself': ['lijie-zhou'],
+  "Lijie's parents": ['ling-zhou', 'xun-li'],
+  'Grandparents': ['zhaoxiang-zhou', 'yunzhe-sun', 'zhongchu-li', 'yaozhen-shang'],
+  'Aunts and uncles': ['quan-zhou', 'ai-qin-zhou', 'ai-hua-zhou', 'mengling-li', 'bo-li'],
+  'Great-grandparents': ['maoli-zhou', 'huancai-pang', 'fengting-li', 'rongjing-qiu', 'dechen-shang', 'chune-tan'],
+  'Great-great-grandparents': ['huiting-zhou', 'leng-zhou'],
+  'Great-aunts and great-uncles': [
+    'zhaozheng-zhou', 'xiuzhen-zhou',
+    'yaoxiang-shang', 'yaofu-shang', 'yaoli-shang',
+    'yunhua-li', 'chengwu-li', 'yunying-li',
+  ],
+};
+
+const peopleById = new Map(allPeople.map((p) => [p.id, p]));
+---
+<BaseLayout title="Zhou & Li Family of Qingdao — Lijie's side" description="An English guide to the Zhou and Li (Qingdao) side of the Eesley·Wildermuth·Zhou·Li family archive — Lijie's family, for English-reading relatives." lang="en">
+  <section class="prose max-w-prose">
+    <p class="not-prose my-4 p-3 border-l-4 border-rule bg-ink/5 text-sm"><strong>📖 中文版 — <a href="/zh/">点此查看中文导览 →</a></strong> &nbsp;·&nbsp; <em>This is the English guide to Lijie's family; a Chinese-first version is at <a href="/zh/">/zh/</a>.</em></p>
+
+    <h1 class="text-4xl font-serif mb-2">Eesley · Wildermuth · Zhou · Li</h1>
+    <p class="text-ink/70 italic mt-0">
+      Lijie's family of Qingdao, Shandong &mdash; an English guide.
+    </p>
+
+    <p>
+      Welcome to <strong><a href="/family/lijie-zhou/">Lijie</a>'s side</strong> of the family archive. This archive was built together by <strong><a href="/family/charles-eric-eesley/">Chuck Eesley</a></strong> and <strong><a href="/family/lijie-zhou/">Lijie Zhou 周丽婕</a></strong>. It records Chuck's American families &mdash; the <strong>Eesley</strong> and <strong>Wildermuth</strong> lines &mdash; alongside Lijie's family of Qingdao: her father's <strong>Zhou</strong> line and her mother's <strong>Li</strong> and <strong>Shang</strong> lines. This page is the English doorway into Lijie's side, for relatives on Chuck's side who want to know the people they'll meet.
+    </p>
+
+    <p>
+      Chuck's grandfather <strong><a href="/family/robert-earl-wildermuth/">Robert Earl Wildermuth</a></strong> &mdash; a WWII B-24 navigator, a 1948 Stanford biology graduate, and a lifelong genealogist after the war &mdash; left a note on the last page of his memoir addressed to "the family researcher of the future." This whole archive is the next generation's answer to him.
+    </p>
+
+    <p>
+      The relationship backbone of the American Eesley line comes from Chuck's great-aunt <strong><a href="/family/mary-eesley-bean/">Mary Eesley Bean</a></strong>'s 1985 family history; the modern genealogy is maintained by <strong>Dale Eesley</strong> on <strong>FamilySearch</strong> and now carries more than <strong>3,400</strong> family members. The structured tree can be downloaded from the archive's <a href="/docs/dale-eesley-familysearch-tree/">GEDCOM page</a>.
+    </p>
+
+    <p class="mt-6 p-4 border-l-4 border-rule bg-ink/5">
+      <strong>📖 If you read only one thing, read this: <a href="/docs/family-threads/">Family Threads &mdash; the values and practices that run across the generations</a>.</strong>
+      &nbsp;&nbsp;It's a synthesis essay that names the common threads running through three generations and across the Eesley, Wildermuth, and Zhou branches &mdash; education, patience, record-keeping, returning to the places that matter, service, humor, daily presence, the Japan-and-China curiosity, and the impulse to cross oceans for what's next &mdash; each anchored to specific people, documents, and places in the archive.
+    </p>
+
+    <h2 class="text-2xl mt-8">The Zhou and Li family of Qingdao</h2>
+    <p>
+      Lijie's lineage, as recorded from the updated family tree (June 2026), can be browsed by generation below. Each person's page carries both English and Chinese; names are shown in Chinese characters with the pinyin spelling beside them.
+    </p>
+  </section>
+
+  <section class="mt-8 space-y-8">
+    {Object.entries(groups).map(([groupLabel, ids]) => (
+      <div>
+        <h3 class="text-xl font-serif mb-3 border-b border-rule pb-1">{groupLabel}</h3>
+        <ul class="space-y-2">
+          {ids.map((id) => {
+            const p = peopleById.get(id);
+            if (!p) return null;
+            const fullName = p.data.name;
+            // Extract Chinese characters from the name if present (the part after the space).
+            const chineseMatch = fullName.match(/([一-鿿].*)$/);
+            const chinese = chineseMatch ? chineseMatch[1].trim() : null;
+            const pinyin = fullName.replace(/\s+[一-鿿].*$/, '').trim();
+            return (
+              <li>
+                <a href={`/family/${p.id}/`} class="text-lg">
+                  <span>{pinyin}</span>
+                  {chinese && <span class="font-serif text-ink/60 ml-2">{chinese}</span>}
+                </a>
+                {p.data.summary && (
+                  <div class="text-sm text-ink/60 mt-1">{p.data.summary.split('.')[0]}.</div>
+                )}
+              </li>
+            );
+          })}
+        </ul>
+      </div>
+    ))}
+  </section>
+
+  <section class="prose max-w-prose mt-12">
+    <h2 class="text-2xl">Places</h2>
+    <ul class="not-prose space-y-2">
+      <li><a href="/places/qingdao/" class="text-lg">Qingdao <span class="font-serif text-ink/60 ml-1">青岛</span></a> &mdash; the modern hometown of the Zhou, Li, and Shang lines.</li>
+      <li><a href="/family/zhaoxiang-zhou/" class="text-lg">Jiaozhou Shi <span class="font-serif text-ink/60 ml-1">胶州市</span></a> &mdash; the ancestral place of the Zhou line, where Lijie's grandfather Zhaoxiang Zhou was born in 1930.</li>
+    </ul>
+
+    <h2 class="text-2xl mt-8">About the Chinese name characters</h2>
+    <p>
+      The surnames on Lijie's side &mdash; Zhou, Li, and Shang &mdash; are confirmed. The <strong>given-name characters</strong> (the part of a name after the surname) were the editors' best transliteration guesses until Lijie's family confirmed them. Confirmed names are marked <em>"characters confirmed by the family."</em>
+    </p>
+    <p>
+      <strong>Names confirmed by the family:</strong>
+    </p>
+    <ul>
+      <li><a href="/family/yunzhe-sun/">Sun Yunzhe 孙云哲</a> &mdash; Lijie's grandmother</li>
+      <li><a href="/family/ling-zhou/">Zhou Ling 周玲</a> &mdash; Lijie's father</li>
+      <li><a href="/family/quan-zhou/">Zhou Quan 周全</a> &mdash; Lijie's uncle</li>
+    </ul>
+
+    <h2 class="text-2xl mt-8">About the generation-name characters</h2>
+    <p>
+      Chinese families often share a single character across all members of one generation, drawn from a generation-poem written by an ancestor. The tree suggests the Zhou grandfather generation was named on <strong>"Zhao" (兆)</strong> &mdash; Lijie's grandfather <a href="/family/zhaoxiang-zhou/">Zhou Zhaoxiang 周兆祥</a> and his brother <a href="/family/zhaozheng-zhou/">Zhou Zhaozheng 周兆帧</a> share it &mdash; and the Shang maternal-grandmother generation on <strong>"Yao" (耀)</strong> &mdash; <a href="/family/yaozhen-shang/">Shang Yaozhen 尚耀真</a> (Lijie's grandmother) and her siblings <a href="/family/yaoxiang-shang/">Yaoxiang</a>, <a href="/family/yaofu-shang/">Yaofu</a>, and <a href="/family/yaoli-shang/">Yaoli</a> share it.
+    </p>
+    <p>
+      If anyone in the family keeps a <strong>genealogy book</strong> or a <strong>generation-poem</strong>, we'd love to record it &mdash; it's one of the deepest lineage documents a Chinese family can hold.
+    </p>
+
+    <h2 class="text-2xl mt-8">The rest of the archive</h2>
+    <p>
+      Chuck's American families (the Eesley and Wildermuth lines) are the larger part of the archive:
+    </p>
+    <ul class="not-prose space-y-2">
+      <li><a href="/">Home</a></li>
+      <li><a href="/family/">All family members</a></li>
+      <li><a href="/docs/">Long-form documents &amp; memoirs</a></li>
+      <li><a href="/places/">All places (including Germany and England)</a></li>
+      <li><a href="/archive/">Photo &amp; letter archive</a></li>
+      <li><a href="/zh/">中文导览 — the Chinese-first version of this page</a></li>
+    </ul>
+
+    <p class="text-ink/60 text-sm mt-10">
+      <em>This English guide to Lijie's side was built by Chuck and Lijie. For any correction, addition, or name confirmation, contact Chuck directly.</em>
+    </p>
+  </section>
+</BaseLayout>
