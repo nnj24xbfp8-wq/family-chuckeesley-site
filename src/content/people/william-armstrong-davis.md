@@ -9,6 +9,9 @@ birth:
 death:
   date: "1931-03-13"
   place: "Washington County, Ohio"
+parents:
+  - joseph-davis
+  - jane-armstrong
 spouses:
   - victoria-anna-way-davis
 portrait: ../../assets/family/originals/william-victoria-homer-davis-c1902-portrait.jpeg
@@ -18,6 +21,8 @@ summary: "Father of Homer Edward Davis (Chuck's maternal great-grandfather). Bor
 William Armstrong Davis was born **5 November 1859 in Jefferson, Ohio** and died **13 March 1931 in Washington County, Ohio**, age 71. He was buried at **Waterford Cemetery, Waterford, Washington County, Ohio** — the same Waterford ground where his great-granddaughter [Dorothy Marie Davis Wildermuth](/family/dorothy-davis-wildermuth/) would be born sixty-six years after his own birth, on 24 February 1925.
 
 He is **Chuck's maternal great-great-grandfather** through the Davis line: William → [Homer Edward Davis](/family/homer-davis/) → Dorothy Marie Davis Wildermuth → Terrie Lee → Chuck.
+
+He was the son of **[Joseph Davis](/family/joseph-davis/)** (1819&ndash;1896) and **[Jane (Armstrong) Davis](/family/jane-armstrong/)** (1816&ndash;1881), both of Jefferson County, Ohio &mdash; his middle name, **Armstrong**, is his mother's maiden surname carried forward.
 
 ## A short first marriage, a long widowerhood
 
