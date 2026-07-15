@@ -10,6 +10,7 @@
     "build": "astro build && pagefind --site dist",
     "preview": "astro preview",
     "audio": "node scripts/generate-audio.mjs",
+    "check:links": "node scripts/check-links.mjs",
     "astro": "astro"
   },
   "dependencies": {

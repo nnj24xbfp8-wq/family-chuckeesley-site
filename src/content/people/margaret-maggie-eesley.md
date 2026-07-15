@@ -7,6 +7,7 @@ parents:
   - wilbur-eesley
   - margaret-mcmaster-eesley
 living: true
+portrait: ../../assets/family/maggie-deck/IMG_1560.jpeg
 sortBirth: "1951"
 summary: "Daughter of Will and Peggy Eesley; sister of Charles M.; Chuck's paternal aunt. The archivist behind the 'Four Generations' photographic record that is this site's paternal image layer."
 ---
