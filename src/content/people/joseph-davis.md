@@ -8,6 +8,9 @@ birth:
 death:
   date: "1896"
   place: "Washington County, Ohio"
+parents:
+  - william-davis
+  - elizabeth-davis
 spouses:
   - jane-armstrong
 children:
@@ -24,6 +27,6 @@ The family's center of gravity shifted downriver to **Washington County**, where
 
 ## What's open
 
-- **Joseph's own parents** &mdash; the GEDCOM records a father, **William Davis**, and a mother, **Elizabeth** (b. ca. 1781), but with dates too thin to build on. This is where the [Wildermuth &amp; Bain book's Davis section](/docs/wildermuth-family-of-marietta-book/) would extend the line reliably.
+- **Joseph's parents are now placed**: **[William Davis](/family/william-davis/)** (1764&ndash;1851) and **[Elizabeth](/family/elizabeth-davis/)** (b. ca. 1781), from the family's FamilySearch pedigree &mdash; pushing the Davis line back to a man born a decade before the Revolution. Their own origins (birthplaces, Elizabeth's maiden name, and where the family lived before Joseph's 1819 Ohio birth) remain the open end of the line.
 
 > *Source: [Eesley/Wildermuth GEDCOM tree](/docs/dale-eesley-familysearch-tree/) &mdash; FamilySearch ID GMTB-SJX (birth 1819 Jefferson County, Ohio; marriage 26 May 1842; death 1896, burial at Beverly, Washington County, Ohio).*

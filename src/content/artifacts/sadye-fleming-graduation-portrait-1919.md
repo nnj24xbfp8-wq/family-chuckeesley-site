@@ -14,7 +14,7 @@ people:
   - sadye-fleming-wildermuth
 ---
 
-[Sadye Irene Fleming](/family/sadye-fleming-wildermuth/) at **eighteen** &mdash; a soft-focus studio portrait, hair parted center and gathered low, the unsmiling self-presentation of a graduation photograph in 1919. The family-typed caption pasted beneath the print identifies it as her **graduation picture, c. 1919** &mdash; the year she was about to turn eighteen, two years before she married [Earl A. Wildermuth](/family/earl-a-wildermuth/) on New Year's Eve 1921.
+[Sadye Irene Fleming](/family/sadye-fleming-wildermuth/) at **eighteen** &mdash; a soft-focus studio portrait, hair parted center and gathered low, the unsmiling self-presentation of a graduation photograph in 1919. The family-typed caption pasted beneath the print identifies it as her **graduation picture, c. 1919** &mdash; the year she was about to turn eighteen, the year before she married [Earl A. Wildermuth](/family/earl-a-wildermuth/) on New Year's Eve 1920.
 
 This is the **earliest photograph of Sadye in the family archive** &mdash; the *before* image of the marriage that would produce [Robert Earl Wildermuth](/family/robert-earl-wildermuth/) (Chuck's grandfather) and four siblings, and that would open the Fleming line into the Wildermuth shoemaker family of Marietta. She is photographed almost exactly two years before she would have her first child.
 

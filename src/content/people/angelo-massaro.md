@@ -66,4 +66,20 @@ Memorial contributions went to **Holy Family Catholic Church** and **Young Life 
 
 He predeceased his sister-in-law [Terrie Lee Bain](/family/terrie-lee-eesley/) by fourteen months; Terrie's [obituary in May 2017](/family/terrie-lee-eesley/) names Debbie as her sister and Angelo as already-deceased.
 
-> *Source: [Dr. Angelo Battista Massaro obituary, Kendall Funeral Home, March 2016](https://www.kendallfuneralhome.com/obituaries/drangelo-massaro). Memorial service held 2 April 2016 at Holy Family Catholic Church in Pearisburg, Virginia.*
+## Photographs
+
+Three photographs of Angelo are in the archive, from Chuck's keeping (July 2026). Angelo himself is identified with confidence in each; the other people are noted only where reasonably clear, and are otherwise left open for the family to confirm.
+
+**Angelo and Debbie, poolside in Florida, c. late 1980s.** A patio-and-pool snapshot &mdash; a silver-haired Angelo in a navy polo and khakis, seated on a lounge chair beside a smiling blonde woman almost certainly his wife **[Debbie (Debra Wildermuth) Massaro](/family/debbie-wildermuth/)**, in a cream blouse and tan skirt. The brick-edged pool and lush greenery read as their **Orlando, Florida** home in the years around their marriage (c. 1988).
+
+![Dr. Angelo Massaro with his wife Debbie (Debra Wildermuth) Massaro, poolside at their Florida home, c. late 1980s. From Chuck's keeping.](../../assets/family/originals/angelo-and-debbie-massaro-poolside-c1988.jpeg)
+
+**A family Christmas, c. late 1980s–early 1990s.** An indoor holiday gathering around a red-clothed table with an Advent-style candle wreath; Angelo is at right in a light shirt. A blonde woman, an older woman in glasses, other adults, and a boy of about nine in a yellow sweater fill the room. The specific identities beyond Angelo are open for the family.
+
+![A family Christmas gathering including Dr. Angelo Massaro (right), c. late 1980s–early 1990s. From Chuck's keeping.](../../assets/family/originals/massaro-family-christmas-c1990.jpeg)
+
+**Multi-generation family portrait, c. 2013–2015.** A formal group portrait of roughly ten people across two rows, in a room hung with **Ohio River steamboat paintings** (the kind of riverboat art that suggests a Marietta venue). An elderly Angelo is seated at center. The rest of the group &mdash; very likely including Debbie, their children Giancarlo and [Briana](/family/briana-massaro-lockett/), and grandchildren &mdash; is for the family to identify.
+
+![Dr. Angelo Massaro (seated, center) with family in a room hung with Ohio River steamboat paintings, c. 2013–2015. From Chuck's keeping.](../../assets/family/originals/massaro-family-group-c2014.jpeg)
+
+> *Source: [Dr. Angelo Battista Massaro obituary, Kendall Funeral Home, March 2016](https://www.kendallfuneralhome.com/obituaries/drangelo-massaro). Memorial service held 2 April 2016 at Holy Family Catholic Church in Pearisburg, Virginia. Photographs from Chuck's keeping, July 2026.*
