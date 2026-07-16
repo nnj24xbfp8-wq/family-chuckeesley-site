@@ -16,6 +16,19 @@ const metaDescription =
 const base = Astro.site ?? Astro.url;
 const canonical = new URL(Astro.url.pathname, base);
 const ogImage = new URL(image, base);
+
+// Header navigation, with active-section detection off the current path.
+const path = Astro.url.pathname;
+const nav = [
+  { href: '/family/', label: 'Family' },
+  { href: '/docs/', label: 'Stories' },
+  { href: '/places/', label: 'Places' },
+  { href: '/archive/', label: 'Archive' },
+  { href: '/about/', label: 'About' },
+  { href: '/search/', label: 'Search', aria: 'Search the archive' },
+  { href: '/zh/', label: '周家 · 李家 · Zhou/Li (中文)', lang: 'zh' },
+];
+const navActive = (href: string) => path === href || path.startsWith(href);
 ---
 <!doctype html>
 <html lang={lang}>
@@ -59,13 +72,15 @@ const ogImage = new URL(image, base);
           <span class="font-serif text-xl tracking-wide">Eesley · Wildermuth</span>
         </a>
         <nav class="text-sm flex flex-wrap gap-x-5 gap-y-1">
-          <a href="/family/">Family</a>
-          <a href="/docs/">Stories</a>
-          <a href="/places/">Places</a>
-          <a href="/archive/">Archive</a>
-          <a href="/about/">About</a>
-          <a href="/search/" aria-label="Search the archive">Search</a>
-          <a href="/zh/" lang="zh">周家 · 李家 · Zhou/Li (中文)</a>
+          {nav.map((item) => (
+            <a
+              href={item.href}
+              lang={item.lang}
+              aria-label={item.aria}
+              aria-current={navActive(item.href) ? 'page' : undefined}
+              class={navActive(item.href) ? 'text-ink font-medium decoration-sepia decoration-2' : undefined}
+            >{item.label}</a>
+          ))}
         </nav>
       </div>
     </header>
