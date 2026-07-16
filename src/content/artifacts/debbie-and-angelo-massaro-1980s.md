@@ -15,4 +15,4 @@ people:
 
 Debra &ldquo;Debbie&rdquo; Wildermuth Massaro and her husband Angelo Massaro, dressed for a formal occasion, c. 1980s &mdash; Debbie in a white off-shoulder gown, Angelo in a dark suit, before a patterned wall with wicker peacock chairs.
 
-Debbie is Chuck's maternal aunt &mdash; the youngest of [Robert Earl](/family/robert-earl-wildermuth/) and Dottie Wildermuth's four children, and [Terrie](/family/terrie-lee-eesley/)'s younger sister. [Angelo Massaro](/family/angelo-massaro/), her husband, predeceased her. It is the companion to the [poolside photograph in Florida](/archive/debbie-and-angelo-massaro-florida/).
+Debbie is Chuck's maternal aunt &mdash; the youngest of [Robert Earl](/family/robert-earl-wildermuth/) and Dottie Wildermuth's four children, and [Terrie](/family/terrie-lee-eesley/)'s younger sister. [Angelo Massaro](/family/angelo-massaro/), her husband, predeceased her. More photographs of the couple &mdash; poolside in Florida, a family holiday dinner, and a later group portrait &mdash; are on [Angelo's page](/family/angelo-massaro/).

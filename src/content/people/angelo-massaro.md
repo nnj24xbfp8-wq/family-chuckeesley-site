@@ -68,18 +68,18 @@ He predeceased his sister-in-law [Terrie Lee Bain](/family/terrie-lee-eesley/) b
 
 ## Photographs
 
-Three photographs of Angelo are in the archive, from Chuck's keeping (July 2026). Angelo himself is identified with confidence in each; the other people are noted only where reasonably clear, and are otherwise left open for the family to confirm.
+Three photographs of Angelo are in the archive, from Chuck's keeping (July 2026). The holiday-dinner group is now fully identified; in the poolside and multi-generation portraits Angelo is identified with confidence and the rest of the group is left open for the family to confirm.
 
 **Angelo and Debbie, poolside in Florida, c. late 1980s.** A patio-and-pool snapshot &mdash; a silver-haired Angelo in a navy polo and khakis, seated on a lounge chair beside a smiling blonde woman almost certainly his wife **[Debbie (Debra Wildermuth) Massaro](/family/debbie-wildermuth/)**, in a cream blouse and tan skirt. The brick-edged pool and lush greenery read as their **Orlando, Florida** home in the years around their marriage (c. 1988).
 
 ![Dr. Angelo Massaro with his wife Debbie (Debra Wildermuth) Massaro, poolside at their Florida home, c. late 1980s. From Chuck's keeping.](../../assets/family/originals/angelo-and-debbie-massaro-poolside-c1988.jpeg)
 
-**A family Christmas, c. late 1980s–early 1990s.** An indoor holiday gathering around a red-clothed table with an Advent-style candle wreath; Angelo is at right in a light shirt. A blonde woman, an older woman in glasses, other adults, and a boy of about nine in a yellow sweater fill the room. The specific identities beyond Angelo are open for the family.
+**A family holiday dinner, c. late 1980s.** A family holiday dinner on [Terrie](/family/terrie-lee-eesley/)'s Wildermuth side &mdash; a Christmas centerpiece on the table, the family gathered around it. Present are young Chuck with his parents, [Charlie](/family/charles-eesley/) and [Terrie](/family/terrie-lee-eesley/); Terrie's uncle [Norman Graham Wolfe](/family/norman-graham-wolfe/) at the left; her sister [Sandra &ldquo;Sandy&rdquo; Wildermuth](/family/sandra-sue-wildermuth-clement/) in the middle; [Betty Jean (Davis) Wolfe](/family/betty-davis/) &mdash; Dorothy Davis Wildermuth's sister; and her sister [Debbie Wildermuth Massaro](/family/debbie-wildermuth/) with Angelo at the right.
 
-![A family Christmas gathering including Dr. Angelo Massaro (right), c. late 1980s–early 1990s. From Chuck's keeping.](../../assets/family/originals/massaro-family-christmas-c1990.jpeg)
+![A family holiday dinner on Terrie Eesley's Wildermuth side, c. late 1980s — young Chuck with his parents Charlie and Terrie, Terrie's uncle Norman Wolfe, her sisters Sandy Wildermuth and Debbie Wildermuth Massaro, Betty (Davis) Wolfe, and Angelo Massaro. From Chuck's keeping.](../../assets/family/originals/massaro-family-christmas-c1990.jpeg)
 
-**Multi-generation family portrait, c. 2013–2015.** A formal group portrait of roughly ten people across two rows, in a room hung with **Ohio River steamboat paintings** (the kind of riverboat art that suggests a Marietta venue). An elderly Angelo is seated at center. The rest of the group &mdash; very likely including Debbie, their children Giancarlo and [Briana](/family/briana-massaro-lockett/), and grandchildren &mdash; is for the family to identify.
+**Multi-generation family portrait, early 1990s.** A formal group portrait of roughly ten people across two rows; Angelo is seated at center. The rest of the group &mdash; likely including [Debbie](/family/debbie-wildermuth/) and other family &mdash; is for the family to identify.
 
-![Dr. Angelo Massaro (seated, center) with family in a room hung with Ohio River steamboat paintings, c. 2013–2015. From Chuck's keeping.](../../assets/family/originals/massaro-family-group-c2014.jpeg)
+![Dr. Angelo Massaro (seated, center) with family, early 1990s. From Chuck's keeping.](../../assets/family/originals/massaro-family-group-early-1990s.jpeg)
 
 > *Source: [Dr. Angelo Battista Massaro obituary, Kendall Funeral Home, March 2016](https://www.kendallfuneralhome.com/obituaries/drangelo-massaro). Memorial service held 2 April 2016 at Holy Family Catholic Church in Pearisburg, Virginia. Photographs from Chuck's keeping, July 2026.*
