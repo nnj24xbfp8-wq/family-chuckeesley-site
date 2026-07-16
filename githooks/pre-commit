@@ -1,0 +1,42 @@
+#!/bin/sh
+# Pre-commit hook — verify internal links before allowing a commit.
+#
+# Body markdown links (/family/…, /docs/…, /archive/…, /places/…) are NOT
+# validated by the Astro build, so a rename or merge can silently orphan a
+# link. This runs the standalone checker (fast, no build, no dependencies)
+# and blocks the commit only if a link is actually broken.
+#
+# Enable once per clone:   git config core.hooksPath githooks
+# Bypass for one commit:   git commit --no-verify
+
+# GUI git clients often run hooks without the interactive shell PATH, so node
+# (via nvm / Homebrew / Volta) may not be found. Try to locate it.
+if ! command -v node >/dev/null 2>&1; then
+  export NVM_DIR="${NVM_DIR:-$HOME/.nvm}"
+  [ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh" >/dev/null 2>&1
+fi
+for d in /opt/homebrew/bin /usr/local/bin "$HOME/.volta/bin" "$HOME/.local/bin"; do
+  case ":$PATH:" in
+    *":$d:"*) ;;
+    *) [ -x "$d/node" ] && PATH="$d:$PATH" ;;
+  esac
+done
+export PATH
+
+# If node still isn't available, skip rather than block — CI runs the same
+# check on push, so a missing local runtime shouldn't stop a commit.
+if ! command -v node >/dev/null 2>&1; then
+  echo "⚠ pre-commit: node not found — skipping link check (CI will still run it)."
+  echo "  To run it yourself: npm run check:links"
+  exit 0
+fi
+
+echo "Checking internal links…"
+node scripts/check-links.mjs
+if [ "$?" -ne 0 ]; then
+  echo
+  echo "✗ Commit aborted: broken internal links found (see above)."
+  echo "  Fix them, or bypass with: git commit --no-verify"
+  exit 1
+fi
+exit 0
