@@ -2,7 +2,7 @@
 title: "Charles Leonard Eesley extended-family reunion at Highland Ridge — c. 1971–1972, with full labeled cast of twelve"
 type: "Photograph"
 image: ../../assets/family/originals/00000004_00000047_00000048.jpeg
-medium: "Color photograph, outdoor on a grassy hillside slope"
+medium: "Black-and-white photograph, outdoor on a grassy hillside slope"
 dateCreated: "c. 1971–1972"
 sortDate: "1972-07-01"
 placeCreated: "Highland Ridge Road, Lowell, Washington County, Ohio"

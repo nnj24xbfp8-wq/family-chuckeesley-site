@@ -70,11 +70,14 @@ Charlie-Vietnam / Sadye-grad dups noted above.
 - `IMG_5533` — large formal family group, c.1900–1910 — **NEEDS ID**
 - `family-group-picket-fence-porch-c1940s-queued-for-id` — **NEEDS ID**
 - ~~`Anne_Eesley1.jpg`~~ — **PLACED** on [Anne's page](/family/anne-eesley/) as "Anne in later life" (renamed `anne-eesley-later-life-portrait.jpg`)
-- `charlie-to-chuck-26th-birthday-card-2005.jpg` — 2005 birthday card, Charlie → Chuck — **already on the site** (per Chuck); leave/cleanup
+- `charlie-to-chuck-26th-birthday-card-2005.jpg` — 2005 birthday card, Charlie → Chuck. Chuck said it's already on the site, but a July 2026 grep found **no reference to this file (or any "birthday-card-2005" slug) in the content** — so **keep, do not delete** until a placed equivalent is confirmed (may be on the site under a different filename, or may still need placing).
 - ~~`Mail Attachment.jpeg`~~ — **PLACED** as artifact `stephanie-kamiab-feeding-baby-chuck-highland-ridge-c1980` (renamed) — Stephanie Kamiab feeding baby Chuck at Highland Ridge, c.1980
 - ~~`Mail Attachment (1).jpeg`~~ — **PLACED** on [Peggy's page](/family/margaret-mcmaster-eesley/) (renamed `peggy-eesley-with-chuck-charlie-diana-wedding-c2003.jpeg`): Peggy on Chuck's arm at Charlie's wedding to Diana, early 2000s
-- `800a9cec-…_all_11681.jpeg`, `places/2018-03-30-0015.jpeg`, `places/IMG_1920.jpeg` — not yet viewed
-- `maggie-deck/john-k-timmons.jpeg`, `maggie-deck/mary-ohio-timmons-chenoweth.jpeg` — superseded deck copies (pages use better `originals/` scans) — cleanup candidates
+- `800a9cec-…_all_11681.jpeg` — **page 2 of a handwritten letter** (viewed July 2026): mentions "Uncle Howard," "Aunt Ota" (Sciota "Ota" Chenoweth Smith), and "Cousin Ada & Chas," and sorting photos into albums. Genuine unplaced Chenoweth-side correspondence — **mine-worthy** (need the other pages + author/recipient/date). NOT a duplicate.
+- `places/2018-03-30-0015.jpeg` — **Stuttgart, Königsplatz palace/fountain/swans, November 1992**, printed caption "note by R.E.W." (a Wildermuth-initialed travel print). Placeable on a places/travel page. NOT a duplicate.
+- `places/IMG_1920.jpeg` — **present-day photo of the same Stuttgart fountain** (smartphone, ~2010s). Natural then/now pair with the 1992 print above. Placeable, or drop as an incidental modern snap.
+- ~~`maggie-deck/john-k-timmons.jpeg`~~, ~~`maggie-deck/mary-ohio-timmons-chenoweth.jpeg`~~ — **DELETED July 2026** (superseded deck copies; pages use the better `originals/john-k-timmons-portrait.jpeg` / `originals/mary-timmons-*` scans).
+- ~~`IMG_2529.jpeg`~~ (uncropped) — **DELETED July 2026** (superseded by `IMG_2529_cropped.jpeg`, which is the referenced Hangzhou/Lingyin temple image; Zhou-Li side, already on the site).
 
 ## Duplicates of content already on the site (cleanup candidates)
 
