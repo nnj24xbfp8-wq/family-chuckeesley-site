@@ -19,6 +19,8 @@ people:
 
 A **labeled five-person outdoor group photograph** taken at **[230 N. Cassady Avenue, Bexley, Franklin County, Ohio](/family/charles-leonard-eesley/)** &mdash; the [Charles Leonard and Lillie Dale Eesley](/family/charles-leonard-eesley/) family house &mdash; on Stella and Ted's wedding day, c. April 1945. The KISCO Certified Photo Service stamp on the back reads **APR 10 1945**, fixing the development date to the same week as the Tidal Basin cherry-blossom photograph.
 
+![The back of the print — the handwritten blue-ink caption naming all five figures ("Marietta Chong / Will / Stella Sunn (Chong) / Ted Chong / Helen … at 230 N. Cassady") over the KISCO Certified Photo Service stamp dated 10 April 1945.](../../assets/family/originals/stella-ted-chong-wedding-cassady-group-1945-verso.jpeg)
+
 ## The cast &mdash; labeled
 
 The handwritten caption on the back of the print, in blue ink, names all five figures:
