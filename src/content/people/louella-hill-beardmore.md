@@ -18,7 +18,7 @@ summary: "The youngest sister of Bessie Marie (Hill) Davis — Chuck's great-gra
 
 Louella Virginia (Hill) Beardmore was the **youngest of the four Hill children** &mdash; and the younger sister of **[Bessie Marie (Hill) Davis](/family/bessie-hill-davis/)** (1905&ndash;1950), Chuck's great-grandmother. That makes Louella **Chuck's great-grandaunt on the maternal Hill side**. Her 2011 obituary is the source for the sketch below.
 
-She was born **1 December 1917 in Lebanon, Monroe County, Ohio**, a daughter of **[Harvey Hendershot Hill](/family/harvey-hendershot-hill/)** (1882&ndash;1951) and **[Clara Victoria (Ullmann) Hill](/family/clara-victoria-ullmann/)**. Her three older siblings were **[Bessie Marie Hill](/family/bessie-hill-davis/)** (b. 1905), **Emma Vearl Hill** (b. 1907), and **Theodore Roosevelt Hill** (b. 1912).
+She was born **1 December 1917 in Lebanon, Monroe County, Ohio**, a daughter of **[Harvey Hendershot Hill](/family/harvey-hendershot-hill/)** (1882&ndash;1951) and **[Clara Victoria (Ullmann) Hill](/family/clara-victoria-ullmann/)**. Her three older siblings were **[Bessie Marie Hill](/family/bessie-hill-davis/)** (b. 1905), **[Emma Vearl (Hill) Dailey](/family/emma-vearl-hill-dailey/)** (b. 1907), and **[Theodore Roosevelt Hill](/family/theodore-roosevelt-hill/)** (b. 1912).
 
 She graduated from **Somerset High School in 1935**, and in **1938 married Charles M. Beardmore** &mdash; a marriage that lasted **59 years**. She worked as **head cook for the Fairfield Union Schools for 25 years** before retiring, and was a longtime member of **Bremen United Methodist Church**, where she served on the Altar Guild for many years. She enjoyed reading, cooking, quilting, and her family.
 
