@@ -70,9 +70,9 @@ Charlie-Vietnam / Sadye-grad dups noted above.
 - `IMG_5533` — large formal family group, c.1900–1910 — **NEEDS ID**
 - `family-group-picket-fence-porch-c1940s-queued-for-id` — **NEEDS ID**
 - `Anne_Eesley1.jpg` — Anne's memorial portrait (she already has a portrait; alternate)
-- `charlie-to-chuck-26th-birthday-card-2005.jpg` — a 2005 birthday card, Charlie → Chuck
-- `Mail Attachment.jpeg` — **Stephanie Mullin (Kamiab) feeding baby Chuck** at Highland Ridge (confirmed) — LIVING
-- `Mail Attachment (1).jpeg` — young man escorting an elderly woman down a church aisle, c.1990s–2000s — LIVING — **NEEDS ID**
+- `charlie-to-chuck-26th-birthday-card-2005.jpg` — 2005 birthday card, Charlie → Chuck — **already on the site** (per Chuck); leave/cleanup
+- ~~`Mail Attachment.jpeg`~~ — **PLACED** as artifact `stephanie-kamiab-feeding-baby-chuck-highland-ridge-c1980` (renamed) — Stephanie Kamiab feeding baby Chuck at Highland Ridge, c.1980
+- `Mail Attachment (1).jpeg` — **IDed** (Chuck): Chuck with his grandmother **Peggy McMaster Eesley** at his father Charlie's wedding to Diana, early 2000s — LIVING; not yet placed (Chuck's call)
 - `800a9cec-…_all_11681.jpeg`, `places/2018-03-30-0015.jpeg`, `places/IMG_1920.jpeg` — not yet viewed
 - `maggie-deck/john-k-timmons.jpeg`, `maggie-deck/mary-ohio-timmons-chenoweth.jpeg` — superseded deck copies (pages use better `originals/` scans) — cleanup candidates
 
