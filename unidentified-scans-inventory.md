@@ -50,6 +50,32 @@ genuinely-unplaced material is the **album photographs** below, which need famil
 | 00000004_00000035_00000036 | Family reunion, ~15 people outdoors by a house, c.mid-1970s | Highland Ridge gathering? | NEEDS ID |
 | 00000007_00000135_00000136 | Blond boy on a red bike, outdoors on a driveway, c.mid-1980s | young Chuck | LIVING |
 
+## After the checksum sweep (July 2026)
+
+A byte-for-byte comparison of every flagged photo against the placed assets showed
+this "batch" is overwhelmingly **re-scans of photos already in the archive.**
+Confirmed byte-identical duplicates, deleted (no ID needed): 7351 (=Dwight portrait),
+7352 (=Elsie+Jonas+children), 7353 (=Helen/Jean toddler), 7354 (=Helen teen),
+7359–7362 (=Lyle Eesley portraits ×4), IMG_2084 (=Sadye plaid-dress), IMG_4423 &
+00000007_135 (=young Chuck on bikes), 2018-03-30-0041 (=young Chuck trike),
+dad.jpeg (=Charlie studio portrait), plus the 1939 letter cluster and the
+Charlie-Vietnam / Sadye-grad dups noted above.
+
+**Genuinely new (no checksum match to anything placed) — worth attention:**
+
+- `00000004_00000035_00000036` — ~1970s family reunion, ~15 people (Highland Ridge?) — **NEEDS ID**
+- `7368` — Asian wedding portrait — Stella/Ted Chong wedding cluster? — **NEEDS confirm**
+- `7367` — labeled photo-back (Marietta Chong / Will / Stella / Ted Chong / Helen, 1942–5, 230 N. Cassady) — its front photo isn't matched
+- `IMG_2529` — **Zhou/Li side** — couple at a Hangzhou temple, c.1970s–80s (Lijie's parents?) — **NEEDS ID**
+- `IMG_5533` — large formal family group, c.1900–1910 — **NEEDS ID**
+- `family-group-picket-fence-porch-c1940s-queued-for-id` — **NEEDS ID**
+- `Anne_Eesley1.jpg` — Anne's memorial portrait (she already has a portrait; alternate)
+- `charlie-to-chuck-26th-birthday-card-2005.jpg` — a 2005 birthday card, Charlie → Chuck
+- `Mail Attachment.jpeg` — **Stephanie Mullin (Kamiab) feeding baby Chuck** at Highland Ridge (confirmed) — LIVING
+- `Mail Attachment (1).jpeg` — young man escorting an elderly woman down a church aisle, c.1990s–2000s — LIVING — **NEEDS ID**
+- `800a9cec-…_all_11681.jpeg`, `places/2018-03-30-0015.jpeg`, `places/IMG_1920.jpeg` — not yet viewed
+- `maggie-deck/john-k-timmons.jpeg`, `maggie-deck/mary-ohio-timmons-chenoweth.jpeg` — superseded deck copies (pages use better `originals/` scans) — cleanup candidates
+
 ## Duplicates of content already on the site (cleanup candidates)
 
 - **00000000_00000016_00000017 (1).jpeg** — byte-identical to `charlie-returning-from-vietnam-c1971.jpeg` (existing artifact). **Deleted July 2026.**
