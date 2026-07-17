@@ -70,6 +70,10 @@ The McMaster and Anderson lines on Peggy's side are now seeded in the archive: [
 - The [Charlie and Terrie wedding photograph (early 1970s)](/archive/charlie-and-terrie-wedding-1970s/) &mdash; Peggy in a pale-blue dress with a pink-and-yellow corsage, Will in a brown suit with a white boutonnière; both mid-laugh, parents of the groom.
 - The ["Peggy on the Continent" retirement-travel pair](/archive/peggy-on-the-continent-retirement-travel/) &mdash; Paris and the Amalfi Coast in the same album, the visible end of the line of investing the eulogy named.
 
+One of the last photographs of Peggy in the archive: on the arm of her grandson Chuck, walking down the aisle at her son [Charlie](/family/charles-eesley/)'s wedding to Diana in the early 2000s &mdash; a few years before her 2007 death.
+
+![Peggy Eesley on the arm of her grandson Chuck, walking down the aisle at her son Charlie's wedding to Diana, early 2000s.](../../assets/family/originals/peggy-eesley-with-chuck-charlie-diana-wedding-c2003.jpeg)
+
 ## See also — family threads
 
 Peggy is an anchor for five of the ten threads in the [**Family threads**](/docs/family-threads/) synthesis essay:

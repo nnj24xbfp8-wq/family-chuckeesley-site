@@ -46,7 +46,7 @@ The obituary closes on her cooking, her hospitality, and her embroidery: *"Anne 
 
 ## In the family photographs
 
-Three photographs in this archive frame Anne across her life:
+Four photographs in this archive frame Anne across her life:
 
 ### Three Eesley children, c. 1948–1950 — Jeanne, Anne, infant Charlie
 
@@ -59,5 +59,11 @@ Three photographs in this archive frame Anne across her life:
 ### Extended family gathering, c. 1985–86
 
 [A color frame of the extended Eesley family outdoors](/archive/eesley-family-gathering-c-1985-1986/), with Will and Peggy together at the back, Charlie and Terrie present, and a young Chuck about five or six in front. Anne stands in the middle row in a pale blue dress — home from Charleston where she was then teaching at The Citadel. The frame likely captures the last summer with Will alive before his June 1986 death.
+
+### Anne in later life
+
+A later-life portrait of Anne &mdash; auburn turned to grey, the same direct, warm gaze &mdash; from her Michigan years.
+
+![A later-life portrait of Anne Eesley, from her years in Michigan.](../../assets/family/originals/anne-eesley-later-life-portrait.jpg)
 
 > *Sources: [Anne Eesley's published obituary, August 2019](/docs/anne-eesley-obituary-2019/); [Corey Funeral Home obituary listing](https://www.coreyfuneralhome.com/obituaries/Anne-Eesley?obId=23657999); Mary Eesley Bean, [Eesley Family History](/docs/eesley-family-history-1985/), March 1985, p. 8; family photographs transmitted by Chuck Eesley June 2026.*

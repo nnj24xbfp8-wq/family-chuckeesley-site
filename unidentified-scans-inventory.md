@@ -63,16 +63,16 @@ Charlie-Vietnam / Sadye-grad dups noted above.
 
 **Genuinely new (no checksum match to anything placed) — worth attention:**
 
-- `00000004_00000035_00000036` — ~1970s family reunion, ~15 people (Highland Ridge?) — **NEEDS ID**
+- `00000004_00000035_00000036` — a **color ~mid-1970s reunion, ~15 people** standing by a house. Distinct from the B&W `highland-ridge-family-group-portrait-c-1980` (00000004_047_048) already on the site — a different frame/event. Still unplaced; **NEEDS per-person IDs**
 - ~~`7368`~~ — **PLACED** as artifact `stella-ted-chong-wedding-with-family-1945` — Stella on her wedding day with her parents **Mabel Lee Sunn** and **Koon Hung Sunn** (confirmed by Chuck)
 - ~~`7367`~~ — **PLACED** — it's the verso of 7366; attached as the back-of-print image to the existing `stella-ted-chong-wedding-cassady-group-1945` artifact
 - ~~`IMG_2529`~~ — **already on the site** (Zhou/Li side — Lijie's parents at a Hangzhou temple, per Chuck); redundant loose scan
 - `IMG_5533` — large formal family group, c.1900–1910 — **NEEDS ID**
 - `family-group-picket-fence-porch-c1940s-queued-for-id` — **NEEDS ID**
-- `Anne_Eesley1.jpg` — Anne's memorial portrait (she already has a portrait; alternate)
+- ~~`Anne_Eesley1.jpg`~~ — **PLACED** on [Anne's page](/family/anne-eesley/) as "Anne in later life" (renamed `anne-eesley-later-life-portrait.jpg`)
 - `charlie-to-chuck-26th-birthday-card-2005.jpg` — 2005 birthday card, Charlie → Chuck — **already on the site** (per Chuck); leave/cleanup
 - ~~`Mail Attachment.jpeg`~~ — **PLACED** as artifact `stephanie-kamiab-feeding-baby-chuck-highland-ridge-c1980` (renamed) — Stephanie Kamiab feeding baby Chuck at Highland Ridge, c.1980
-- `Mail Attachment (1).jpeg` — **IDed** (Chuck): Chuck with his grandmother **Peggy McMaster Eesley** at his father Charlie's wedding to Diana, early 2000s — LIVING; not yet placed (Chuck's call)
+- ~~`Mail Attachment (1).jpeg`~~ — **PLACED** on [Peggy's page](/family/margaret-mcmaster-eesley/) (renamed `peggy-eesley-with-chuck-charlie-diana-wedding-c2003.jpeg`): Peggy on Chuck's arm at Charlie's wedding to Diana, early 2000s
 - `800a9cec-…_all_11681.jpeg`, `places/2018-03-30-0015.jpeg`, `places/IMG_1920.jpeg` — not yet viewed
 - `maggie-deck/john-k-timmons.jpeg`, `maggie-deck/mary-ohio-timmons-chenoweth.jpeg` — superseded deck copies (pages use better `originals/` scans) — cleanup candidates
 
