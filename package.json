@@ -11,6 +11,7 @@
     "preview": "astro preview",
     "audio": "node scripts/generate-audio.mjs",
     "check:links": "node scripts/check-links.mjs",
+    "check:unused-images": "node scripts/check-unused-images.mjs",
     "astro": "astro"
   },
   "dependencies": {
