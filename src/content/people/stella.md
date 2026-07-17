@@ -217,6 +217,8 @@ A wartime portrait of Ted Chong in U.S. Navy dress uniform with Stella beside hi
 
 ![Ted Chong in U.S. Navy dress uniform with Stella at the cherry-blossom-season Tidal Basin in Washington, D.C., dated 10 April 1945 by the photo service stamp on the back.](../../assets/family/originals/ted-chong-navy-with-stella-cherry-blossoms-april-1945.jpeg)
 
+![The back of the same photograph &mdash; a KISCO Certified Photo Service date stamp reading 10 April 1945, the source of the photo's date.](../../assets/family/originals/back-of-ted-chong-april-1945-photo.jpeg)
+
 The April 1945 date is significant &mdash; the war in the Pacific would not end for four more months. Ted's Navy service is a new biographical detail the archive had not previously carried.
 
 ### The wedding day — c. April 1945
@@ -254,6 +256,8 @@ A formal family-of-four portrait of **Stella, Ted, and their two children** &mda
 The headline photograph of this batch. **Charles Leonard and Lillie Dale Eesley wearing Hawaiian leis on a ship's deck in Honolulu Harbor**, with Stella standing between them &mdash; **the documentary proof of their 1953 50th-wedding-anniversary trip to Hawaii to visit Stella and Ted**. The back of the print carries a handwritten note by Lillie Dale herself: *"Lilly was wearing this in Honolulu on our 50th wedding anniversary."*
 
 ![Charles Leonard and Lillie Dale Eesley with Stella in Honolulu, 1953, on the 50th anniversary of their 1903 marriage. The leis around their necks are the welcome leis given to disembarking passengers in mid-twentieth-century Hawaii.](../../assets/family/originals/charles-leonard-lillie-dale-with-stella-50th-anniversary-honolulu-1953.jpeg)
+
+![The back of the same photograph, inscribed by hand &mdash; a note recording that it was taken in Honolulu on their 50th wedding anniversary.](../../assets/family/originals/back-of-50th-anniversary-honolulu-photo.jpeg)
 
 **The 50th-anniversary trip to Hawaii is a major new fact in this archive.** [Charles Leonard](/family/charles-leonard-eesley/) and [Lillie Dale](/family/lillie-dale-chenoweth/) had married on **9 September 1903 at the Methodist Episcopal Church in Harrisburg, Ohio** &mdash; per the [original engraved wedding invitation](/docs/lillie-dale-charles-leonard-wedding-invitation-1903/) Roberta also shared. Fifty years later, in 1953, they took a ship to Hawaii to celebrate the anniversary **with Stella and Ted** &mdash; the chosen daughter who had come into their household during the war, and her husband. **The Bexley-Honolulu connection that the wartime placement had set in motion was complete enough by 1953 that the anniversary itself was held there.** The flower leis around Charles Leonard's and Lillie Dale's necks would have been the welcome leis Stella and Ted brought to greet them at the pier.
 
