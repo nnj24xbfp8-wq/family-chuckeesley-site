@@ -64,9 +64,9 @@ Charlie-Vietnam / Sadye-grad dups noted above.
 **Genuinely new (no checksum match to anything placed) — worth attention:**
 
 - `00000004_00000035_00000036` — ~1970s family reunion, ~15 people (Highland Ridge?) — **NEEDS ID**
-- `7368` — Asian wedding portrait — Stella/Ted Chong wedding cluster? — **NEEDS confirm**
-- `7367` — labeled photo-back (Marietta Chong / Will / Stella / Ted Chong / Helen, 1942–5, 230 N. Cassady) — its front photo isn't matched
-- `IMG_2529` — **Zhou/Li side** — couple at a Hangzhou temple, c.1970s–80s (Lijie's parents?) — **NEEDS ID**
+- ~~`7368`~~ — **PLACED** as artifact `stella-ted-chong-wedding-with-family-1945` — Stella on her wedding day with her parents **Mabel Lee Sunn** and **Koon Hung Sunn** (confirmed by Chuck)
+- ~~`7367`~~ — **PLACED** — it's the verso of 7366; attached as the back-of-print image to the existing `stella-ted-chong-wedding-cassady-group-1945` artifact
+- ~~`IMG_2529`~~ — **already on the site** (Zhou/Li side — Lijie's parents at a Hangzhou temple, per Chuck); redundant loose scan
 - `IMG_5533` — large formal family group, c.1900–1910 — **NEEDS ID**
 - `family-group-picket-fence-porch-c1940s-queued-for-id` — **NEEDS ID**
 - `Anne_Eesley1.jpg` — Anne's memorial portrait (she already has a portrait; alternate)
