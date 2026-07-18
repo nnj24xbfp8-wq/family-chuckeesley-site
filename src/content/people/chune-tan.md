@@ -2,6 +2,7 @@
 name: "Tan Chune 譚春娥"
 aka: "Chune Tan"
 line: zhou
+generation: 4
 spouses:
   - dechen-shang
 summary: "Lijie's maternal great-grandmother on the Shang side. Wife of DeChen Shang; mother of Yaozhen Shang and her three siblings."

@@ -1,7 +1,7 @@
 ---
 name: "John V. Dunbar"
 line: maternal
-generation: 5
+generation: 1
 birth:
   date: "1804"
   place: "Maine"

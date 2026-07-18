@@ -2,6 +2,7 @@
 name: "Zhou Ai Hua 周愛華"
 aka: "Ai Hua Zhou"
 line: zhou
+generation: 6
 parents:
   - zhaoxiang-zhou
   - yunzhe-sun

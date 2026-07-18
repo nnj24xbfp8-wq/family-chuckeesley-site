@@ -2,6 +2,7 @@
 name: "Li Chengwu 李城武"
 aka: "Chengwu Li"
 line: zhou
+generation: 5
 parents:
   - fengting-li
   - rongjing-qiu

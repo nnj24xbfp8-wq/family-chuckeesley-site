@@ -2,7 +2,7 @@
 name: "Clara Victoria Ullmann"
 aka: "Clara V. Hill"
 line: maternal
-generation: 4
+generation: 3
 birth:
   date: "1885-07-08"
   place: "Washington, Monroe County, Ohio"

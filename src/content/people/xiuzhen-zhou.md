@@ -2,6 +2,7 @@
 name: "Zhou Xiuzhen 周秀珍"
 aka: "Xiuzhen Zhou"
 line: zhou
+generation: 5
 parents:
   - maoli-zhou
   - huancai-pang

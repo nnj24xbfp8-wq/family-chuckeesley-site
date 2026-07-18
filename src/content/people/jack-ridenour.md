@@ -2,7 +2,7 @@
 name: "Jack Ridenour"
 aka: "Jack; husband of Ruth Irene Wildermuth"
 line: maternal
-generation: 4
+generation: 5
 spouses:
   - ruth-irene-wildermuth-ridenour
 children:

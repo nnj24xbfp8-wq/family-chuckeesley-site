@@ -2,7 +2,7 @@
 name: "Belsora A. \"Belle\" Way Wickens"
 aka: "Belle Way; Belsora A. Wickens"
 line: maternal
-generation: 5
+generation: 3
 birth:
   date: "1880-12-19"
   place: "Jackson Township, Noble County, Ohio"

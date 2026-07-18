@@ -1,7 +1,7 @@
 ---
 name: "Joseph Davis"
 line: maternal
-generation: 6
+generation: 2
 birth:
   date: "1819"
   place: "Jefferson County, Ohio"

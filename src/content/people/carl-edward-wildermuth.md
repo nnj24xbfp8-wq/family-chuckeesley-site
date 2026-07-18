@@ -8,7 +8,7 @@ birth:
 death:
   date: "1989-12-09"
   place: "Newark, Licking County, Ohio (buried East Lawn Memorial Park, Reno, Washington County, Ohio — the same cemetery as his father Earl Adam)"
-generation: 4
+generation: 5
 parents:
   - earl-a-wildermuth
   - sadye-fleming-wildermuth

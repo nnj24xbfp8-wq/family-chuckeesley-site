@@ -1,6 +1,7 @@
 ---
 name: "Nora Angie Way"
 line: maternal
+generation: 3
 birth:
   date: "1876"
 parents:

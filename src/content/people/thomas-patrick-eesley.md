@@ -1,6 +1,7 @@
 ---
 name: "Thomas Patrick Eesley"
 line: paternal
+generation: 7
 sortBirth: "1969"
 parents:
   - james-michael-eesley

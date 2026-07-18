@@ -1,7 +1,7 @@
 ---
 name: "Howard Edward Wickens"
 line: maternal
-generation: 5
+generation: 3
 birth:
   date: "1880-05-19"
   place: "Salem Township, Washington County, Ohio"

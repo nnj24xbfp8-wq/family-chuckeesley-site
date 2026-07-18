@@ -2,6 +2,7 @@
 name: "Gian Carlo Massaro"
 aka: "Giancarlo"
 line: maternal
+generation: 7
 living: true
 parents:
   - debbie-wildermuth

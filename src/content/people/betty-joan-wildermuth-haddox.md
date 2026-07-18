@@ -8,7 +8,7 @@ birth:
 death:
   date: "2018"
   place: "Ohio (specific place open research)"
-generation: 4
+generation: 5
 parents:
   - earl-a-wildermuth
   - sadye-fleming-wildermuth

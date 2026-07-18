@@ -2,7 +2,7 @@
 name: "Ann Dunbar"
 aka: "maiden name not yet recovered"
 line: maternal
-generation: 5
+generation: 1
 birth:
   date: "1812"
   place: "Maine"

@@ -1,6 +1,7 @@
 ---
 name: "Karen Kay Ridenour"
 line: maternal
+generation: 6
 birth:
   date: "1949-01-08"
 parents:

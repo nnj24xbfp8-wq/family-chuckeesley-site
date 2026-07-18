@@ -8,7 +8,7 @@ birth:
 death:
   date: "1918-10-11"
   place: "Meuse-Argonne, France (killed in action)"
-generation: 5
+generation: 3
 parents:
   - josiah-w-hill
   - janetta-smith

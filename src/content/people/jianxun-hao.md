@@ -1,6 +1,7 @@
 ---
 name: "Jianxun Hao"
 line: zhou
+generation: 6
 spouses:
   - ai-qin-zhou
 living: true

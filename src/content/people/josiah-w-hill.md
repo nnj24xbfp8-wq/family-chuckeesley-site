@@ -2,7 +2,7 @@
 name: "Josiah W. Hill (Sr.)"
 aka: "Josiah Hill Sr."
 line: maternal
-generation: 5
+generation: 2
 birth:
   date: "1854-11-04"
   place: "Washington Township, Monroe County, Ohio"

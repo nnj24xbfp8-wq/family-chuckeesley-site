@@ -1,6 +1,7 @@
 ---
 name: "David L. Angel"
 line: other
+generation: 5
 parents:
   - ted-angel
 living: true

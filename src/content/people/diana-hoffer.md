@@ -2,6 +2,7 @@
 name: "Diana Hoffer Eesley"
 aka: "Diana; Diana Hoffer (maiden)"
 line: other
+generation: 6
 spouses:
   - charles-eesley
 living: true

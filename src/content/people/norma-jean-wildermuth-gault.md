@@ -8,7 +8,7 @@ birth:
 death:
   date: "2007-05-26"
   place: "Ohio (buried Fairmount Cemetery, Jacksontown, Licking County, Ohio)"
-generation: 4
+generation: 5
 parents:
   - earl-a-wildermuth
   - sadye-fleming-wildermuth

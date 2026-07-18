@@ -2,6 +2,7 @@
 name: "John Jacob Schmidt"
 aka: "Johann Jacob Schmidt"
 line: maternal
+generation: 1
 birth:
   date: "1817-06"
   place: "Bavaria, Germany"

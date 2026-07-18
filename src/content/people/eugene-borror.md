@@ -1,6 +1,7 @@
 ---
 name: "Eugene Everette Borror"
 line: paternal
+generation: 5
 birth:
   date: "1901-09-01"
 parents:

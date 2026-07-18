@@ -2,6 +2,7 @@
 name: "Li Xun 李恂"
 aka: "Xun Li"
 line: zhou
+generation: 6
 spouses:
   - ling-zhou
 parents:

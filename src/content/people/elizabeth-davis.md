@@ -2,7 +2,7 @@
 name: "Elizabeth Davis"
 aka: "maiden name not yet recovered"
 line: maternal
-generation: 7
+generation: 1
 birth:
   date: "1781"
 spouses:

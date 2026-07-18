@@ -1,6 +1,7 @@
 ---
 name: "Marcia Ann Ridenour"
 line: maternal
+generation: 6
 birth:
   date: "1951-04-07"
 parents:

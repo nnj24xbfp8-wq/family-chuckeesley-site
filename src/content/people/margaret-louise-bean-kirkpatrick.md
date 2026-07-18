@@ -2,6 +2,7 @@
 name: "Margaret Louise (Bean) Kirkpatrick"
 aka: "Margaret Louise Bean, maiden"
 line: paternal
+generation: 6
 birth:
   date: "1941-12-11"
 parents:

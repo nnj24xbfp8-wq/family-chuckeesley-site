@@ -2,6 +2,7 @@
 name: "Zhou Ai Qin 周愛琴"
 aka: "Ai Qin Zhou"
 line: zhou
+generation: 6
 parents:
   - zhaoxiang-zhou
   - yunzhe-sun

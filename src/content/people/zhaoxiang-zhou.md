@@ -2,6 +2,7 @@
 name: "Zhou Zhaoxiang 周兆祥"
 aka: "Zhaoxiang Zhou"
 line: zhou
+generation: 5
 birth:
   date: "1930-08-01"
   place: "Jiaozhou Shi, Qingdao Shi, Shandong, China"

@@ -2,6 +2,7 @@
 name: "Qiu Rongjing 邱蓉镜"
 aka: "Rongjing Qiu"
 line: zhou
+generation: 4
 death:
   date: "1974"
 spouses:

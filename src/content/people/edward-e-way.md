@@ -2,7 +2,7 @@
 name: "Edward E. Way"
 aka: "Edward Ellison Way (his full name in Robert Earl's genealogy); Edward E. Way (Jr.); 'Edward E.' on the family-papers ID legend"
 line: maternal
-generation: 6
+generation: 2
 birth:
   date: "1851-05-14"
   place: "Noble County, Ohio"

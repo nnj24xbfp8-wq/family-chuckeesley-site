@@ -1,6 +1,7 @@
 ---
 name: "Emma Maude Way"
 line: maternal
+generation: 3
 birth:
   date: "1883"
 parents:

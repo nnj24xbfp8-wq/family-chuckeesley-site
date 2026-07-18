@@ -2,6 +2,7 @@
 name: "Lijie Zhou 周丽婕"
 aka: "周丽婕"
 line: zhou
+generation: 7
 birth:
   place: "Qingdao, Shandong, China"
 parents:

@@ -2,6 +2,7 @@
 name: "Shang Yaoxiang 尚耀香"
 aka: "Yaoxiang Shang"
 line: zhou
+generation: 5
 birth:
   date: "1911-06-30"
   place: "Pingdu Shi, Qingdao, Shandong, China"

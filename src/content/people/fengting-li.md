@@ -2,6 +2,7 @@
 name: "Li Fengting 李丰庭"
 aka: "Fengting Li"
 line: zhou
+generation: 4
 spouses:
   - rongjing-qiu
 summary: "Lijie's maternal great-grandfather. Husband of Rongjing Qiu; father of Zhongchu Li (Lijie's grandfather), Yunhua Li, Chengwu Li, and Yunying Li."

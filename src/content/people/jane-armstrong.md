@@ -2,7 +2,7 @@
 name: "Jane (Armstrong) Davis"
 aka: "Jane Armstrong, maiden"
 line: maternal
-generation: 6
+generation: 2
 birth:
   date: "1816"
   place: "Jefferson County, Ohio"

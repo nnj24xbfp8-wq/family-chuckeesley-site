@@ -2,7 +2,7 @@
 name: "Victoria Anna (Way) Davis"
 aka: "Victoria Ann Davis"
 line: maternal
-generation: 5
+generation: 3
 birth:
   date: "1874-01-27"
   place: "Crooked Tree, Jackson Township, Noble County, Ohio"
