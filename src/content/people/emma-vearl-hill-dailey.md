@@ -1,5 +1,6 @@
 ---
 name: "Emma Vearl (Hill) Dailey"
+portrait: ../../assets/family/originals/hill-three-women-c1935.jpeg
 aka: "Emma Vearl Hill, maiden"
 line: maternal
 generation: 4

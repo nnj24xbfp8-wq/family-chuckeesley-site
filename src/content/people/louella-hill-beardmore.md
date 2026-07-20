@@ -1,5 +1,6 @@
 ---
 name: "Louella Virginia (Hill) Beardmore"
+portrait: ../../assets/family/originals/hill-three-women-c1935.jpeg
 aka: "Louella Virginia Hill, maiden"
 line: maternal
 generation: 4

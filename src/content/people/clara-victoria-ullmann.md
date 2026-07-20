@@ -1,5 +1,6 @@
 ---
 name: "Clara Victoria Ullmann"
+portrait: ../../assets/family/originals/hill-three-women-c1935.jpeg
 aka: "Clara V. Hill"
 line: maternal
 generation: 3

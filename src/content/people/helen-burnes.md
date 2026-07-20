@@ -1,5 +1,6 @@
 ---
 name: "Helen Louise (Eesley) Burnes"
+portrait: ../../assets/family/originals/helen-eesley-teen-pacific-shore-c1939-1941.jpeg
 aka: "Helen Eesley, maiden; 'Little Helen' in the c. 1970s family-reunion portrait, to distinguish her from 'Big Helen' (Len's wife)"
 line: paternal
 birth:
