@@ -1,7 +1,7 @@
 ---
 name: "Donald Stuart Eesley"
 aka: "Don"
-portrait: ../../assets/family/originals/eesley-three-brothers-c1912.jpeg
+portrait: ../../assets/family/originals/donald-stuart-eesley-portrait-april-1932.jpeg
 line: paternal
 birth:
   date: "1908-09-24"
@@ -41,6 +41,16 @@ The most charged family story Don is at the center of: in c. 1929, when Don was 
 Don was twenty-one or twenty-two at the time of the lesson. Aunt Ota would die on 9 February 1930 surrounded by family at the Bexley house on Cassidy Avenue, still narrating her own decline in the clinical voice she had used her whole career. Don did not become a physician &mdash; the lesson may have dissuaded him, or simply put the moral cost of medicine vividly in front of him. Either way the chain of family memory it generated runs from Aunt Ota to Helen (Don's younger sister, who was five at the time and watched it through the door) to Roberta (Helen's daughter) to this archive.
 
 > *Sources: Mary Eesley Bean, *[Eesley Family History](/docs/eesley-family-history-1985/)*, p. 8; Roberta Burnes, email June 2026 (the Aunt Ota anatomy lesson). Structured record: [Dale Eesley / FamilySearch — Donald Stuart Eesley (MCZ8-WYV)](https://www.familysearch.org/tree/person/details/MCZ8-WYV).*
+
+## Portrait, April 1932
+
+A studio portrait of Don as a young man of about twenty-three &mdash; dark suit and patterned tie, hair combed and waved, an easy half-smile &mdash; taken **April 1932**. It is the archive's first adult likeness of him, and now the portrait at the top of this page.
+
+![Donald Stuart Eesley, April 1932 — a studio portrait of him at about twenty-three.](../../assets/family/originals/donald-stuart-eesley-portrait-april-1932.jpeg)
+
+## At Sault Ste. Marie with Aunt Ota and Helen, 1929
+
+Don with his aunt **[Sciota "Ota" Chenoweth Smith](/family/scioto-mafry-chenoweth/)** &mdash; his mother Lillie Dale's sister, the physician &mdash; and his sister-in-law **[Helen Bernadine "Big Helen" (Alspach) Eesley](/family/helen-bernadine-alspach-eesley/)** (Leonard's wife), on a waterfront at **Sault Ste. Marie in 1929**. (The "Helen" of the label is Big Helen, *not* Don's youngest sister [Helen Burnes](/family/helen-burnes/), who was only five in 1929.) See the [artifact](/archive/don-aunt-ota-helen-sault-ste-marie-1929/).
 
 ## With his brothers c. 1912
 

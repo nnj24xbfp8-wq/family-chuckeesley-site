@@ -1,6 +1,7 @@
 ---
 name: "Helen Bernadine (Alspach) Eesley"
 aka: "'Big Helen' Eesley (to distinguish from her sister-in-law Helen Burnes — 'Little Helen' — in family-memory shorthand); Helen Alspach, maiden"
+portrait: ../../assets/family/originals/don-aunt-ota-helen-sault-ste-marie-1929.jpeg
 line: paternal
 birth:
   date: "1902-10-05"
@@ -22,6 +23,10 @@ summary: "Wife of Leonard David 'Len' Eesley — the eldest of Charles Leonard a
 She was born **5 October 1902 in Bloom Township, Fairfield County, Ohio** — a rural-Ohio township about 30 miles southeast of Columbus, in the same broader **Columbus orbit** where Leonard's family lived in Bexley. The two were nearly the same age (Leonard b. November 1904, Helen b. October 1902 — Helen was two years older). They married in **1925**, when she was 23 and he was 21.
 
 The Alspach surname is of **German-American Pennsylvania origin** — Pfalz / Württemberg / Hessen Germans who came to Ohio via Pennsylvania in the early 19th century. Bloom Township carried multiple Alspach-family lines into the late 19th and early 20th centuries.
+
+## Earliest photograph — Sault Ste. Marie, 1929
+
+The portrait at the top of this page is drawn from the **[1929 Sault Ste. Marie photograph](/archive/don-aunt-ota-helen-sault-ste-marie-1929/)**, where Big Helen &mdash; about twenty-seven, four years into her marriage to Leonard &mdash; stands with her brother-in-law [Don](/family/don-eesley/) and his aunt [Sciota "Ota" Chenoweth Smith](/family/scioto-mafry-chenoweth/) on a waterfront. It is the earliest image of her in the archive, and long clarified a recurring confusion: the "Helen" of that label is *Big Helen*, not her sister-in-law [Helen Burnes](/family/helen-burnes/), who was only five in 1929.
 
 ## The reunion portrait
 
