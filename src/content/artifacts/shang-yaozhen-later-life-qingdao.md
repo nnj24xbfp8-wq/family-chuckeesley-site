@@ -21,9 +21,9 @@ A set of later-life photographs of **[Shang Yaozhen](/family/yaozhen-shang/)** (
 
 </aside>
 
-![Shang Yaozhen seated in a residential courtyard in Qingdao, beside a 壽 (longevity) stone.](../../assets/family/originals/shang-yaozhen-courtyard-longevity-stone-qingdao.jpeg)
+![Formal red-background portrait of Shang Yaozhen — the image used for her FamilySearch profile.](../../assets/family/originals/shang-yaozhen-portrait-red-background.jpeg)
 
-*In a Qingdao residential courtyard, beside the community's 壽 ("longevity") stone.*
+*Her formal portrait — the image her family used for her FamilySearch profile.*
 
 ![Shang Yaozhen at home in Qingdao, seated in a floral-papered sitting room.](../../assets/family/originals/shang-yaozhen-at-home-qingdao.jpeg)
 
