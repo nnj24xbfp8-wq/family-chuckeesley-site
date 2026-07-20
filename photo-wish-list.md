@@ -24,8 +24,8 @@ These already had a photo on their page; they now show a thumbnail on index/rela
 
 ## Tier 1 — central figures with NO photo anywhere
 
-- **Bessie Marie (Hill) Davis** (1905–1950) — Chuck's maternal **great-grandmother**. Currently appears only inside the Mt. Perry group photo. A solo image is high priority; she died young (44), so photos are scarce.
-- **Clara Victoria Ullmann (Hill)** (1885–1941) — maternal **great-great-grandmother**, Harvey Hill's wife. Only in the Mt. Perry group. 
+- ~~**Bessie Marie (Hill) Davis** (1905–1950)~~ — ✅ **RESOLVED July 2026.** Young porch portrait (c. early 1920s) now her thumbnail; also placed in the [1947 five-generation portrait](/archive/hill-davis-murdock-five-generation-1947/).
+- **Clara Victoria Ullmann (Hill)** (1885–1941) — maternal **great-great-grandmother**, Harvey Hill's wife. Only in the Mt. Perry group. **Possible lead:** she may be the middle woman in the three-women photo with her daughters Emma and (likely) Louella — needs family confirmation, since her sister Nettie looked similar. *(That photo not yet on disk.)*
 - **Helen Louise "Little Helen" (Eesley) Burnes** (1924–2000) — Charles Leonard's youngest child, Roberta Burnes's mother. Only images so far are an *ambiguous* "Helen or Jean" toddler shot (not used, ID unconfirmed) and the group reunion. Needs a confirmed adult photo. *(Roberta would likely have one.)*
 
 ## Tier 2 — better portraits for people shown only as children/infants

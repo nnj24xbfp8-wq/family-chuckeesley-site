@@ -1,6 +1,7 @@
 ---
 name: "Bessie Marie (Hill) Davis"
 aka: "Bessie M. Hill, maiden"
+portrait: ../../assets/family/originals/bessie-marie-hill-davis-young-porch-c1920s.jpeg
 line: maternal
 birth:
   date: "1905-03-28"
@@ -37,5 +38,9 @@ The Wildermuth/Fleming Heritage records that the Davis family later moved from W
 Bessie died **29 May 1950, age 45** &mdash; sixteen years before her granddaughter Terrie Lee's birth, and twenty-nine years before her great-grandson Chuck's birth. Neither would meet her. Her parents both predeceased her by less than a decade: her mother Clara died in October 1941, her father Harvey followed in February 1951 (eight months after Bessie). The Hill-Ullmann generation of the Davis family is, in retrospect, the southeastern Ohio working-family generation that did not see its grandchildren into adulthood.
 
 The [Hill family connection on Janetta Smith's side](/family/janetta-smith/) carries through her grandsons &mdash; including [Josiah Way Hill](/family/josiah-way-hill/), Bessie's uncle who was killed in action at the Meuse-Argonne on 11 October 1918 when Bessie was thirteen years old &mdash; the family's earliest documented World War casualty.
+
+## In the photographs
+
+The **portrait at the top of this page** &mdash; a young woman in a white blouse seated on a porch step, c. early 1920s &mdash; is the first standalone photograph of Bessie in this archive; she is about seventeen or eighteen here. She also appears among the family at the [c. 1938&ndash;41 Hill family porch at Mt. Perry](/archive/hill-davis-family-mt-perry-porch-c1940s/), and, near the end of her life, standing behind her daughter and infant grandson in the [1947 five-generation portrait](/archive/hill-davis-murdock-five-generation-1947/) &mdash; she would die three years later, at 45.
 
 > *Sources: [Dorothy Marie Davis's birth certificate, 24 February 1925, in the Wildermuth/Fleming Heritage](/docs/wildermuth-fleming-heritage-1990/); [Dorothy Marie Wildermuth funeral program, 13 August 2010](/family/dorothy-davis-wildermuth/); [Eesley/Wildermuth GEDCOM tree](/docs/dale-eesley-familysearch-tree/) (June 2026 trace) &mdash; FamilySearch tree ID LRDD-J4B for Bessie Marie Hill confirms birth 28 Mar 1905, death 29 May 1950, parents Harvey Hendershot Hill + Clara Victoria Ullmann.*
