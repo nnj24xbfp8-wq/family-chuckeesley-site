@@ -36,7 +36,7 @@ These already had a photo on their page; they now show a thumbnail on index/rela
 
 ## Tier 3 — historically resonant, likely findable
 
-- **Dale Dudley Eesley** (1906–1939) — drowned at Black Lake, July 1939; one of the family's defining losses, with no face yet.
+- ~~**Dale Dudley Eesley** (1906–1939)~~ — ✅ **RESOLVED July 2026.** He's identified in several photos (the c. 1937–39 Charles Leonard group, both Black Lake frames, the 1927 marriage license); his face front-left in the [c. 1928 Black Lake second frame](/archive/black-lake-cottage-group-c1928-second-frame/) is now his thumbnail.
 - **Josiah Way Hill** (1893–1918) — killed at the Meuse-Argonne, October 1918. WWI service/enlistment portraits often survive in family or military records.
 
 ## Tier 4 — the biggest structural gap: Lijie's side (Zhou / Li / Shang, Qingdao)

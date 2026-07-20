@@ -1,6 +1,7 @@
 ---
 name: "Dale Dudley Eesley"
 aka: "Dale Dudley George Eesley (Bean's 1985 register variant — 'George' middle name not in the GEDCOM)"
+portrait: ../../assets/family/originals/black-lake-cottage-group-c1928-second-frame.jpeg
 line: paternal
 birth:
   date: "1906-08-05"
