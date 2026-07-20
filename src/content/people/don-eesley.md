@@ -1,6 +1,7 @@
 ---
 name: "Donald Stuart Eesley"
 aka: "Don"
+portrait: ../../assets/family/originals/eesley-three-brothers-c1912.jpeg
 line: paternal
 birth:
   date: "1908-09-24"

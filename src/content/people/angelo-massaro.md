@@ -1,6 +1,7 @@
 ---
 name: "Dr. Angelo Battista Massaro"
 aka: "Angelo Massaro"
+portrait: ../../assets/family/originals/angelo-and-debbie-massaro-poolside-c1988.jpeg
 line: other
 birth:
   date: "1935-11-07"

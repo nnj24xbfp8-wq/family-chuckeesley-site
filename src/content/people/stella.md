@@ -1,6 +1,7 @@
 ---
 name: "Stella Elaine Sunn Chong"
 aka: "Stella Sunn, maiden"
+portrait: ../../assets/family/originals/stella-bradford-bachrach-studio-portrait-c1948.jpeg
 line: other
 birth:
   date: "1925-10-05"

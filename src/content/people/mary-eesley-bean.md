@@ -1,6 +1,7 @@
 ---
 name: "Mary Elizabeth (Eesley) Bean"
 aka: "Mary Eesley, maiden"
+portrait: ../../assets/family/originals/mary-eesley-bean-wedding-portrait.jpeg
 line: paternal
 birth:
   date: "1913-08-25"

@@ -1,6 +1,7 @@
 ---
 name: "Li Xun 李恂"
 aka: "Xun Li"
+portrait: ../../assets/family/originals/IMG_1485.jpeg
 line: zhou
 generation: 6
 spouses:

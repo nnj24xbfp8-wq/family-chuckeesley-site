@@ -1,6 +1,7 @@
 ---
 name: "Homer Edward Davis"
 aka: "Homer Davis"
+portrait: ../../assets/family/originals/william-victoria-homer-davis-c1902-portrait.jpeg
 line: maternal
 birth:
   date: "1900-02-08"

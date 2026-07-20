@@ -1,6 +1,7 @@
 ---
 name: "Mafry Smith Hyatt"
 aka: "Mafry Smith, maiden — daughter of Dr. Sciota Mafry Chenoweth Smith and named for her mother"
+portrait: ../../assets/family/originals/mafry-hyatt-with-daughter-c1930s.jpeg
 line: paternal
 generation: 5
 parents:

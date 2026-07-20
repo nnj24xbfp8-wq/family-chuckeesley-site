@@ -1,6 +1,7 @@
 ---
 name: "Leonard David Eesley"
 aka: "Uncle Len Eesley"
+portrait: ../../assets/family/originals/eesley-three-brothers-c1912.jpeg
 line: paternal
 birth:
   date: "1904-11-19"
