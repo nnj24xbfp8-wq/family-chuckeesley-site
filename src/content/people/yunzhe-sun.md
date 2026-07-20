@@ -1,6 +1,6 @@
 ---
 name: "Sun Yunzhe 孙云哲"
-portrait: ../../assets/family/originals/IMG_3498.jpeg
+portrait: ../../assets/family/originals/zhou-zhaoxiang-and-sun-yunzhe-couple-qingdao.jpeg
 aka: "Yunzhe Sun"
 line: zhou
 generation: 5

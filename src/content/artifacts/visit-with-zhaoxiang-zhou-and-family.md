@@ -14,6 +14,7 @@ people:
   - zhaoxiang-zhou
   - ling-zhou
   - xun-li
+  - ai-hua-zhou
 ---
 
 <p class="not-prose my-4 p-3 border-l-4 border-rule bg-ink/5 text-sm"><strong>📖 本页含中文版本 — <a href="#zh">点此跳至中文 ↓</a></strong> &nbsp;·&nbsp; <em>This page has a Chinese version below.</em></p>
@@ -24,7 +25,11 @@ Seated in the front row: **Zhaoxiang Zhou 周兆祥** (Lijie's paternal grandfat
 
 Standing behind: **Lijie** and **Chuck**, both in dark coats &mdash; visiting from Stanford.
 
-The colorful flower-and-vine **folk-art mural** behind the seated row places the room in a Chinese community or senior gathering space. A companion frame from the same visit, showing Zhaoxiang with his daughter Ai Hua Zhou and her husband, is held in the family and will be placed when re-uploaded.
+The colorful flower-and-vine **folk-art mural** behind the seated row places the room in a Chinese community or senior gathering space.
+
+A companion frame from the same visit is below — Zhaoxiang seated, with his daughter **[Ai Hua Zhou 周愛華](/family/ai-hua-zhou/)** (Lijie's paternal aunt), Lijie, and Chuck against the same mural.
+
+![Zhou Zhaoxiang seated, with his daughter Ai Hua Zhou, granddaughter Lijie, and Chuck, at the same Qingdao visit.](../../assets/family/originals/zhou-family-visit-zhaoxiang-aihua-lijie-chuck.jpeg)
 
 This is the late-life photograph of Zhaoxiang Zhou in the archive; the family also holds a younger-man studio portrait of him not yet placed here. He died less than a decade after Yaozhen Shang (Lijie's maternal grandmother, d. 2013) and a year before his own wife Yunzhe Sun (d. 2023). After his death, the elder generation on the Zhou side passed entirely into the family record.
 
