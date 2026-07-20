@@ -2,7 +2,7 @@
 name: "William F. Way"
 aka: "the first Way in Noble County, Ohio"
 line: maternal
-generation: 8
+generation: 0
 birth:
   place: "England"
 death:

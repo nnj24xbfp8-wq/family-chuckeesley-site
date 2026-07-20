@@ -2,6 +2,7 @@
 name: "Thelma G. Eesley"
 aka: "Thelma G. Haughn (maiden name, per the 1927 marriage certificate); 'a friend of the family' to Helen Burnes's children growing up in Columbus"
 line: other
+generation: 5
 birth:
   date: "c. 1906"
 death:

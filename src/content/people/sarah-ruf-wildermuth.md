@@ -7,7 +7,7 @@ birth:
   place: "Williamstown, Wood County, West Virginia"
 death:
   date: ""
-generation: 4
+generation: 3
 spouses:
   - william-wildermuth
 status: sketch

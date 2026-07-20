@@ -2,7 +2,7 @@
 name: "William Armstrong Davis"
 aka: "William A. Davis"
 line: maternal
-generation: 5
+generation: 3
 birth:
   date: "1859-11-05"
   place: "Jefferson, Ohio"

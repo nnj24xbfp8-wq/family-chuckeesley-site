@@ -1,6 +1,7 @@
 ---
 name: "Wen Peng Zhang"
 line: zhou
+generation: 6
 spouses:
   - ai-hua-zhou
 living: true

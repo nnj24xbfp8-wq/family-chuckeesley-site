@@ -5,7 +5,7 @@ line: maternal
 birth:
   date: "1922-04-29"
   place: "Tremont Hospital, Sixth and Montgomery Streets, Marietta, Washington County, Ohio"
-generation: 4
+generation: 5
 parents:
   - earl-a-wildermuth
   - sadye-fleming-wildermuth

@@ -2,6 +2,7 @@
 name: "Shang DeChen 尚德臣"
 aka: "DeChen Shang"
 line: zhou
+generation: 4
 spouses:
   - chune-tan
 summary: "Lijie's maternal great-grandfather on the Shang side. Husband of Chune Tan; father of Yaozhen Shang (Lijie's grandmother), Yaoxiang Shang, Yaofu Shang, and Yaoli Shang."

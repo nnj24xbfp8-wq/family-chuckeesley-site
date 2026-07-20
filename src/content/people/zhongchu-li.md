@@ -2,6 +2,7 @@
 name: "Li Zhongchu 李仲初"
 aka: "Zhongchu Li"
 line: zhou
+generation: 5
 birth:
   date: "1921-09-15"
   place: "Qingdao, Shandong, China"

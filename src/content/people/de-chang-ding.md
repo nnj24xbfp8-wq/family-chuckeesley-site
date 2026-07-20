@@ -1,6 +1,7 @@
 ---
 name: "De Chang Ding"
 line: zhou
+generation: 6
 spouses:
   - bo-li
 living: true

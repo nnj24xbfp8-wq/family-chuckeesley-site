@@ -2,6 +2,7 @@
 name: "Li Yunhua 李蕴华"
 aka: "Yunhua Li"
 line: zhou
+generation: 5
 birth:
   date: "1911-06-30"
   place: "Qingdao, Shandong, China"

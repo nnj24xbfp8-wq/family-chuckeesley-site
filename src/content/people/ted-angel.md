@@ -2,6 +2,7 @@
 name: "Theodore Ewing 'Ted' Angel"
 aka: "Ted Angel; Theodore E. Angel; the Marietta picture-framer; father of Rebecca 'Becky' Lynne (Angel) Davis"
 line: other
+generation: 4
 status: sketch
 spouses:
   - faye-angel

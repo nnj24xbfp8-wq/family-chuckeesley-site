@@ -2,6 +2,7 @@
 name: "Shang Yaofu 尚耀福"
 aka: "Yaofu Shang"
 line: zhou
+generation: 5
 birth:
   date: "1925-04"
 death:

@@ -2,6 +2,7 @@
 name: "Zhou Quan 周全"
 aka: "Quan Zhou"
 line: zhou
+generation: 6
 parents:
   - zhaoxiang-zhou
   - yunzhe-sun

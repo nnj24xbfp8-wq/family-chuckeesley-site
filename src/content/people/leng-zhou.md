@@ -2,6 +2,7 @@
 name: "Leng (Zhou) 冷"
 aka: "Leng Zhou"
 line: zhou
+generation: 3
 spouses:
   - huiting-zhou
 summary: "Lijie's paternal great-great-grandmother. Wife of Huiting Zhou; mother of Maoli Zhou. Birth and death not yet recorded; her maiden surname Leng (冷) is preserved in the GEDCOM but no further family detail is yet attached."

@@ -1,7 +1,7 @@
 ---
 name: "Martha Kelley"
 line: maternal
-generation: 4
+generation: 2
 birth:
   date: "1844"
   place: "Barbour County, Virginia (now West Virginia)"

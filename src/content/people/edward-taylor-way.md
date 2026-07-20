@@ -2,7 +2,7 @@
 name: "Edward Taylor Way"
 aka: "Edward T. Way"
 line: maternal
-generation: 7
+generation: 1
 birth:
   date: "1812-09-11"
   place: "Isle of Wight, England"

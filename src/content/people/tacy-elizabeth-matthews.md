@@ -2,7 +2,7 @@
 name: "Tacy Elizabeth Matthews"
 aka: "Tacy Matthews Way"
 line: maternal
-generation: 6
+generation: 2
 birth:
   date: "1848-11-04"
   place: "Washington County, Ohio"

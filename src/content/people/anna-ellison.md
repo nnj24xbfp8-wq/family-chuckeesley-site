@@ -2,7 +2,7 @@
 name: "Anna Ellison Way"
 aka: "Anna Ellison; Ann Ellison"
 line: maternal
-generation: 7
+generation: 1
 birth:
   date: "1821-06-28"
   place: "Coppull, Lancashire, England"

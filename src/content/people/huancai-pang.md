@@ -2,6 +2,7 @@
 name: "Pang Huancai 庞焕彩"
 aka: "Huancai Pang"
 line: zhou
+generation: 4
 birth:
   date: "1908"
 death:

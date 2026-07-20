@@ -2,6 +2,7 @@
 name: "Li Bo 李勃"
 aka: "Bo Li"
 line: zhou
+generation: 6
 parents:
   - zhongchu-li
   - yaozhen-shang

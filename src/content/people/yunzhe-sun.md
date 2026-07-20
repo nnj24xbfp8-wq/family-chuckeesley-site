@@ -2,6 +2,7 @@
 name: "Sun Yunzhe 孙云哲"
 aka: "Yunzhe Sun"
 line: zhou
+generation: 5
 death:
   date: "2023-12"
   place: "Qingdao, Shandong, China"

@@ -2,6 +2,7 @@
 name: "Shang Yaoli 尚耀礼"
 aka: "Yaoli Shang"
 line: zhou
+generation: 5
 parents:
   - dechen-shang
   - chune-tan

@@ -2,6 +2,7 @@
 name: "Shang Yaozhen 尚耀真"
 aka: "Yaozhen Shang"
 line: zhou
+generation: 5
 birth:
   date: "1921-09-11"
   place: "Qingdao, Shandong, China"

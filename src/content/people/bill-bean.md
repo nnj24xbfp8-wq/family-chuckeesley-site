@@ -2,6 +2,7 @@
 name: "William Thomas Bean"
 aka: "Bill Bean"
 line: other
+generation: 5
 birth:
   date: "1909-11-15"
 spouses:

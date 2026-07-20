@@ -2,7 +2,7 @@
 name: "Harvey Hendershot Hill"
 aka: "Harvey Henderson Hill (variant spelling)"
 line: maternal
-generation: 4
+generation: 3
 birth:
   date: "1882-11-10"
   place: "Monroe County, Ohio"

@@ -1,7 +1,7 @@
 ---
 name: "Seth Grosvenor Dunbar"
 line: maternal
-generation: 4
+generation: 2
 birth:
   date: "1836-10-07"
   place: "Kennebec County, Maine"

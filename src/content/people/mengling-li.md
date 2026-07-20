@@ -2,6 +2,7 @@
 name: "Li Mengling 李孟令"
 aka: "Mengling Li"
 line: zhou
+generation: 6
 parents:
   - zhongchu-li
   - yaozhen-shang

@@ -2,6 +2,7 @@
 name: "Zhou Zhaozheng 周兆帧"
 aka: "Zhaozheng Zhou"
 line: zhou
+generation: 5
 birth:
   date: "1938"
   place: "Jiaozhou Shi, Qingdao Shi, Shandong, China"

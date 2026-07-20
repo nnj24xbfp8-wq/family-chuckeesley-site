@@ -2,6 +2,7 @@
 name: "Zhou Huiting 周慧亭"
 aka: "Huiting Zhou"
 line: zhou
+generation: 3
 spouses:
   - leng-zhou
 summary: "Lijie's paternal great-great-grandfather. Father of Maoli Zhou. The deepest documented Zhou-side ancestor in this archive at the moment."

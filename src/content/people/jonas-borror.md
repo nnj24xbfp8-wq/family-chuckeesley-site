@@ -1,6 +1,7 @@
 ---
 name: "Jonas Borror"
 line: paternal
+generation: 4
 spouses:
   - elsie-chenoweth-borror
 status: sketch

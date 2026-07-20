@@ -1,6 +1,7 @@
 ---
 name: "Gregory Scott Eesley"
 line: paternal
+generation: 7
 sortBirth: "1968"
 parents:
   - james-michael-eesley

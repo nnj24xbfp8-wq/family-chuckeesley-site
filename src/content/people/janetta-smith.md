@@ -1,7 +1,7 @@
 ---
 name: "Janetta (Smith) Hill"
 line: maternal
-generation: 5
+generation: 2
 birth:
   date: "1864-02"
   place: "Monroe County, Ohio"

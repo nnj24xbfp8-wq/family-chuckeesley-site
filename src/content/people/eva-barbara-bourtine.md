@@ -2,6 +2,7 @@
 name: "Eva Barbara (Bourtine) Schmidt"
 aka: "Eva Barbara Bourtine, maiden"
 line: maternal
+generation: 1
 birth:
   place: "Bavaria, Germany"
 death:

@@ -2,6 +2,7 @@
 name: "Faye Angel"
 aka: "Chuck's godmother"
 line: other
+generation: 4
 status: sketch
 spouses:
   - ted-angel

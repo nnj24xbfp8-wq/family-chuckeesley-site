@@ -1,7 +1,7 @@
 ---
 name: "William Davis"
 line: maternal
-generation: 7
+generation: 1
 birth:
   date: "1764"
 death:

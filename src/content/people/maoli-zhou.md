@@ -2,6 +2,7 @@
 name: "Zhou Maoli 周茂礼"
 aka: "Maoli Zhou"
 line: zhou
+generation: 4
 death:
   date: "1935"
   place: "Jiaozhou, Jiaozhou Shi, Qingdao, Shandong, China"
