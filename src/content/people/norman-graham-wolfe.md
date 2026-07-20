@@ -1,5 +1,6 @@
 ---
 name: "Norman Graham 'Norm' Wolfe"
+portrait: ../../assets/family/originals/homer-davis-with-betty-and-norm-wolfe-c1968.jpeg
 aka: "Uncle Norm; Norm Wolfe; the Sixth Street Church of Christ deacon"
 line: maternal
 birth:

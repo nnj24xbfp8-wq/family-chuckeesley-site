@@ -1,5 +1,6 @@
 ---
 name: "William Harvey Davis Sr."
+portrait: ../../assets/family/originals/homer-davis-with-son-william-harvey-c1943.jpeg
 aka: "Bill Davis Sr."
 line: maternal
 birth:

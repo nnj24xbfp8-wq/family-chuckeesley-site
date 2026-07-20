@@ -32,7 +32,7 @@ These already had a photo on their page; they now show a thumbnail on index/rela
 
 - ~~**Leonard David Eesley** (1904–1976)~~ — ✅ **RESOLVED July 2026.** Fine Spring 1929 adult studio portrait now his thumbnail; plus a c. 1932 photo with his toddler son Tommy. (Was only the c. 1912 boyhood group.)
 - ~~**Donald Stuart Eesley** (1908–1975)~~ — ✅ **RESOLVED July 2026.** April 1932 studio portrait now his thumbnail; plus a 1929 Sault Ste. Marie photo with Aunt Ota. (Was only the c. 1912 boyhood group.)
-- **Homer Edward Davis** (1900–1982) — only the c. 1902 infant portrait; an adult photo would round out Chuck's maternal great-grandfather.
+- ~~**Homer Edward Davis** (1900–1982)~~ — ✅ **NOT a gap (corrected).** Already has five photos across his life on his page (c. 1902 as a toddler, c. 1944–45 with his son, c. 1945 with daughters, c. 1953–55 backyard group, c. 1970 in Florida), plus the Mt. Perry group. Only quirk: his *thumbnail* is the c. 1902 infant portrait — could swap to an adult photo, but that's cosmetic.
 
 ## Tier 3 — historically resonant, likely findable
 
