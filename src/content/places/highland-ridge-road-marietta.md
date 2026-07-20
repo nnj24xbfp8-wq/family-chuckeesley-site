@@ -148,7 +148,7 @@ Six frames span from the late 1970s through the mid-1980s &mdash; the **first su
 
 ### Charles Leonard Eesley extended-family reunion
 
-![Charles Leonard Eesley extended-family reunion at Highland Ridge, c. 1980 — twelve people with five of Charles Leonard's eight children together, spouses, and the next generation. ([artifact page](/archive/highland-ridge-family-group-portrait-c-1980/))](../../assets/family/originals/00000004_00000047_00000048.jpeg)
+![Charles Leonard Eesley extended-family reunion at Highland Ridge, c. 1971–1972 — twelve people with five of Charles Leonard's eight children together, spouses, and the next generation. ([artifact page](/archive/highland-ridge-family-group-portrait-c-1980/))](../../assets/family/originals/00000004_00000047_00000048.jpeg)
 
 ### Extended Eesley family gathering, c. 1985–1986
 

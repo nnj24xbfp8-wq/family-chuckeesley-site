@@ -9,7 +9,7 @@ generation: 5
 spouses:
   - don-eesley
 status: sketch
-summary: "Wife of Donald Stuart 'Don' Eesley (1908–1975) — Charles Leonard and Lillie Dale's third son. Born 24 June 1913 in Ohio; married Don on 16 June 1938 in Franklin County, Ohio. Photographed in the c. 1970s Eesley extended family reunion portrait — identified in the typed caption as 'Peggy Yeoman Eesley.' Chuck's great-aunt by marriage. The 'Yeoman' caption spelling and the GEDCOM-form 'Youman' (Margaret Adeline Youman) are spelling variants of the same maiden name."
+summary: "Wife of Donald Stuart 'Don' Eesley (1908–1975) — Charles Leonard and Lillie Dale's third son. Born 24 June 1913 in Ohio; married Don on 16 June 1938 in Franklin County, Ohio. Photographed in the c. 1971–1972 Eesley extended family reunion portrait — identified in the typed caption as 'Peggy Yeoman Eesley.' Chuck's great-aunt by marriage. The 'Yeoman' caption spelling and the GEDCOM-form 'Youman' (Margaret Adeline Youman) are spelling variants of the same maiden name."
 ---
 
 **Margaret Adeline "Peggy" (Youman) Eesley** was the **wife of [Donald Stuart "Don" Eesley](/family/don-eesley/)** — Charles Leonard and Lillie Dale Chenoweth Eesley's third son. She is **"Aunt Peggy Yeoman"** in the family-memory shorthand — distinguished from Chuck's grandmother **Peggy McMaster Eesley** (Will's wife) by the maiden-name suffix.
@@ -33,4 +33,4 @@ She appears second from the right in the **[c. 1971–1972 Eesley extended famil
 
 She is **Chuck's great-aunt by marriage** on the paternal Eesley side.
 
-> *Source: [Dale Eesley / FamilySearch — Margaret Adeline Youman (LBZX-4TP)](https://www.familysearch.org/tree/person/details/LBZX-4TP); [c. 1970s Eesley extended family reunion portrait](/archive/highland-ridge-family-group-portrait-c-1980/) typed caption; Mary Eesley Bean, [Eesley Family History](/docs/eesley-family-history-1985/) (1985), p. 8.*
+> *Source: [Dale Eesley / FamilySearch — Margaret Adeline Youman (LBZX-4TP)](https://www.familysearch.org/tree/person/details/LBZX-4TP); [c. 1971–1972 Eesley extended family reunion portrait](/archive/highland-ridge-family-group-portrait-c-1980/) typed caption; Mary Eesley Bean, [Eesley Family History](/docs/eesley-family-history-1985/) (1985), p. 8.*

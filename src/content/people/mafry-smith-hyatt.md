@@ -51,7 +51,7 @@ If Mafry was [married in September 1922](/docs/letters/lillie-dale-to-leonard-19
 
 ## In the c. 1970s family reunion portrait
 
-Mafry appears as one of the named figures in the **[c. 1970s Eesley extended family reunion portrait](/archive/highland-ridge-family-group-portrait-c-1980/)**. The typed caption identifies her specifically as:
+Mafry appears as one of the named figures in the **[c. 1971–1972 Eesley extended family reunion portrait](/archive/highland-ridge-family-group-portrait-c-1980/)**. The typed caption identifies her specifically as:
 
 > *Mafry Smith Hyatt (daughter of Lilly Chenoweth Eesley's sister, Dr. Sciota "Ota" Chenoweth Smith)*
 
