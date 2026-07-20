@@ -1,7 +1,7 @@
 ---
 title: "Shang Yaozhen in later life — Qingdao"
 type: "Photograph"
-image: ../../assets/family/originals/shang-yaozhen-portrait-red-background.jpeg
+image: ../../assets/family/originals/shang-yaozhen-courtyard-longevity-stone-qingdao.jpeg
 medium: "Color photographs"
 dateCreated: "c. 2000s–2010s"
 sortDate: "2010-01-01"
@@ -13,7 +13,7 @@ people:
   - yaozhen-shang
 ---
 
-A set of later-life photographs of **[Shang Yaozhen](/family/yaozhen-shang/)** (1921&ndash;2013), [Lijie](/family/lijie-zhou/)'s maternal grandmother — the grandmother who, widowed since 1982, saw Lijie grow up. The formal red-background portrait above is the image her family used for her [FamilySearch](https://www.familysearch.org/) profile.
+A set of later-life photographs of **[Shang Yaozhen](/family/yaozhen-shang/)** (1921&ndash;2013), [Lijie](/family/lijie-zhou/)'s maternal grandmother — the grandmother who, widowed since 1982, saw Lijie grow up. Her formal red-background portrait — the image her family used for her [FamilySearch](https://www.familysearch.org/) profile, and her thumbnail on this site — is reproduced below.
 
 <aside class="not-prose my-6 border-l-4 border-stone-400 bg-stone-50/70 dark:bg-stone-900/30 px-5 py-4 rounded-r text-sm">
 
