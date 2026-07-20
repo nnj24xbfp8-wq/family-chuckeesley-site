@@ -30,7 +30,7 @@ These already had a photo on their page; they now show a thumbnail on index/rela
 
 ## Tier 2 — better portraits for people shown only as children/infants
 
-- **Leonard David Eesley** (1904–1976) — only the c. 1912 boyhood group. An adult portrait would befit Charles Leonard's eldest son.
+- ~~**Leonard David Eesley** (1904–1976)~~ — ✅ **RESOLVED July 2026.** Fine Spring 1929 adult studio portrait now his thumbnail; plus a c. 1932 photo with his toddler son Tommy. (Was only the c. 1912 boyhood group.)
 - **Donald Stuart Eesley** (1908–1975) — same; only the c. 1912 boyhood group.
 - **Homer Edward Davis** (1900–1982) — only the c. 1902 infant portrait; an adult photo would round out Chuck's maternal great-grandfather.
 

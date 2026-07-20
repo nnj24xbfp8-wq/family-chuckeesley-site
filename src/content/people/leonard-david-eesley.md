@@ -1,7 +1,7 @@
 ---
 name: "Leonard David Eesley"
 aka: "Uncle Len Eesley"
-portrait: ../../assets/family/originals/eesley-three-brothers-c1912.jpeg
+portrait: ../../assets/family/originals/leonard-david-eesley-portrait-spring-1929.jpeg
 line: paternal
 birth:
   date: "1904-11-19"
@@ -30,6 +30,16 @@ Leonard David married **[Helen Bernadine Alspach](/family/helen-bernadine-alspac
 - **[James Michael "Mike" Eesley](/family/james-michael-eesley/)**, b. 26 October 1938 &mdash; married Adrienne Woods, with sons Gregory Scott (1968) and Thomas Patrick (1969).
 
 > *Sources: Mary Eesley Bean, *[Eesley Family History](/docs/eesley-family-history-1985/)*, 1985 (descendant register, generations IV&ndash;VI); family memory.*
+
+## Portrait, Spring 1929
+
+A studio-lit portrait of Leonard as a young man of about twenty-four &mdash; seated in a three-piece suit with a patterned tie, hair combed back, a slim mustache &mdash; taken in **Spring 1929**. It is the archive's first adult likeness of Charles Leonard's eldest son, and now the portrait at the top of this page.
+
+![Leonard David Eesley, Spring 1929 — a young man of about twenty-four, seated in a three-piece suit.](../../assets/family/originals/leonard-david-eesley-portrait-spring-1929.jpeg)
+
+## With his son Tommy, c. 1932
+
+Leonard, in a beret and sweater, cradling his small son **[Thomas Leonard "Tommy" Eesley](/family/tommy-eesley/)** (b. 1 December 1930) on a sunny bank &mdash; a candid outdoor frame from about 1932, when Tommy was a toddler. See the [father-and-son artifact](/archive/leonard-and-son-tommy-c1932/).
 
 ## With his brothers c. 1912
 
