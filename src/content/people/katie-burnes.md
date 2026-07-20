@@ -7,6 +7,7 @@ birth:
   date: "1965-02-15"
 parents:
   - helen-burnes
+  - edwin-william-burnes
 status: sketch
 summary: "Daughter of Helen Louise (Eesley) Burnes and Edwin William Burnes — one of six daughters in the Burnes household, and Chuck's first cousin once removed on the paternal Eesley side. Married into the McKeel family and took her husband's surname (one of two of the Burnes daughters to do so, alongside her oldest sister Barb Hester; her sisters Shelley, Cindy, Liz, and Roberta all kept the Burnes name). Photographed as a young woman in the c. 1971–1972 Eesley extended family reunion portrait, identified in the family's typed caption simply as 'Katie Burnes (Helen Burnes' daughter).'"
 ---

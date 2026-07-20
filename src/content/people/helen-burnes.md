@@ -12,6 +12,8 @@ generation: 5
 parents:
   - charles-leonard-eesley
   - lillie-dale-chenoweth
+spouses:
+  - edwin-william-burnes
 summary: "Sister of Will and Mary Eesley Bean; Chuck's great-aunt; mother of six daughters and a son, including Roberta Burnes (keeper of the 1940s letter collection) and Barb Burnes Hester (the oldest, who carries the photocopied set of Grandpa Charles Leonard's 1940s letters). Born 16 January 1924 in Columbus, Ohio — Charles Leonard and Lillie Dale's youngest child. Sister Jean Goldie's dates are now settled as 28 October 1921 – 13 October 1925 (died age four), confirmed by her Ohio death certificate — see Jean's page. Married Edwin William Burnes; lived in Worthington, Ohio. Survived her brother Will in 1986 along with Mary."
 ---
 

@@ -4,6 +4,7 @@ line: paternal
 generation: 6
 parents:
   - helen-burnes
+  - edwin-william-burnes
 living: true
 sortBirth: "1948-03-06"
 summary: "The eldest child and only son of Helen Louise (Eesley) Burnes and Edwin William Burnes; born 6 March 1948. Older brother of Barb, Shelley, Cindy, Liz, Roberta, and Katie. Living — details kept private."

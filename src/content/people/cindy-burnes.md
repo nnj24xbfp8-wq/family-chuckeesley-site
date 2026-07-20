@@ -4,6 +4,7 @@ line: paternal
 generation: 6
 parents:
   - helen-burnes
+  - edwin-william-burnes
 living: true
 status: sketch
 sortBirth: "1953"

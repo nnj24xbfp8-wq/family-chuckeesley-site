@@ -5,6 +5,7 @@ line: paternal
 generation: 6
 parents:
   - helen-burnes
+  - edwin-william-burnes
 living: true
 sortBirth: "1963-08-06"
 summary: "Daughter of Helen Louise (Eesley) Burnes and Edwin William Burnes; Chuck Eesley's first cousin once removed on the paternal Eesley side. Married John Walker — and kept her maiden name. One of the four keepers credited on this archive's homepage for building the paternal side. Carries forward much of the Charles Leonard Eesley material into the next generation — the labeled c. 1971–1972 reunion portrait at Highland Ridge with five of his eight children together, the family-label transcription that resolved the c. 1948–1949 Charles Leonard group portrait, the July 2019 family-email reconstruction that placed Stella Sunn's arrival in the Bexley household within months of Uncle Lyle Eesley's July 1942 death at Cabanatuan, and the upstream provenance of the deepest-ancestor portraits of Joseph Hill Chenoweth and John K. Timmons (the family CD she inherited via the Burnes-Eesley line, reached this archive via Maggie's deck). Keeper of the 1940s Eesley letter collection — Charles Leonard's wartime correspondence in his own hand, almost indecipherable, not yet read or digitized; the single most consequential undeciphered source still to come. Sister of Barb Burnes Hester, Shelley Burnes, Cindy Burnes, Liz Burnes, and Katie Burnes McKeel."
