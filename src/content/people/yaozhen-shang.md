@@ -1,6 +1,6 @@
 ---
 name: "Shang Yaozhen 尚耀真"
-portrait: ../../assets/family/originals/shang-yaozhen-grandchildren-qingdao-c1985.jpeg
+portrait: ../../assets/family/originals/xun-li-shang-yaozhen-baby-lijie-qingdao-c1984.jpeg
 aka: "Yaozhen Shang"
 line: zhou
 generation: 5

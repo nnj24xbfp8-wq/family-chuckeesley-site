@@ -47,6 +47,10 @@ Homer kneels in this snapshot &mdash; in a knit sweater and tie, on a driveway i
 
 ![Homer Davis with his son William Harvey Davis Sr. on his knee, c. 1944-1945. From Chuck's keeping.](../../assets/family/originals/homer-davis-with-w-h-davis-sr-c1944-tentative.jpeg)
 
+![Homer Davis standing, holding his young son William Harvey Davis Sr., c. 1943. From Chuck's keeping.](../../assets/family/originals/homer-davis-with-son-william-harvey-c1943.jpeg)
+
+*A second, earlier frame &mdash; Homer standing with [William Harvey](/family/william-harvey-davis-sr/) as a toddler, c. 1943. This confirmed father-and-son image settles the identity of the boy on Homer's knee above.*
+
 **Chuck confirms (July 2026)** that this is **Homer with his son [William Harvey Davis Sr.](/family/william-harvey-davis-sr/)** (b. 20 August 1941). The boy's age (~3&ndash;4) places the photograph at **c. 1944&ndash;1945**, when Homer would have been about 44&ndash;45, at the Waterford-area Davis family home where he raised his children.
 
 ## Homer with his daughters Betty and Dorothy in a hilly pasture, c. 1944-1948
@@ -64,6 +68,12 @@ Homer stands at right in this backyard portrait, in a fedora and dark suit with 
 ![Homer Davis at right in fedora, with what appears to be one of his daughters' families &mdash; c. 1953-1955, ages of the children pointing to mid-1950s. From Chuck's keeping.](../../assets/family/originals/homer-davis-c1953-1955-backyard-family-group.jpeg)
 
 The dating is fixed by Homer's apparent age (mid-50s, consistent with c. 1953-55) and the ages of the children. The cast is open &mdash; this is most likely one of his three daughters' families visiting from out of town, or could be Homer with his son [William Harvey Davis Sr.](/family/william-harvey-davis-sr/) (b. 1941) as the boy and a wife or other Davis-line relatives. The composition is the kind of casual family-album backyard snapshot the postwar small-camera era produced.
+
+## Homer with Betty and Norm Wolfe, c. late 1960s
+
+Homer with his daughter **[Betty](/family/betty-davis/)** and her husband **[Norman "Norm" Wolfe](/family/norman-graham-wolfe/)** &mdash; the couple who hosted the [108 Hillcrest Drive](/places/108-hillcrest-drive-marietta/) holiday dinners of Chuck's childhood &mdash; beside a row of cars, c. late 1960s, with a young grandchild in front.
+
+![Homer Davis (left) with his daughter Betty Jean (Davis) Wolfe, a grandchild, and Betty's husband Norman "Norm" Wolfe, c. late 1960s.](../../assets/family/originals/homer-davis-with-betty-and-norm-wolfe-c1968.jpeg)
 
 ## Homer with a grandchild at the Florida dinner table, c. 1970
 

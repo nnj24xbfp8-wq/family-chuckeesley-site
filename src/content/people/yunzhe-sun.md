@@ -1,5 +1,6 @@
 ---
 name: "Sun Yunzhe 孙云哲"
+portrait: ../../assets/family/originals/lijie-grandparents-qingdao-dinner-c1986.jpeg
 aka: "Yunzhe Sun"
 line: zhou
 generation: 5
