@@ -67,7 +67,7 @@ Charlie-Vietnam / Sadye-grad dups noted above.
 - ~~`7368`~~ — **PLACED** as artifact `stella-ted-chong-wedding-with-family-1945` — Stella on her wedding day with her parents **Mabel Lee Sunn** and **Koon Hung Sunn** (confirmed by Chuck)
 - ~~`7367`~~ — **PLACED** — it's the verso of 7366; attached as the back-of-print image to the existing `stella-ted-chong-wedding-cassady-group-1945` artifact
 - ~~`IMG_2529`~~ — **already on the site** (Zhou/Li side — Lijie's parents at a Hangzhou temple, per Chuck); redundant loose scan
-- `IMG_5533` — large formal family group, c.1900–1910 — **NEEDS ID**
+- ~~`IMG_5533`~~ — **RESOLVED / DELETED July 2026.** Per Chuck, this is the c. 1899 Eesley family group portrait (Albert Robert Sr., Jennie Goldie & their ten children), already placed as artifact [`eesley-family-group-portrait-1899`](/archive/eesley-family-group-portrait-1899/). IMG_5533 was a low-res (640×500) copy of the full-res placed scan `IMG_4056.jpeg` (3802×2965) — redundant, deleted.
 - `family-group-picket-fence-porch-c1940s-queued-for-id` — **NEEDS ID**
 - ~~`Anne_Eesley1.jpg`~~ — **PLACED** on [Anne's page](/family/anne-eesley/) as "Anne in later life" (renamed `anne-eesley-later-life-portrait.jpg`)
 - `charlie-to-chuck-26th-birthday-card-2005.jpg` — 2005 birthday card, Charlie → Chuck. Chuck said it's already on the site, but a July 2026 grep found **no reference to this file (or any "birthday-card-2005" slug) in the content** — so **keep, do not delete** until a placed equivalent is confirmed (may be on the site under a different filename, or may still need placing).
