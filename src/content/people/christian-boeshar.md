@@ -10,6 +10,9 @@ death:
   place: "Breitenbach, Pfalz, Bayern, Germany (buried 7 May 1843)"
 spouses:
   - maria-margaretha-jung
+parents:
+  - abraham-boeshar
+  - maria-lehman
 children:
   - catharina-boeshar-wildermuth
 status: sketch

@@ -8,6 +8,9 @@ birth:
   place: "Frohnhofen, Kusel, Rhineland-Palatinate (Bavaria), Germany"
 spouses:
   - christian-boeshar
+parents:
+  - johannes-jung
+  - maria-catharina-hoffmann
 children:
   - catharina-boeshar-wildermuth
 status: sketch
