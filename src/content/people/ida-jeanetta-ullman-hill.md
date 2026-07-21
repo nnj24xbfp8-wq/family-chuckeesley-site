@@ -1,5 +1,6 @@
 ---
 name: "Ida Jeanetta 'Nettie' (Ullman) Hill"
+portrait: ../../assets/family/originals/ida-jeanetta-ullman-hill-c1920-crop.jpeg
 aka: "Nettie; Ida J. Hill"
 line: maternal
 generation: 3
@@ -19,10 +20,12 @@ She was born in **June 1892 in Ohio**, one of at least eight children of **Frede
 
 ## The two Hills — a coincidence of surname
 
-Nettie married **Byron E. Hill** (1887&ndash;1932) on **20 March 1912**. Byron was *not* one of Harvey Hendershot Hill's brothers: the GEDCOM places Byron in a separate Hill family, while Harvey was a son of [Josiah W. Hill Sr.](/family/josiah-w-hill/) and [Janetta (Smith) Hill](/family/janetta-smith/). So although the two Ullmann sisters both became "Mrs. Hill," they married into **different Hill lines** &mdash; a coincidence of surname, not a double-brother marriage. Byron died in 1932, and Nettie was a widow for the rest of her life.
+Nettie married **[Byron E. Hill](/family/byron-hill/)** (1887&ndash;1932) on **20 March 1912**. Byron was *not* one of Harvey Hendershot Hill's brothers: the GEDCOM places Byron in a separate Hill family, while Harvey was a son of [Josiah W. Hill Sr.](/family/josiah-w-hill/) and [Janetta (Smith) Hill](/family/janetta-smith/). So although the two Ullmann sisters both became "Mrs. Hill," they married into **different Hill lines** &mdash; a coincidence of surname, not a double-brother marriage. Byron died in 1932, and Nettie was a widow for the rest of her life.
 
 ## In the photographs
 
-Nettie is the older woman seated at right in the **[1947 five-generation Hill–Davis–Murdock portrait](/archive/hill-davis-murdock-five-generation-1947/)**, beside her grandniece [Mary Louise (Davis) Murdock](/family/mary-louise-davis-murdock/) and the infant Jack. She died **27 July 1977** in Hendersonville, North Carolina.
+The earliest is the **[c. 1920 family portrait](/archive/byron-nettie-hill-family-c1920/)** — Nettie in her late twenties at left, her husband [Byron](/family/byron-hill/) at right, and three of their young children in front (a baby, and two boys whose names the archive has not yet recovered). It is the first image of Nettie in the archive and the only known likeness of Byron.
+
+Nettie is also the older woman seated at right in the **[1947 five-generation Hill–Davis–Murdock portrait](/archive/hill-davis-murdock-five-generation-1947/)**, beside her grandniece [Mary Louise (Davis) Murdock](/family/mary-louise-davis-murdock/) and the infant Jack. She died **27 July 1977** in Hendersonville, North Carolina.
 
 > *Source: [Eesley/Wildermuth family GEDCOM](/docs/dale-eesley-familysearch-tree/) (June 2026 trace) — Ida Jeanetta Ullman (b. Jun 1892, d. 27 Jul 1977), daughter of Frederick Ullmann and Elisabeth Bode, sister of Clara Victoria Ullmann, wife of Byron E. Hill (m. 20 Mar 1912); 1947 five-generation photograph, family-labeled.*

@@ -30,8 +30,8 @@ crop is safe; the others just need you to confirm which figure is which.
 - ✅ **Edward E. Way** (1851–1924), **Tacy Elizabeth Matthews** (1848–1902), **Nora Angie Way** (1876–1939), **Emma Maude Way** (1883–1917) — **DONE this pass.** All four cropped from the keyed [1901 Belle Way wedding portrait](/archive/belle-way-howard-wickens-wedding-1901/) (positions from the printed ID guide). *Tacy and Emma are medium-confidence identifications — worth a glance to confirm.*
 - *(Victoria Anna Way Davis already has her c. 1902 William/Victoria/Homer portrait — not a gap.)*
 - ✅ **The c. 1899 Eesley family group** — **DONE this pass.** Cropped individual portraits for all nine previously-faceless siblings — John Franklin, Anna Scoon, Will (College Corner), Alf, Bert, Bessie, Jennie Baxter, Dr. George (Toronto), and Garfield — from the [1899 Eesley family group portrait](/archive/eesley-family-group-portrait-1899/), using the PowerPoint caption's left-to-right order (confirmed by Roberta).
-- **Thelma (Haughn) Eesley** (1906) — in the Black Lake 1928 frames and the late-1940s Eesley group. Confirm which figure, then crop.
-- **Mae Clara (Wildermuth) Seyler** (1886) — in the c. 1913 Front Street children's photo (she is likely the mother figure). Confirm and crop.
+- ✅ **Thelma (Haughn) Eesley** (1906) — **DONE.** Cropped from the late-1940s Eesley group portrait (far left, front row).
+- ❌ **Mae Clara (Wildermuth) Seyler** (1886) — **not a crop after all.** The adult woman in the c. 1913 Front Street photo is her *sister* **Margaret Zelma**, not Mae Clara; only Mae Clara's children are pictured. Mae Clara remains genuinely faceless — needs a sourced photo.
 
 ## B. Truly faceless, story-rich — worth hunting in the family collection
 
@@ -42,7 +42,7 @@ stories — so a found photo pays off immediately. Ranked by how much story is a
 - ✅ **Jean Goldie Eesley** (1921–1925) — **DONE.** Cropped from the toddler-in-overalls photo (her only known image; she died at four) that was on Helen's page.
 - ✅ **George Edburn "Bus" Eesley** (1903–1942) — **DONE.** Chuck supplied a c. 1940 photo (three-piece suit, a child at the edge); cropped to his thumbnail. Completes the Bert → Bus → Dan chain.
 - ✅ **Ruth Irene (Wildermuth) Ridenour** (1922) — **DONE.** Cropped from the "Ruth & Bob" 1940s photo; her 1922 baby photo also placed.
-- **Margaret Florence Anderson** (1869) and **John Wallace Anderson** (1864) — the paternal Anderson line (Rev. Abraham Anderson's children), faceless.
+- **Margaret Florence Anderson** (1869) and **John Wallace Anderson** (1864) — the paternal Anderson line (Rev. Abraham Anderson's children). **No photos exist** (confirmed by Chuck, July 2026) — leave faceless unless one surfaces.
 
 ## C. Emotionally resonant / findable in records
 
