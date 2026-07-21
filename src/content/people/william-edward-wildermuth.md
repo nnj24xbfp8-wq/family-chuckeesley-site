@@ -18,8 +18,12 @@ Because his parents married on **15 April 1918** and he looks about three to fiv
 
 There are **three different William Wildermuths** close together in this branch, which is worth keeping straight: his **uncle** [William Clifford Wildermuth](/family/william-wildermuth/) (b. 1866, Chuck's great-great-grandfather); a **cousin** named William (b. 1896), William Clifford's own second son; and this boy, Edward Frederick's son. He is a **first cousin three times removed** of Chuck on the maternal Wildermuth side.
 
+## A caution about his parentage
+
+A July 2026 check of the family GEDCOM found that **Edward Frederick and Arminda's marriage (15 April 1918) is recorded with no children at all.** So the reading of this boy as their son rests on the photograph and Chuck's face-tag, not on the documentary tree. That is not unusual — children who died young, or for whom no vital record was ever filed, routinely drop out of a descendant tree — but it means his place in the family is **provisional**. He could be Edward and Arminda's son (a birth the tree never captured) or another young Wildermuth relative photographed with the couple and the family matriarch. His exact parentage is an open question pending family confirmation.
+
 ## Open questions
 
-His birth and death dates, whether he had siblings, and his adult life in (presumably) Marietta are all open — the kind of detail Dale Eesley's FamilySearch tree or the Marietta records could settle. For now he is documented only by his face in the family portrait.
+His birth and death dates, whether he had siblings, and his adult life in (presumably) Marietta are all open — the kind of detail the Marietta records could settle. For now he is documented only by his face in the family portrait.
 
 > *Source: identification by Chuck Eesley, July 2026, from the [four-person Wildermuth studio portrait](/archive/william-wildermuth-four-person-family-portrait/).*
