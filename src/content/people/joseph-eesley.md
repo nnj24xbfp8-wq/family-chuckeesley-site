@@ -17,6 +17,12 @@ Joseph Eesley was born and christened **6 December 1764 in Banbury, Oxfordshire*
 
 Joseph and Frances had at least four children: William (bp. 19 August 1787, only months after the wedding), Hannah (bp. 23 May 1790), Mary (bp. 25 December 1794), and **John Eesley** (bp. January 1799 at Hanwell) — the journeyman miller whose marriage to Susannah Bubb is the next generation's hinge.
 
-His own parents and earlier life are not yet recorded in this archive; the line could be pushed further back via Dale's tree if pursued.
+## His baptism and parents — St Mary's, Banbury, 1764
 
-> *Source: [Dale Eesley / FamilySearch — Joseph Eesley (M7YN-TP5)](https://www.familysearch.org/tree/person/details/M7YN-TP5).*
+The **Banbury St Mary's baptism register** pushes the line back one further generation. Joseph's entry, in December 1764, reads: *"Joseph, Son of William Eesley, Lab[ourer], & Mary his Wife, bap[tized] 6th [day]."* So Joseph's parents were **William Eesley**, a laborer, and **Mary** — the earliest Eesleys yet named in this archive, of Banbury in the 1760s.
+
+![St Mary's Church, Banbury, Oxfordshire — a Georgian church with a distinctive cylindrical rotunda tower, at the end of a yew-lined path; a member of the family stands in front on an Eesley research trip.](../../assets/family/originals/st-marys-banbury-joseph-eesley.jpeg)
+
+*[St Mary's, Banbury](/places/banbury/), where Joseph was baptized on 6 December 1764 — photographed on the family's England pilgrimage. (His son [John](/family/john-eesley-1800/) was baptized a generation later four miles west at Hanwell.) Note: the present rotunda-towered building was rebuilt 1790–1797, so the church Joseph was actually christened in was the medieval St Mary's that stood on this site until its demolition; this is its neoclassical successor on the same ground.*
+
+> *Source: [Dale Eesley / FamilySearch — Joseph Eesley (M7YN-TP5)](https://www.familysearch.org/tree/person/details/M7YN-TP5); Banbury St Mary's parish baptism register, December 1764 (Oxfordshire Church of England Baptisms, 1538–1812).*

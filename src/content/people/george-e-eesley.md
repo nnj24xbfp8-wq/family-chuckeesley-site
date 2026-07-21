@@ -19,7 +19,7 @@ summary: "Son of R. Albert Eesley (one of Albert Robert Sr's ten children) and h
 
 George Edburn Eesley &mdash; **"Bus"** to family, **"George E."** in newsprint &mdash; was born c. 1903, son of **[R. Albert Eesley](/family/albert-robert-eesley-jr/)** of 1310 Hayes Avenue, Fremont, Ohio (the same R. Albert who appears in [William Eesley's c. 1916 obituary](/docs/william-eesley-obituary-college-corner/) as "A. R. Eesley Jr.," one of the six miller-brothers in Albert Robert Sr's generation).
 
-He graduated from **Fremont Ross High School** and from **[Ohio Wesleyan University](https://en.wikipedia.org/wiki/Ohio_Wesleyan_University)** in Delaware, Ohio. By 1942 he was employed in **an airplane factory near Buffalo, New York** &mdash; given his Kenmore-area location and the timing (the U.S. was six months into WWII; aircraft production in the Buffalo-Niagara region was scaling rapidly), the likely employers were **Curtiss-Wright** (which had a major plant at Kenmore producing P-40 fighters and others) or **Bell Aircraft** in Buffalo (P-39 and P-63 production).
+He graduated from **Fremont Ross High School** and from **[Ohio Wesleyan University](https://en.wikipedia.org/wiki/Ohio_Wesleyan_University)** in Delaware, Ohio, where — as his daughter Jane's 1950 obituary recalled — he had been an **all-star high-school and college football player**. By 1942 he was employed in **an airplane factory near Buffalo, New York** &mdash; given his Kenmore-area location and the timing (the U.S. was six months into WWII; aircraft production in the Buffalo-Niagara region was scaling rapidly), the likely employers were **Curtiss-Wright** (which had a major plant at Kenmore producing P-40 fighters and others) or **Bell Aircraft** in Buffalo (P-39 and P-63 production).
 
 ## His death
 
@@ -34,7 +34,7 @@ George married **[Edna Scaise of Cleveland](/family/edla-scaife-eesley/)** &mdas
 Together they had three children:
 
 - **Richard Eesley** &mdash; predeceased his brother Dan (mentioned in Dan's 2018 obituary as "a brother, Richard," in the predeceased list).
-- **Jane Eesley** &mdash; **died tragically in her youth** (Dan's 2018 obituary phrasing). The 1942 newspaper has her alive at the time of George's death, age unspecified.
+- **[Jane Elda Eesley](/family/jane-eesley/)** (21 March 1938 &ndash; 15 June 1950) &mdash; **killed at twelve** in a bicycle accident at Lakewood, Ohio, when she rode into the side of a truck. Born in Buffalo, she was the first girl to captain the safety patrol at her Lakewood elementary school. The *"died tragically in her youth"* of Dan's 2018 obituary; alive and unnamed-as-to-age in her father's 1942 obituary, she outlived him by eight years.
 - **[Daniel Edburn "Dan" Eesley](/family/daniel-edburn-eesley/)** (29 November 1931 &ndash; 7 January 2018) &mdash; the San Francisco computing-industry engineer and 50-year SF Symphony donor whose 2018 obituary is also in this archive.
 
 George carried the distinctive middle name **"Edburn,"** and passed it to his son **Daniel *Edburn* Eesley** &mdash; the name threading two generations of this branch. Its own origin (a family surname carried in as a middle name, in the common 19th-century pattern) is not yet documented in this archive.
