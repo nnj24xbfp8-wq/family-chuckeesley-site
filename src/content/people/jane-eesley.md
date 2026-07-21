@@ -1,5 +1,6 @@
 ---
 name: "Jane Elda Eesley"
+portrait: ../../assets/family/originals/jane-elda-eesley-portrait-c1948.jpeg
 aka: "Jane Eesley"
 line: paternal
 birth:
