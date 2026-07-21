@@ -1,5 +1,6 @@
 ---
 name: "Edward E. Way"
+portrait: ../../assets/family/originals/edward-e-way-1901-crop.jpeg
 aka: "Edward Ellison Way (his full name in Robert Earl's genealogy); Edward E. Way (Jr.); 'Edward E.' on the family-papers ID legend"
 line: maternal
 generation: 2

@@ -1,5 +1,6 @@
 ---
 name: "Daniel Edburn 'Dan' Eesley"
+portrait: ../../assets/family/originals/daniel-edburn-eesley-portrait.jpeg
 aka: "Dan Eesley"
 line: paternal
 birth:

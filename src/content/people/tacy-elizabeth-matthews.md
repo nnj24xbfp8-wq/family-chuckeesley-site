@@ -1,5 +1,6 @@
 ---
 name: "Tacy Elizabeth Matthews"
+portrait: ../../assets/family/originals/tacy-elizabeth-matthews-1901-crop.jpeg
 aka: "Tacy Matthews Way"
 line: maternal
 generation: 2

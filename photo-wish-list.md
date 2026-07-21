@@ -27,9 +27,8 @@ crop is safe; the others just need you to confirm which figure is which.
 
 - ✅ **Ted Wah Sing Chong, M.D.** (1920–2013) — **DONE this pass.** Cropped from his own [c. April 1945 wedding portrait](/archive/stella-ted-chong-wedding-portrait-1945/) (the groom in Navy whites). The Chinese-American Navy officer who married Stella Eesley now has a face; pairs with Stella's existing portrait.
 - **Mary Louise (Davis) Murdock** (1924–2002) — Chuck's great-aunt (Dorothy's sister). Pictured in the three Davis-sisters frames (c. 1929/1930/1931, positions captioned left-to-right) and, as an adult, seated holding baby Jack in the [1947 five-generation portrait](/archive/hill-davis-murdock-five-generation-1947/). *Caveat: all are low-resolution scans — a crop works but a sharper standalone photo would be better if one exists.*
-- **Edward E. Way** (1851–1924) and **Tacy Elizabeth Matthews** (1848–1902) — the Way great-grandparents; both keyed (items 7–8) in the [1901 Belle Way wedding portrait](/archive/belle-way-howard-wickens-wedding-1901/). Positions known from the printed legend.
-- **Victoria Anna (Way) Davis** (1874–1903) — Chuck's maternal great-great-grandmother, keyed (item 6) in the same 1901 portrait. She died in 1903, so this may be the **only** surviving image of her — high priority to crop.
-- **Nora Angie Way** (1876–1939) and **Emma Maude Way** (1883–1917) — keyed (items 1 and 9) in the same 1901 portrait; both newly written up this month.
+- ✅ **Edward E. Way** (1851–1924), **Tacy Elizabeth Matthews** (1848–1902), **Nora Angie Way** (1876–1939), **Emma Maude Way** (1883–1917) — **DONE this pass.** All four cropped from the keyed [1901 Belle Way wedding portrait](/archive/belle-way-howard-wickens-wedding-1901/) (positions from the printed ID guide). *Tacy and Emma are medium-confidence identifications — worth a glance to confirm.*
+- *(Victoria Anna Way Davis already has her c. 1902 William/Victoria/Homer portrait — not a gap.)*
 - **Dr. George Henry Eesley of Toronto** (1876), **John Franklin Eesley** (1859), **Jennie (Eesley) Baxter** (1875), **Hannah "Anna" (Eesley) Scoon** (1863) — the paternal-Eesley aunts, uncles, and the Toronto doctors, all present in the [1899 Eesley family group portrait](/archive/eesley-family-group-portrait-1899/). *Needs a who's-who pass on that photo before cropping.*
 - **Thelma (Haughn) Eesley** (1906) — in the Black Lake 1928 frames and the late-1940s Eesley group. Confirm which figure, then crop.
 - **Mae Clara (Wildermuth) Seyler** (1886) — in the c. 1913 Front Street children's photo (she is likely the mother figure). Confirm and crop.
@@ -39,7 +38,7 @@ crop is safe; the others just need you to confirm which figure is which.
 No image of these people exists anywhere in the archive yet, and their pages already carry real
 stories — so a found photo pays off immediately. Ranked by how much story is already written.
 
-- **Daniel Edburn "Dan" Eesley** (b. 1931) — the longest of the faceless pages (a full life already written). The single highest-value face to find; likely reachable through recent family photos.
+- ✅ **Daniel Edburn "Dan" Eesley** (b. 1931) — **DONE this pass.** Chuck supplied a studio portrait (young man in an officer's dress uniform and peaked cap); now his thumbnail.
 - **Jean Goldie Eesley** (b. 1921) — substantial page, no photo.
 - **Mary Louise (Davis) Murdock** — *(see A — pictured, but only in low-res groups; a good standalone portrait is still wanted).*
 - **George Edburn "Bus" Eesley** (1903) and **Ruth Irene (Wildermuth) Ridenour** (1922) — well-developed pages, no face.

@@ -1,5 +1,6 @@
 ---
 name: "Nora Angie Way"
+portrait: ../../assets/family/originals/nora-angie-way-1901-crop.jpeg
 line: maternal
 generation: 3
 birth:

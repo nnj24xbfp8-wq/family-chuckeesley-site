@@ -1,5 +1,6 @@
 ---
 name: "Emma Maude Way"
+portrait: ../../assets/family/originals/emma-maude-way-1901-crop.jpeg
 line: maternal
 generation: 3
 birth:
