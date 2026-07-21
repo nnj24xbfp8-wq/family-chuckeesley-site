@@ -11,8 +11,6 @@ provenance: "Wildermuth family archive — uploaded by Chuck Eesley, July 2026; 
 rights: "Family use; permission required for republication."
 people:
   - catharina-boeshar-wildermuth
-  - edward-frederick-wildermuth
-  - arminda-jane-hayes-wildermuth
 ---
 
 **An outdoor family snapshot with [Catharina Boeshar](/family/catharina-boeshar-wildermuth/) as the seated matriarch**, taken against the brick-and-stone wall of a house — presumably in Marietta. This is a **second, closer likeness of Catharina** to go with the [c. 1896 family group portrait](/archive/william-wildermuth-family-group-portrait/): here she is elderly, seated front and center in a dark high-necked dress with a long striped skirt over her lap, hands folded — the clearest single image of her face in the archive.

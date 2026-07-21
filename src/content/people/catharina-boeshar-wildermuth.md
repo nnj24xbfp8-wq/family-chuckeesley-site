@@ -14,7 +14,7 @@ spouses:
 parents:
   - christian-boeshar
   - maria-margaretha-jung
-portrait: "../../assets/family/originals/00000002_00000008_00000009.jpeg"
+portrait: "../../assets/family/originals/IMG_2125.jpeg"
 summary: "Wife of Johann Michael Wildermuth the 1847 emigrant, mother of his three documented sons (John Charles 1865, William Clifford 1866, Edward Frederick 1873), and Chuck's great-great-great-grandmother on the maternal Wildermuth side. Born 15 June 1840 in Breitenbach, Pfalz, Bavaria — a Rhineland Palatinate village some 250 miles northwest of her future husband's Württemberg birthplace at Grossaspach. Emigrated to America at some point before her 1862 marriage in Washington County, Ohio. Lived to age 93, dying in Marietta on 17 October 1933 — outliving her husband by 30 years and old enough that Chuck's grandfather Robert Earl Wildermuth (b. 1924) knew her as a great-grandmother through the first nine years of his life. The 'grandma Catherina Boeshar' of Robert Earl's 1989 memoir."
 ---
 
@@ -46,9 +46,15 @@ In his **1989 memoir** Robert Earl closed his Germany travelogue with the line:
 
 The **"grandma Catherina Boeshar"** of that sentence is this great-grandmother — Robert Earl using *"grandma"* in the everyday-family form he had grown up with, even though strictly the relationship was great-grandmother. The hometown he was still trying to visit at age 65 was **Breitenbach** — sixty-five miles from Stuttgart, in the Rhineland Pfalz near the French border. The 1993 follow-up trip he and Sandra eventually made got to the Württemberg side of the family (Rielingshausen, Grossaspach, Marbach); the Pfalz side he never reached. Catharina's hometown remained the open research thread when he died.
 
-## In the 1896 family group portrait — her likeness
+## Her clearest likeness — an outdoor family snapshot
 
-The **[c. 1896 family group portrait](/archive/william-wildermuth-family-group-portrait/)** is the archive's likeness of Catharina: she is the **elderly woman standing second from the left**, beside her son [William Clifford Wildermuth](/family/william-wildermuth/) and near her three-year-old granddaughter [Emma](/family/emma-wildermuth/), who is held up at her shoulder. She was about 56. This is the face of the Pfalzer matriarch Robert Earl remembered as *"grandma Catherina Boeshar."*
+The archive's **clearest image of Catharina's face** is an [outdoor family snapshot](/archive/catharina-boeshar-family-outdoor-portrait/) in which she sits front and center as the matriarch — elderly, in a dark high-necked dress with a long striped skirt over her lap, against the brick-and-stone wall of a house. Around her are a young man, a young woman in a light dress, and a small boy on a tricycle, whose identities are still being confirmed (per Chuck's July 2026 face-tagging, most likely her son [Edward Frederick](/family/edward-frederick-wildermuth/)'s household or a grandchild's family — see the [archive entry](/archive/catharina-boeshar-family-outdoor-portrait/) for the open questions).
+
+![Outdoor family snapshot, c. 1910s–early 1920s — Catharina Boeshar seated front and center as the matriarch. Identified by Chuck Eesley, 2026.](../../assets/family/originals/IMG_2125.jpeg)
+
+## In the 1896 family group portrait — her earlier likeness
+
+The **[c. 1896 family group portrait](/archive/william-wildermuth-family-group-portrait/)** is the archive's earlier likeness of Catharina: she is the **elderly woman standing second from the left**, beside her son [William Clifford Wildermuth](/family/william-wildermuth/) and near her three-year-old granddaughter [Emma](/family/emma-wildermuth/), who is held up at her shoulder. She was about 56. This is the face of the Pfalzer matriarch Robert Earl remembered as *"grandma Catherina Boeshar."*
 
 ![c. 1896 Wildermuth family group portrait — Catharina Boeshar is the elderly woman standing second from the left. Identified by Chuck Eesley, 2026.](../../assets/family/originals/00000002_00000008_00000009.jpeg)
 
