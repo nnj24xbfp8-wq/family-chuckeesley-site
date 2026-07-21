@@ -39,7 +39,7 @@ summary: "Lijie's maternal grandmother. Born 11 September 1921 in Qingdao — th
 
 ### 耀字辈
 
-**"耀"字可能是尚氏字辈诗中的一个字** &mdash; 耀珍的兄弟[尚耀香](/family/yaoxiang-shang/)（1911年生于平度市）、[尚耀福](/family/yaofu-shang/)（1925&ndash;2014）及姐妹[尚耀礼](/family/yaoli-shang/)名字中均带"耀"字。这通常意味着同辈共用一字。若尚家保存有字辈口诀或家谱，请尽量记录。
+**"耀"字可能是尚氏字辈诗中的一个字** &mdash; 耀珍的姐妹[尚耀香](/family/yaoxiang-shang/)（1911年生于平度市）及兄弟[尚耀福](/family/yaofu-shang/)（1925&ndash;2014）、[尚耀礼](/family/yaoli-shang/)名字中均带"耀"字。这通常意味着同辈共用一字。若尚家保存有字辈口诀或家谱，请尽量记录。
 
 > *注：除姓氏外，人名汉字均为推测，已由Lijie之母于2026年6月确认。*
 
