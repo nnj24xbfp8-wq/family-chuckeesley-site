@@ -1,5 +1,6 @@
 ---
 name: "George Edburn 'Bus' Eesley"
+portrait: ../../assets/family/originals/george-edburn-bus-eesley-portrait.jpeg
 aka: "Bus Eesley (family nickname per Dan's 2018 obituary); George E. Eesley"
 line: paternal
 birth:
@@ -37,6 +38,10 @@ Together they had three children:
 - **[Daniel Edburn "Dan" Eesley](/family/daniel-edburn-eesley/)** (29 November 1931 &ndash; 7 January 2018) &mdash; the San Francisco computing-industry engineer and 50-year SF Symphony donor whose 2018 obituary is also in this archive.
 
 George carried the distinctive middle name **"Edburn,"** and passed it to his son **Daniel *Edburn* Eesley** &mdash; the name threading two generations of this branch. Its own origin (a family surname carried in as a middle name, in the common 19th-century pattern) is not yet documented in this archive.
+
+![George Edburn "Bus" Eesley, a man of about forty in a three-piece suit, smiling; one of his young children stands at the edge of the frame.](../../assets/family/originals/george-bus-eesley-with-child-c1940.jpeg)
+
+*George "Bus" Eesley, c. 1940 &mdash; with one of his children (Richard, Dan, or Jane) at the edge of the frame. The only known photograph of him in this archive, taken within a few years of his death at thirty-nine; the source of his page portrait.*
 
 ## Family at the time of his death
 

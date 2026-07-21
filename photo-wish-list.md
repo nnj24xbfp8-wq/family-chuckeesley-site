@@ -40,7 +40,8 @@ stories — so a found photo pays off immediately. Ranked by how much story is a
 
 - ✅ **Daniel Edburn "Dan" Eesley** (b. 1931) — **DONE.** Chuck supplied a studio portrait (young man in an officer's dress uniform and peaked cap).
 - ✅ **Jean Goldie Eesley** (1921–1925) — **DONE.** Cropped from the toddler-in-overalls photo (her only known image; she died at four) that was on Helen's page.
-- **George Edburn "Bus" Eesley** (1903) and **Ruth Irene (Wildermuth) Ridenour** (1922) — well-developed pages, no face.
+- ✅ **George Edburn "Bus" Eesley** (1903–1942) — **DONE.** Chuck supplied a c. 1940 photo (three-piece suit, a child at the edge); cropped to his thumbnail. Completes the Bert → Bus → Dan chain.
+- ✅ **Ruth Irene (Wildermuth) Ridenour** (1922) — **DONE.** Cropped from the "Ruth & Bob" 1940s photo; her 1922 baby photo also placed.
 - **Margaret Florence Anderson** (1869) and **John Wallace Anderson** (1864) — the paternal Anderson line (Rev. Abraham Anderson's children), faceless.
 
 ## C. Emotionally resonant / findable in records
