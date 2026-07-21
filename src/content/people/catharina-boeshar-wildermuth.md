@@ -48,7 +48,7 @@ The **"grandma Catherina Boeshar"** of that sentence is this great-grandmother �
 
 ## Her clearest likeness — an outdoor family snapshot
 
-The archive's **clearest image of Catharina's face** is an [outdoor family snapshot](/archive/catharina-boeshar-family-outdoor-portrait/) in which she sits front and center as the matriarch — elderly, in a dark high-necked dress with a long striped skirt over her lap, against the brick-and-stone wall of a house. Around her are a young man, a young woman in a light dress, and a small boy on a tricycle, whose identities are still being confirmed (per Chuck's July 2026 face-tagging, most likely her son [Edward Frederick](/family/edward-frederick-wildermuth/)'s household or a grandchild's family — see the [archive entry](/archive/catharina-boeshar-family-outdoor-portrait/) for the open questions).
+The archive's **clearest image of Catharina's face** is an [outdoor family snapshot](/archive/catharina-boeshar-family-outdoor-portrait/), c. early 1920s, in which she sits front and center as the matriarch — elderly, in a dark high-necked dress with a long striped skirt over her lap, against the brick-and-stone wall of a house. With her (per Chuck's July 2026 face-tagging) are her youngest son [Edward Frederick Wildermuth](/family/edward-frederick-wildermuth/) standing at left, his wife [Arminda Jane Hayes](/family/arminda-jane-hayes-wildermuth/) at right, and their small son [William](/family/william-edward-wildermuth/) on a tricycle — her grandson. She would have been in her early eighties.
 
 ![Outdoor family snapshot, c. 1910s–early 1920s — Catharina Boeshar seated front and center as the matriarch. Identified by Chuck Eesley, 2026.](../../assets/family/originals/IMG_2125.jpeg)
 

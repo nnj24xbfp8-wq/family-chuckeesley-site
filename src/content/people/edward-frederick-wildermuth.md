@@ -14,6 +14,7 @@ parents:
   - catharina-boeshar-wildermuth
 spouses:
   - arminda-jane-hayes-wildermuth
+portrait: "../../assets/family/originals/IMG_2125.jpeg"
 summary: "Youngest of Johann Michael Wildermuth and Catharina Boeshar's three documented sons — born 17 February 1873 in Marietta, Ohio; died 7 July 1964 in Marietta at age 91. Younger brother of William Clifford Wildermuth (b. 1866 — Robert Earl Wildermuth's paternal grandfather) and John Charles Wildermuth (b. September 1865). Married Arminda Jane Hayes (b. 1886, Lawrence Township, Washington County, Ohio) on 15 April 1918, when he was 45 and she was 32. Visible in the c. 1896 William Clifford Wildermuth family group portrait as the back-row mustachioed young man at the right, age 23, with Flora's younger sister Emma Schlicher (also 22) standing next to him. The longest-lived of the three brothers — outlived William Clifford by twenty-one years. Chuck's great-great-uncle on the maternal Wildermuth side."
 ---
 
@@ -22,6 +23,12 @@ He was the **youngest of three brothers** — the sons of [Johann Michael Wilder
 ## In the 1896 family group portrait
 
 He is visible in the **[c. 1896 William Clifford Wildermuth family group portrait](/archive/william-wildermuth-family-group-portrait/)** as the **mustachioed young man standing at the back-right** of the family group, identified by Chuck Eesley 2026. At 23 he was an adult, photographed alongside his older brother William (age 30) and his mother Catharina (age 56). The portrait places three generations of the immediate Johann Michael Wildermuth household — Catharina the matriarch, William Clifford and Edward Frederick the adult sons, and William's young family — in one frame.
+
+## The c. early-1920s family snapshot
+
+The clearest likeness of Edward Frederick in the archive is an [outdoor family snapshot](/archive/catharina-boeshar-family-outdoor-portrait/), c. early 1920s, identified by Chuck Eesley's July 2026 face-tagging. He stands at the **left**; his wife [Arminda Jane Hayes](/family/arminda-jane-hayes-wildermuth/) at the **right**; his aged mother [Catharina Boeshar](/family/catharina-boeshar-wildermuth/) is **seated** at center as the matriarch; and their young son [William](/family/william-edward-wildermuth/) is on a **tricycle** in front. The picture postdates his 1918 marriage and, from the boy's age, dates to the early 1920s.
+
+![Outdoor family snapshot, c. early 1920s — Edward Frederick Wildermuth (standing left), his wife Arminda Jane Hayes (standing right), his mother Catharina Boeshar (seated), and their son William on a tricycle. Identified by Chuck Eesley, 2026.](../../assets/family/originals/IMG_2125.jpeg)
 
 ## The Marietta life
 
