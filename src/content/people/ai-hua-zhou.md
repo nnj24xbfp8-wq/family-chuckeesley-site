@@ -19,7 +19,7 @@ summary: "Lijie's paternal aunt; sister of Ling Zhou (Lijie's father). Daughter 
 
 **周爱华**（姓氏确定；名字汉字待家族确认）&mdash; 周丽婕之姑母，其父[周玲](/family/ling-zhou/)之姐妹。祖父[周兆祥](/family/zhaoxiang-zhou/)与祖母[孙云哲](/family/yunzhe-sun/)之女。
 
-> *详细生平从略 &mdash; 在世。除姓氏外人名汉字为推测，待家族确认。与父亲[周兆祥](/family/zhaoxiang-zhou/)、丈夫的合影存于家中，待补上传。*
+> *详细生平从略 &mdash; 在世。除姓氏外人名汉字为推测，待家族确认。她与父亲[周兆祥](/family/zhaoxiang-zhou/)、丈夫、周丽婕及Chuck的合影见[家庭探访照片](/archive/visit-with-zhaoxiang-zhou-and-family/)。*
 
 <hr class="my-8 border-rule" />
 
@@ -27,6 +27,6 @@ summary: "Lijie's paternal aunt; sister of Ling Zhou (Lijie's father). Daughter 
 
 ## English
 
-Details withheld &mdash; living. A family photograph of her with her father [Zhaoxiang Zhou](/family/zhaoxiang-zhou/), her husband, Lijie, and Chuck is held in the family and will be placed when re-uploaded.
+Details withheld &mdash; living. She appears with her father [Zhaoxiang Zhou](/family/zhaoxiang-zhou/), her husband, Lijie, and Chuck in the [family visit photograph](/archive/visit-with-zhaoxiang-zhou-and-family/) at Qingdao.
 
 > *Structured record: [FamilySearch — Ai Hua Zhou (G9MN-H5C)](https://www.familysearch.org/tree/person/details/G9MN-H5C).*
