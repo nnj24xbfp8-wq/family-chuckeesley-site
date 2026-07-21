@@ -1,5 +1,6 @@
 ---
 name: "William Eesley (of College Corner)"
+portrait: ../../assets/family/originals/william-eesley-college-corner-1899-crop.jpeg
 aka: "Uncle William — the College Corner miller; not to be confused with his nephew Wilbur 'Will' Eesley the architect"
 line: paternal
 birth:

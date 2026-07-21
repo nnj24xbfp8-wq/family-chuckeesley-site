@@ -1,5 +1,6 @@
 ---
 name: "Alfred Robert 'Alf' Eesley"
+portrait: ../../assets/family/originals/alfred-eesley-1899-crop.jpeg
 aka: "Alf; the 'Alf (Albert Robert)' caption in the 'Eesleys circa 1900' PowerPoint was a transcription error — his given name was Alfred Robert, not Albert Robert"
 line: paternal
 birth:

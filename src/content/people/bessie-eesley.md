@@ -1,5 +1,6 @@
 ---
 name: "Bessie (Easley) Sinclair"
+portrait: ../../assets/family/originals/bessie-eesley-1899-crop.jpeg
 aka: "Bessie Easley (the surname variant the GEDCOM records — alongside the family's standard Eesley spelling); 'Mrs. George Sinclair' (William Eesley's c. 1916 obituary)"
 line: paternal
 birth:

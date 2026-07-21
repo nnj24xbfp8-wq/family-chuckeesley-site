@@ -1,5 +1,6 @@
 ---
 name: "Robert Albert 'Bert' Eesley"
+portrait: ../../assets/family/originals/albert-robert-eesley-jr-1899-crop.jpeg
 aka: "R. Albert Eesley (newspaper convention); 'A. R. Eesley Jr.' (William Eesley obituary, though his given name was actually the reverse of his father's — Robert Albert, not Albert Robert Jr.); Bert (family nickname)"
 line: paternal
 birth:

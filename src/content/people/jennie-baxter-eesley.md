@@ -1,5 +1,6 @@
 ---
 name: "Jennie (Eesley) Baxter"
+portrait: ../../assets/family/originals/jennie-baxter-eesley-1899-crop.jpeg
 aka: "Jennie Eesley, maiden; Mrs. Jennie Baxter of Toronto"
 line: paternal
 birth:

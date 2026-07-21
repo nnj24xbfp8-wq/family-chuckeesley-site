@@ -1,5 +1,6 @@
 ---
 name: "Hannah Goldie 'Anna' (Eesley) Scoon"
+portrait: ../../assets/family/originals/anna-eesley-scoon-1899-crop.jpeg
 aka: "Hanna Eesley (the 'Eesleys circa 1900' PowerPoint caption variant); Anna (the everyday family nickname); Mrs. J. B. Scoon of Toronto. Given name in the GEDCOM is Hannah Goldie — the middle name honoring her Scottish-born mother Jennie Goldie."
 line: paternal
 birth:

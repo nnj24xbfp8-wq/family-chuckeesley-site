@@ -1,5 +1,6 @@
 ---
 name: "James Garfield Eesley"
+portrait: ../../assets/family/originals/garfield-eesley-1899-crop.jpeg
 aka: "Garfield (everyday); named for U.S. President James A. Garfield, assassinated September 1881 (the year of Garfield's birth)"
 line: paternal
 birth:

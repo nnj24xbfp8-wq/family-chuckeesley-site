@@ -1,5 +1,6 @@
 ---
 name: "John Franklin Eesley"
+portrait: ../../assets/family/originals/john-f-eesley-1899-crop.jpeg
 aka: "J. F. Eesley (newspaper convention); 'J. R.' in William Eesley's c. 1916 obituary (transcription error — his middle initial was F, not R); 'John (oldest)' in the 1899 family-portrait caption"
 line: paternal
 birth:

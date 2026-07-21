@@ -1,5 +1,6 @@
 ---
 name: "Dr. George Henry Eesley (of Toronto)"
+portrait: ../../assets/family/originals/george-eesley-toronto-1899-crop.jpeg
 aka: "George Henry Eesley, M.D. — the physician of Toronto. 'Dr. George' in William Eesley's c. 1916 obituary."
 line: paternal
 birth:
