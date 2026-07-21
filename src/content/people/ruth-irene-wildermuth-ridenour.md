@@ -31,6 +31,10 @@ The **Tremont Hospital at Sixth and Montgomery Streets in Marietta** &mdash; new
 
 She lived through her parents' apprenticeship-and-machinist years and the move to **[413 Harmar Street](/places/413-harmar-street-marietta/)** in 1929, alongside her younger brother Robert Earl and the three younger siblings who followed.
 
+![Ruth Irene Wildermuth as an infant, bundled in a rocking chair in a leafy yard; the print is dated 5 July 1922.](../../assets/family/originals/ruth-irene-wildermuth-baby-1922.jpeg)
+
+*Ruth as a baby &mdash; the print dated 5 July 1922, when she was about ten weeks old. The earliest image of the first Earl-Adam-Wildermuth child.*
+
 ## The Marietta Telephone Exchange and the war marriage
 
 Ruth worked at the **Marietta Telephone Exchange** through the war years &mdash; the early 1940s, the period when so many young American women filled the local-exchange-operator workforce during World War II.
