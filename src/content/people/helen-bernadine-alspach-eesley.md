@@ -1,7 +1,7 @@
 ---
 name: "Helen Bernadine (Alspach) Eesley"
 aka: "'Big Helen' Eesley (to distinguish from her sister-in-law Helen Burnes — 'Little Helen' — in family-memory shorthand); Helen Alspach, maiden"
-portrait: ../../assets/family/originals/don-aunt-ota-helen-sault-ste-marie-1929.jpeg
+portrait: ../../assets/family/originals/big-helen-alspach-miami-april-1930.jpeg
 line: paternal
 birth:
   date: "1902-10-05"

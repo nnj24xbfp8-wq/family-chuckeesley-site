@@ -31,7 +31,13 @@ const spouses = await resolvePeople(person.data.spouses);
 const children = await childrenOf(person);
 const siblings = await siblingsOf(person);
 const docs = await documentsAbout(person.id);
-const arts = await artifactsOf(person.id);
+const allArts = await artifactsOf(person.id);
+// Avoid showing the same image twice on a page: if an artifact's lead image is
+// already this person's portrait/thumbnail, drop it from "Pictured in".
+const portraitSrc = (person.data.portrait as { src?: string } | undefined)?.src;
+const arts = portraitSrc
+  ? allArts.filter((a) => (a.data.image as { src?: string } | undefined)?.src !== portraitSrc)
+  : allArts;
 
 const { Content } = await render(person);
 const audioSrc = (audioManifest as Record<string, string>)[person.id] ?? null;
