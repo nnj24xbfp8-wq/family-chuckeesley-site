@@ -1,7 +1,7 @@
 ---
 title: "Hill–Davis–Murdock family portrait — 1947 (the 'five generation' picture)"
 type: "Photograph"
-image: ../../assets/family/originals/hill-davis-murdock-five-generation-1947.jpeg
+image: ../../assets/family/originals/hill-davis-murdock-five-generation-1947-clean.jpeg
 medium: "Black-and-white photograph, outdoors"
 dateCreated: "1947"
 sortDate: "1947-07-01"
@@ -25,6 +25,10 @@ Per the printed caption:
 
 - **Standing:** **[Bessie Marie (Hill) Davis](/family/bessie-hill-davis/)** (1905&ndash;1950) and her father **[Harvey Hendershot Hill](/family/harvey-hendershot-hill/)** (1882&ndash;1951).
 - **Seated:** **[Mary Louise (Davis) Murdock](/family/mary-louise-davis-murdock/)** (1924&ndash;2002), holding her infant son **[John "Jack" Anthony Murdock, Jr.](/family/john-anthony-murdock-jr/)** (1946&ndash;1977), beside **[Ida J. "Nettie" (Ullman) Hill](/family/ida-jeanetta-ullman-hill/)** (1892&ndash;1977).
+
+![The same 1947 portrait as printed by the family, with the typed identification caption above and below the image naming all five figures with their dates.](../../assets/family/originals/hill-davis-murdock-five-generation-1947.jpeg)
+
+*The family's captioned print — the source of the identifications above.*
 
 ## The generations — and the caption
 

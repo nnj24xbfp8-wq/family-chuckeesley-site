@@ -1,5 +1,6 @@
 ---
 name: "Mary Louise (Davis) Murdock"
+portrait: ../../assets/family/originals/mary-louise-davis-murdock-1947-crop.jpeg
 aka: "Mary Davis, maiden; Mary Murdock; Mary Murdoch (Dorothy's 2010 obituary spelling); Aunt Mary"
 line: maternal
 birth:
