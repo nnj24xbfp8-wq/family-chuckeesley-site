@@ -1,5 +1,6 @@
 ---
 name: "Josiah Way Hill"
+portrait: ../../assets/family/originals/josiah-way-hill-wwi-portrait-crop.jpeg
 aka: "the WWI uncle on the Hill side"
 line: maternal
 birth:
@@ -18,6 +19,14 @@ summary: "Bessie Hill Davis's uncle and Chuck's great-great-uncle on the materna
 Josiah Way Hill was the **uncle of [Bessie Marie Hill Davis](/family/bessie-hill-davis/)** &mdash; Chuck's maternal great-great-uncle on the Hill side &mdash; and the **family's killed-in-action soldier of World War I**.
 
 He was born **29 September 1893 at Rinard's Mills, Monroe County, Ohio**, the third son of Josiah W. Hill (Sr.) and Janetta (Smith) Hill. His older brother [Harvey Hendershot Hill](/family/harvey-hendershot-hill/) (married 15 June 1904 to Clara Victoria Ullmann) was the father of [Bessie Marie Hill](/family/bessie-hill-davis/) (Chuck's maternal great-grandmother through Dorothy Wildermuth).
+
+## The soldier's portrait
+
+A halftone portrait of Josiah survives in a **Monroe County World War I honor roll** — an oval-framed photograph of him in his Army uniform above a scroll banner reading *"PVT. JOSIAH W. HILL — LOWER SALEM — K.A."*, the *"K.A."* marking him **killed in action**. He had entered service at **Woodsfield, Monroe County, on 4 October 1917**, giving his home as the **Lower Salem / Rinard's Mills** area of Monroe County, and served as a **private**. It is the only known image of him in this archive: a young man of about twenty-four, a little over a year before he died.
+
+![World War I honor-roll portrait of Josiah Way Hill in Army uniform, oval-framed above a banner reading "PVT. JOSIAH W. HILL — LOWER SALEM — K.A."](../../assets/family/originals/josiah-way-hill-wwi-portrait.jpeg)
+
+*The Monroe County honor-roll portrait — "PVT. JOSIAH W. HILL · LOWER SALEM · K.A." — the source of his page portrait. (Not to be confused with his father, **Josiah W. Hill Sr.**, 1854–1918, who appears as an older man in a 1940s family photograph alongside Harvey, George Way Hill, and Charles Milton Beardmore.)*
 
 ## Killed in the Meuse-Argonne Offensive — 11 October 1918
 
@@ -47,4 +56,4 @@ The Hill-side appearance of the Way name in Josiah's middle name is therefore mo
 - [Charlie Eesley](/family/charles-eesley/) &mdash; the family's Vietnam tour
 - [The Way family newspaper clipping](/docs/way-family-noble-county-clipping/) &mdash; the early Way settlers of Noble County, with Chuck's family-papers annotations
 
-> *Sources: [Eesley/Wildermuth GEDCOM tree](/docs/dale-eesley-familysearch-tree/) (June 2026 trace) &mdash; FamilySearch tree ID for Josiah Way Hill confirms birth at Rinard's Mills 29 Sep 1893 and death at Meuse-Argonne 11 Oct 1918, burial at Romagne-sous-Montfaucon. The Way-line connection is anchored in the family-papers clipping Chuck preserves with handwritten genealogical annotations.*
+> *Sources: [Eesley/Wildermuth GEDCOM tree](/docs/dale-eesley-familysearch-tree/) (June 2026 trace) &mdash; FamilySearch tree ID for Josiah Way Hill confirms birth at Rinard's Mills 29 Sep 1893 and death at Meuse-Argonne 11 Oct 1918, burial at Romagne-sous-Montfaucon. [FamilySearch — Josiah Way Hill (KCXV-3YN)](https://www.familysearch.org/tree/person/details/KCXV-3YN): service entered at Woodsfield, Monroe County, 4 October 1917. Monroe County WWI honor-roll portrait ("Pvt. Josiah W. Hill — Lower Salem — K.A."), family papers, transmitted by Chuck Eesley 2026. The Way-line connection is anchored in the family-papers clipping Chuck preserves with handwritten genealogical annotations.*
