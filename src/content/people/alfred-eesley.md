@@ -15,7 +15,7 @@ parents:
 summary: "Third son of Albert Robert Eesley Sr and Jennie Goldie — born Michigan, July 1867, died 1954, buried Pleasant Cemetery, Mount Sterling, Madison County, Ohio. His given name was Alfred Robert (not Albert Robert); the family 'Eesleys circa 1900' PowerPoint caption gave 'Alf (Albert Robert)' as a transcription/family-memory error. Documented in the 1899 family group portrait. Chuck's great-great-uncle on the paternal side."
 ---
 
-The earlier framing on this page had Alf as the **third Albert Robert** in the family — based on the *"Eesleys circa 1900"* PowerPoint caption that read *"Alf (Albert Robert)"*. The GEDCOM resolves it differently: his given name in Dale Eesley's FamilySearch tree (ID **LZTC-RC2**) is **Alfred Robert** Eesley. The family caption had compressed *Alfred → Alf → Albert* through ordinary handwriting and memory, not from a record. There were **two** Albert Roberts in this generation, not three — Sr the father and **Bert** (born **Robert Albert**) the son. Alf was a third son with a similar-sounding but distinct first name.
+His given name was **Alfred Robert Eesley** — per Dale Eesley's FamilySearch tree (ID **LZTC-RC2**), not *Albert* Robert. The *"Eesleys circa 1900"* PowerPoint caption's *"Alf (Albert Robert)"* compressed *Alfred → Alf → Albert* through ordinary handwriting and memory, not from any record. There were **two** Albert Roberts in this generation, not three: **Sr** the father and **[Bert](/family/albert-robert-eesley-jr/)** (born *Robert Albert*) the son. Alf was a third son with a similar-sounding but distinct first name.
 
 ## The life on the page
 
