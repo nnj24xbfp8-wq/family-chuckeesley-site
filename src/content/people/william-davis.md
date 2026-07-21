@@ -4,6 +4,7 @@ line: maternal
 generation: 1
 birth:
   date: "1764"
+  place: "Maryland"
 death:
   date: "1851"
 spouses:
@@ -16,8 +17,8 @@ summary: "The deepest documented ancestor on the Davis line and Chuck's maternal
 
 William Davis is, as of this writing, the **earliest documented ancestor on the Davis line** &mdash; Chuck's maternal **five-times-great-grandfather**, the generation above [Joseph Davis](/family/joseph-davis/) and the man born deepest in time on this branch.
 
-He was **born in 1764 and died in 1851** &mdash; a lifespan of about eighty-seven years that runs from the eve of the American Revolution to the eve of the Civil War. He married **[Elizabeth](/family/elizabeth-davis/)** (born 1764&ndash;1781 range; maiden name not yet recovered), and their son **[Joseph Davis](/family/joseph-davis/)** (1819&ndash;1896) was born in Jefferson County, Ohio and carried the line forward through [William Armstrong Davis](/family/william-armstrong-davis/), [Homer Edward Davis](/family/homer-davis/), and [Dorothy Marie Davis Wildermuth](/family/dorothy-davis-wildermuth/) down to Chuck.
+He was **born in 1764 in Maryland and died in 1851** &mdash; a lifespan of about eighty-seven years that runs from the eve of the American Revolution to the eve of the Civil War. He married **[Elizabeth](/family/elizabeth-davis/)** (b. ca. 1781; maiden name not yet recovered), and their son **[Joseph Davis](/family/joseph-davis/)** (1819&ndash;1896) was born in Jefferson County, Ohio and carried the line forward through [William Armstrong Davis](/family/william-armstrong-davis/), [Homer Edward Davis](/family/homer-davis/), and [Dorothy Marie Davis Wildermuth](/family/dorothy-davis-wildermuth/) down to Chuck.
 
-Everything below the bare dates is open. His birthplace, the state the family lived in before Joseph's 1819 Ohio birth (Pennsylvania, Virginia, and Maryland are all plausible for a Jefferson-County-Ohio family of that era), and Elizabeth's maiden name are all still to be recovered.
+The GEDCOM now places his **birth in Maryland** &mdash; which sketches the migration the family followed to Ohio: a man born in Revolution-era Maryland whose son was born in **Jefferson County, in the upper-Ohio-River corner of the state, by 1819**. The intermediate stops between Maryland and Jefferson County, and Elizabeth's maiden name, remain the open end of the line.
 
 > *Source: [Eesley/Wildermuth GEDCOM tree / FamilySearch](/docs/dale-eesley-familysearch-tree/) &mdash; FamilySearch ID **GJCV-QGS** (William Davis, 1764&ndash;1851), linked as the father of Joseph Davis (GMTB-SJX). Surfaced from the FamilySearch pedigree view, July 2026.*

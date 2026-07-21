@@ -8,10 +8,10 @@ generation: 5
 parents:
   - mae-clara-wildermuth
 status: sketch
-summary: "Daughter of Mae Clara Wildermuth Seyler and her husband Seyler. Born 28 April 1907 — the eldest of Mae Clara's two known children. Older sister of Robert 'Bob' Marion Seyler Sr. Visible at about age 6 in the c. 1913 photograph at her mother's Front Street, Marietta house, wearing a large pale sun hat. Married a McIntyre. Chuck Eesley's first cousin twice removed on the paternal Wildermuth side."
+summary: "Daughter of Mae Clara Wildermuth and Harry Adam Seyler (1876–1942). Born 28 April 1907 — the eldest of Mae Clara's two known children. Older sister of Robert 'Bob' Marion Seyler Sr. Visible at about age 6 in the c. 1913 photograph at her mother's Front Street, Marietta house, wearing a large pale sun hat. Married a McIntyre. Chuck Eesley's first cousin twice removed on the paternal Wildermuth side."
 ---
 
-Ruth Mae Seyler McIntyre was the daughter of [Mae Clara (Wildermuth) Seyler](/family/mae-clara-wildermuth/) and her husband Seyler — born **28 April 1907**, older sister of [Robert "Bob" Marion Seyler Sr.](/family/robert-marion-seyler-sr/) and the eldest cousin in the c. 1913 family group.
+Ruth Mae Seyler McIntyre was the daughter of [Mae Clara (Wildermuth) Seyler](/family/mae-clara-wildermuth/) and **Harry Adam Seyler** — born **28 April 1907**, older sister of [Robert "Bob" Marion Seyler Sr.](/family/robert-marion-seyler-sr/) and the eldest cousin in the c. 1913 family group. Her father, Harry Adam Seyler (1876&ndash;1942), had married Mae Clara Wildermuth on **12 November 1904** in Washington County, Ohio; he died at Marietta in 1942 and is buried at Oak Grove Cemetery.
 
 She appears at about age 6 in the [c. 1913 photograph of her mother's house on Front Street, Marietta](/archive/wildermuth-sisters-children-front-street-1913/), in a large pale sun hat, standing beside the stroller carrying her younger first cousin Kate Clark — the eldest of the four cousins assembled in front of Mae Clara's house that summer.
 
