@@ -11,6 +11,9 @@ death:
 generation: 2
 spouses:
   - johann-michael-wildermuth
+parents:
+  - christian-boeshar
+  - maria-margaretha-jung
 portrait: "../../assets/family/originals/00000000_00000035_00000036 (1).jpeg"
 summary: "Wife of Johann Michael Wildermuth the 1847 emigrant, mother of his three documented sons (John Charles 1865, William Clifford 1866, Edward Frederick 1873), and Chuck's great-great-great-grandmother on the maternal Wildermuth side. Born 15 June 1840 in Breitenbach, Pfalz, Bavaria — a Rhineland Palatinate village some 250 miles northwest of her future husband's Württemberg birthplace at Grossaspach. Emigrated to America at some point before her 1862 marriage in Washington County, Ohio. Lived to age 93, dying in Marietta on 17 October 1933 — outliving her husband by 30 years and old enough that Chuck's grandfather Robert Earl Wildermuth (b. 1924) knew her as a great-grandmother through the first nine years of his life. The 'grandma Catherina Boeshar' of Robert Earl's 1989 memoir."
 ---
@@ -20,6 +23,8 @@ She was born **15 June 1840 in Breitenbach, Pfalz, Bavaria** — a Rhineland Pal
 ## The Atlantic crossing and the Ohio marriage
 
 The German village she was born in — **Breitenbach** — sits about **250 miles northwest** of her future husband's Württemberg birthplace at **Grossaspach**. That she and [Johann Michael Wildermuth](/family/johann-michael-wildermuth/) met and married in Washington County, Ohio (on **7 September 1862** per the @F57@ family record) means **both had to have emigrated separately and converged in Marietta** — two German-speaking emigrants from regions 250 miles apart at home who found each other in a Pfalzer-and-Württemberger immigrant community on the Ohio River.
+
+Her parents were **[Christian Boeshar](/family/christian-boeshar/)** (1810–1843), a Breitenbach miner, and **[Maria Margaretha Jung](/family/maria-margaretha-jung/)** (b. 1814) of nearby Frohnhofen, who married in Breitenbach in 1836; Catharina had an older brother, **Jacob** (b. 1837). Her father **died in May 1843, when she was not yet three**, so she grew up in a widowed household — context that sits behind a young Pfälzerin leaving for Ohio.
 
 Johann Michael's [1853 Philadelphia naturalization petition](/docs/johann-michael-wildermuth-naturalization-1853/) documents him arriving at the **Port of New York in 1847** as a boy under eighteen, and being in Pennsylvania by 1852. Catharina's own emigration is less documented in this archive — her Atlantic crossing date, her port of arrival, and how she came to Washington County are open research, but she had to be there by 1862. The Pfalz-to-Ohio path in those years typically went through **New York or Baltimore** by sail to Philadelphia and then overland to the Ohio Valley.
 
