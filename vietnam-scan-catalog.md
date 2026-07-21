@@ -168,7 +168,7 @@ Surveyed the entire dad279–336 range. Found a much richer seam than expected: 
 
 ## Still to catalog
 
-**Low-number stragglers — NOT YET SURVEYED** (next priority): dad6 dad11 dad12 dad18 dad26 dad101 dad103 dad119 dad125 dad137 dad147 dad148 dad152 dad153 dad154 dad155 dad156 dad157 dad166 dad181
+**Low-number stragglers — SURVEY COMPLETE.** All of dad6, 11, 12, 18, 26, 101, 103, 119, 125, 137, 147, 148, 152–157, 166, 181 have been read and resolved (see the "SURVEYED this pass" section below). Nothing new remains to survey in this set.
 
 **Still-open orphans from earlier passes** (unchanged): dad239, dad241, dad246, dad250, dad251, dad264, dad298, dad335 (see above), plus the Woodstock scan (unlocated — Chuck to match from the physical letter/envelope).
 
@@ -187,8 +187,8 @@ All 20 read. **Key finding:** by the time this pass ran, the entire Jan–Mar 19
 - **dad103** = another scan (typed) of **dad22** → `charlie-to-terrie-1971-03-01-lam-son-719` (1 Mar 1971, Quang Tri/CQ, "a lot of guys are going to get killed," 105 days, Cape Hatteras). Verbatim match.
 - **dad166** = duplicate scan of **dad163** (page 1) of `charlie-to-terrie-1971-02-24-five-days-in-and-rr-cost` (Feb 24 evening: "5 days now… March 5-6 allocations… I should be able to get Hawaii"). Verbatim match to that entry's p1.
 
-**Additional/fuller scans of an existing entry — CANDIDATE TO ENRICH (not done this pass):**
-- **dad155 (p1, "Jan 19") + dad152 (p3) + dad153 (p4)** = the same letter as `charlie-to-terrie-1971-01-19-ets-extension` (existing entry cites **dad115** as a single scan). These are the fuller multi-page scans. Page 2 still missing. If enriched, note the passages that need the **standing privacy trim**: (a) the fidelity passage on p3 ("…if you tell your medic friend I said I haven't had sex with any of these women… still a good boy as far as sexual relations are concerned"), and (b) the intimate passage on p4 ("no pajamas… I only had you naked once… contraceptives…"). The marijuana/drug-economy passage on p3 (few puffs at Camp Evans, the fence kids, 17¢ vs 95¢ cigarettes) is historically valuable and can stay.
+**Additional/fuller scans of an existing entry — ✅ ENRICHED (July 2026):**
+- **dad155 (p1, "Jan 19") + dad152 (p3) + dad153 (p4)** = the same letter as `charlie-to-terrie-1971-01-19-ets-extension` (existing entry cited **dad115** as its only scan and stopped mid-page 1 at "the P.X. sells..."). **Done:** the transcription was extended with pages 3–4 and a "records" paragraph added on the **fence drug-economy** (kids selling marijuana through the wire; GIs' PX cigarettes at 1¢ vs. ~95¢ locally) and the **Tet flares**. The two intimate passages — the fidelity line on p3 and the "no pajamas / naked once / contraceptives" line on p4 — were **withheld** per the standing privacy trim, each marked in the transcription with a bracketed "[private passage withheld]" note. Page 2 still not located. **NOTE — deferred to Chuck:** the page-3/4 scan images (dad152/dad153) were **NOT attached** to `scans[]` because the image itself shows the withheld intimate text; attaching them is a privacy call for Chuck. Frontmatter `source` now cites dad115/dad155/dad152/dad153.
 
 **Non-letters / non-Charlie (do not publish as war letters):**
 - **dad26** — modern note, block-printed: "Hi Chuck… Tom Rose [tlrose228@aol.com]… send him an email… Love Dad." Charlie writing to adult Chuck; a stray modern scan in the dad### set.

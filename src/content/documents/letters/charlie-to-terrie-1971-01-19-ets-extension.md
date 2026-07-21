@@ -15,7 +15,7 @@ dateRange:
   start: "1971-01-19"
 private: false
 summary: "Charlie's letter to Terrie dated 19 January 1971, planning his Vietnam tour extension as the path out of the Army. He has decided that if the Army doesn't announce a definite early-drop policy he will extend his Vietnam tour by 32 or 33 days so that he can ETS (Expiration Term of Service) directly from Vietnam — bypassing the stateside garrison duty he says 'is a lot of harassment.' The strategy letter that sets up Peggy McMaster Eesley's 10 February 1971 congressional letter to Congressman Miller three weeks later."
-source: "Held in family archive — src/assets/family/originals/vietnam-letters/dad115.jpg."
+source: "Held in family archive — page 1 as src/assets/family/originals/vietnam-letters/dad115.jpg (also scanned as dad155.jpg); pages 3–4 as dad152.jpg and dad153.jpg (page 2 not located). Two private passages on pages 3–4 are withheld."
 scans:
   - ../../../assets/family/originals/vietnam-letters/dad115.jpg
 ---
@@ -49,6 +49,20 @@ The decision he is announcing is counterintuitive on first read: he is going to 
 > I figured that if I extend now I'll have 147 days left now and 129 when I finally get back to the field if they need us back as I hear they are. With leave and R&R I can kill about 30 days out of the field and a few other things should mean that at most I'll have about 80 possible days in the field and probably less. With the weather changing and little or no contact it really shouldn't be that bad. It all depends though on whether they say something definite about drops.
 >
 > I can drink over here anytime. There is a bar on base here and it is the only one we go to. Also the P.X. sells...
+>
+> *[Page 2 is not in the archive. Page 3 resumes mid-sentence.]*
+>
+> ...a lot of flares. It should get pretty noisy around [Tet] as it was noisy on X-mas & New Years. (They lit up the sky with flares.) I have only tried a few puffs of marijuana back at [Camp] Evans and I was drunk at the time. I really don't go for it and neither do most around me, but it is widespread as are other drugs. The kids will try to sell it to us through the fence along with anything else they have to sell. Also they want to buy our cigarettes as it costs us 1&cent; each and them around 95[&cent;].
+>
+> As far as your thinking marijuana is dangerous, I don't think so at all. I just hate smoking of all kinds, and the army is cracking down on it and I don't want any more trouble besides.
+>
+> *[A passage here, on the couple's private life, is withheld as private.]*
+>
+> What's all this bull about you loafing your last semester and me paying it. You are really dreaming now aren't you. Maybe I should stay over here an extra year to earn enough money to pay for all my expenses that will be waiting for me when I get back.
+>
+> *[A further private passage is withheld.]*
+>
+> Well I hope you do alright on your finals and finally become a senior. I doubt if you will ever graduate though. Keep plugging — maybe one of these years they might give you a diploma just to get rid of you. At least [Leshe] & Ferguson started two years before you and they are still in school.
 
 ## What the letter records
 
@@ -60,4 +74,8 @@ The decision he is announcing is counterintuitive on first read: he is going to 
 
 **The bar on base.** *"I can drink over here anytime. There is a bar on base here and it is the only one we go to."* Charlie is no longer in the field; he is in the rear, with a bar accessible. The rear-area location matches the later 4 February and 10 February 1971 letters that open *"I'm still in Danang."*
 
-The letter closes mid-paragraph on the post exchange. Page 2 is open in the family archive and may be added later.
+**The fence drug-economy and the cigarette arbitrage.** Pages 3&ndash;4 add a rare firsthand economic snapshot of the rear-area base. Charlie describes local kids selling marijuana &mdash; *"and anything else they have to sell"* &mdash; through the perimeter fence, and wanting to buy the GIs' cigarettes, which cost the soldiers **one cent each at the PX and roughly ninety-five cents on the local market**. It is a small, precise picture of the informal economy that grew up along every American perimeter in Vietnam: subsidized PX goods flowing out through the wire at a hundred-fold markup, drugs flowing in. Charlie is dismissive of marijuana's danger but says he *"just hate[s] smoking of all kinds"* and, with an ETS extension pending, *"[doesn't] want any more trouble."* He also notes the holiday flares &mdash; the sky lit up over Tet as it had been over Christmas and New Year's.
+
+Pages 3&ndash;4 survive in the family archive (page 2 has not been located). Two passages on those pages &mdash; on the couple's private life &mdash; are withheld here as private, in keeping with the archive's handling of the intimate courtship correspondence; the war-and-life material around them is transcribed above.
+
+> *Pages 3&ndash;4 held in the family archive as dad152 and dad153; page 2 not located. Two private passages withheld.*
