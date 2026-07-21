@@ -36,4 +36,4 @@ A steep hillside cemetery behind the village church, where the Wildermuths who d
 
 Set into the churchyard wall is the village's First and Second World War memorial — three brown stone tablets recording the village dead. Chuck's 2018 frame brings the names into legibility: the **1914–1918 tablet** lists, among others, *Wildermuth Wilhelm* (30.8), *Wildermuth Karl* (multiple, on multiple dates), *Wildermuth Ernst* (7.12), *Wildermuth Hermann*, *Wildermuth Rudolf*, *Wildermuth Hugo* — and the **1939–1945 tablet** in the center adds *Wildermuth Ernst*, *Wildermuth Albert* (26.6), *Wildermuth Walter* (11.5), among others. Robert Earl's count of "23 Wildermuths" on the memorial appears to be conservative.
 
-This wall and the hillside graves above it are the village's documentation of what staying cost.
+This wall and the hillside graves above it are the village's documentation of what staying cost. See the [dedicated memorial artifact](/archive/rielingshausen-war-memorial-wildermuth/) for the full roll of Wildermuth names across both wars.

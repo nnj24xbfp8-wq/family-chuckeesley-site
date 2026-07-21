@@ -70,7 +70,7 @@ The picture may have been in the family archive all along, just not labeled as s
 
 Johann Michael is an anchor for two of the ten threads in the [**Family threads**](/docs/family-threads/) synthesis essay:
 
-- **Thread #9 — Crossing for what's next** — the **founding instance**: sailed from Großaspach, Württemberg in 1847, age sixteen, per his own 1853 Philadelphia naturalization petition. *"He was the Wildermuth who left."*
+- **Thread #9 — Crossing for what's next** — the **founding instance**: sailed from Großaspach, Württemberg in 1847, age sixteen, per his own 1853 Philadelphia naturalization petition. *"He was the Wildermuth who left."* The Wildermuths who **stayed** are carved into the [Rielingshausen war memorial](/archive/rielingshausen-war-memorial-wildermuth/) — a dozen of them killed in the two world wars, the family that emigration spared his own line.
 - **Thread #10 — Building things (entrepreneurship across four generations)** — built up the **shoe trade with William Rossar of Baden** in Marietta, the immigrant Wildermuth-side founding-entrepreneur instance parallel to John F. Eesley's Plainwell flour mill (1887) and Zhou Zhaoxiang's first Qingdao photography studio (mid-20th-century).
 
 ## Robert Earl's 1989 sketch
