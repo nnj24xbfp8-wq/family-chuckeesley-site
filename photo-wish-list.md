@@ -46,7 +46,7 @@ stories — so a found photo pays off immediately. Ranked by how much story is a
 
 ## C. Emotionally resonant / findable in records
 
-- **Josiah Way Hill** (1893–1918) — killed at the Meuse–Argonne, October 1918; buried at Romagne-sous-Montfaucon (Meuse-Argonne American Cemetery). *A July 2026 web search (ABMC, Find A Grave, Ohio WWI rosters) surfaced no online portrait or memorial photo for him — WWI enlisted men are rarely digitized. Best remaining bets: family papers, his ABMC burial record, and Ohio's Official Roster (which would give his unit). Among the most moving faces the archive could recover.*
+- ✅ **Josiah Way Hill** (1893–1918) — **DONE.** Chuck found his WWI honor-roll portrait ("Pvt. Josiah W. Hill — Lower Salem — K.A.") in the family papers — the killed-in-action soldier's face, recovered at last. Now his page portrait, with the full honor-roll image and his Woodsfield enlistment (4 Oct 1917) added.
 
 ## D. The biggest structural gap: Lijie's side (Zhou / Li / Shang, Qingdao)
 
