@@ -56,6 +56,16 @@ On 20 April 1946 Dorothy married Robert Earl Wildermuth not long after his retur
 
 She and Robert Earl raised four children: Terrie Lee (Chuck's mother, b. Oakland, CA 1949 during Robert Earl's Stanford years), [Sandra Sue](/family/sandra-sue-wildermuth-clement/), [Robert E. Jr.](/family/rob-wildermuth/), and [Debra](/family/debbie-wildermuth/). Robert Earl's career took the household across the country — Florida, California, Oklahoma, Ohio, Colorado, Texas, Maryland, and Japan, per Dorothy's 2010 funeral program.
 
+## The wedding announcement — 20 April 1946
+
+A Marietta newspaper clipping preserved in the family papers records the ceremony itself. In a quiet **double-ring ceremony at seven o'clock Saturday evening** &mdash; 20 April 1946 &mdash; in the parsonage of the **First Methodist Church**, **Rev. Karl B. Alexander** officiating, *"Miss Dorothy Marie Davis, daughter of Mr. and Mrs. Homer E. Davis of 720½ Front St., became the bride of Robert E. Wildermuth, son of Mr. and Mrs. E. A. Wildermuth of 320 Harmar St."* Only immediate families and a few intimate friends attended.
+
+The bride wore *"a two-piece suit of light blue"* with brown accessories, a single strand of pearls, and an orchid shoulder corsage. Her matron of honor was **[Ruth (Wildermuth) Ridenour](/family/ruth-irene-wildermuth-ridenour/)** &mdash; *"Mrs. Jack Ridenour of Newark, sister of the bridegroom"* &mdash; and **[Jack Ridenour](/family/jack-ridenour/)** served as best man. A reception followed at the bride's parents' home, the table centered by a three-tiered cake; **[Bessie Davis](/family/bessie-hill-davis/)** wore navy with white carnations and **[Sadye Wildermuth](/family/sadye-fleming-wildermuth/)** navy with pink.
+
+The clipping also fixes the groom's just-finished war: **[Robert Earl](/family/robert-earl-wildermuth/)** had graduated Marietta High School in 1942, worked for the **Curtiss-Wright Aircraft Corp.** in Columbus before induction, and *"served as a navigator for one year in the South Pacific and held the rank of first lieutenant."* Newly discharged, he was attending **Marietta College**. After a short wedding trip through northern Ohio the couple were *"at home in their newly furnished apartment on Fifth St."* &mdash; the Marietta starting point of the household that would move to Stanford within a year.
+
+> *Source: Marietta newspaper wedding clipping ("Wed Saturday"), family papers, transmitted by Chuck Eesley 2026.*
+
 ## The family-of-six photographs
 
 Two newly placed photographs show Dottie at the center of the household she ran across the Air-Force postings:

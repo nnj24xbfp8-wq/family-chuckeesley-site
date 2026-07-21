@@ -26,8 +26,12 @@ After his mother Sadye died of multiple myeloma on **4 August 1976**, **Carl liv
 
 ## Carl's later life and death
 
-Carl outlived his father by **twelve years**. He died in **Newark, Licking County, Ohio on 9 December 1989**, age 61. He is buried at **East Lawn Memorial Park in Reno, Washington County, Ohio** &mdash; the same Marietta-area cemetery where his father Earl Adam is buried, alongside multiple generations of Wildermuth and Davis family.
+Carl outlived his father by **twelve years**, dying **9 December 1989 at Licking County Memorial Hospital in Newark**, age 61.
 
-His life after his father's 1977 death is open research &mdash; including who cared for him, where he lived, and how he died. The Newark death location places him in the same county as the Wildermuth-Marietta-side relatives' Licking County connections.
+## The 1989 obituary — his later life resolved
 
-> *Sources: [Dale Eesley / FamilySearch — Carl Edward Wildermuth (GMLN-NMS)](https://www.familysearch.org/tree/person/details/GMLN-NMS); [Robert Earl Wildermuth's 1989 memoir](/docs/robert-earl-wildermuth-memoir/) and Ruth Irene Wildermuth Ridenour's parallel sketch.*
+Carl's death notice in the Marietta paper fills in much of what this page had left open. He was a lifelong Mariettan and a **graduate of the Ohio State School for the Blind**, a member of the **Harmar Hill Church of Christ**, and &mdash; a striking detail for a blind man &mdash; a member of the **Marietta C.B. Radio Club**. About twelve years before his death (c. 1977, the year his father died) he had moved from the family's **320 Harmar Street** to **Newark**, settling at 622 Hudson Avenue.
+
+He was survived by his wife, **Katherine (DeBona) Wildermuth** &mdash; the first record in this archive that Carl married &mdash; and by his brother **[Robert E.](/family/robert-earl-wildermuth/)** (Casselberry, Florida) and sisters **[Ruth](/family/ruth-irene-wildermuth-ridenour/)** (Mrs. Jack Ridenour, Newark), **[Norma](/family/norma-jean-wildermuth-gault/)** (Mrs. Eugene Gault, Hebron), and **[Betty Jo](/family/betty-joan-wildermuth-haddox/)** (Mrs. Joseph Haddox, Newberry, Florida). Services were at the McClure-Schafer Funeral Home, Evangelist Ray Linn of Heath officiating, and memorial gifts were directed to the Ohio State School for the Blind. The obituary gives his **burial as Valley Cemetery, Marietta**, where the family tree instead records East Lawn Memorial Park, Reno &mdash; the two sources disagree and remain to be reconciled.
+
+> *Sources: [Dale Eesley / FamilySearch — Carl Edward Wildermuth (GMLN-NMS)](https://www.familysearch.org/tree/person/details/GMLN-NMS); [Robert Earl Wildermuth's 1989 memoir](/docs/robert-earl-wildermuth-memoir/) and Ruth Irene Wildermuth Ridenour's parallel sketch; Carl E. Wildermuth obituary, Marietta paper, 9 December 1989 (family papers, transmitted by Chuck Eesley 2026).*

@@ -1,5 +1,6 @@
 ---
 name: "Ruth Irene (Wildermuth) Ridenour"
+portrait: ../../assets/family/originals/ruth-irene-wildermuth-ridenour-1940s-crop.jpeg
 aka: "Ruth Wildermuth, maiden; Mrs. Jack Ridenour; the eldest Earl-Adam-Wildermuth child"
 line: maternal
 birth:
@@ -35,6 +36,10 @@ She lived through her parents' apprenticeship-and-machinist years and the move t
 Ruth worked at the **Marietta Telephone Exchange** through the war years &mdash; the early 1940s, the period when so many young American women filled the local-exchange-operator workforce during World War II.
 
 Her **aunt Laverna (Fleming) Raison** &mdash; her mother Sadye's sister &mdash; played cupid and introduced Ruth to **[Jack Ridenour](/family/jack-ridenour/)**. They married **6 May 1943 at Camp Kilmer, New Jersey** &mdash; the Army's main East-Coast staging area for the European and CBI theaters &mdash; **a week before Jack shipped out to the China-India-Burma Theater** of World War II. Ruth went back to Marietta and lived as a *"warbride 'widow'"* until Jack returned at the end of the war. The marriage opened with the same kind of separation that her cousin-by-marriage [Betty Davis](/family/betty-davis/)'s 1945 wedding to Norm Wolfe would &mdash; two years and a generational beat later.
+
+![Ruth Wildermuth, at right, with her younger brother Bob — Robert Earl Wildermuth — in his Army uniform, c. 1943–44, on a Marietta lawn; the print is signed "Ruth & Bob."](../../assets/family/originals/ruth-and-bob-wildermuth-c1943.jpeg)
+
+*Ruth with her brother [Robert Earl](/family/robert-earl-wildermuth/) during the war years — the print the family labeled "Ruth & Bob," and the source of her page portrait.*
 
 ## The next generation
 
