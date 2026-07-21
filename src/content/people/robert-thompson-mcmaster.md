@@ -22,7 +22,7 @@ Two photographs of him survive in the family archive &mdash; he appears twice in
 
 ![Robert Thompson McMaster at age three, 1869 &mdash; a cabinet card by the Pittsburgh photographer B.&thinsp;L.&thinsp;H. Dabbs, the boy in pants, an overskirt, and high laced boots. Inscribed on the back &ldquo;Grandfather McMaster (Peggy's father about 1869).&rdquo; From Maggie Eesley's *Four Generations* deck (ID RTM001); provenance Peggy McMaster Eesley.](../../assets/family/maggie-deck/robert-thompson-mcmaster-age-three-1869.jpeg)
 
-He married **[Alice Anderson McMaster](/family/alice-anderson-mcmaster/)** (1871&ndash;1961), daughter of [Reverend Abraham Ramsey Anderson](/family/abraham-ramsey-anderson/) the Presbyterian minister. Their children included:
+He married **[Alice Anderson McMaster](/family/alice-anderson-mcmaster/)** (1871&ndash;1961), daughter of [Reverend Abraham Ramsey Anderson](/family/abraham-ramsey-anderson/) the Presbyterian minister, **in 1902** (per the family's hand-drawn McMaster&ndash;Anderson tree). Their children included:
 
 - **[Donald Anderson "Don" McMaster](/family/donald-anderson-mcmaster/)** (1903&ndash;1967) &mdash; photographer; ran the northeastern U.S. communications power grid in WWII.
 - **[Margaret Jane "Peggy" McMaster Eesley](/family/margaret-mcmaster-eesley/)** (1914&ndash;2007) &mdash; Chuck's grandmother, who married [Will Eesley](/family/wilbur-eesley/) in 1942.
