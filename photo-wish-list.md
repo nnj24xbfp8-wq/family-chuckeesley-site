@@ -26,7 +26,7 @@ pattern). Where the source photo carries a printed who's-who key, the position i
 crop is safe; the others just need you to confirm which figure is which.
 
 - ✅ **Ted Wah Sing Chong, M.D.** (1920–2013) — **DONE this pass.** Cropped from his own [c. April 1945 wedding portrait](/archive/stella-ted-chong-wedding-portrait-1945/) (the groom in Navy whites). The Chinese-American Navy officer who married Stella Eesley now has a face; pairs with Stella's existing portrait.
-- **Mary Louise (Davis) Murdock** (1924–2002) — Chuck's great-aunt (Dorothy's sister). Pictured in the three Davis-sisters frames (c. 1929/1930/1931, positions captioned left-to-right) and, as an adult, seated holding baby Jack in the [1947 five-generation portrait](/archive/hill-davis-murdock-five-generation-1947/). *Caveat: all are low-resolution scans — a crop works but a sharper standalone photo would be better if one exists.*
+- ✅ **Mary Louise (Davis) Murdock** (1924–2002) — **DONE.** Cropped from the cleaner 1947 five-generation scan Chuck supplied (adult, seated). That scan also replaced the low-res captioned version as the artifact's lead image (captioned print kept as the ID key).
 - ✅ **Edward E. Way** (1851–1924), **Tacy Elizabeth Matthews** (1848–1902), **Nora Angie Way** (1876–1939), **Emma Maude Way** (1883–1917) — **DONE this pass.** All four cropped from the keyed [1901 Belle Way wedding portrait](/archive/belle-way-howard-wickens-wedding-1901/) (positions from the printed ID guide). *Tacy and Emma are medium-confidence identifications — worth a glance to confirm.*
 - *(Victoria Anna Way Davis already has her c. 1902 William/Victoria/Homer portrait — not a gap.)*
 - ✅ **The c. 1899 Eesley family group** — **DONE this pass.** Cropped individual portraits for all nine previously-faceless siblings — John Franklin, Anna Scoon, Will (College Corner), Alf, Bert, Bessie, Jennie Baxter, Dr. George (Toronto), and Garfield — from the [1899 Eesley family group portrait](/archive/eesley-family-group-portrait-1899/), using the PowerPoint caption's left-to-right order (confirmed by Roberta).
@@ -40,7 +40,6 @@ stories — so a found photo pays off immediately. Ranked by how much story is a
 
 - ✅ **Daniel Edburn "Dan" Eesley** (b. 1931) — **DONE.** Chuck supplied a studio portrait (young man in an officer's dress uniform and peaked cap).
 - ✅ **Jean Goldie Eesley** (1921–1925) — **DONE.** Cropped from the toddler-in-overalls photo (her only known image; she died at four) that was on Helen's page.
-- **Mary Louise (Davis) Murdock** — *(see A — pictured, but only in low-res groups; a good standalone portrait is still wanted).*
 - **George Edburn "Bus" Eesley** (1903) and **Ruth Irene (Wildermuth) Ridenour** (1922) — well-developed pages, no face.
 - **Margaret Florence Anderson** (1869) and **John Wallace Anderson** (1864) — the paternal Anderson line (Rev. Abraham Anderson's children), faceless.
 
