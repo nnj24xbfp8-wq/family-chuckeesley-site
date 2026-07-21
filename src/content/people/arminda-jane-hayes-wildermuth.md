@@ -8,7 +8,7 @@ birth:
 death:
   date: "1967-11-15"
   place: "Marietta, Washington County, Ohio"
-generation: 4
+generation: 3
 spouses:
   - edward-frederick-wildermuth
 status: sketch

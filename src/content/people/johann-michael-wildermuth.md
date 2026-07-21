@@ -8,7 +8,7 @@ birth:
 death:
   date: "1903-02-07"
   place: "Marietta, Washington County, Ohio (buried Oak Grove Cemetery)"
-generation: 3
+generation: 2
 spouses:
   - catharina-boeshar-wildermuth
 summary: "The Wildermuth who left Württemberg. Born 23 August 1830 in Großaspach, Backnang, Württemberg; sailed at sixteen, arriving at the Port of New York in 1847 (per his own 1853 Philadelphia naturalization sworn statement). Worked at the shoe trade in Marietta, Ohio with William Rossar of Baden. Naturalized as an American citizen on 1 November 1853 at the Philadelphia Court of Quarter Sessions before the Hon. Oswald Thompson, witnessed by Michael Dreher — renouncing allegiance to 'the Grand Duke of Wirtemberg of whom he was at that time a Subject.' Married Catharina Boeshar of Breitenbach, Bavaria around 1862 in Washington County, Ohio. Three documented sons: John Charles (1865), William Clifford (1866), Edward Frederick (1873). Died 7 February 1903 in Marietta and was buried at Oak Grove Cemetery. Chuck's great-great-great-grandfather on the maternal Wildermuth line."

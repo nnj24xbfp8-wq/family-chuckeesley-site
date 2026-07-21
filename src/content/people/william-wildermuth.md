@@ -9,6 +9,9 @@ death:
   date: "1943-09-10"
   place: "Marietta, Washington County, Ohio"
 generation: 3
+parents:
+  - johann-michael-wildermuth
+  - catharina-boeshar-wildermuth
 spouses:
   - flora-schlicher-wildermuth
   - sarah-ruf-wildermuth
@@ -16,7 +19,7 @@ portrait: ../../assets/family/originals/00000002_00000008_00000009.jpeg
 summary: "Marietta-Ohio Wildermuth, born 17 September 1866 and died there 77 years later on 10 September 1943, buried 12 September 1943. Married Flora Schlicher (1870–1919) on 29 December 1886; nine children including Earl Adam (1899) who married Sadye Fleming and fathered Robert Earl. Robert Earl Wildermuth's PATERNAL GRANDFATHER. Patriarch of the c. 1896 multi-generation family group portrait and the c. 1915–1918 four-person studio family portrait. Chuck's great-great-grandfather on the maternal side."
 ---
 
-William Clifford Wildermuth was born **17 September 1866 in Marietta, Washington County, Ohio** — the same river-town his great-grandfather [Johann Michael Wildermuth](/family/johann-michael-wildermuth/) had reached as an immigrant shoemaker from Grossaspach, Württemberg, in 1847 — and he stayed there for all seventy-seven years of his life, dying in Marietta on **10 September 1943** and being buried two days later. The Marietta-Ohio Wildermuths he represents are the cluster that produced [Earl Adam](/family/earl-a-wildermuth/) and [Robert Earl Wildermuth](/family/robert-earl-wildermuth/) in the next two generations — Robert Earl's [memoir](/docs/robert-earl-wildermuth-memoir/) opens with a Marietta birth at 123 Franklin Street and the Marietta dream house at 413 Harmar Street, the same town William Clifford lived his whole life in.
+William Clifford Wildermuth was born **17 September 1866 in Marietta, Washington County, Ohio** — the same river-town his father [Johann Michael Wildermuth](/family/johann-michael-wildermuth/) had reached as an immigrant shoemaker from Grossaspach, Württemberg, in 1847 — and he stayed there for all seventy-seven years of his life, dying in Marietta on **10 September 1943** and being buried two days later. The Marietta-Ohio Wildermuths he represents are the cluster that produced [Earl Adam](/family/earl-a-wildermuth/) and [Robert Earl Wildermuth](/family/robert-earl-wildermuth/) in the next two generations — Robert Earl's [memoir](/docs/robert-earl-wildermuth-memoir/) opens with a Marietta birth at 123 Franklin Street and the Marietta dream house at 413 Harmar Street, the same town William Clifford lived his whole life in.
 
 ## The marriage to Flora Schlicher
 
