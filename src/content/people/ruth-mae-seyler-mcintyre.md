@@ -1,5 +1,6 @@
 ---
 name: "Ruth Mae (Seyler) McIntyre"
+portrait: ../../assets/family/originals/ruth-mae-seyler-1913-crop.jpeg
 aka: "Ruth Mae Seyler, maiden; Mrs. McIntyre after marriage"
 line: maternal
 birth:

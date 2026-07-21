@@ -1,5 +1,6 @@
 ---
 name: "Margaret Zelma (Wildermuth) Clarke"
+portrait: ../../assets/family/originals/margaret-zelma-wildermuth-1913-crop.jpeg
 aka: "Margaret Wildermuth, maiden; Mrs. Clarke after marriage; Margaret Wildermuth on the c. 1896 family-portrait caption"
 line: maternal
 birth:

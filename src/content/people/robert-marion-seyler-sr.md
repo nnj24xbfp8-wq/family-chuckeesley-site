@@ -1,5 +1,6 @@
 ---
 name: "Robert 'Bob' Marion Seyler Sr."
+portrait: ../../assets/family/originals/robert-marion-seyler-1913-crop.jpeg
 aka: "Bob Seyler"
 line: maternal
 birth:

@@ -1,5 +1,6 @@
 ---
 name: "Walter Clark"
+portrait: ../../assets/family/originals/walter-clark-1913-crop.jpeg
 line: maternal
 birth:
   date: "1911-04-06"

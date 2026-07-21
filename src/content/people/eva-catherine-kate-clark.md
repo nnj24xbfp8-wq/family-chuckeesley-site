@@ -1,5 +1,6 @@
 ---
 name: "Eva Catherine 'Kate' Clark"
+portrait: ../../assets/family/originals/eva-catherine-kate-clark-1913-crop.jpeg
 aka: "Kate Clark"
 line: maternal
 birth:
