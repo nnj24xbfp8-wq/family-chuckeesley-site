@@ -2,56 +2,70 @@
 
 A working list of people who have **no photograph** (or only a weak/placeholder one) in the
 archive, prioritized so a search of the family collection targets the highest-value gaps
-first. Grouped by person with dates and why each matters. Not part of the site build.
+first. Not part of the site build.
 
-_Compiled July 2026. As of this pass: 279 people pages, 49 with a thumbnail portrait._
-
----
-
-## ✅ Just resolved (thumbnails wired from images already in the archive)
-
-These already had a photo on their page; they now show a thumbnail on index/relation cards:
-
-- **Mary Elizabeth (Eesley) Bean** (1913–2002) — wedding portrait, c. 1939–42. *The family historian (author of the 1985 Eesley Family History) now has a face on her card.*
-- **Stella Elaine Sunn Chong** (d. 1971) — Bradford Bachrach studio portrait, c. 1948.
-- **Mafry Smith Hyatt** — with her daughter, c. 1930s.
-- **Homer Edward Davis** (1900–1982) — as an infant in the William/Victoria/Homer Davis portrait, c. 1902. *(Adult portrait still wanted — see below.)*
-- **Leonard David Eesley** (1904–1976) & **Donald Stuart Eesley** (1908–1975) — as boys in "the three Eesley brothers, c. 1912." *(Adult portraits still wanted — see below.)*
-- **Dr. Angelo Battista Massaro** (d. 2016) — poolside, c. 1988.
-- **Li Xun 李恂** — IMG_1485.
+_Last refreshed July 2026 (~50 of 296 people pages carry a thumbnail portrait)._
 
 ---
 
-## Tier 1 — central figures with NO photo anywhere
+## The recommendation, in one line
 
-- ~~**Bessie Marie (Hill) Davis** (1905–1950)~~ — ✅ **RESOLVED July 2026.** Young porch portrait (c. early 1920s) now her thumbnail; also placed in the [1947 five-generation portrait](/archive/hill-davis-murdock-five-generation-1947/).
-- ~~**Clara Victoria Ullmann (Hill)** (1885–1941)~~ — ✅ **RESOLVED July 2026.** Confirmed as the center woman (with daughters Emma and Louella) in the [c. 1935 three-women photo](/archive/clara-ullmann-hill-with-daughters-emma-louella-c1935/); now her thumbnail. Her first photo in the archive.
-- ~~**Helen Louise "Little Helen" (Eesley) Burnes** (1924–2000)~~ — ✅ **NOT a gap (corrected).** She has a confident solo photo (Winter 1936 California beach, age ~12) now set as her thumbnail, plus she's identified in seven group photos. The "Helen or Jean" toddler shot on her page is captioned as her sister **Jean**, not Helen. *(Minor: that teen photo's filename says c.1939–41 but its caption says Winter 1936 — a cosmetic date mismatch to reconcile someday.)*
+**Two kinds of gap, two kinds of effort.** Some story-rich people are *already pictured* in a
+group photo the archive holds — they just have no cropped portrait on their card, so a face can
+be added with **no new sourcing at all** (do these first). Others are **truly faceless** and can
+only be filled by a photo you find in the family collection. The list below splits them that way,
+and within each, the richest stories come first.
 
-## Tier 2 — better portraits for people shown only as children/infants
+---
 
-- ~~**Leonard David Eesley** (1904–1976)~~ — ✅ **RESOLVED July 2026.** Fine Spring 1929 adult studio portrait now his thumbnail; plus a c. 1932 photo with his toddler son Tommy. (Was only the c. 1912 boyhood group.)
-- ~~**Donald Stuart Eesley** (1908–1975)~~ — ✅ **RESOLVED July 2026.** April 1932 studio portrait now his thumbnail; plus a 1929 Sault Ste. Marie photo with Aunt Ota. (Was only the c. 1912 boyhood group.)
-- ~~**Homer Edward Davis** (1900–1982)~~ — ✅ **NOT a gap (corrected).** Already has five photos across his life on his page (c. 1902 as a toddler, c. 1944–45 with his son, c. 1945 with daughters, c. 1953–55 backyard group, c. 1970 in Florida), plus the Mt. Perry group. Only quirk: his *thumbnail* is the c. 1902 infant portrait — could swap to an adult photo, but that's cosmetic.
+## A. Crop candidates — face is ALREADY in the archive (highest payoff, no sourcing needed)
 
-## Tier 3 — historically resonant, likely findable
+These people appear in a group photo already on the site but have no cropped portrait. A crop
+serves as the thumbnail and the group photo stays as its own artifact (the Mt. Perry / Fleming
+pattern). Where the source photo carries a printed who's-who key, the position is known and the
+crop is safe; the others just need you to confirm which figure is which.
 
-- ~~**Dale Dudley Eesley** (1906–1939)~~ — ✅ **RESOLVED July 2026.** He's identified in several photos (the c. 1937–39 Charles Leonard group, both Black Lake frames, the 1927 marriage license); his face front-left in the [c. 1928 Black Lake second frame](/archive/black-lake-cottage-group-c1928-second-frame/) is now his thumbnail.
-- **Josiah Way Hill** (1893–1918) — killed at the Meuse-Argonne, October 1918. WWI service/enlistment portraits often survive in family or military records.
+- ✅ **Ted Wah Sing Chong, M.D.** (1920–2013) — **DONE this pass.** Cropped from his own [c. April 1945 wedding portrait](/archive/stella-ted-chong-wedding-portrait-1945/) (the groom in Navy whites). The Chinese-American Navy officer who married Stella Eesley now has a face; pairs with Stella's existing portrait.
+- **Mary Louise (Davis) Murdock** (1924–2002) — Chuck's great-aunt (Dorothy's sister). Pictured in the three Davis-sisters frames (c. 1929/1930/1931, positions captioned left-to-right) and, as an adult, seated holding baby Jack in the [1947 five-generation portrait](/archive/hill-davis-murdock-five-generation-1947/). *Caveat: all are low-resolution scans — a crop works but a sharper standalone photo would be better if one exists.*
+- **Edward E. Way** (1851–1924) and **Tacy Elizabeth Matthews** (1848–1902) — the Way great-grandparents; both keyed (items 7–8) in the [1901 Belle Way wedding portrait](/archive/belle-way-howard-wickens-wedding-1901/). Positions known from the printed legend.
+- **Victoria Anna (Way) Davis** (1874–1903) — Chuck's maternal great-great-grandmother, keyed (item 6) in the same 1901 portrait. She died in 1903, so this may be the **only** surviving image of her — high priority to crop.
+- **Nora Angie Way** (1876–1939) and **Emma Maude Way** (1883–1917) — keyed (items 1 and 9) in the same 1901 portrait; both newly written up this month.
+- **Dr. George Henry Eesley of Toronto** (1876), **John Franklin Eesley** (1859), **Jennie (Eesley) Baxter** (1875), **Hannah "Anna" (Eesley) Scoon** (1863) — the paternal-Eesley aunts, uncles, and the Toronto doctors, all present in the [1899 Eesley family group portrait](/archive/eesley-family-group-portrait-1899/). *Needs a who's-who pass on that photo before cropping.*
+- **Thelma (Haughn) Eesley** (1906) — in the Black Lake 1928 frames and the late-1940s Eesley group. Confirm which figure, then crop.
+- **Mae Clara (Wildermuth) Seyler** (1886) — in the c. 1913 Front Street children's photo (she is likely the mother figure). Confirm and crop.
 
-## Tier 4 — the biggest structural gap: Lijie's side (Zhou / Li / Shang, Qingdao)
+## B. Truly faceless, story-rich — worth hunting in the family collection
 
-Only 4 of ~30 people on this side have a photo (Lijie, Zhou Ling, Zhou Zhaoxiang, Li Zhongchu). The rest of her parents', grandparents', and great-grandparents' generation is faceless in the archive. **Best sourced directly from Lijie's family.** Concrete, likely-findable targets (deceased elders):
+No image of these people exists anywhere in the archive yet, and their pages already carry real
+stories — so a found photo pays off immediately. Ranked by how much story is already written.
 
-- **Shang Yaofu 尚耀福** (d. 2014) and **Shang Yaozhen 尚耀真** (d. 2013) — the Shang elders.
-- **Sun Yunzhe 孙云哲** (d. 2023) — most recent, most likely to have photos.
-- **Pang Huancai 庞焕彩** (d. 1992), **Qiu Rongjing 邱蓉镜** (d. 1974), **Zhou Maoli 周茂礼** (d. 1935) — the deeper Qingdao generations.
-- Lijie's own parents' generation — coordinate with Lijie on which images she'd like included.
+- **Daniel Edburn "Dan" Eesley** (b. 1931) — the longest of the faceless pages (a full life already written). The single highest-value face to find; likely reachable through recent family photos.
+- **Jean Goldie Eesley** (b. 1921) — substantial page, no photo.
+- **Mary Louise (Davis) Murdock** — *(see A — pictured, but only in low-res groups; a good standalone portrait is still wanted).*
+- **George Edburn "Bus" Eesley** (1903) and **Ruth Irene (Wildermuth) Ridenour** (1922) — well-developed pages, no face.
+- **Margaret Florence Anderson** (1869) and **John Wallace Anderson** (1864) — the paternal Anderson line (Rev. Abraham Anderson's children), faceless.
+
+## C. Emotionally resonant / findable in records
+
+- **Josiah Way Hill** (1893–1918) — killed at the Meuse–Argonne, October 1918. A WWI service or enlistment portrait may survive in family papers or military records; among the most moving faces the archive could recover.
+
+## D. The biggest structural gap: Lijie's side (Zhou / Li / Shang, Qingdao)
+
+Only a handful of ~30 people on this side have a photo. The rest of the parents',
+grandparents', and great-grandparents' generations are faceless. **Best sourced directly from
+Lijie's family** (see also `photo-questions-for-lijies-mom.md`). Likely-findable deceased elders:
+
+- **Shang Yaofu 尚耀福** (d. 2014), **Shang Yaozhen 尚耀真** (d. 2013), **Sun Yunzhe 孙云哲** (d. 2023 — most recent, most likely photographed).
+- Deeper generations: **Pang Huancai 庞焕彩** (d. 1992), **Qiu Rongjing 邱蓉镜** (d. 1974), **Zhou Maoli 周茂礼** (d. 1935).
 
 ---
 
 ## Notes for the search
 
-- If a group shot is all that exists, that's still worth adding — a crop can serve as a portrait, and the group photo becomes its own artifact (as with the Mt. Perry and Fleming photos).
-- Face-tagged scans are ideal: tag who's who in the photo app first, then hand them over the way the Hill–Davis and Fleming photos came in.
+- A group shot is enough — a crop serves as a portrait and the group photo becomes its own artifact.
+- Face-tagged scans are ideal: tag who's who in the photo app first, then hand them over (the way the Hill–Davis and Fleming photos came in).
 - Deceased-with-a-death-date people are the most findable; living relatives can often supply their own.
+
+## Earlier resolved (for the record)
+
+Bessie (Hill) Davis, Clara Ullmann Hill, Little Helen Burnes, Leonard & Donald Eesley (adult portraits), Dale Eesley, Homer Davis, Mary Bean, Stella Chong, Mafry Smith Hyatt, Angelo Massaro, Li Xun — all resolved in the July 2026 passes (see git history).

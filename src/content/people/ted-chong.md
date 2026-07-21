@@ -1,6 +1,7 @@
 ---
 name: "Ted Wah Sing Chong, M.D."
 aka: "Ted Chong; Dr. Ted Chong"
+portrait: ../../assets/family/originals/ted-chong-wedding-portrait-crop-1945.jpeg
 line: other
 birth:
   date: "1920-08-24"
