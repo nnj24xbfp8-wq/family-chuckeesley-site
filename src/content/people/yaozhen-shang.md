@@ -21,15 +21,21 @@ summary: "Lijie's maternal grandmother. Born 11 September 1921 in Qingdao — th
 
 <a id="zh"></a>
 
-**尚耀真**（姓氏确定；名字汉字"耀珍"（2026年6月由Lijie之母确认更正））&mdash; 周丽婕的外祖母。1921年9月11日生于青岛，比未来丈夫[李仲初](/family/zhongchu-li/)早三天出生于同一城市。育有三子女，包括[周丽婕的母亲李恂](/family/xun-li/)（1956年生）。1982年丈夫辞世后，**独自寡居三十年**，亲眼见证外孙女周丽婕从婴儿长大成人。**2013年1月10日辞世，享年91岁。**
+**尚耀真**（姓氏确定；名字汉字"耀珍"（2026年6月由Lijie之母确认更正））&mdash; 周丽婕的外祖母。她曾在教会学校读书，识字、未缠足，是那个年代里少见的有文化、思想开放的女性。1921年9月11日生于青岛，比未来丈夫[李仲初](/family/zhongchu-li/)早三天出生于同一城市。育有三子女，包括[周丽婕的母亲李恂](/family/xun-li/)（1956年生）。1982年丈夫辞世后，**独自寡居三十年**，亲眼见证外孙女周丽婕从婴儿长大成人。**2013年1月10日辞世，享年91岁。**
 
 她是周丽婕这一脉中唯一活着见到外孙女长大成人的祖辈。2013年1月辞世，距离Lijie与Chuck于2015年结婚尚差两年 &mdash; **她未及与Chuck谋面**。
 
-### 女儿回忆（2026年）
+### 我的妈妈 &mdash; 女儿手记（2026年7月）
 
-2026年7月，女儿[李恂](/family/xun-li/)（周丽婕之母）写下对父母的回忆，其中忆及母亲的一段节录于下（全文见[其页面](/family/xun-li/)）：
+2026年7月，女儿[李恂](/family/xun-li/)（周丽婕之母）写下对母亲的回忆。因全文以追忆她为主，此处照录全篇（[其本人页面](/family/xun-li/)亦载此文）：
 
-> 我的母亲热情好客，凡是来的客人，都以好菜好饭招待。所以家里总是亲戚朋友往来不断，我就是在这样温暖的环境中长大成人。
+> 我的妈妈漂亮慈祥，特别爱干净。她是那个年代里有文化、思想开放的女性——因为像她那个年龄的女性、家庭妇女，不识字、缠足的多，而她是在教会学校得以学习的。
+>
+> "雁过留声，人过留名。"这是老妈妈经常说的话，也是她自律一生的要求。她不仅要求自己，也要求我们说话做事，不能只顾自己，也要为别人着想；宁亏自己，不占别人便宜。从她身上我看到信仰的力量——"爱人如己"，经书上所说的。
+>
+> 为了帮助别人，她白天上班，晚上熬夜给人做衣服；家里孩子多、有老人病人的，她送吃的、送用的，自己省吃俭用。总之，在我眼里，妈妈是一个独立、坚强、有爱心的人。在爸爸过早去世后，她独自撑起了这个家，带着我们兄妹几个，一个个成家立业。她为我们后人的人生之路，点亮了一盏灯。
+>
+> *&mdash; 2026年7月*
 
 ### 耀字辈
 
@@ -43,16 +49,22 @@ summary: "Lijie's maternal grandmother. Born 11 September 1921 in Qingdao — th
 
 ## English
 
-Shang Yaozhen was born in Qingdao on **11 September 1921**, three days before her future husband [Zhongchu Li](/family/zhongchu-li/). They had three children, including [Lijie's mother Xun Li](/family/xun-li/) (b. 1956). Her husband died in 1982; she lived another **thirty years** as a widow, and watched her granddaughter Lijie grow from infancy through young adulthood. She died **10 January 2013**, age 91.
+Shang Yaozhen was born in Qingdao on **11 September 1921**, three days before her future husband [Zhongchu Li](/family/zhongchu-li/). They had three children, including [Lijie's mother Xun Li](/family/xun-li/) (b. 1956). Unusually for a woman of her generation, she had studied at a **mission school** &mdash; literate and without bound feet, an educated and open-minded woman at a time when most homemakers her age were neither. Her husband died in 1982; she lived another **thirty years** as a widow, and watched her granddaughter Lijie grow from infancy through young adulthood. She died **10 January 2013**, age 91.
 
 She is the one grandparent on Lijie's side who lived to see her granddaughter into adulthood. She died in January 2013, two years before Lijie married Chuck in 2015; **Chuck never met her**.
 
 The earliest photograph of her in this archive is the c. 1986–87 family-table portrait of [her with Lijie as a small child, alongside Lijie's paternal grandmother Yunzhe Sun](/archive/lijie-with-two-grandmothers-c1986/) &mdash; the kind of three-generation New Year photograph that Chinese families take and keep.
 
-## As remembered by her daughter (2026)
+## My Mother &mdash; her daughter's note (July 2026)
 
-In July 2026, her daughter [Li Xun](/family/xun-li/) &mdash; Lijie's mother &mdash; wrote down her memories of her parents. This excerpt about her mother is drawn from that note (the full text is on [her page](/family/xun-li/)):
+In July 2026, her daughter [Li Xun](/family/xun-li/) &mdash; Lijie's mother &mdash; wrote a remembrance of her mother. Because it is above all about her, it is reproduced here in full, in her own words (it also appears on [her own page](/family/xun-li/)):
 
-> My mother was warm and hospitable; whoever came was received with good food and a good table. Our home was always full of relatives and friends coming and going, and it was in this warm environment that I grew up.
+> My mother was beautiful and kind, and especially fond of cleanliness. She was an educated, open-minded woman for her time &mdash; for among women of her age, homemakers who were illiterate or had bound feet were common, whereas she had been able to study at a mission school.
+>
+> "When a wild goose passes it leaves its cry; when a person passes they leave their name." This was a saying my mother often repeated, and the standard of self-discipline she held to all her life. She asked it not only of herself but of us, in how we spoke and acted: never to think only of oneself, but to consider others too &mdash; sooner to shortchange herself than to take advantage of anyone. In her I saw the power of faith &mdash; "love your neighbor as yourself," as the scripture says.
+>
+> To help others, she worked by day and sat up late into the night sewing clothes for people; wherever a family had many children, or an elder or someone sick, she would bring food and the things they needed, while living frugally herself. In short, in my eyes my mother was an independent, strong, and loving person. After my father died too early, she held up the household on her own, raising the several of us &mdash; brothers and sister &mdash; until each of us married and made a life. For the road of life of those of us who came after her, she lit a lamp.
+>
+> *&mdash; July 2026*
 
 > *Structured record: [FamilySearch &mdash; Yaozhen Shang (GMGD-CVV)](https://www.familysearch.org/tree/person/details/GMGD-CVV).*
