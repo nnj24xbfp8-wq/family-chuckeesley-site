@@ -8,6 +8,8 @@ death:
   date: "1837"
   place: "Banbury, Oxfordshire, England"
 generation: 1
+parents:
+  - william-eesley-1731
 spouses:
   - frances-eesley
 summary: "Earliest documented Eesley patriarch in the line that reaches Chuck. Born and christened 6 December 1764 in Banbury, Oxfordshire; died in Banbury in 1837. Married Frances Fanny Ayris at Bloxham on 16 April 1787. Father of John Eesley (1799–1870), the Stratford miller."
@@ -19,7 +21,7 @@ Joseph and Frances had at least four children: William (bp. 19 August 1787, only
 
 ## His baptism and parents — St Mary's, Banbury, 1764
 
-The **Banbury St Mary's baptism register** pushes the line back one further generation. Joseph's entry, in December 1764, reads: *"Joseph, Son of William Eesley, Lab[ourer], & Mary his Wife, bap[tized] 6th [day]."* So Joseph's parents were **William Eesley**, a laborer, and **Mary** — the earliest Eesleys yet named in this archive, of Banbury in the 1760s.
+The **Banbury St Mary's baptism register** pushes the line back further. Joseph's entry, in December 1764, reads: *"Joseph, Son of William Eesley, Lab[ourer], & Mary his Wife, bap[tized] 6th [day]."* His parents were **[William Eesley](/family/william-eesley-1731/)** (1731–1777), a Banbury laborer, and **Mary Simkins**, who had married at this same St Mary's on 12 December 1758. William was himself baptized at St Mary's Banbury in 1731, the son of **Thomas Eesley (1700–1750)** — carrying the documented Eesley line back to the turn of the eighteenth century, all of it rooted at Banbury.
 
 ![St Mary's Church, Banbury, Oxfordshire — a Georgian church with a distinctive cylindrical rotunda tower, at the end of a yew-lined path; a member of the family stands in front on an Eesley research trip.](../../assets/family/originals/st-marys-banbury-joseph-eesley.jpeg)
 
