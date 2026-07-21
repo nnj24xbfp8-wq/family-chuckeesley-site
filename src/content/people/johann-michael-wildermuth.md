@@ -51,7 +51,7 @@ He married **[Catharina Boeshar](/family/catharina-boeshar-wildermuth/)** of **B
 They raised **three documented sons** in Marietta:
 
 - **[John Charles Wildermuth](/family/john-charles-wildermuth/)** (b. September 1865) — the eldest. The "John Wildermuth" Robert Earl's 1990 Heritage referred to as his grandfather — though Dale's tree settles that as a memory error; John Charles was Robert Earl's **great-uncle**, brother of his actual grandfather William Clifford.
-- **[William Clifford Wildermuth](/family/william-wildermuth/)** (b. 17 September 1866) — **the middle son. Robert Earl Wildermuth's actual paternal grandfather** through Earl Adam, settled in Dale's tree (June 2026). The patriarch of the [c. 1896 family group portrait](/archive/william-wildermuth-family-group-portrait/) and the c. 1915–1918 four-person studio portrait.
+- **[William Clifford Wildermuth](/family/william-wildermuth/)** (b. 17 September 1866) — **the middle son. Robert Earl Wildermuth's actual paternal grandfather** through Earl Adam, settled in Dale's tree (June 2026). The patriarch of the [c. 1896 family group portrait](/archive/william-wildermuth-family-group-portrait/).
 - **Edward Frederick Wildermuth** (b. 17 February 1873) — the youngest, who lived to **91**, dying at Marietta in 1964.
 
 ## The death and the burial

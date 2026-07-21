@@ -14,7 +14,7 @@ parents:
   - eva-schmidt-schlicher
 spouses:
   - william-wildermuth
-summary: "Marietta-Ohio woman of the German-immigrant Schlicher family, married to William Clifford Wildermuth (1866–1943) on 29 December 1886; mother of nine children including Earl Adam (b. 1899), who fathered Robert Earl Wildermuth. ROBERT EARL'S PATERNAL GRANDMOTHER. Born 24 August 1870 in Marietta and died there 18 November 1919, age 49 — early death by today's standards. Photographed in the c. 1896 family group portrait and the c. 1915–1918 four-person studio family portrait (the last surviving image of her before her 1919 death). Her father, Theobald 'David' Schlicher, was the Schlicher patriarch whose German hometown her grandson Robert Earl Wildermuth was still trying to find in his 1989 memoir."
+summary: "Marietta-Ohio woman of the German-immigrant Schlicher family, married to William Clifford Wildermuth (1866–1943) on 29 December 1886; mother of nine children including Earl Adam (b. 1899), who fathered Robert Earl Wildermuth. ROBERT EARL'S PATERNAL GRANDMOTHER. Born 24 August 1870 in Marietta and died there 18 November 1919, age 49 — early death by today's standards. Photographed in the c. 1896 family group portrait. Her father, Theobald 'David' Schlicher, was the Schlicher patriarch whose German hometown her grandson Robert Earl Wildermuth was still trying to find in his 1989 memoir."
 ---
 
 Flora Schlicher was born **24 August 1870 in Marietta, Washington County, Ohio**, to the local **Schlicher family** of Marietta — a German-immigrant family of the same generation as the [Johann Michael Wildermuth](/family/johann-michael-wildermuth/) line her future husband descended from. Her father was **Theobald "David" Schlicher**, the Schlicher patriarch.

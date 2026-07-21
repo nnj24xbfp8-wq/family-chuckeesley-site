@@ -1,32 +1,20 @@
 ---
-title: "William Wildermuth family portrait, early 1900s"
+title: "Wildermuth Four-Person Studio Portrait (duplicate scan) — Edward Frederick Wildermuth's family with Catharina Boeshar"
 type: "Photograph"
 image: ../../assets/family/originals/00000000_00000035_00000036.jpeg
 medium: "Formal black-and-white studio portrait"
-dateCreated: "early 1900s (presumed c. 1910–1920 based on dress and apparent ages)"
-placeCreated: "Marietta, Ohio (presumed — the Wildermuth family's American center)"
+dateCreated: "circa 1910s"
+placeCreated: "Marietta, Washington County, Ohio (presumed)"
 idNumber: "WILLIAM-WILDERMUTH-FAMILY"
-provenance: "Eesley/Wildermuth family archive."
+provenance: "Eesley/Wildermuth family archive; identifications from Chuck Eesley's face-tagging, July 2026."
 rights: "Family use; permission required for republication."
 people:
-  - william-wildermuth
+  - edward-frederick-wildermuth
+  - catharina-boeshar-wildermuth
 ---
 
-**Formal four-person Wildermuth family portrait, early 1900s.** Identified by Chuck Eesley in 2026 as **William Wildermuth and family** — a Wildermuth-side ancestor whose exact relationship to Robert Earl Wildermuth's documented line is still open (see [William's stub page](/family/william-wildermuth/) for the candidate readings).
+**This is the same photograph as the [four-person Wildermuth studio portrait](/archive/william-wildermuth-four-person-family-portrait/)** — a duplicate scan of one print. Per Chuck's July 2026 face-tagging, the four people are **[Edward Frederick Wildermuth](/family/edward-frederick-wildermuth/)** (standing, a son of [Johann Michael Wildermuth](/family/johann-michael-wildermuth/) and brother of [William Clifford](/family/william-wildermuth/)), his wife **Jane Hayes Wildermuth** (standing), their young son **William Wildermuth** (on a tricycle), and the family matriarch **[Catharina Boeshar](/family/catharina-boeshar-wildermuth/)** (seated).
 
-The composition:
+An earlier version of this entry read the seated figure as William Clifford Wildermuth and the group as his household; that has been corrected — see the [four-person portrait entry](/archive/william-wildermuth-four-person-family-portrait/) for the full note. *These two archive entries describe one and the same photograph and should be consolidated into one.*
 
-- **Seated, centre**: William Wildermuth himself — middle-aged, moustached, dark suit with a lapel pin, hands resting calmly on the chair arms. The patriarch's pose.
-- **Standing left**: his wife — dark high-collared dress, hair in a chignon, a small white collar at the throat. Likely in her thirties or early forties.
-- **Standing centre-back**: an adolescent son in dark suit and tie, brushed-back hair, the older of the two boys. Possibly in his early teens.
-- **Standing right**: the younger son, smaller, also in dark suit and tie, hand on the chair back, perhaps eight to ten years old.
-
-The portrait is in the **standard early-20th-century American formal-studio format**: dark suits, structured wife's dress, the seated patriarch as anchor, the family arranged in a classical triangle around him. The age and dress place it most likely between **1910 and 1920** — the same era as the [1899 Albert Robert Eesley family group portrait](/archive/eesley-family-group-portrait-1899/) one generation earlier on the Eesley side.
-
-## Why this matters
-
-The portrait is the **first documented photograph of the William Wildermuth branch in this archive.** Whatever the precise relationship — Robert Earl's great-uncle (Johann Michael's other son) or Robert Earl's uncle (John's other son) — William represents a lateral Wildermuth line that didn't run directly to Chuck but ran parallel to the one that did. The two sons in this frame would be Chuck's first or second cousins three or four times removed depending on the resolution.
-
-When William's relationship is confirmed (against the Marietta city records, Wildermuth cemetery markers, or Robert Earl's 1971 letter to his father Earl Adam asking for the full sibling-and-cousin list), this photograph anchors that branch visually.
-
-> *Family identification by Chuck Eesley, 2026.*
+> *Identification: Chuck Eesley, July 2026 (face-tagged print).*

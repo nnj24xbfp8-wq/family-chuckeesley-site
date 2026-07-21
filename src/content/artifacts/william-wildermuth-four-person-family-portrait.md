@@ -1,43 +1,28 @@
 ---
-title: "William Clifford Wildermuth Family — Four-Person Studio Portrait, c. 1910–1918"
+title: "Wildermuth Four-Person Studio Portrait — Edward Frederick Wildermuth's family with Catharina Boeshar, c. 1910s"
 type: "Photograph"
 image: ../../assets/family/originals/00000000_00000035_00000036 (1).jpeg
 medium: "Black-and-white formal studio cabinet photograph"
-dateCreated: "circa 1910–1918"
-sortDate: "1915-01-01"
-placeCreated: "Marietta, Washington County, Ohio (presumed — commercial studio)"
-idNumber: "WILDERMUTH-WC-FOURPERSON-PORTRAIT"
-provenance: "Wildermuth family archive — transmitted by Chuck Eesley 2026."
+dateCreated: "circa 1910s"
+sortDate: "1913-01-01"
+placeCreated: "Marietta, Washington County, Ohio (presumed)"
+idNumber: "WILDERMUTH-FOURPERSON-PORTRAIT"
+provenance: "Wildermuth family archive — transmitted by Chuck Eesley 2026; identifications from Chuck's face-tagging, July 2026."
 rights: "Family use; permission required for republication."
 people:
-  - william-wildermuth
-  - flora-schlicher-wildermuth
-  - earl-a-wildermuth
+  - edward-frederick-wildermuth
+  - catharina-boeshar-wildermuth
 ---
 
-**Formal four-person studio portrait of the William Clifford Wildermuth household**, c. 1910–1918. Identified by Chuck Eesley 2026 as William Clifford with his first wife Flora Schlicher and two of their sons — almost certainly **William Wildermuth (b. 3 April 1896)** and **Earl Adam Wildermuth (b. 6 October 1899)** — at roughly the ages where a 1910–1918 studio sitting would place them.
+**Four-person Wildermuth studio portrait, c. 1910s.** Per Chuck's July 2026 face-tagging of the print, the four people are:
 
-## What the photograph shows
+- **Standing, left** — **[Edward Frederick Wildermuth](/family/edward-frederick-wildermuth/)** (b. 17 February 1873, d. 7 July 1964), a son of the immigrant [Johann Michael Wildermuth](/family/johann-michael-wildermuth/) and [Catharina Boeshar](/family/catharina-boeshar-wildermuth/), and a younger brother of [William Clifford Wildermuth](/family/william-wildermuth/). In a dark suit and tie.
+- **Standing, right** — **Jane Hayes Wildermuth**, Edward Frederick's wife, in a white blouse.
+- **Seated, right** — **[Catharina Boeshar](/family/catharina-boeshar-wildermuth/)**, the family matriarch — Johann Michael Wildermuth's wife and Edward Frederick's mother — in a long dark dress. This is the archive's one identified likeness of her.
+- **Front, left, on a tricycle** — a young boy, **William Wildermuth**, Edward Frederick and Jane's son (not to be confused with his uncle [William Clifford Wildermuth](/family/william-wildermuth/) or his cousin William, William Clifford's son).
 
-A formal posed studio photograph against a plain backdrop. Four figures:
+## A correction (July 2026)
 
-- **Seated front center**: **[William Clifford Wildermuth](/family/william-wildermuth/)** (b. 17 September 1866, d. 10 September 1943) — bearded with a substantial mustache, in a three-piece dark suit with watch chain visible on his vest, looking directly at the camera. In his mid-40s to early 50s in this photograph.
-- **Standing left**: **[Flora Schlicher Wildermuth](/family/flora-schlicher-wildermuth/)** (b. 24 August 1870, d. 18 November 1919) — in a long dark dress with a white blouse front, hair pulled back, looking serious. In her early-to-mid 40s in this photograph. **This is one of the last surviving photographs of her before her 1919 death at age 49.**
-- **Standing back center**: most plausibly **William Wildermuth** (b. 3 April 1896) — William Clifford and Flora's son, named for his father. A young man with combed-back hair, dark suit and bow tie. If the photo dates to about 1915, he would be 19; about 1918, 22.
-- **Standing right**: most plausibly **[Earl Adam Wildermuth](/family/earl-a-wildermuth/)** (b. 6 October 1899) — William Clifford and Flora's son who became Chuck's great-grandfather, Robert Earl's father. A younger boy with combed-back hair, dark suit, bow tie. If the photo dates to about 1915, he would be 16; about 1918, 19.
+An earlier version of this entry identified the photograph as **William Clifford Wildermuth's household — William Clifford with his wife Flora Schlicher and their sons William and Earl Adam** — and treated it as the archive's first image of Chuck's great-grandfather Earl Adam as a young man. **Chuck's face-tagging corrects that: the photograph is Edward Frederick Wildermuth's family with the matriarch Catharina Boeshar.** Earl Adam Wildermuth and Flora Schlicher are **not** in this picture. The two households are close kin — Edward Frederick and William Clifford were brothers, both sons of Johann Michael and Catharina — which is the likely source of the earlier mistaken reading.
 
-## Why this is a significant find
-
-This photograph is **Robert Earl Wildermuth's father, Earl Adam, as a young man** — first time visible in this archive. Earl Adam would marry **Sadye Irene Fleming on 31 December 1920** and become the patriarch of the Marietta-Ohio Wildermuth line that runs to Robert Earl, Terrie, and Chuck. The portrait captures him in **the years just before that marriage** — a sixteen-to-nineteen-year-old in his father's household, photographed with the parents whose home at the dream house on Harmar Street would still be his Marietta-childhood address when Robert Earl arrived in 1924.
-
-It is also **one of the last photographs of Flora Schlicher Wildermuth before her 1919 death** — the grandmother Robert Earl never met (he was born five years after her death).
-
-## Dating reasoning
-
-The composition and clothing style suggest **c. 1910–1918**. The two sons' ages constrain the dating further:
-- If William (the older son, b. 1896) is ~17–22 and Earl Adam (the younger, b. 1899) is ~14–19, the photo dates to ~1913–1918.
-- The most plausible single year given typical young-adult family-portrait conventions would be **about 1915**, when William would be 19, Earl Adam 16, and Flora about 45 (with four years still ahead of her before her 1919 death).
-
-Other children of William Clifford and Flora — **Mae Clara** (b. 1886), **Charles Daniel** (b. 1889), **Margaret Zelma** (b. 1891), **Emma** (b. 1893), **Pearl** (b. 1899), **George D** (b. 1902), and **Blanche** — are not visible in this four-person framing. Most of the older siblings were likely living independently by this date (Mae Clara was 29; Charles Daniel 26 and presumably in his Kansas trajectory; Margaret 24, Emma 22) and the younger ones (Pearl, George D, Blanche) may have been deliberately omitted from this composition, which appears framed as **parents-with-two-of-their-sons**.
-
-> *Identification: Chuck Eesley, 2026. The portrait is the second piece of William Clifford photography in this archive, paired with the [c. 1896 William Clifford Wildermuth family group portrait](/archive/william-wildermuth-family-group-portrait/) that shows the same household twenty years earlier.*
+> *Identification: Chuck Eesley, July 2026 (face-tagged print). Its companion is the [c. 1896 William Clifford Wildermuth family group portrait](/archive/william-wildermuth-family-group-portrait/), a different photograph showing William Clifford's own household.*
