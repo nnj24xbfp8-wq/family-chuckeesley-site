@@ -1,5 +1,6 @@
 ---
 name: "Shang Yaoxiang 尚耀香"
+portrait: ../../assets/family/originals/shang-yaoxiang-portrait.jpeg
 aka: "Yaoxiang Shang"
 line: zhou
 generation: 5
@@ -9,7 +10,7 @@ birth:
 parents:
   - dechen-shang
   - chune-tan
-summary: "Lijie's maternal great-uncle. Born 30 June 1911 in Pingdu Shi (the inland county-city north of Qingdao) — sister of Yaozhen Shang (Lijie's grandmother) and ten years her senior."
+summary: "Lijie's maternal great-uncle. Born 30 June 1911 in Pingdu Shi (the inland county-city north of Qingdao) — elder brother of Yaozhen Shang (Lijie's grandmother) and ten years her senior. A formal studio portrait of him (working identification, per the printed name) is his page image."
 ---
 
 <p class="not-prose my-4 p-3 border-l-4 border-rule bg-ink/5 text-sm"><strong>📖 English version below — <a href="#en">Jump to English ↓</a></strong> &nbsp;·&nbsp; <em>本页中文在上，英文见下方。</em></p>
