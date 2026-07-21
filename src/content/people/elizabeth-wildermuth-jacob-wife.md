@@ -1,5 +1,6 @@
 ---
 name: "Elizabeth Wildermuth (wife of Jacob)"
+portrait: ../../assets/family/originals/elizabeth-wildermuth-couple-crop.jpeg
 aka: "Elizabeth Wildermuth, matron of the c. 1885–1895 ten-person family group portrait"
 line: other
 generation: 3

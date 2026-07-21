@@ -1,7 +1,14 @@
 ---
 name: "Jacob Wildermuth"
+portrait: ../../assets/family/originals/jacob-wildermuth-couple-crop.jpeg
 aka: "Jacob Wildermuth, patriarch of the c. 1885–1895 ten-person family group portrait"
 line: other
+birth:
+  date: "1840"
+  place: "Carroll, Fairfield County, Ohio"
+death:
+  date: "1911-10-25"
+  place: "Columbus, Franklin County, Ohio"
 generation: 3
 spouses:
   - elizabeth-wildermuth-jacob-wife
@@ -20,6 +27,18 @@ Three readings are plausible:
 2. **A more distant cousin branch** — possibly descending from a Württemberg Wildermuth from a different village (Großaspach was Johann Michael's; Rielingshausen produced many earlier-documented Wildermuths) and emigrating separately. The common ancestor would lie deep enough that Dale's research hasn't yet bridged the two trees.
 
 3. **A photo Robert Earl collected during his 1971–1989 genealogy research** — exchanged with a fellow Wildermuth-surname genealogist, retained without a documented family-tree connection, and now part of the Wildermuth archive image set without being part of the Wildermuth direct lineage.
+
+## The 1911 obituary — Jacob C. Wildermuth of Columbus
+
+A Columbus newspaper obituary dated **25 October 1911** identifies him and closes several of the open questions above. **Jacob C. Wildermuth**, aged **71** (so born about **1840**), of 269 East Eleventh Avenue, died of pneumonia after an eight-day illness. He was **superintendent of the Wildermuth Bending Co.** at Eighth and Fields avenues — a Columbus wood-bending manufacturer — and "active in business until two weeks ago." He was **born in Carroll, Ohio** (Fairfield County, southeast of Columbus) and had lived in Columbus for twelve years (so from about 1899).
+
+He was survived by his wife and **seven children**: **J. L.** (John "Leb"), **H. J.** (Harry J.), **C. E.** (Charles E.), and **T. B.** (Troy B.) Wildermuth, all of Columbus; **Mrs. H. K. Lybrand** and **Mrs. F. S. Haggart**, both of Pasadena, California; and **Mrs. A. W. Bercaw** of Prescott, Arkansas. (The three married daughters correspond to three of the four daughters named in the family portrait; Jesse W. and one daughter had evidently predeceased him.)
+
+![Oval studio portrait of Jacob and Elizabeth Wildermuth in later life, c. 1905–1911 — Elizabeth at left in a dark dress and lace collar, Jacob at right with wire-rimmed glasses and a white mustache.](../../assets/family/originals/jacob-elizabeth-wildermuth-c1908.jpeg)
+
+*Jacob and [Elizabeth](/family/elizabeth-wildermuth-jacob-wife/) Wildermuth in later life, c. 1905–1911 — near the end of Jacob's life (he died in 1911). The source of both of their page portraits.*
+
+**What the obituary settles:** Jacob was **American-born (Carroll, Ohio, c. 1840)**, not a German immigrant himself, and made his life as a **Columbus manufacturer** — a Fairfield-County/Franklin-County Ohio Wildermuth family, distinct from Robert Earl's Marietta (Washington County) line 100 miles southeast. It confirms the earlier estimate that Jacob was a **contemporary of [Johann Michael Wildermuth](/family/johann-michael-wildermuth/)** (b. 1830), not a descendant. Whether the two Ohio Wildermuth families share a common Württemberg ancestor remains open, but they are clearly **separate American branches**.
 
 ## The c. 1885–1895 family group portrait
 
