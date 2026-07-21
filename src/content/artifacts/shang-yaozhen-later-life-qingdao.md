@@ -25,6 +25,10 @@ A set of later-life photographs of **[Shang Yaozhen](/family/yaozhen-shang/)** (
 
 *Her formal portrait — the image her family used for her FamilySearch profile.*
 
+![A warm close-up of Shang Yaozhen, smiling, in later life.](../../assets/family/originals/shang-yaozhen-closeup-smiling.jpeg)
+
+*A warm close-up, smiling, in her later years.*
+
 ![Shang Yaozhen at home in Qingdao, seated in a floral-papered sitting room.](../../assets/family/originals/shang-yaozhen-at-home-qingdao.jpeg)
 
 *At home in Qingdao, later years.*

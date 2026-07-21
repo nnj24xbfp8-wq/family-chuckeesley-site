@@ -1,5 +1,6 @@
 ---
 name: "Zhou Ai Hua 周愛華"
+portrait: ../../assets/family/originals/ai-hua-zhou-portrait-from-visit.jpeg
 aka: "Ai Hua Zhou"
 line: zhou
 generation: 6
