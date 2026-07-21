@@ -50,7 +50,7 @@ Robert Earl Wildermuth was born 6 October 1924 &mdash; *two years* after Verona'
 
 ## The lament &mdash; the only memoir trace of Verona
 
-Robert Earl's [1989 memoir](/docs/robert-earl-wildermuth-memoir/) carries one substantive passage on Verona, and it is an absence-passage rather than a story about her life. In the middle of an extended sketch of his paternal great-grandmother [Catherina Boeshar](/family/catherina-boeshar/) Wildermuth (who lived to 1933 and was the only "grandmother" figure Robert Earl ever knew), he stops to record what his father Earl Adam used to lament across the rest of his life:
+Robert Earl's [1989 memoir](/docs/robert-earl-wildermuth-memoir/) carries one substantive passage on Verona, and it is an absence-passage rather than a story about her life. In the middle of an extended sketch of his paternal great-grandmother [Catharina Boeshar Wildermuth](/family/catharina-boeshar-wildermuth/) (who lived to 1933 and was the only "grandmother" figure Robert Earl ever knew), he stops to record what his father Earl Adam used to lament across the rest of his life:
 
 > *I recall throughout my young adult hood that my father used to lament the fact that neither my mother's mother nor his mother lived until my sister and I were old enough to remember them. He was saddened by the fact that we never had any grandmothers to get to know and love &mdash; yet here was this lovely old lady who was our great-grandmother, an original from Germany, and my dad never really emphasized that she belonged to us. She was or could have been our grandmother and great-grandmother all in one.*
 

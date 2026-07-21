@@ -21,6 +21,8 @@ export default defineConfig({
     '/family/charles-boyt/': '/family/charles-bojt/',
     // Merged duplicate stub (portrait) into the canonical Scioto "Ota" Chenoweth Smith page — GEDCOM confirms one person.
     '/family/ota-chenoweth-smith/': '/family/scioto-mafry-chenoweth/',
+    // Merged thin duplicate stub into the canonical Catharina (Boeshar) Wildermuth page (1840–1933; same person).
+    '/family/catherina-boeshar/': '/family/catharina-boeshar-wildermuth/',
     // Merged misdated duplicate of the 29 Mar 1971 R&R-booking letter (had been filed as "1970-03-29"; same letter, scan dad9).
     '/docs/letters/charlie-to-terrie-1970-03-29-ticket-cash/': '/docs/letters/charlie-to-terrie-1971-03-29-second-rr-booking/',
   },
