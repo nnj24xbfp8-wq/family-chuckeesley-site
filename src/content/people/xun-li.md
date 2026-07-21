@@ -36,6 +36,18 @@ summary: "Lijie's mother. Daughter of Zhongchu Li (1921–1982) and Yaozhen Shan
 >
 > *&mdash; 2026年7月*
 
+## 我的妈妈（2026年7月）
+
+2026年7月，李恂又写下对母亲[尚耀真](/family/yaozhen-shang/)的回忆，照录如下（[其母页面](/family/yaozhen-shang/)亦载此文）：
+
+> 我的妈妈漂亮慈祥，特别爱干净。她是那个年代里有文化、思想开放的女性——因为像她那个年龄的女性、家庭妇女，不识字、缠足的多，而她是在教会学校得以学习的。
+>
+> "雁过留声，人过留名。"这是老妈妈经常说的话，也是她自律一生的要求。她不仅要求自己，也要求我们说话做事，不能只顾自己，也要为别人着想；宁亏自己，不占别人便宜。从她身上我看到信仰的力量——"爱人如己"，经书上所说的。
+>
+> 为了帮助别人，她白天上班，晚上熬夜给人做衣服；家里孩子多、有老人病人的，她送吃的、送用的，自己省吃俭用。总之，在我眼里，妈妈是一个独立、坚强、有爱心的人。在爸爸过早去世后，她独自撑起了这个家，带着我们兄妹几个，一个个成家立业。她为我们后人的人生之路，点亮了一盏灯。
+>
+> *&mdash; 2026年7月*
+
 > *详细生平从略 &mdash; 在世。姓名汉字已由家族确认：李恂。*
 
 <hr class="my-8 border-rule" />
@@ -55,6 +67,18 @@ In July 2026, Li Xun set down her memories of her own parents &mdash; her father
 > From early on, Father taught us to conduct ourselves with integrity, to treat others with courtesy, to keep learning, and that only with a skill of one's own can a person make a living in this world. Later he fell ill and was left with hemiplegia, but through sheer strength of will he worked at his rehabilitation. When his right hand could no longer write, he taught himself to write with his left, and every day he followed the radio to study Japanese. These things left a deep impression on me.
 >
 > Later he fell ill again, and this time it was serious &mdash; a cancer of the stomach, at the cardia, the top entrance to the stomach. Under my father's influence, I resolved to study hard and become a person of learning as he was. But our generation came of age at the wrong time: with the Cultural Revolution, I never had the chance at a proper four-year college education. In later years I completed my studies through continuing education while working. So after I had a child of my own, I quietly resolved to give my child the best education possible, to make up for what I had lacked and to fulfill the hopes of the generation before me. Today, that my child gives back to society is my greatest comfort &mdash; she devotes her learning to [charity work for society](https://zhoueesleyfoundation.com).
+>
+> *&mdash; July 2026*
+
+## My Mother (July 2026)
+
+In July 2026, Li Xun also wrote a remembrance of her mother [Yaozhen Shang](/family/yaozhen-shang/), reproduced here in full (it also appears on [her mother's page](/family/yaozhen-shang/)):
+
+> My mother was beautiful and kind, and especially fond of cleanliness. She was an educated, open-minded woman for her time &mdash; for among women of her age, homemakers who were illiterate or had bound feet were common, whereas she had been able to study at a mission school.
+>
+> "When a wild goose passes it leaves its cry; when a person passes they leave their name." This was a saying my mother often repeated, and the standard of self-discipline she held to all her life. She asked it not only of herself but of us, in how we spoke and acted: never to think only of oneself, but to consider others too &mdash; sooner to shortchange herself than to take advantage of anyone. In her I saw the power of faith &mdash; "love your neighbor as yourself," as the scripture says.
+>
+> To help others, she worked by day and sat up late into the night sewing clothes for people; wherever a family had many children, or an elder or someone sick, she would bring food and the things they needed, while living frugally herself. In short, in my eyes my mother was an independent, strong, and loving person. After my father died too early, she held up the household on her own, raising the several of us &mdash; brothers and sister &mdash; until each of us married and made a life. For the road of life of those of us who came after her, she lit a lamp.
 >
 > *&mdash; July 2026*
 

@@ -9,14 +9,17 @@ death:
   date: "1943-09-10"
   place: "Marietta, Washington County, Ohio"
 generation: 3
+parents:
+  - johann-michael-wildermuth
+  - catharina-boeshar-wildermuth
 spouses:
   - flora-schlicher-wildermuth
   - sarah-ruf-wildermuth
-portrait: ../../assets/family/originals/00000002_00000008_00000009.jpeg
-summary: "Marietta-Ohio Wildermuth, born 17 September 1866 and died there 77 years later on 10 September 1943, buried 12 September 1943. Married Flora Schlicher (1870–1919) on 29 December 1886; nine children including Earl Adam (1899) who married Sadye Fleming and fathered Robert Earl. Robert Earl Wildermuth's PATERNAL GRANDFATHER. Patriarch of the c. 1896 multi-generation family group portrait and the c. 1915–1918 four-person studio family portrait. Chuck's great-great-grandfather on the maternal side."
+portrait: "../../assets/family/originals/00000000_00000035_00000036 (1).jpeg"
+summary: "Marietta-Ohio Wildermuth, born 17 September 1866 and died there 77 years later on 10 September 1943, buried 12 September 1943. Married Flora Schlicher (1870–1919) on 29 December 1886; nine children including Earl Adam (1899) who married Sadye Fleming and fathered Robert Earl. Robert Earl Wildermuth's PATERNAL GRANDFATHER. Patriarch of the c. 1896 multi-generation family group portrait and the seated father in the c. 1915 family studio portrait with Flora and two of their sons. Chuck's great-great-grandfather on the maternal side."
 ---
 
-William Clifford Wildermuth was born **17 September 1866 in Marietta, Washington County, Ohio** — the same river-town his great-grandfather [Johann Michael Wildermuth](/family/johann-michael-wildermuth/) had reached as an immigrant shoemaker from Grossaspach, Württemberg, in 1847 — and he stayed there for all seventy-seven years of his life, dying in Marietta on **10 September 1943** and being buried two days later. The Marietta-Ohio Wildermuths he represents are the cluster that produced [Earl Adam](/family/earl-a-wildermuth/) and [Robert Earl Wildermuth](/family/robert-earl-wildermuth/) in the next two generations — Robert Earl's [memoir](/docs/robert-earl-wildermuth-memoir/) opens with a Marietta birth at 123 Franklin Street and the Marietta dream house at 413 Harmar Street, the same town William Clifford lived his whole life in.
+William Clifford Wildermuth was born **17 September 1866 in Marietta, Washington County, Ohio** — the same river-town his father [Johann Michael Wildermuth](/family/johann-michael-wildermuth/) had reached as an immigrant shoemaker from Grossaspach, Württemberg, in 1847 — and he stayed there for all seventy-seven years of his life, dying in Marietta on **10 September 1943** and being buried two days later. The Marietta-Ohio Wildermuths he represents are the cluster that produced [Earl Adam](/family/earl-a-wildermuth/) and [Robert Earl Wildermuth](/family/robert-earl-wildermuth/) in the next two generations — Robert Earl's [memoir](/docs/robert-earl-wildermuth-memoir/) opens with a Marietta birth at 123 Franklin Street and the Marietta dream house at 413 Harmar Street, the same town William Clifford lived his whole life in.
 
 ## The marriage to Flora Schlicher
 
@@ -26,11 +29,15 @@ He married **[Flora Schlicher](/family/flora-schlicher-wildermuth/)** (b. 24 Aug
 
 Flora's father in Dale Eesley's tree is **Theobald "David" Schlicher**, the Schlicher patriarch Robert Earl was almost certainly trying to trace back. The marriage of William Clifford and Flora joined two of the earlier German-immigrant Marietta families into the single household visible in the **[c. 1896 family group portrait](/archive/william-wildermuth-family-group-portrait/)** in this archive.
 
+## The c. 1915 family studio portrait
+
+A formal **[studio portrait of William Clifford's family](/archive/william-wildermuth-four-person-family-portrait/)**, c. 1915, survives in the archive — identified by Chuck Eesley's July 2026 face-tagging. **William Clifford is the seated father** at center; **[Flora](/family/flora-schlicher-wildermuth/) stands at the left**; and two of their sons stand behind — the older is **William** (b. 1896), about nineteen, and the younger boy is most likely **[Earl Adam](/family/earl-a-wildermuth/)** (b. 1899), about sixteen, though the two sons' identities are still to be confirmed. Taken before Flora's November 1919 death, it is one of the last images of her.
+
+![William Clifford Wildermuth family studio portrait, c. 1915 — William Clifford seated, Flora Schlicher standing left, and two of their sons standing. Identified by Chuck Eesley, 2026.](../../assets/family/originals/00000000_00000035_00000036 (1).jpeg)
+
 ## Second marriage to Sarah Ruf
 
 When **Flora died on 18 November 1919** at age 49, William Clifford was 53. He remarried — his second wife was **[Sarah Ruf](/family/sarah-ruf-wildermuth/)** of **Williamstown, Wood County, West Virginia** (FamilySearch ID G3C8-MK7), the West Virginia town directly across the Ohio River from Marietta. The marriage date is undocumented in Dale's tree; no children of the second marriage are recorded.
-
-A separate **four-person studio family portrait** of William Clifford with Flora and two of their children is also in the family archive — pending upload to this archive. The portrait predates Flora's 1919 death.
 
 ## Nine children
 
@@ -40,8 +47,8 @@ William Clifford and Flora married **29 December 1886 in Washington County, Ohio
 - **[Charles Daniel Wildermuth](/family/charles-daniel-wildermuth/)** (b. 4 February 1889) — the eldest son, who left Ohio for Kansas and died at Hoisington in 1945.
 - **[Margaret Zelma Wildermuth](/family/margaret-zelma-wildermuth/)** (b. 6 November 1891) — moved to California, died Los Angeles in 1943.
 - **[Emma Wildermuth](/family/emma-wildermuth/)** (b. 3 October 1893) — stayed in Marietta, died there 1958.
-- **William Wildermuth** (b. 3 April 1896) — second son. Visible behind his father in the **[c. 1915–1918 four-person family portrait](/archive/william-wildermuth-four-person-family-portrait/)** at about age 19.
-- **[Earl Adam Wildermuth](/family/earl-a-wildermuth/)** (b. 6 October 1899) — **Chuck's great-grandfather**, the father of Robert Earl Wildermuth. Visible as the younger boy in the four-person portrait at about age 16. Married Sadye Irene Fleming in 1920 and produced the Marietta-Ohio Wildermuth line that runs to Robert Earl, Terrie, and Chuck.
+- **William Wildermuth** (b. 3 April 1896) — second son; most likely the taller young man standing behind his father in the [c. 1915 family studio portrait](/archive/william-wildermuth-four-person-family-portrait/), about nineteen.
+- **[Earl Adam Wildermuth](/family/earl-a-wildermuth/)** (b. 6 October 1899) — **Chuck's great-grandfather**, the father of Robert Earl Wildermuth. Married Sadye Irene Fleming in 1920 and produced the Marietta-Ohio Wildermuth line that runs to Robert Earl, Terrie, and Chuck. He is most likely the younger boy in the [c. 1915 family studio portrait](/archive/william-wildermuth-four-person-family-portrait/), about sixteen — though which two sons appear alongside their parents is still to be confirmed.
 - **Pearl Wildermuth** (b. 5 October 1899) — Earl Adam's near-twin, just one day apart in birth.
 - **George D Wildermuth** (b. 30 October 1902) — youngest son.
 - **Blanche Wildermuth** — date not yet documented; the youngest.
