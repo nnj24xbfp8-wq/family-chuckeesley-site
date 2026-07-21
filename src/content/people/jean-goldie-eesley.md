@@ -1,5 +1,6 @@
 ---
 name: "Jean Goldie Eesley"
+portrait: ../../assets/family/originals/jean-goldie-eesley-toddler-crop.jpeg
 line: paternal
 birth:
   date: "1921-10-28"

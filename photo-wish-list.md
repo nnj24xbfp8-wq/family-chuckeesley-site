@@ -4,7 +4,7 @@ A working list of people who have **no photograph** (or only a weak/placeholder 
 archive, prioritized so a search of the family collection targets the highest-value gaps
 first. Not part of the site build.
 
-_Last refreshed July 2026 (~50 of 296 people pages carry a thumbnail portrait)._
+_Last refreshed July 2026 (~66 of 296 people pages carry a thumbnail portrait)._
 
 ---
 
@@ -29,7 +29,7 @@ crop is safe; the others just need you to confirm which figure is which.
 - **Mary Louise (Davis) Murdock** (1924–2002) — Chuck's great-aunt (Dorothy's sister). Pictured in the three Davis-sisters frames (c. 1929/1930/1931, positions captioned left-to-right) and, as an adult, seated holding baby Jack in the [1947 five-generation portrait](/archive/hill-davis-murdock-five-generation-1947/). *Caveat: all are low-resolution scans — a crop works but a sharper standalone photo would be better if one exists.*
 - ✅ **Edward E. Way** (1851–1924), **Tacy Elizabeth Matthews** (1848–1902), **Nora Angie Way** (1876–1939), **Emma Maude Way** (1883–1917) — **DONE this pass.** All four cropped from the keyed [1901 Belle Way wedding portrait](/archive/belle-way-howard-wickens-wedding-1901/) (positions from the printed ID guide). *Tacy and Emma are medium-confidence identifications — worth a glance to confirm.*
 - *(Victoria Anna Way Davis already has her c. 1902 William/Victoria/Homer portrait — not a gap.)*
-- **Dr. George Henry Eesley of Toronto** (1876), **John Franklin Eesley** (1859), **Jennie (Eesley) Baxter** (1875), **Hannah "Anna" (Eesley) Scoon** (1863) — the paternal-Eesley aunts, uncles, and the Toronto doctors, all present in the [1899 Eesley family group portrait](/archive/eesley-family-group-portrait-1899/). *Needs a who's-who pass on that photo before cropping.*
+- ✅ **The c. 1899 Eesley family group** — **DONE this pass.** Cropped individual portraits for all nine previously-faceless siblings — John Franklin, Anna Scoon, Will (College Corner), Alf, Bert, Bessie, Jennie Baxter, Dr. George (Toronto), and Garfield — from the [1899 Eesley family group portrait](/archive/eesley-family-group-portrait-1899/), using the PowerPoint caption's left-to-right order (confirmed by Roberta).
 - **Thelma (Haughn) Eesley** (1906) — in the Black Lake 1928 frames and the late-1940s Eesley group. Confirm which figure, then crop.
 - **Mae Clara (Wildermuth) Seyler** (1886) — in the c. 1913 Front Street children's photo (she is likely the mother figure). Confirm and crop.
 
@@ -38,15 +38,15 @@ crop is safe; the others just need you to confirm which figure is which.
 No image of these people exists anywhere in the archive yet, and their pages already carry real
 stories — so a found photo pays off immediately. Ranked by how much story is already written.
 
-- ✅ **Daniel Edburn "Dan" Eesley** (b. 1931) — **DONE this pass.** Chuck supplied a studio portrait (young man in an officer's dress uniform and peaked cap); now his thumbnail.
-- **Jean Goldie Eesley** (b. 1921) — substantial page, no photo.
+- ✅ **Daniel Edburn "Dan" Eesley** (b. 1931) — **DONE.** Chuck supplied a studio portrait (young man in an officer's dress uniform and peaked cap).
+- ✅ **Jean Goldie Eesley** (1921–1925) — **DONE.** Cropped from the toddler-in-overalls photo (her only known image; she died at four) that was on Helen's page.
 - **Mary Louise (Davis) Murdock** — *(see A — pictured, but only in low-res groups; a good standalone portrait is still wanted).*
 - **George Edburn "Bus" Eesley** (1903) and **Ruth Irene (Wildermuth) Ridenour** (1922) — well-developed pages, no face.
 - **Margaret Florence Anderson** (1869) and **John Wallace Anderson** (1864) — the paternal Anderson line (Rev. Abraham Anderson's children), faceless.
 
 ## C. Emotionally resonant / findable in records
 
-- **Josiah Way Hill** (1893–1918) — killed at the Meuse–Argonne, October 1918. A WWI service or enlistment portrait may survive in family papers or military records; among the most moving faces the archive could recover.
+- **Josiah Way Hill** (1893–1918) — killed at the Meuse–Argonne, October 1918; buried at Romagne-sous-Montfaucon (Meuse-Argonne American Cemetery). *A July 2026 web search (ABMC, Find A Grave, Ohio WWI rosters) surfaced no online portrait or memorial photo for him — WWI enlisted men are rarely digitized. Best remaining bets: family papers, his ABMC burial record, and Ohio's Official Roster (which would give his unit). Among the most moving faces the archive could recover.*
 
 ## D. The biggest structural gap: Lijie's side (Zhou / Li / Shang, Qingdao)
 
