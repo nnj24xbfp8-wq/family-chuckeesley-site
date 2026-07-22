@@ -29,6 +29,21 @@ Walter even traces the name into Swiss literature: the novelist **Max Frisch** (
 
 The clan ran the village for over a century. Walter lists the Wildermuth mayors (*Schultheißen*) of Rielingshausen: **Zacharias** (1640–1672), **Jakob** (1721–1740), and **Adam** (1740–1762). Adam left office alive but met a grim end. On the night of **23 May 1768**, the retired ex-mayor was found dead on the road between Oppenweiler and Strümpfelbach — robbed and murdered by one of the criminal bands then roaming the Mainhardter Forest, after he had carelessly shown off a purse of 100 Taler at a guest house. The band of some forty was not broken up until 1772, when nineteen were beheaded and the rest sentenced to hard labor.
 
+## How close do the two lines come? Rielingshausen, 1682
+
+Chuck's own Wildermuth line and the famous one nearly touch — in the same village, in the same year. Both run back to Rielingshausen Wildermuths born in **1682**:
+
+- **[Johannes Wildermuth Jr.](/family/johannes-wildermuth-1682/)** — Chuck's seven-times-great-grandfather — was baptized in Rielingshausen on **28 December 1682**, married Margaretha Grayers there in **1708**, and raised **nine children in the village** through 1722. He is the Wildermuth who **stayed**; his line ran on locally and then through Großaspach until [Johann Michael](/family/johann-michael-wildermuth/) emigrated in 1847.
+- **Johann Peter Wildermuth** — the famous line's founder — was, per Walter, also born in Rielingshausen in **1682**, but **left for Pleidelsheim**, where he died of smallpox in 1721. He was the great-grandfather of Ottilie's husband Johann David, and so the ancestor of Hermann and Eberhard.
+
+**Are they the same man? No.** Johannes was demonstrably alive in Rielingshausen — baptizing children — in 1720 and 1722, *after* Johann Peter's 1721 death in Pleidelsheim; and *Johannes* and *Johann Peter* are distinct Lutheran baptismal names. Two different men.
+
+**Brothers, then? Possibly.** Johannes's father, **[Johannes Wildermuth Sr.](/family/johannes-wildermuth-1650/)** (b. 1650, d. 1694), is recorded with "at least one son" and room for more. If Johann Peter was *also* a son of Johannes Sr., the two would be brothers — and Johannes Sr. would be the **common ancestor joining Chuck to Ottilie, Hermann, Eberhard, and even Max Frisch's Württemberg grandfather.** But two sons both born in 1682 would have to be twins, so **first cousins** is the likelier reading, with "1682" for Johann Peter an approximation.
+
+**The one missing document is Johann Peter's parentage.** Chuck's side is traced (Johannes Jr. ← Johannes Sr. ← …); Johann Peter's parents appear nowhere in this archive. Find them in the Rielingshausen parish register and the question resolves either way.
+
+**The honest verdict:** the two lines come within a single generation and a single village of meeting. Chuck descends from the Wildermuths who **stayed in Rielingshausen** (Johannes Jr.); the famous ones from the branch that **left for Pleidelsheim** (Johann Peter). They are near-certainly kin — plausibly first cousins, conceivably brothers — but as of the record, **no documented link joins them.**
+
 ## Part II — Robert Earl's return to Rielingshausen
 
 Two centuries and an ocean away, **[Robert Earl Wildermuth](/family/robert-earl-wildermuth/)** — Chuck's grandfather — went looking for the village himself. His travelogue records the search. He found **Marbach** first (Schiller's town, and Ottilie's, with its *Wildermuthstraße* and its thick-walled hilltop old town), then, *"after three trips,"* the village itself: **Rielingshausen**, *"the town where the surname Wildermuth is said to have originated,"* with **nineteen Wildermuths in the local telephone directory** and Großaspach — his own great-grandfather's emigration village — twenty miles east.
