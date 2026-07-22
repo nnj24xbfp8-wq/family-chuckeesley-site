@@ -26,7 +26,7 @@ Resolved June 2026 from Wikipedia and the German-Wikipedia "Wildermuth, Johann D
 
 So Ottilie connects to the Marietta line not by descent but by marriage into a parallel branch of the same Württemberg surname-cluster, and her 19th-century literary career is the reason civic Württemberg still carries the Wildermuth name in the Tübingen *Gymnasium*, the Marbach *Wildermuthstraße*, and the *Neckarinsel* monument.
 
-The grandson of Wilhelm David and Ottilie, *[Eberhard Wildermuth](https://en.wikipedia.org/wiki/Eberhard_Wildermuth)* (1890–1952), served as the West German Federal Minister for Housing and Construction under Adenauer in 1949–1952 — the public-life continuation of the same Tübingen branch.
+The grandson of Wilhelm David and Ottilie, **[Hermann-Eberhard Wildermuth](https://en.wikipedia.org/wiki/Hermann-Eberhard_Wildermuth)** (1890–1952), was a Knight's-Cross-decorated Wehrmacht colonel — the German garrison commander at **Le Havre** in 1944 — who then served as the **Federal Republic's Minister for Housing** under Adenauer from 1949 until his death in office, sponsoring the **1950 First Housing Act** that underwrote roughly four million postwar homes by 1957. He is the public-life continuation of the same Tübingen branch, and — with the rest of the standouts — is surveyed in [Notable Family Members](/docs/notable-family-members/).
 
 Chuck's 2018 photograph of the [memorial plaque on her childhood home](/places/marbach-wildermuthstrasse/) is what brought her into this archive in the first place.
 
