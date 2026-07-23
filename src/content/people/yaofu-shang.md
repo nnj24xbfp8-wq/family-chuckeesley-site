@@ -24,7 +24,11 @@ summary: "Lijie's maternal great-uncle. Born April 1925; died August 2014 in Qin
 
 迎娶[李蕴华](/family/yunhua-li/) &mdash; 即[李仲初](/family/zhongchu-li/)（周丽婕之外祖父）之姐妹，亦即周丽婕的姨外祖母。这一桩婚姻使**尚、李两家在本代发生两重通婚**：周丽婕的外祖父母（李仲初配尚耀真）与姨外祖父母（李蕴华配尚耀福）&mdash; 即李家两位手足分别迎娶尚家两位手足。
 
-> *注：除姓氏外人名汉字为推测，待家族确认。*
+### 子女
+
+尚耀福与[李蕴华](/family/yunhua-li/)育有五个子女，按长幼依次为：[**尚玲珂**](/family/lingke-shang/)（女）、[**尚国基**](/family/guoji-shang/)（男）、[**尚玲宣**](/family/lingxuan-shang/)（女）、[**尚玲理**](/family/lingli-shang/)（女）、[**尚玲怡**](/family/lingyi-shang/)（女）。（多在世，详情从略；名字由[李恂](/family/xun-li/)于2026年提供。）
+
+> *注：除姓氏外人名汉字为推测，待家族确认；上列子女姓名由家族提供。*
 
 <hr class="my-8 border-rule" />
 
@@ -37,5 +41,9 @@ Yaofu was the third of [DeChen Shang](/family/dechen-shang/) and [Chune Tan](/fa
 That marriage means the **Shang and Li families intermarried in two places at this generation**: Lijie's grandparents (Zhongchu Li + Yaozhen Shang) and Lijie's great-aunt/great-uncle (Yunhua Li + Yaofu Shang). Two Li siblings married two Shang siblings &mdash; a notable family pattern at this layer.
 
 He died in Qingdao in August 2014, age 89.
+
+## Children
+
+Yaofu and [Yunhua Li](/family/yunhua-li/) had **five children**, in order of age: [**Shang Lingke**](/family/lingke-shang/) (尚玲珂, daughter), [**Shang Guoji**](/family/guoji-shang/) (尚国基, son), [**Shang Lingxuan**](/family/lingxuan-shang/) (尚玲宣, daughter), [**Shang Lingli**](/family/lingli-shang/) (尚玲理, daughter), and [**Shang Lingyi**](/family/lingyi-shang/) (尚玲怡, daughter). Living &mdash; details withheld; their names were provided by [Li Xun](/family/xun-li/), 2026. Because Yaofu married Yunhua Li (sister of Lijie's grandfather Zhongchu Li), these five are doubly related to Lijie on the Shang and Li sides.
 
 > *Structured record: [FamilySearch — Yaofu Shang (G9MN-YZT)](https://www.familysearch.org/tree/person/details/G9MN-YZT).*
