@@ -10,14 +10,14 @@ birth:
 parents:
   - dechen-shang
   - chune-tan
-summary: "Lijie's maternal great-uncle. Born 30 June 1911 in Pingdu Shi (the inland county-city north of Qingdao) — elder brother of Yaozhen Shang (Lijie's grandmother) and ten years her senior. A formal studio portrait of him (working identification, per the printed name) is his page image."
+summary: "Lijie's maternal great-aunt. Born 30 June 1911 in Pingdu Shi (the inland county-city north of Qingdao) — elder sister of Yaozhen Shang (Lijie's grandmother) and ten years her senior. Her young-adult likeness is the qipao photograph with her sister Yaozhen."
 ---
 
 <p class="not-prose my-4 p-3 border-l-4 border-rule bg-ink/5 text-sm"><strong>📖 English version below — <a href="#en">Jump to English ↓</a></strong> &nbsp;·&nbsp; <em>本页中文在上，英文见下方。</em></p>
 
 <a id="zh"></a>
 
-**尚耀香**（姓氏确定；名字汉字"耀香"已由家族确认）&mdash; 周丽婕的姨外祖父，[尚耀真](/family/yaozhen-shang/)（周丽婕之外祖母）之兄长，年长十岁。**1911年6月30日生于平度市** &mdash; 即青岛市以北的县级市。生日与[李蕴华](/family/yunhua-li/)（1911年6月30日生于青岛）相同，可能为巧合，亦可能为家谱数据缺漏所致。
+**尚耀香**（姓氏确定；名字汉字"耀香"已由家族确认）&mdash; 周丽婕的姨外祖母，[尚耀真](/family/yaozhen-shang/)（周丽婕之外祖母）之姐姐，年长十岁。**1911年6月30日生于平度市** &mdash; 即青岛市以北的县级市。生日与[李蕴华](/family/yunhua-li/)（1911年6月30日生于青岛）相同，可能为巧合，亦可能为家谱数据缺漏所致。
 
 耀香青年时期的影像，见于她与妹妹[尚耀真](/family/yaozhen-shang/)的[旗袍合影](/archive/lijie-grandmothers-young-women-c1940s/)（左为耀香，右为耀真）。（本页早先曾误将一张男士正装照当作耀香；该照实为[李仲初](/family/zhongchu-li/)，已据李恂2026年的指认更正、移出本页。）
 
