@@ -21,7 +21,7 @@ Above: Lijie's mother **[Li Xun](/family/xun-li/)** with her own mother, **[Shan
 
 ![Shang Yaozhen with two small grandchildren, Qingdao, c. mid-1980s — young Lijie seated at left, and the baby Junjun in her grandmother's arms.](../../assets/family/originals/shang-yaozhen-grandchildren-qingdao-c1985.jpeg)
 
-*Shang Yaozhen with two of her grandchildren, c. mid-1980s. Per [Li Xun](/family/xun-li/) (2026): the **little girl seated at left is Lijie** (晶晶), and the **baby in her grandmother's arms is Junjun** (珺珺), another of Shang Yaozhen's grandchildren.*
+*Shang Yaozhen with two of her grandchildren, c. mid-1980s. Per [Li Xun](/family/xun-li/) (2026): the **little girl seated at left is Lijie** (晶晶), and the **baby in her grandmother's arms is [Junjun](/family/junjun/)** (珺珺), another of Shang Yaozhen's grandchildren.*
 
 For the family-dinner frame with **both** of Lijie's grandmothers together, see [Lijie with both grandmothers, c. 1986–87](/archive/lijie-with-two-grandmothers-c1986/).
 
