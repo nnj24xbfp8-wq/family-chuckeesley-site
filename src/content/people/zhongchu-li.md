@@ -25,6 +25,12 @@ summary: "Lijie's maternal grandfather. Born 15 September 1921 in Qingdao — th
 
 **1982年11月1日辞世，享年61岁** &mdash; 距女儿李恂与[周凌](/family/ling-zhou/)结婚（1982年9月18日）仅六周，距外孙女周丽婕出生尚有一年多。终未能见到外孙女。
 
+### 另一张肖像（2026年寻回）
+
+除页首这张肖像外，档案中另有一张李仲初的正装肖像 &mdash; 一位身着深色中山装的男士。此照片早先在档案中被误标为其姨妹[尚耀香](/family/yaoxiang-shang/)；2026年经女儿[李恂](/family/xun-li/)指认，确为其父李仲初本人，现已归入此处。
+
+![李仲初正装肖像，2026年由李恂指认（早先误标为尚耀香）。](../../assets/family/originals/li-zhongchu-formal-portrait.jpeg)
+
 ### 照片动画
 
 <figure class="my-6 max-w-md mx-auto not-prose">
@@ -54,7 +60,13 @@ summary: "Lijie's maternal grandfather. Born 15 September 1921 in Qingdao — th
 
 ## English
 
-The portrait above &mdash; the studio photograph showing him in a dark high-collared Chinese-style jacket, looking directly at the camera with the serious composure of mid-century Chinese formal portraiture &mdash; is the **only image of Zhongchu Li in this archive**, and the only way his face enters the visual record of the family at all. He died before Lijie was born, so no one in the next generation knew him in person. The print is aged, edges spotted with mottling typical of pre-1980 Chinese photographic paper. It is among the most precious single objects on the Zhou side.
+The portrait above &mdash; the studio photograph showing him in a dark high-collared Chinese-style jacket, looking directly at the camera with the serious composure of mid-century Chinese formal portraiture &mdash; is one of only two images of Zhongchu Li in this archive, and a principal way his face enters the visual record of the family. He died before Lijie was born, so no one in the next generation knew him in person. The print is aged, edges spotted with mottling typical of pre-1980 Chinese photographic paper. It is among the most precious single objects on the Zhou side.
+
+### A second portrait, recovered (2026)
+
+A second formal studio portrait of Zhongchu Li — a man in a dark Zhongshan (Mao-style) jacket — was recovered in 2026 when [Li Xun](/family/xun-li/) identified it. It had been mislabeled in the archive as her aunt [Shang Yaoxiang](/family/yaoxiang-shang/); Li Xun confirmed the sitter is her own father, Zhongchu Li, and it is now filed correctly here.
+
+![Formal studio portrait of Li Zhongchu — identified by Li Xun, 2026 (previously mislabeled as Shang Yaoxiang).](../../assets/family/originals/li-zhongchu-formal-portrait.jpeg)
 
 <figure class="my-8 max-w-md mx-auto not-prose">
   <video src="/family/zhongchu-li-portrait-animated.mp4" controls muted loop playsinline class="w-full"></video>
