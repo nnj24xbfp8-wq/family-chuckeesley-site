@@ -25,4 +25,4 @@ summary: "Lijie's maternal great-aunt; sister of Zhongchu Li (Lijie's grandfathe
 
 ## English
 
-Married Jiaxiang Yang; birth and death not yet recorded.
+Married Jiaxiang Yang; birth and death not yet recorded. The youngest daughter of [Fengting Li](/family/fengting-li/) and [Rongjing Qiu](/family/rongjing-qiu/); her brother [Zhongchu](/family/zhongchu-li/) and sister [Yunhua](/family/yunhua-li/) both married into the [Shang family](/family/yaofu-shang/) in the same generation.

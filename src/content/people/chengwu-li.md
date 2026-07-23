@@ -13,7 +13,7 @@ summary: "Lijie's maternal great-uncle on the Li side; brother of Zhongchu Li (L
 
 <a id="zh"></a>
 
-**李城武**（姓氏确定；名字汉字"城武"已由家族确认）&mdash; 周丽婕的舅外祖父，[李仲初](/family/zhongchu-li/)（周丽婕之外祖父）之兄弟。生卒待补。
+**李城武**（姓氏确定；名字汉字"城武"已由家族确认）&mdash; 周丽婕的舅外祖父，[李仲初](/family/zhongchu-li/)（周丽婕之外祖父）之兄弟，另有姐妹[李蕴华](/family/yunhua-li/)、[李蕴英](/family/yunying-li/)。其兄仲初与姐蕴华双双与尚家[结亲](/family/yaofu-shang/)。生卒待补。
 
 > *注：人名汉字已由家族确认。*
 
@@ -23,4 +23,4 @@ summary: "Lijie's maternal great-uncle on the Li side; brother of Zhongchu Li (L
 
 ## English
 
-Birth and death not yet recorded.
+Birth and death not yet recorded. One of the four children of [Fengting Li](/family/fengting-li/) and [Rongjing Qiu](/family/rongjing-qiu/); his brother [Zhongchu](/family/zhongchu-li/) and sister [Yunhua](/family/yunhua-li/) both married into the [Shang family](/family/yaofu-shang/) in the same generation.

@@ -3,17 +3,19 @@ name: "Zhou Xiuzhen 周秀珍"
 aka: "Xiuzhen Zhou"
 line: zhou
 generation: 5
+birth:
+  place: "Jiaozhou, Shandong, China"
 parents:
   - maoli-zhou
   - huancai-pang
-summary: "Lijie's paternal great-aunt — sister of her grandfather Zhaoxiang Zhou."
+summary: "Lijie's paternal great-aunt — sister of her grandfather Zhaoxiang Zhou. Recorded as born in Jiaozhou, the Zhou family's home region."
 ---
 
 <p class="not-prose my-4 p-3 border-l-4 border-rule bg-ink/5 text-sm"><strong>📖 English version below — <a href="#en">Jump to English ↓</a></strong> &nbsp;·&nbsp; <em>本页中文在上，英文见下方。</em></p>
 
 <a id="zh"></a>
 
-**周秀珍**（姓氏确定；名字汉字待家族确认）&mdash; 周丽婕之姑祖母，[周兆祥](/family/zhaoxiang-zhou/)与[周兆帧](/family/zhaozheng-zhou/)之姐妹。生卒年月待补。
+**周秀珍**（姓氏确定；名字汉字待家族确认）&mdash; 周丽婕之姑祖母，[周兆祥](/family/zhaoxiang-zhou/)与[周兆帧](/family/zhaozheng-zhou/)之姐妹。家谱记其**生于胶州** &mdash; 周氏一脉的祖籍之地；生卒年月待补。
 
 > *注：除姓氏外人名汉字为推测，待家族确认。*
 
@@ -23,6 +25,6 @@ summary: "Lijie's paternal great-aunt — sister of her grandfather Zhaoxiang Zh
 
 ## English
 
-Sister of [Zhaoxiang Zhou](/family/zhaoxiang-zhou/) and [Zhaozheng Zhou](/family/zhaozheng-zhou/). Birth/death dates not yet recorded in this archive.
+Sister of [Zhaoxiang Zhou](/family/zhaoxiang-zhou/) and [Zhaozheng Zhou](/family/zhaozheng-zhou/). The family tree records her as **born in Jiaozhou** — the Zhou family's home region, where her father [Maoli](/family/maoli-zhou/) died in 1935 and her brother Zhaoxiang was born; her own birth and death dates are not yet recorded.
 
 > *Structured record: [FamilySearch — Xiuzhen Zhou (GM1T-TMJ)](https://www.familysearch.org/tree/person/details/GM1T-TMJ).*
