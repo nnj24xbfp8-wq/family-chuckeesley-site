@@ -50,12 +50,25 @@ stories — so a found photo pays off immediately. Ranked by how much story is a
 
 ## D. The biggest structural gap: Lijie's side (Zhou / Li / Shang, Qingdao)
 
-Only a handful of ~30 people on this side have a photo. The rest of the parents',
-grandparents', and great-grandparents' generations are faceless. **Best sourced directly from
-Lijie's family** (see also `photo-questions-for-lijies-mom.md`). Likely-findable deceased elders:
+**Faces status (July 2026 pass):** every Qingdao-side image *currently in the archive* has been
+placed. Confirmed likenesses: **Shang Yaozhen** (formal portrait + young qipao photos + later-life
+group shots), **Shang Yaoxiang** (young qipao photo), **Li Zhongchu** (formal portrait), **Zhou
+Zhaoxiang** & **Sun Yunzhe** (couple + late-life visit), **Ai Hua Zhou**, and living relatives who
+supplied their own. The ambiguous frames were resolved by Li Xun in 2026 (the braid photos = a
+non-family classmate; the qipao pair = Yaozhen with her sister/classmate). **Nothing further can be
+wired without new material from Lijie's family** — see `photo-questions-for-lijies-mom.md` for the
+full ask list. Three tiers there:
 
-- **Shang Yaofu 尚耀福** (d. 2014), **Shang Yaozhen 尚耀真** (d. 2013), **Sun Yunzhe 孙云哲** (d. 2023 — most recent, most likely photographed).
-- Deeper generations: **Pang Huancai 庞焕彩** (d. 1992), **Qiu Rongjing 邱蓉镜** (d. 1974), **Zhou Maoli 周茂礼** (d. 1935).
+1. **Two photos the family already holds, just not uploaded:** Zhaoxiang's younger-man studio
+   portrait; the Zhaoxiang + Ai Hua Zhou + husband companion frame.
+2. **Name the faces in group photos we already have** (Yaozhen's restaurant-gathering and wedding
+   group) — could yield crops for Li-side cousins with zero new sourcing.
+3. **Still genuinely faceless elders**, best sourced from Lijie's mother (maternal Li/Shang) and
+   father (paternal Zhou), by recency of death:
+   - Maternal: **Shang Yaofu 尚耀福** (d. 2014), the other Li/Shang siblings (Yaoli, Yunhua, Chengwu,
+     Yunying), and great-grandparents **Fengting Li / Rongjing Qiu / DeChen Shang / Chune Tan**.
+   - Paternal: **Zhou Zhaozheng 周兆帧** & **Zhou Xiuzhen 周秀珍**; great-grandparents **Zhou Maoli 周茂礼**
+     (d. 1935) & **Pang Huancai 庞焕彩** (1908–1992); and the deepest pair, **Zhou Huiting 周慧亭** & **Leng 冷**.
 
 ---
 

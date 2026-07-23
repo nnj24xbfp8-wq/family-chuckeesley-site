@@ -1,41 +1,59 @@
-# Photos to ask Lijie's mother (Li Xun) about — Zhou / Li / Shang side
+# Photos & facts to ask Lijie's parents about — Zhou / Li / Shang side
 
-Live links are on family.chuckeesley.com. **Note:** these pages only go live after the next `git push` + Vercel deploy — until then the links will 404.
+Live links are on family.chuckeesley.com. **Note:** pages only go live after the next `git push` + Vercel deploy — until then the links may 404.
 
-## Need identification
+Split by who most likely holds each side: **maternal (Li + Shang) → Lijie's mother, Li Xun**; **paternal (Zhou) → Lijie's father, Ling Zhou.**
 
-1. **Young woman with a braid (c. 1960s–70s)** — who is she?
-   https://family.chuckeesley.com/archive/zhou-li-young-woman-braid-c1960s70s/
-   Two photos of the same young woman (one by a wall map, one studio). Our guess: a young Li Xun, or one of the aunts — but unconfirmed.
+---
 
-2. **Two young women in traditional dress (c. 1940s)** — which grandmother is which, and who is the second woman?
-   https://family.chuckeesley.com/archive/lijie-grandmothers-young-women-c1940s/
-   Believed to be one (or both) of Lijie's grandmothers as young women, possibly with a sister. What was the occasion?
+## A. Two photos the family already has — just need uploading
 
-3. **Qingdao No. 36 Middle School propaganda troupe, 1971** — which relative is in it, and where in the photo?
-   https://family.chuckeesley.com/archive/qingdao-no36-middle-school-troupe-1971/
-   A family member was in this troupe (we guess a ~15-year-old Li Xun). Which face?
+These were mentioned as existing in the family's own collection but aren't in the archive yet. Getting the files is all that's needed.
 
-## Please confirm / name the others
+1. **Zhaoxiang Zhou — younger-man studio portrait.** The archive has his late-life photos; the family also holds a studio portrait of him as a younger man. Uploading it would give Lijie's paternal grandfather a second, earlier likeness. *(Ask Ling Zhou.)*
+2. **Zhaoxiang Zhou with daughter Ai Hua Zhou and her husband** — the companion frame from the same visit already in the archive (待补上传 / "pending upload" per the visit page). *(Ask Ling Zhou or Ai Hua's family.)*
 
-4. **Shang Yaozhen in later life** — confirm it's her, and name the younger relatives.
+## B. Name the faces in group photos we already have
+
+If these younger relatives can be named, we can crop portraits straight from photos already in hand — no new photo hunt needed.
+
+3. **Shang Yaozhen later-life group photos** — the restaurant gathering and the wedding group.
    https://family.chuckeesley.com/archive/shang-yaozhen-later-life-qingdao/
-   Who are the younger family members in the restaurant-gathering and wedding group photos?
+   Yaozhen is identified (center). Who are the daughters, granddaughters, and the couple at the wedding? Naming them could give faces to Li-side cousins (e.g. Bo Li, Mengling Li) and others. *(Ask Li Xun.)*
 
-5. **Lijie's early childhood, Qingdao (mid-1980s)** — who is the second child?
-   https://family.chuckeesley.com/archive/lijie-grandparents-early-childhood-qingdao-c1980s/
-   In the "grandmother with two grandchildren" photo, young Lijie is at left — who is the cousin beside her?
+## C. The real gap — any photo at all of the elder generations
 
-6. **Shang Yaoxiang studio portrait** — confirm the man is Yaoxiang.
-   https://family.chuckeesley.com/family/yaoxiang-shang/
-   There's a name printed on the print — does it read as Shang Yaoxiang?
+These ancestors are currently **faceless** (no confirmed image anywhere). Even a face in a group shot works — a crop becomes their portrait. Listed by how recently they died (most recent = most likely photographed).
 
-## Names to fill in (Yaofu Shang's five children)
+**Maternal — Li + Shang (ask Li Xun):**
 
-We added these from FamilySearch but only have the romanized names — the **given-name Chinese characters** (and any dates) would complete them:
+- **Shang Yaofu 尚耀福** (1925–2014) — Li Xun's uncle; died recently, likely photographed.
+- **Shang Yaoli 尚耀礼** — the youngest Shang sibling; any photo or dates?
+- **Li Zhongchu 李仲初** (1921–1982) — Lijie's grandfather. *He has a formal portrait already* — but any others (with family, younger) welcome.
+- **Li Yunhua 李蕴华** (b. 1911), **Li Chengwu 李城武**, **Li Yunying 李蕴英** — Zhongchu's siblings; any photos or dates?
+- **Li Fengting 李丰庭** (d. Qingdao) & **Qiu Rongjing 邱蓉镜** (b. Pingdu, d. ~1974) — Lijie's maternal great-grandparents.
+- **Shang DeChen 尚德臣** & **Tan Chune 谭春娥** — the Shang great-grandparents.
 
-- Guoji Shang — https://family.chuckeesley.com/family/guoji-shang/
-- Ling Ke Shang — https://family.chuckeesley.com/family/ling-ke-shang/
-- LingLi Shang — https://family.chuckeesley.com/family/lingli-shang/
-- LingXuan Shang — https://family.chuckeesley.com/family/lingxuan-shang/
-- LingYi Shang — https://family.chuckeesley.com/family/lingyi-shang/
+**Paternal — Zhou (ask Ling Zhou):**
+
+- **Zhou Zhaozheng 周兆帧** (b. 1938) & **Zhou Xiuzhen 周秀珍** — Zhaoxiang's siblings (Lijie's great-aunt/uncle).
+- **Zhou Maoli 周茂礼** (d. 1935 Jiaozhou) & **Pang Huancai 庞焕彩** (1908 Jiaozhou – 1992 Qingdao) — Lijie's paternal great-grandparents.
+- **Zhou Huiting 周慧亭** & his wife (surname **Leng 冷**) — the deepest Zhou ancestors on record.
+
+## D. Names & dates to fill in
+
+4. **Yaofu Shang's five children** (Lijie's cousins, living) — we have only romanized names; the **Chinese given-name characters** (and any birth years) would complete them:
+   Guoji, Ling Ke, LingLi, LingXuan, LingYi Shang.
+   https://family.chuckeesley.com/family/guoji-shang/
+5. **Birth/death years** for any of the great-aunts and great-uncles above — several are recorded with no dates at all.
+6. **A generation-name poem (字辈) or written genealogy** for any of the three families — this would let the deeper generations be reconstructed by record rather than guesswork, and confirm the provisional given-name characters.
+
+---
+
+## Already resolved by Li Xun (2026) — no longer open
+
+- **Braid young woman (c. 1960s–70s)** — confirmed *not* family; Li Xun's classmate.
+- **Two young women in qipao (c. 1940s)** — Shang Yaozhen with her classmate Hou Wuxun, and Yaozhen with her sister Yaoxiang. (Earliest young-adult likeness of Yaozhen.)
+- **Qingdao No. 36 Middle School troupe (1971)** — Li Xun identified herself: third row, sixth from the right.
+- **Lijie's early-childhood photo** — the second child is her cousin Junjun (珺珺), Bo Li's daughter.
+- **"Yaoxiang studio portrait"** — corrected: that man's portrait is actually Li Zhongchu, moved to his page.
