@@ -28,7 +28,7 @@ Born **11 December 1859** in Hamilton, Ontario, he made his way south and west a
 
 He married **[Kittie Belle Scott](/family/kittie-belle-scott/)** in Plainwell on **8 September 1885** &mdash; Kittie had been born across the township line in Gun Plain Township, Allegan County. They had no children recorded in Dale's tree, and the Plainwell mill's Eesley line ends at John Franklin himself.
 
-He ran the operation until his death &mdash; **9 July 1929 in Kalamazoo, Michigan**; buried in Plainwell two days later. The mill outlasted him by a century: the [building is on the National Register of Historic Places](/places/plainwell-eesley-mill/) and now operates as The Old Mill Brewpub.
+He ran the operation until his death &mdash; **9 July 1929 in Kalamazoo, Michigan**; buried in Plainwell two days later. The mill outlasted him by a century: the [building is on the National Register of Historic Places](/places/plainwell-eesley-mill/) and now operates as The Old Mill Brewpub. He is the **wealthiest member of the documented family** — see [Notable Family Members](/docs/notable-family-members/).
 
 ![The granite grave marker of John F. Eesley at Plainwell, Michigan, carved "FATHER / JOHN F. EESLEY / 1859–1929."](../../assets/family/originals/john-f-eesley-headstone.jpeg)
 
