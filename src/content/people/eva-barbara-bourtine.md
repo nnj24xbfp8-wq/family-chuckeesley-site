@@ -4,6 +4,7 @@ aka: "Eva Barbara Bourtine, maiden"
 line: maternal
 generation: 1
 birth:
+  date: "1815-06"
   place: "Bavaria, Germany"
 death:
   date: "1898"
@@ -15,7 +16,7 @@ status: sketch
 summary: "Chuck's maternal great-great-great-great-grandmother on the Schlicher line. A Bavarian woman who married John Jacob Schmidt and bore eight children — four boys and four girls — before the family emigrated to Washington County, Ohio in the late 1840s. Mother of Eva Schmidt, who married Theobald David Schlicher. Died about 1898, one year before her husband."
 ---
 
-Eva Barbara Bourtine married **[John Jacob Schmidt](/family/john-jacob-schmidt/)** in Bavaria (the marriage date is not recorded) and bore **eight children &mdash; four boys and four girls**. The elder children were born in **Bavaria**; the family emigrated to **Washington County, Ohio** in the late 1840s, where the youngest three were born and where John farmed near Lowell.
+Eva Barbara Bourtine was born in **June 1815 in Bavaria**. She married **[John Jacob Schmidt](/family/john-jacob-schmidt/)** there (the marriage date is not recorded) and bore **eight children &mdash; four boys and four girls**. The elder children were born in **Bavaria**; the family emigrated to **Washington County, Ohio** in the late 1840s, where the youngest three were born and where John farmed near Lowell.
 
 Through her daughter **[Eva Schmidt](/family/eva-schmidt-schlicher/)** &mdash; who married [Theobald David Schlicher](/family/theobald-david-schlicher/) &mdash; she is a direct ancestor of [Flora Schlicher Wildermuth](/family/flora-schlicher-wildermuth/) and, through her, of Chuck.
 

@@ -2,16 +2,22 @@
 name: "Adam Wildermuth"
 line: maternal
 birth:
-  date: "1768"
+  date: "1768-10-26"
   place: "Rielingshausen, Württemberg, Germany"
+death:
+  date: "1800-02-11"
+  place: "Großaspach, Backnang, Württemberg, Germany"
 generation: 1
 parents:
   - andreus-wildermuth
-summary: "Son of Andreus Wildermuth — the second-deepest Wildermuth ancestor in this archive. Born 1768 in Rielingshausen, Württemberg, Germany. Followed his father into the trade of Gartner (vineyard gardener) in the same village. Documented by Robert Earl Wildermuth in his 1990 Wildermuth/Fleming Heritage. Stub page; further detail pending the next layer of LDS International Genealogical Index work that Robert Earl began but did not complete."
+  - margaretha-laemmle
+summary: "Son of Andreas Adam Wildermuth and Margaretha Lämmle. Born 26 October 1768 in Rielingshausen, Württemberg; orphaned of both parents by age ten. Married Catharina Dorothea Wolf and fathered nine children — among them Johann Christian Wildermuth, through whom the Wildermuth and Schmidgall lines joined. Died 11 February 1800 in Großaspach, age 31."
 ---
 
-Adam Wildermuth was born in **1768** in **[Rielingshausen](/places/rielingshausen-church/)**, son of [Andreus Wildermuth](/family/andreus-wildermuth/) the *Gartner* (vineyard gardener). He followed his father into the same trade in the same village &mdash; the vineyards of the Neckar river valley northeast of Stuttgart.
+Adam Wildermuth was born **26 October 1768** in **[Rielingshausen](/places/rielingshausen-church/)**, in the Duchy of Württemberg, the son of **[Andreas Adam Wildermuth](/family/andreus-wildermuth/)** (1745&ndash;1771) and **[Margaretha Lämmle](/family/margaretha-laemmle/)** (1746&ndash;1778). He was **orphaned young** &mdash; his father died in 1771, when Adam was three, and his mother in 1778, when he was ten.
 
-Page is a stub. His wife, his children, and the link forward to the [Johann Michael Wildermuth](/family/johann-michael-wildermuth/) generation that would emigrate to America in 1847 are the queued research follow-ups, requiring the next layer of Rielingshausen parish-record work that Robert Earl noted but did not himself complete.
+He married **Catharina Dorothea Wolf**, and they had a large family &mdash; nine children recorded in the tree, among them **[Johann Christian Wildermuth](/family/johann-christian-wildermuth/)**, Johann Adam, Johannes, Daniel, Johann Georg, Gottlieb, and Friderika Magdalena. Through Johann Christian &mdash; who married **[Maria Margaretha Schmidgall](/family/maria-margaretha-schmidgall/)** &mdash; the Wildermuth and Schmidgall lines joined, carrying the pedigree toward the generation that would emigrate to Ohio in the mid-nineteenth century.
 
-> *Source: [The Wildermuth/Fleming Heritage by Robert Earl Wildermuth, 1990](/docs/wildermuth-fleming-heritage-1990/).*
+Adam did not live to see them grown. He **died 11 February 1800 in [Großaspach](/places/grossaspach/)**, the Backnang-district village just east of his home, **age 31** &mdash; the same early mortality that runs through this whole layer of the eighteenth-century Württemberg line: his father died at 25, his mother at 32.
+
+> *Sources: [The Wildermuth/Fleming Heritage by Robert Earl Wildermuth, 1990](/docs/wildermuth-fleming-heritage-1990/); GEDCOM &mdash; Dale Eesley / FamilySearch.*

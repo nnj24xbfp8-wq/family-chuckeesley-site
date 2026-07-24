@@ -14,7 +14,7 @@ status: sketch
 summary: "Robert Earl Wildermuth's fifth great-grandmother. Born 9 October 1712 in Großaspach. Married Johann Georg Werner on 11 February 1738. Died 26 March 1742, age thirty-one — four years after her marriage, three years after the birth of her daughter Anna Maria Werner. The earliest-mortality-at-young-age fact in Robert Earl's 1989 sketch series."
 ---
 
-Barbara Phillipp &mdash; the GEDCOM names her *Anna Barbara Phillipp* &mdash; was born **9 October 1712** in [Großaspach](/places/grossaspach/). She married [Johann Georg Werner](/family/johann-georg-werner/) on 11 February 1738. Their daughter Anna Maria Werner was born 9 June 1739.
+Barbara Phillipp &mdash; the GEDCOM names her *Anna Barbara Phillipp* &mdash; was born **9 October 1712** in [Großaspach](/places/grossaspach/), a daughter of **Martin Philipp** and **Anna Dorothea Brodt**. She married [Johann Georg Werner](/family/johann-georg-werner/) on 11 February 1738. Their daughter Anna Maria Werner was born 9 June 1739.
 
 She died **26 March 1742**, age thirty-one &mdash; only four years after her marriage and three years after Anna Maria's birth. Robert Earl's [1989 "Little History"](/docs/robert-earl-wildermuth-little-histories/) names her early death directly:
 

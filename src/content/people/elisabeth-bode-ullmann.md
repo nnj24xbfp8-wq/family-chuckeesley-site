@@ -5,8 +5,10 @@ line: maternal
 generation: 2
 birth:
   date: "1854-01-04"
+  place: "Monroe County, Ohio, United States"
 death:
   date: "1930-01-06"
+  place: "Waterford Township, Washington County, Ohio, United States"
 spouses:
   - frederick-ullmann
 portrait: ../../assets/family/originals/ullmann-family-group-probable-c1912.jpeg
@@ -16,7 +18,7 @@ summary: "Mother of Clara Victoria Ullmann (Harvey Hill's wife) and Ida Jeanetta
 
 Elisabeth (Bode) Ullmann (1854&ndash;1930) was the wife of **[Frederick Ullmann](/family/frederick-ullmann/)** and the mother of **[Clara Victoria Ullmann](/family/clara-victoria-ullmann/)** and **[Ida Jeanetta "Nettie" Ullman](/family/ida-jeanetta-ullman-hill/)** &mdash; Chuck's **maternal great-great-great-grandmother** on the Ullmann line.
 
-She was born **4 January 1854** and died **6 January 1930**, two days after her seventy-sixth birthday. She and Frederick had **eight children** (see [his page](/family/frederick-ullmann/) for the full list).
+She was born **4 January 1854 in Monroe County, Ohio** &mdash; a daughter of the German-immigrant couple **Heinrich Friedrich Bode** and **Phoebe Kimnach** &mdash; and was christened the following winter at Elk Township, Noble County. She died **6 January 1930 in Waterford Township, Washington County**, two days after her seventy-sixth birthday. She and Frederick had **eight children** (see [his page](/family/frederick-ullmann/) for the full list).
 
 ## The probable family group portrait
 
