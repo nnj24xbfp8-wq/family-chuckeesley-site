@@ -19,4 +19,6 @@ Theodore Roosevelt Hill was the **third of the four Hill children** and the youn
 
 Born **6 June 1912** to **[Harvey Hendershot Hill](/family/harvey-hendershot-hill/)** and **[Clara Victoria (Ullmann) Hill](/family/clara-victoria-ullmann/)**, he was the **one Hill sibling who left Ohio** &mdash; settling in **Texas** (the Henderson / Rusk County area). He married three times: **Ola Vivian Carter** (1936), **Christine E. Miller** (1940), and **Aller Virginia Young**. He died **16 February 1979** and was buried at the **Houston National Cemetery** &mdash; a United States veterans' cemetery, which points to **military service**, most plausibly in the Second World War era.
 
+*A note on his birthplace:* the family tree records it as Henderson, Rusk County, Texas, but that is treated here as an error. His three siblings were all born in Monroe County, Ohio between 1905 and 1917, and the family was settled there; the Texas entry almost certainly reflects where Theodore later lived and died rather than where he was born. He is placed in Ohio with his siblings.
+
 > *Source: [Eesley/Wildermuth GEDCOM tree](/docs/dale-eesley-familysearch-tree/), which records the four Hill children of Harvey Hendershot Hill and Clara Victoria Ullmann, and Theodore's Texas marriages and Houston National Cemetery burial.*
