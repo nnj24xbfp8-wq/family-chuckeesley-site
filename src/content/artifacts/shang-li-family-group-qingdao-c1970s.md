@@ -32,7 +32,7 @@ A six-person family group from [Lijie](/family/lijie-zhou/)'s maternal side at t
 
 - **[Li Xun](/family/xun-li/)** (b. 1956, Lijie's mother) — at left.
 - **[Bo Li](/family/bo-li/)** — Li Xun's younger sister, crouching and holding the little girl.
-- **[Wang Xiaoxiang](/family/wang-xiaoxiang/)** — the little girl in Bo Li's arms; a cousin of Li Xun's (and so Lijie's first cousin once removed).
+- **[Wang Xiaoxiang](/family/wang-xiaoxiang/)** — the little girl in Bo Li's arms; **Shang Lingke's daughter** (and so Lijie's second cousin).
 
 <hr class="my-8 border-rule" />
 
@@ -54,6 +54,6 @@ A six-person family group from [Lijie](/family/lijie-zhou/)'s maternal side at t
 
 - **[李恂](/family/xun-li/)**（1956年生，Lijie的母亲）&mdash; 居左。
 - **[李勃](/family/bo-li/)** &mdash; 李恂的妹妹，蹲着抱小女孩。
-- **[王肖向](/family/wang-xiaoxiang/)** &mdash; 李勃怀中的小女孩；李恂的表姊妹（即Lijie的表姨）。
+- **[王肖向](/family/wang-xiaoxiang/)** &mdash; 李勃怀中的小女孩；[尚玲珂](/family/lingke-shang/)之女（即Lijie的同辈表亲）。
 
 > *Source / 来源：Zhou–Li family photographs; identified by Li Xun, 2026.*
