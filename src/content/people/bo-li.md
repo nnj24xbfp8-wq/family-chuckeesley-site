@@ -1,5 +1,6 @@
 ---
 name: "Li Bo 李勃"
+portrait: "../../assets/family/originals/shang-li-family-group-qingdao-c1970s.jpeg"
 aka: "Bo Li"
 line: zhou
 generation: 6

@@ -1,5 +1,6 @@
 ---
 name: "Shang Lingke 尚玲珂"
+portrait: "../../assets/family/originals/shang-li-family-group-qingdao-c1970s.jpeg"
 aka: "Lingke Shang"
 line: zhou
 generation: 6

@@ -1,5 +1,6 @@
 ---
 name: "Li Yunhua 李蕴华"
+portrait: "../../assets/family/originals/shang-li-family-group-qingdao-c1970s.jpeg"
 aka: "Yunhua Li"
 line: zhou
 generation: 5
