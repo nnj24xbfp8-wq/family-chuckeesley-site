@@ -31,7 +31,7 @@ For the family-dinner frame with **both** of Lijie's grandmothers together, see 
 
 ![A young woman spoon-feeding a baby, Qingdao, c. mid-1980s.](../../assets/family/originals/zhou-li-feeding-baby-c1980s.jpeg)
 
-*A young woman spoon-feeding a baby, c. mid-1980s. The mother and child are to be confirmed by [Li Xun](/family/xun-li/).*
+*A young woman spoon-feeding a baby, c. mid-1980s. Best guess (to be confirmed by [Li Xun](/family/xun-li/)): [Li Xun](/family/xun-li/) feeding baby [Lijie](/family/lijie-zhou/).*
 
 <hr class="my-8 border-rule" />
 
