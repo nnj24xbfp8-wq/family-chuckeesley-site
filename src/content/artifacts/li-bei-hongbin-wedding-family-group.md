@@ -46,6 +46,10 @@ A three-generation family group at the wedding of **[Li Bei](/family/li-bei/)** 
 
 This photograph is the single richest key to the living Zhou–Li generations in the archive: it supplied the exact birth dates now recorded for Lijie's parents, her aunt and uncle, and her cousins.
 
+![Another frame from the same wedding (Li Bei & Hong Bin), same family group.](../../assets/family/originals/li-bei-hongbin-wedding-family-group-b.jpeg)
+
+*A second frame from the same wedding; the people are as identified in the group above.*
+
 <hr class="my-8 border-rule" />
 
 <a id="zh"></a>

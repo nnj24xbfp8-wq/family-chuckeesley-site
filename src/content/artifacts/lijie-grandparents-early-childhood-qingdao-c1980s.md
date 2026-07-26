@@ -29,6 +29,10 @@ For the family-dinner frame with **both** of Lijie's grandmothers together, see 
 
 > *Source: Zhou–Li family photographs; Shang Yaozhen, Li Xun, and Lijie identified by Chuck and Lijie, 2026.*
 
+![A young woman spoon-feeding a baby, Qingdao, c. mid-1980s.](../../assets/family/originals/zhou-li-feeding-baby-c1980s.jpeg)
+
+*A young woman spoon-feeding a baby, c. mid-1980s. The mother and child are to be confirmed by [Li Xun](/family/xun-li/).*
+
 <hr class="my-8 border-rule" />
 
 <a id="zh"></a>
