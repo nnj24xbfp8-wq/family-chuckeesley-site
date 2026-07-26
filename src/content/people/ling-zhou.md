@@ -3,6 +3,8 @@ name: "Zhou Ling 周玲"
 aka: "Ling Zhou"
 line: zhou
 generation: 6
+birth:
+  date: "1955-12-01"
 spouses:
   - xun-li
 parents:

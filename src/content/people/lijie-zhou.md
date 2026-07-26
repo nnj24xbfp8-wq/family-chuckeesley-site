@@ -4,6 +4,7 @@ aka: "周丽婕"
 line: zhou
 generation: 7
 birth:
+  date: "1983"
   place: "Qingdao, Shandong, China"
 parents:
   - ling-zhou

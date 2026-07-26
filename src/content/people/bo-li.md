@@ -4,6 +4,8 @@ portrait: "../../assets/family/originals/shang-li-family-group-qingdao-c1970s.jp
 aka: "Bo Li"
 line: zhou
 generation: 6
+birth:
+  date: "1957-07-16"
 parents:
   - zhongchu-li
   - yaozhen-shang

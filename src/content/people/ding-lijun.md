@@ -3,8 +3,11 @@ name: "Ding Lijun 丁丽珺"
 aka: "Junjun 珺珺"
 line: zhou
 generation: 7
+birth:
+  date: "1987"
 parents:
   - bo-li
+  - de-chang-ding
 living: true
 status: sketch
 summary: "Child of Bo Li (Li Xun's younger sister) and grandchild of Shang Yaozhen — the baby ('Junjun' 珺珺) in Shang Yaozhen's arms in the c. mid-1980s Qingdao photograph, seated beside a young Lijie. As Bo Li's child she is Lijie's first cousin on the maternal Li side. Living; identified by Li Xun, 2026."

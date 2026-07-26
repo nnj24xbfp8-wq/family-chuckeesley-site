@@ -4,6 +4,8 @@ aka: "Xun Li"
 portrait: ../../assets/family/originals/IMG_1485.jpeg
 line: zhou
 generation: 6
+birth:
+  date: "1956-06-20"
 spouses:
   - ling-zhou
 parents:
