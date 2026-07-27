@@ -4,7 +4,7 @@ aka: "Junjun 珺珺"
 line: zhou
 generation: 7
 birth:
-  date: "1987"
+  date: "1987-02"
 parents:
   - bo-li
   - de-chang-ding
