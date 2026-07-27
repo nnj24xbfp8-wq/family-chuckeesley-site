@@ -21,7 +21,7 @@ people:
 
 Three generations of the Zhou family in one frame.
 
-Seated in the front row: **Zhaoxiang Zhou 周兆祥** (Lijie's paternal grandfather, b. 1930 Jiaozhou Shi, d. 9 December 2022 Qingdao), in a light grey jacket and dark trousers, smiling, **flanked by his son and daughter-in-law** &mdash; **[Xun Li 李恂](/family/xun-li/)** on the left in a camel coat (Lijie's mother), and **[Ling Zhou 周玲](/family/ling-zhou/)** on the right in a dark leather jacket (Lijie's father).
+Seated in the front row: **Zhaoxiang Zhou 周兆祥** (Lijie's paternal grandfather, b. 1930 Jiaozhou Shi, d. 9 December 2022 Qingdao), in a light grey jacket and dark trousers, smiling, **flanked by his son and daughter-in-law** &mdash; **[Xun Li 李恂](/family/xun-li/)** on the left in a camel coat (Lijie's mother), and **[Ling Zhou 周凌](/family/ling-zhou/)** on the right in a dark leather jacket (Lijie's father).
 
 Standing behind: **Lijie** and **Chuck**, both in dark coats &mdash; visiting from Stanford.
 
@@ -39,9 +39,9 @@ This is the late-life photograph of Zhaoxiang Zhou in the archive; the family al
 
 ## 中文
 
-**与周兆祥合影 &mdash; 周玲、李恂、Lijie与Chuck**
+**与周兆祥合影 &mdash; 周凌、李恂、Lijie与Chuck**
 
-前排坐者：**周兆祥**（Lijie的祖父，1930年生于胶州市，2022年12月9日卒于青岛）居中，**两侧为其子与儿媳** &mdash; 左侧穿驼色大衣者为**[李恂](/family/xun-li/)**（Lijie的母亲），右侧穿深色皮夹克者为**[周玲](/family/ling-zhou/)**（Lijie的父亲）。
+前排坐者：**周兆祥**（Lijie的祖父，1930年生于胶州市，2022年12月9日卒于青岛）居中，**两侧为其子与儿媳** &mdash; 左侧穿驼色大衣者为**[李恂](/family/xun-li/)**（Lijie的母亲），右侧穿深色皮夹克者为**[周凌](/family/ling-zhou/)**（Lijie的父亲）。
 
 后排立者：**Lijie与Chuck**，二人穿深色外套，由斯坦福返国探亲。
 

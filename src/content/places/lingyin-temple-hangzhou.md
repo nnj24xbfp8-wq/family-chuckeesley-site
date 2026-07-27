@@ -15,15 +15,15 @@ relatedPeople:
   - lijie-zhou
 status: photographed
 pairs:
-  - subject: "The same temple gate, three frames — Ling & Xun 1982, Ling & Xun 2019, Chuck & Lijie 2019<br /><span class='font-sans not-italic'>同一座山门，三帧合影 — 周玲与李恂 1982、周玲与李恂 2019、Chuck与Lijie 2019</span>"
+  - subject: "The same temple gate, three frames — Ling & Xun 1982, Ling & Xun 2019, Chuck & Lijie 2019<br /><span class='font-sans not-italic'>同一座山门，三帧合影 — 周凌与李恂 1982、周凌与李恂 2019、Chuck与Lijie 2019</span>"
     caption: "The same gate, the same pose, across one wedding and the next generation.<br /><br /><strong>中文：</strong>同一座山门，同一姿态，跨越一场婚礼与下一代。"
     thenYear: "1982"
     thenImage: ../../assets/family/originals/IMG_2529_cropped.jpeg
-    thenCaption: "Ling Zhou and Xun Li on their honeymoon at Lingyin Temple, just after their 18 September 1982 wedding in Qingdao. Black-and-white print; the temple signage behind them. Cropped from the original scan to roughly match the framing of the two 2019 frames.<br /><br /><strong>中文：</strong>周玲与李恂蜜月时摄于灵隐寺山门前，时为1982年9月18日青岛婚礼之后。黑白照片，身后可见寺院牌匾。原扫描件已裁切，以与2019年两帧合影构图相近。"
+    thenCaption: "Ling Zhou and Xun Li on their honeymoon at Lingyin Temple, just after their 18 September 1982 wedding in Qingdao. Black-and-white print; the temple signage behind them. Cropped from the original scan to roughly match the framing of the two 2019 frames.<br /><br /><strong>中文：</strong>周凌与李恂蜜月时摄于灵隐寺山门前，时为1982年9月18日青岛婚礼之后。黑白照片，身后可见寺院牌匾。原扫描件已裁切，以与2019年两帧合影构图相近。"
     thenPhotographer: ling-zhou
     nowYear: "2019"
     nowImage: ../../assets/family/originals/IMG_3615.jpeg
-    nowCaption: "Ling and Xun at the same gate, <strong>29 May 2019</strong> &mdash; 37 years after the honeymoon frame. Color photograph; the same temple signage just visible at left.<br /><br /><strong>中文：</strong>周玲与李恂于同一座山门前，<strong>2019年5月29日</strong> &mdash; 距蜜月合影37年后。彩色照片，左侧依稀可见同样的寺院牌匾。"
+    nowCaption: "Ling and Xun at the same gate, <strong>29 May 2019</strong> &mdash; 37 years after the honeymoon frame. Color photograph; the same temple signage just visible at left.<br /><br /><strong>中文：</strong>周凌与李恂于同一座山门前，<strong>2019年5月29日</strong> &mdash; 距蜜月合影37年后。彩色照片，左侧依稀可见同样的寺院牌匾。"
     nowPhotographer: charles-eric-eesley
     echoYear: "2019"
     echoImage: ../../assets/family/originals/IMG_1807.jpeg
@@ -46,7 +46,7 @@ It is the Zhou-side equivalent of the Wildermuth pilgrimages to the [Rielingshau
 
 **灵隐寺**位于杭州西部群山之间，始建于东晋咸和元年（公元328年），是中国最古老、规模最大的禅宗寺院之一，至今仍是杭州西湖文化景观的重要组成部分。
 
-在本档案中，灵隐寺承载的是上面那组**三帧跨代**对照：同一座山门，前后37年间的三张照片。第一帧为**1982年蜜月**&mdash;周丽婕的父母[周玲](/family/ling-zhou/)和[李恂](/family/xun-li/)，**1982年9月18日在[青岛](/places/qingdao/)结婚后即赴杭州度蜜月**，在灵隐寺山门前留下的一帧黑白合影。第二帧为同一对夫妻在**2019年5月29日**重访同一山门前的彩色合影。第三帧摄于同次2019年探访，**[Chuck](/family/charles-eric-eesley/)与Lijie以同样姿态站在同一山门前**&mdash;女儿与女婿，以下一代之姿，重摄上一代蜜月时的合影。
+在本档案中，灵隐寺承载的是上面那组**三帧跨代**对照：同一座山门，前后37年间的三张照片。第一帧为**1982年蜜月**&mdash;周丽婕的父母[周凌](/family/ling-zhou/)和[李恂](/family/xun-li/)，**1982年9月18日在[青岛](/places/qingdao/)结婚后即赴杭州度蜜月**，在灵隐寺山门前留下的一帧黑白合影。第二帧为同一对夫妻在**2019年5月29日**重访同一山门前的彩色合影。第三帧摄于同次2019年探访，**[Chuck](/family/charles-eric-eesley/)与Lijie以同样姿态站在同一山门前**&mdash;女儿与女婿，以下一代之姿，重摄上一代蜜月时的合影。
 
 这是周氏一脉在本档案中的第一组"同地同人，跨代重摄"&mdash;与维尔德穆特家族在德国[Rielingshausen教堂](/places/rielingshausen-church/)和[Marbach维尔德穆特街牌](/places/marbach-wildermuthstrasse/)的朝圣摄影形成跨大陆的呼应，且更进一层：第三帧由下一代亲手在同一次旅行中所摄。
 

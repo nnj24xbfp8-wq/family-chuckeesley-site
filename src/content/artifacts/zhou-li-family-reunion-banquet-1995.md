@@ -24,6 +24,6 @@ A large family-reunion banquet dated **26 August 1995**, from [Lijie](/family/li
 
 **家族团圆宴 &mdash; 1995年8月26日**
 
-一张日期标注为**1995年8月26日**的大型家族团圆宴照片，出自[Lijie](/family/lijie-zhou/)母系 &mdash; 约十位家人、三代同堂，围坐于餐厅圆桌。**初步推测（待[李恂](/family/xun-li/)确认）：** 一场母系**李—尚**家族的团圆／生日聚会（桌上有蛋糕）——右侧坐着的年长女性很可能是**[尚耀真](/family/yaozhen-shang/)**，与其子女各家（李恂与周玲、李勃与丁德昌、李孟令与滕安琴）及孙辈同聚（1995年Lijie约12岁）。具体座次待确认。
+一张日期标注为**1995年8月26日**的大型家族团圆宴照片，出自[Lijie](/family/lijie-zhou/)母系 &mdash; 约十位家人、三代同堂，围坐于餐厅圆桌。**初步推测（待[李恂](/family/xun-li/)确认）：** 一场母系**李—尚**家族的团圆／生日聚会（桌上有蛋糕）——右侧坐着的年长女性很可能是**[尚耀真](/family/yaozhen-shang/)**，与其子女各家（李恂与周凌、李勃与丁德昌、李孟令与滕安琴）及孙辈同聚（1995年Lijie约12岁）。具体座次待确认。
 
 > *Source / 来源：Zhou–Li family photographs; identities pending confirmation.*

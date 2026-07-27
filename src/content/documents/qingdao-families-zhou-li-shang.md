@@ -84,7 +84,7 @@ The surnames — Zhou, Li, Shang, Qiu, Pang, Tan, Leng — are firm. Many of the
 
 本档案的伊斯利（Eesley）与维尔德穆斯（Wildermuth）两系，可上溯至加拿大安大略、美国俄亥俄，以及德国符腾堡的乡村。**周丽婕这一系则扎根于中国的一个省——山东**，且集中在黄海之滨相邻的三处：沿海城市**[青岛](/places/qingdao/)**、稍内陆的老城**胶州**，以及更北面的**平度**。本页记录三个家族，恰好归为一条父系与两条母系，而两条母系后来又结成一处。
 
-- **周氏**是[周丽婕](/family/lijie-zhou/)的**父系**——即其父[周玲](/family/ling-zhou/)的家族，祖籍**胶州**。
+- **周氏**是[周丽婕](/family/lijie-zhou/)的**父系**——即其父[周凌](/family/ling-zhou/)的家族，祖籍**胶州**。
 - **李氏**与**尚氏**是其**母系**——即其母[李恂](/family/xun-li/)父母双方的家族，皆在**青岛**——两家在同一代结成两重姻亲。
 
 以下仅依家谱所载，以及2026年6月由Lijie之母确认的人名汉字，勾勒各家骨架。
@@ -93,7 +93,7 @@ The surnames — Zhou, Li, Shang, Qiu, Pang, Tan, Leng — are firm. Many of the
 
 目前所记周氏最深的祖辈是[周慧亭](/family/huiting-zhou/)及其妻[冷氏](/family/leng-zhou/)（"冷"为汉族较稀有的姓氏）。其子[周茂礼](/family/maoli-zhou/)是这一支的地理之根：**1935年卒于胶州**，早于新中国成立十二年，亦即其子女出生的同一城域。其妻[庞焕彩](/family/huancai-pang/)**1908年生于胶州，1992年卒于青岛**——比茂礼晚故五十七年，几乎以一人之力撑起这个家历经整个世纪。
 
-三名子女——[周兆祥](/family/zhaoxiang-zhou/)（1930–2022）、[周兆帧](/family/zhaozheng-zhou/)（1938年生）、[周秀珍](/family/xiuzhen-zhou/)——均生于胶州一带，名中同带**"兆"字辈**，是中国世系命名中同辈的标记。长子**兆祥**即周丽婕之祖父；其子[周玲](/family/ling-zhou/)为周丽婕之父。（关于兆祥与早年青岛照相馆一事，见[家族线索](/docs/family-threads/)中的更正：照相馆系由其堂兄弟合营，而非其所创办——周氏一侧"创业先驱"这一条目暂且存疑，待家族补全。）
+三名子女——[周兆祥](/family/zhaoxiang-zhou/)（1930–2022）、[周兆帧](/family/zhaozheng-zhou/)（1938年生）、[周秀珍](/family/xiuzhen-zhou/)——均生于胶州一带，名中同带**"兆"字辈**，是中国世系命名中同辈的标记。长子**兆祥**即周丽婕之祖父；其子[周凌](/family/ling-zhou/)为周丽婕之父。（关于兆祥与早年青岛照相馆一事，见[家族线索](/docs/family-threads/)中的更正：照相馆系由其堂兄弟合营，而非其所创办——周氏一侧"创业先驱"这一条目暂且存疑，待家族补全。）
 
 ## 李氏（母系）——在青岛
 
@@ -111,7 +111,7 @@ The surnames — Zhou, Li, Shang, Qiu, Pang, Tan, Leng — are firm. Many of the
 
 作为一条完整的下传世系，本档案现已在两侧各上溯三至四代：
 
-- **父系（周）：** 慧亭＋冷氏 →[茂礼](/family/maoli-zhou/)＋[焕彩](/family/huancai-pang/) →[兆祥](/family/zhaoxiang-zhou/) →[周玲](/family/ling-zhou/) →**[周丽婕](/family/lijie-zhou/)**。
+- **父系（周）：** 慧亭＋冷氏 →[茂礼](/family/maoli-zhou/)＋[焕彩](/family/huancai-pang/) →[兆祥](/family/zhaoxiang-zhou/) →[周凌](/family/ling-zhou/) →**[周丽婕](/family/lijie-zhou/)**。
 - **母系（李＋尚）：** [丰庭](/family/fengting-li/)＋[蓉镜](/family/rongjing-qiu/) →[仲初](/family/zhongchu-li/)，娶[耀真](/family/yaozhen-shang/)（[德臣](/family/dechen-shang/)＋[春娥](/family/chune-tan/)之女）→[李恂](/family/xun-li/) →**[周丽婕](/family/lijie-zhou/)**。
 
 ## 已确认与待补者
