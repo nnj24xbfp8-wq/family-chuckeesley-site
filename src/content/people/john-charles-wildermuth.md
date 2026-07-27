@@ -11,9 +11,7 @@ generation: 3
 parents:
   - johann-michael-wildermuth
   - catharina-boeshar-wildermuth
-spouses:
-  - maria-margaretha-schmigdall-wildermuth
-summary: "Eldest of Johann Michael Wildermuth (1830 Großaspach → 1903 Marietta) and Catharina Boeshar's three documented sons. Born September 1865 in Ohio. Brother of William Clifford Wildermuth (Robert Earl's actual paternal grandfather). Married Maria Margaretha Schmigdall. The 'grandfather John' Robert Earl named in his 1990 Heritage is most plausibly a memoir-recall confusion between John Charles (his great-uncle, William Clifford's older brother) and William Clifford (his actual grandfather). Death date not yet documented in this archive. Chuck's great-great-uncle on the maternal Wildermuth side."
+summary: "Eldest of Johann Michael Wildermuth (1830 Großaspach → 1903 Marietta) and Catharina Boeshar's three documented sons. Born September 1865 in Ohio. Brother of William Clifford Wildermuth (Robert Earl's actual paternal grandfather). His wife is not documented in the family tree — an earlier version of this archive wrongly listed him as married to Maria Margaretha Schmigdall, who was in fact his great-grandmother (Johann Michael's mother), not his wife. The 'grandfather John' Robert Earl named in his 1990 Heritage is most plausibly a memoir-recall confusion between John Charles (his great-uncle, William Clifford's older brother) and William Clifford (his actual grandfather). Death date not yet documented in this archive. Chuck's great-great-uncle on the maternal Wildermuth side."
 ---
 
 He was the **eldest** of Johann Michael Wildermuth and [Catharina Boeshar](/family/catharina-boeshar-wildermuth/)'s three documented sons — the others being his younger brothers **[William Clifford](/family/william-wildermuth/)** (b. 17 September 1866, Robert Earl Wildermuth's paternal grandfather) and **[Edward Frederick](/family/edward-frederick-wildermuth/)** (b. 17 February 1873, who lived to 1964 in Marietta). He was **born September 1865 in Ohio**.

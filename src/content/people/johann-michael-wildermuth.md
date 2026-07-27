@@ -9,6 +9,9 @@ death:
   date: "1903-02-07"
   place: "Marietta, Washington County, Ohio (buried Oak Grove Cemetery)"
 generation: 2
+parents:
+  - johann-christian-wildermuth
+  - maria-margaretha-schmidgall
 spouses:
   - catharina-boeshar-wildermuth
 summary: "The Wildermuth who left Württemberg. Born 23 August 1830 in Großaspach, Backnang, Württemberg; sailed at sixteen, arriving at the Port of New York in 1847 (per his own 1853 Philadelphia naturalization sworn statement). Worked at the shoe trade in Marietta, Ohio with William Rossar of Baden. Naturalized as an American citizen on 1 November 1853 at the Philadelphia Court of Quarter Sessions before the Hon. Oswald Thompson, witnessed by Michael Dreher — renouncing allegiance to 'the Grand Duke of Wirtemberg of whom he was at that time a Subject.' Married Catharina Boeshar of Breitenbach, Bavaria around 1862 in Washington County, Ohio. Three documented sons: John Charles (1865), William Clifford (1866), Edward Frederick (1873). Died 7 February 1903 in Marietta and was buried at Oak Grove Cemetery. Chuck's great-great-great-grandfather on the maternal Wildermuth line."
@@ -17,6 +20,8 @@ summary: "The Wildermuth who left Württemberg. Born 23 August 1830 in Großaspa
 He was the **Wildermuth who left.**
 
 He was born **23 August 1830** in **[Großaspach (Grossaspach)](/places/grossaspach/)**, in the **Backnang** district of **Württemberg, Germany** — one of the small Neckar-valley wine villages, ten kilometers from [Rielingshausen](/places/rielingshausen-church/) where his great-great-great-grandfather [Andreus the *Gartner*](/family/andreus-wildermuth/) had tended the vineyards eighty years earlier. The Wildermuths had been in this part of Württemberg by the time he was born for **at least six documented generations** running back to **[Johannes Wildermuth](/family/johannes-wildermuth-1650/)** in 1650.
+
+His parents were **[Johann Christian Wildermuth](/family/johann-christian-wildermuth/)** (b. 1794, Großaspach) and **[Maria Margaretha (Schmidgall) Wildermuth](/family/maria-margaretha-schmidgall/)** (b. 1789) — and through his mother the line also reaches back into the **Schmidgall and Landai** families of the Aspach villages. The documented descent to him runs, unbroken, from **[Johannes Wildermuth (1682)](/family/johannes-wildermuth-1682/)** → [Johann Adam (1720)](/family/johann-adam-wildermuth-1720/) → [Andreas Adam (1745)](/family/andreus-wildermuth/) → [Adam (1768)](/family/adam-wildermuth/) → [Johann Christian (1794)](/family/johann-christian-wildermuth/) → Johann Michael — the six generations this page's "at least six documented generations" refers to.
 
 He sailed in **1847**, age **sixteen** — per his own sworn statement six years later in Philadelphia.
 
