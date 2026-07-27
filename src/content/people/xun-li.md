@@ -24,6 +24,8 @@ summary: "Lijie's mother. Daughter of Zhongchu Li (c. 1920–1982) and Yaozhen S
 
 本档案中收有李恂晚年与公公周兆祥及丈夫周凌的[合影](/archive/visit-with-zhaoxiang-zhou-and-family/)：李恂身穿驼色大衣，居周兆祥左侧。
 
+本档案另收有李恂[与母亲尚耀真、襁褓中的女儿Lijie在青岛的幼年家庭照](/archive/lijie-grandparents-early-childhood-qingdao-c1980s/)（约1984年；另一帧为李恂给幼女Lijie喂食）。
+
 兄弟姊妹：[李孟令](/family/mengling-li/)、[李勃](/family/bo-li/)。
 
 ## 回忆我的父亲（2026年7月）
@@ -91,6 +93,8 @@ In July 2026, Li Xun also wrote a remembrance of her mother [Yaozhen Shang](/fam
   ![Three Chinese children, 1960s studio portrait — Chuck believes Xun Li is the girl on the right; the boy and the other girl are not yet confirmed.](../../assets/family/originals/IMG_1485.jpeg)
 
 - The **honeymoon portrait of Xun and Ling at Hangzhou's Lingyin Temple in 1982**, just after their wedding &mdash; paired with their return visit decades later on the new [Lingyin Temple, Hangzhou](/places/lingyin-temple-hangzhou/) place page.
+
+- The **c. 1984 maternal early-childhood photographs** &mdash; [Xun Li with her mother Yaozhen Shang and infant Lijie in Qingdao](/archive/lijie-grandparents-early-childhood-qingdao-c1980s/) (and, in a second frame, feeding baby Lijie).
 
 > *Structured record: [Dale Eesley & Chuck Eesley / FamilySearch &mdash; Xun Li (GMLK-HBZ)](https://www.familysearch.org/tree/person/details/GMLK-HBZ).*
 
