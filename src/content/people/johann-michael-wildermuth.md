@@ -60,13 +60,15 @@ They raised **three documented sons** in Marietta:
 
 He died in **Marietta on 7 February 1903** at age **72**, and was buried at **Oak Grove Cemetery, Marietta**. His widow Catharina lived another **thirty years** before being buried near him in 1933. The Oak Grove Cemetery in Marietta is where the early Wildermuth generation of the family is buried.
 
-## The 1896 photograph — if the identification is right
+## Is there a picture of him?
 
-The **older mustachioed man at the back-left of the [c. 1896 William Clifford Wildermuth family group portrait](/archive/william-wildermuth-family-group-portrait/)** is plausibly **Johann Michael himself**, age 66, alongside his wife Catharina (front-row seated, age 56) and their son William Clifford with Flora and the three grandchildren. If that identification is right, the photograph is the **only known visual record of the 1847 emigrant** Robert Earl spent his retirement researching. Robert Earl had written:
+For a time this archive floated the possibility that the **older mustachioed man at the back-left of the [c. 1896 William Clifford Wildermuth family group portrait](/archive/william-wildermuth-family-group-portrait/)** might be Johann Michael himself, age 66. **That identification has been withdrawn.** The typed caption card that accompanies the photograph — and Chuck's 2026 reading of it — identify that man as his **son [William Clifford Wildermuth](/family/william-wildermuth/)**, and Johann Michael is **not believed to be in the picture at all**. (His wife [Catharina Boeshar](/family/catharina-boeshar-wildermuth/) very likely *is* — the grandmother holding the youngest child at the back — but he is not.)
+
+So the archive still holds **no confirmed image of Johann Michael Wildermuth**. Robert Earl's lament from his 1989 research stands unanswered:
 
 > *"Someday, time permitting, perhaps I can check through the ship arrivals in New York City to find the ship and its port of debarkation in Germany. Sometimes ship's passenger lists give a physical description of the passenger. That would be interesting for I have no picture of Johann."*
 
-The picture may have been in the family archive all along, just not labeled as such. The 1853 naturalization petition and the c. 1896 family portrait together close two of Robert Earl's longest-running research questions.
+What is settled is the documentary record, not the visual one: the [1853 Philadelphia naturalization petition](/docs/johann-michael-wildermuth-naturalization-1853/) fixes his emigration in his own sworn words — but his face is still unrecorded.
 
 ## See also — family threads
 
