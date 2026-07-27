@@ -25,6 +25,8 @@ summary: "Lijie's maternal grandmother. Born in Qingdao in a Year of the Ox — 
 
 她是周丽婕这一脉中唯一活着见到外孙女长大成人的祖辈。2013年1月辞世，距离Lijie与Chuck于2015年结婚尚差两年 &mdash; **她未及与Chuck谋面**。
 
+档案中她最早的照片来自[Lijie幼年（青岛，约1984年）](/archive/lijie-grandparents-early-childhood-qingdao-c1980s/) &mdash; 外祖母与襁褓中的外孙女；其后是约1986&ndash;87年[她与幼时Lijie及Lijie祖母孙运哲同桌的合影](/archive/lijie-with-two-grandmothers-c1986/)。
+
 ### 我的妈妈 &mdash; 女儿手记（2026年7月）
 
 2026年7月，女儿[李恂](/family/xun-li/)（周丽婕之母）写下对母亲的回忆。因全文以追忆她为主，此处照录全篇（[其本人页面](/family/xun-li/)亦载此文）：
@@ -53,7 +55,7 @@ Shang Yaozhen was born in Qingdao in a **Year of the Ox — most likely 1925** (
 
 She is the one grandparent on Lijie's side who lived to see her granddaughter into adulthood. She died in January 2013, two years before Lijie married Chuck in 2015; **Chuck never met her**.
 
-The earliest photograph of her in this archive is the c. 1986–87 family-table portrait of [her with Lijie as a small child, alongside Lijie's paternal grandmother Yunzhe Sun](/archive/lijie-with-two-grandmothers-c1986/) &mdash; the kind of three-generation New Year photograph that Chinese families take and keep.
+The earliest photographs of her in this archive are from [Lijie's infancy in Qingdao, c. 1984](/archive/lijie-grandparents-early-childhood-qingdao-c1980s/) &mdash; Yaozhen with her infant granddaughter &mdash; followed by the c. 1986–87 family-table portrait of [her with Lijie as a small child, alongside Lijie's paternal grandmother Yunzhe Sun](/archive/lijie-with-two-grandmothers-c1986/), the kind of three-generation New Year photograph that Chinese families take and keep.
 
 ## My Mother &mdash; her daughter's note (July 2026)
 
