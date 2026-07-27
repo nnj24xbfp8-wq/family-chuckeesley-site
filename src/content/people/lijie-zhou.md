@@ -30,8 +30,8 @@ summary: "Wife of Chuck Eesley. Born in Qingdao, Shandong, China. Came to the Un
   - [周兆祥](/family/zhaoxiang-zhou/)（1930年8月1日生于胶州市 &mdash; 周氏远祖之地 &mdash; 2022年12月9日卒于青岛）。
   - [孙云哲](/family/yunzhe-sun/)（2023年12月卒于青岛）。
 - **母亲：[李恂](/family/xun-li/)**。母之父母：
-  - [李仲初](/family/zhongchu-li/)（1921年9月15日 &ndash; 1982年11月1日，青岛）。女儿李恂与周玲成婚后六周辞世；未及与外孙女周丽婕相见。
-  - [尚耀真](/family/yaozhen-shang/)（1921年9月11日 &ndash; 2013年1月10日）。守寡三十年，亲眼见证外孙女周丽婕长大成人。
+  - [李仲初](/family/zhongchu-li/)（约1920年 &ndash; 1982年11月1日，青岛）。女儿李恂与周玲成婚后六周辞世；未及与外孙女周丽婕相见。
+  - [尚耀真](/family/yaozhen-shang/)（约1925年 &ndash; 2013年1月10日）。守寡三十年，亲眼见证外孙女周丽婕长大成人。
 
 周玲和李恂于**1982年在[青岛](/places/qingdao/)成婚**。周丽婕次年出生。这一支周氏现代青岛生活背后的远祖之地是[**胶州市**](/places/qingdao/) &mdash; 周兆祥家族的起源地。
 
@@ -62,8 +62,8 @@ The Zhou side of this archive now opens. From the updated GEDCOM:
   - [Zhou Zhaoxiang 周兆祥](/family/zhaoxiang-zhou/) (1 August 1930, **Jiaozhou Shi** &mdash; the ancestral inland city-region &mdash; to 9 December 2022, Qingdao).
   - [Sun Yunzhe 孙云哲](/family/yunzhe-sun/) (d. December 2023, Qingdao).
 - **Mother: [Li Xun 李恂](/family/xun-li/)**. Her parents:
-  - [Li Zhongchu 李仲初](/family/zhongchu-li/) (15 September 1921 &ndash; 1 November 1982, Qingdao). Died six weeks after his daughter's marriage; never met Lijie.
-  - [Shang Yaozhen 尚耀真](/family/yaozhen-shang/) (11 September 1921 &ndash; 10 January 2013). Outlived her husband by thirty years; the one grandparent on Lijie's side who lived to know her grown.
+  - [Li Zhongchu 李仲初](/family/zhongchu-li/) (c. 1920 &ndash; 1 November 1982, Qingdao). Died six weeks after his daughter's marriage; never met Lijie.
+  - [Shang Yaozhen 尚耀真](/family/yaozhen-shang/) (c. 1925 &ndash; 10 January 2013). Outlived her husband by thirty years; the one grandparent on Lijie's side who lived to know her grown.
 
 Ling and Xun married in **1982 in [Qingdao](/places/qingdao/)**. Lijie was born just over a year later. The ancestral place behind the modern Qingdao life is [**Jiaozhou Shi**](/places/qingdao/) &mdash; the inland city-region from which Zhou Zhaoxiang's family came.
 

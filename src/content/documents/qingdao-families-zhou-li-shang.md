@@ -53,15 +53,15 @@ Their three children — [Zhaoxiang 周兆祥](/family/zhaoxiang-zhou/) (1930–
 
 ## The Li line (maternal) — in Qingdao
 
-[Li Fengting 李丰庭](/family/fengting-li/) and his wife [Qiu Rongjing 邱蓉镜](/family/rongjing-qiu/) are Lijie's maternal great-grandparents. The tree records Fengting as **dying in Qingdao**; Rongjing was **born in Pingdu** — the county-city north of Qingdao — and **died about 1974 in Qingdao**. Their four children were [Zhongchu 李仲初](/family/zhongchu-li/) (1921–1982), [Yunhua 李蕴华](/family/yunhua-li/) (b. 1911), [Chengwu 李城武](/family/chengwu-li/), and [Yunying 李蕴英](/family/yunying-li/); the two daughters share the character **蕴 (Yun)**. **Zhongchu** — Lijie's grandfather — married into the Shang family, and his daughter [Xun Li 李恂](/family/xun-li/) (b. 1956) is Lijie's mother.
+[Li Fengting 李丰庭](/family/fengting-li/) and his wife [Qiu Rongjing 邱蓉镜](/family/rongjing-qiu/) are Lijie's maternal great-grandparents. The tree records Fengting as **dying in Qingdao**; Rongjing was **born in Pingdu** — the county-city north of Qingdao — and **died about 1974 in Qingdao**. Their four children were [Zhongchu 李仲初](/family/zhongchu-li/) (c. 1920–1982), [Yunhua 李蕴华](/family/yunhua-li/) (b. 1911), [Chengwu 李城武](/family/chengwu-li/), and [Yunying 李蕴英](/family/yunying-li/); the two daughters share the character **蕴 (Yun)**. **Zhongchu** — Lijie's grandfather — married into the Shang family, and his daughter [Xun Li 李恂](/family/xun-li/) (b. 1956) is Lijie's mother.
 
 ## The Shang line (maternal) — in Qingdao
 
-[Shang DeChen 尚德臣](/family/dechen-shang/) and his wife [Tan Chune 谭春娥](/family/chune-tan/) had four children who all carry the generation character **耀 (Yao)**: [Yaozhen 尚耀真](/family/yaozhen-shang/) (1921–2013), [Yaoxiang 尚耀香](/family/yaoxiang-shang/) (b. 1911 in Pingdu), [Yaofu 尚耀福](/family/yaofu-shang/) (1925–2014), and [Yaoli 尚耀礼](/family/yaoli-shang/). The eldest, **Yaozhen**, is Lijie's grandmother — and the one grandparent on Lijie's side who lived long enough to watch Lijie grow into adulthood. She had studied at a **mission school**: literate and without bound feet, an educated and open-minded woman at a time when most homemakers her age were neither. Her daughter [Xun Li](/family/xun-li/)'s [remembrance of her](/family/yaozhen-shang/), written in July 2026, is the fullest personal portrait in this branch of the archive.
+[Shang DeChen 尚德臣](/family/dechen-shang/) and his wife [Tan Chune 谭春娥](/family/chune-tan/) had four children who all carry the generation character **耀 (Yao)**: [Yaozhen 尚耀真](/family/yaozhen-shang/) (c. 1925–2013), [Yaoxiang 尚耀香](/family/yaoxiang-shang/) (b. 1911 in Pingdu), [Yaofu 尚耀福](/family/yaofu-shang/) (1925–2014), and [Yaoli 尚耀礼](/family/yaoli-shang/). The eldest, **Yaozhen**, is Lijie's grandmother — and the one grandparent on Lijie's side who lived long enough to watch Lijie grow into adulthood. She had studied at a **mission school**: literate and without bound feet, an educated and open-minded woman at a time when most homemakers her age were neither. Her daughter [Xun Li](/family/xun-li/)'s [remembrance of her](/family/yaozhen-shang/), written in July 2026, is the fullest personal portrait in this branch of the archive.
 
 ## The knot: the Li–Shang double marriage
 
-The two maternal families did not simply stand side by side — they were **joined twice in the same generation**. Lijie's grandfather [Zhongchu Li](/family/zhongchu-li/) married [Yaozhen Shang](/family/yaozhen-shang/); and Zhongchu's sister [Yunhua Li](/family/yunhua-li/) married Yaozhen's brother [Yaofu Shang](/family/yaofu-shang/). **Two Li siblings married two Shang siblings.** So the couple at the head of Lijie's maternal line (Zhongchu + Yaozhen) and the great-aunt-and-uncle beside them (Yunhua + Yaofu) are both Li–Shang pairings — the kind of double tie that binds two families into what is, functionally, one extended household. Born three days apart in the same city in 1921, Zhongchu and Yaozhen are the center of that knot.
+The two maternal families did not simply stand side by side — they were **joined twice in the same generation**. Lijie's grandfather [Zhongchu Li](/family/zhongchu-li/) married [Yaozhen Shang](/family/yaozhen-shang/); and Zhongchu's sister [Yunhua Li](/family/yunhua-li/) married Yaozhen's brother [Yaofu Shang](/family/yaofu-shang/). **Two Li siblings married two Shang siblings.** So the couple at the head of Lijie's maternal line (Zhongchu + Yaozhen) and the great-aunt-and-uncle beside them (Yunhua + Yaofu) are both Li–Shang pairings — the kind of double tie that binds two families into what is, functionally, one extended household. Born in the same city a few years apart — Zhongchu in a Year of the Monkey (likely 1920), Yaozhen in a Year of the Ox (likely 1925; both years to be confirmed) — Zhongchu and Yaozhen are the center of that knot.
 
 ## The full line down to Lijie
 
@@ -97,15 +97,15 @@ The surnames — Zhou, Li, Shang, Qiu, Pang, Tan, Leng — are firm. Many of the
 
 ## 李氏（母系）——在青岛
 
-[李丰庭](/family/fengting-li/)及其妻[邱蓉镜](/family/rongjing-qiu/)是周丽婕的外曾祖父母。家谱记丰庭**卒于青岛**；蓉镜**生于平度**（青岛以北的县级市），**约1974年卒于青岛**。四名子女为[李仲初](/family/zhongchu-li/)（1921–1982）、[李蕴华](/family/yunhua-li/)（1911年生）、[李城武](/family/chengwu-li/)、[李蕴英](/family/yunying-li/)；两女同带**"蕴"字**。**仲初**即周丽婕之外祖父，与尚家结亲，其女[李恂](/family/xun-li/)（1956年生）为周丽婕之母。
+[李丰庭](/family/fengting-li/)及其妻[邱蓉镜](/family/rongjing-qiu/)是周丽婕的外曾祖父母。家谱记丰庭**卒于青岛**；蓉镜**生于平度**（青岛以北的县级市），**约1974年卒于青岛**。四名子女为[李仲初](/family/zhongchu-li/)（c. 1920–1982）、[李蕴华](/family/yunhua-li/)（1911年生）、[李城武](/family/chengwu-li/)、[李蕴英](/family/yunying-li/)；两女同带**"蕴"字**。**仲初**即周丽婕之外祖父，与尚家结亲，其女[李恂](/family/xun-li/)（1956年生）为周丽婕之母。
 
 ## 尚氏（母系）——在青岛
 
-[尚德臣](/family/dechen-shang/)及其妻[谭春娥](/family/chune-tan/)育有四名子女，名中同带**"耀"字辈**：[尚耀真](/family/yaozhen-shang/)（1921–2013）、[尚耀香](/family/yaoxiang-shang/)（1911年生于平度）、[尚耀福](/family/yaofu-shang/)（1925–2014）、[尚耀礼](/family/yaoli-shang/)。长女**耀真**即周丽婕之外祖母，也是周丽婕这一系中唯一活着见到外孙女长大成人的祖辈。她曾就读于**教会学校**：识字、未缠足，在那个同龄主妇多不识字、多缠足的年代，是难得的有文化、思想开放的女性。其女[李恂](/family/xun-li/)于2026年7月写下的[追忆](/family/yaozhen-shang/)，是本支档案中最完整的一篇人物写照。
+[尚德臣](/family/dechen-shang/)及其妻[谭春娥](/family/chune-tan/)育有四名子女，名中同带**"耀"字辈**：[尚耀真](/family/yaozhen-shang/)（c. 1925–2013）、[尚耀香](/family/yaoxiang-shang/)（1911年生于平度）、[尚耀福](/family/yaofu-shang/)（1925–2014）、[尚耀礼](/family/yaoli-shang/)。长女**耀真**即周丽婕之外祖母，也是周丽婕这一系中唯一活着见到外孙女长大成人的祖辈。她曾就读于**教会学校**：识字、未缠足，在那个同龄主妇多不识字、多缠足的年代，是难得的有文化、思想开放的女性。其女[李恂](/family/xun-li/)于2026年7月写下的[追忆](/family/yaozhen-shang/)，是本支档案中最完整的一篇人物写照。
 
 ## 结：李尚两家的双重通婚
 
-两条母系并非仅仅并立——它们在**同一代结成两重姻亲**。周丽婕之外祖父[李仲初](/family/zhongchu-li/)迎娶[尚耀真](/family/yaozhen-shang/)；而仲初之姐[李蕴华](/family/yunhua-li/)嫁与耀真之弟[尚耀福](/family/yaofu-shang/)。**李家两位手足分别与尚家两位手足成婚。** 于是，周丽婕母系之首的一对（仲初＋耀真）与其旁的姨外祖父母（蕴华＋耀福），皆为李尚配——正是这种双重联结，把两家实际结成一个大家庭。仲初与耀真1921年在同城相隔三日出生，正是这一结的中心。
+两条母系并非仅仅并立——它们在**同一代结成两重姻亲**。周丽婕之外祖父[李仲初](/family/zhongchu-li/)迎娶[尚耀真](/family/yaozhen-shang/)；而仲初之姐[李蕴华](/family/yunhua-li/)嫁与耀真之弟[尚耀福](/family/yaofu-shang/)。**李家两位手足分别与尚家两位手足成婚。** 于是，周丽婕母系之首的一对（仲初＋耀真）与其旁的姨外祖父母（蕴华＋耀福），皆为李尚配——正是这种双重联结，把两家实际结成一个大家庭。仲初属猴（约1920年生）、耀真属牛（约1925年生；生年均待确认），同城出生，正是这一结的中心。
 
 ## 直至周丽婕的完整世系
 

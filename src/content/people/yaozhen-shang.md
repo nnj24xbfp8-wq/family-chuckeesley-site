@@ -5,7 +5,7 @@ aka: "Yaozhen Shang"
 line: zhou
 generation: 5
 birth:
-  date: "1921-09-11"
+  date: "1925"
   place: "Qingdao, Shandong, China"
 death:
   date: "2013-01-10"
@@ -14,14 +14,14 @@ parents:
   - chune-tan
 spouses:
   - zhongchu-li
-summary: "Lijie's maternal grandmother. Born 11 September 1921 in Qingdao — the same year and the same city as her future husband Zhongchu Li. Outlived her husband by more than thirty years and lived to see her granddaughter Lijie grow up. Died 10 January 2013, age 91."
+summary: "Lijie's maternal grandmother. Born in Qingdao in a Year of the Ox — most likely 1925 (per Li Xun's July 2026 note; exact year to be confirmed, an earlier record wrongly gave 11 September 1921). Outlived her husband by more than thirty years and lived to see her granddaughter Lijie grow up. Died 10 January 2013."
 ---
 
 <p class="not-prose my-4 p-3 border-l-4 border-rule bg-ink/5 text-sm"><strong>📖 English version below — <a href="#en">Jump to English ↓</a></strong> &nbsp;·&nbsp; <em>本页中文在上，英文见下方。</em></p>
 
 <a id="zh"></a>
 
-**尚耀真**（姓氏确定；名字汉字为"耀真"（"真"非"珍"，2026年由Lijie之母李恂确认））&mdash; 周丽婕的外祖母。她曾在教会学校读书，识字、未缠足，是那个年代里少见的有文化、思想开放的女性。1921年9月11日生于青岛，比未来丈夫[李仲初](/family/zhongchu-li/)早三天出生于同一城市。育有三子女，包括[周丽婕的母亲李恂](/family/xun-li/)（1956年生）。1982年丈夫辞世后，**独自寡居三十年**，亲眼见证外孙女周丽婕从婴儿长大成人。**2013年1月10日辞世，享年91岁。**
+**尚耀真**（姓氏确定；名字汉字为"耀真"（"真"非"珍"，2026年由Lijie之母李恂确认））&mdash; 周丽婕的外祖母。她曾在教会学校读书，识字、未缠足，是那个年代里少见的有文化、思想开放的女性。属牛，约1925年生于青岛（据[李恂](/family/xun-li/)2026年7月手记；确切生年待确认，此前误记为1921年9月11日）。丈夫[李仲初](/family/zhongchu-li/)属猴，约1920年生，同为青岛人。育有三子女，包括[周丽婕的母亲李恂](/family/xun-li/)（1956年生）。1982年丈夫辞世后，**独自寡居三十年**，亲眼见证外孙女周丽婕从婴儿长大成人。**2013年1月10日辞世。**
 
 她是周丽婕这一脉中唯一活着见到外孙女长大成人的祖辈。2013年1月辞世，距离Lijie与Chuck于2015年结婚尚差两年 &mdash; **她未及与Chuck谋面**。
 
@@ -49,7 +49,7 @@ summary: "Lijie's maternal grandmother. Born 11 September 1921 in Qingdao — th
 
 ## English
 
-Shang Yaozhen was born in Qingdao on **11 September 1921**, three days before her future husband [Zhongchu Li](/family/zhongchu-li/). They had three children, including [Lijie's mother Xun Li](/family/xun-li/) (b. 1956). Unusually for a woman of her generation, she had studied at a **mission school** &mdash; literate and without bound feet, an educated and open-minded woman at a time when most homemakers her age were neither. Her husband died in 1982; she lived another **thirty years** as a widow, and watched her granddaughter Lijie grow from infancy through young adulthood. She died **10 January 2013**, age 91.
+Shang Yaozhen was born in Qingdao in a **Year of the Ox — most likely 1925** (per Li Xun's July 2026 note; the exact year is still to be confirmed, and an earlier record wrongly gave 11 September 1921). Her future husband [Zhongchu Li](/family/zhongchu-li/) was born in a Year of the Monkey, most likely 1920. They had three children, including [Lijie's mother Xun Li](/family/xun-li/) (b. 1956). Unusually for a woman of her generation, she had studied at a **mission school** &mdash; literate and without bound feet, an educated and open-minded woman at a time when most homemakers her age were neither. Her husband died in 1982; she lived another **thirty years** as a widow, and watched her granddaughter Lijie grow from infancy through young adulthood. She died **10 January 2013**.
 
 She is the one grandparent on Lijie's side who lived to see her granddaughter into adulthood. She died in January 2013, two years before Lijie married Chuck in 2015; **Chuck never met her**.
 
