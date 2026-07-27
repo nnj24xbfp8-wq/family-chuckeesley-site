@@ -30,6 +30,10 @@ Two captions on this photograph have reached this archive. The **first**, a hand
 
 > *The Eesleys Family &mdash; Standing left to right: Jennie, George, Charles, Bessie, John, Robert Albert ("Bert"). Seated left to right: Will, Jeanie Goldie Eesley (Mom), Garfield, Albert Robert Eesley (Dad), Alf (Albert Robert), Hanna ("Anna"). Photo taken circa 1900.*
 
+![A typed caption key for the 1899 portrait, listing the parents and all ten children by first name — Bessie, George, Charlie, Jennie, John (oldest), Bert, Will, Garfield, Alfred, Anna — with the note that "Bert was Robert Albert, father of George Edburn 'Bus' Eesley & Grandfather of Dick & Dan."](../../assets/family/originals/eesley-1899-portrait-caption-key.jpeg)
+
+*The typed identification key that accompanies the portrait &mdash; the first family caption named above, transcribed. It confirms the ten children and adds the descent note: "Bert was Robert Albert, father of George Edburn 'Bus' Eesley & Grandfather of Dick & Dan."*
+
 The two family captions are now reconciled against **Dale Eesley's FamilySearch tree (the GEDCOM)** in this archive. Three of the questions the captions left open are now closed.
 
 ## What the GEDCOM resolved
