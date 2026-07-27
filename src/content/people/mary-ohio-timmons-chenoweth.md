@@ -11,6 +11,7 @@ death:
 generation: 3
 parents:
   - john-k-timmons
+  - elizabeth-betsey-timmons
 spouses:
   - joseph-hill-chenoweth
 portrait: ../../assets/family/originals/mary-timmons-young.jpeg
