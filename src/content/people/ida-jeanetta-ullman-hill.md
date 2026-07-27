@@ -3,6 +3,9 @@ name: "Ida Jeanetta 'Nettie' (Ullman) Hill"
 portrait: ../../assets/family/originals/ida-jeanetta-ullman-hill-c1920-crop.jpeg
 aka: "Nettie; Ida J. Hill"
 line: maternal
+parents:
+  - frederick-ullmann
+  - elisabeth-bode-ullmann
 generation: 3
 birth:
   date: "1892-06"
