@@ -14,4 +14,4 @@ Abraham Boeshar is, so far, **a name without a record**. In the family tree he i
 
 He is **Chuck's five-times-great-grandfather** on the maternal Wildermuth side, through Christian → [Catharina Boeshar](/family/catharina-boeshar-wildermuth/) → [William Clifford Wildermuth](/family/william-wildermuth/) → Earl Adam → Robert Earl → Terrie → Chuck. Recovering his dates from the Breitenbach parish registers would be the way to give this name a life.
 
-> *Source: [Dale Eesley / FamilySearch — the Boeshar family record](https://www.familysearch.org/tree/person/details/KLPR-G45).*
+> *Source: [Dale Eesley / FamilySearch — Abraham Boeshar (GSK9-STF)](https://www.familysearch.org/tree/person/details/GSK9-STF).*

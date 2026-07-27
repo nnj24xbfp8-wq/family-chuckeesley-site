@@ -24,4 +24,4 @@ His own parents in the tree are **Theobald Jung** and **Maria Elisabetha Becker*
 
 He is **Chuck's five-times-great-grandfather** on the maternal Wildermuth side, through Margaretha → Catharina → [William Clifford Wildermuth](/family/william-wildermuth/) → Earl Adam → Robert Earl → Terrie → Chuck. He is one of the deepest documented ancestors on the whole maternal line.
 
-> *Source: [Dale Eesley / FamilySearch — the Jung–Hoffmann family of Frohnhofen](https://www.familysearch.org/tree/person/details/KLPR-G45).*
+> *Source: [Dale Eesley / FamilySearch — Johannes Jung (K875-KQF)](https://www.familysearch.org/tree/person/details/K875-KQF).*

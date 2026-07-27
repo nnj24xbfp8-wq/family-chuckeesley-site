@@ -29,4 +29,4 @@ Her own parents in the tree are **Johannes Jung** and **Maria Catharina Hoffmann
 
 She is **Chuck's four-times-great-grandmother** on the maternal Wildermuth side, through Catharina → [William Clifford Wildermuth](/family/william-wildermuth/) → Earl Adam → Robert Earl → Terrie → Chuck.
 
-> *Source: [Dale Eesley / FamilySearch — the Boeshar family record](https://www.familysearch.org/tree/person/details/KLPR-G45); the German birth certificate reproduced in [Robert Earl Wildermuth's "Little Histories"](/docs/robert-earl-wildermuth-little-histories/).*
+> *Source: [Dale Eesley / FamilySearch — Maria Margaretha Jung (K8LS-YKW)](https://www.familysearch.org/tree/person/details/K8LS-YKW); the German birth certificate reproduced in [Robert Earl Wildermuth's "Little Histories"](/docs/robert-earl-wildermuth-little-histories/).*
