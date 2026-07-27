@@ -22,4 +22,4 @@ Her own parents in the tree are **Jakob Hoffman** and **Maria Elisabetha Böhnle
 
 She is **Chuck's five-times-great-grandmother** on the maternal Wildermuth side, through Margaretha → Catharina → [William Clifford Wildermuth](/family/william-wildermuth/) → Earl Adam → Robert Earl → Terrie → Chuck.
 
-> *Source: [Dale Eesley / FamilySearch — the Jung–Hoffmann family of Frohnhofen](https://www.familysearch.org/tree/person/details/KLPR-G45).*
+> *Source: [Dale Eesley / FamilySearch — Maria Catharina Hoffmann (KHLJ-LC2)](https://www.familysearch.org/tree/person/details/KHLJ-LC2).*

@@ -14,4 +14,4 @@ Maria Lehman is, so far, **a name without a record**. In the family tree she is 
 
 She is **Chuck's five-times-great-grandmother** on the maternal Wildermuth side, through Christian → [Catharina Boeshar](/family/catharina-boeshar-wildermuth/) → [William Clifford Wildermuth](/family/william-wildermuth/) → Earl Adam → Robert Earl → Terrie → Chuck. Her dates, like her husband's, wait in the Breitenbach parish registers.
 
-> *Source: [Dale Eesley / FamilySearch — the Boeshar family record](https://www.familysearch.org/tree/person/details/KLPR-G45).*
+> *Source: [Dale Eesley / FamilySearch — Maria Lehman (GSKM-J64)](https://www.familysearch.org/tree/person/details/GSKM-J64).*

@@ -31,6 +31,10 @@ summary: "Lijie's maternal grandmother. Born in Qingdao in a Year of the Ox — 
 
 2026年7月，女儿[李恂](/family/xun-li/)（周丽婕之母）写下对母亲的回忆。因全文以追忆她为主，此处照录全篇（[其本人页面](/family/xun-li/)亦载此文）：
 
+![李恂2026年7月手写的追忆母亲尚耀真的原稿，开篇为"雁过留声，人过留名"。](../../assets/family/originals/xun-li-remembrance-manuscript-2026.jpeg)
+
+*李恂手写原稿（2026年7月）&mdash; The remembrance in Li Xun's own hand.*
+
 > 我的妈妈漂亮慈祥，特别爱干净。她是那个年代里有文化、思想开放的女性——因为像她那个年龄的女性、家庭妇女，不识字、缠足的多，而她是在教会学校得以学习的。
 >
 > "雁过留声，人过留名。"这是老妈妈经常说的话，也是她自律一生的要求。她不仅要求自己，也要求我们说话做事，不能只顾自己，也要为别人着想；宁亏自己，不占别人便宜。从她身上我看到信仰的力量——"爱人如己"，经书上所说的。

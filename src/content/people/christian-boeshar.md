@@ -34,4 +34,4 @@ His own parents in the tree are **Abraham Boeshar** and **Maria Lehman** of Brei
 
 He is **Chuck's four-times-great-grandfather** on the maternal Wildermuth side, through Catharina → [William Clifford Wildermuth](/family/william-wildermuth/) → Earl Adam → Robert Earl → Terrie → Chuck.
 
-> *Source: [Dale Eesley / FamilySearch — the Boeshar family record](https://www.familysearch.org/tree/person/details/KLPR-G45); the German birth certificate reproduced in [Robert Earl Wildermuth's "Little Histories"](/docs/robert-earl-wildermuth-little-histories/), which confirmed both his miner's trade and the name Margaretha Jung.*
+> *Source: [Dale Eesley / FamilySearch — Christian Boeshar (KCFH-43F)](https://www.familysearch.org/tree/person/details/KCFH-43F); the German birth certificate reproduced in [Robert Earl Wildermuth's "Little Histories"](/docs/robert-earl-wildermuth-little-histories/), which confirmed both his miner's trade and the name Margaretha Jung.*

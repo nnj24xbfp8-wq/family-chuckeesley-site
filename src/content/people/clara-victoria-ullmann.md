@@ -3,6 +3,9 @@ name: "Clara Victoria Ullmann"
 portrait: ../../assets/family/originals/hill-three-women-c1935.jpeg
 aka: "Clara V. Hill"
 line: maternal
+parents:
+  - frederick-ullmann
+  - elisabeth-bode-ullmann
 generation: 3
 birth:
   date: "1885-07-08"

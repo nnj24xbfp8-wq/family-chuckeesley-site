@@ -13,7 +13,11 @@ dateRange:
   end: "2005"
 sortDate: "2004-11-22"
 summary: "Three handwritten cards from Aunt Betty (Davis) Wolfe — and Uncle Norm — to Chuck during the years he moved from Marietta to Cambridge for MIT and into the early run of his graduate-school career. The cards are short, warm, and carry a domestic register the rest of the maternal-Wolfe layer of this archive cannot: Terrie's water-in-the-basement health scare, Norm's allergy and lung problems, Emily Schwartz Crouch's four-year program, the planned Florida trip in March 2005, the predicted grad-school admissions. Two are signed Norm & Betty / Betty & Norm; one mentions praying that Chuck likes living in Massachusetts. Together they show one corner of the family quietly holding Chuck while he was building the life that would carry the next generation forward."
-source: "Held in family archive — Aunt_Betty.jpg, Aunt_Betty2.jpg, Aunt_Betty3.jpg in src/assets/family/originals/."
+source: "Held in family archive — the three card scans, transmitted by Chuck Eesley June 2026."
+scans:
+  - ../../assets/family/originals/aunt-betty-card-congratulations-mass-c2003.jpeg
+  - ../../assets/family/originals/aunt-betty-card-birthday-2004.jpeg
+  - ../../assets/family/originals/aunt-betty-card-valentine-2005.jpeg
 ---
 
 ## What these cards are
@@ -80,4 +84,4 @@ The maternal-Wolfe layer of the archive has so far run mostly on documents that 
 
 Two of the three are signed jointly *Norm & Betty* or *Betty & Norm*. Norm's name on every card is the small documentation that the Wolfe household acted as one social unit toward Chuck throughout the years &mdash; the *"Aunt Betty and Uncle Norm"* of the [Terrie obituary](/family/terrie-lee-eesley/)'s *"close relatives by way of long entertainment of visiting family"* line, made specific.
 
-> *Sources: Aunt_Betty.jpg, Aunt_Betty2.jpg, Aunt_Betty3.jpg &mdash; held in the family archive, transmitted by Chuck Eesley to this archive June 2026.*
+> *Sources: the three card scans (congratulations c. 2003, birthday 2004, Valentine 2005) &mdash; held in the family archive, transmitted by Chuck Eesley to this archive June 2026.*

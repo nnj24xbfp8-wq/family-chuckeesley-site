@@ -10,6 +10,7 @@ death:
   place: "Großaspach, Backnang, Württemberg, Germany"
 parents:
   - adam-wildermuth
+  - catharina-dorothea-wolf
 spouses:
   - maria-margaretha-schmidgall
 status: sketch
