@@ -11,7 +11,6 @@ provenance: "Zhou–Li family photographs; identified by Chuck and Lijie, 2026."
 rights: "Family use; permission required for republication."
 people:
   - yaozhen-shang
-  - yaoxiang-shang
   - xun-li
   - lijie-zhou
 ---
@@ -22,9 +21,9 @@ Two color photographs from [Lijie](/family/lijie-zhou/)'s infancy in [Qingdao](/
 
 Above: Lijie's mother **[Li Xun](/family/xun-li/)** with her own mother, **[Shang Yaozhen](/family/yaozhen-shang/)** (Lijie's maternal grandmother, c. 1925&ndash;2013), and baby Lijie in a Qingdao park. Because Lijie's maternal grandfather [Li Zhongchu](/family/zhongchu-li/) had died in 1982 — the year before she was born — the widowed Shang Yaozhen is the grandparent who appears again and again through Lijie's childhood.
 
-![An older woman holding a baby, with a young girl beside her, Qingdao, c. 1974–75.](../../assets/family/originals/shang-yaozhen-grandchildren-qingdao-c1985.jpeg)
+![Baby Lijie held by an elder of the family, with a young cousin seated beside them, Qingdao, c. 1984.](../../assets/family/originals/shang-yaozhen-grandchildren-qingdao-c1985.jpeg)
 
-*Per [Li Xun](/family/xun-li/)'s July 2026 handwritten note, this photograph is earlier than previously catalogued — about **1974–75** — and the woman **holding the baby is [Shang Yaoxiang](/family/yaoxiang-shang/)** (Yaozhen's sister), **not** Shang Yaozhen. One of the two children was **born in 1972**. The children's identities are still being confirmed with Li Xun. (An earlier pass here tentatively read the girl as Lijie and the baby as her cousin Junjun; because the photo predates both of their births, that reading is now retracted.)*
+*[Lijie](/family/lijie-zhou/) as a baby, **c. 1984** — held by her maternal grandmother [Shang Yaozhen](/family/yaozhen-shang/), with a young cousin seated at left. (The seated child's identity is still being confirmed with the family.)*
 
 For the family-dinner frame with **both** of Lijie's grandmothers together, see [Lijie with both grandmothers, c. 1986–87](/archive/lijie-with-two-grandmothers-c1986/).
 
@@ -46,6 +45,6 @@ For the family-dinner frame with **both** of Lijie's grandmothers together, see 
 
 上图：Lijie的母亲**[李恂](/family/xun-li/)**与她自己的母亲**[尚耀真](/family/yaozhen-shang/)**（Lijie的外祖母，c. 1925&ndash;2013）及襁褓中的Lijie，摄于青岛某公园。因Lijie的外祖父[李仲初](/family/zhongchu-li/)已于1982年（她出生前一年）辞世，寡居的尚耀真便是贯穿Lijie童年、屡屡出现的祖辈。
 
-第二张：据[李恂](/family/xun-li/)2026年7月手记，此照较此前所记更早，约**1974–75年**；**怀抱婴孩的是[尚耀香](/family/yaoxiang-shang/)**（耀真之姐妹），**并非尚耀真**。两个孩子中有一人生于1972年，二人身份尚待李恂进一步确认。（此前曾暂将女孩认作Lijie、婴儿认作其表亲珺珺；因本照早于二人出生，此说已撤回。）
+第二张：襁褓中的[Lijie](/family/lijie-zhou/)，约**1984年** &mdash; 由外祖母[尚耀真](/family/yaozhen-shang/)怀抱，左侧坐着一位年幼的表亲。（坐着的小女孩身份尚待家人确认。）
 
 两位祖母同框的家宴照，另见[Lijie与两位祖母，约1986&ndash;87年](/archive/lijie-with-two-grandmothers-c1986/)。
