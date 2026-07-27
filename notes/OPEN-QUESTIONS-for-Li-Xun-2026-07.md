@@ -9,14 +9,14 @@
 - **Shang Guoji 尚国基** — deceased.
 - **Li Zhongchu 李仲初** — characters 仲初 (not 重初/忠初); born a **Year of the Monkey** → provisionally **1920**.
 - **Shang Yaozhen 尚耀真** — character 真 (not 珍); born a **Year of the Ox** → provisionally **1925** (see Q3).
-- **The indoor "woman holding a baby" photo** — confirmed as **baby Lijie, c. 1984**, held by **Yaoxiang 尚耀香** (not Yaozhen), per Li Xun's note.
+- **The indoor photo (a girl seated, a woman holding a baby)** — now read as **Lijie seated (b. 1983)** with her great-aunt **Yaoxiang 尚耀香** holding baby **Junjun / Ding Lijun (b. Feb 1987)**; dated ~1988. Holder is Yaoxiang, not Yaozhen, per Li Xun's note.
 
 ## Still open
 
 1. **Shang Yaoli 尚耀礼 (大舅) — birth year?** Still unknown.
 2. **Li Zhongchu — exact birth year.** We've set **1920** (Year of the Monkey); please confirm.
 3. **Shang Yaozhen — exact birth year, and the Shang siblings' order.** We've provisionally set **1925** (Year of the Ox), but that **collides with her brother Yaofu Shang 尚耀福 (recorded 1925–2014)** — they can't both be 1925. Her sister **Yaoxiang 尚耀香** is recorded as **1911**. An Ox year that fits between them is **1913**. Please confirm (a) Yaozhen's year, (b) Yaofu's year, and (c) the birth order (the archive calls Yaozhen the "eldest daughter," but Yaoxiang looks older).
-4. **The c. 1984 photo where Yaoxiang holds baby Lijie (a young girl seated beside them).** Who is the **young girl seated at left**? She's an older cousin (a preschooler here). Not Junjun (born 1987, after this photo). Chuck wonders if it's "Sabrina" — if so, her Chinese name / relationship?
+4. **The ~1988 photo (Lijie seated at left; Yaoxiang holding baby Junjun at right).** Please confirm the date (~1988) and that the baby is Junjun (Ding Lijun).
 5. **Zhou Ling 周玲 / 周凌 (Lijie's father, b. 1955).** The surname is 周 (same as Lijie). The note flagged the name as read wrong — please confirm the correct **given-name character: 凌 or 玲** (or another)?
 
 ## 中文（可直接转发给李恂）
@@ -26,7 +26,7 @@
 1. **大舅尚耀礼的出生年份**是哪一年？
 2. **外祖父李仲初属猴** —— 暂记 **1920年**，请确认。
 3. **外祖母尚耀真属牛** —— 暂记 **1925年**，但与弟弟 **尚耀福（1925—2014年）** 撞年，两人不可能同为1925年；姐妹 **尚耀香记为1911年**。介于两者之间的牛年为 **1913年**。请确认：(a) 耀真生年、(b) 耀福生年、(c) 兄妹长幼次序。
-4. **那张约1984年、尚耀香抱着婴儿Lijie的照片**（旁边坐着一个小女孩）：**坐着的小女孩**是谁？应是Lijie的表姐（照片中约学龄前）。不是珺珺（1987年生，晚于此照）。Chuck猜是不是"Sabrina"？如是，她的中文名／亲属关系是？
+4. **那张约1988年的照片（左侧坐着Lijie，右侧尚耀香抱着婴儿珺珺）**：请确认拍摄年份（约1988年）以及婴儿是珺珺（丁丽珺）。
 5. **周玲／周凌（Lijie的父亲，1955年生）**：姓"周"（与Lijie相同）没问题；您说名字读得不对 —— 请确认名字的正确汉字是 **"凌"还是"玲"**（或其他）？
 
 谢谢您！
