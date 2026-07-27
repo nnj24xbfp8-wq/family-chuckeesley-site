@@ -25,6 +25,10 @@ summary: "Lijie's maternal great-aunt. Born 30 June 1911 in Pingdu Shi (the inla
 
 耀香的另一张影像见于[Lijie母系的幼年家庭照](/archive/lijie-grandparents-early-childhood-qingdao-c1980s/) &mdash; 约1988年，她怀抱着襁褓中的[丁丽珺](/family/ding-lijun/)（珺珺），左侧坐着幼时的[Lijie](/family/lijie-zhou/)。
 
+![约1988年，尚耀香怀抱婴儿丁丽珺（珺珺），左侧坐着幼时的Lijie，青岛。](../../assets/family/originals/shang-yaozhen-grandchildren-qingdao-c1985.jpeg)
+
+*约1988年 &mdash; 右侧[尚耀香](/family/yaoxiang-shang/)怀抱婴儿[丁丽珺](/family/ding-lijun/)（珺珺），左侧为幼时的[Lijie](/family/lijie-zhou/)。据[李恂](/family/xun-li/)手记，怀抱婴孩的是尚耀香。*
+
 > *注：人名汉字已由家族确认。*
 
 <hr class="my-8 border-rule" />
