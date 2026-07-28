@@ -57,7 +57,7 @@ Their three children — [Zhaoxiang 周兆祥](/family/zhaoxiang-zhou/) (1930–
 
 ## The Shang line (maternal) — in Qingdao
 
-[Shang DeChen 尚德臣](/family/dechen-shang/) and his wife [Tan Chune 谭春娥](/family/chune-tan/) had four children who all carry the generation character **耀 (Yao)**: [Yaozhen 尚耀真](/family/yaozhen-shang/) (c. 1925–2013), [Yaoxiang 尚耀香](/family/yaoxiang-shang/) (b. 1911 in Pingdu), [Yaofu 尚耀福](/family/yaofu-shang/) (1925–2014), and [Yaoli 尚耀礼](/family/yaoli-shang/). The eldest, **Yaozhen**, is Lijie's grandmother — and the one grandparent on Lijie's side who lived long enough to watch Lijie grow into adulthood. She had studied at a **mission school**: literate and without bound feet, an educated and open-minded woman at a time when most homemakers her age were neither. Her daughter [Xun Li](/family/xun-li/)'s [remembrance of her](/family/yaozhen-shang/), written in July 2026, is the fullest personal portrait in this branch of the archive.
+[Shang DeChen 尚德臣](/family/dechen-shang/) and his wife [Tan Chune 谭春娥](/family/chune-tan/) had four children who all carry the generation character **耀 (Yao)**: [Yaozhen 尚耀真](/family/yaozhen-shang/) (c. 1925–2013), [Yaoxiang 尚耀香](/family/yaoxiang-shang/) (1911–1993, b. Pingdu), [Yaofu 尚耀福](/family/yaofu-shang/) (1925–2014), and [Yaoli 尚耀礼](/family/yaoli-shang/). The eldest, **Yaozhen**, is Lijie's grandmother — and the one grandparent on Lijie's side who lived long enough to watch Lijie grow into adulthood. She had studied at a **mission school**: literate and without bound feet, an educated and open-minded woman at a time when most homemakers her age were neither. Her daughter [Xun Li](/family/xun-li/)'s [remembrance of her](/family/yaozhen-shang/), written in July 2026, is the fullest personal portrait in this branch of the archive.
 
 ## The knot: the Li–Shang double marriage
 
@@ -101,7 +101,7 @@ The surnames — Zhou, Li, Shang, Qiu, Pang, Tan, Leng — are firm. Many of the
 
 ## 尚氏（母系）——在青岛
 
-[尚德臣](/family/dechen-shang/)及其妻[谭春娥](/family/chune-tan/)育有四名子女，名中同带**"耀"字辈**：[尚耀真](/family/yaozhen-shang/)（c. 1925–2013）、[尚耀香](/family/yaoxiang-shang/)（1911年生于平度）、[尚耀福](/family/yaofu-shang/)（1925–2014）、[尚耀礼](/family/yaoli-shang/)。长女**耀真**即周丽婕之外祖母，也是周丽婕这一系中唯一活着见到外孙女长大成人的祖辈。她曾就读于**教会学校**：识字、未缠足，在那个同龄主妇多不识字、多缠足的年代，是难得的有文化、思想开放的女性。其女[李恂](/family/xun-li/)于2026年7月写下的[追忆](/family/yaozhen-shang/)，是本支档案中最完整的一篇人物写照。
+[尚德臣](/family/dechen-shang/)及其妻[谭春娥](/family/chune-tan/)育有四名子女，名中同带**"耀"字辈**：[尚耀真](/family/yaozhen-shang/)（c. 1925–2013）、[尚耀香](/family/yaoxiang-shang/)（1911–1993，生于平度）、[尚耀福](/family/yaofu-shang/)（1925–2014）、[尚耀礼](/family/yaoli-shang/)。长女**耀真**即周丽婕之外祖母，也是周丽婕这一系中唯一活着见到外孙女长大成人的祖辈。她曾就读于**教会学校**：识字、未缠足，在那个同龄主妇多不识字、多缠足的年代，是难得的有文化、思想开放的女性。其女[李恂](/family/xun-li/)于2026年7月写下的[追忆](/family/yaozhen-shang/)，是本支档案中最完整的一篇人物写照。
 
 ## 结：李尚两家的双重通婚
 
