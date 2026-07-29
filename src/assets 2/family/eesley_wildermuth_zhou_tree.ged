@@ -58305,7 +58305,7 @@
 1 CHAN
 2 DATE 1 JUN 2026
 1 BIRT
-2 DATE 15 SEP 1921
+2 DATE ABT 1920
 2 PLAC Qing Dao, Shandong, China
 1 DEAT
 2 DATE 1 NOV 1982
@@ -58321,7 +58321,7 @@
 1 CHAN
 2 DATE 1 JUN 2026
 1 BIRT
-2 DATE 11 SEP 1921
+2 DATE ABT 1925
 2 PLAC Qing Dao, Shandong, China
 1 DEAT
 2 DATE 10 JAN 2013
@@ -58590,6 +58590,7 @@
 2 DATE 30 JUN 1911
 2 PLAC Pingdu Shi, Qingdao, Shandong, China
 1 DEAT
+2 DATE MAR 1993
 2 PLAC Qing Dao, Qingdao, Shandong, China
 1 FAMC @F1517@
 0 @I3456@ INDI
@@ -58657,10 +58658,9 @@
 1 CHAN
 2 DATE 1 JUN 2026
 1 BIRT
-2 DATE 30 JUN 1911
 2 PLAC Qing Dao, Qingdao, Shandong, China
 1 DEAT
-2 PLAC Ji'nan Shixiaqu, Jinan, Shandong, China
+2 PLAC Jinan, Shandong, China
 1 FAMS @F1529@
 1 FAMC @F1516@
 0 @I3462@ INDI
