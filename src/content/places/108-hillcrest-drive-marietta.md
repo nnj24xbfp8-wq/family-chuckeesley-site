@@ -88,6 +88,7 @@ Across decades, a quiet practical-care kind of Christianity ran out of this kitc
 
 108 Hillcrest sits in the small cluster of Marietta-area family addresses across the maternal and paternal sides of Chuck's family:
 
+- **[137 Hillcrest Drive](/places/137-hillcrest-drive-marietta/)** — a few doors down this same street: the Eesleys' own house after their 1983 return from Annapolis, where Chuck spent his early childhood before Highland Ridge.
 - **[Highland Ridge Road](/places/highland-ridge-road-marietta/)** — Chuck's father's side: Will the architect's designed-and-built house, where Charlie raised Chuck.
 - **[651 Sixth Street](/places/651-sixth-street-marietta/)** — Will and Peggy's first Marietta house, where Charlie grew up.
 - **[424 N 7th Street](/places/424-n-seventh-street-marietta/)** — Grandma Peggy's widow's house, after Will's June 1986 death; the after-school house of Chuck's later childhood.
