@@ -13,7 +13,7 @@ summary: "Wife of Mengling Li (Lijie's maternal uncle, b. 1952). Pinyin name per
 
 <a id="zh"></a>
 
-**An Qin Teng**（姓名汉字待家族确认，1953年生）&mdash; 李氏姻亲 &mdash; 周丽婕的舅母，[李孟令](/family/mengling-li/)（周丽婕之舅父，1952年生）之妻。其姓名在[戴尔·伊斯利的FamilySearch家谱](/docs/dale-eesley-familysearch-tree/)中以拼音记录；汉字写法及姓／名顺序尚待家族确认。
+**An Qin Teng**（姓名汉字待家族确认，1953年生）&mdash; 李氏姻亲 &mdash; 周丽婕的舅母，[李孟令](/family/mengling-li/)（周丽婕之舅父，1952年生）之妻。其姓名在[戴尔·伊斯利的FamilySearch家谱](/docs/dale-eesley-familysearch-tree/)中以拼音记录；汉字写法及姓／名顺序尚待家族确认。二人于1980年10月1日在青岛成婚（据家谱）。
 
 > *详细信息从略 &mdash; 在世。姓名汉字待家族确认。*
 
@@ -23,4 +23,4 @@ summary: "Wife of Mengling Li (Lijie's maternal uncle, b. 1952). Pinyin name per
 
 ## English
 
-Details withheld &mdash; living. Family member by marriage on the Zhou side &mdash; the wife of [Mengling Li](/family/mengling-li/), Lijie's maternal uncle. Her name is recorded in pinyin in [Dale Eesley's FamilySearch tree](/docs/dale-eesley-familysearch-tree/); the Chinese characters and the surname/given split are pending family confirmation.
+Details withheld &mdash; living. Family member by marriage on the Zhou side &mdash; the wife of [Mengling Li](/family/mengling-li/), Lijie's maternal uncle. Her name is recorded in pinyin in [Dale Eesley's FamilySearch tree](/docs/dale-eesley-familysearch-tree/); the Chinese characters and the surname/given split are pending family confirmation. The couple married on **1 October 1980 in Qingdao** (per the family tree).

@@ -19,7 +19,7 @@ summary: "Lijie's maternal uncle; elder brother of Xun Li (Lijie's mother)."
 
 <a id="zh"></a>
 
-**李孟令**（姓名汉字已由家族确认）&mdash; 周丽婕之舅父，其母[李恂](/family/xun-li/)之兄长。
+**李孟令**（姓名汉字已由家族确认）&mdash; 周丽婕之舅父，其母[李恂](/family/xun-li/)之兄长。1980年10月1日在青岛与[An Qin Teng](/family/an-qin-teng/)成婚（据家谱）。
 
 > *详细生平从略 &mdash; 在世。人名汉字已由家族确认。*
 
@@ -29,7 +29,7 @@ summary: "Lijie's maternal uncle; elder brother of Xun Li (Lijie's mother)."
 
 ## English
 
-Details withheld &mdash; living.
+Details withheld &mdash; living. He married [An Qin Teng](/family/an-qin-teng/) on **1 October 1980 in Qingdao** (per the family tree).
 
 ## A childhood frame &mdash; the Zhanqiao pier, c. 1960s
 
