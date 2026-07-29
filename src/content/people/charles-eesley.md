@@ -63,7 +63,7 @@ His father-in-law [Robert Earl Wildermuth](/family/robert-earl-wildermuth/) had 
 
 ## The wedding photograph
 
-The [Charlie and Terrie wedding photograph (early 1970s)](/archive/charlie-and-terrie-wedding-1970s/) is the resolution of the [Letters from Vietnam](/docs/letters-from-vietnam/): the two of them married after the courtship-during-a-war that the letters had been. The frame catches Will and Peggy mid-laugh on the church steps, parents-of-the-groom.
+The wedding is the resolution of the [Letters from Vietnam](/docs/letters-from-vietnam/): the two of them married after the courtship-during-a-war that the letters had been. Two frames survive. The [bride-and-groom couple portrait](/archive/charlie-and-terrie-wedding-portrait-c1972/) &mdash; Terrie in veil and gown, Charlie in a black tuxedo, a period sedan at the edge of the frame &mdash; is the day from the couple's own side; the [companion frame of Will and Peggy mid-laugh on the church steps](/archive/charlie-and-terrie-wedding-1970s/) is the day from the parents-of-the-groom's side.
 
 ## The eulogy
 
