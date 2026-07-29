@@ -16,6 +16,10 @@ Maggie is the immediate predecessor of this site. Her hyperlinked four-generatio
 
 Without her there would be no portraits in this archive. Details withheld here &mdash; living.
 
+The one exception this page makes is at the very beginning of her life: a color snapshot of [Maggie as a baby in her crib, c. 1951](/archive/maggie-eesley-baby-in-crib-c1951/), from Charlie's photographs &mdash; the archivist of the family's images, here on the other side of the camera.
+
+![Maggie Eesley as an infant in a wooden crib, c. 1951.](../../assets/family/originals/maggie-eesley-baby-in-crib-c1951.jpeg)
+
 ## See also — family threads
 
 Maggie is the **photograph-and-deck anchor for Thread #3 (Writing things down for the future)** in the [**Family threads**](/docs/family-threads/) synthesis essay. Her *"Four Generations of the Eesley Family"* photo deck is the paternal-side image layer this archive is built on — the photographic counterpart to Mary Bean's 1985 *Eesley Family History* on the same side. The 1899 Albert Robert family portrait, the late-1940s Bexley group photograph, and dozens of other key frames come through her deck.

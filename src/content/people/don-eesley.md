@@ -57,3 +57,9 @@ Don with his aunt **[Sciota "Ota" Chenoweth Smith](/family/scioto-mafry-chenowet
 A sepia outdoor portrait from [Roberta Burnes](/family/roberta-burnes/)'s keeping, surfaced June 2026: the [three Eesley brothers — Don (left, ~4), Will (middle, ~2), and Len (right, ~8) — standing on a patch of grass c. 1912](/archive/eesley-three-brothers-c1912/). One of the earliest frames of any of the three in the archive.
 
 ![Three Eesley brothers c. 1912 — Don (left), Will (middle), Len (right). From Roberta Burnes's keeping.](../../assets/family/originals/eesley-three-brothers-c1912.jpeg)
+
+## With his camera, c. 1960s
+
+A candid from Charlie's photographs, surfaced 2026: Don in mid-life, **raising a 35mm SLR to his eye to take a picture** at an outdoor family gathering &mdash; grey-haired, short-sleeved shirt and tie, a man in his fifties or sixties. See the [artifact](/archive/donald-eesley-with-camera-c1960s/). It is the photographer photographing, in the family whose visual record is the reason this archive has pictures.
+
+![Don Eesley raising a 35mm camera to his eye at a family gathering, c. 1960s.](../../assets/family/originals/donald-eesley-with-camera-c1960s.jpeg)
