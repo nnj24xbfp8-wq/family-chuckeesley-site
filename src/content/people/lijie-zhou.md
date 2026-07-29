@@ -20,7 +20,7 @@ summary: "Wife of Chuck Eesley. Born in Qingdao, Shandong, China. Came to the Un
 
 <a id="zh"></a>
 
-**周丽婕**，生于中国山东省青岛市。Chuck Eesley之妻，斯坦福大学家族档案的另一半建立者。她于2018年陪同丈夫前往英国牛津公共图书馆，参与了将Eesley家族世系追溯到18世纪初期Hanwell教区Joseph Eesley和Frances Ayris夫妇的研究工作。
+**周丽婕**，生于中国山东省青岛市。Chuck Eesley之妻（二人于2015年12月29日在加州圣何塞成婚），斯坦福大学家族档案的另一半建立者。她于2018年陪同丈夫前往英国牛津公共图书馆，参与了将Eesley家族世系追溯到18世纪初期Hanwell教区Joseph Eesley和Frances Ayris夫妇的研究工作。
 
 ### 她的家族
 
@@ -43,7 +43,7 @@ summary: "Wife of Chuck Eesley. Born in Qingdao, Shandong, China. Came to the Un
 
 ## English
 
-Lijie was born in **Qingdao** on China's eastern coast, in **Shandong** province &mdash; the home of the Zhou and Li families this side of the archive is being built around. She and Chuck made a life together at Stanford, where they continue to live, and where this archive itself was put together.
+Lijie was born in **Qingdao** on China's eastern coast, in **Shandong** province &mdash; the home of the Zhou and Li families this side of the archive is being built around. She and Chuck **married on 29 December 2015 in San Jose, California**, and made a life together at Stanford, where they continue to live, and where this archive itself was put together.
 
 She joined Chuck on the [2018 visit to the Oxford public library](/docs/eesley-line-research-notes/) where the volunteer genealogist worked through the Eesley line back to Joseph and Frances Ayris. The Oxfordshire half of the surviving English research record bears her presence as well as his.
 

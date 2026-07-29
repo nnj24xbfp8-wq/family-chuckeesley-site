@@ -19,7 +19,7 @@
 3. **Shang Yaozhen — exact birth year, and the Shang siblings' order.** We've provisionally set **1925** (Year of the Ox), but that **collides with her brother Yaofu Shang 尚耀福 (recorded 1925–2014)** — they can't both be 1925. Her sister **Yaoxiang 尚耀香** is recorded as **1911**. An Ox year that fits between them is **1913**. Please confirm (a) Yaozhen's year, (b) Yaofu's year, and (c) the birth order (the archive calls Yaozhen the "eldest daughter," but Yaoxiang looks older).
 4. **The ~1988 photo (Lijie seated at left; Yaoxiang holding baby Junjun at right).** Please confirm the date (~1988) and that the baby is Junjun (Ding Lijun).
 5. **Zhou Ling 周玲 / 周凌 (Lijie's father, b. 1955).** The surname is 周 (same as Lijie). The note flagged the name as read wrong — please confirm the correct **given-name character: 凌 or 玲** (or another)?
-6. **Li Yunhua 李蕴华 — correct birth date.** The tree's 30 June 1911 is incorrect (per Chuck); pending verification. (The tree also records her death place as **Jinan 济南, Shandong**, no date — confirm?)
+6. **Li Yunhua 李蕴华 — correct birth date.** The tree's 30 June 1911 is incorrect (per Chuck); pending verification. (Death place recorded as **Jinan 济南, Shandong** — now added to her page.)
 
 ## 中文（可直接转发给李恂）
 
@@ -30,6 +30,6 @@
 3. **外祖母尚耀真属牛** —— 暂记 **1925年**，但与弟弟 **尚耀福（1925—2014年）** 撞年，两人不可能同为1925年；姐妹 **尚耀香记为1911年**。介于两者之间的牛年为 **1913年**。请确认：(a) 耀真生年、(b) 耀福生年、(c) 兄妹长幼次序。
 4. **那张约1988年的照片（左侧坐着Lijie，右侧尚耀香抱着婴儿珺珺）**：请确认拍摄年份（约1988年）以及婴儿是珺珺（丁丽珺）。
 5. **周玲／周凌（Lijie的父亲，1955年生）**：姓"周"（与Lijie相同）没问题；您说名字读得不对 —— 请确认名字的正确汉字是 **"凌"还是"玲"**（或其他）？
-6. **李蕴华的正确出生日期** —— 家谱所记1911年6月30日有误，待查证。（另，家谱记其卒于济南（山东，无日期）——是否属实？）
+6. **李蕴华的正确出生日期** —— 家谱所记1911年6月30日有误，待查证。（卒于地点：家谱记为济南（山东），已补入其页面。）
 
 谢谢您！
