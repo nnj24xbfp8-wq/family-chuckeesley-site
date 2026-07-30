@@ -10,7 +10,7 @@ parents:
   - de-chang-ding
 living: true
 status: sketch
-summary: "Child of Bo Li (Li Xun's younger sister) and grandchild of Shang Yaozhen — the baby ('Junjun' 珺珺) in Shang Yaozhen's arms in the c. mid-1980s Qingdao photograph, seated beside a young Lijie. As Bo Li's child she is Lijie's first cousin on the maternal Li side. Living; identified by Li Xun, 2026."
+summary: "Child of Bo Li (Li Xun's younger sister) and grandchild of Shang Yaozhen — the baby ('Junjun' 珺珺) held by her great-aunt Shang Yaoxiang in the c. 1988 Qingdao photograph, seated beside a young Lijie. As Bo Li's child she is Lijie's first cousin on the maternal Li side. Living; identified by Li Xun, 2026."
 ---
 
 <p class="not-prose my-4 p-3 border-l-4 border-rule bg-ink/5 text-sm"><strong>📖 English version below — <a href="#en">Jump to English ↓</a></strong> &nbsp;·&nbsp; <em>本页中文在上，英文见下方。</em></p>
