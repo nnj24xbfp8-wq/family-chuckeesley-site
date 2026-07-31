@@ -25,6 +25,10 @@ summary: "Lijie's maternal uncle; elder brother of Xun Li (Lijie's mother)."
 
 2026年7月，妹妹[李恂](/family/xun-li/)（周丽婕之母）写下对哥哥的回忆，照录如下：
 
+![李恂2026年7月手写的追忆哥哥李孟令的原稿，开篇为"孩子头"。](../../assets/family/originals/xun-li-remembrance-brother-manuscript-2026.jpeg)
+
+*李恂手写原稿（2026年7月）&mdash; The remembrance in Li Xun's own hand.*
+
 > &hellip;孩子头。
 >
 > 从小哥哥就是我们院里同龄人的头。带着我们一起玩，带着小男孩们下海游泳、摸波螺、捡海星、海刺猬，抓蟹子。带着自己做的潜水镜潜水。跟着哥哥我们每天都玩的很高兴。上学以后哥哥当上了学校的大队长，还是孩子头。直到现在我们同学聚会，大家都还很关心他："你哥好吗！"
