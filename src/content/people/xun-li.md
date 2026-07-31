@@ -28,7 +28,7 @@ summary: "Lijie's mother. Daughter of Zhongchu Li (c. 1920–1982) and Yaozhen S
 
 兄弟姊妹：[李孟令](/family/mengling-li/)、[李勃](/family/bo-li/)。
 
-除下文追忆父母的两篇手记外，李恂另于2026年7月写下[对哥哥李孟令的回忆（"孩子头"）](/family/mengling-li/)，载于其兄页面。
+2026年7月，李恂写下三篇手记 &mdash; 追忆父亲[李仲初](/family/zhongchu-li/)、母亲[尚耀真](/family/yaozhen-shang/)，以及兄长[李孟令](/family/mengling-li/)，均照录于下。
 
 ## 回忆我的父亲（2026年7月）
 
@@ -46,6 +46,10 @@ summary: "Lijie's mother. Daughter of Zhongchu Li (c. 1920–1982) and Yaozhen S
 
 2026年7月，李恂又写下对母亲[尚耀真](/family/yaozhen-shang/)的回忆，照录如下（[其母页面](/family/yaozhen-shang/)亦载此文）：
 
+![李恂2026年7月手写的追忆母亲尚耀真的原稿，开篇为"雁过留声，人过留名"。](../../assets/family/originals/xun-li-remembrance-manuscript-2026.jpeg)
+
+*李恂手写原稿（2026年7月）&mdash; 追忆母亲。*
+
 > 我的妈妈漂亮慈祥，特别爱干净。她是那个年代里有文化、思想开放的女性——因为像她那个年龄的女性、家庭妇女，不识字、缠足的多，而她是在教会学校得以学习的。
 >
 > "雁过留声，人过留名。"这是老妈妈经常说的话，也是她自律一生的要求。她不仅要求自己，也要求我们说话做事，不能只顾自己，也要为别人着想；宁亏自己，不占别人便宜。从她身上我看到信仰的力量——"爱人如己"，经书上所说的。
@@ -53,6 +57,24 @@ summary: "Lijie's mother. Daughter of Zhongchu Li (c. 1920–1982) and Yaozhen S
 > 为了帮助别人，她白天上班，晚上熬夜给人做衣服；家里孩子多、有老人病人的，她送吃的、送用的，自己省吃俭用。总之，在我眼里，妈妈是一个独立、坚强、有爱心的人。在爸爸过早去世后，她独自撑起了这个家，带着我们兄妹几个，一个个成家立业。她为我们后人的人生之路，点亮了一盏灯。
 >
 > *&mdash; 2026年7月*
+
+## 孩子头 &mdash; 记哥哥李孟令（2026年7月）
+
+2026年7月，李恂又写下对兄长[李孟令](/family/mengling-li/)（1952年生）的回忆，照录如下（[其兄页面](/family/mengling-li/)亦载此文）：
+
+![李恂2026年7月手写的追忆哥哥李孟令的原稿，开篇为"孩子头"。](../../assets/family/originals/xun-li-remembrance-brother-manuscript-2026.jpeg)
+
+*李恂手写原稿（2026年7月）&mdash; 记哥哥。*
+
+> &hellip;孩子头。
+>
+> 从小哥哥就是我们院里同龄人的头。带着我们一起玩，带着小男孩们下海游泳、摸波螺、捡海星、海刺猬，抓蟹子。带着自己做的潜水镜潜水。跟着哥哥我们每天都玩的很高兴。上学以后哥哥当上了学校的大队长，还是孩子头。直到现在我们同学聚会，大家都还很关心他："你哥好吗！"
+>
+> 上学的时候我参加学校[宣传队](/archive/qingdao-no36-middle-school-troupe-1971/)的活动多，家里的家务活都是哥哥和姐姐帮妈妈在做。哥哥蒸馒头、糊饼子、炒菜、做饭样样都做的很好，帮妈妈照顾俩个妹妹，使妈妈安心上班工作。哥哥从小做事仔细、做事认真踏实。虽然现在我们年令都已迈入70岁之列，哥哥还是我们的头，永远是我们的依靠。
+>
+> *&mdash; 2026年7月*
+
+*（此篇首行"孩子头。"承接上一页，前页原稿待补。）*
 
 > *详细生平从略 &mdash; 在世。姓名汉字已由家族确认：李恂。*
 
@@ -64,7 +86,7 @@ summary: "Lijie's mother. Daughter of Zhongchu Li (c. 1920–1982) and Yaozhen S
 
 Details withheld &mdash; living. Mother of [Lijie 周丽婕](/family/lijie-zhou/).
 
-Besides the two remembrances of her parents below, in July 2026 Li Xun also wrote a remembrance of her older brother — ["The leader of the kids," on Li Mengling's page](/family/mengling-li/).
+In July 2026 Li Xun wrote three remembrances — of her father [Zhongchu Li](/family/zhongchu-li/), her mother [Yaozhen Shang](/family/yaozhen-shang/), and her older brother [Mengling Li](/family/mengling-li/) — all reproduced below in her own words, with scans of the manuscripts where we have them.
 
 ## Remembering My Father (July 2026)
 
@@ -82,6 +104,10 @@ In July 2026, Li Xun set down her memories of her own parents &mdash; her father
 
 In July 2026, Li Xun also wrote a remembrance of her mother [Yaozhen Shang](/family/yaozhen-shang/), reproduced here in full (it also appears on [her mother's page](/family/yaozhen-shang/)):
 
+![Li Xun's handwritten remembrance of her mother Yaozhen Shang, July 2026, opening with "When a wild goose passes it leaves its cry."](../../assets/family/originals/xun-li-remembrance-manuscript-2026.jpeg)
+
+*The remembrance of her mother in Li Xun's own hand, July 2026.*
+
 > My mother was beautiful and kind, and especially fond of cleanliness. She was an educated, open-minded woman for her time &mdash; for among women of her age, homemakers who were illiterate or had bound feet were common, whereas she had been able to study at a mission school.
 >
 > "When a wild goose passes it leaves its cry; when a person passes they leave their name." This was a saying my mother often repeated, and the standard of self-discipline she held to all her life. She asked it not only of herself but of us, in how we spoke and acted: never to think only of oneself, but to consider others too &mdash; sooner to shortchange herself than to take advantage of anyone. In her I saw the power of faith &mdash; "love your neighbor as yourself," as the scripture says.
@@ -89,6 +115,24 @@ In July 2026, Li Xun also wrote a remembrance of her mother [Yaozhen Shang](/fam
 > To help others, she worked by day and sat up late into the night sewing clothes for people; wherever a family had many children, or an elder or someone sick, she would bring food and the things they needed, while living frugally herself. In short, in my eyes my mother was an independent, strong, and loving person. After my father died too early, she held up the household on her own, raising the several of us &mdash; brothers and sister &mdash; until each of us married and made a life. For the road of life of those of us who came after her, she lit a lamp.
 >
 > *&mdash; July 2026*
+
+## "The leader of the kids" &mdash; on her brother Mengling (July 2026)
+
+In July 2026 Li Xun also wrote a remembrance of her older brother [Mengling Li](/family/mengling-li/) (b. 1952), reproduced here in full (it also appears on [his page](/family/mengling-li/)):
+
+![Li Xun's handwritten remembrance of her brother Mengling Li, July 2026, opening with "the leader of the kids."](../../assets/family/originals/xun-li-remembrance-brother-manuscript-2026.jpeg)
+
+*The remembrance of her brother in Li Xun's own hand, July 2026.*
+
+> &hellip;the leader of the kids.
+>
+> From the time we were small, my brother was the leader of everyone our age in our courtyard. He took us along to play; he took the little boys down to the sea to swim, to feel for whelks, to gather starfish and sea urchins, to catch crabs. He took **diving goggles he had made himself** and dove with them. Following our brother, every day we played happily. Once he started school he became the school's **brigade leader** &mdash; and he was still the leader of the kids. Even now, at our class reunions, everyone still asks after him: *"How is your brother?"*
+>
+> When I was in school I was often busy with the school [propaganda troupe](/archive/qingdao-no36-middle-school-troupe-1971/), so the housework at home was done by my brother and my sister, helping our mother. My brother steamed mantou, made griddle cakes, stir-fried dishes, cooked &mdash; he did all of it well. He helped our mother look after her two younger daughters, so that she could go to work with an easy mind. From childhood my brother did things carefully, conscientiously, steadily. Even though we have all now entered our seventies, my brother is still our leader, and will always be the one we lean on.
+>
+> *&mdash; July 2026*
+
+*(The note as received begins mid-sentence with "the leader of the kids" &mdash; a preceding page of the manuscript is still to be added.)*
 
 ## Newly placed photographs
 
