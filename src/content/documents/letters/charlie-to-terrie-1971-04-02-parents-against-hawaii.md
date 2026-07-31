@@ -19,7 +19,7 @@ dateRange:
 sortDate: "1971-04-02"
 private: false
 summary: "Charlie's two-day letter to Terrie dated 2 April 1971 (started) and 3 April 1971 (completed), reacting to Terrie's letter that her parents had come out against her flying to Hawaii to meet him for R&R. Charlie's first reaction in writing is anger — he is in the mood to call the whole trip off — but he sets the letter aside and comes back to it the next day, by which point he has decided to write Robert Earl and Dorothy directly. The hinge letter in the R&R parental-conflict thread that runs from the 22 March R&R orders to the 29 May 'I'm back from Saigon' letter."
-source: "Held in family archive — src/assets/family/originals/vietnam-letters/dad7.jpg."
+source: "Held in family archive — src/assets/family/originals/vietnam-letters/dad7.jpg (a single handwritten page, headed 'APR 2', signed 'Charles' at the foot). Correction (July 2026): an earlier version of this page appended a blue-ink 'third sheet' ('Your letter is a little bit disturbing… I guess I will now… I'm bringing about $400… keep studying. Love, Charles') that in fact belongs to the [31 March 1971 R&R-planning letter](/docs/letters/charlie-to-terrie-1971-03-31-rr-planning/) — its pages 2–3 (dad171, dad172), in blue ink and closing on R&R logistics ($400, reservations, a room), whereas this April 2–3 page is dark-ink and self-contained. The duplicated sheet has been removed here and remains on the 31 March letter, its correct home."
 scans:
   - ../../../assets/family/originals/vietnam-letters/dad7.jpg
 ---
@@ -54,15 +54,9 @@ The letter is the central hinge of the R&R parental-conflict thread that runs th
 >
 > Well here it is April 3 and I still don't know what to tell you. I have 72 days left in this lousy army.
 >
-> I'll tell you what I'll do. I'll write your parents tonight and...
+> I'll tell you what I'll do. I'll write your parents tonight and&hellip;
 >
-> *[The letter continues into a third sheet, surfaced from the higher-resolution grandmaE1.pdf scan in June 2026:]*
->
-> Your letter is a little bit disturbing in that now that you have been free from your parents you feel you must tell them to let you completely alone. This trip isn't so damn important that we have to ruin relations with your parents. You could have tactfully told them what our plans are and asked them to accept it, but I do hope you didn't call them childish if they don't.
->
-> After we are married we probably won't see them that much but that is no reason to be on bad terms with them.
->
-> **My mother is basically against us meeting like this too but she realizes there is nothing she can do. She suggested I write your parents and explain to them why we are meeting. I guess I will now.**
+> *[the sentence breaks off at the foot of the page, which is signed:]* Charles
 
 ## The two days
 
@@ -82,14 +76,16 @@ Per Chuck Eesley June 2026, the Wildermuths' resistance to Hawaii was about **th
 
 The earlier reading of this letter on this page (now revised) had tried to frame the resistance as part of a Wildermuth-side political stance on the war. That reading was overreach. Robert Earl had served the Air Force for twenty-eight years through three wars and was about to retire honourably in May 1970; the family neither opposed Charlie's service nor took a public political position on Vietnam this archive can document. They didn't want their unmarried daughter flying to Hawaii to spend a week alone with her boyfriend, which was a position completely independent of the war.
 
-## The major correction — both sides of the family were against the trip
+## Both sides of the family were against the trip
 
-The new third sheet of this letter, surfaced from the higher-fidelity grandmaE1.pdf scan in June 2026, contains the single most important previously-missing line in the parental-Hawaii thread:
+The most important line in the parental-Hawaii thread &mdash; that **both families' mothers** objected to the meeting &mdash; is not in this letter but in the [31 March 1971 R&R-planning letter](/docs/letters/charlie-to-terrie-1971-03-31-rr-planning/), where Charlie writes:
 
 > *"My mother is basically against us meeting like this too but she realizes there is nothing she can do. She suggested I write your parents and explain to them why we are meeting."*
 
-**Peggy McMaster Eesley was against the Hawaii meeting for the same propriety reasons the Wildermuths were.** The site's earlier framing had cast the Eesley side as supportive and the Wildermuth side as obstructive; the corrected reading is that **both families' mothers shared the same generational reading of an unmarried young woman flying to Hawaii to meet her soldier-boyfriend at a hotel for a week**. The difference was tactical: the Wildermuths were prepared to act on their objection by keeping Terrie home; [Peggy](/family/margaret-mcmaster-eesley/) had concluded that there was nothing she could do, and had pivoted to brokering &mdash; first suggesting Charlie write Terrie's parents to explain, and (the [5 April letter](/docs/letters/charlie-to-terrie-1971-04-05-mom-suggested-hawaii-marriage/) shows) then suggesting they marry in Hawaii during R&R to remove the objection entirely.
+(An earlier version of *this* page had appended those blue-ink sheets here as a "third sheet"; they belong to the 31 March letter &mdash; see the source note above.)
 
-This shifts the site's read of the parental-Hawaii thread substantially. It also surfaces a piece of in-law-relationship wisdom from Charlie himself, two months before his own R&R: *"After we are married we probably won't see them that much but that is no reason to be on bad terms with them."* He was twenty-three; the line is more measured than most twenty-three-year-olds manage about their future in-laws under pressure.
+**Peggy McMaster Eesley was against the Hawaii meeting for the same propriety reasons the Wildermuths were.** An earlier framing on the site had cast the Eesley side as supportive and the Wildermuth side as obstructive; the corrected reading is that **both families' mothers shared the same generational reading of an unmarried young woman flying to Hawaii to meet her soldier-boyfriend at a hotel for a week**. The difference was tactical: the Wildermuths were prepared to act on their objection by keeping Terrie home; [Peggy](/family/margaret-mcmaster-eesley/) had concluded that there was nothing she could do, and had pivoted to brokering &mdash; first suggesting Charlie write Terrie's parents to explain, and (the [5 April letter](/docs/letters/charlie-to-terrie-1971-04-05-mom-suggested-hawaii-marriage/) shows) then suggesting they marry in Hawaii during R&R to remove the objection entirely.
 
-The [5 April 1970 'Mom suggested Hawaii marriage' letter](/docs/letters/charlie-to-terrie-1971-04-05-mom-suggested-hawaii-marriage/), surfaced from the same PDF batch, is now the natural next-letter read after this one.
+The 31 March letter also carries a piece of in-law-relationship wisdom from Charlie himself, two months before his own R&R: *"After we are married we probably won't see them that much but that is no reason to be on bad terms with them."* He was twenty-three; the line is more measured than most twenty-three-year-olds manage about their future in-laws under pressure.
+
+What *this* 2 April letter uniquely records is the **immediate reaction** &mdash; the anger, the impulse to call the whole trip off, the twenty-four-hour pause, and the decision to write his future in-laws directly. The [5 April 1971 'Mom suggested Hawaii marriage' letter](/docs/letters/charlie-to-terrie-1971-04-05-mom-suggested-hawaii-marriage/) is the natural next-letter read after this one.
