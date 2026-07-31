@@ -28,6 +28,8 @@ summary: "Lijie's mother. Daughter of Zhongchu Li (c. 1920–1982) and Yaozhen S
 
 兄弟姊妹：[李孟令](/family/mengling-li/)、[李勃](/family/bo-li/)。
 
+除下文追忆父母的两篇手记外，李恂另于2026年7月写下[对哥哥李孟令的回忆（"孩子头"）](/family/mengling-li/)，载于其兄页面。
+
 ## 回忆我的父亲（2026年7月）
 
 2026年7月，李恂写下对父母的回忆 &mdash; 追忆其父[李仲初](/family/zhongchu-li/)与其母[尚耀真](/family/yaozhen-shang/)。全文以其本人之言照录于下。
@@ -61,6 +63,8 @@ summary: "Lijie's mother. Daughter of Zhongchu Li (c. 1920–1982) and Yaozhen S
 ## English
 
 Details withheld &mdash; living. Mother of [Lijie 周丽婕](/family/lijie-zhou/).
+
+Besides the two remembrances of her parents below, in July 2026 Li Xun also wrote a remembrance of her older brother — ["The leader of the kids," on Li Mengling's page](/family/mengling-li/).
 
 ## Remembering My Father (July 2026)
 
