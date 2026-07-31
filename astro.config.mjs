@@ -25,5 +25,7 @@ export default defineConfig({
     '/family/catherina-boeshar/': '/family/catharina-boeshar-wildermuth/',
     // Merged misdated duplicate of the 29 Mar 1971 R&R-booking letter (had been filed as "1970-03-29"; same letter, scan dad9).
     '/docs/letters/charlie-to-terrie-1970-03-29-ticket-cash/': '/docs/letters/charlie-to-terrie-1971-03-29-second-rr-booking/',
+    // Merged thin romanized stub into the canonical Shang Lingke 尚玲珂 page (same person; FamilySearch G9MN-QDX preserved there).
+    '/family/ling-ke-shang/': '/family/lingke-shang/',
   },
 });

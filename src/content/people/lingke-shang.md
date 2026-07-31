@@ -28,4 +28,4 @@ summary: "Eldest of Yaofu Shang and Yunhua Li's five children; a daughter. First
 
 Details withheld &mdash; living. The eldest daughter of [Yaofu Shang](/family/yaofu-shang/) and [Yunhua Li](/family/yunhua-li/)'s five children. A first cousin of [Li Xun](/family/xun-li/) (Lijie's mother) on the maternal Shang side, and &mdash; through the Shang&ndash;Li double marriage &mdash; also connected to the Li side. Name provided by Li Xun, 2026.
 
-> *Source: Shang family; names provided by Li Xun, 2026.*
+> *Source: Shang family; names provided by Li Xun, 2026. Structured record: [FamilySearch &mdash; Shang Lingke (G9MN-QDX)](https://www.familysearch.org/tree/person/details/G9MN-QDX).*
