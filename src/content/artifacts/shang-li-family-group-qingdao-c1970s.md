@@ -40,7 +40,7 @@ A six-person family group from [Lijie](/family/lijie-zhou/)'s maternal side at t
 
 ## 中文
 
-**尚&mdash;李两家于青岛海滨合影，约1970年代初**
+**尚&mdash;李两家于青岛海滨合影，约1974&ndash;75年**
 
 出自[Lijie](/family/lijie-zhou/)母系的一张六人合影，摄于青岛海滨（画面左侧可见形似栈桥回澜阁的亭子），**约1974–75年** &mdash; 六人全部由[李恂](/family/xun-li/)（Lijie的母亲）于2026年指认；据她所记，此照约摄于1974–75年（照片中的幼女王肖向生于1972年）。
 

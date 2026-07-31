@@ -3,7 +3,7 @@ title: "Baby Lijie with her mother and grandmother — Qingdao, c. 1984"
 type: "Photograph"
 image: ../../assets/family/originals/xun-li-shang-yaozhen-baby-lijie-qingdao-c1984.jpeg
 medium: "Color photographs"
-dateCreated: "c. 1984–1985"
+dateCreated: "c. 1984–1988"
 sortDate: "1984-06-01"
 placeCreated: "Qingdao, Shandong, China"
 idNumber: "LIJIE-MOTHER-GRANDMOTHER-QINGDAO-C1984"
