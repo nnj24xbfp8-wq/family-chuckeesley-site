@@ -37,7 +37,7 @@ summary: "Lijie's maternal uncle; elder brother of Xun Li (Lijie's mother)."
 >
 > *&mdash; 2026年7月*
 
-*（手记首行"孩子头。"承接上一页，前页原稿待补。）*
+*（本篇是李恂陆续写下的家族回忆之一，首行"孩子头。"承接前文。据她本人2026年7月所言，"后面想起来还要继续写" &mdash; 全篇写完后再定如何编排。）*
 
 > *详细生平从略 &mdash; 在世。人名汉字已由家族确认。*
 
@@ -61,7 +61,7 @@ In July 2026 his younger sister [Li Xun](/family/xun-li/) &mdash; Lijie's mother
 >
 > *&mdash; July 2026*
 
-*(The note as received begins mid-sentence with "the leader of the kids" &mdash; a preceding page of the manuscript is still to be added.)*
+*(This is one of a continuing series of family remembrances Li Xun is writing; the opening line carries on from an earlier passage. In her words, July 2026: "as things come back to me I'll keep writing" &mdash; how the full set is finally arranged will be decided once she has finished.)*
 
 ## A childhood frame &mdash; the Zhanqiao pier, c. 1960s
 
