@@ -25,7 +25,7 @@ people:
 
 <p class="not-prose my-4 p-3 border-l-4 border-rule bg-ink/5 text-sm"><strong>📖 本页含中文版本 — <a href="#zh">点此跳至中文 ↓</a></strong> &nbsp;·&nbsp; <em>This page has a Chinese version below.</em></p>
 
-A three-generation family group at the wedding of **[Li Bei](/family/li-bei/)** and **[Hong Bin](/family/hong-bin/)**, Qingdao, c. late 2000s — from [Lijie](/family/lijie-zhou/)'s maternal side. The framed print carries a typed caption card that names everyone with birth years; the identifications below follow it. Because [Shang Yaozhen](/family/yaozhen-shang/) (c. 1925–2013) is seated at the center, the photograph predates 2013.
+A three-generation family group at the wedding of **[Li Bei](/family/li-bei/)** and **[Hong Bin](/family/hong-bin/)**, Qingdao, c. late 2000s — from [Lijie](/family/lijie-zhou/)'s maternal side. The framed print carries a typed caption card that names everyone with birth years; the identifications below follow it. Because [Shang Yaozhen](/family/yaozhen-shang/) (1921–2013) is seated at the center, the photograph predates 2013.
 
 **Back row, left to right:**
 
@@ -40,7 +40,7 @@ A three-generation family group at the wedding of **[Li Bei](/family/li-bei/)** 
 
 - **[Zhou Ling](/family/ling-zhou/)** (b. 1 December 1955) — Lijie's father.
 - **[Li Xun](/family/xun-li/)** (b. 20 June 1956) — Lijie's mother.
-- **[Shang Yaozhen](/family/yaozhen-shang/)** (c. 1925–2013) — Lijie's maternal grandmother.
+- **[Shang Yaozhen](/family/yaozhen-shang/)** (1921–2013) — Lijie's maternal grandmother.
 - **[An Qin Teng](/family/an-qin-teng/)** (b. 1953) — Li Mengling's wife.
 - **[Li Mengling](/family/mengling-li/)** (b. 1952) — Li Xun's elder brother (Lijie's maternal uncle).
 
@@ -58,7 +58,7 @@ This photograph is the single richest key to the living Zhou–Li generations in
 
 **李蓓与洪彬婚礼上的家族合影，青岛，约2000年代末**
 
-出自[Lijie](/family/lijie-zhou/)母系的一张三代同堂合影，摄于**[李蓓](/family/li-bei/)与[洪彬](/family/hong-bin/)的婚礼**，青岛，约2000年代末。相框内附有一张打印的说明卡，注明每个人的姓名与出生年份；以下辨认即依此卡。因[尚耀真](/family/yaozhen-shang/)（c. 1925–2013）坐于正中，此照当摄于2013年之前。
+出自[Lijie](/family/lijie-zhou/)母系的一张三代同堂合影，摄于**[李蓓](/family/li-bei/)与[洪彬](/family/hong-bin/)的婚礼**，青岛，约2000年代末。相框内附有一张打印的说明卡，注明每个人的姓名与出生年份；以下辨认即依此卡。因[尚耀真](/family/yaozhen-shang/)（1921–2013）坐于正中，此照当摄于2013年之前。
 
 **后排，自左至右：**
 
@@ -73,7 +73,7 @@ This photograph is the single richest key to the living Zhou–Li generations in
 
 - **[周凌](/family/ling-zhou/)**（1955年12月1日生）&mdash; Lijie的父亲。
 - **[李恂](/family/xun-li/)**（1956年6月20日生）&mdash; Lijie的母亲。
-- **[尚耀真](/family/yaozhen-shang/)**（c. 1925–2013）&mdash; Lijie的外祖母。
+- **[尚耀真](/family/yaozhen-shang/)**（1921–2013）&mdash; Lijie的外祖母。
 - **[滕安琴](/family/an-qin-teng/)**（1953年生）&mdash; 李孟令之妻。
 - **[李孟令](/family/mengling-li/)**（1952年生）&mdash; 李恂的兄长（Lijie的舅舅）。
 

@@ -24,7 +24,7 @@ A three-generation family banquet on [Lijie](/family/lijie-zhou/)'s maternal sid
 
 **Back row, left to right:** **[Zhou Lijie](/family/lijie-zhou/)** (b. 1983); **[Qiqi](/family/qiqi/)**, a young child; and **[Li Bo](/family/bo-li/)** (b. 1957), Li Xun's younger sister.
 
-**Front row (seated), left to right:** **[Li Xun](/family/xun-li/)** (b. 1956, Lijie's mother); **[Shang Yaozhen](/family/yaozhen-shang/)** (c. 1925–2013, Lijie's maternal grandmother), at center; and **[Shang Lingke](/family/lingke-shang/)**, Li Xun's cousin (Yaofu Shang's eldest daughter).
+**Front row (seated), left to right:** **[Li Xun](/family/xun-li/)** (b. 1956, Lijie's mother); **[Shang Yaozhen](/family/yaozhen-shang/)** (1921–2013, Lijie's maternal grandmother), at center; and **[Shang Lingke](/family/lingke-shang/)**, Li Xun's cousin (Yaofu Shang's eldest daughter).
 
 <hr class="my-8 border-rule" />
 
@@ -38,6 +38,6 @@ A three-generation family banquet on [Lijie](/family/lijie-zhou/)'s maternal sid
 
 **后排，自左至右：** **[周丽婕](/family/lijie-zhou/)**（1983年生）；**[琪琪](/family/qiqi/)**（小女孩）；**[李勃](/family/bo-li/)**（1957年生，李恂的妹妹）。
 
-**前排（坐），自左至右：** **[李恂](/family/xun-li/)**（1956年生，Lijie的母亲）；**[尚耀真](/family/yaozhen-shang/)**（c. 1925&ndash;2013，Lijie的外祖母）居中；**[尚玲珂](/family/lingke-shang/)**（李恂的表姊妹，尚耀福的长女）。
+**前排（坐），自左至右：** **[李恂](/family/xun-li/)**（1956年生，Lijie的母亲）；**[尚耀真](/family/yaozhen-shang/)**（1921&ndash;2013，Lijie的外祖母）居中；**[尚玲珂](/family/lingke-shang/)**（李恂的表姊妹，尚耀福的长女）。
 
 > *Source / 来源：Zhou–Li family photographs; identified by Li Xun, 2026.*

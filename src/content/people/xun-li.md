@@ -13,14 +13,14 @@ parents:
   - yaozhen-shang
 living: true
 sortBirth: "1956"
-summary: "Lijie's mother. Daughter of Zhongchu Li (c. 1920–1982) and Yaozhen Shang (c. 1925–2013). Married Ling Zhou in 1982 in Qingdao."
+summary: "Lijie's mother. Daughter of Zhongchu Li (1921–1982) and Yaozhen Shang (1921–2013). Married Ling Zhou in 1982 in Qingdao."
 ---
 
 <p class="not-prose my-4 p-3 border-l-4 border-rule bg-ink/5 text-sm"><strong>📖 English version below — <a href="#en">Jump to English ↓</a></strong> &nbsp;·&nbsp; <em>本页中文在上，英文见下方。</em></p>
 
 <a id="zh"></a>
 
-**李恂**（姓名汉字已由家族确认）&mdash; 周丽婕之母。[李仲初](/family/zhongchu-li/)（c. 1920&ndash;1982）与[尚耀真](/family/yaozhen-shang/)（c. 1925&ndash;2013）之女。1982年在青岛与[周凌](/family/ling-zhou/)成婚。
+**李恂**（姓名汉字已由家族确认）&mdash; 周丽婕之母。[李仲初](/family/zhongchu-li/)（1921&ndash;1982）与[尚耀真](/family/yaozhen-shang/)（1921&ndash;2013）之女。1982年在青岛与[周凌](/family/ling-zhou/)成婚。
 
 本档案中收有李恂晚年与公公周兆祥及丈夫周凌的[合影](/archive/visit-with-zhaoxiang-zhou-and-family/)：李恂身穿驼色大衣，居周兆祥左侧。
 

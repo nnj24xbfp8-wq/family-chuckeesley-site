@@ -4,7 +4,7 @@ aka: "Zhongchu Li"
 line: zhou
 generation: 5
 birth:
-  date: "1920"
+  date: "1921-12-02"
   place: "Qingdao, Shandong, China"
 death:
   date: "1982-11-01"
@@ -14,16 +14,16 @@ parents:
 spouses:
   - yaozhen-shang
 portrait: ../../assets/family/originals/IMG_0824.jpeg
-summary: "Lijie's maternal grandfather. Born in Qingdao in a Year of the Monkey — most likely 1920 (per Li Xun's July 2026 note; exact year to be confirmed, an earlier record wrongly gave 15 September 1921). Died 1 November 1982, just six weeks after the marriage of his daughter Xun Li to Ling Zhou — the marriage from which Lijie would come a year later."
+summary: "Lijie's maternal grandfather. Born 2 December 1921 in Qingdao — the same year as his future wife Yaozhen Shang (confirmed by Li Xun, 2026; both born in the Year of the Rooster). Died 1 November 1982, age 60, just six weeks after the marriage of his daughter Xun Li — the marriage from which Lijie would come a year later."
 ---
 
 <p class="not-prose my-4 p-3 border-l-4 border-rule bg-ink/5 text-sm"><strong>📖 English version below — <a href="#en">Jump to English ↓</a></strong> &nbsp;·&nbsp; <em>本页中文在上，英文见下方。</em></p>
 
 <a id="zh"></a>
 
-**李仲初**（姓氏确定；名字汉字为"仲初"（"仲初"非"重初"或"忠初"，2026年由Lijie之母李恂确认））&mdash; 周丽婕的外祖父。属猴，约1920年生于青岛（据[李恂](/family/xun-li/)2026年7月手记；确切生年待确认，此前误记为1921年9月15日）。他与未来的妻子[尚耀真](/family/yaozhen-shang/)（属牛，约1925年生）同为青岛人。两人成长于德占末期、日占、民国和新中国成立等历史巨变之间，共育三子女，包括[周丽婕的母亲李恂](/family/xun-li/)（1956年生）。
+**李仲初**（姓氏确定；名字汉字为"仲初"（"仲初"非"重初"或"忠初"，2026年由Lijie之母李恂确认））&mdash; 周丽婕的外祖父。属鸡，1921年12月2日生于青岛（由[李恂](/family/xun-li/)于2026年确认）。他与未来的妻子[尚耀真](/family/yaozhen-shang/)（同属鸡，1921年9月15日生）同年同地出生。两人成长于德占末期、日占、民国和新中国成立等历史巨变之间，共育三子女，包括[周丽婕的母亲李恂](/family/xun-li/)（1956年生）。
 
-**1982年11月1日辞世**（享年约六十岁；确切生年待确认）&mdash; 距女儿李恂与[周凌](/family/ling-zhou/)结婚（1982年9月18日）仅六周，距外孙女周丽婕出生尚有一年多。终未能见到外孙女。
+**1982年11月1日辞世，享年60岁**&mdash; 距女儿李恂与[周凌](/family/ling-zhou/)结婚（1982年9月18日）仅六周，距外孙女周丽婕出生尚有一年多。终未能见到外孙女。
 
 ### 另一张肖像（2026年寻回）
 
@@ -75,9 +75,9 @@ A second formal studio portrait of Zhongchu Li — a man in a dark Zhongshan (Ma
   </figcaption>
 </figure>
 
-Lijie's maternal grandfather was born in Qingdao in a **Year of the Monkey — most likely 1920** (per Li Xun's July 2026 note; the exact year is still to be confirmed, and an earlier record wrongly gave 15 September 1921). His future wife [Yaozhen Shang](/family/yaozhen-shang/) (Lijie's maternal grandmother) was born in a Year of the Ox, most likely 1925. They grew up under what had been the city's late-German and Japanese-occupation periods, came of age through the Republican and Civil War years, and lived their adult lives in the People's Republic. They had three children, including [Lijie's mother](/family/xun-li/) (b. 1956).
+Lijie's maternal grandfather was born in Qingdao on **2 December 1921** (confirmed by Li Xun, 2026). His future wife [Yaozhen Shang](/family/yaozhen-shang/) (Lijie's maternal grandmother) was born in the same city earlier that same year, on **15 September 1921** — both of them born in the Year of the Rooster. They grew up under what had been the city's late-German and Japanese-occupation periods, came of age through the Republican and Civil War years, and lived their adult lives in the People's Republic. They had three children, including [Lijie's mother](/family/xun-li/) (b. 1956).
 
-He died **1 November 1982** (about age 60; exact birth year to be confirmed) &mdash; six weeks after [his daughter's marriage to Ling Zhou](/family/xun-li/) on 18 September 1982, and a little over a year before Lijie was born. He did not live to meet his granddaughter.
+He died **1 November 1982**, age 60 &mdash; six weeks after [his daughter's marriage to Ling Zhou](/family/xun-li/) on 18 September 1982, and a little over a year before Lijie was born. He did not live to meet his granddaughter.
 
 ## Remembering My Father &mdash; his daughter's note (July 2026)
 

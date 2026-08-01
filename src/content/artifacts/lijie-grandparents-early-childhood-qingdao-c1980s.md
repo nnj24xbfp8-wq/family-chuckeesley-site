@@ -21,7 +21,7 @@ people:
 
 Color photographs from [Lijie](/family/lijie-zhou/)'s early childhood in [Qingdao](/places/qingdao/), on the maternal side (c. 1984–88).
 
-Above: Lijie's mother **[Li Xun](/family/xun-li/)** with her own mother, **[Shang Yaozhen](/family/yaozhen-shang/)** (Lijie's maternal grandmother, c. 1925&ndash;2013), and baby Lijie in a Qingdao park. Because Lijie's maternal grandfather [Li Zhongchu](/family/zhongchu-li/) had died in 1982 — the year before she was born — the widowed Shang Yaozhen is the grandparent who appears again and again through Lijie's childhood.
+Above: Lijie's mother **[Li Xun](/family/xun-li/)** with her own mother, **[Shang Yaozhen](/family/yaozhen-shang/)** (Lijie's maternal grandmother, 1921&ndash;2013), and baby Lijie in a Qingdao park. Because Lijie's maternal grandfather [Li Zhongchu](/family/zhongchu-li/) had died in 1982 — the year before she was born — the widowed Shang Yaozhen is the grandparent who appears again and again through Lijie's childhood.
 
 ![Young Lijie seated at left; her great-aunt Shang Yaoxiang holds baby Junjun (Ding Lijun) at right, Qingdao, c. 1988.](../../assets/family/originals/shang-yaozhen-grandchildren-qingdao-c1985.jpeg)
 
@@ -45,7 +45,7 @@ For the family-dinner frame with **both** of Lijie's grandmothers together, see 
 
 Lijie在[青岛](/places/qingdao/)幼年时的彩色照片，出自母系（约1984&ndash;88年）。
 
-上图：Lijie的母亲**[李恂](/family/xun-li/)**与她自己的母亲**[尚耀真](/family/yaozhen-shang/)**（Lijie的外祖母，c. 1925&ndash;2013）及襁褓中的Lijie，摄于青岛某公园。因Lijie的外祖父[李仲初](/family/zhongchu-li/)已于1982年（她出生前一年）辞世，寡居的尚耀真便是贯穿Lijie童年、屡屡出现的祖辈。
+上图：Lijie的母亲**[李恂](/family/xun-li/)**与她自己的母亲**[尚耀真](/family/yaozhen-shang/)**（Lijie的外祖母，1921&ndash;2013）及襁褓中的Lijie，摄于青岛某公园。因Lijie的外祖父[李仲初](/family/zhongchu-li/)已于1982年（她出生前一年）辞世，寡居的尚耀真便是贯穿Lijie童年、屡屡出现的祖辈。
 
 第二张：左侧为幼时的**[Lijie](/family/lijie-zhou/)**（1983年生）；右侧其姨外祖母**[尚耀香](/family/yaoxiang-shang/)**怀抱婴儿**[丁丽珺](/family/ding-lijun/)**（小名"珺珺"，1987年2月生），即Lijie的表亲。据[李恂](/family/xun-li/)2026年7月手记，抱婴孩的是尚耀香，**并非尚耀真** &mdash; 故此照约摄于**1988年**，珺珺尚在襁褓。
 
