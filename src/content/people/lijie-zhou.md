@@ -26,14 +26,14 @@ summary: "Wife of Chuck Eesley. Born in Qingdao, Shandong, China. Came to the Un
 
 更新后的家谱（GEDCOM）现已开启周氏一脉的记录：
 
-- **父亲：[周凌](/family/ling-zhou/)**。父之父母：
+- **父亲：[周玲](/family/ling-zhou/)**。父之父母：
   - [周兆祥](/family/zhaoxiang-zhou/)（1930年8月1日生于胶州市 &mdash; 周氏远祖之地 &mdash; 2022年12月9日卒于青岛）。
   - [孙云哲](/family/yunzhe-sun/)（2023年12月卒于青岛）。
 - **母亲：[李恂](/family/xun-li/)**。母之父母：
-  - [李仲初](/family/zhongchu-li/)（1921年12月2日 &ndash; 1982年11月1日，青岛）。女儿李恂与周凌成婚后六周辞世；未及与外孙女周丽婕相见。
+  - [李仲初](/family/zhongchu-li/)（1921年12月2日 &ndash; 1982年11月1日，青岛）。女儿李恂与周玲成婚后六周辞世；未及与外孙女周丽婕相见。
   - [尚耀真](/family/yaozhen-shang/)（1921年9月15日 &ndash; 2013年1月10日）。守寡三十年，亲眼见证外孙女周丽婕长大成人。
 
-周凌和李恂于**1982年在[青岛](/places/qingdao/)成婚**。周丽婕次年出生。这一支周氏现代青岛生活背后的远祖之地是[**胶州市**](/places/qingdao/) &mdash; 周兆祥家族的起源地。
+周玲和李恂于**1982年在[青岛](/places/qingdao/)成婚**。周丽婕次年出生。这一支周氏现代青岛生活背后的远祖之地是[**胶州市**](/places/qingdao/) &mdash; 周兆祥家族的起源地。
 
 > *注：本页两位主角的姓名汉字已由家族确认（**周丽婕**、母亲**李恂**）；周氏祖辈一支（兆祥、运哲等）的汉字仍以推测为主，待家族进一步确认。*
 
@@ -58,7 +58,7 @@ Other details withheld &mdash; living. The biographical layer here is meant to g
 
 The Zhou side of this archive now opens. From the updated GEDCOM:
 
-- **Father: [Zhou Ling 周凌](/family/ling-zhou/)**. His parents:
+- **Father: [Zhou Ling 周玲](/family/ling-zhou/)**. His parents:
   - [Zhou Zhaoxiang 周兆祥](/family/zhaoxiang-zhou/) (1 August 1930, **Jiaozhou Shi** &mdash; the ancestral inland city-region &mdash; to 9 December 2022, Qingdao).
   - [Sun Yunzhe 孙云哲](/family/yunzhe-sun/) (d. December 2023, Qingdao).
 - **Mother: [Li Xun 李恂](/family/xun-li/)**. Her parents:

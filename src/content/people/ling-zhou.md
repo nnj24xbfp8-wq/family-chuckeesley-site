@@ -1,5 +1,5 @@
 ---
-name: "Zhou Ling 周凌"
+name: "Zhou Ling 周玲"
 aka: "Ling Zhou"
 line: zhou
 generation: 6
@@ -19,7 +19,7 @@ summary: "Lijie's father. Son of Zhaoxiang Zhou (1930–2022) and Yunzhe Sun (d.
 
 <a id="zh"></a>
 
-**周凌**（姓氏"周"确定；名字汉字"凌"于2026年7月由[李恂](/family/xun-li/)更正，此前误作"玲"，最终写法待确认）&mdash; 周丽婕之父。[周兆祥](/family/zhaoxiang-zhou/)（1930&ndash;2022）与[孙运哲](/family/yunzhe-sun/)（卒于2023年）之子。1982年在青岛与[李恂](/family/xun-li/)成婚。
+**周玲**（姓名汉字已由家族确认：姓"周"、名"玲"，2026年7月经Chuck向家族核实）&mdash; 周丽婕之父。[周兆祥](/family/zhaoxiang-zhou/)（1930&ndash;2022）与[孙运哲](/family/yunzhe-sun/)（卒于2023年）之子。1982年在青岛与[李恂](/family/xun-li/)成婚。
 
 兄弟姊妹：[周泉](/family/quan-zhou/)、[周爱琴](/family/ai-qin-zhou/)、[周爱华](/family/ai-hua-zhou/)。
 
@@ -36,11 +36,11 @@ summary: "Lijie's father. Son of Zhaoxiang Zhou (1930–2022) and Yunzhe Sun (d.
 <figure class="my-6 max-w-md mx-auto not-prose">
   <video src="/family/ling-zhou-portrait-animated.mp4" controls muted loop playsinline class="w-full"></video>
   <figcaption class="text-sm text-ink/70 mt-2 italic">
-    周凌青年时期一张静态正装照之**人工智能动画化**版本。<strong>诠释性影像，非真实记录</strong> &mdash; 以原始静态照片为底，AI生成的微动效果；原始照片为档案，动画仅为视觉辅助。
+    周玲青年时期一张静态正装照之**人工智能动画化**版本。<strong>诠释性影像，非真实记录</strong> &mdash; 以原始静态照片为底，AI生成的微动效果；原始照片为档案，动画仅为视觉辅助。
   </figcaption>
 </figure>
 
-> *详细生平从略 &mdash; 在世。姓氏"周"确定；名字汉字"凌"于2026年7月由李恂更正（此前误作"玲"），最终写法待确认。*
+> *详细生平从略 &mdash; 在世。姓名汉字已由家族确认：周玲。*
 
 <hr class="my-8 border-rule" />
 

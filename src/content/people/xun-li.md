@@ -20,9 +20,9 @@ summary: "Lijie's mother. Daughter of Zhongchu Li (1921–1982) and Yaozhen Shan
 
 <a id="zh"></a>
 
-**李恂**（姓名汉字已由家族确认）&mdash; 周丽婕之母。[李仲初](/family/zhongchu-li/)（1921&ndash;1982）与[尚耀真](/family/yaozhen-shang/)（1921&ndash;2013）之女。1982年在青岛与[周凌](/family/ling-zhou/)成婚。
+**李恂**（姓名汉字已由家族确认）&mdash; 周丽婕之母。[李仲初](/family/zhongchu-li/)（1921&ndash;1982）与[尚耀真](/family/yaozhen-shang/)（1921&ndash;2013）之女。1982年在青岛与[周玲](/family/ling-zhou/)成婚。
 
-本档案中收有李恂晚年与公公周兆祥及丈夫周凌的[合影](/archive/visit-with-zhaoxiang-zhou-and-family/)：李恂身穿驼色大衣，居周兆祥左侧。
+本档案中收有李恂晚年与公公周兆祥及丈夫周玲的[合影](/archive/visit-with-zhaoxiang-zhou-and-family/)：李恂身穿驼色大衣，居周兆祥左侧。
 
 本档案另收有李恂[与母亲尚耀真、襁褓中的女儿Lijie在青岛的幼年家庭照](/archive/lijie-grandparents-early-childhood-qingdao-c1980s/)（约1984年；另一帧为李恂给幼女Lijie喂食）。
 

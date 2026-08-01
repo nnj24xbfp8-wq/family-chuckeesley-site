@@ -14,7 +14,7 @@ summary: "Lijie's paternal uncle; brother of Ling Zhou (Lijie's father). Son of 
 
 <a id="zh"></a>
 
-**周全** &mdash; 周丽婕之叔父，其父[周凌](/family/ling-zhou/)之兄弟。祖父[周兆祥](/family/zhaoxiang-zhou/)与祖母[孙云哲](/family/yunzhe-sun/)之子。
+**周全** &mdash; 周丽婕之叔父，其父[周玲](/family/ling-zhou/)之兄弟。祖父[周兆祥](/family/zhaoxiang-zhou/)与祖母[孙云哲](/family/yunzhe-sun/)之子。
 
 > *详细生平从略 &mdash; 在世。姓名汉字已由家族确认：周全。*
 

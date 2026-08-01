@@ -16,7 +16,7 @@ summary: "Lijie's paternal grandmother. Married Zhaoxiang Zhou; mother of Ling Z
 
 <a id="zh"></a>
 
-**孙云哲**（音译；姓氏确定，名字汉字待确认）&mdash; 周丽婕的祖母。[周兆祥](/family/zhaoxiang-zhou/)之妻，[周凌](/family/ling-zhou/)及其弟妹之母。比丈夫晚走不到一年 &mdash; 周兆祥于2022年12月9日辞世，她于2023年12月在青岛随之而去。夫妻共度逾五十载。
+**孙云哲**（音译；姓氏确定，名字汉字待确认）&mdash; 周丽婕的祖母。[周兆祥](/family/zhaoxiang-zhou/)之妻，[周玲](/family/ling-zhou/)及其弟妹之母。比丈夫晚走不到一年 &mdash; 周兆祥于2022年12月9日辞世，她于2023年12月在青岛随之而去。夫妻共度逾五十载。
 
 她的生卒年月及娘家事迹尚待补全。
 

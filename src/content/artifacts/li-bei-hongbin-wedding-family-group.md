@@ -71,7 +71,7 @@ This photograph is the single richest key to the living Zhou–Li generations in
 
 **前排（坐），自左至右：**
 
-- **[周凌](/family/ling-zhou/)**（1955年12月1日生）&mdash; Lijie的父亲。
+- **[周玲](/family/ling-zhou/)**（1955年12月1日生）&mdash; Lijie的父亲。
 - **[李恂](/family/xun-li/)**（1956年6月20日生）&mdash; Lijie的母亲。
 - **[尚耀真](/family/yaozhen-shang/)**（1921–2013）&mdash; Lijie的外祖母。
 - **[滕安琴](/family/an-qin-teng/)**（1953年生）&mdash; 李孟令之妻。
