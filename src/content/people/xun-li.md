@@ -70,7 +70,7 @@ summary: "Lijie's mother. Daughter of Zhongchu Li (1921–1982) and Yaozhen Shan
 >
 > 从小哥哥就是我们院里同龄人的头。带着我们一起玩，带着小男孩们下海游泳、摸波螺、捡海星、海刺猬，抓蟹子。带着自己做的潜水镜潜水。跟着哥哥我们每天都玩的很高兴。上学以后哥哥当上了学校的大队长，还是孩子头。直到现在我们同学聚会，大家都还很关心他："你哥好吗！"
 >
-> 上学的时候我参加学校[宣传队](/archive/qingdao-no36-middle-school-troupe-1971/)的活动多，家里的家务活都是哥哥和姐姐帮妈妈在做。哥哥蒸馒头、糊饼子、炒菜、做饭样样都做的很好，帮妈妈照顾俩个妹妹，使妈妈安心上班工作。哥哥从小做事仔细、做事认真踏实。虽然现在我们年令都已迈入70岁之列，哥哥还是我们的头，永远是我们的依靠。
+> 上学的时候我参加学校[宣传队](/archive/qingdao-no36-middle-school-troupe-1971/)的活动多，家里的家务活都是哥哥和妹妹帮妈妈在做。哥哥蒸馒头、糊饼子、炒菜、做饭样样都做的很好，帮妈妈照顾俩个妹妹，使妈妈安心上班工作。哥哥从小做事仔细、做事认真踏实。虽然现在我们年令都已迈入70岁之列，哥哥还是我们的头，永远是我们的依靠。
 >
 > *&mdash; 2026年7月*
 
@@ -128,7 +128,7 @@ In July 2026 Li Xun also wrote a remembrance of her older brother [Mengling Li](
 >
 > From the time we were small, my brother was the leader of everyone our age in our courtyard. He took us along to play; he took the little boys down to the sea to swim, to feel for whelks, to gather starfish and sea urchins, to catch crabs. He took **diving goggles he had made himself** and dove with them. Following our brother, every day we played happily. Once he started school he became the school's **brigade leader** &mdash; and he was still the leader of the kids. Even now, at our class reunions, everyone still asks after him: *"How is your brother?"*
 >
-> When I was in school I was often busy with the school [propaganda troupe](/archive/qingdao-no36-middle-school-troupe-1971/), so the housework at home was done by my brother and my sister, helping our mother. My brother steamed mantou, made griddle cakes, stir-fried dishes, cooked &mdash; he did all of it well. He helped our mother look after her two younger daughters, so that she could go to work with an easy mind. From childhood my brother did things carefully, conscientiously, steadily. Even though we have all now entered our seventies, my brother is still our leader, and will always be the one we lean on.
+> When I was in school I was often busy with the school [propaganda troupe](/archive/qingdao-no36-middle-school-troupe-1971/), so the housework at home was done by my brother and my younger sister, helping our mother. My brother steamed mantou, made griddle cakes, stir-fried dishes, cooked &mdash; he did all of it well. He helped our mother look after her two younger daughters, so that she could go to work with an easy mind. From childhood my brother did things carefully, conscientiously, steadily. Even though we have all now entered our seventies, my brother is still our leader, and will always be the one we lean on.
 >
 > *&mdash; July 2026*
 

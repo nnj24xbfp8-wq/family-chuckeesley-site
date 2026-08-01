@@ -13,20 +13,19 @@
 - **Zhou Ling 周玲** — given name confirmed as **玲** (my interim change to 凌 was wrong and has been reverted).
 - **The ~1988 photo** — identification and date resolved with the family.
 - **The brother remembrance / earlier page** — Li Xun (July 2026): "不用吧，后面想起来还要继续写，等全写完后再考虑如何？" — she does not want the earlier page chased now; she intends to keep writing, and how the completed set is arranged (and published) will be decided when she has finished. Pages reworded to reflect an ongoing series.
+- **No fourth sibling — three children only.** Li Xun (July 2026): "应该是哥哥和妹妹，没有姐姐了，就是我们三个人" — the manuscript reads 哥哥和**妹妹** (brother and younger sister), not 姐姐; my transcription was wrong and is corrected on both pages. The siblings are Mengling (1952), Li Xun (1956), Li Bo (1957); the "俩个妹妹" Mengling looked after are Li Xun and Li Bo.
 - **Shang Yaoxiang 尚耀香** — died **March 1993** (b. 1911, so ~81); resolves the earlier 2013/102 uncertainty.
 
 ## Still open
 
-1. **Shang Yaoli 尚耀礼 (大舅) — birth year?** Still unknown.
+1. **Shang Yaoli 尚耀礼 (大舅) — birth year?** Unknown to Li Xun as well; she plans to ask the cousins in **Jinan** when there's an opportunity (July 2026). Those Jinan relatives may also be the best source for item 2.
 2. **Li Yunhua 李蕴华 — correct birth date.** The tree's 30 June 1911 is incorrect (per Chuck); pending verification. (Death place recorded as **Jinan 济南, Shandong** — now added to her page.)
-3. **Was there a fourth sibling — an older sister (姐姐)?** In the July 2026 note about her brother, Li Xun writes that the housework "was done by my brother **and my sister** (哥哥和姐姐), helping our mother," and that her brother "helped our mother look after **her two younger daughters** (俩个妹妹)." Read together, that implies **four** children: Mengling, an older sister, then Li Xun and Li Bo. But the archive and the family tree record only **three** — Mengling (1952), Li Xun (1956), Li Bo (1957). Please confirm: was there an older sister, and if so her name and dates? (Or is 姐姐 here a cousin / someone else?)
 
 ## 中文（可直接转发给李恂）
 
 妈妈您好，谢谢您的答复！大部分已按您所说更新（丁丽珺1987年2月生；王肖向1972年生、青岛海滨六人合影改为约1974–75年；尚国基已故；"仲初""耀真"两个名字；那张室内照片已定为约1988年——左侧Lijie、右侧尚耀香怀抱婴儿珺珺；尚耀香于1993年3月去世；Lijie爸爸的名字确认为"周玲"）。哥哥那篇手记按您说的，先不催前一页，等您全写完再定怎么编排。等您有空时，还有三处想请您确认：
 
-1. **大舅尚耀礼的出生年份**是哪一年？
+1. **大舅尚耀礼的出生年份** —— 妈妈说她也不知道，看以后有机会问问济南的表姐们。
 2. **李蕴华的正确出生日期** —— 家谱所记1911年6月30日有误，待查证。（卒于地点：家谱记为济南（山东），已补入其页面。）
-3. **是否还有一位姐姐？** 您写哥哥的手记中提到"家里的家务活都是**哥哥和姐姐**帮妈妈在做"，又提到哥哥"帮妈妈照顾**俩个妹妹**"。这样算下来似乎是**四个**孩子：哥哥、姐姐，以及您和李勃。但档案与家谱只记了**三个**：李孟令（1952）、您（1956）、李勃（1957）。请确认：是否确有一位姐姐？如有，她的姓名与生卒年？（或此处"姐姐"是指表姐等其他人？）
 
 谢谢妈妈！
