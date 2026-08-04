@@ -30,6 +30,12 @@ He married **[Kittie Belle Scott](/family/kittie-belle-scott/)** in Plainwell on
 
 He ran the operation until his death &mdash; **9 July 1929 in Kalamazoo, Michigan**; buried in Plainwell two days later. The mill outlasted him by a century: the [building is on the National Register of Historic Places](/places/plainwell-eesley-mill/) and now operates as The Old Mill Brewpub. He is the **wealthiest member of the documented family** — see [Notable Family Members](/docs/notable-family-members/).
 
+## Portrait, late in life
+
+![John Franklin Eesley as an older man, c. 1920s — a studio portrait of the Plainwell miller near the end of his life: grey hair swept back, clean-shaven, in a dark suit and tie.](../../assets/family/originals/john-f-eesley-older-portrait-c1920s.jpeg)
+
+*John Franklin Eesley late in life, c. 1920s &mdash; the miller in his sixties, a generation on from the 1899 family-portrait crop at the head of this page. The two frames bracket his American decades: the established mill-owner of 1899 and the near-septuagenarian of the 1920s, a few years before his death in 1929.*
+
 ![The granite grave marker of John F. Eesley at Plainwell, Michigan, carved "FATHER / JOHN F. EESLEY / 1859–1929."](../../assets/family/originals/john-f-eesley-headstone.jpeg)
 
 *His Plainwell grave marker &mdash; carved* FATHER · JOHN F. EESLEY · 1859–1929 *&mdash; confirms his dates in stone. The "Father" designation is a small puzzle, since Dale's tree records no children for John Franklin and [Kittie Belle Scott](/family/kittie-belle-scott/); it is a wrinkle worth a second look against the Plainwell records (the companion "Mother" stone would presumably be Kittie's).*
