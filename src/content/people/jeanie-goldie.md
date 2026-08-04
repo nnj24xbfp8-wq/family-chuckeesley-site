@@ -83,3 +83,11 @@ She lived the rest of her life in Canada and died at **424 Sackville Street, Tor
 The previous version of this page recorded the family's arrival in Canada as **1841**, age five &mdash; following an older Bean-era reading. The typewritten Goldie immigration narrative gives **1845**, with corroborating specifics (James's pre-Christmas-1845 death and David's 14 September 1846 dock drowning both math from a 1845 arrival). The 1845 date is the one this page now carries; the 1841 reading sits in the page's edit history as the prior assumption.
 
 > *Sources: typewritten Goldie immigration narrative (Bean 1985 or related family-compiled history &mdash; source attribution pending), surfaced by Chuck Eesley June 2026; [Mary Eesley Bean, *Eesley Family History*, 1985](/docs/eesley-family-history-1985/); [Dale Eesley / FamilySearch &mdash; Jennie Goldie (L2J9-GM1)](https://www.familysearch.org/tree/person/details/L2J9-GM1). Crossing context: the timber-ship emigrant trade to British North America and the [Grosse Île](https://en.wikipedia.org/wiki/Grosse_Isle) quarantine station below Quebec (general emigration history).*
+
+## The Goldie millwrights
+
+A [biographical sketch of her eldest son John Franklin](/archive/john-f-eesley-biographical-sketch/), printed in a Michigan county history in the 1890s, records of her family: **"For two hundred years or more the male portion of the Goldie family have been millwrights."**
+
+If accurate, this relocates the origin of the family's milling trade. This archive has traced milling down the **Eesley** male line — Old Stratford to Toronto to Plainwell — but the sketch points to the **Goldies** as millwrights in Scotland for two centuries before Jennie sailed. A millwright builds and maintains the mill; a miller works it. On that reading the Eesley men married into the trade as much as they inherited it, and the Plainwell mill her son built has a Scottish maternal ancestry as much as an English paternal one.
+
+The same sketch gives her birthplace as **Ayr, Scotland** and her arrival in America as **1844**, settling at **Montreal** — worth checking against the other records in this archive.
