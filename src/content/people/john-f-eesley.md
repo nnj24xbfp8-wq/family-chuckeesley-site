@@ -45,6 +45,18 @@ This archive has told the milling story down the **Eesley** male line &mdash; Ol
 
 Born **11 December 1859** in Hamilton, Ontario, he made his way south and west across the international border to **Plainwell, Allegan County, Michigan** by 1887. There he bought the 1869 roller rink on West Bridge Street, converted it into the **Sunshine Flour Mill** under the *Sunshine Brand Flour* label, and made it the nation's second-largest producer of buckwheat flour at its peak. In 1903–04 he physically split the timber-frame mill building, moved it to East Bridge Street, and merged it with a grain elevator to create a unified mill-and-elevator landmark.
 
+### Why he moved the mill: he bought the town a park
+
+The reason for that move is the best single fact this archive holds about his character, and it was nearly lost. The standard account says the mill moved *"to make room for the Ingraham and Travis Implement Store."* The Allegan County Heritage Trail marker for Plainwell told it properly:
+
+> *"J.F. Eesley traded his property with Ingraham and Travis, whose property was located in the flat iron, so that Mr. Eesley could give the flat iron property to the village for a park."*
+
+Ingraham and Travis held the triangular downtown parcel the town called **the Flat Iron**. Eesley wanted it for Plainwell, so he **traded them his own mill site** to get it — which is why he then had to saw his mill in half and move it across the river end of town — and **handed the Flat Iron to the village**. Dedicated at Plainwell's first homecoming in **1907**, it is **Hicks Park**, the oldest park in the city, and it is named for **Joseph Hicks**, the first village president. Not for the miller who bought the ground and gave it away.
+
+The [mill still stands at 717 E. Bridge](/places/plainwell-eesley-mill/) because its owner preferred a park downtown to a convenient address. That is a documented act of civic giving in 1904 by Chuck's great-great-uncle — the earliest instance in this archive of **Thread #5 (service, stewardship, and giving)**, four generations before the [Zhou & Eesley Family Foundation](https://zhoueesleyfoundation.com).
+
+*A caution on the source: the marker that carried this sentence — Stop 28 of the Allegan County Heritage Trail, "Early History of Plainwell" — has been **permanently removed**. By July 2023 the post held only a sticker reading "New Heritage Trail Signs Coming Soon," and the Historical Marker Database records it as not to be replaced. It was the only marker that mentioned the family, and there is no Michigan state marker for the mill. The [archived page](https://www.hmdb.org/m.asp?m=74530) preserves the text and photographs of the panel; the sentence above survives only there and in the city's park history.*
+
 He married **[Kittie Belle Scott](/family/kittie-belle-scott/)** in Plainwell on **8 September 1885** &mdash; Kittie had been born across the township line in **Gun Plain Township**, Allegan County, a daughter of **Henry R. and Eliza Scott**, both natives of New York State.
 
 ### The three children (resolved, 2026)
