@@ -51,6 +51,12 @@ The two frames above &mdash; placed from photographs [Chuck](/family/charles-eri
 
 *A wider 2019 street view: the mill at left, and across the way the red-roofed barn and a caboose by the rail crossing &mdash; the East Bridge Street setting the 1903 move brought the building to.*
 
+A second surviving historic frame shows the mill from its loading-dock side:
+
+![The Sunshine Flour Mill from its loading-dock side, early 1900s — the long covered platform along the ground floor stacked with sacks of flour, the mill rising behind.](../../assets/family/originals/plainwell-eesley-mill-historic-loading-dock.jpeg)
+
+*The loading-dock side of the mill in its working years — a second early-1900s view to set beside the signage-side photograph in the diptych above.*
+
 > *The physical Allegan County Heritage Trail marker that once carried a full Eesley Mill panel (Stop 28, "Early History of Plainwell") is gone — replaced by a "New Heritage Trail Signs Coming Soon" sticker by July 2023 and listed as permanently removed — but [the archived marker page on hmdb.org](https://www.hmdb.org/m.asp?m=74530) keeps photographs of the panel, including the historic mill image printed on it. There is no Michigan state marker for the mill.*
 
 ## The "Historic Eesley Mill" sign
