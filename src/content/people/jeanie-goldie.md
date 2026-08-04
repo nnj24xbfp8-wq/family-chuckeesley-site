@@ -88,6 +88,6 @@ The previous version of this page recorded the family's arrival in Canada as **1
 
 A [biographical sketch of her eldest son John Franklin](/archive/john-f-eesley-biographical-sketch/), printed in a Michigan county history in the 1890s, records of her family: **"For two hundred years or more the male portion of the Goldie family have been millwrights."**
 
-If accurate, this relocates the origin of the family's milling trade. This archive has traced milling down the **Eesley** male line — Old Stratford to Toronto to Plainwell — but the sketch points to the **Goldies** as millwrights in Scotland for two centuries before Jennie sailed. A millwright builds and maintains the mill; a miller works it. On that reading the Eesley men married into the trade as much as they inherited it, and the Plainwell mill her son built has a Scottish maternal ancestry as much as an English paternal one.
+The Goldies were millwrights in Scotland for two centuries before Jennie sailed. A millwright builds and maintains the mill; a miller works it — so the trade her sons followed may have come down through her family as much as through their father's, and the Plainwell mill her eldest son built has a Scottish maternal ancestry as much as an English paternal one.
 
-The same sketch gives her birthplace as **Ayr, Scotland** and her arrival in America as **1844**, settling at **Montreal** — worth checking against the other records in this archive.
+The same sketch gives her birthplace as **Ayr, Scotland** and her arrival in America as **1844**, settling at **Montreal**.

@@ -1,7 +1,7 @@
 ---
 name: "John Franklin Eesley"
 portrait: ../../assets/family/originals/john-f-eesley-1899-crop.jpeg
-aka: "J. F. Eesley (newspaper convention); 'J. R.' in William Eesley's c. 1916 obituary (transcription error — his middle initial was F, not R); 'John (oldest)' in the 1899 family-portrait caption"
+aka: "J. F. Eesley (newspaper convention); 'John (oldest)' in the 1899 family-portrait caption"
 line: paternal
 birth:
   date: "1859-12-11"
@@ -15,79 +15,76 @@ parents:
   - jeanie-goldie
 spouses:
   - kittie-belle-scott
-summary: "The American miller, and the eldest of Albert Robert Sr and Jennie Goldie's ten children. Born 11 December 1859 in Hamilton, Ontario, Canada; reached Plainwell, Michigan by 1887 and bought the downtown roller rink that he would convert into the Sunshine Flour Mill — the J. F. Eesley Milling Co., which became the nation's second-largest producer of buckwheat flour. Married Kittie Belle Scott in Plainwell on 8 September 1885. Died 9 July 1929 in Kalamazoo; buried Hillside Cemetery, Plainwell, plot P8/7. He and Kittie had three children — Iva Belle (1887–1888), Harold John (1893–1977), and Franklin R. B. (1898–1908) — only one of whom reached adulthood; their existence resolves the FATHER inscription on his marker. The 'J. R.' in William Eesley's c. 1916 obituary is a transcription error for 'J. F.' — both refer to the same person."
+summary: "The American miller — eldest of Albert Robert Sr and Jennie Goldie's children. Born 11 December 1859 in Hamilton, Ontario; learned the miller's trade under his father, worked it across five states, and in 1887 bought a Plainwell, Michigan roller rink and converted it into the Sunshine Flour Mill — the J. F. Eesley Milling Co., which became the nation's second-largest producer of buckwheat flour. In 1904 he traded away his own mill site to acquire the downtown Flat Iron parcel and gave it to the village as a park, moving his mill across town to do it. Married Kittie Belle Scott in Plainwell on 8 September 1885; three children, of whom one reached adulthood. Died 9 July 1929 in Kalamazoo; buried Hillside Cemetery, Plainwell, plot P8/7."
 ---
 
-The older brief framing put John Franklin Eesley as **Albert Robert's brother**, both of them emigrants from Old Stratford going in different directions. Dale's tree settles a different relationship: **John Franklin is Albert's son and the eldest of the ten children**, born in Hamilton, Ontario in 1859, two years before his parents' Ontario marriage record. The milling thread runs not John (1799) → Albert and John F. as parallel emigrants but **John (1799) → Albert (the emigrant to Canada) → John Franklin (the next-generation emigrant from Canada to Michigan)**.
+**John Franklin Eesley** was the eldest child of **[Albert Robert Eesley](/family/albert-robert-eesley/)** and **[Jennie Goldie](/family/jeanie-goldie/)**, born **11 December 1859** in **Hamilton, Ontario**. He is the generation that carried the family's milling trade across the border from Canada into Michigan, and the man whose surname still stands on a building in Plainwell.
 
-## On the "J. R." in William Eesley's c. 1916 obituary
+He was schooled in the village schools of **Plottsville, Ontario**, then in **New York City** where the family lived for a time, and finally in **Birmingham, Oakland County, Michigan** after his parents moved south. His father was milling at Birmingham, and John learned **the trade of a miller under his father's instruction**.
 
-[William Eesley's c. 1916 obituary](/docs/william-eesley-obituary-college-corner/) names the eldest brother as **"J. R., who follows milling."** A separate entry for "John R. Eesley" was briefly maintained in this archive while the obituary text and the GEDCOM appeared to disagree. The GEDCOM resolves the matter: Dale's tree has **no John R. Eesley** in this generation, only John Franklin. The "J. R." in the obituary is a transcription error or local family-memory variant for "J. F." — the same person whose Plainwell mill became the J. F. Eesley Milling Co.
+## The journeyman years, 1881–1887
 
-## The journeyman years, 1881&ndash;1887 &mdash; from a contemporary sketch
+He worked the trade across five states before he owned anything:
 
-A biographical sketch of John F. Eesley published in a Michigan county history &mdash; recovered in 2026 and reproduced below &mdash; fills in the six years the archive had skipped over between his apprenticeship and his arrival in Plainwell as an owner. He learned **the trade of a miller under the instruction of his father**, and then worked it across five states:
-
-- **Spring 1881** &mdash; came to Plainwell and took work with the **Merrill Milling Company**, staying about eighteen months.
+- **Spring 1881** — came to Plainwell and took work with the **Merrill Milling Company**, staying about eighteen months.
 - Then **Lockport, Illinois**, about twelve months.
 - Then south to **Eufaula, Alabama**; then **Huntington, Indiana**; then **Coshocton** and **Frazeysburg, Ohio**.
-- **1887** &mdash; returned to Plainwell, *"determined to make that city his permanent abiding place,"* with a sum saved that let him buy a mill of his own.
+- **1887** — returned to Plainwell, *"determined to make that city his permanent abiding place,"* with enough saved to buy a mill of his own.
 
-So the 1887 purchase was not a first arrival but a **return**: he had worked in the town as a hired miller six years earlier, left to learn the trade across the country, and came back to buy in. The sketch notes he then owned **the only steam mill in Plainwell**, "equipped with all the modern appliances," making flour, feed and buckwheat flour for the town and its neighbors.
+The 1887 purchase was a **return**, not a first arrival: he had worked in the town as a hired miller six years earlier, left to learn the trade across the country, and came back to buy in.
 
-His schooling is recorded too &mdash; the village schools of **Plottsville, Ontario**, then **New York City** where the family lived for a time, then **Birmingham, Oakland County, Michigan** after the move south.
+## The Goldie millwrights
 
-### The Goldie millwrights &mdash; where the trade came from
+A contemporary sketch says of his mother's family that **"for two hundred years or more the male portion of the Goldie family have been millwrights."** [Jennie Goldie](/family/jeanie-goldie/) was born in **Ayr, Scotland**, and came to America in 1844. A millwright builds and maintains the mill; a miller runs it — so the trade may have come into the family through her people as much as through his father's.
 
-The sketch carries one line that reframes the family's milling thread: of his mother's people it says that **"for two hundred years or more the male portion of the Goldie family have been millwrights."**
+## The Sunshine Flour Mill
 
-This archive has told the milling story down the **Eesley** male line &mdash; Old Stratford to Toronto to Plainwell. The sketch suggests the deeper source was **[Jennie Goldie](/family/jeanie-goldie/)**'s family: millwrights in Scotland for two centuries before she came to Montreal in 1844. A millwright builds and maintains the mill; a miller runs it. If the sketch is right, the Eesley men married into the trade as much as they inherited it.
-
-Born **11 December 1859** in Hamilton, Ontario, he made his way south and west across the international border to **Plainwell, Allegan County, Michigan** by 1887. There he bought the 1869 roller rink on West Bridge Street, converted it into the **Sunshine Flour Mill** under the *Sunshine Brand Flour* label, and made it the nation's second-largest producer of buckwheat flour at its peak. In 1903–04 he physically split the timber-frame mill building, moved it to East Bridge Street, and merged it with a grain elevator to create a unified mill-and-elevator landmark.
+In Plainwell he bought the 1869 **roller rink** on West Bridge Street and converted it into the **Sunshine Flour Mill**, selling under the *Sunshine Brand Flour* label. It was **the only steam mill in Plainwell**, "equipped with all the modern appliances," producing flour, feed and buckwheat flour for the town and its neighbors. At its height it turned out **600 barrels of buckwheat flour a day** and was the **second-largest producer of buckwheat flour in the United States**.
 
 ### Why he moved the mill: he bought the town a park
 
-The reason for that move is the best single fact this archive holds about his character, and it was nearly lost. The standard account says the mill moved *"to make room for the Ingraham and Travis Implement Store."* The Allegan County Heritage Trail marker for Plainwell told it properly:
+In 1903–04 he cut the timber-frame mill building in two, moved it to the 700 block of East Bridge Street, and merged it with a grain elevator into a single mill-and-elevator landmark. The reason was not commercial pressure:
 
 > *"J.F. Eesley traded his property with Ingraham and Travis, whose property was located in the flat iron, so that Mr. Eesley could give the flat iron property to the village for a park."*
 
-Ingraham and Travis held the triangular downtown parcel the town called **the Flat Iron**. Eesley wanted it for Plainwell, so he **traded them his own mill site** to get it — which is why he then had to saw his mill in half and move it across the river end of town — and **handed the Flat Iron to the village**. Dedicated at Plainwell's first homecoming in **1907**, it is **Hicks Park**, the oldest park in the city, and it is named for **Joseph Hicks**, the first village president. Not for the miller who bought the ground and gave it away.
+Ingraham and Travis held the triangular downtown parcel Plainwell called **the Flat Iron**. Eesley wanted it for the town, so he **traded them his own mill site** to get it — which is why he then had to move his mill across town — and **gave the Flat Iron to the village**. Dedicated at Plainwell's first homecoming in **1907**, it is **Hicks Park**, the oldest park in the city, named for **Joseph Hicks**, the first village president, rather than for the miller who acquired the ground and gave it away.
 
-The [mill still stands at 717 E. Bridge](/places/plainwell-eesley-mill/) because its owner preferred a park downtown to a convenient address. That is a documented act of civic giving in 1904 by Chuck's great-great-uncle — the earliest instance in this archive of **Thread #5 (service, stewardship, and giving)**, four generations before the [Zhou & Eesley Family Foundation](https://zhoueesleyfoundation.com).
+The [mill still stands at 717 E. Bridge](/places/plainwell-eesley-mill/) because its owner preferred a park downtown to a convenient address.
 
-*A caution on the source: the marker that carried this sentence — Stop 28 of the Allegan County Heritage Trail, "Early History of Plainwell" — has been **permanently removed**. By July 2023 the post held only a sticker reading "New Heritage Trail Signs Coming Soon," and the Historical Marker Database records it as not to be replaced. It was the only marker that mentioned the family, and there is no Michigan state marker for the mill. The [archived page](https://www.hmdb.org/m.asp?m=74530) preserves the text and photographs of the panel; the sentence above survives only there and in the city's park history.*
+## Marriage and children
 
-He married **[Kittie Belle Scott](/family/kittie-belle-scott/)** in Plainwell on **8 September 1885** &mdash; Kittie had been born across the township line in **Gun Plain Township**, Allegan County, a daughter of **Henry R. and Eliza Scott**, both natives of New York State.
+He married **[Kittie Belle Scott](/family/kittie-belle-scott/)** in Plainwell on **8 September 1885**. Kittie had been born across the township line in **Gun Plain Township**, Allegan County, a daughter of **Henry R. and Eliza Scott**, both natives of New York State.
 
-### The three children (resolved, 2026)
+They had three children, of whom one reached adulthood:
 
-Dale's tree recorded no children for John Franklin, and this page long carried the **FATHER** on his grave marker as an unexplained wrinkle. The Hillside Cemetery record settles it: there were **three children**, and only one reached adulthood.
+- **[Iva Belle Eesley](/family/iva-belle-eesley/)** (1887–1888) — died in infancy, the year after her father bought the mill; her middle name is her mother's.
+- **[Harold John Eesley](/family/harold-john-eesley/)** (1893–1977) — the only child to reach adulthood; outlived his father by nearly fifty years.
+- **[Franklin R. B. Eesley](/family/franklin-rb-eesley/)** (1898–1908) — died at about ten, carrying his father's middle name.
 
-- **[Iva Belle Eesley](/family/iva-belle-eesley/)** (1887&ndash;1888) &mdash; died in infancy, in the year after her father bought the mill; her middle name is her mother's.
-- **[Harold John Eesley](/family/harold-john-eesley/)** (1893&ndash;1977) &mdash; the only child to reach adulthood; outlived his father by nearly fifty years.
-- **[Franklin R. B. Eesley](/family/franklin-rb-eesley/)** (1898&ndash;1908) &mdash; died at about ten, carrying his father's middle name.
+## Later life
 
-The inscription was accurate all along; the tree was incomplete. Whether the Plainwell line continues through Harold is now an open question rather than a settled ending &mdash; see [his page](/family/harold-john-eesley/).
+He voted the **Prohibition** ticket, belonged to the **Knights of the Maccabees**, and was a member of the **Baptist** society.
 
-He ran the operation until his death &mdash; **9 July 1929 in Kalamazoo, Michigan**; buried in Plainwell two days later. The mill outlasted him by a century: the [building is on the National Register of Historic Places](/places/plainwell-eesley-mill/) and now operates as The Old Mill Brewpub. He is the **wealthiest member of the documented family** — see [Notable Family Members](/docs/notable-family-members/).
+He ran the mill until his death — **9 July 1929 in Kalamazoo, Michigan** — and was buried in Plainwell two days later, in plot **P8/7** at **Hillside Cemetery**. The mill outlasted him by a century: the [building is on the National Register of Historic Places](/places/plainwell-eesley-mill/) and now operates as The Old Mill Brewpub. He is the **wealthiest member of the documented family** — see [Notable Family Members](/docs/notable-family-members/).
 
-![The granite grave marker of John F. Eesley at Plainwell, Michigan, carved "FATHER / JOHN F. EESLEY / 1859–1929."](../../assets/family/originals/john-f-eesley-headstone.jpeg)
+![The granite grave marker of John F. Eesley at Hillside Cemetery, Plainwell, Michigan, carved "FATHER / JOHN F. EESLEY."](../../assets/family/originals/john-f-eesley-headstone.jpeg)
 
-*His grave marker at **Hillside Cemetery, Plainwell** (plot **P8/7**), carved* FATHER · JOHN F. EESLEY *&mdash; the "Father" designation, once a puzzle here, is explained by the three children recorded above. The final digit of the year is weathered and reads as either 1928 or 1929; the Find a Grave record and the Michigan death index give **9 July 1929**, which this archive follows. A companion "Mother" stone for [Kittie Belle Scott](/family/kittie-belle-scott/) (1864&ndash;1946) should stand in the same plot.*
+*His grave marker at **Hillside Cemetery, Plainwell** (plot **P8/7**), carved* FATHER · JOHN F. EESLEY. *The final digit of the year is weathered and reads as either 1928 or 1929; the Find a Grave record and the Michigan death index give **9 July 1929**. A companion "Mother" stone for [Kittie Belle Scott](/family/kittie-belle-scott/) (1864–1946) should stand in the same plot.*
 
-![The Eesley family monument at Hillside Cemetery, Plainwell, Michigan — a granite obelisk base carved EESLEY within an oval cartouche, with individual footstones set around it.](../../assets/family/originals/eesley-family-monument-hillside-cemetery-plainwell.jpeg)
+![The Eesley family monument at Hillside Cemetery, Plainwell, Michigan — a granite base carved EESLEY within an oval cartouche, with individual footstones set around it.](../../assets/family/originals/eesley-family-monument-hillside-cemetery-plainwell.jpeg)
 
-*The family monument at **Hillside Cemetery, Plainwell** &mdash; the surname alone, cut into an oval cartouche, with the individual markers set low around it. John Franklin's* FATHER *stone is one of these; the plot is **P8/7**.*
+*The family monument at Hillside Cemetery — the surname alone, cut into an oval cartouche, with the individual markers set low around it.*
 
 ![A newspaper biographical sketch of John F. Eesley, businessman of Plainwell and proprietor of the Eesley Mills, printed in a Michigan county history.](../../assets/family/originals/john-f-eesley-biographical-sketch-newspaper.jpeg)
 
-*The contemporary sketch quoted above &mdash; see the [full artifact entry](/archive/john-f-eesley-biographical-sketch/) for a transcription and notes.*
+*The c. 1890s county-history sketch that supplies the journeyman years, the schooling, and the Goldie millwright line — see the [full artifact entry](/archive/john-f-eesley-biographical-sketch/).*
 
 ## See also — family threads
 
-John F. Eesley is an anchor for two of the ten threads in the [**Family threads**](/docs/family-threads/) synthesis essay:
+John F. Eesley is an anchor for three of the ten threads in the [**Family threads**](/docs/family-threads/) synthesis essay:
 
+- **Thread #5 — Service, stewardship, and giving** — the **earliest documented instance**: trading his mill site to buy the Flat Iron and giving it to Plainwell as a park in 1904, four generations before the [Zhou & Eesley Family Foundation](https://zhoueesleyfoundation.com).
 - **Thread #9 — Crossing for what's next** — the [Stratford → America](/places/old-stratford-rother-street/) crossing in the 19th century.
-- **Thread #10 — Building things (entrepreneurship across four generations)** — the **canonical historical instance**: bought a roller rink in Plainwell, Michigan in 1887, converted it into the **Sunshine Flour Mill**, grew it to the second-largest buckwheat-flour producer in the U.S., physically divided and moved the building in 1903–04. The [building](/places/plainwell-eesley-mill/) is now on the National Register of Historic Places — *the family surname on a building, on a federal register*.
+- **Thread #10 — Building things (entrepreneurship across four generations)** — the **canonical historical instance**: bought a roller rink in 1887, converted it into the Sunshine Flour Mill, grew it to the second-largest buckwheat-flour producer in the U.S., and physically divided and moved the building in 1903–04. The [building](/places/plainwell-eesley-mill/) is now on the National Register of Historic Places.
 
-> *Source: [Dale Eesley / FamilySearch &mdash; John Franklin Eesley (LQY3-K8S)](https://www.familysearch.org/tree/person/details/LQY3-K8S); [J. F. Eesley Milling Co., Wikipedia](https://en.wikipedia.org/wiki/J._F._Eesley_Milling_Co._Flour_Mill%E2%80%93Elevator).*
+> *Sources: [Dale Eesley / FamilySearch — John Franklin Eesley (LQY3-K8S)](https://www.familysearch.org/tree/person/details/LQY3-K8S); [Find a Grave — John Franklin Eesley](https://www.findagrave.com/memorial/132028385/john-franklin-eesley) (children, burial plot); c. 1890s Michigan county-history sketch ([artifact](/archive/john-f-eesley-biographical-sketch/)); [J. F. Eesley Milling Co., Wikipedia](https://en.wikipedia.org/wiki/J._F._Eesley_Milling_Co._Flour_Mill%E2%80%93Elevator); Allegan County Heritage Trail marker text for the Flat Iron trade, preserved at [hmdb.org](https://www.hmdb.org/m.asp?m=74530) (marker since removed) and corroborated by the City of Plainwell's park history.*
