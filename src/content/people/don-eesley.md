@@ -26,7 +26,7 @@ Per Bean's 1985 register, Don and Margaret had **three children** (generation V)
 - **[Robert Douglas Eesley](/family/robert-douglas-eesley/)** (b. December 1, 1950) — married Roxie Mucklerath; children Amelia (1977) and Douglas Stuart (1979).
 - **[Marilyn Eesley](/family/marilyn-eesley-elkins/)** (b. December 24, 1951) — married James Elkins; children Emily Elkins (1977) and Peter Donald Elkins (1979).
 
-*(An earlier version of this page listed "five children," folding Lyle Stuart's sons Charles Stuart and Donald Steven in as Don's own; Bean's register places them a generation down, as Don's grandsons. Corrected 2026.)*
+
 
 He appears with Margaret in the [late-1940s/'60s Eesley family group portrait](/archive/eesley-family-group-portrait-late-1940s/), taken at his parents' home in Bexley.
 

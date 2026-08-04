@@ -1,6 +1,6 @@
 ---
 name: "Frances 'Fanny' Ayris Eesley"
-aka: "Frances Fanny Ayris, maiden; 'Frances Eesley' in the older brief framing, which had her surname wrong; 'Fanny Ayns' in the Oxford volunteer's reading"
+aka: "Frances Fanny Ayris, maiden; 'Fanny Ayns' in the Oxford volunteer's reading"
 line: paternal
 birth:
   date: "1756"

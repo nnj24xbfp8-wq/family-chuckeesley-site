@@ -19,7 +19,7 @@ dateRange:
 sortDate: "1971-04-02"
 private: false
 summary: "Charlie's two-day letter to Terrie dated 2 April 1971 (started) and 3 April 1971 (completed), reacting to Terrie's letter that her parents had come out against her flying to Hawaii to meet him for R&R. Charlie's first reaction in writing is anger — he is in the mood to call the whole trip off — but he sets the letter aside and comes back to it the next day, by which point he has decided to write Robert Earl and Dorothy directly. The hinge letter in the R&R parental-conflict thread that runs from the 22 March R&R orders to the 29 May 'I'm back from Saigon' letter."
-source: "Held in family archive — src/assets/family/originals/vietnam-letters/dad7.jpg (a single handwritten page, headed 'APR 2', signed 'Charles' at the foot). Correction (July 2026): an earlier version of this page appended a blue-ink 'third sheet' ('Your letter is a little bit disturbing… I guess I will now… I'm bringing about $400… keep studying. Love, Charles') that in fact belongs to the [31 March 1971 R&R-planning letter](/docs/letters/charlie-to-terrie-1971-03-31-rr-planning/) — its pages 2–3 (dad171, dad172), in blue ink and closing on R&R logistics ($400, reservations, a room), whereas this April 2–3 page is dark-ink and self-contained. The duplicated sheet has been removed here and remains on the 31 March letter, its correct home."
+source: "Held in family archive — src/assets/family/originals/vietnam-letters/dad7.jpg (a single handwritten page, headed 'APR 2', signed 'Charles' at the foot)."
 scans:
   - ../../../assets/family/originals/vietnam-letters/dad7.jpg
 ---

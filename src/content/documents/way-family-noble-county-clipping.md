@@ -40,7 +40,7 @@ The clipping covers **Edward Taylor Way's generation and his children**. It does
 
 ## A clarification June 2026
 
-Earlier passes of this archive misread the clipping &mdash; in the absence of the family-papers wedding portrait, I had inferred that Victoria Anna Way (born 1874) was the *daughter* of Edward Taylor Way directly. The [1901 wedding portrait identification legend](/archive/belle-way-howard-wickens-wedding-1901/), most likely annotated by Dorothy Marie Davis Wildermuth (Chuck's maternal grandmother), labels **Edward E. Way as "great-grandfather"** and **Tacy Matthews as "great-grandmother"** &mdash; making them Victoria's parents and Edward Taylor + Anna Ellison her grandparents. The GEDCOM trace (June 2026) confirms this generational placement.
+The clipping alone does not settle how Victoria Anna Way (born 1874) descends from Edward Taylor Way. The [1901 wedding portrait identification legend](/archive/belle-way-howard-wickens-wedding-1901/), most likely annotated by Dorothy Marie Davis Wildermuth (Chuck's maternal grandmother), does: it labels **Edward E. Way as "great-grandfather"** and **Tacy Matthews as "great-grandmother"** &mdash; making them Victoria's parents, and Edward Taylor + Anna Ellison her grandparents. The GEDCOM trace agrees.
 
 The clipping is therefore **the biographical document of Chuck's maternal three-times-great-grandparents and four-times-great-grandparents** &mdash; the deep-time English emigration of the Way line into Ohio. It is the documentary anchor of the Way-side family of [Crooked Tree Cemetery, Noble County, Ohio](/family/edward-e-way/), where four generations of the line are buried.
 

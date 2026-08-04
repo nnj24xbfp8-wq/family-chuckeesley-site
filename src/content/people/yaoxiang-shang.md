@@ -41,7 +41,7 @@ Yaoxiang was the elder of the Shang siblings &mdash; [Yaozhen](/family/yaozhen-s
 
 Per [Li Xun](/family/xun-li/) (2026), Yaoxiang **died in March 1993**, at about 81 &mdash; which also resolves the earlier photo-caption guess of 2013 (that would have made her 102).
 
-Yaoxiang's young-adult likeness is the [qipao photograph with her sister Yaozhen](/archive/lijie-grandmothers-young-women-c1940s/) (Yaoxiang at left). *(An earlier version of this page carried a man's studio portrait mislabeled as Yaoxiang; per Li Xun's 2026 identification that photograph is actually [Li Zhongchu](/family/zhongchu-li/) and has been moved to his page.)*
+Yaoxiang's young-adult likeness is the [qipao photograph with her sister Yaozhen](/archive/lijie-grandmothers-young-women-c1940s/) (Yaoxiang at left).
 
 A later photograph of Yaoxiang appears in the [maternal early-childhood family photos](/archive/lijie-grandparents-early-childhood-qingdao-c1980s/): c. 1988, she holds the baby [Ding Lijun](/family/ding-lijun/) ("Junjun"), with a young [Lijie](/family/lijie-zhou/) seated beside her.
 

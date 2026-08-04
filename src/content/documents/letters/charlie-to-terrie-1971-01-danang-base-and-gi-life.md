@@ -57,4 +57,4 @@ Roughly mid-January 1971, from the Da Nang rear. This is the longest and most ca
 
 **Marijuana, and the careful distance.** The only place in the corpus where Charlie writes at length about drugs in the ranks. His position is exact and characteristic: he doesn't think marijuana is dangerous, he just hates smoking and won't risk Army trouble so close to getting out. He places himself *near* the culture and consistently outside it &mdash; the same move he makes about sex (*"I'm still a good boy"*) and about the lifers he worked beside.
 
-**Editorial note.** This letter's intimate-register lines are elided above with [&hellip;], consistent with the collection's policy; the substantive, documentary content is kept intact. The letter was previously catalogued as two separate entries before its pages were recognized as a single physical letter and reconciled here.
+**Editorial note.** This letter's intimate-register lines are elided above with [&hellip;], consistent with the collection's policy; the substantive, documentary content is kept intact.

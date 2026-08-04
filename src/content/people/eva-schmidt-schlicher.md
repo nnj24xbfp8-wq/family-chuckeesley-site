@@ -24,7 +24,7 @@ This is the **mother of the Schlicher children** &mdash; wife of **[Theobald "Da
 
 ## Her name is now settled: Eva Schmidt
 
-An earlier version of this page carried her name only tentatively, because Dale Eesley's GEDCOM family record (@F56@) named Flora's mother as "Eva Schmidt" while another "Eva Schmidt" appeared elsewhere in the tree &mdash; a transcription tangle that left the identification unconfirmed.
+Her identification rested for a time on an ambiguous record: Dale Eesley's GEDCOM family record (@F56@) names Flora's mother as "Eva Schmidt," and a second "Eva Schmidt" appears elsewhere in the tree.
 
 The **[Schmidt family-history sheet and 1899 obituary](/family/john-jacob-schmidt/)** in Chuck's keeping resolve it independently. Eva Schmidt was the daughter of the Bavarian farmer **[John Jacob Schmidt](/family/john-jacob-schmidt/)** (1817&ndash;1899) and **[Eva Barbara (Bourtine) Schmidt](/family/eva-barbara-bourtine/)**; she was **born 29 December 1837 in Bavaria**, came with her family to Washington County, Ohio in the late 1840s, **married Theobald David Schlicher on 20 January 1861 at Marietta**, and **died 24 October 1915**. Her father spent his last year in her and David's Greene Street home and died there in January 1899. That documentary chain confirms she is the Schlicher mother, and the GEDCOM tangle can be set aside.
 

@@ -15,7 +15,7 @@ parents:
 spouses:
   - yunzhe-sun
 portrait: ../../assets/family/originals/IMG_1803.jpeg
-summary: "Lijie's paternal grandfather. Born 1 August 1930 in Jiaozhou Shi (the city-region just inland from Qingdao on the Shandong peninsula) — the ancestral place for this branch of the Zhou family. Worked at one of the early Qingdao photography studios — co-owned by his cousin (not by him; correction from Lijie's mother, June 2026). His daily practice was tai chi. Died 9 December 2022 in Qingdao, age 92."
+summary: "Lijie's paternal grandfather. Born 1 August 1930 in Jiaozhou Shi (the city-region just inland from Qingdao on the Shandong peninsula) — the ancestral place for this branch of the Zhou family. Worked at one of the early Qingdao photography studios — co-owned by his cousin. His daily practice was tai chi. Died 9 December 2022 in Qingdao, age 92."
 ---
 
 <p class="not-prose my-4 p-3 border-l-4 border-rule bg-ink/5 text-sm"><strong>📖 English version below — <a href="#en">Jump to English ↓</a></strong> &nbsp;·&nbsp; <em>本页中文在上，英文见下方。</em></p>
@@ -69,7 +69,7 @@ The Zhou family of Jiaozhou Shi extends further back than Lijie's paternal grand
 Zhou Zhaoxiang is the Zhou-side anchor for two of the ten threads in the [Family threads](/docs/family-threads/) synthesis essay:
 
 - Thread #9 — Crossing for what's next — the Jiaozhou Shi → Qingdao intra-Chinese crossing in his own lifetime parallels Robert Earl's Marietta → Stanford crossing in the same generation.
-- Thread #10 — Building things (entrepreneurship across four generations) — *the Zhou-side founder-entrepreneur instance had been provisionally attached to Lijie's grandfather and the Qingdao photography studio, but Lijie's mother's June 2026 correction relocates that founder-entrepreneur slot to his cousin (the actual studio co-owner) and leaves the Zhou-side entrepreneur identification open until clarified.*
+- Thread #10 — Building things (entrepreneurship across four generations) — *the Qingdao photography studio was co-owned by Zhaoxiang's cousin rather than founded by Zhaoxiang himself, so the Zhou-side founder-entrepreneur identification remains open.*
 
 > *Structured record: [FamilySearch &mdash; Zhaoxiang Zhou (GM57-BKY)](https://www.familysearch.org/tree/person/details/GM57-BKY).*
 

@@ -56,7 +56,7 @@ Robert Earl's [1989 memoir](/docs/robert-earl-wildermuth-memoir/) carries one su
 
 Earl Adam's two grieved-for grandmothers were Verona (Sadye's mother, d. 27 October 1922) and Flora Schlicher Wildermuth (Earl Adam's own mother, d. 18 November 1919 &mdash; both gone before Robert Earl's October 1924 birth). Catherina Boeshar &mdash; the German-immigrant *great*-grandmother on the Wildermuth side &mdash; outlived both by a generation and stepped, partially, into the absence. Verona did not.
 
-The lament was, for a long time, the only narrative of Verona this archive had. But Robert Earl in fact devoted several careful pages to her in [his own family genealogy](/docs/wildermuth-family-of-marietta-book/) — reconstructing her out-of-wedlock birth, the Sheppard adoption, the 1885 marriage, the fourteen children, and the courthouse-steps death. It is from that research, not the memoir, that the fuller picture above is drawn.
+The lament is not the whole of what he left about her. Robert Earl devoted several careful pages to Verona in [his own family genealogy](/docs/wildermuth-family-of-marietta-book/) — reconstructing her out-of-wedlock birth, the Sheppard adoption, the 1885 marriage, the fourteen children, and the courthouse-steps death. It is from that research, not the memoir, that the fuller picture above is drawn.
 
 ## "She loved kids" — a Fleming cousin's memory (1985)
 
