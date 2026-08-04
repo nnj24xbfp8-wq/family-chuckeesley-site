@@ -129,6 +129,12 @@ On the two histories Charles Leonard's 1942 found himself between:
 - [Densho](https://densho.org) &mdash; the archive of the Japanese-American internment Stella was at risk from.
 - [*Bexley (Images of America)*](https://www.arcadiapublishing.com/products/bexley-9781467112178) by the Bexley Historical Society (Arcadia Publishing, 2014) &mdash; the neighborhood the wartime household kept itself together in.
 
+## The shared grave marker
+
+![The shared rose-granite grave marker of Charles Leonard Eesley and his wife Lillie Dale (Chenoweth) Eesley — EESLEY carved across the top, MOTHER · LILLY · AUG. 5 1877 on the left panel and FATHER · CHARLES · SEPT. 26 1879 · OCT. 9 1972 on the right.](../../assets/family/originals/charles-leonard-lillie-eesley-headstone.jpeg)
+
+*The double stone Charles Leonard shares with [Lillie Dale](/family/lillie-dale-chenoweth/). His panel gives his dates in full &mdash; **Sept. 26, 1879 – Oct. 9, 1972** &mdash; and supplies the exact day of death that this archive otherwise records only to the month. Lilly's panel carries only her birth, cut as **Aug. 5, 1877** (her wedding invitation and this archive give 9 August 1877), with no death date added; she died January 1970. Photograph supplied by Chuck, 2026.*
+
 ## See also — family threads
 
 Charles Leonard is an anchor for **Thread #5 (Service, stewardship, and giving)** in the [**Family threads**](/docs/family-threads/) synthesis essay — specifically the *"brought [Stella](/family/stella/) from Hawaii during WWII to keep her clear of the West Coast Japanese-American internment camps"* act of stewardship-of-another-person's-life. *"Sent macadamia nuts back from Hawaii for years"* is the rest of that thread told from Stella's end.

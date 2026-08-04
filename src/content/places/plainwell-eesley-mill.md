@@ -17,7 +17,7 @@ pairs:
     caption: "The mill John F. Eesley built, roughly a century apart — the working Sunshine Flour Mill of the early 1900s and the same structure today as The Old Mill Brewpub."
     thenYear: "c. early 1900s"
     thenImage: ../../assets/family/originals/plainwell-eesley-mill-historic-c1900s.jpeg
-    thenCaption: "The Sunshine Flour Mill in operation, early 1900s — the long covered loading dock lined with sacks of flour. A colorized print circulated in a Plainwell 'Then and Now' local-history post (Jim Higgs)."
+    thenCaption: "The Sunshine Flour Mill in operation, early 1900s — the gable painted USE SUNSHINE · J. F. EESLEY MILLING CO · BUCKWHEAT MILLS · DAILY CAPACITY 500 Bbls, an L.S. & M.S. boxcar on the siding in front and 'PLAINWELL MICH' lettered at the lower corner."
     nowYear: "2019"
     nowImage: ../../assets/family/originals/plainwell-eesley-mill-streetview-2019.jpeg
     nowCaption: "The same building in 2019 (Google Street View) — now The Old Mill Brewpub at 717 E. Bridge Street, 'THE EESLEY MILL' lettered across the gable."
@@ -45,7 +45,11 @@ So the mill stands at 717 E. Bridge today *because* its owner bought a park for 
 
 ## Then and now
 
-The two frames above &mdash; placed from photographs [Chuck](/family/charles-eric-eesley/) supplied in 2026 &mdash; are the first images of the mill in this archive: the **Sunshine Flour Mill in operation in the early 1900s**, flour sacks stacked along the covered loading dock (a colorized "Then and Now" local-history print, Jim Higgs), beside a **2019 Google Street View** of the same building as The Old Mill Brewpub, "THE EESLEY MILL" lettered across the gable. What still hasn't happened is an **Eesley descendant standing at the building in the present generation**: **Chuck plans the first family visit in November**, on the same trip as a talk at the University of Michigan, and a family frame will join these two afterward.
+The two frames above &mdash; placed from photographs [Chuck](/family/charles-eric-eesley/) supplied in 2026 &mdash; are the first images of the mill in this archive: the **Sunshine Flour Mill in operation in the early 1900s**, the gable painted *USE SUNSHINE &middot; J. F. EESLEY MILLING CO &middot; BUCKWHEAT MILLS &middot; DAILY CAPACITY 500 Bbls* with an L.S. &amp; M.S. boxcar drawn up on the siding in front, beside a **2019 Google Street View** of the same building as The Old Mill Brewpub, "THE EESLEY MILL" lettered across the gable. (The painted sign advertised 500 barrels a day; at its peak the mill reached about 600.) What still hasn't happened is an **Eesley descendant standing at the building in the present generation**: **Chuck plans the first family visit in November**, on the same trip as a talk at the University of Michigan, and a family frame will join these afterward.
+
+![A 2019 Google Street View of the Eesley Mill from across East Bridge Street — the grey mill with its covered porch at left, and to the right the neighboring red-roofed barn and a red railroad caboose beside the tracks.](../../assets/family/originals/plainwell-eesley-mill-streetview-2019-wide.jpeg)
+
+*A wider 2019 street view: the mill at left, and across the way the red-roofed barn and a caboose by the rail crossing &mdash; the East Bridge Street setting the 1903 move brought the building to.*
 
 > *The physical Allegan County Heritage Trail marker that once carried a full Eesley Mill panel (Stop 28, "Early History of Plainwell") is gone — replaced by a "New Heritage Trail Signs Coming Soon" sticker by July 2023 and listed as permanently removed — but [the archived marker page on hmdb.org](https://www.hmdb.org/m.asp?m=74530) keeps photographs of the panel, including the historic mill image printed on it. There is no Michigan state marker for the mill.*
 
