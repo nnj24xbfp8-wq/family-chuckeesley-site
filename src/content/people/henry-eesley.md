@@ -31,7 +31,7 @@ The souvenir lists eight children, one already deceased, the rest scattered acro
 
 Dale Eesley's FamilySearch tree resolves the question this page once left open: **Henry was a son of the emigrant [John Eesley](/family/john-eesley-1800/)** (1799–1870) **and [Susannah Bubb](/family/susan-babbs/)** — and therefore a **younger brother of [Albert Robert Eesley Sr](/family/albert-robert-eesley/)**, not a cousin. Three facts line up:
 
-- **The 1851 census.** Henry *is* the *"Henry, 8"* in his father John's Rother Street household in Old Stratford — the same census that lists his older brothers William and Albert. (An earlier version of this page mistakenly read him as absent from that household.) His birth of **27 March 1842** matches the age-8 entry.
+- **The 1851 census.** Henry *is* the *"Henry, 8"* in his father John's Rother Street household in Old Stratford — the same census that lists his older brothers William and Albert. His birth of **27 March 1842** matches the age-8 entry.
 - **The spouse match.** The tree records his wife as **Matilda Clemens Wilkins** — the *"Clemens Wilkins"* of the 1915 souvenir — married in Oxford County, Ontario, in 1865.
 - **The shared path.** Henry followed the same **England → Canada → U.S. Midwest** route as his brother Albert Robert, settling at Midland, Michigan, while Albert Robert moved through Michigan mill towns to Toronto.
 

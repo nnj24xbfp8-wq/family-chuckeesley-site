@@ -41,7 +41,7 @@ Tacy died on **29 January 1902**, four months after Belle's September 1901 weddi
 
 ## In the 1901 wedding portrait
 
-Edward E. Way is **figure #8** in the family's identification legend for the [Belsora-Howard Wickens 1901 wedding portrait](/family/belsora-way-wickens/) &mdash; labeled there as *"Edward E. Way (great-grandfather)"* from his granddaughter Dorothy Davis Wildermuth's perspective. The legend mistakes that have circulated on this page in earlier passes &mdash; conflating him with his father Edward *Taylor* Way &mdash; were corrected on the basis of the GEDCOM trace and Dorothy's family-papers annotation, which is unambiguous.
+Edward E. Way is **figure #8** in the family's identification legend for the [Belsora-Howard Wickens 1901 wedding portrait](/family/belsora-way-wickens/) &mdash; labeled there as *"Edward E. Way (great-grandfather)"* from his granddaughter Dorothy Davis Wildermuth's perspective. He is not to be confused with his father, Edward *Taylor* Way (1812&ndash;1879), the English immigrant.
 
 ## Why the 1924 death matters
 

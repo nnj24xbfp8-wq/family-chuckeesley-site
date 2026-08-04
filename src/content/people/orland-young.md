@@ -5,7 +5,7 @@ status: sketch
 summary: "Top turret gunner of Robert Earl Wildermuth's B-24 crew, 400th Squadron, 90th Bomb Group, Pacific theater 1944–45. From Coldwater, Ohio — 'another good old Ohioan' in Robert Earl's pen. 'Very quiet and shy; a loner but absolutely dependable.' One of two Ohioans on the crew, the other being Robert Earl himself."
 ---
 
-He was the top turret gunner of Robert Earl Wildermuth's ten-man B-24 Liberator crew &mdash; manning the upper-fuselage turret mounted on the roof of the airplane, twin .50-caliber machine guns covering the full upper hemisphere. (An earlier version of this page had him as the *waist gunner* from Akron; the [June 2026 OCR pass through the Big One manuscript](/docs/the-big-one/) settles his position as the top turret and his hometown as Coldwater.)
+He was the top turret gunner of Robert Earl Wildermuth's ten-man B-24 Liberator crew &mdash; manning the upper-fuselage turret mounted on the roof of the airplane, twin .50-caliber machine guns covering the full upper hemisphere.
 
 From Coldwater, Ohio &mdash; a small village in Mercer County in west-central Ohio, near the Indiana border south of Lima. Robert Earl's [Big One manuscript](/docs/the-big-one/) opens his sketch with the warm shorthand of shared geography &mdash; *"another good old Ohioan"* &mdash; and gives him a brief, careful character note:
 

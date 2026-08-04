@@ -24,6 +24,6 @@ summary: "Lijie's maternal great-uncle — the elder of Yaozhen's two brothers (
 
 ## English
 
-Birth and death not yet recorded. Per [Li Xun](/family/xun-li/), Yaoli was her **大舅** — her eldest maternal uncle — meaning he was the elder of Yaozhen's two brothers, older than [Yaofu](/family/yaofu-shang/) (b. 1925). (An earlier version of this page had him as the youngest sibling; that is corrected.) The formal portrait above is identified as Yaoli by Li Xun, 2026.
+Birth and death not yet recorded. Per [Li Xun](/family/xun-li/), Yaoli was her **大舅** — her eldest maternal uncle — meaning he was the elder of Yaozhen's two brothers, older than [Yaofu](/family/yaofu-shang/) (b. 1925). The formal portrait above is identified as Yaoli by Li Xun, 2026.
 
 ![Formal portrait of Shang Yaoli — identified by Li Xun (her 大舅), 2026.](../../assets/family/originals/shang-yaoli-portrait.jpeg)

@@ -59,7 +59,7 @@ The page also names *"Uncle Charlie"* &mdash; one of Robert Earl's father's brot
 
 The page closes with: *"Yes your Mom was born in Waverly W. Virginia. No Bob I dont know the date my grand parents came to Marietta. I hope my help will be of some help but that is the best I can do."*
 
-Robert Earl's own mother (Earl Adam's wife, Dorothy or Sadye depending on the structured record &mdash; see [Sadye Fleming Wildermuth](/family/sadye-fleming-wildermuth/)) was therefore born in **Waverly, West Virginia**, a detail this archive had not previously locked in.
+Robert Earl's own mother (Earl Adam's wife, Dorothy or Sadye depending on the structured record &mdash; see [Sadye Fleming Wildermuth](/family/sadye-fleming-wildermuth/)) was therefore born in **Waverly, West Virginia**, a detail not previously recorded here.
 
 The closing line signature: *"Well write when you can and you all take care / Dad and Carl / 622 Hudson Ave / Newark Ohio 43055."*
 

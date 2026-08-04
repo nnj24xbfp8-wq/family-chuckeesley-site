@@ -8,7 +8,7 @@ summary: "Ball turret gunner and assistant engineer of Robert Earl Wildermuth's 
 
 He was the ball turret gunner &mdash; the man who rode the glass-bubble turret lowered through the floor of the B-24 Liberator to hang beneath the airplane in flight &mdash; on Robert Earl Wildermuth's ten-man crew. He was also the crew's assistant engineer and armament supervisor.
 
-From Columbus, Wisconsin. (An earlier version of this page had him from Madison; the [June 2026 OCR pass through the Big One manuscript](/docs/the-big-one/) settles the smaller town.) Like his crewmate [Fuzzy Kuszmaul](/family/frederick-kuszmaul/), he had originally enlisted for pilot training but was *"eliminated from pilot training during the big phase down when pilot trainees became surplus."*
+From Columbus, Wisconsin. Like his crewmate [Fuzzy Kuszmaul](/family/frederick-kuszmaul/), he had originally enlisted for pilot training but was *"eliminated from pilot training during the big phase down when pilot trainees became surplus."*
 
 His armament role on the crew was the most operationally weighty position outside the pilots' seats. Robert Earl's [memoir](/docs/the-big-one/) lays it out:
 

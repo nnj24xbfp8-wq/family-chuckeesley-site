@@ -20,7 +20,7 @@ summary: "Mother of Lillie Dale Chenoweth Eesley; Chuck's great-great-grandmothe
 
 Mary O. Timmons was born in **March 1845** in Ohio, daughter of [John K. Timmons](/family/john-k-timmons/) and his wife **Elizabeth "Betsey"** (maiden surname not yet recovered). The structured record gives her name as **Mary O.**; Aunt Maggie Eesley's *Four Generations* archive expands it to **Mary Ohio** with the etymology note that **"Ohio" means "beautiful river"** in the Iroquoian tongue from which it was borrowed &mdash; given to her, the family memory holds, "to honor the state in which she was born." Whether her middle name was actually Ohio on her birth certificate or whether the family had expanded the initial O. into a meaning over the generations is itself a small open question worth flagging.
 
-The Egge record names her mother **Elizabeth "Betsey" ?** &mdash; the given name plus the family nickname survived in the structured record but the maiden surname did not. This is one generation deeper on the Timmons side than this archive had reached before tonight. A pass against the 1850 or 1860 Ohio census for John K. Timmons's household would likely surface Elizabeth's full name; she would have been alive in those years (Mary was 5 in 1850).
+The Egge record names her mother **Elizabeth "Betsey" ?** &mdash; the given name plus the family nickname survived in the structured record but the maiden surname did not. This is the deepest the Timmons side currently reaches. A pass against the 1850 or 1860 Ohio census for John K. Timmons's household would likely surface Elizabeth's full name; she would have been alive in those years (Mary was 5 in 1850).
 
 She married **[Joseph Hill Chenoweth](/family/joseph-hill-chenoweth/) in late 1864** in Franklin County, Ohio &mdash; this archive records 25 November 1864; Jon Egge's structured record gives 1 December 1864. The two dates are six days apart; they may represent the marriage license vs. the ceremony, or one may be a transcription error. The marriage falls in the final winter of the Civil War, six months after the Confederate surrender at Appomattox had effectively ended major hostilities. Joseph Hill himself served in the Union Army.
 
@@ -71,7 +71,7 @@ Roberta has flagged that the album and adjacent materials include:
 - Mary's **1862 teacher's certificate** &mdash; a separate artifact, not bound in the album.
 - The **1860s handwritten Chenoweth family register** &mdash; a separate artifact, also not bound in the album, that anchors the Chenoweth Family Association's online genealogy.
 
-(Correction, June 2026: the family register and teacher's certificate are **separate artifacts, not bound in the family photo album**, as an earlier pass of this page implied. They sit alongside the album in Roberta's keeping.)
+
 
 ## Aunt Mary Bean's research and the manila-paper scrolls
 

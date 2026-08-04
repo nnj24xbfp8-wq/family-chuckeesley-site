@@ -56,8 +56,8 @@ Reading the photograph as a genealogical document, **Chuck's direct line runs th
 
 Four of the five (#5, #6, #7, #8) are seated as senior figures at the wedding; the fifth (#11) is held or sat near them. The Way-Davis line that runs forward seventy-eight years to Chuck's December 1979 birth is, on this porch in Noble County in September 1901, **standing and seated together in a single photographic instant**.
 
-## A correction the photograph forced
+## What the photograph settles
 
-This portrait is also the document that closed a generational error in this archive. Earlier passes had placed Victoria Anna Way as the *daughter* of Edward Taylor Way (1812-1879, the English immigrant of the Way newspaper clipping). The ID legend &mdash; with Edward E. Way as *"great-grandfather"* and Victoria as *"grandmother"* from Dorothy's perspective &mdash; is unambiguous: Edward E. Way is Victoria's *father* (one generation below the immigrant Edward Taylor). The GEDCOM trace confirms it. **Edward Taylor Way and Anna Ellison are Victoria's grandparents, not her parents.**
+This portrait is also what fixes the Way generations. The ID legend &mdash; with Edward E. Way as *"great-grandfather"* and Victoria as *"grandmother"* from Dorothy's perspective &mdash; is unambiguous: Edward E. Way is Victoria's *father*, one generation below the English immigrant Edward Taylor Way (1812&ndash;1879) of the Way newspaper clipping. The GEDCOM trace agrees. **Edward Taylor Way and Anna Ellison are Victoria's grandparents, not her parents.**
 
 The wedding portrait corrected the line.
