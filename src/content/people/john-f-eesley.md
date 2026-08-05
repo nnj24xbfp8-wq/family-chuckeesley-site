@@ -51,7 +51,9 @@ In 1903–04 he cut the timber-frame mill building in two, moved it to the 700 b
 
 Ingraham and Travis held the triangular downtown parcel Plainwell called **the Flat Iron**. Eesley wanted it for the town, so he **traded them his own mill site** to get it — which is why he then had to move his mill across town — and **gave the Flat Iron to the village**. Dedicated at Plainwell's first homecoming in **1907**, it is **[Hicks Park](/places/hicks-park-plainwell/)**, the oldest park in the city, named for **Joseph Hicks**, the first village president, rather than for the miller who acquired the ground and gave it away.
 
-The [mill still stands at 717 E. Bridge](/places/plainwell-eesley-mill/) because its owner preferred a park downtown to a convenient address.
+The [mill still stands at 717 E. Bridge](/places/plainwell-eesley-mill/) because its owner preferred a park downtown to a convenient address. The Register nomination for the building places the original mill site precisely: **West Bridge Street, across from what is now Hicks Park** — the two parcels faced each other across the street.
+
+The company also ran a **second mill on N. Main Street**, photographed in 1911 and [destroyed by fire in 1932](/places/plainwell-eesley-mill/); its site is now a parking lot.
 
 ## Marriage and children
 
