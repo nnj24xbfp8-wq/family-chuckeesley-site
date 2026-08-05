@@ -43,11 +43,17 @@ So the mill stands at 717 E. Bridge today *because* its owner bought a park for 
 
 **Feed mill, then reuse (1929–present):** After John F. Eesley's death in 1929 the **Plainwell Elevator Company** took the facility over and ran it as a **feed mill until the 1990s**. The building was **renovated in 2006**, listed on the **National Register of Historic Places in 2010** — its century-old wooden floors, posts, and post-and-beam framing preserved — and now operates as **The Old Mill Brewpub**, a restaurant, coffee shop, and brewery.
 
-### The brand outlived the business
+### How the building tells its own story now
 
-The brewpub that occupies the building brews a beer called **Sunshine** — after the *Sunshine Brand Flour* that John F. Eesley milled here. The label he chose in the 1890s is still being printed in his own building, a century after the flour stopped. Other taps take their names from the same local stock: **Island City**, for Plainwell's nickname, and **Railside Red**.
+The Old Mill Brewpub's account of the building is two sentences long:
 
-The present occupant's history describes the building as having been *the largest* buckwheat flour mill in the country, where the National Register listing and most accounts say **second-largest**. The archive follows the more conservative reading.
+> *"Old Mill Brewpub & Grill is listed on the National Registry of Historic Places. Built in 1869, this four story building was once the largest buckwheat flour mill in the country."*
+
+Neither **John F. Eesley** nor the **Sunshine Flour Mill** is named in it — though *"THE EESLEY MILL"* is lettered across the gable outside. As at [Hicks Park](/places/hicks-park-plainwell/), the family name is on the thing without being in the story told about it.
+
+Two points of difference with the record kept here. The brewpub says **"the largest"** buckwheat flour mill in the country; the National Register listing and most other accounts say **second-largest**, which is the reading this archive follows. And it describes a **four-story** building, where the National Register description is a three-story gable-roofed mill joined to a gambrel-roofed elevator — possibly a difference between counting the mill alone and counting the elevator's full height.
+
+The brewpub's taps include a beer called **Sunshine**, alongside **Island City** (for Plainwell's nickname) and **Railside Red**. Whether *Sunshine* is a deliberate nod to the *Sunshine Brand Flour* milled in the building is not stated anywhere on their site — the coincidence is suggestive but undocumented.
 
 ## Then and now
 
