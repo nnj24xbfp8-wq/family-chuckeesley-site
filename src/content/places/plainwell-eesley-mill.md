@@ -6,17 +6,26 @@ country: "United States"
 coords:
   lat: 42.4439
   lng: -85.6470
-summary: "The flour mill John F. Eesley built in Plainwell, Michigan in 1887 — converted from a downtown roller rink, then moved and merged with a grain elevator in 1903–04 — that grew into the second-largest producer of buckwheat flour in the United States under the 'Sunshine Brand Flour' label. Listed on the National Register of Historic Places in 2010; now The Old Mill Brewpub."
+summary: "The flour mill John F. Eesley established in Plainwell, Michigan in 1891 — at a downtown roller-rink building, then moved in 1903 and merged with an existing grain elevator — that grew into the second-largest producer of buckwheat flour in the United States under the 'Sunshine Brand Flour' label. Listed on the National Register of Historic Places in 2010; now The Old Mill Brewpub."
 significance: "The family surname literally on the historical register. Three generations of Eesley millers — Joseph in Hanwell, John in Old Stratford, John F. in Plainwell — and this is the building that closed the chain. It is the only piece of physical Eesley infrastructure to survive into the 21st century."
 relatedPeople:
   - john-f-eesley
 status: photographed
 visits: []
+pairs:
+  - subject: "The Eesley Mill on East Bridge Street"
+    caption: "The mill John F. Eesley built, roughly a century apart — the working Sunshine Flour Mill of the early 1900s and the same structure today as The Old Mill Brewpub."
+    thenYear: "c. early 1900s"
+    thenImage: ../../assets/family/originals/plainwell-eesley-mill-historic-c1900s.jpeg
+    thenCaption: "The Sunshine Flour Mill in operation, early 1900s — the gable painted USE SUNSHINE · J. F. EESLEY MILLING CO · BUCKWHEAT MILLS · DAILY CAPACITY 500 Bbls, an L.S. & M.S. boxcar on the siding in front and 'PLAINWELL MICH' lettered at the lower corner."
+    nowYear: "2019"
+    nowImage: ../../assets/family/originals/plainwell-eesley-mill-streetview-2019.jpeg
+    nowCaption: "The same building in 2019 (Google Street View) — now The Old Mill Brewpub at 717 E. Bridge Street, 'THE EESLEY MILL' lettered across the gable."
 ---
 
-**The roller-rink beginning (1869):** A roller-rink structure was built on West Bridge Street in downtown Plainwell.
+**The two original buildings (1869–1873):** The west building — the future mill — was put up on the south side of West Bridge Street in downtown Plainwell in **1869**, purportedly to house a roller rink. The east building — the grain **elevator** — was built on the present East Bridge Street site about **1870–1873** by an original owner who has not been identified.
 
-**The industrial conversion (1887):** John F. Eesley, an English emigrant who had moved up from Birmingham, bought the rink and converted it into the **Sunshine Flour Mill**.
+**The Sunshine Flour Mill (1891):** [John F. Eesley](/family/john-f-eesley/) — by then the operator of the nearby **D. B. Merrill flour mill**, having returned to Plainwell in 1887 — **partnered with three other local entrepreneurs in 1891** to establish the **Sunshine Flour Mill** at the West Bridge Street building.
 
 **National success:** Under the "Sunshine Brand Flour" label, the mill expanded to producing up to six hundred barrels of buckwheat flour a day — the second-largest such producer in the United States at its peak.
 
@@ -32,9 +41,23 @@ So the mill stands at 717 E. Bridge today *because* its owner bought a park for 
 
 **End of the milling era (1929):** John F. Eesley ran the operation until his death. The Plainwell Elevator Company acquired the facility and turned it from consumer flour production to regional farming support — livestock feed, corn, hay — for the next six decades.
 
-**Recognition and reuse (2010 – ):** Listed on the National Register of Historic Places in 2010. The building's 100-year-old wooden floors, posts, and post-and-beam architecture were preserved during renovation, and the site now operates as **The Old Mill Brewpub** — a local restaurant, coffee shop, and brewery.
+**Feed mill, then reuse (1929–present):** After John F. Eesley's death in 1929 the **Plainwell Elevator Company** took the facility over and ran it as a **feed mill until the 1990s**. The building was **renovated in 2006**, listed on the **National Register of Historic Places in 2010** — its century-old wooden floors, posts, and post-and-beam framing preserved — and now operates as **The Old Mill Brewpub**, a restaurant, coffee shop, and brewery.
 
-> *No family photographs of the mill in operation are yet in this archive, and no Eesley descendant has yet stood at the building in the present generation. **Chuck plans the first family visit in November**, on the same trip as a talk at the University of Michigan; the page will move from* `unreached` *to* `photographed` *after that frame is made. The surviving present-day evidence for now is what others have photographed of the building — the **EESLEY MILL · BUILT 1903** sign on the present-day façade — visible in [the archived Heritage Trail marker page on hmdb.org](https://www.hmdb.org/m.asp?m=74530) &mdash; **note the marker itself is gone**: Stop 28 of the Allegan County Heritage Trail ("Early History of Plainwell"), which carried a full panel on the Eesley Mill, was replaced by a "New Heritage Trail Signs Coming Soon" sticker by July 2023 and is listed as permanently removed. The archived page keeps photographs of the panel, including the historic mill image printed on it; there is no Michigan state marker for the mill and the [mlive coverage](https://www.mlive.com/penaseeglobe/2010/03/eesley_mill.html) when the building made the National Register in 2010.*
+## Then and now
+
+The two frames above &mdash; placed from photographs [Chuck](/family/charles-eric-eesley/) supplied in 2026 &mdash; are the first images of the mill in this archive: the **Sunshine Flour Mill in operation in the early 1900s**, the gable painted *USE SUNSHINE &middot; J. F. EESLEY MILLING CO &middot; BUCKWHEAT MILLS &middot; DAILY CAPACITY 500 Bbls* with an L.S. &amp; M.S. boxcar drawn up on the siding in front, beside a **2019 Google Street View** of the same building as The Old Mill Brewpub, "THE EESLEY MILL" lettered across the gable. (The painted sign advertised 500 barrels a day; at its peak the mill reached about 600.) What still hasn't happened is an **Eesley descendant standing at the building in the present generation**: **Chuck plans the first family visit in November**, on the same trip as a talk at the University of Michigan, and a family frame will join these afterward.
+
+![A 2019 Google Street View of the Eesley Mill from across East Bridge Street — the grey mill with its covered porch at left, and to the right the neighboring red-roofed barn and a red railroad caboose beside the tracks.](../../assets/family/originals/plainwell-eesley-mill-streetview-2019-wide.jpeg)
+
+*A wider 2019 street view: the mill at left, and across the way the red-roofed barn and a caboose by the rail crossing &mdash; the East Bridge Street setting the 1903 move brought the building to.*
+
+A second surviving historic frame shows the mill from its loading-dock side:
+
+![The Sunshine Flour Mill from its loading-dock side, early 1900s — the long covered platform along the ground floor stacked with sacks of flour, the mill rising behind.](../../assets/family/originals/plainwell-eesley-mill-historic-loading-dock.jpeg)
+
+*The loading-dock side of the mill in its working years — a second early-1900s view to set beside the signage-side photograph in the diptych above.*
+
+> *The physical Allegan County Heritage Trail marker that once carried a full Eesley Mill panel (Stop 28, "Early History of Plainwell") is gone — replaced by a "New Heritage Trail Signs Coming Soon" sticker by July 2023 and listed as permanently removed — but [the archived marker page on hmdb.org](https://www.hmdb.org/m.asp?m=74530) keeps photographs of the panel, including the historic mill image printed on it. There is no Michigan state marker for the mill.*
 
 ## The "Historic Eesley Mill" sign
 
@@ -42,4 +65,4 @@ So the mill stands at 717 E. Bridge today *because* its owner bought a park for 
 
 The Eesley name on the current downtown Plainwell sign &mdash; carrying [John F. Eesley](/family/john-f-eesley/)'s 1880s milling enterprise into the 21st-century commercial life of the building. The four panel businesses all operate on or around the mill site today.
 
-> *Sources: [J. F. Eesley Milling Co. Flour Mill–Elevator, Wikipedia](https://en.wikipedia.org/wiki/J._F._Eesley_Milling_Co._Flour_Mill%E2%80%93Elevator); [Plainwell mill history at mlive.com](https://www.mlive.com/penaseeglobe/2010/03/eesley_mill.html); historical marker at hmdb.org/m.asp?m=74530; [The Old Mill Brewpub opening, mlive.com](https://www.mlive.com/business/west-michigan/2012/02/new_brewpub_opens_this_week_in.html).*
+> *Sources: mill history from **The Old Mill (Old Mill Brewpub) website** (the 1869 west building, the 1870–73 elevator, the 1891 establishment with three partners while Eesley ran the D. B. Merrill mill, the 1903 move, 600 barrels/day, the Plainwell Elevator Company feed-mill era to the 1990s, and the 2006 renovation), supplied by Chuck 2026; the early-1900s "Then and Now" mill photograph via a Plainwell local-history post (Jim Higgs); [J. F. Eesley Milling Co. Flour Mill–Elevator, Wikipedia](https://en.wikipedia.org/wiki/J._F._Eesley_Milling_Co._Flour_Mill%E2%80%93Elevator); [Plainwell mill history at mlive.com](https://www.mlive.com/penaseeglobe/2010/03/eesley_mill.html); historical marker at hmdb.org/m.asp?m=74530; [The Old Mill Brewpub opening, mlive.com](https://www.mlive.com/business/west-michigan/2012/02/new_brewpub_opens_this_week_in.html).*

@@ -64,6 +64,12 @@ Per Roberta Burnes Walker's reconstruction from Aunt Mary Eesley Bean's research
 
 She died in **January 1970**, age 92, less than three years before her husband Charles Leonard. She is the matriarch at the center of the [late-1940s/'60s family group portrait](/archive/eesley-family-group-portrait-late-1940s/), photographed at the Bexley home where she had raised everyone.
 
+## The shared grave marker
+
+![The shared rose-granite grave marker of Lillie Dale (Chenoweth) Eesley and her husband Charles Leonard Eesley — EESLEY carved across the top, MOTHER · LILLY · AUG. 5 1877 on the left panel and FATHER · CHARLES · SEPT. 26 1879 · OCT. 9 1972 on the right.](../../assets/family/originals/charles-leonard-lillie-eesley-headstone.jpeg)
+
+*The double stone Lillie Dale shares with [Charles Leonard](/family/charles-leonard-eesley/). Her panel reads simply MOTHER · LILLY · **AUG. 5 1877** &mdash; a few days off from the **9 August 1877** her wedding invitation and this archive record &mdash; with no death date carved, though she died in January 1970. His panel gives his dates in full: Sept. 26, 1879 – Oct. 9, 1972. Photograph supplied by Chuck, 2026.*
+
 The Chenoweth marriage is one of two places the paternal family's American branches widen: through Lillie Dale come **[Joseph Hill Chenoweth](/family/joseph-hill-chenoweth/) (1832&ndash;1910)** and **[Mary O. Timmons Chenoweth](/family/mary-ohio-timmons-chenoweth/) (1845&ndash;1919)**, and behind them **[John K. Timmons](/family/john-k-timmons/) (1806&ndash;1888)** &mdash; the deepest documented ancestor on this branch. Lillie Dale's older sister **[Scioto Mafry Chenoweth](/family/scioto-mafry-chenoweth/) (1871&ndash;1930)** &mdash; named after the Scioto River that runs past Columbus &mdash; is the woman Maggie Eesley's deck remembers as **one of the first women medical doctors in the United States in the late 1800s**. The structured record neither confirms nor refutes the MD claim (no occupation field), but Scioto's husband Dr. Lewis Albert Smith was an MD. A research-led follow-up at Ohio State medical archives, the AMA's physician directory, or Ohio licensure records could settle whether Scioto, Lewis, or both held the degree.
 
 ## The Chenoweth ancestry — colonial Cornish through Franklin County

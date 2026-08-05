@@ -42,11 +42,16 @@ On the Eesley side, [Will and Peggy Eesley](/family/wilbur-eesley/) had also tra
 
 Chuck's annual Kobe University teaching and his entrepreneurship-in-Japan research are the continuing third-generation expression of that interest &mdash; the Wildermuth-and-Eesley conversation about Japan, opened across two parental couples in the 1970s, kept going through the next generation.
 
+## Vietnam, a generation later
+
+His father [Charlie](/family/charles-eesley/) shipped to [Saigon](/places/saigon/) in 1969 and spent the defining year of his life at war there &mdash; the [Letters from Vietnam](/docs/letters-from-vietnam/) are that year, and he never wanted to go back. A generation later, in **December 2024**, Chuck returns to the same city, now Ho Chi Minh City, on the opposite errand: to **teach entrepreneurship**, guest-teaching a workshop on building ventures for the [UEH International School of Business](/archive/chuck-teaching-vietnam-ueh-isb/) Leadership Program. The [photograph of him at the front of that seminar room](/archive/chuck-teaching-vietnam-ueh-isb/) is the family's quietest reframing of the country &mdash; the father crossed an ocean to fight in it; the son goes back to help its founders build. It is the same [Thread #9 crossing impulse](/docs/family-threads/), turned inside out.
+
 ## Photographs in the archive (Chuck-side)
 
 - The [Duke years, March 2001](/archive/chuck-spring-break-2001-meditation/) &mdash; the *News & Observer* feature on a spring-break meditation visit to a North Carolina Buddhist monastery, with Chuck identifiable in the inset photograph. Earliest public press in the archive.
 - The [MIT PhD graduation, 5 June 2009](/archive/mit-phd-graduation-chuck-terrie-2009/) &mdash; with Terrie at the M.I.T. dome.
 - The [Tsinghua University gate (清華園), Beijing](/archive/chuck-at-tsinghua/) &mdash; Chuck at the famous Republican-era main gate of Tsinghua, the closest Chinese counterpart to his Stanford appointment.
+- [**Teaching entrepreneurship in Ho Chi Minh City**](/archive/chuck-teaching-vietnam-ueh-isb/) &mdash; Chuck before a UEH–ISB seminar room in the city his father knew as wartime Saigon; the generational bookend described above.
 - The various [Stanford](/places/stanford-university/), [Old Stratford Rother Street](/places/old-stratford-rother-street/), [Banbury](/places/banbury/), [Rielingshausen church](/places/rielingshausen-church/), and [Lingyin Temple](/places/lingyin-temple-hangzhou/) place pages carry the rest of his pilgrimage photography.
 
 ## Annual practices with Lijie

@@ -67,6 +67,14 @@ He voted the **Prohibition** ticket, belonged to the **Knights of the Maccabees*
 
 He ran the mill until his death — **9 July 1929 in Kalamazoo, Michigan** — and was buried in Plainwell two days later, in plot **P8/7** at **Hillside Cemetery**. The mill outlasted him by a century: the [building is on the National Register of Historic Places](/places/plainwell-eesley-mill/) and now operates as The Old Mill Brewpub. He is the **wealthiest member of the documented family** — see [Notable Family Members](/docs/notable-family-members/).
 
+## Portrait, late in life
+
+![John Franklin Eesley as an older man, c. 1920s — a studio portrait of the Plainwell miller in his sixties: grey hair swept back, clean-shaven, in a dark suit and tie.](../../assets/family/originals/john-f-eesley-older-portrait-c1920s.jpeg)
+
+*John F. Eesley late in life, c. 1920s &mdash; the miller in his sixties, a generation on from the 1899 family-portrait crop at the head of this page, and a few years before his death in 1929.*
+
+## The Plainwell grave
+
 ![The granite grave marker of John F. Eesley at Hillside Cemetery, Plainwell, Michigan, carved "FATHER / JOHN F. EESLEY."](../../assets/family/originals/john-f-eesley-headstone.jpeg)
 
 *His grave marker at **Hillside Cemetery, Plainwell** (plot **P8/7**), carved* FATHER · JOHN F. EESLEY. *The final digit of the year is weathered and reads as either 1928 or 1929; the Find a Grave record and the Michigan death index give **9 July 1929**. A companion "Mother" stone for [Kittie Belle Scott](/family/kittie-belle-scott/) (1864–1946) should stand in the same plot.*
