@@ -67,7 +67,7 @@ They had three children, of whom one reached adulthood:
 
 He voted the **Prohibition** ticket, belonged to the **Knights of the Maccabees**, and was a member of the **Baptist** society.
 
-He ran the mill until his death — **9 July 1929 in Kalamazoo, Michigan** — and was buried in Plainwell two days later, in plot **P8/7** at **Hillside Cemetery**. The mill outlasted him by a century: the [building is on the National Register of Historic Places](/places/plainwell-eesley-mill/) and now operates as The Old Mill Brewpub. He is the **wealthiest member of the documented family** — see [Notable Family Members](/docs/notable-family-members/).
+He ran the mill until his death — **9 July 1929 in Kalamazoo, Michigan** — and was buried in Plainwell two days later, in plot **P8/7** at **Hillside Cemetery**. The mill outlasted him by a century: the [building was listed on the National Register of Historic Places in 1991](/places/plainwell-eesley-mill/) and now operates as The Old Mill Brewpub. He is the **wealthiest member of the documented family** — see [Notable Family Members](/docs/notable-family-members/).
 
 ## Portrait, late in life
 
@@ -95,6 +95,6 @@ John F. Eesley is an anchor for three of the ten threads in the [**Family thread
 
 - **Thread #5 — Service, stewardship, and giving** — the **earliest documented instance**: trading his mill site to buy the Flat Iron and giving it to Plainwell as a park in 1904, four generations before the [Zhou & Eesley Family Foundation](https://zhoueesleyfoundation.com).
 - **Thread #9 — Crossing for what's next** — the [Stratford → America](/places/old-stratford-rother-street/) crossing in the 19th century.
-- **Thread #10 — Building things (entrepreneurship across four generations)** — the **canonical historical instance**: bought a roller rink in 1887, converted it into the Sunshine Flour Mill, grew it to the second-largest buckwheat-flour producer in the U.S., and physically divided and moved the building in 1903–04. The [building](/places/plainwell-eesley-mill/) is now on the National Register of Historic Places.
+- **Thread #10 — Building things (entrepreneurship across four generations)** — the **canonical historical instance**: bought a roller rink in 1887, converted it into the Sunshine Flour Mill, grew it to the second-largest buckwheat-flour producer in the U.S., and physically divided and moved the building in 1903–04. The [building](/places/plainwell-eesley-mill/) was listed on the National Register of Historic Places in 1991.
 
 > *Sources: [Dale Eesley / FamilySearch — John Franklin Eesley (LQY3-K8S)](https://www.familysearch.org/tree/person/details/LQY3-K8S); [Find a Grave — John Franklin Eesley](https://www.findagrave.com/memorial/132028385/john-franklin-eesley) (children, burial plot); c. 1890s Michigan county-history sketch ([artifact](/archive/john-f-eesley-biographical-sketch/)); [J. F. Eesley Milling Co., Wikipedia](https://en.wikipedia.org/wiki/J._F._Eesley_Milling_Co._Flour_Mill%E2%80%93Elevator); Allegan County Heritage Trail marker text for the Flat Iron trade, preserved at [hmdb.org](https://www.hmdb.org/m.asp?m=74530) (marker since removed) and corroborated by the City of Plainwell's park history.*

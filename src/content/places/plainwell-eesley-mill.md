@@ -41,7 +41,13 @@ So the mill stands at 717 E. Bridge today *because* its owner bought a park for 
 
 **End of the milling era (1929):** John F. Eesley ran the operation until his death. The Plainwell Elevator Company acquired the facility and turned it from consumer flour production to regional farming support — livestock feed, corn, hay — for the next six decades.
 
-**Feed mill, then reuse (1929–present):** After John F. Eesley's death in 1929 the **Plainwell Elevator Company** took the facility over and ran it as a **feed mill until the 1990s**. The building was **renovated in 2006**, listed on the **National Register of Historic Places in 2010** — its century-old wooden floors, posts, and post-and-beam framing preserved — and now operates as **The Old Mill Brewpub**, a restaurant, coffee shop, and brewery.
+**Feed mill, then reuse (1929–present):** After John F. Eesley's death in 1929 the **Plainwell Elevator Company** took the facility over and ran it as a **feed mill until at least the 1990s**. It was listed on the **National Register of Historic Places on 1 November 1991** (reference no. **91001547**, nominated by Robert O. Christensen in July 1991 under the Plainwell Multiple Property Submission). The building was later renovated, and **The Old Mill Brewpub opened in the last week of February 2012** — its century-old wooden floors, posts and post-and-beam framing preserved.
+
+### The Register description
+
+The National Register nomination describes **one three-story structure** made from two buildings joined in 1903: a broad-fronted, massive timber frame; **gable roof over the mill section**, **gambrel roof over the elevator**, with a slightly sloping connecting addition between them. Exterior of **clapboard siding**; double-hung, square-head sash windows; a **cinder-block loading platform under an overhang running the length of one side**; a single-story extension at the back of the elevator. The listed area is **less than one acre**, at **42°26′35″N 85°37′54″W**.
+
+The clapboard has since been covered with vertical metal siding, and the loading platform and its posted overhang still run the length of the street side — visible in the photograph below, along with the cupola, the brick stack, and the elevator leg at the right.
 
 ### How the building tells its own story now
 
@@ -51,9 +57,17 @@ The Old Mill Brewpub's account of the building is two sentences long:
 
 Neither **John F. Eesley** nor the **Sunshine Flour Mill** is named in it — though *"THE EESLEY MILL"* is lettered across the gable outside. As at [Hicks Park](/places/hicks-park-plainwell/), the family name is on the thing without being in the story told about it.
 
-Two points of difference with the record kept here. The brewpub says **"the largest"** buckwheat flour mill in the country; the National Register listing and most other accounts say **second-largest**, which is the reading this archive follows. And it describes a **four-story** building, where the National Register description is a three-story gable-roofed mill joined to a gambrel-roofed elevator — possibly a difference between counting the mill alone and counting the elevator's full height.
+Two points of difference with the record kept here, and both are worth noting because of where the numbers came from.
+
+The brewpub now says **"the largest"** buckwheat flour mill in the country. The Wikipedia article's **"second largest"** is footnoted to *"The Old Mill History,"* the brewpub's own page as archived in **November 2016** — so the same establishment appears to have said *second* largest a decade ago and *the* largest now. This archive follows **second-largest**.
+
+The brewpub also describes a **four-story** building, where the 1991 Register nomination is explicit that the joined structure is **three-story**. On this the Register description is the better authority.
 
 The brewpub's taps include a beer called **Sunshine**, alongside **Island City** (for Plainwell's nickname) and **Railside Red**. Whether *Sunshine* is a deliberate nod to the *Sunshine Brand Flour* milled in the building is not stated anywhere on their site — the coincidence is suggestive but undocumented.
+
+![The Eesley Mill at 717 E. Bridge Street, Plainwell, Michigan, present day — the joined mill and elevator under vertical metal siding, gambrel roof at right with the elevator leg above it, gable roof and cupola at left, a brick stack, and a posted loading-platform overhang running the length of the street side. A green sign on the upper wall reads THE EESLEY MILL; Old Mill Brewpub & Grill signage stands at the entrance, with a vintage flatbed truck parked under the overhang.](../../assets/family/originals/eesley-mill-present-day-717-e-bridge.jpeg)
+
+*717 E. Bridge Street today. The two buildings John F. Eesley joined in 1903 read as one: the **gable-roofed mill** at left, the **gambrel-roofed elevator** at right with its leg still rising above the roofline, and the connecting section between them. The loading platform and posted overhang described in the 1991 Register nomination still run the length of the street side. The green sign high on the wall reads **THE EESLEY MILL** — the family name on the building, as it has been since he moved it here.*
 
 ## Then and now
 
@@ -77,4 +91,4 @@ A second surviving historic frame shows the mill from its loading-dock side:
 
 The Eesley name on the current downtown Plainwell sign &mdash; carrying [John F. Eesley](/family/john-f-eesley/)'s 1880s milling enterprise into the 21st-century commercial life of the building. The four panel businesses all operate on or around the mill site today.
 
-> *Sources: mill history from **The Old Mill (Old Mill Brewpub) website** (the 1869 west building, the 1870–73 elevator, the 1891 establishment with three partners while Eesley ran the D. B. Merrill mill, the 1903 move, 600 barrels/day, the Plainwell Elevator Company feed-mill era to the 1990s, and the 2006 renovation), supplied by Chuck 2026; the early-1900s "Then and Now" mill photograph via a Plainwell local-history post (Jim Higgs); [J. F. Eesley Milling Co. Flour Mill–Elevator, Wikipedia](https://en.wikipedia.org/wiki/J._F._Eesley_Milling_Co._Flour_Mill%E2%80%93Elevator); [Plainwell mill history at mlive.com](https://www.mlive.com/penaseeglobe/2010/03/eesley_mill.html); historical marker at hmdb.org/m.asp?m=74530; [The Old Mill Brewpub opening, mlive.com](https://www.mlive.com/business/west-michigan/2012/02/new_brewpub_opens_this_week_in.html).*
+> *Sources: **National Register of Historic Places registration form**, *Eesley, J. F., Milling Co. Flour Mill--Elevator*, Robert O. Christensen, July 1991 (listed 1 November 1991, ref. 91001547) — the authority for the structure description, the 1903 move and the listing date; mill history from **The Old Mill (Old Mill Brewpub) website** (the 1869 west building, the 1870–73 elevator, the 1891 establishment with three partners while Eesley ran the D. B. Merrill mill, the 1903 move, 600 barrels/day, the Plainwell Elevator Company feed-mill era to the 1990s, and the 2006 renovation), supplied by Chuck 2026; the early-1900s "Then and Now" mill photograph via a Plainwell local-history post (Jim Higgs); [J. F. Eesley Milling Co. Flour Mill–Elevator, Wikipedia](https://en.wikipedia.org/wiki/J._F._Eesley_Milling_Co._Flour_Mill%E2%80%93Elevator); [Plainwell mill history at mlive.com](https://www.mlive.com/penaseeglobe/2010/03/eesley_mill.html); historical marker at hmdb.org/m.asp?m=74530; [The Old Mill Brewpub opening, mlive.com](https://www.mlive.com/business/west-michigan/2012/02/new_brewpub_opens_this_week_in.html).*
