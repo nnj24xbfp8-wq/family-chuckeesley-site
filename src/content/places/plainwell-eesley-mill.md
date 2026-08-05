@@ -6,7 +6,7 @@ country: "United States"
 coords:
   lat: 42.4439
   lng: -85.6470
-summary: "The flour mill John F. Eesley established in Plainwell, Michigan in 1891 — at a downtown roller-rink building, then moved in 1903 and merged with an existing grain elevator — that grew into the second-largest producer of buckwheat flour in the United States under the 'Sunshine Brand Flour' label. Listed on the National Register of Historic Places in 2010; now The Old Mill Brewpub."
+summary: "The flour mill John F. Eesley established in Plainwell, Michigan in 1891 — at a downtown roller-rink building, then moved in 1903 and merged with an existing grain elevator — that grew into the second-largest producer of buckwheat flour in the United States under the 'Sunshine Brand Flour' label. Listed on the National Register of Historic Places on 1 November 1991; now The Old Mill Brewpub."
 significance: "The family surname literally on the historical register. Three generations of Eesley millers — Joseph in Hanwell, John in Old Stratford, John F. in Plainwell — and this is the building that closed the chain. It is the only piece of physical Eesley infrastructure to survive into the 21st century."
 relatedPeople:
   - john-f-eesley
