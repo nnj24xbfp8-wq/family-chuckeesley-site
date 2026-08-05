@@ -15,7 +15,7 @@ parents:
   - jeanie-goldie
 spouses:
   - kittie-belle-scott
-summary: "The American miller — eldest of Albert Robert Sr and Jennie Goldie's children. Born 11 December 1859 in Hamilton, Ontario; learned the miller's trade under his father, worked it across five states, and in 1887 bought a Plainwell, Michigan roller rink and converted it into the Sunshine Flour Mill — the J. F. Eesley Milling Co., which became the nation's second-largest producer of buckwheat flour. In 1904 he traded away his own mill site to acquire the downtown Flat Iron parcel and gave it to the village as a park, moving his mill across town to do it. Married Kittie Belle Scott in Plainwell on 8 September 1885; three children, of whom one reached adulthood. Died 9 July 1929 in Kalamazoo; buried Hillside Cemetery, Plainwell, plot P8/7."
+summary: "The American miller — eldest of Albert Robert Sr and Jennie Goldie's children. Born 11 December 1859 in Hamilton, Ontario; learned the miller's trade under his father, worked it across five states, and returned to Plainwell, Michigan in 1887. He operated the nearby D. B. Merrill flour mill, and in 1891 partnered with three other local men to establish the Sunshine Flour Mill in a former roller-rink building — the J. F. Eesley Milling Co., which grew to some 600 barrels of buckwheat flour a day. In 1904 he traded away his own mill site to acquire the downtown Flat Iron parcel and gave it to the village as a park, moving his mill across town to do it. Married Kittie Belle Scott in Plainwell on 8 September 1885; three children, of whom one reached adulthood. Died 9 July 1929 in Kalamazoo; buried Hillside Cemetery, Plainwell, plot P8/7."
 ---
 
 **John Franklin Eesley** was the eldest child of **[Albert Robert Eesley](/family/albert-robert-eesley/)** and **[Jennie Goldie](/family/jeanie-goldie/)**, born **11 December 1859** in **Hamilton, Ontario**. He is the generation that carried the family's milling trade across the border from Canada into Michigan, and the man whose surname still stands on a building in Plainwell.
@@ -29,9 +29,9 @@ He worked the trade across five states before he owned anything:
 - **Spring 1881** — came to Plainwell and took work with the **Merrill Milling Company**, staying about eighteen months.
 - Then **Lockport, Illinois**, about twelve months.
 - Then south to **Eufaula, Alabama**; then **Huntington, Indiana**; then **Coshocton** and **Frazeysburg, Ohio**.
-- **1887** — returned to Plainwell, *"determined to make that city his permanent abiding place,"* with enough saved to buy a mill of his own.
+- **1887** — returned to Plainwell for good, *"determined to make that city his permanent abiding place,"* with enough saved to buy into a mill.
 
-The 1887 purchase was a **return**, not a first arrival: he had worked in the town as a hired miller six years earlier, left to learn the trade across the country, and came back to buy in.
+1887 was a **return**, not a first arrival: he had worked in the town as a hired miller six years earlier, left to learn the trade across the country, and came back to establish himself in it.
 
 ## The Goldie millwrights
 
@@ -39,7 +39,9 @@ A contemporary sketch says of his mother's family that **"for two hundred years 
 
 ## The Sunshine Flour Mill
 
-In Plainwell he bought the 1869 **roller rink** on West Bridge Street and converted it into the **Sunshine Flour Mill**, selling under the *Sunshine Brand Flour* label. It was **the only steam mill in Plainwell**, "equipped with all the modern appliances," producing flour, feed and buckwheat flour for the town and its neighbors. At its height it turned out **600 barrels of buckwheat flour a day** and was the **second-largest producer of buckwheat flour in the United States**.
+Back in Plainwell from 1887 he operated the nearby **D. B. Merrill flour mill**. Then in **1891** he **partnered with three other local men** to establish the **Sunshine Flour Mill** in the 1869 building on West Bridge Street that had been put up as a roller rink.
+
+Selling under the *Sunshine Brand Flour* label, it was **the only steam mill in Plainwell**, "equipped with all the modern appliances," producing flour, feed and buckwheat flour for the town and its neighbors. At its height it turned out **600 barrels of buckwheat flour a day** — described in most accounts as the **second-largest** producer of buckwheat flour in the United States, and in some, including the present occupant's own telling, as the largest.
 
 ### Why he moved the mill: he bought the town a park
 
