@@ -23,7 +23,7 @@ pairs:
     nowCaption: "The same building in 2019 (Google Street View) — now The Old Mill Brewpub at 717 E. Bridge Street, 'THE EESLEY MILL' lettered across the gable."
 ---
 
-**The two original buildings.** The **east** part of the present structure, next to the railroad line, is the grain **elevator**, built on this site about **1870–1873** by an owner the Register nomination could not identify. The **west** part — about twice the length of the elevator section — is the **flour mill**, and the nomination is careful about its origins: the mill *"was constructed in the late 1880s from, it is alleged, a former roller rink building built in 1869."* So the 1869 date belongs to the rink; the mill was made out of it roughly two decades later, and even the rink story is given as allegation rather than fact.
+**The two original buildings.** The **east** part of the present structure, next to the railroad line, is the grain **elevator**, built on this site about **1870–1873** by an owner the Register nomination could not identify. The **west** part — about twice the length of the elevator section — is the **flour mill**, and the nomination is careful about its origins: the mill *"was constructed in the late 1880s from, it is alleged, a former roller rink building built in 1869."* So the 1869 date belongs to the rink; the mill was made out of it roughly two decades later, and even the rink story is given as allegation rather than fact — though the **1884 Sanborn map does show a roller skating rink** on that site, which supports it (see below).
 
 Its original site is stated precisely: **West Bridge Street, across from what is now Hicks Park** — which places the mill and the Flat Iron on opposite sides of the same street.
 
@@ -75,21 +75,35 @@ The brewpub's taps include a beer called **Sunshine**, alongside **Island City**
 
 *717 E. Bridge Street today. The two buildings John F. Eesley joined in 1903 read as one: the **gable-roofed mill** at left, the **gambrel-roofed elevator** at right with its leg still rising above the roofline, and the connecting section between them. The loading platform and posted overhang described in the 1991 Register nomination still run the length of the street side. The green sign high on the wall reads **THE EESLEY MILL** — the family name on the building, as it has been since he moved it here.*
 
-## A second Eesley mill — N. Main Street, burned 1932
+## The Sanborn maps, and a second mill
 
-The E. Bridge Street mill was not the company's only building. A **1911 photograph captioned "EESLEY MILLING CO. MILL · PLAINWELL, MICH."** shows a different mill entirely: a tall clapboard building with awninged loading platforms stacked with cans and crates, a horse and wagon at the near corner, and a large tree at the right. Per the Plainwell local-history post that circulated it, this mill **stood on the west side of N. Main Street** and was **destroyed by fire in 1932** — three years after John Franklin's death.
+The most precise documentation of the W. Bridge Street building comes from **Sanborn Fire Insurance maps**, cited by Jim Higgs in the Plainwell local-history discussion of the photograph below:
+
+- **1884** — the building on the **south side of W. Bridge Street** appears as a **roller skating rink**.
+- **1892** — the same building, together with several smaller ones, appears as the **J. F. Eesley Milling Co.**
+- **Before 1904** — that building is gone from the W. Bridge site, having been moved to E. Bridge Street.
+
+This is independent confirmation of the sequence, and it sharpens the dates: the rink was still a rink in 1884, and the Eesley name was on the site by **1892** — consistent with the 1891 founding, and more exact than the Register's "late 1880s."
+
+### The 1911 photograph — a different building
+
+A **1911 real-photo postcard captioned "EESLEY MILLING CO. MILL · PLAINWELL, MICH."** shows a mill that is **not** the E. Bridge Street structure.
 
 ![A 1911 real-photo postcard, colorized, captioned "EESLEY MILLING CO. MILL, PLAINWELL, MICH." — a tall clapboard mill with post-supported awnings over loading platforms stacked with cans and crates, a horse and wagon at the near corner, and a large tree at the right.](../../assets/family/originals/eesley-milling-co-n-main-street-mill-1911-colorized.jpeg)
 
-*The N. Main Street mill in **1911**, from a real-photo postcard (colorized). The caption printed along the bottom reads* EESLEY MILLING CO. MILL · PLAINWELL, MICH.
+*The mill in **1911**, from a real-photo postcard (colorized). The caption along the bottom reads* EESLEY MILLING CO. MILL · PLAINWELL, MICH.
+
+The identification was argued out in the thread that circulated the image. Scott Page reasonably read Wikipedia to mean this must be the Bridge Street site. Jim Higgs gave two physical reasons it is not: a **railroad bridge visible at the far left**, corresponding to the existing bridge over **the mill race**, and a **roof line quite different** from the E. Bridge mill — and he produced the **1911 Sanborn map** showing where the Eesley mill stood at that date. The original post placed this building on the **west side of N. Main Street**, and said it was **destroyed by fire in 1932**.
 
 ![The west side of N. Main Street, Plainwell, in 2019 — a small brick utility building, a parking lot with cars, a street clock, and brick storefronts beyond.](../../assets/family/originals/eesley-n-main-street-mill-site-2019.jpeg)
 
-*The same location in **2019**: a parking lot, a small brick utility building, a street clock. Nothing of the mill survives.*
+*The location given for that mill, in **2019**: a parking lot, a small brick utility building, a street clock.*
 
-This raises a question the archive cannot yet answer: **which mill was which.** The candidates are that the N. Main Street building was the **D. B. Merrill mill** John F. Eesley operated from 1887 and later took over under his own company's name, or that it was a **second, separate plant** the J. F. Eesley Milling Co. ran alongside the E. Bridge mill. The 1890s county-history sketch says he owned *"the only steam mill in Plainwell,"* which fits a single operation at that date; the 1911 postcard shows the company running a substantial mill on a different street. Both can be true if the company expanded between those dates.
+So the company ran **more than one mill**. What the archive cannot yet settle is the relationship between them — whether the 1911 building was the **D. B. Merrill mill** that John F. Eesley operated from 1887 and later ran under his own company's name, or a **separate plant** the J. F. Eesley Milling Co. built or bought alongside the E. Bridge mill. The 1890s county-history sketch calling his the *"only steam mill in Plainwell"* fits a single operation at that date; both can be true if the company expanded after.
 
-Worth noting the asymmetry of what survived: the mill he **moved in order to give the town a park** is on the National Register and full of people most evenings. The mill on N. Main Street **burned in 1932** and its site is now a parking lot.
+The 1932 fire date and the N. Main Street location rest on the local-history post rather than on the Register or a newspaper account, and are worth confirming. The **1911 Sanborn map** Jim Higgs posted would settle the location outright.
+
+Worth noting what survived and what didn't: the mill John F. Eesley **moved in order to give the town a park** is on the National Register and busy most evenings. The mill in the 1911 photograph **burned**, and its site is a parking lot.
 
 ## Then and now
 
@@ -113,4 +127,4 @@ A second surviving historic frame shows the mill from its loading-dock side:
 
 The Eesley name on the current downtown Plainwell sign &mdash; carrying [John F. Eesley](/family/john-f-eesley/)'s 1880s milling enterprise into the 21st-century commercial life of the building. The four panel businesses all operate on or around the mill site today.
 
-> *Sources: **National Register of Historic Places registration form** (Section 7 description sheet reproduced above, via the U.S. National Archives catalog), *Eesley, J. F., Milling Co. Flour Mill--Elevator*, Robert O. Christensen, July 1991 (listed 1 November 1991, ref. 91001547) — the authority for the structure description, the 1903 move and the listing date; mill history from **The Old Mill (Old Mill Brewpub) website** (the 1869 west building, the 1870–73 elevator, the 1891 establishment with three partners while Eesley ran the D. B. Merrill mill, the 1903 move, 600 barrels/day, the Plainwell Elevator Company feed-mill era to the 1990s, and the 2006 renovation), supplied by Chuck 2026; the early-1900s "Then and Now" mill photograph via a Plainwell local-history post (Jim Higgs); [J. F. Eesley Milling Co. Flour Mill–Elevator, Wikipedia](https://en.wikipedia.org/wiki/J._F._Eesley_Milling_Co._Flour_Mill%E2%80%93Elevator); [Plainwell mill history at mlive.com](https://www.mlive.com/penaseeglobe/2010/03/eesley_mill.html); historical marker at hmdb.org/m.asp?m=74530; the 1911 N. Main Street mill postcard and its 2019 counterpart from a Plainwell local-history "Then and Now" post (photographs credited there to Scott Page and Mark Doster; colorization by the poster) — the N. Main Street location and the 1932 fire rest on that post and are not yet confirmed against the Register or a newspaper account; [The Old Mill Brewpub opening, mlive.com](https://www.mlive.com/business/west-michigan/2012/02/new_brewpub_opens_this_week_in.html).*
+> *Sources: **National Register of Historic Places registration form** (Section 7 description sheet reproduced above, via the U.S. National Archives catalog), *Eesley, J. F., Milling Co. Flour Mill--Elevator*, Robert O. Christensen, July 1991 (listed 1 November 1991, ref. 91001547) — the authority for the structure description, the 1903 move and the listing date; mill history from **The Old Mill (Old Mill Brewpub) website** (the 1869 west building, the 1870–73 elevator, the 1891 establishment with three partners while Eesley ran the D. B. Merrill mill, the 1903 move, 600 barrels/day, the Plainwell Elevator Company feed-mill era to the 1990s, and the 2006 renovation), supplied by Chuck 2026; the early-1900s "Then and Now" mill photograph via a Plainwell local-history post (Jim Higgs); [J. F. Eesley Milling Co. Flour Mill–Elevator, Wikipedia](https://en.wikipedia.org/wiki/J._F._Eesley_Milling_Co._Flour_Mill%E2%80%93Elevator); [Plainwell mill history at mlive.com](https://www.mlive.com/penaseeglobe/2010/03/eesley_mill.html); historical marker at hmdb.org/m.asp?m=74530; the 1911 mill postcard and its 2019 counterpart from a Plainwell local-history "Then and Now" post (image credited there to Scott Page and Mark Doster; colorization by the poster), with the **Sanborn Fire Insurance map** evidence for 1884, 1892 and 1911 supplied by **Jim Higgs** in the comments to that post — the N. Main Street location and the 1932 fire rest on the post itself and are not yet confirmed against the Register, the Sanborn sheets directly, or a newspaper account; [The Old Mill Brewpub opening, mlive.com](https://www.mlive.com/business/west-michigan/2012/02/new_brewpub_opens_this_week_in.html).*

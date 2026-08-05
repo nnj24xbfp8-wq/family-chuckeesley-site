@@ -53,7 +53,7 @@ Ingraham and Travis held the triangular downtown parcel Plainwell called **the F
 
 The [mill still stands at 717 E. Bridge](/places/plainwell-eesley-mill/) because its owner preferred a park downtown to a convenient address. The Register nomination for the building places the original mill site precisely: **West Bridge Street, across from what is now Hicks Park** — the two parcels faced each other across the street.
 
-The company also ran a **second mill on N. Main Street**, photographed in 1911 and [destroyed by fire in 1932](/places/plainwell-eesley-mill/); its site is now a parking lot.
+The company also ran a **second mill**, photographed in 1911 and [reported destroyed by fire in 1932](/places/plainwell-eesley-mill/) — a different building from the one that survives, on evidence of its roofline and the mill race beside it.
 
 ## Marriage and children
 
