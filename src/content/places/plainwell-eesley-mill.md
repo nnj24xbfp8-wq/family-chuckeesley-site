@@ -35,7 +35,7 @@ pairs:
 
 > *"J.F. Eesley traded his property with Ingraham and Travis, whose property was located in the flat iron, so that Mr. Eesley could give the flat iron property to the village for a park."*
 
-Ingraham and Travis owned the triangular downtown parcel that Plainwell called **the Flat Iron**, for its shape. Eesley wanted that parcel for the town — so he **traded them his West Bridge Street mill site for it**, which is why he then had to cut his own mill in half and haul it across town, and **gave the Flat Iron to the village**. It was dedicated at Plainwell's first homecoming in **1907** and is **Hicks Park**, the city's oldest, at Allegan Street and West Bridge — named in memory of **Joseph Hicks**, the village's first president, not for the man who acquired the ground and gave it away.
+Ingraham and Travis owned the triangular downtown parcel that Plainwell called **the Flat Iron**, for its shape. Eesley wanted that parcel for the town — so he **traded them his West Bridge Street mill site for it**, which is why he then had to cut his own mill in half and haul it across town, and **gave the Flat Iron to the village**. It was dedicated at Plainwell's first homecoming in **1907** and is **[Hicks Park](/places/hicks-park-plainwell/)**, the city's oldest, at Allegan Street and West Bridge — named in memory of **Joseph Hicks**, the village's first president, not for the man who acquired the ground and gave it away.
 
 So the mill stands at 717 E. Bridge today *because* its owner bought a park for the town. The move was the cost of the gift, not a displacement.
 
