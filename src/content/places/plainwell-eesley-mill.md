@@ -99,11 +99,15 @@ The identification was argued out in the thread that circulated the image. Scott
 
 *The location given for that mill, in **2019**: a parking lot, a small brick utility building, a street clock.*
 
-So the company ran **more than one mill**. What the archive cannot yet settle is the relationship between them — whether the 1911 building was the **D. B. Merrill mill** that John F. Eesley operated from 1887 and later ran under his own company's name, or a **separate plant** the J. F. Eesley Milling Co. built or bought alongside the E. Bridge mill. The 1890s county-history sketch calling his the *"only steam mill in Plainwell"* fits a single operation at that date; both can be true if the company expanded after.
+**Whether this is a second mill at all is unresolved.** The simplest reading is that it is not: the mill moved to E. Bridge Street in 1903, so by 1911 the company's mill *was* the E. Bridge building, and a photograph captioned "Eesley Milling Co. Mill" in that year would naturally show it. Against that stand Jim Higgs's two observations — the roof line, and a railroad bridge over the race — plus the claim that this building burned in 1932, which the E. Bridge structure plainly did not.
+
+The roof-line argument is suggestive but not decisive; photographed end-on, the gambrel-roofed elevator could fall outside the frame. The railroad point cuts less cleanly than it appears, since the Register notes the E. Bridge elevator stands *next to the railroad line* — it is the **race** specifically that would distinguish the two sites.
+
+If the 1932 fire is real, it settles the matter, because the surviving building did not burn. That date rests on the local-history post alone.
 
 The 1932 fire date and the N. Main Street location rest on the local-history post rather than on the Register or a newspaper account, and are worth confirming. The **1911 Sanborn map** Jim Higgs posted would settle the location outright.
 
-Worth noting what survived and what didn't: the mill John F. Eesley **moved in order to give the town a park** is on the National Register and busy most evenings. The mill in the 1911 photograph **burned**, and its site is a parking lot.
+If the two are indeed different buildings, the contrast is worth noting: the mill John F. Eesley **moved in order to give the town a park** is on the National Register and busy most evenings, while the one in the 1911 photograph burned and left a parking lot.
 
 ## Then and now
 
