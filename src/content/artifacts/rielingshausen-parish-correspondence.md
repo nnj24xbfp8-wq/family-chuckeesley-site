@@ -57,7 +57,7 @@ It came back covered in the pastor's blue handwriting, with two boxes ringed in 
 
 Every one of those matches what the archive independently holds from the FamilySearch tree — which matters, because this is a clergyman reading the actual **Kirchenbücher** in the village, not a database. The deep German dates on [Andreas](/family/andreus-wildermuth/)'s and [Margaretha](/family/margaretha-laemmle/)'s pages now rest on two independent sources.
 
-*The chart is dated **18 April 1959** in Robert Earl's hand, at the Casselberry address. That sits oddly against the correspondence, which must postdate 1972 on the postal codes alone. Either he had been keeping this chart for thirty years before he mailed it, or the year is a misreading of 1989.*
+*The chart is dated **18 April 1989** in Robert Earl's hand, at the Casselberry address — filled out at the start of the research push that produced the [1990 Heritage](/docs/wildermuth-fleming-heritage-1990/) and the family group records.*
 
 ## 3. The reply
 

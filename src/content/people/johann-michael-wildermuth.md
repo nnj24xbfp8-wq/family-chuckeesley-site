@@ -25,6 +25,16 @@ His parents were **[Johann Christian Wildermuth](/family/johann-christian-wilder
 
 He sailed in **1847**, age **sixteen** — per his own sworn statement six years later in Philadelphia.
 
+## Why a sixteen-year-old was free to go
+
+He was an orphan. The [Großaspach Familienregister](/archive/wildermuth-familienregister-grossaspach/) gives his mother's death as **30 December 1841** and his father's as **7 October 1842** — ten months apart, when he was twelve.
+
+The same page lists his **six siblings**, and shows how thin the household was by then: **Catharina Dorothea** (1819) died at thirteen days, the first **Carolina** (1822) at five, the second **Carolina** (1834) at four weeks. Of the four who lived, **Johann Jacob** (1820) married at Erbstetten in 1846, **Johann Christian** (1825) became a schoolteacher in Switzerland — and **Anna Maria** (b. 8 June 1828), two years Johann Michael's elder, is marked ***nach Amerika***.
+
+That last entry bears on a long-standing question. Robert Earl's 1990 research wondered whether **Frederika Rossar** — wife of the Baden shoemaker in whose Marietta household Johann Michael appears in 1860 — was his sister, which would make the crossing a family affair. The register confirms **a Wildermuth sister did emigrate**. It does not confirm she is Frederika: the names do not match, and no date is given for her going. Still open.
+
+*(The register also corrects this page's parentage note: his mother was Maria Margaretha Schmidgall, married to his father at Rietenau in **1819** — not, as the archive once had it, a second wife married in 1842.)*
+
 ## What the 1853 naturalization petition records
 
 The single most consequential document this archive holds on his emigration is his **[1 November 1853 Philadelphia naturalization petition](/docs/johann-michael-wildermuth-naturalization-1853/)** — a primary-source document Robert Earl Wildermuth had been researching for decades. The petition, filed in the **County of Philadelphia Court of Quarter Sessions** before the **Honorable Oswald Thompson**, settles several facts in his own words:
