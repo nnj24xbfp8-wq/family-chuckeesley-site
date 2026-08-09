@@ -83,12 +83,12 @@ The [family GEDCOM](/docs/dale-eesley-familysearch-tree/) already carried this h
 
 | | Wildermuth sheets, 1990 | FamilySearch, synced 2026 |
 |---|---|---|
-| **Father** | William Bartlett, *"one of seven sons"* | Thomas Bartlett (b. 1733) and Anne Settle |
+| **Father** | William Bartlett of Loudoun County, b. 1720 | Thomas Bartlett (b. 1733, Richmond Co.) and Anne Settle |
 | **Death** | June 1836, Preston County | 1832, Preston County |
 
 FamilySearch also supplies what the sheets leave blank: **born 21 December 1756 in Fauquier County, Virginia**, **married Sarah about 1783 in Fauquier**, **buried at Union Baptist Church Cemetery, Simpson, Taylor County**. The Fauquier marriage answers a question the sketch raises without settling — where the family stood before it crossed the mountains: the Virginia Piedmont, east of the Blue Ridge.
 
-Neither conflict is resolved here. See [Thomas Bartlett's page](/family/thomas-bartlett/) for the argument on each side; no father is assigned to him in this archive until one of them can be documented.
+A **[second Wildermuth sheet, form 0118](/archive/bartlett-family-group-record-0118/)**, surfaced after this one and largely resolves the parentage: it gives William Bartlett of **Loudoun County** a birth year, seven named sons, and the place each of them settled — Thomas in the Glades. Loudoun borders Fauquier; Richmond County does not come near it. This archive follows the Loudoun line, with the reasoning set out on [Thomas Bartlett's page](/family/thomas-bartlett/). The death year remains unresolved.
 
 ## What is still open
 

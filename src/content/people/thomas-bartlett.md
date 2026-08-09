@@ -4,15 +4,19 @@ aka: "Thomas L. Bartlett Jr. (FamilySearch)"
 line: maternal
 death:
   place: "Preston County, Virginia (now West Virginia)"
+parents:
+  - william-bartlett
 spouses:
   - sarah-bartlett-wife
 status: sketch
-summary: "Chuck's maternal 6×-great-grandfather on the Fleming line, and the earliest documented migrant in this archive. Came over the Alleghenies into western Virginia shortly after the Revolutionary War and settled in the Glades of what is now Preston County. Married a woman recorded only as Sarah; thirteen children, of whom Nancy married Thomas Bailey in 1803. Died in Preston County — June 1836 by the family's own record, 1832 by FamilySearch. His father's name is contested: the family sketch says William Bartlett, FamilySearch says Thomas Bartlett and Anne Settle."
+summary: "Chuck's maternal 6×-great-grandfather on the Fleming line, and the earliest documented migrant in this archive. The second of William Bartlett of Loudoun County's seven sons; came over the Alleghenies shortly after the Revolutionary War and settled in the Glades of what is now Preston County. Married a woman recorded only as Sarah; thirteen children, of whom Nancy married Thomas Bailey in 1803. Died in Preston County — June 1836 by the family's own record, 1832 by FamilySearch, which also names a different father."
 ---
 
 **Thomas Bartlett** is the earliest documented migrant in this archive — a generation ahead of the Wildermuths' Atlantic crossing and three-quarters of a century ahead of the Eesleys' move from Ontario into Michigan. He is Chuck's maternal **6×-great-grandfather** on the Fleming line.
 
-Two independent bodies of evidence describe him, and they agree on the shape of his life and disagree on two specifics. Both are set out below.
+He was **the second of [William Bartlett](/family/william-bartlett/) of Loudoun County's seven sons**, and he did not cross the mountains alone: all seven brothers went, and settled within a day's ride of one another in Preston, Taylor and Harrison Counties. Thomas took **the Glades**.
+
+Two independent bodies of evidence describe him. They agree on the shape of his life and disagree on his father and his death year; both are set out below.
 
 ## What the family's own record says
 
@@ -33,16 +37,30 @@ The [family GEDCOM](/docs/dale-eesley-familysearch-tree/), synced from FamilySea
 
 The Fauquier marriage is the most useful thing here, because it answers a question the sketch raises and does not settle: **where the family was before it crossed the mountains.** A wedding in Fauquier in 1783 and a farm in the Glades soon after is exactly the movement the sketch describes as *"shortly after the Revolutionary War"* — and it makes him about 27 at the crossing.
 
-## Two open conflicts
+## His father — the argument
 
-**His father.** The sketch says **William Bartlett**, and *"one of seven sons."* FamilySearch says **Thomas Bartlett** (b. 1733, Richmond, Virginia) and **Anne Settle**, married 1748. Neither is a casual claim, and there is a detail pulling each way:
+Two candidates, and this archive follows the first.
 
-- For FamilySearch — he is entered as **"Jr.,"** which only makes sense with a father of the same name; and the FamilySearch sibship contains seven brothers besides him (William James, John B, Robert, Benjamin B, Richard "Dickey," Reuben, James F). A garbled memory of *"one of seven sons"* alongside a brother named **William** is an easy way to arrive at *"one of seven sons of William Bartlett."*
-- For the sketch — it is the family's own record, written by a careful researcher who elsewhere marked his own uncertainty plainly (he could not resolve whether the Bailey grandfather's initials were J.B.Y. or I.B.Y., and said so).
+**[William Bartlett](/family/william-bartlett/) of Loudoun County, born 1720** — the Wildermuth sketch, backed by a [second family group record](/archive/bartlett-family-group-record-0118/) that names all seven sons and where each of them settled. Thomas is the second: *"Thomas settled in the Glades, Preston County, West Virginia."*
 
-The archive does not assign him a father until this is resolved. No William Bartlett page exists for that reason.
+**Thomas Bartlett, born 1733 in Richmond County, and Anne Settle** — the FamilySearch tree, which also gives that couple eleven other children whose names overlap heavily with the Loudoun seven (William James, John B, Robert, Benjamin B, James F).
 
-**His death year.** **June 1836** (family sheet) versus **1832** (FamilySearch). Both put it in Preston County. A probate or estate record would settle it; a Union Baptist Church Cemetery stone, if it survives, would settle it faster.
+Four things favour the Loudoun household:
+
+- **Geography.** FamilySearch itself puts Thomas's birth and marriage in **Fauquier County**, which **borders Loudoun**. The alternative father's family is a Richmond County / North Farnham Parish line on the Northern Neck, roughly ninety miles east and in a different orbit entirely.
+- **The settlement map.** The sketch does not simply assert a father; it places seven brothers in six specific spots — Simpson, the Glades, Bridgeport, the West Fork twice, Clarksburg twice — inside the exact county cluster the Bartletts, Baileys and Flemings occupy for the next hundred years. That is not the shape of a guess.
+- **An impossible date.** FamilySearch has the alternative father, born 1733, marrying Anne Settle in **1748** — at fifteen, to a bride of about thirteen. Something in that record is wrong.
+- **A misplaced grave.** FamilySearch buries Thomas at **Simpson, Taylor County**, and buries the alternative father there too. Per the sketch, **Simpson is where his brother William Jr. settled**, not Thomas — who was in Preston County, where both Wildermuth sheets put his death. It looks like a cluster of Bartlett burials at Simpson being attached to the wrong men.
+
+Against: FamilySearch enters him as **"Thomas L. Bartlett Jr.,"** and a *Junior* implies a father of the same name. But Thomas named one of his own sons **Thomas L.** as well, so at least two Thomas L. Bartletts stood in successive generations here — an easy place for a suffix to migrate.
+
+The attribution is **well-argued, not proven**. A Loudoun County will or deed naming the seven sons would close it.
+
+> *Note on the form:* record 0118 lists William's own parents as Thomas-0314 and Sarah-0315 — his son and daughter-in-law. Robert Earl reused ID 0325 for both the 1720 patriarch and Thomas's son William, and the two merged. The [artifact page](/archive/bartlett-family-group-record-0118/) sets out the mechanics.
+
+## His death year
+
+**June 1836** (family sheet) versus **1832** (FamilySearch). Both put it in Preston County. A probate or estate record would settle it. FamilySearch's Union Baptist Church Cemetery burial at Simpson is suspect for the reason above.
 
 ## The Glades
 
@@ -78,6 +96,6 @@ Nancy's daughter **[Synthia Bailey](/family/synthia-bailey/)** — born in Prest
 
 ## What is open
 
-His father. His death year. Sarah's surname. And Robert Earl's own closing line is still the best lead anyone has: *"Little research has been done on this ancestor but the Bartlett records are said to be better than average."*
+His birth date, if the FamilySearch 1756 is not to be trusted. His death year. Sarah's surname. Documentary confirmation of the Loudoun parentage. And Robert Earl's own closing line is still the best lead anyone has: *"Little research has been done on this ancestor but the Bartlett records are said to be better than average."*
 
-> *Sources: the [Bartlett Family Group Record and sketch](/archive/bartlett-family-group-record-0094/) (form 0094, 11 July 1990) and the [Bailey Family Group Record](/archive/bailey-family-group-record-0019/) (form 0019), both compiled by [Robert Earl Wildermuth](/family/robert-earl-wildermuth/); FamilySearch person [L1ZC-DZF](https://www.familysearch.org/tree/person/details/L1ZC-DZF) via the family GEDCOM, synced June 2026.*
+> *Sources: the [Bartlett Family Group Record and sketch](/archive/bartlett-family-group-record-0094/) (form 0094), the [William Bartlett Family Group Record and sketch](/archive/bartlett-family-group-record-0118/) (form 0118), both 11 July 1990, and the [Bailey Family Group Record](/archive/bailey-family-group-record-0019/) (form 0019) — all compiled by [Robert Earl Wildermuth](/family/robert-earl-wildermuth/); FamilySearch person [L1ZC-DZF](https://www.familysearch.org/tree/person/details/L1ZC-DZF) via the family GEDCOM, synced June 2026.*
