@@ -81,7 +81,16 @@ Both are attached as daughters of the same couple:
 - **`L1ZC-CZY`** — b. 1785, Virginia; married Thomas Bailey 1803; mother of Synthia
 - **`L6T9-J13`** — b. 1789; d. 1867; no spouse, no children
 
-FGR 0094 lists only one Nancy. Likely the same woman. **Check both profiles' sources before merging** — if `L6T9-J13`'s 1867 death is well-sourced it is worth keeping on the merged profile, since `L1ZC-CZY` currently has no valid death at all (see item 1).
+FGR 0094 lists only one Nancy. Likely the same woman. **Check both profiles' sources before merging.**
+
+The hazard is the **1867 death date**. Neither Wildermuth sheet gives Nancy a birth or death date — FGR 0019 leaves both blank for her and for Thomas Bailey — and nothing turns up on Find a Grave or in the regional cemetery indexes. The 1867 on `L6T9-J13` has no source and no place attached. Merge carelessly and it lands on a well-populated profile looking authoritative. **Carry it over as an alternate with a reason statement noting it is unsourced**, and leave `L1ZC-CZY`'s death blank until something supports it.
+
+What can be bracketed from the records in hand: married October 1803, son Thornsberry Jr. born August 1804, later children born in Taylor County, daughter Synthia married March 1827. Alive well into the 1820s at minimum.
+
+Two records would settle it:
+
+1. **1850 and 1860 census, Preston / Taylor / Harrison County.** 1850 is the first census naming every household member. Her presence or absence brackets the death and probably resolves the 1867 either way.
+2. **Virginia county death registers, 1853 onward.** Registration was required statewide from 1853 and kept at county level. If the 1867 is right, there should be an entry.
 
 ### 10. Add William Bartlett's other six sons
 Only if you want the collateral lines in the tree. Each needs the settlement place from the sketch as a residence: William Jr. (Simpson, Taylor Co.), Benjamin (Bridgeport, Harrison Co.), Robert (West Fork), John (West Fork), James (Clarksburg), Sanford (Clarksburg).
