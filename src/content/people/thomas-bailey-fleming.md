@@ -34,9 +34,11 @@ On **28 August 1851** he married **Martha Turner** at Parkersburg, in Wood Count
 
 On **15 September 1854** Thomas bought a **fifty-acre farm from his father** for **one hundred dollars**. The [deed](/archive/fleming-marriage-record-and-deed/) survives, and its boundary call starts at a chestnut oak *"corner to Lewis Fleming's farm"* — the son's land cut straight off the father's.
 
-The place was **Burnt Cabin**, a drain of **Arnold's Creek** in Doddridge County, about **ten miles west of West Union**. The deed also names **"Mary his wife"** alongside Lewis in the dower release — [Synthia](/family/synthia-bailey/) had died around 1849, and Lewis had married the widow Mary Lake.
+The place was **Burnt Cabin Slope**, a drain of **Arnold's Creek** in Doddridge County, about **ten miles west of West Union**. The deed also names **"Mary his wife"** alongside Lewis in the dower release — [Synthia](/family/synthia-bailey/) had died around 1849, and Lewis had married the widow Mary Lake.
 
-Eight months later, on **8 May 1855**, Thomas put the same fifty acres into a **deed of trust to secure seventy-five dollars**. He was twenty-five, three years married, with children coming — and he had mortgaged three-quarters of the farm's purchase price back out of it within the year. It is the plainest surviving statement of what this family's economics actually were.
+The deed sat unrecorded for nearly eight months. On **7 May 1855** it was entered in **Deed Book 2, page 484** — and that same day Thomas put the same fifty acres into a **deed of trust**, conveying it to **Francis D. Hickman as trustee** to secure **seventy-five dollars owed to John W. Cumberledge**, repayable in one year, with the land to be sold on default under the Code of Virginia.
+
+He was twenty-five, three years married, with children coming, and he had mortgaged three-quarters of the farm's purchase price back out of it the day the purchase was recorded. It is the plainest surviving statement of what this family's economics actually were.
 
 ## Ten children
 
