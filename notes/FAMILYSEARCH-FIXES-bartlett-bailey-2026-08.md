@@ -40,6 +40,25 @@ Two problems on this profile regardless of what happens to the parentage in Tier
 ### 6. Sarah — `LHG5-VL5`
 **Clear the surname "Bartlett."** Her maiden name is unknown — the 1990 sketch writes her as *"Sarah ( )"* with the parenthesis left open. FamilySearch convention is to leave the surname blank rather than assign the husband's. As entered she also collides with her own daughter, **Sarah F Bartlett `LCRM-9YX`**.
 
+**The record that would supply it:** the **Fauquier County marriage bond or register, c. 1783** — FamilySearch already places the wedding there, and Fauquier's marriage records survive from the county's formation in 1759. A bond names the bride and normally her father or a kinsman bondsman.
+
+**A lead, not an answer — the Carrolls.** Three Carrolls are already in the tree, and their geography tracks the Bartlett migration county for county:
+
+| | Born | Died |
+|---|---|---|
+| Sarah Carroll `G3HY-61H` | 1739, **Fairfax** | 1792, **Harrison Co.** |
+| **Sanford** Carroll | 1748, Virginia | Jul 1777, **Leeds, Fauquier** |
+| Mary Anne Heath Carroll | 1766, **Loudoun** | Jun 1846, **Clarksburg, Harrison Co.** |
+
+William Bartlett's seventh son is named **Sanford** and settled in **Clarksburg**; the Carrolls use Sanford as a given name and have a Loudoun-born daughter who died at Clarksburg. Surname-as-given-name is a documented habit in this family (Hannah Thornsberry → Thornsberry Bailey; Thomas Bailey → Thomas Bailey Fleming).
+
+Two cautions before anyone acts on this:
+
+- The pattern points at **William Bartlett's unknown wife (`UNKNOWN-0339`)**, not at Sarah.
+- **Sarah Carroll is not this Sarah.** Born 1739 against Sarah's c. 1758, and she is already attached as a second wife of Thomas Bartlett `GWD6-W1Z` — the profile being detached in item 7. Do not merge them.
+
+Test it against Fauquier and Loudoun deeds and marriage bonds naming both surnames. **Attach nothing on the strength of the name pattern alone.**
+
 ---
 
 ## Tier 2 — the parentage correction (the big one)
