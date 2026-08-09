@@ -19,7 +19,7 @@ She was a daughter of **[Thomas Bailey](/family/thomas-bailey/)** and **[Nancy B
 
 Her eldest son, **[Thomas Bailey Fleming](/family/thomas-bailey-fleming/)** (b. February 1830), carries her father's name in his own — the clearest surviving trace of the Bailey family inside the Fleming line.
 
-Synthia died about **1849**; Lewis afterward married the widow Mary Lake.
+Synthia died about **1849**; Lewis afterward married the widow Mary Lake. A [deed of 15 September 1854](/archive/fleming-marriage-record-and-deed/), conveying fifty acres from Lewis to their son Thomas, names the grantors as *"Lewis Fleming and **Mary** his wife"* — independent corroboration, from a legal instrument, that Synthia had died before that date.
 
 ## Source
 
