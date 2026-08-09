@@ -45,7 +45,13 @@ That clustering is what makes the sketch credible. It is also why the Bailey, Ba
 
 **Wife — UNKNOWN (0339).** Not even a first name. Every field empty.
 
-**Children listed on page 1:** William Bartlett Jr. (0371) · **Thomas Bartlett (0314)**, *died June 1836, Preston County* · Benjamin Bartlett (0372) · Robert Bartlett (0373) · John Bartlett (0376). Page 2, which would carry James and Sanford, is not in hand.
+**Children, page 1:** William Bartlett Jr. (0371) · **Thomas Bartlett (0314)**, *died June 1836, Preston County* · Benjamin Bartlett (0372) · Robert Bartlett (0373) · John Bartlett (0376).
+
+**Children, page 2:** James Bartlett (0374) · Sanford Bartlett (0375). Both rows are otherwise empty — no birth, marriage, death or spouse.
+
+![Page two of LDS Family Group Record 0118: the header repeats HUSBAND WILLIAM BARTLETT-0325, Yr of Birth 1720, and WIFE UNKNOWN-0339 with the year-of-birth field blank; children six and seven are James Bartlett-0374 and Sanford Bartlett-0375, with all fields empty.](../../assets/family/originals/bartlett-family-group-record-0118-p2.jpeg)
+
+*Page 2 completes the seven sons — and repeats the wife line: **UNKNOWN-0339**, year of birth blank. Robert Earl carried her across both pages of the record without a single field filled.*
 
 ## A circular link on the form itself
 
@@ -63,6 +69,6 @@ It settles the reading of the earlier sketch. *"One of seven sons of William Bar
 
 It does not settle the disagreement with **FamilySearch**, which gives Thomas a different father entirely: Thomas Bartlett (b. 1733) of Richmond County and Anne Settle, a Northern Neck family with no Loudoun connection. The weight has shifted toward the sketch — Loudoun adjoins Fauquier, where FamilySearch itself places Thomas's 1756 birth and 1783 marriage, whereas Richmond County is ninety miles east; and FamilySearch has that alternative father marrying in 1748, at fifteen. The argument is laid out in full on [Thomas Bartlett's page](/family/thomas-bartlett/).
 
-**Still open:** William's wife, who is literally "UNKNOWN" on the form. His death date and place. Page 2 of the form. And whether he is the William Bartlett of Loudoun County who appears in published Virginia genealogies — a lead, not a link.
+**Still open:** William's wife, who is literally "UNKNOWN" on both pages of the form. His death date and place. And whether he is the William Bartlett of Loudoun County who appears in published Virginia genealogies — a lead, not a link.
 
 > *Source: Robert Earl Wildermuth's research papers, dated 11 July 1990; photographed 2026. Companion sheets: [Bartlett Family Group Record 0094](/archive/bartlett-family-group-record-0094/) and the [Bailey Family Group Record 0019](/archive/bailey-family-group-record-0019/).*

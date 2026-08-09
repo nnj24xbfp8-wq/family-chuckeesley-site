@@ -112,7 +112,7 @@ Two records would settle it:
 2. **Virginia county death registers, 1853 onward.** Registration was required statewide from 1853 and kept at county level. If the 1867 is right, there should be an entry.
 
 ### 10. Add William Bartlett's other six sons
-Only if you want the collateral lines in the tree. Each needs the settlement place from the sketch as a residence: William Jr. (Simpson, Taylor Co.), Benjamin (Bridgeport, Harrison Co.), Robert (West Fork), John (West Fork), James (Clarksburg), Sanford (Clarksburg).
+Only if you want the collateral lines in the tree. Each needs the settlement place from the sketch as a residence. Wildermuth IDs from form 0118: William Jr. (0371, Simpson, Taylor Co.), Benjamin (0372, Bridgeport, Harrison Co.), Robert (0373, West Fork), John (0376, West Fork), James (0374, Clarksburg), Sanford (0375, Clarksburg).
 
 ---
 

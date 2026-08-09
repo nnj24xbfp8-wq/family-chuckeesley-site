@@ -26,7 +26,9 @@ Seven brothers left the northern Piedmont and rebuilt the family inside a single
 
 ## His wife
 
-Unrecorded. [Robert Earl Wildermuth](/family/robert-earl-wildermuth/)'s form enters her as **UNKNOWN-0339** with every field blank — no first name, no dates, no parents. Seven sons, and nothing at all about their mother. She is the second woman in three generations of this line to reach the archive without a name, after her daughter-in-law **[Sarah](/family/sarah-bartlett-wife/)**.
+Unrecorded. [Robert Earl Wildermuth](/family/robert-earl-wildermuth/)'s form enters her as **UNKNOWN-0339** with every field blank — no first name, no dates, no parents — and the entry repeats, still blank, in the header of page 2. He carried her across the whole record without finding one thing to put down. Seven sons, and nothing at all about their mother.
+
+She is the second woman in three generations of this line to reach the archive without a name, after her daughter-in-law **[Sarah](/family/sarah-bartlett-wife/)**, whose surname the same compiler left as an open parenthesis.
 
 ## Two cautions
 
