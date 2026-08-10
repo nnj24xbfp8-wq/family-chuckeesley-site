@@ -55,6 +55,10 @@ Six years later, the same request to the **Verbandsgemeinde Marbach** — this t
 > *"Ich hätte sehr gerne seinen Geburtschein und auch andere Familien Aufzeichnungen die Sie finden. **Ich hätte auch gerne die Namen von seinen Eltern.**"*
 > *("I would very much like his birth certificate and any other family records you can find. I would also like the names of his parents.")*
 
+He had written the same request to Marbach in English a fortnight earlier, on **30 October 1986**, filed as DOC-106 / WILD-16 — the German version followed on 12 November, presumably because the first drew no reply.
+
+![A typed letter dated 30 October 1986 to the Verbandsgemeinde Marbach, Wuerrtemberg, in English, asking the town to examine its birth records for August 1830 for John Michael Wildermuth and enclosing three international mailing coupons.](../../assets/family/originals/wildermuth-letter-marbach-1986-english.jpeg)
+
 The names of his parents. In 1986 he still did not have them. He would get them — [Johann Christian and Maria Margaretha](/archive/wildermuth-familienregister-grossaspach/) — from a parish register, years later.
 
 ## 1991 — the stranger in Phoenix
@@ -92,5 +96,12 @@ He signs off: *"Sorry we didn't tie in; for oftentimes that sort of contact star
 Mrs. Allen enclosed six pages of **Family Group Record 203** for **Johannes Erling and Maria Philippina Yager** of Alsace Township, Berks County, Pennsylvania — sixteen children, with several pages of dense source documentation. It is [filed here](/archive/erling-family-group-record-203/) as it came.
 
 **No Erling, Ebling or Yager appears anywhere in this family's tree.** The material stays in the archive because it was in his file and because it shows how the network operated, not because a connection was ever established. Robert Earl's own verdict was *"sorry we didn't tie in."*
+
+## Elsewhere in the campaign
+
+Two further threads have their own pages:
+
+- **1983 — [the search for the crossing](/archive/search-for-the-crossing-1983/).** Three letters chasing the ship's name, and the Federal Archives reply explaining why he would never find it: the New York passenger index has a gap from **1847 through 1896**, and 1847 is the year Johann Michael landed.
+- **1985 — [the cemetery superintendent's reply](/archive/oak-grove-cemetery-burials-1985/).** Where the Marietta Wildermuths lie, and the discovery that most of the graves have no stones.
 
 > *Source: Robert Earl Wildermuth's genealogical research papers, 1977–1991; photographed 2026. Companions: the [Rielingshausen parish correspondence](/archive/rielingshausen-parish-correspondence/) and the [Großaspach Familienregister extract](/archive/wildermuth-familienregister-grossaspach/).*

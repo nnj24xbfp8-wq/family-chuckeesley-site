@@ -14,7 +14,7 @@ parents:
   - maria-margaretha-schmidgall
 spouses:
   - catharina-boeshar-wildermuth
-summary: "The Wildermuth who left Württemberg. Born 23 August 1830 in Großaspach, Backnang, Württemberg; sailed at sixteen, arriving at the Port of New York in 1847 (per his own 1853 Philadelphia naturalization sworn statement). Worked at the shoe trade in Marietta, Ohio with William Rossar of Baden. Naturalized as an American citizen on 1 November 1853 at the Philadelphia Court of Quarter Sessions before the Hon. Oswald Thompson, witnessed by Michael Dreher — renouncing allegiance to 'the Grand Duke of Wirtemberg of whom he was at that time a Subject.' Married Catharina Boeshar of Breitenbach, Bavaria around 1862 in Washington County, Ohio. Three documented sons: John Charles (1865), William Clifford (1866), Edward Frederick (1873). Died 7 February 1903 in Marietta and was buried at Oak Grove Cemetery. Chuck's great-great-great-grandfather on the maternal Wildermuth line."
+summary: "The Wildermuth who left Württemberg. Born 23 August 1830 in Großaspach, Backnang, Württemberg; sailed at sixteen, arriving at the Port of New York in 1847 (per his own 1853 Philadelphia naturalization sworn statement). Worked at the shoe trade in Marietta, Ohio with William Rossar of Baden. Filed on 1 November 1853 at the Philadelphia Court of Quarter Sessions, before the Hon. Oswald Thompson and witnessed by Michael Dreher, renouncing allegiance to 'the Grand Duke of Wirtemberg of whom he was at that time a Subject' — though whether he ever completed naturalization is unresolved; Robert Earl's 1983 searches found no completed petition in Philadelphia or Allegheny County. Married Catharina Boeshar of Breitenbach, Bavaria around 1862 in Washington County, Ohio. Three documented sons: John Charles (1865), William Clifford (1866), Edward Frederick (1873). Died 7 February 1903 in Marietta and was buried at Oak Grove Cemetery. Chuck's great-great-great-grandfather on the maternal Wildermuth line."
 ---
 
 He was the **Wildermuth who left.**
@@ -79,7 +79,29 @@ The certified death record — **no. 5467, Volume 2, page 144**, recorded 31 Mar
 
 > *"This of course would rule out John's age at the time of his death as being only 40 years. Do you think there could have been an error in recording John's age? Perhaps he was in this country only 40 years."*
 
-The same letter preserves a detail recorded nowhere else: he was *"the German shoemaker who had a shop on **lower Front Street** in Marietta."* His widow Catharina lived another **thirty years** before being buried near him in 1933. The Oak Grove Cemetery in Marietta is where the early Wildermuth generation of the family is buried.
+The same letter preserves a detail recorded nowhere else: he was *"the German shoemaker who had a shop on **lower Front Street** in Marietta."*
+
+He was right about the error. Seven years later the **[Oak Grove Cemetery register](/archive/oak-grove-cemetery-burials-1985/)**, independent of the certificate, gave the age at burial as **72 years, 6 months, 16 days** — consistent with the 1830 birth and not with anything like forty.
+
+## The grave
+
+The cemetery superintendent's 1985 reply places him in **Section 11, Lot 1** — *"lot full,"* the lot owner his youngest son **[Edward Frederick Wildermuth](/family/edward-frederick-wildermuth/)**, who outlived him by sixty-one years. Buried **9 February 1903**, two days after his death.
+
+And, in the superintendent's own three words: ***"No stone on lot."*** His son [William Clifford](/family/william-wildermuth/) and daughter-in-law [Flora](/family/flora-schlicher-wildermuth/) lie unmarked in the same cemetery.
+
+## The ship was never found — and why
+
+[Robert Earl](/family/robert-earl-wildermuth/) spent the autumn of 1983 trying to name the vessel. He was looking at **Philadelphia**, on a belief that the arrival was there in 1850 or 1851. The Federal Archives and Records Center wrote back with the fact that closed the door:
+
+> *"There is a gap in the index for the port of New York for the years **1847 through 1896**. The National Archives cannot undertake a page by page search of these records for these years."*
+
+Johann Michael landed at **New York in 1847** — the first year of the gap. Even had he searched the right port, the index would have missed him by one year. [The full 1983 exchange is here](/archive/search-for-the-crossing-1983/).
+
+The manifests themselves survive and are now name-indexed online, so the crossing is findable today in a way it was not then.
+
+## Did he ever finish naturalizing?
+
+An open question the 1983 letters raise. Robert Earl had located the **declaration of intent** — the [1853 Philadelphia document](/docs/johann-michael-wildermuth-naturalization-1853/) — but established that **no completed petition of naturalization followed it in the Philadelphia County courts**. He then wrote to Allegheny County on a theory that it had been finished in Pittsburgh, where he believed Johann Michael had relatives. The clerk's answer, written across the letter: *"No record found."* His widow Catharina lived another **thirty years** before being buried near him in 1933. The Oak Grove Cemetery in Marietta is where the early Wildermuth generation of the family is buried.
 
 ## Is there a picture of him?
 

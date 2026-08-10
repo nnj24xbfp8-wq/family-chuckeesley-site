@@ -63,6 +63,12 @@ He is therefore **Chuck's great-great-grandfather** on the maternal side.
 
 ## Dates settled
 
+## The grave
+
+The **[Oak Grove Cemetery register](/archive/oak-grove-cemetery-burials-1985/)** places him in **Section C, Lot 30**, buried **12 September 1943** at seventy-seven. **[Flora](/family/flora-schlicher-wildermuth/)** lies beside him in the same lot, buried twenty-four years earlier. The superintendent's 1985 note is spare: *"Just (2) on the lot, it is (2) grave lot, lot is full. **No stones on lot**."*
+
+Robert Earl's own grandparents, unmarked.
+
 His **1943 death date** (just six days short of his 77th birthday) places him in Marietta in the same year as his daughter Margaret Zelma's death in Los Angeles. Whether their deaths in the same year were related, or coincidence, is the kind of detail the Marietta Times obituary archives could probably settle.
 
 He appears as the **far-left figure** in the **[c. 1896 family group portrait](/archive/william-wildermuth-family-group-portrait/)** — older man with substantial mustache, dark suit, hands at his sides — visibly the patriarch of the household at age thirty.

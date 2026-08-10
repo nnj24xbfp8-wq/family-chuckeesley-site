@@ -42,6 +42,8 @@ Flora **stands at the left** in the family's **[c. 1915 studio portrait](/archiv
 
 She died **18 November 1919** in Marietta at age **49** — a death well before her time by modern standards, twenty-four years before her husband would die in 1943. Cause of death is open in the GEDCOM; the late-1919 timing is consistent with the **1918–1919 influenza pandemic**'s final wave, which continued to claim American victims into late 1919 and early 1920, but other causes are equally possible. By 1919 her three children were all adults: Charles 30, Margaret 28, Emma 26.
 
+She was buried in **Section C, Lot 30** at Oak Grove Cemetery, in a two-grave lot her husband [William Clifford](/family/william-wildermuth/) would join in 1943. The **[cemetery register](/archive/oak-grove-cemetery-burials-1985/)** records no marker on it: *"No stones on lot."* The register also gives her burial as **23 November 1919** and her age as **50**, against the archive's 21 November and 49 — small clerical differences, neither better sourced than the other.
+
 She is **Robert Earl Wildermuth's grandmother** and **Chuck's great-great-grandmother** on the maternal Wildermuth side. Her sixth child Earl Adam Wildermuth (b. 1899) is the line that runs forward to Robert Earl, to Terrie, to Chuck. Robert Earl was born in 1924, five years after Flora's 1919 death; he never met her.
 
 > *Source: [Dale Eesley / FamilySearch — Flora Schlicher (LWBF-S45)](https://www.familysearch.org/tree/person/details/LWBF-S45); the typed caption card accompanying the [c. 1896 family group portrait](/archive/william-wildermuth-family-group-portrait/); [Robert Earl Wildermuth's 1989 memoir](/docs/robert-earl-wildermuth-memoir/) for the Schlicher research context.*
