@@ -14,7 +14,7 @@ parents:
   - maria-margaretha-schmidgall
 spouses:
   - catharina-boeshar-wildermuth
-summary: "The Wildermuth who left Württemberg. Born 23 August 1830 in Großaspach, Backnang, Württemberg; sailed at sixteen, arriving at the Port of New York in 1847 (per his own 1853 Philadelphia naturalization sworn statement). Worked at the shoe trade in Marietta, Ohio with William Rossar of Baden. Swore the naturalization oath in open court on 1 November 1853 at the Philadelphia Court of Quarter Sessions, before the Hon. Oswald Thompson and witnessed by Michael Dreher, renouncing allegiance to 'the Grand Duke of Wirtemberg of whom he was at that time a Subject' — though whether the admission was ever completed and docketed is unresolved. Married Catharina Boeshar of Breitenbach, Bavaria around 1862 in Washington County, Ohio. Three documented sons: John Charles (1865), William Clifford (1866), Edward Frederick (1873). Died 7 February 1903 in Marietta and was buried at Oak Grove Cemetery. Chuck's great-great-great-grandfather on the maternal Wildermuth line."
+summary: "The Wildermuth who left Württemberg. Born 23 August 1830 in Großaspach, Backnang, Württemberg; sailed at sixteen, arriving at the Port of New York in 1847 (per his own 1853 Philadelphia naturalization sworn statement). Worked at the shoe trade in Marietta, Ohio with William Rossar of Baden. Declared his intention at the Philadelphia Court of Quarter Sessions on 1 November 1852 and was naturalized there exactly a year later, on 1 November 1853, swearing the oath in open court before the Hon. Oswald Thompson, witnessed by Michael Dreher, and renouncing allegiance to 'the Grand Duke of Wirtemberg of whom he was at that time a Subject.' Married Catharina Boeshar of Breitenbach, Bavaria around 1862 in Washington County, Ohio. Three documented sons: John Charles (1865), William Clifford (1866), Edward Frederick (1873). Died 7 February 1903 in Marietta and was buried at Oak Grove Cemetery. Chuck's great-great-great-grandfather on the maternal Wildermuth line."
 ---
 
 He was the **Wildermuth who left.**
@@ -47,7 +47,7 @@ The single most consequential document this archive holds on his emigration is h
 - **American name: "John M. Wildermuth"** — already in use as his everyday formal identity by 1853
 - **Witness: Michael Dreher**, a citizen of the United States — a fellow German emigrant who attested to having known Johann Michael long enough to vouch for his good character
 
-The sheet carries **all three steps at once** — the recital of the declaration made before the clerk that same morning, the petition to be admitted, and the **oath of allegiance sworn in open court** — which is what the minor's provision allowed. A person who had arrived under eighteen and lived five years in the United States could declare and be admitted in a single sitting, without the usual waiting period between the two. Johann Michael was 23, six years past his arrival and three past his majority. Whether the court then entered an order admitting him is a separate question, taken up below.
+The sheet carries the **petition, the witness affidavit and the oath of allegiance**, and opens by reciting a declaration made before the clerk of the same court *"on the first day of November"* — with the year left blank on the printed form. That declaration was **1 November 1852**, a year earlier to the day. Johann Michael was 23, six years past his arrival and three past his majority.
 
 ## What it would have meant to leave
 
@@ -99,17 +99,24 @@ Johann Michael landed at **New York in 1847** — the first year of the gap. Eve
 
 The manifests themselves survive and are now name-indexed online, so the crossing is findable today in a way it was not then.
 
-## Was he ever actually naturalized?
+## Naturalized in two appearances, a year apart
 
-Genuinely unresolved, and the evidence pulls both ways.
+Resolved. It took two documents to see it, and for a long time they looked like one.
 
-**For — the paper itself.** The [1853 document](/docs/johann-michael-wildermuth-naturalization-1853/) is headed ***"The Petition of John M. Wildermuth, A Native of Germany,"*** not a declaration form. It recites the declaration made before the clerk that same morning, prays *"that … he may be admitted a Citizen of the United States of America,"* carries **Michael Dreher's witness affidavit sworn in open court**, and ends with the **oath of allegiance** — signed, and endorsed *"Sworn in open Court, this first day of November, A.D. 1853."* Swearing that oath is the operative act of admission, and the minor's provision let a man who arrived under eighteen do all of it in one sitting.
+| | |
+|---|---|
+| **1 November 1852** | **Declaration of intention**, Court of Quarter Sessions, Philadelphia — renouncing allegiance to the Grand Duke of Württemberg. Indexed in *Philadelphia Naturalization Records, Book II* as 11-01-1852, and the document the City of Philadelphia sold Robert Earl a photocopy of in 1983. |
+| **1 November 1853** | **Petition, witness affidavit and oath of allegiance sworn in open court** — the [sheet in the family's keeping](/docs/johann-michael-wildermuth-naturalization-1853/), before the Hon. Oswald Thompson, witnessed by Michael Dreher. |
 
-**Against — what the record-keepers said.** In September 1983 the **City of Philadelphia Department of Records** quoted Robert Earl two dollars for a photocopy of what its archivist called *"**the declaration of intention** of John M. Wildermuth."* And Robert Earl himself, that same autumn, wrote to two county courthouses stating flatly that *"Mr. Wildermuth did **not** file a petition of naturalization in the Philadelphia County Courts,"* and hunted **Montgomery County** and **Allegheny County** for a completed one. Both searched and found nothing. Whatever he was holding, **he did not believe it finished the job**.
+The 1853 petition recites that he *"declared on oath before the Clerk of this Court, on the first day of November"* — and the printed form leaves the **year blank**. That blank is why the two appearances collapsed into one, and why a completed naturalization could look like an unfinished intention.
 
-What would settle it is not another copy of the petition but the **court's own docket or minute-book entry** for 1 November 1853 — the order admitting him — or a certificate of naturalization. Neither is in the file.
+Robert Earl reached the same reading in his [finished account](/docs/john-michael-wildermuth-sketch/), describing both appearances and ending: *"He took the oath of allegiance that same day and thus became **JOHN Michael Wildermuth, AMERICAN**."*
 
-The archive states the oath and the date, which are beyond dispute, and leaves the admission open.
+## The Philadelphia arrival that never happened
+
+The reason he spent a decade writing to the wrong offices is a line in a reference book. **Filby's *Passenger and Immigration Lists Index*** carries an entry reading *"WILDERMUTH, John M. … arrived: Philadelphia, year: 1852"* — which is not a ship arrival at all. Filby indexes published *name lists*, and this entry's source is the naturalization compilation: the **court date of 1 November 1852, reported as a port of entry**. The same thing happened to William Roeser, whose "arrival: Philadelphia 1847" is his own declaration date.
+
+So every letter that began *"Mr. John M. Wildermuth arrived in this country at the Port of Philadelphia in the year 1850"* rested on a courthouse date misfiled as a landing. He arrived at **New York in 1847**, as his own oath says. [The index page is here](/archive/wildermuth-philadelphia-index-records/).
 ## Is there a picture of him?
 
 For a time this archive floated the possibility that the **older mustachioed man at the back-left of the [c. 1896 William Clifford Wildermuth family group portrait](/archive/william-wildermuth-family-group-portrait/)** might be Johann Michael himself, age 66. **That identification has been withdrawn.** The typed caption card that accompanies the photograph — and Chuck's 2026 reading of it — identify that man as his **son [William Clifford Wildermuth](/family/william-wildermuth/)**, and Johann Michael is **not believed to be in the picture at all**. (His wife [Catharina Boeshar](/family/catharina-boeshar-wildermuth/) very likely *is* — the grandmother holding the youngest child at the back — but he is not.)
