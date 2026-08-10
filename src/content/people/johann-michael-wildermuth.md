@@ -14,7 +14,7 @@ parents:
   - maria-margaretha-schmidgall
 spouses:
   - catharina-boeshar-wildermuth
-summary: "The Wildermuth who left Württemberg. Born 23 August 1830 in Großaspach, Backnang, Württemberg; sailed at sixteen, arriving at the Port of New York in 1847 (per his own 1853 Philadelphia naturalization sworn statement). Worked at the shoe trade in Marietta, Ohio with William Rossar of Baden. Filed on 1 November 1853 at the Philadelphia Court of Quarter Sessions, before the Hon. Oswald Thompson and witnessed by Michael Dreher, renouncing allegiance to 'the Grand Duke of Wirtemberg of whom he was at that time a Subject' — though whether he ever completed naturalization is unresolved; Robert Earl's 1983 searches found no completed petition in Philadelphia or Allegheny County. Married Catharina Boeshar of Breitenbach, Bavaria around 1862 in Washington County, Ohio. Three documented sons: John Charles (1865), William Clifford (1866), Edward Frederick (1873). Died 7 February 1903 in Marietta and was buried at Oak Grove Cemetery. Chuck's great-great-great-grandfather on the maternal Wildermuth line."
+summary: "The Wildermuth who left Württemberg. Born 23 August 1830 in Großaspach, Backnang, Württemberg; sailed at sixteen, arriving at the Port of New York in 1847 (per his own 1853 Philadelphia naturalization sworn statement). Worked at the shoe trade in Marietta, Ohio with William Rossar of Baden. Naturalized on 1 November 1853 at the Philadelphia Court of Quarter Sessions, before the Hon. Oswald Thompson and witnessed by Michael Dreher, swearing the oath in open court and renouncing allegiance to 'the Grand Duke of Wirtemberg of whom he was at that time a Subject.' Married Catharina Boeshar of Breitenbach, Bavaria around 1862 in Washington County, Ohio. Three documented sons: John Charles (1865), William Clifford (1866), Edward Frederick (1873). Died 7 February 1903 in Marietta and was buried at Oak Grove Cemetery. Chuck's great-great-great-grandfather on the maternal Wildermuth line."
 ---
 
 He was the **Wildermuth who left.**
@@ -47,7 +47,7 @@ The single most consequential document this archive holds on his emigration is h
 - **American name: "John M. Wildermuth"** — already in use as his everyday formal identity by 1853
 - **Witness: Michael Dreher**, a citizen of the United States — a fellow German emigrant who attested to having known Johann Michael long enough to vouch for his good character
 
-The petition was a **declaration of intent and oath** under the **Naturalization Act of 1795 / 1802**, which allowed minors who had arrived in the U.S. under eighteen to naturalize after five years of residence (three of which had to be after the age of majority). The 1853 petition was filed when Johann Michael was 23 — six years after his 1847 arrival, three years after his majority.
+The sheet carries **all three steps at once** — the recital of the declaration made before the clerk that same morning, the petition to be admitted, and the **oath of allegiance sworn in open court** — which is what the minor's provision allowed. A person who had arrived under eighteen and lived five years in the United States could declare and be admitted in a single sitting, without the usual waiting period between the two. So the document is not a statement of intention: it is the naturalization. Johann Michael was 23, six years past his arrival and three past his majority.
 
 ## What it would have meant to leave
 
@@ -99,9 +99,15 @@ Johann Michael landed at **New York in 1847** — the first year of the gap. Eve
 
 The manifests themselves survive and are now name-indexed online, so the crossing is findable today in a way it was not then.
 
-## Did he ever finish naturalizing?
+## The naturalization he could not find, and later did
 
-An open question the 1983 letters raise. Robert Earl had located the **declaration of intent** — the [1853 Philadelphia document](/docs/johann-michael-wildermuth-naturalization-1853/) — but established that **no completed petition of naturalization followed it in the Philadelphia County courts**. He then wrote to Allegheny County on a theory that it had been finished in Pittsburgh, where he believed Johann Michael had relatives. The clerk's answer, written across the letter: *"No record found."* His widow Catharina lived another **thirty years** before being buried near him in 1933. The Oak Grove Cemetery in Marietta is where the early Wildermuth generation of the family is buried.
+In 1983 Robert Earl believed no completed naturalization existed. He [wrote to Allegheny County](/archive/search-for-the-crossing-1983/) saying that an intent had been filed in Philadelphia but that *"Mr. Wildermuth did **not** file a petition of naturalization in the Philadelphia County Courts,"* and asked Pittsburgh to search 1856. A clerk wrote the answer across the page: *"No record found."*
+
+He was searching on two wrong premises — that the arrival was at **Philadelphia in 1850 or 1851**, when it was New York in 1847 — so his year ranges were off, and Philadelphia's naturalizations were split across several courts with poor indexes.
+
+**The document existed, and he found it.** The [1853 petition](/docs/johann-michael-wildermuth-naturalization-1853/) is not a bare declaration of intent: it carries the petition, Michael Dreher's sworn witness affidavit, and the **oath of allegiance itself**, signed and endorsed *"Sworn in open Court, this first day of November, A.D. 1853."* Swearing that oath in open court is the act of admission. Under the minor's provision — arrival under eighteen, five years' residence — the declaration and the petition could be taken in a single sitting, which is what the recital describes.
+
+That the search ended well is legible in the paper itself: the petition bears the filing reference **WILD-8** in the upper right — Robert Earl's own file code, the same one stamped on the [cemetery superintendent's reply](/archive/oak-grove-cemetery-burials-1985/) (DOC #100 / WILD-8) and the 1980 [Backnang letter](/archive/wildermuth-genealogy-letter-campaign/) (DOC #144 / WILD-8). It went into his system. He got there. His widow Catharina lived another **thirty years** before being buried near him in 1933. The Oak Grove Cemetery in Marietta is where the early Wildermuth generation of the family is buried.
 
 ## Is there a picture of him?
 

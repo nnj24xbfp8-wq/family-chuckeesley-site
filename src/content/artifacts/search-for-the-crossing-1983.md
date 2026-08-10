@@ -36,7 +36,13 @@ Someone in Pittsburgh wrote the answer straight onto the page in a bold hand:
 
 > *"Oct 17, 1983 — No record found in search of John Wildermuth. — Frank"*
 
-That paragraph is worth pausing on. By 1983 Robert Earl had found the **declaration of intent** in Philadelphia — the [1853 document](/docs/johann-michael-wildermuth-naturalization-1853/) this archive holds — but he had established that **no completed petition of naturalization followed it in Philadelphia**. He was hunting Pittsburgh on the theory it had been finished there. It had not. Whether Johann Michael ever completed naturalization at all remains open.
+That paragraph is worth pausing on — because he was wrong, and he found out later.
+
+In 1983 he believed a declaration of intent had been filed at Philadelphia but that **no completed petition of naturalization followed it**, and he was hunting Pittsburgh on the theory it had been finished there. Two wrong premises were steering him: that the arrival was at **Philadelphia in 1850 or 1851**, when it was New York in 1847. His search years were off, and Philadelphia's naturalizations were divided among several courts with poor indexes.
+
+The completed record existed the whole time. The **[1853 Court of Quarter Sessions document](/docs/johann-michael-wildermuth-naturalization-1853/)** carries the petition, Michael Dreher's sworn witness affidavit, and the **oath of allegiance itself** — signed and endorsed *"Sworn in open Court, this first day of November, A.D. 1853."* That oath is the act of admission; under the minor's provision the declaration and the petition could be taken the same day, which is exactly what the recital describes.
+
+And he got it. The petition bears the filing reference **WILD-8** in its upper right — his own file code, the same one on the [cemetery superintendent's reply](/archive/oak-grove-cemetery-burials-1985/) (DOC #100 / WILD-8) and the 1980 [Backnang letter](/archive/wildermuth-genealogy-letter-campaign/) (DOC #144 / WILD-8). The copy in the family's keeping is his copy.
 
 ## The answer that explains everything
 
