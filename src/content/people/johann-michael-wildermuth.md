@@ -71,9 +71,15 @@ They raised **three documented sons** in Marietta:
 - **[William Clifford Wildermuth](/family/william-wildermuth/)** (b. 17 September 1866) — **the middle son. Robert Earl Wildermuth's actual paternal grandfather** through Earl Adam, settled in Dale's tree (June 2026). The patriarch of the [c. 1896 family group portrait](/archive/william-wildermuth-family-group-portrait/).
 - **Edward Frederick Wildermuth** (b. 17 February 1873) — the youngest, who lived to **91**, dying at Marietta in 1964.
 
-## The death and the burial
+## The death, the burial, and an impossible age
 
-He died in **Marietta on 7 February 1903** at age **72**, and was buried at **Oak Grove Cemetery, Marietta**. His widow Catharina lived another **thirty years** before being buried near him in 1933. The Oak Grove Cemetery in Marietta is where the early Wildermuth generation of the family is buried.
+He died in **Marietta on 7 February 1903** at age **72**, and was buried at **Oak Grove Cemetery, Marietta**.
+
+The certified death record — **no. 5467, Volume 2, page 144**, recorded 31 March 1903 — was obtained from the Washington County Probate Court in December 1977 by [Robert Earl Wildermuth](/family/robert-earl-wildermuth/), who read it and immediately saw that it was wrong. It gave the dead man's age as **forty**. His son William was **thirty-eight** at the time. Robert Earl [wrote back to the clerk](/archive/wildermuth-genealogy-letter-campaign/):
+
+> *"This of course would rule out John's age at the time of his death as being only 40 years. Do you think there could have been an error in recording John's age? Perhaps he was in this country only 40 years."*
+
+The same letter preserves a detail recorded nowhere else: he was *"the German shoemaker who had a shop on **lower Front Street** in Marietta."* His widow Catharina lived another **thirty years** before being buried near him in 1933. The Oak Grove Cemetery in Marietta is where the early Wildermuth generation of the family is buried.
 
 ## Is there a picture of him?
 
