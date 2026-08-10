@@ -1,11 +1,11 @@
 ---
-title: "The search for the crossing — National Archives and Allegheny County, 1983"
+title: "The search for the crossing — four offices in eight weeks, 1983"
 type: "Correspondence"
 image: ../../assets/family/originals/gsa-federal-archives-philadelphia-reply-1983.jpeg
 medium: "Typed outgoing letters with pencil annotations; a checklist reply form from the Federal Archives and Records Center"
 dateCreated: "1983"
-sortDate: "1983-10-01"
-placeCreated: "Casselberry, Florida; Philadelphia and Pittsburgh, Pennsylvania"
+sortDate: "1983-09-06"
+placeCreated: "Casselberry, Florida; Philadelphia, Pittsburgh and Norristown, Pennsylvania"
 idNumber: "DOCUMENT 13 / WILD"
 provenance: "Robert Earl Wildermuth's genealogical research papers; in Chuck's keeping. Photographed 2026."
 rights: "Family use; permission required for republication."
@@ -16,7 +16,7 @@ people:
 
 In the autumn of 1983 [Robert Earl Wildermuth](/family/robert-earl-wildermuth/) went after the one thing he never got: **the ship**. He wanted the name of the vessel that carried his great-grandfather [Johann Michael](/family/johann-michael-wildermuth/) to America, and the port it sailed from.
 
-Three letters in three weeks, and the answer that explains why he failed.
+Four offices in eight weeks, and the answer that explains why he failed.
 
 ## The wrong port, the wrong year
 
@@ -36,13 +36,31 @@ Someone in Pittsburgh wrote the answer straight onto the page in a bold hand:
 
 > *"Oct 17, 1983 — No record found in search of John Wildermuth. — Frank"*
 
-That paragraph is worth pausing on — because he was wrong, and he found out later.
+He wrote the same letter the same day to **Montgomery County**, at Norristown — and there he names something the file has nowhere else:
 
-In 1983 he believed a declaration of intent had been filed at Philadelphia but that **no completed petition of naturalization followed it**, and he was hunting Pittsburgh on the theory it had been finished there. Two wrong premises were steering him: that the arrival was at **Philadelphia in 1850 or 1851**, when it was New York in 1847. His search years were off, and Philadelphia's naturalizations were divided among several courts with poor indexes.
+![A typed letter dated 4 October 1983 to the Probate Court, Montgomery County, Norristown, Pennsylvania, stamped received 12 October 1983, asking for a check of the 1856 naturalization records, with the Prothonotary's typed reply of 28 October beneath it reporting a thorough search from 1850 through 1906 with nothing found.](../../assets/family/originals/wildermuth-letter-montgomery-county-1983.jpeg)
 
-The completed record existed the whole time. The **[1853 Court of Quarter Sessions document](/docs/johann-michael-wildermuth-naturalization-1853/)** carries the petition, Michael Dreher's sworn witness affidavit, and the **oath of allegiance itself** — signed and endorsed *"Sworn in open Court, this first day of November, A.D. 1853."* That oath is the act of admission; under the minor's provision the declaration and the petition could be taken the same day, which is exactly what the recital describes.
+> *"I have information that Mr. Wildermuth lived for a time with relatives in either **Pottsgrove or Pottstown, Pennsylvania**."*
+>
+> *"P.S. The year of allegiance may have been late 1855."*
 
-And he got it. The petition bears the filing reference **WILD-8** in its upper right — his own file code, the same one on the [cemetery superintendent's reply](/archive/oak-grove-cemetery-burials-1985/) (DOC #100 / WILD-8) and the 1980 [Backnang letter](/archive/wildermuth-genealogy-letter-campaign/) (DOC #144 / WILD-8). The copy in the family's keeping is his copy.
+That is the only clue in the archive to **where in Pennsylvania** Johann Michael spent the year of residence his 1853 petition swears to. Pottstown and Pottsgrove sit on the Schuylkill in Montgomery County, in the heart of the Pennsylvania-German country.
+
+The Prothonotary's reply is typed straight onto the bottom of his own letter, 28 October 1983:
+
+> *"We have made a thorough search of our Naturalization records from 1850 thru 1906 and cannot locate anything on the above. Perhaps you should try surrounding counties such as Bucks, Berks, Delaware, Chester or Philadelphia."*
+
+## What Philadelphia had actually sold him
+
+A month before all this, on **6 September 1983**, the **City of Philadelphia Department of Records** had written back about a copy he had ordered — and returned his cheque for being three dollars instead of two.
+
+![A typed letter dated 6 September 1983 from Lee Stanley, Archivist I, City of Philadelphia Department of Records, quoting two dollars for a photocopy of the declaration of intention of John M. Wildermuth and returning a three-dollar cheque.](../../assets/family/originals/philadelphia-dept-records-reply-1983.jpeg)
+
+> *"The cost for a photocopy of the **declaration of intention** of John M. Wildermuth will be $2.00 payable to the City of Philadelphia. I am returning your check #1501 in the amount of $3.00. Please resubmit your check in the amount of $2.00."*
+> — Lee Stanley, Archivist I
+
+**Declaration of intention.** That is how the City catalogued the 1853 sheet — and it is why Robert Earl spent the following month writing to Pittsburgh and Norristown looking for a naturalization he thought must be somewhere else. The document he already owned is headed *"The Petition of John M. Wildermuth"* and ends with the oath sworn in open court; the archivist's label and the paper's own wording do not agree, and the [question is still open](/family/johann-michael-wildermuth/).
+
 
 ## The answer that explains everything
 

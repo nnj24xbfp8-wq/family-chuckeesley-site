@@ -1,9 +1,9 @@
 ---
-title: "Writing to the Rielingshausen parish — Robert Earl Wildermuth's letter and the pastor's reply"
+title: "Writing to the Rielingshausen parish — two replies, five years apart"
 type: "Correspondence"
 image: ../../assets/family/originals/rielingshausen-pfarrer-reply-letter.jpeg
 medium: "Typed form letter in English and German; printed Ahnentafel chart annotated in blue and red ink; typed reply on parish letterhead; airmail envelope"
-dateCreated: "c. 1990–1992"
+dateCreated: "1987–1992"
 sortDate: "1992-05-27"
 placeCreated: "Casselberry, Florida, and Marbach am Neckar–Rielingshausen, Baden-Württemberg"
 idNumber: "WILD-RIELINGSHAUSEN-CORR"
@@ -59,7 +59,22 @@ Every one of those matches what the archive independently holds from the FamilyS
 
 *The chart is dated **18 April 1989** in Robert Earl's hand, at the Casselberry address — filled out at the start of the research push that produced the [1990 Heritage](/docs/wildermuth-fleming-heritage-1990/) and the family group records.*
 
-## 3. The reply
+## 3. The first reply — nothing found
+
+Before the useful letter came a dead end. On **26 February 1987** the parish secretary wrote back:
+
+![A typed letter on Evangelisches Pfarramt letterhead dated 26 February 1987, signed by U. Kelm, parish secretary, reporting that after a thorough search of the family register, baptismal register and confirmation register no entry could be found under the date given, and returning one enclosure.](../../assets/family/originals/rielingshausen-pfarramt-no-entry-reply-1987.jpeg)
+
+> *"Nachdem wir nun unsere Familien-Register, Taufregister und Konfirmanden-Register gründlich durchgesehen haben, müssen wir Ihnen leider mitteilen, daß wir unter dem von Ihnen genannten Datum keine Eintragung finden können. … Vielleicht könnten Sie jemanden beauftragen, der für Sie weitere Nachforschungen vornehmen würde."*
+>
+> *("Having now thoroughly gone through our family register, baptismal register and confirmation register, we regret to tell you that we can find no entry under the date you gave. … Perhaps you could commission someone to carry out further research for you.")*
+> — i.A. **U. Kelm, Pfarramtssekretärin**. At the foot: ***1 Anlage zurück!*** — one enclosure returned.
+
+They looked in all three registers and found nothing, because in 1987 he was still asking the **wrong parish**. Every question he had put to a German office up to that point was about **[Johann Michael](/family/johann-michael-wildermuth/), born 23 August 1830** — and Johann Michael was born at **Großaspach**, in the Backnang district, not at Rielingshausen in the Marbach district. Rielingshausen's books could not contain him.
+
+What changed was the question. Once he sent the [ancestor chart](#2-the-chart-he-enclosed) and asked about the **eighteenth-century** Wildermuths — Andreas, Margaretha — Rielingshausen was suddenly the right parish, and the answer came back full.
+
+## 4. The reply that worked
 
 ![A typed letter on the letterhead of the Evangelisches Pfarramt, 7142 Marbach/N.-Rielingshausen, Rathausplatz, telling Herr Wildermuth that some data could be gathered, and recording that Margaretha née Lämmle married Michael Eisenbarth of neighbouring Erdmannhausen after her husband Andreas Wildermuth's death, and died on 8 May in childbirth. Signed by the pastor.](../../assets/family/originals/rielingshausen-pfarrer-reply-letter.jpeg)
 
