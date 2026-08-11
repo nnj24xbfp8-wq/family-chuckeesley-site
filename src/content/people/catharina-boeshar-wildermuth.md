@@ -30,7 +30,17 @@ Johann Michael's [1853 Philadelphia naturalization petition](/docs/johann-michae
 
 ## The long Marietta life
 
-She married Johann Michael at age 22 in 1862; she gave birth to three documented sons over the next eleven years — **John Charles** (b. September 1865), **[William Clifford](/family/william-wildermuth/)** (b. 17 September 1866 — the patriarch of the [c. 1896 family group portrait](/archive/william-wildermuth-family-group-portrait/)), and **Edward Frederick** (b. 17 February 1873, lived to 1964 in Marietta) — and she raised them at Marietta. She was widowed in **February 1903** at age **62** when Johann Michael died at Marietta and was buried at Oak Grove Cemetery.
+She married Johann Michael at age 22 in 1862; she gave birth to three documented sons over the next eleven years — **John Charles** (b. September 1865), **[William Clifford](/family/william-wildermuth/)** (b. 17 September 1866 — the patriarch of the [c. 1896 family group portrait](/archive/william-wildermuth-family-group-portrait/)), and **Edward Frederick** (b. 17 February 1873, lived to 1964 in Marietta) — and she raised them at Marietta. She was widowed in **February 1903** at age **62** when Johann Michael died at their house at **611 Washington Street** and was buried at Oak Grove Cemetery.
+
+## Thirty years a widow
+
+The [Marietta city directories](/archive/marietta-city-directories-wildermuth/) follow her through it, and she is never alone: her youngest son **[Edward Frederick](/family/edward-frederick-wildermuth/)** is in every entry.
+
+- **1914–15** — head of her own household at **717 West Greene Street**, with Edward, then a **butcher**. Her son [William Clifford](/family/william-wildermuth/) and his family lived at **719**, next door but one.
+- **1919–20** — **719 Second Street**, listed as **retired**, living in Edward's household with his wife Jane.
+- **1925–29** — **115 South Third Street**, still with Edward and Jane, and recorded as **88 years old**.
+
+She had come from Breitenbach in the Bavarian Palatinate, married a Württemberger in an Ohio river town, and ended up on a third street with a son who kept her for twenty-two years. She was buried 19 October 1933.
 
 She lived another **thirty years** as a widow.
 

@@ -60,4 +60,10 @@ Robert Earl recorded his father's framing of the German origin:
 
 The actual origin proved to be Württemberg, in southwest Germany around Stuttgart &mdash; the small villages of [Rielingshausen](/places/rielingshausen-church/), [Grossaspach](/places/grossaspach/), and Pleidelsheim where the [Wildermuth line](/family/andreus-wildermuth/) goes back to Andreus Wildermuth (b. ~1748), a *Gartner* (vineyard gardener). Württemberg is in the upper Neckar drainage, not directly on the Rhine, but the Neckar flows into the Rhine 80 km north of Stuttgart, so Earl Adam's "Rhine River area" framing was a rough but not unreasonable folk-geography of the actual region.
 
-> *Sources: [The Wildermuth/Fleming Heritage by Robert Earl Wildermuth, 1990](/docs/wildermuth-fleming-heritage-1990/); [Robert Earl Wildermuth's 1989 memoir](/docs/robert-earl-wildermuth-memoir/); Sadye I. (Mrs. Earl) Wildermuth obituary, Marietta Times, c. 1976; family collection.*
+## Franklin Street
+
+The [Marietta city directories](/archive/marietta-city-directories-wildermuth/) place him in two households a few years apart. In **1919–20** he is still at home, listed in his father [William Clifford](/family/william-wildermuth/)'s household at **739 West Greene Street** alongside his brother George D. By **1925–29** he is head of his own household at **417½ Franklin Street** — the half meaning an upstairs flat.
+
+[Robert Earl](/family/robert-earl-wildermuth/) was born at home on **123 Franklin Street** in May 1924, between those two directories. Either the family moved along the same street in the year or two after, or one of the two numbers is misread. Both are Franklin Street, which is where this generation of the family lived.
+
+> *Sources: [The Wildermuth/Fleming Heritage by Robert Earl Wildermuth, 1990](/docs/wildermuth-fleming-heritage-1990/); [Robert Earl Wildermuth's 1989 memoir](/docs/robert-earl-wildermuth-memoir/); [Marietta city directory extracts](/archive/marietta-city-directories-wildermuth/); Sadye I. (Mrs. Earl) Wildermuth obituary, Marietta Times, c. 1976; family collection.*

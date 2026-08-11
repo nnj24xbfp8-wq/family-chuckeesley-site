@@ -63,6 +63,16 @@ He is therefore **Chuck's great-great-grandfather** on the maternal side.
 
 ## Dates settled
 
+## A turner, and then a salesman
+
+He went to work as a boy. The [1880 census](/archive/wildermuth-marietta-censuses-1860-1880/) finds him at **fourteen**, living on Sixth Street and **"works in chair factory"** — alongside his brother Charles, sixteen, at the same factory. Only the youngest brother, Edward, was in school.
+
+He stayed in that trade. The [Marietta city directories](/archive/marietta-city-directories-wildermuth/) list him in 1897–98 and 1899–1900 as a **Turner** at a chair factory, living at **627 Seventh Street**. Robert Earl glossed the word for whoever came after him: *"William Wildermuth, my grandfather, occupation was as a person who operated a wood lathe."*
+
+By **1919–20** he had moved off the shop floor and into sales — **salesman at the Seyler Hardware Company** — living at **739 West Greene Street** with Flora, and with two sons at home: **[Earl Adam](/family/earl-a-wildermuth/)** and George D. Five years earlier the family had been at **719 Greene Street**, next door but one to his widowed mother [Catherine](/family/catharina-boeshar-wildermuth/) at 717.
+
+Fifty years of work, from a chair factory at fourteen to a hardware counter in his fifties.
+
 ## The grave
 
 The **[Oak Grove Cemetery register](/archive/oak-grove-cemetery-burials-1985/)** places him in **Section C, Lot 30**, buried **12 September 1943** at seventy-seven. **[Flora](/family/flora-schlicher-wildermuth/)** lies beside him in the same lot, buried twenty-four years earlier. The superintendent's 1985 note is spare: *"Just (2) on the lot, it is (2) grave lot, lot is full. **No stones on lot**."*

@@ -47,6 +47,18 @@ The obituary shows the number he was reaching for. **"He had been a resident of 
 - **He was still working.** At seventy-two he "last worked at Rickert's store" — a shoemaker at the end, though by then employed rather than running the shop at [134 Front Street](/docs/john-michael-wildermuth-sketch/) he had kept for thirty years.
 - **"His wife and several children survive him."** [Catharina](/family/catharina-boeshar-wildermuth/) would outlive him by thirty years.
 
+**And the house has a number.** The [Marietta city directories](/archive/marietta-city-directories-wildermuth/) for 1899–1900 and 1902–03 both put him at **611 Washington Street** — the house he moved to from Sixth Street in the late 1890s, and the one he died in.
+
 He was buried two days later at Oak Grove Cemetery, **Section 11, Lot 1** — [with no stone on the lot](/archive/oak-grove-cemetery-burials-1985/).
+
+## "Heart trouble and asthma"
+
+Both phrases sit on a list Robert Earl compiled at Oak Grove Cemetery on **29 June 1984** and filed under *Background* — *"a list of causes of death used in the 1800's … compiled from causes of death listed in cemetary records at the Oak Grove Cemetery."*
+
+![A typed page headed SOME EARLY CAUSES OF DEATH, dated 29 June 1984, listing nineteenth-century causes of death recorded in Oak Grove Cemetery records, including apoplexy, asthma, Bright's disease, cholera infantum, consumption, dropsy, dysentery, fits, heart trouble, la grippe, lock jaw, white swelling and old age.](../../assets/family/originals/oak-grove-early-causes-of-death-list.jpeg)
+
+> Apoplexy · Asthma · Blood Poisoning · Bright's Disease · Cholera Infantum · Congestion of lungs · Consumption · Dropsy · Dysentery · **FITS** · Heart Disease · **Heart Trouble** · Hepatitis · LaGrippe · Myelitis · Pertussis · Paralysis · Pneumonia · Spinal Meningitis · Tuberculosis · Ulcer of the stomach · White swelling · Whooping cough · Brain Trouble · Bronchitis · Cancer of the bowels · Croup · Inflammation of the womb · **LOCK JAW** · **Old Age**
+
+It is a vocabulary list for reading his own family's records — *Bright's disease* for kidney failure, *consumption* for tuberculosis, *dropsy* for the swelling of heart failure, *cholera infantum* for the summer diarrhoea that killed babies, and **Old Age** as an accepted diagnosis. "Heart trouble and asthma" was not a doctor's precise finding; it was the register's available language.
 
 > *Source: The Marietta Times, 9 February 1903, transcribed by Robert Earl Wildermuth from the Microfilm Section (Newspapers), Marietta College Library; filed DOCUMENT #117 / WILD-8. Photographed 2026.*

@@ -31,7 +31,9 @@ He was an orphan. The [Großaspach Familienregister](/archive/wildermuth-familie
 
 The same page lists his **six siblings**, and shows how thin the household was by then: **Catharina Dorothea** (1819) died at thirteen days, the first **Carolina** (1822) at five, the second **Carolina** (1834) at four weeks. Of the four who lived, **Johann Jacob** (1820) married at Erbstetten in 1846, **Johann Christian** (1825) became a schoolteacher in Switzerland — and **Anna Maria** (b. 8 June 1828), two years Johann Michael's elder, is marked ***nach Amerika***.
 
-That last entry bears on a long-standing question. Robert Earl's 1990 research wondered whether **Frederika Rossar** — wife of the Baden shoemaker in whose Marietta household Johann Michael appears in 1860 — was his sister, which would make the crossing a family affair. The register confirms **a Wildermuth sister did emigrate**. It does not confirm she is Frederika: the names do not match, and no date is given for her going. Still open.
+That last entry bears on a long-standing question. Robert Earl wondered whether **Frederika Roessar** — wife of the Baden shoemaker in whose Marietta household Johann Michael appears in 1860 — was his sister. His reasoning, written in December 1980, was good: *"Frederika gives her place of origin as the Duchy of Wuerttemberg while her husband is from the Duchy of Baden … I feel that he and Frederika are related, but [not] proven at this date."*
+
+The register confirms **a Wildermuth sister did emigrate**. But the arithmetic now argues against her being Frederika: the [1860 census](/archive/wildermuth-marietta-censuses-1860-1880/) gives Frederika as **36** in June 1860, so born about **1823–24**, while Anna Maria would have been exactly **32** that month. Four years is a wide miss even for a census age, and the given names differ. **Probably not the same woman** — though a cousin or more distant kinswoman from the same corner of Württemberg would fit everything on the page.
 
 *(The register also corrects this page's parentage note: his mother was Maria Margaretha Schmidgall, married to his father at Rietenau in **1819** — not, as the archive once had it, a second wife married in 1842.)*
 
@@ -80,6 +82,21 @@ The certified death record — **no. 5467, Volume 2, page 144**, recorded 31 Mar
 > *"This of course would rule out John's age at the time of his death as being only 40 years. Do you think there could have been an error in recording John's age? Perhaps he was in this country only 40 years."*
 
 The same letter preserves a detail recorded nowhere else: he was *"the German shoemaker who had a shop on **lower Front Street** in Marietta."*
+
+## Where he actually lived and worked
+
+The [Marietta city directories](/archive/marietta-city-directories-wildermuth/) put addresses to all of it:
+
+| | Shop | Home |
+|---|---|---|
+| **1873–74** | **50 Front Street** | Sixth Street, between Warren and Montgomery |
+| **1880** *(census)* | works in a shoe shop | Sixth Street |
+| **1897–98** | **134 Front Street** | 708 Sixth Street |
+| **1899–1903** | shoemaker | **611 Washington Street** |
+
+Two different shops on Front Street, twenty-four years apart — and **611 Washington Street** is the house the obituary means when it says he *"died at his home on Washington Street."*
+
+The [1860 census](/archive/wildermuth-marietta-censuses-1860-1880/) catches him earlier than any of that: **twenty-six years old, a shoemaker, still lodging in the William Roessar household** in the Third Ward, thirteen years after the crossing and still unmarried. By [1880](/archive/wildermuth-marietta-censuses-1860-1880/) he had his own house on Sixth Street, a wife from Bavaria, and two sons of sixteen and fourteen **already working in a chair factory**.
 
 He was right about the error. Seven years later the **[Oak Grove Cemetery register](/archive/oak-grove-cemetery-burials-1985/)**, independent of the certificate, gave the age at burial as **72 years, 6 months, 16 days** — consistent with the 1830 birth and not with anything like forty.
 
