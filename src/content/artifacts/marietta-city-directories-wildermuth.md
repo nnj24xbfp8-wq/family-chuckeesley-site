@@ -50,7 +50,9 @@ City directories are the closest thing genealogy has to a moving camera. [Robert
 
 > *"William Wildermuth, my grandfather, occupation was as a person who operated a wood lathe."*
 
-A turner at a chair factory — which is exactly where the [1880 census](/archive/wildermuth-marietta-censuses-1860-1880/) found him at **fourteen**. He stayed in that trade for at least twenty years, was a **machinist** by 1914–15, and by 1919–20 had moved into sales: **salesman at the Seyler Hardware Store**. Turner, then machinist, then salesman.
+A **turner** runs a lathe: the work spins and he holds a chisel against it, shaping whatever has to be round. In a chair factory that is most of the chair — **legs, rungs, stretchers, spindles, back posts** — turned to a template, several hundred a day. Skilled work with an apprenticeship behind it, and the origin of the surname Turner. [Fuller account on his page.](/family/william-wildermuth/)
+
+The [1880 census](/archive/wildermuth-marietta-censuses-1860-1880/) found him in that factory at **fourteen**, and the directories still have him at the lathe twenty years later. Then **machinist** by 1914–15 — wood lathe to metal lathe is a short step — and by 1919–20 **salesman at the Seyler Hardware Store**, which is where a man who had spent thirty years making and using tools would naturally land. **Turner, machinist, salesman.**
 
 ## Catherine's widowhood, and the next two generations
 

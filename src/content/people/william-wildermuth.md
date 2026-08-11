@@ -69,6 +69,16 @@ He went to work as a boy. The [1880 census](/archive/wildermuth-marietta-censuse
 
 He stayed in that trade. The [Marietta city directories](/archive/marietta-city-directories-wildermuth/) list him in 1897–98 and 1899–1900 as a **Turner** at a chair factory, living at **627 Seventh Street**. Robert Earl glossed the word for whoever came after him: *"William Wildermuth, my grandfather, occupation was as a person who operated a wood lathe."*
 
+### What a turner did
+
+A turner runs a lathe. The work spins and he holds a cutting tool against it, shaping anything that has to be round and symmetrical about its axis.
+
+In a chair factory that is most of the chair: **legs, rungs, stretchers, spindles, back posts.** A Windsor-style chair is essentially a shaped seat plus a dozen turned parts, which put the turner at the centre of the operation — the man who made the same leg several hundred times a day to a template, judging thickness by eye and by the sound of the cut. The trade is old enough that the surname **Turner** comes from it.
+
+It was skilled work with an apprenticeship behind it, not casual labour, and that is what makes the rest of his working life legible. **Wood lathe to metal lathe is a short step** — the same motions, the same feel for feed and speed, a harder material — so becoming a **machinist** was a lateral move into better pay rather than a change of trade. And a hardware counter is the natural third act for a man who had spent thirty years making and using tools.
+
+Marietta sat in Ohio-valley hardwood country at the meeting of two rivers, timber upstream and transport at the door; chair factories were exactly the industry to expect there. **Three of the brothers passed through them** — William and Charles at the lathes by 1880, and [Edward](/family/edward-frederick-wildermuth/) in a chair factory by 1899.
+
 By **1914–15** the directory calls him a **machinist**, at **739 Greene Street**, with Flora, his eldest son Charles D. (a **tool dresser**) and his daughter Emma (a **clerk at L. Gruber and Sons Co.**). His widowed mother [Catherine](/family/catharina-boeshar-wildermuth/) was eleven houses away at 717 East Greene.
 
 By **1919–20** he had moved off the shop floor and into sales — **salesman at the Seyler Hardware Store** — at the same house, now written **739 East Greene Street**, with **[Earl Adam](/family/earl-a-wildermuth/)** and George D. at home.
