@@ -25,7 +25,13 @@ The card carries **WILDERMUTH, Robert Earl** in block capitals, and beneath it �
 | **[number] S. Stanford Av., Menlo Park** | Interlineated above in fainter pencil — an update, or a first address later replaced |
 | **Mr. E. A. Wildermuth, 320 Harmar St., Marietta, O.** | The parent/guardian line — his father [Earl A. Wildermuth](/family/earl-a-wildermuth/) |
 
-**The Menlo Park house number is not recoverable** from this scan. The pencil is faint and overwritten by the typed rule above it; the leading digit reads plausibly as a **7** and the rest does not resolve. The street and town are legible. A sharper photograph of that one band, or the original card under raking light, should settle it.
+**The Menlo Park house number is not recoverable** from this scan. The pencil is faint and overwritten by the typed rule above it; the leading digit reads plausibly as a **7** and the rest does not resolve. The street and town are legible.
+
+**Candidate: 735 Stanford Avenue.** Chuck proposed it from the memoir's line that they *"rented a house on the [Stanford golf course](/places/stanford-university/)."* Stanford Avenue in Menlo Park is a real street whose numbers run from roughly 103 to 1850, so **735 is a valid address** and it fits the one digit that can be read. It is a candidate, not a reading — the card cannot be made to say it.
+
+One wrinkle to check before adopting it: whether the 700 block of Stanford Avenue is anywhere near the golf course, which sits at the western edge of campus between Junipero Serra Boulevard and Sand Hill Road. If that block is on the eastern side of Menlo Park, then either the memoir line is loose — *"on the golf course"* standing in for *"out by the campus"* forty years after the fact — or the golf-course house is a third address that never reached this card.
+
+**How to settle it:** the **Stanford student directories for 1946–47 and 1947–48** list enrolled students with their local addresses. The Alumni Center that produced the yearbook is the likeliest place to hold them, and one line in the right volume would give the number exactly.
 
 **Box 276, Pine Lane, Los Altos** is the more evocative of the two. A *box number* rather than a street number fits what Los Altos was in 1946–48: unincorporated orchard country — it would not become a city until **1952**. A married veteran on the GI Bill renting in the apricot orchards, driving up to campus.
 
