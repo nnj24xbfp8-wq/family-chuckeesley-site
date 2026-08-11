@@ -62,7 +62,7 @@ The actual origin proved to be Württemberg, in southwest Germany around Stuttga
 
 ## Franklin Street
 
-The [Marietta city directories](/archive/marietta-city-directories-wildermuth/) place him in two households a few years apart. In **1919–20** he is still at home, listed in his father [William Clifford](/family/william-wildermuth/)'s household at **739 West Greene Street** alongside his brother George D. By **1925–29** he is head of his own household at **417½ Franklin Street** — the half meaning an upstairs flat.
+The [Marietta city directories](/archive/marietta-city-directories-wildermuth/) place him in two households a few years apart. In **1919–20** he is still at home, listed in his father [William Clifford](/family/william-wildermuth/)'s household at **739 East Greene Street** alongside his brother George D. By **1928–29** he is head of his own household at **417½ Franklin Street** — the half meaning an upstairs flat.
 
 [Robert Earl](/family/robert-earl-wildermuth/) was born at home on **123 Franklin Street** in May 1924, between those two directories. Either the family moved along the same street in the year or two after, or one of the two numbers is misread. Both are Franklin Street, which is where this generation of the family lived.
 

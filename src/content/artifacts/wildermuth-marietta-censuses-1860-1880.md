@@ -3,11 +3,11 @@ title: "Two censuses — the Roessar household in 1860, the Wildermuth household
 type: "Document"
 image: ../../assets/family/originals/wildermuth-1860-census-roessar-household.jpeg
 medium: "Typed census transcriptions with the compiler's research notes"
-dateCreated: "December 1980 (transcriptions); censuses of 1860 and 1880"
+dateCreated: "December 1988 (transcriptions); censuses of 1860 and 1880"
 sortDate: "1860-06-16"
 placeCreated: "Marietta, Washington County, Ohio"
 idNumber: "WILD-8"
-provenance: "Robert Earl Wildermuth's genealogical research papers; in Chuck's keeping. Photographed 2026 (low-resolution phone images)."
+provenance: "Robert Earl Wildermuth's genealogical research papers; in Chuck's keeping. Photographed 2026."
 rights: "Family use; permission required for republication."
 people:
   - johann-michael-wildermuth
@@ -18,37 +18,39 @@ people:
   - robert-earl-wildermuth
 ---
 
-Twenty years apart, and they bracket the whole change in [Johann Michael Wildermuth](/family/johann-michael-wildermuth/)'s life: a lodger in another family's house at twenty-six, a householder with three sons at forty-nine.
+Twenty years apart, and they bracket the whole change in [Johann Michael Wildermuth](/family/johann-michael-wildermuth/)'s life: a lodger in another family's house at twenty-nine, a householder with three sons at forty-nine.
 
 ## 1860 — the Roessar household, Third Ward
 
-![A typed transcription of the 1860 federal census for the 3rd Ward, Marietta City, Washington County, Ohio, enumerated 16 June 1860, listing the household of William Roessar, shoemaker, with his wife Frederika, six children, and John M. Wildermuth, aged 26, shoemaker, born Wuerttemberg.](../../assets/family/originals/wildermuth-1860-census-roessar-household.jpeg)
+![A typed transcription of the 1860 federal census for the 3rd Ward, Marietta City, Washington County, Ohio, enumerated 16 June 1860, listing the household of William Roessar, shoemaker, with his wife Frederika, six children, and John M. Wildermuth, aged 29, shoemaker, born Wuerttemberg.](../../assets/family/originals/wildermuth-1860-census-roessar-household.jpeg)
 
-*Free Inhabitants, 3rd Ward, Marietta City, enumerated **16 June 1860**.*
+*Free Inhabitants, 3rd Ward, Marietta City, enumerated **16 June 1860** by **L. L. Laflin, Asst. Marshal**. Dwelling house 679; family 680.*
 
 | Name | Age | Occupation | Value | Place of origin |
 |---|---|---|---|---|
-| William Roessar | 38 | Shoe Maker | $500 | **Baden** |
+| William Rossar | 38 | Shoe Maker | **$300** | **Baden** |
 | Frederika | 36 | Wife | | **Wuerttemberg** |
 | William | 10 | Son | | Pennsylvania |
-| Fredericka | 8 | Daughter | | Pennsylvania |
-| Lissie C. | 6 | Daughter | | Pennsylvania |
+| Frederika | 8 | Daughter | | Pennsylvania |
+| Lizzie C. | 6 | Daughter | | Pennsylvania |
 | Anna | 4 | Daughter | | Pennsylvania |
 | Charles H. | 2 | Son | | **Ohio** |
 | Henry | 1/12 | Son | | Ohio |
-| **John M. Wildermuth** | **26** | **Shoe Maker** | | **Wuerttemberg** |
+| **John M. Wildermuth** | **29** | **Shoe Maker** | | **Wuerttemberg** |
 
-**This is the first record of him in Ohio** — thirteen years after landing at New York, still in the household he crossed with, still unmarried, still at the same trade as the man who took him in. The baby Henry is **one month old**.
+**This is the first record of him in Ohio** — thirteen years after landing at New York, still in the household he crossed with, still unmarried, still at the same trade as the man who took him in. The baby Henry is **one month old**, and the household's whole property is valued at **three hundred dollars**.
 
 The four Pennsylvania-born children and then Charles, born in Ohio and two years old, are what let Robert Earl date the move: **the whole group came to Ohio around 1857–58.**
 
-### Robert Earl's note, December 1980
+*(The age of 29 fits: born 23 August 1830, he was 29 that June. The surname is spelled **Rossar** on this sheet and **Roessar** on others.)*
 
-> *"It is interesting to note that Frederika gives her place of origin as the Duchy of Wuerttemberg while her husband is from the Duchy of Baden. Since John M. Wildermuth was only 17 years of age when he arrived in the United States and he was also from Wuerttemberg, I feel that he and Frederika are related, but [not] proven at this date."*
+### Robert Earl's note, December 1988
 
-The reasoning is sound and the archive can now test it. The [Großaspach Familienregister](/archive/wildermuth-familienregister-grossaspach/) confirms Johann Michael had a sister, **Anna Maria**, born **8 June 1828**, marked *nach Amerika* — so an emigrant Wildermuth sister does exist. But Frederika is **36** in June 1860, which puts her birth around **1823–24**, while Anna Maria would have been exactly **32** that month. Four years is a lot even for a census age, and the given names do not match. **The relationship stays unproven, and Frederika probably is not Anna Maria.**
+> *"It is interesting to note that Frederika gives her place of origin as the Duchy of Wuerttemberg while her husband is from the Duchy of Baden. Since John M. Wildermuth was only 17 years of age when he arrived in the United States and he was also from Wuerttemberg, I feel that he and Frederika are related. **Not proven at this date.**"*
 
-He also notes here that **John's father died in 1842, five years before he sailed** — which the parish register confirms (7 October 1842). Writing in 1980 he had that right; in the [narrative he wrote later](/docs/john-michael-wildermuth-sketch/) he moved the mother's death to 1847 and put the father before her, which the register contradicts. The earlier note is the better one.
+The reasoning is sound and the archive can now test it. The [Großaspach Familienregister](/archive/wildermuth-familienregister-grossaspach/) confirms Johann Michael had a sister, **Anna Maria**, born **8 June 1828**, marked *nach Amerika* — so an emigrant Wildermuth sister does exist. But Frederika is **36** in June 1860, which puts her birth around **1823–24**, while Anna Maria would have been exactly **32** that month. Four years is a lot even for a census age, and the given names do not match. **The relationship stays unproven, and Frederika probably is not Anna Maria** — though a cousin from the same corner of Württemberg would fit everything on the page.
+
+The same note also states that **John's father died in 1842, five years before he left for America** — which the parish register confirms exactly (7 October 1842) — and that **"his mother died the month after he arrived in America,"** i.e. in 1847. That second half is wrong: the register puts her death on **30 December 1841**, ten months *before* her husband. He carried the same error into the [narrative he wrote later](/docs/john-michael-wildermuth-sketch/). The father's date he had right from the start.
 
 *(He adds that 1847 was the year of the Irish potato famine's worst effects across Europe, and wonders whether that was a factor in the group's departure. Reasonable, and unprovable from these records.)*
 
@@ -76,6 +78,6 @@ Stated plainly, in his own research file. The [1990 Heritage](/docs/wildermuth-f
 
 ## A note on these images
 
-Both pages reached the archive as **low-resolution phone photographs** (360 × 480). The transcriptions above are reliable, but a few details are at the edge of legibility — the enumerator's signature, the dwelling and family visitation numbers, and the spelling of "Lissie C." Better scans would be worth having.
+The 1860 sheet is now here at full resolution, and it **corrected four readings** taken from the first low-resolution photograph: John M.'s age (29, not 26), the Rossar property value ($300, not $500), the family visitation number (680, not 980) and the note's date (December 1988, not 1980). The 1880 sheet is still only a **360 × 480** phone image; its figures are legible but a better scan would be worth having.
 
-> *Sources: 1860 and 1880 federal censuses for Washington County, Ohio, transcribed by [Robert Earl Wildermuth](/family/robert-earl-wildermuth/) with research notes dated December 1980; filed WILD-8. Companion: the [Marietta city directories](/archive/marietta-city-directories-wildermuth/).*
+> *Sources: 1860 and 1880 federal censuses for Washington County, Ohio, transcribed by [Robert Earl Wildermuth](/family/robert-earl-wildermuth/) with research notes dated December 1988; filed WILD-8. Companion: the [Marietta city directories](/archive/marietta-city-directories-wildermuth/).*

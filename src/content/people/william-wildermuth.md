@@ -69,9 +69,11 @@ He went to work as a boy. The [1880 census](/archive/wildermuth-marietta-censuse
 
 He stayed in that trade. The [Marietta city directories](/archive/marietta-city-directories-wildermuth/) list him in 1897–98 and 1899–1900 as a **Turner** at a chair factory, living at **627 Seventh Street**. Robert Earl glossed the word for whoever came after him: *"William Wildermuth, my grandfather, occupation was as a person who operated a wood lathe."*
 
-By **1919–20** he had moved off the shop floor and into sales — **salesman at the Seyler Hardware Company** — living at **739 West Greene Street** with Flora, and with two sons at home: **[Earl Adam](/family/earl-a-wildermuth/)** and George D. Five years earlier the family had been at **719 Greene Street**, next door but one to his widowed mother [Catherine](/family/catharina-boeshar-wildermuth/) at 717.
+By **1914–15** the directory calls him a **machinist**, at **739 Greene Street**, with Flora, his eldest son Charles D. (a **tool dresser**) and his daughter Emma (a **clerk at L. Gruber and Sons Co.**). His widowed mother [Catherine](/family/catharina-boeshar-wildermuth/) was eleven houses away at 717 East Greene.
 
-Fifty years of work, from a chair factory at fourteen to a hardware counter in his fifties.
+By **1919–20** he had moved off the shop floor and into sales — **salesman at the Seyler Hardware Store** — at the same house, now written **739 East Greene Street**, with **[Earl Adam](/family/earl-a-wildermuth/)** and George D. at home.
+
+Fifty years of work, from a chair factory at fourteen to a hardware counter in his fifties: **turner, machinist, salesman.**
 
 ## The grave
 

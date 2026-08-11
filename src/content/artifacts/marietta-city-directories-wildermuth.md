@@ -3,11 +3,11 @@ title: "Marietta city directories, 1873–1929 — the Wildermuths at their addr
 type: "Document"
 image: ../../assets/family/originals/marietta-city-directories-1914-1929-wildermuth.jpeg
 medium: "Typed extracts from Marietta city directories, compiled from the Marietta College Library holdings"
-dateCreated: "c. 1980s (extracts); directories of 1873–1929"
+dateCreated: "c. 1980s (extracts); directories of 1873–1929; the 1914–29 sheet filed as Document 34"
 sortDate: "1873-01-01"
 placeCreated: "Marietta, Washington County, Ohio"
 idNumber: "WILD-8"
-provenance: "Robert Earl Wildermuth's genealogical research papers; extracts taken from city directories on file at the Marietta College Library. In Chuck's keeping; photographed 2026 (low-resolution phone images)."
+provenance: "Robert Earl Wildermuth's genealogical research papers; extracts taken from city directories on file at the Marietta College Library. In Chuck's keeping; photographed 2026."
 rights: "Family use; permission required for republication."
 people:
   - johann-michael-wildermuth
@@ -50,38 +50,40 @@ City directories are the closest thing genealogy has to a moving camera. [Robert
 
 > *"William Wildermuth, my grandfather, occupation was as a person who operated a wood lathe."*
 
-A turner at a chair factory — which is exactly where the [1880 census](/archive/wildermuth-marietta-censuses-1860-1880/) found him at **fourteen**. He stayed in that trade for at least twenty years, and by 1919–20 had moved into sales: **salesman at the Seyler Hardware Company**.
+A turner at a chair factory — which is exactly where the [1880 census](/archive/wildermuth-marietta-censuses-1860-1880/) found him at **fourteen**. He stayed in that trade for at least twenty years, was a **machinist** by 1914–15, and by 1919–20 had moved into sales: **salesman at the Seyler Hardware Store**. Turner, then machinist, then salesman.
 
 ## Catherine's widowhood, and the next two generations
 
-![A typed page of extracts from the Marietta city directories for 1914-1915, 1919-1920 and 1925-1929, giving addresses and occupations for Catherine Boeshar Wildermuth, Edward F. Wildermuth, William Clifford Wildermuth, Flora Schlicher Wildermuth, Earl Adam Wildermuth and others, each annotated with their relationship to the compiler.](../../assets/family/originals/marietta-city-directories-1914-1929-wildermuth.jpeg)
+![A typed page of extracts from the Marietta city directories for 1914-1915, 1919-1920 and 1928-1929, giving addresses and occupations for Catherine Boeshar Wildermuth, Edward F. Wildermuth, William Clifford Wildermuth, Flora Schlicher Wildermuth, Earl Adam Wildermuth and others, each annotated with their relationship to the compiler.](../../assets/family/originals/marietta-city-directories-1914-1929-wildermuth.jpeg)
 
-The later sheet is annotated in a way no other document in the archive is: Robert Earl marks **each person's relationship to himself** — *great-grandmother, grandfather, grandmother, father, uncle, great-uncle*. It reads like a man locating himself in a street map.
+The later sheet — his **Document 34** — is annotated in a way no other document in the archive is: Robert Earl marks **each person's relationship to himself** — *great-grandmother, grandfather, grandmother, father, uncle, great-uncle*. It reads like a man locating himself in a street map.
 
 **1914–15**
-- **717 West Greene Street** — **[Catherine (Boeshar) Wildermuth](/family/catharina-boeshar-wildermuth/)**, widow of John M., head of household (*great-grandmother*), with her son **Edward F. Wildermuth**, a **butcher** (*great-uncle*)
-- **719 Greene Street** — **William Clifford Wildermuth**, head of household (*grandfather*); **[Flora (Schlicher)](/family/flora-schlicher-wildermuth/)**, housewife (*grandmother*); **Charles D.**, **tool dresser** (*uncle*); **Emma**, **clerk** (*aunt*)
+- **717 East Greene Street** — **[Catherine (Boeshar) Wildermuth](/family/catharina-boeshar-wildermuth/)**, widow of John M., head of household (*great-grandmother*), with her son **Edward F. Wildermuth**, a **butcher** (*great-uncle*)
+- **739 Greene Street** — **William Clifford Wildermuth**, head of household, **machinist** (*grandfather*); **[Flora (Schlicher)](/family/flora-schlicher-wildermuth/)**, housewife (*grandmother*); **Charles D.**, eldest son, **tool dresser** (*uncle*); **Emma**, daughter, **clerk at L. Gruber and Sons Co.** (*aunt*)
 
-Mother and son next door to each other, at 717 and 719.
+Mother and son on the same street, eleven houses apart.
 
 **1919–20**
-- **719 Second Street** — Edward F., **laborer**, with his wife Jane, and **Catherine, retired** — she had moved in with her son
-- **739 West Greene Street** — William Clifford, **salesman at the Seyler Hardware Company**; Flora, housewife; **[Earl Adam](/family/earl-a-wildermuth/)** (*father*); **George D.** (*uncle*)
+- **710 Second Street** — Edward F., **laborer**, with his wife Jane, and **Catherine, retired** — she had moved in with her son
+- **739 East Greene Street** — William Clifford, **salesman at the Seyler Hardware Store**; Flora, housewife; **[Earl Adam](/family/earl-a-wildermuth/)** (*father*); **George D.** (*uncle*)
 
 [Flora died in November 1919](/family/flora-schlicher-wildermuth/), so this is very near the last record of her in a household.
 
-**1925–29**
-- **115 South Third Street** — Edward F., **driver for the Whipple Creamery Company**; Jane; and **Catherine, widow of John M., 88 years old, retired** — twenty-two years a widow, living with the same son
+**1928–29**
+- **115 South Third Street** — Edward F., **driver for the Whipple Creamery Company**; Jane; and **Catherine, widow of John M., 88 years old at this time, retired** — twenty-five years a widow, living with the same son
 - **417½ Franklin Street** — **Earl Adam Wildermuth**, head of household
 
-That last address matters: Robert Earl was **born at 123 Franklin Street** in May 1924, and by the 1925–29 directory his father is at **417½ Franklin Street**. Either the family moved a few doors along the same street, or one of the two numbers is wrong. The *half* in 417½ usually means an upstairs flat.
+That last address matters: Robert Earl was **born at 123 Franklin Street** in May 1924, and by the 1928–29 directory his father is at **417½ Franklin Street**. Either the family moved a few doors along the same street, or one of the two numbers is wrong. The *half* in 417½ usually means an upstairs flat.
 
 ## Four occupations for one man
 
-Edward Frederick, the youngest son, is worth following on his own: **mechanic** (1897), **chair factory** (1899), **butcher** (1914), **laborer** (1919), **creamery driver** (1925–29). He also housed his mother for the last two decades of her life. He outlived his father by sixty-one years.
+Edward Frederick, the youngest son, is worth following on his own: **mechanic** (1897), **chair factory** (1899), **butcher** (1914), **laborer** (1919), **creamery driver** (1928–29). He also housed his mother for the last two decades of her life. He outlived his father by sixty-one years.
 
 ## A note on these images
 
-All of these reached the archive as **low-resolution phone photographs** (360 × 480). House numbers were read carefully but a few — *717/719 Greene*, *739 West Greene*, *417½ Franklin* — would benefit from a better scan before anyone goes looking for the houses.
+The **1897–98 sheet and the 1914–29 extracts are here at full resolution**, and the latter corrected four readings taken from a first low-resolution photograph: **717 East** Greene (not West), **739** Greene (not 719), **710** Second Street (not 719), and the span **1928–29** (not 1925–29). It also added William Clifford's 1914 occupation — **machinist** — and Emma's employer, **L. Gruber and Sons Co.**
+
+The 1873–74, 1899–1900 and 1902–03 sheets are still only **360 × 480** phone images. Their house numbers read cleanly, but given how many corrections the better scans produced, they are worth re-photographing before anyone goes looking for the houses.
 
 > *Source: Extracts from Marietta, Ohio city directories, taken by Robert Earl Wildermuth from volumes on file at the Marietta College Library; filed WILD-8. Companion: the [1860 and 1880 censuses](/archive/wildermuth-marietta-censuses-1860-1880/).*

@@ -36,11 +36,11 @@ She married Johann Michael at age 22 in 1862; she gave birth to three documented
 
 The [Marietta city directories](/archive/marietta-city-directories-wildermuth/) follow her through it, and she is never alone: her youngest son **[Edward Frederick](/family/edward-frederick-wildermuth/)** is in every entry.
 
-- **1914–15** — head of her own household at **717 West Greene Street**, with Edward, then a **butcher**. Her son [William Clifford](/family/william-wildermuth/) and his family lived at **719**, next door but one.
-- **1919–20** — **719 Second Street**, listed as **retired**, living in Edward's household with his wife Jane.
-- **1925–29** — **115 South Third Street**, still with Edward and Jane, and recorded as **88 years old**.
+- **1914–15** — head of her own household at **717 East Greene Street**, with Edward, then a **butcher**. Her son [William Clifford](/family/william-wildermuth/) and his family were eleven houses along at **739**.
+- **1919–20** — **710 Second Street**, listed as **retired**, living in Edward's household with his wife Jane.
+- **1928–29** — **115 South Third Street**, still with Edward and Jane, and recorded as **88 years old**.
 
-She had come from Breitenbach in the Bavarian Palatinate, married a Württemberger in an Ohio river town, and ended up on a third street with a son who kept her for twenty-two years. She was buried 19 October 1933.
+She had come from Breitenbach in the Bavarian Palatinate, married a Württemberger in an Ohio river town, and ended up on a third street with a son who kept her for the last twenty-five years of her life. She was buried 19 October 1933.
 
 She lived another **thirty years** as a widow.
 
