@@ -42,7 +42,9 @@ City directories are the closest thing genealogy has to a moving camera. [Robert
 
 ![A typed extract from the Marietta City Directory 1899-1900 recording John M. Wildermuth, shoemaker, residing at 611 Washington Street; Edward, son, works at a chair factory; and William Wildermuth, turner at a chair factory, residing at 627 Seventh Street.](../../assets/family/originals/marietta-city-directory-1899-1900-wildermuth.jpeg)
 
-![A typed extract from the Marietta City Directory 1902-1903 recording John M. Wildermuth, shoemaker, residing at 611 Washington Street, with a note that the extracts came from directories at the Marietta College Library and that John M. Wildermuth died in 1903.](../../assets/family/originals/marietta-city-directory-1902-1903-wildermuth.jpeg)
+![A typed sheet headed MARIETTA CITY DIRECTORY, 1902-1903, with a single double-asterisked entry: WILDERMUTH, JOHN M., SHOEMAKER, RESIDES 611 Washington Street.](../../assets/family/originals/marietta-city-directory-1902-1903-wildermuth.jpeg)
+
+*The 1902–03 sheet, now at full resolution, carries one line and nothing else — and Robert Earl marked it with a **double asterisk**. It is the last directory entry for his great-grandfather alive: shoemaker, 611 Washington Street, the house he would die in a few months later.*
 
 ## William Clifford — turner, then salesman
 
@@ -86,6 +88,8 @@ Edward Frederick, the youngest son, is worth following on his own: **mechanic** 
 
 The **1897–98 sheet and the 1914–29 extracts are here at full resolution**, and the latter corrected four readings taken from a first low-resolution photograph: **717 East** Greene (not West), **739** Greene (not 719), **710** Second Street (not 719), and the span **1928–29** (not 1925–29). It also added William Clifford's 1914 occupation — **machinist** — and Emma's employer, **L. Gruber and Sons Co.**
 
-The 1873–74, 1899–1900 and 1902–03 sheets are still only **360 × 480** phone images. Their house numbers read cleanly, but given how many corrections the better scans produced, they are worth re-photographing before anyone goes looking for the houses.
+The **1902–03 sheet** has since been re-photographed at full resolution and its **611 Washington Street** confirmed. The **1873–74 and 1899–1900** sheets are still only **360 × 480** phone images; their house numbers read cleanly, but given how many corrections the better scans produced elsewhere, they are worth re-shooting before anyone goes looking for the houses.
+
+*(Robert Earl kept more than one typescript of several of these extracts. The full-resolution 1902–03 sheet carries only the single directory line; a variant of the same page adds his note about the Marietta College Library holdings and John M.'s death in 1903.)*
 
 > *Source: Extracts from Marietta, Ohio city directories, taken by Robert Earl Wildermuth from volumes on file at the Marietta College Library; filed WILD-8. Companion: the [1860 and 1880 censuses](/archive/wildermuth-marietta-censuses-1860-1880/).*
