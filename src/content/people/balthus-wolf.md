@@ -26,4 +26,6 @@ His son **[Johann Georg Wolf](/family/johann-georg-wolf/)** (b. 1742) was *"an e
 
 Balthus Wolf is the root of that.
 
-> *Source: the [original 'Little Histories' pages](/archive/little-histories-original-pages/), Robert Earl Wildermuth, c. 1988–93.*
+*One date to settle:* the sketch gives the marriage as **27 July 1733**, while the [1988 Ahnentafel](/archive/ahnentafel-wildermuth-grossaspach-1988/) reads **27.1.1733** — 27 January, in German day-first order. That is exactly the slip a reader unused to the convention would make, so January is the likelier reading.
+
+> *Sources: the [original 'Little Histories' pages](/archive/little-histories-original-pages/), Robert Earl Wildermuth, c. 1988–93; the [Ahnentafel Wildermuth Großaspach](/archive/ahnentafel-wildermuth-grossaspach-1988/), 2 December 1988.*

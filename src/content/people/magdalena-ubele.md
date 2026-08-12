@@ -21,4 +21,6 @@ Her son **[Johann Georg Wolf](/family/johann-georg-wolf/)** was the shoemaker wh
 
 The surname is written **Ubele** in Robert Earl's typescript; in German it is **Übele**, and the umlaut simply did not exist on his typewriter.
 
-> *Source: the [original 'Little Histories' pages](/archive/little-histories-original-pages/), Robert Earl Wildermuth, c. 1988–93.*
+*Her birth year is not quite settled:* the sketch says **1717**, and the [1988 Ahnentafel](/archive/ahnentafel-wildermuth-grossaspach-1988/) reads as either 1711 or 1717. If 1717 stands, she married at sixteen; if 1711, at twenty-two.
+
+> *Sources: the [original 'Little Histories' pages](/archive/little-histories-original-pages/), Robert Earl Wildermuth, c. 1988–93; the [Ahnentafel Wildermuth Großaspach](/archive/ahnentafel-wildermuth-grossaspach-1988/), 2 December 1988.*
