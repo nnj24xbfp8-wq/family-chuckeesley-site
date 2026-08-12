@@ -30,7 +30,7 @@ Johann Michael's [1853 Philadelphia naturalization petition](/docs/johann-michae
 
 ## The long Marietta life
 
-She married Johann Michael at age 22 in 1862; she gave birth to three documented sons over the next eleven years — **John Charles** (b. September 1865), **[William Clifford](/family/william-wildermuth/)** (b. 17 September 1866 — the patriarch of the [c. 1896 family group portrait](/archive/william-wildermuth-family-group-portrait/)), and **Edward Frederick** (b. 17 February 1873, lived to 1964 in Marietta) — and she raised them at Marietta. She was widowed in **February 1903** at age **62** when Johann Michael died at their house at **611 Washington Street** and was buried at Oak Grove Cemetery.
+Johann Michael made the marriage application on **3 September 1862** and they were married four days later, on the 7th, by **the Reverend A. H. Seipels**. She married him at age 22; she gave birth to three documented sons over the next eleven years — **John Charles** (b. September 1865), **[William Clifford](/family/william-wildermuth/)** (b. 17 September 1866 — the patriarch of the [c. 1896 family group portrait](/archive/william-wildermuth-family-group-portrait/)), and **Edward Frederick** (b. 17 February 1873, lived to 1964 in Marietta) — and she raised them at Marietta. She was widowed in **February 1903** at age **62** when Johann Michael died at their house at **611 Washington Street** and was buried at Oak Grove Cemetery.
 
 ## Thirty years a widow
 

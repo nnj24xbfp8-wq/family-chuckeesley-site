@@ -56,7 +56,7 @@ The same note also states that **John's father died in 1842, five years before h
 
 ## 1880 — Sixth Street, Second Ward
 
-![A typed transcription of the 1880 federal census, Ohio volume 66, Washington County, for the 2nd Ward of Marietta, Sixth Street, listing J. M. Wildermuth aged 49 working in a shoe shop, Catherine 39 keeping house, Charles Jr. 16 and William C. 14 both working in a chair factory, and Edward 7 in school.](../../assets/family/originals/wildermuth-1880-census-sixth-street.jpeg)
+![A typed transcription of the 1880 federal census, Ohio volume 66, Washington County, for the 2nd Ward of Marietta, Sixth Street, listing J. M. Wildermuth aged 49 working in a shoe shop, Catherine 39 keeping house, Chas. Jr. 16 and William C. 14 both working in a chair factory, and Edward 7 with no occupation recorded.](../../assets/family/originals/wildermuth-1880-census-sixth-street.jpeg)
 
 *Schedule 1 — Inhabitants in the 2nd Ward, Marietta. Location: **Sixth Street**.*
 

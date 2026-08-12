@@ -1,6 +1,6 @@
 ---
 name: "Andreas Adam Wildermuth"
-aka: "Andreus (in Robert Earl's 1990 Heritage); the Gartner of Rielingshausen"
+aka: "Andreus (in Robert Earl's 1990 Heritage); the Weingärtner of Rielingshausen"
 line: maternal
 birth:
   date: "1745-11-30"
@@ -21,9 +21,9 @@ He was born **30 November 1745** in [Rielingshausen](/places/rielingshausen-chur
 
 His four Rielingshausen dates — birth, marriage, death, and his parents' names — were independently confirmed from the parish registers themselves when the village pastor annotated and returned [the ancestor chart Robert Earl mailed him](/archive/rielingshausen-parish-correspondence/). They are not resting on a database alone.
 
-## A *Gartner* in the Neckar vineyards
+## A *Weingärtner* in the Neckar vineyards
 
-His trade was **Gartner** — German for *gardener*, but in the Württemberg countryside of the 18th century, specifically a **vineyard gardener / cultivator**, tending the steep south-facing slopes along the Neckar and its tributary streams. The wine country between Marbach, Backnang, and Rielingshausen had been planted in grapes since the medieval period; the **Trollinger** and **Riesling** vines his hands managed grow there to this day. A *Gartner* was the village's specialist in the long, slow seasonal arc of viticulture: pruning the vines in March, training the new shoots in May, thinning the canopy in July, watching for mildew through the wet weeks of August, and bringing in the harvest in late September or October. The work was done largely by hand, with simple tools — pruning knives, hoes, baskets — and the long days were structured by the small village's bells and the position of the sun on the slopes.
+His trade was **Weingartner** — the word Robert Earl typed in his research essay, *"a Weingartner (vineyard gardener) in Rielingshausen."* Modern German spells it **Weingärtner**, and it is not a general gardener at all but the specific Württemberg term for a **vine-dresser**: the man who works the vines, tending the steep south-facing slopes along the Neckar and its tributary streams. The wine country between Marbach, Backnang, and Rielingshausen had been planted in grapes since the medieval period; the **Trollinger** and **Riesling** vines his hands managed grow there to this day. A *Weingärtner* was the village's specialist in the long, slow seasonal arc of viticulture: pruning the vines in March, training the new shoots in May, thinning the canopy in July, watching for mildew through the wet weeks of August, and bringing in the harvest in late September or October. The work was done largely by hand, with simple tools — pruning knives, hoes, baskets — and the long days were structured by the small village's bells and the position of the sun on the slopes.
 
 The wine the vines produced was almost entirely for **local consumption**. Württemberg's wine industry would not become widely export-oriented until the 19th century. Andreus's work fed the local taverns, the church communion table, the household tables of village families who drank their wine from earthenware mugs and the cellar windows of the merchant houses in nearby Marbach. Whatever Andreus knew about the work — how to read the soil, how to time the harvest by the changing weight of the grapes in his hands — he had learned from his father Johann Adam, who had learned it from *his* father, and so back to **[Johannes Wildermuth](/family/johannes-wildermuth-1650/)** in the year of the Peace of Westphalia.
 
@@ -37,4 +37,4 @@ Robert Earl Wildermuth, doing the genealogical research in Orlando in the 1980s,
 
 The June 2026 GEDCOM cross-check (Dale Eesley / FamilySearch) carried Robert Earl's open question two generations further: Andreas's parents were [Johann Adam Wildermuth](/family/johann-adam-wildermuth-1720/) (1720&ndash;1768) and [Rosina Kreher](/family/rosina-kreher/) (b. 1721 Kirchberg an der Murr, married 11 June 1743 Rielingshausen); Johann Adam's parents in turn were [Johannes Wildermuth](/family/johannes-wildermuth-1682/) (b. 28 December 1682 Rielingshausen) and [Margaretha Grayers](/family/margaretha-grayers/) (b. ~1685 Rielingshausen, married 27 September 1708). Earlier still, [Johannes Wildermuth (b. ~1650)](/family/johannes-wildermuth-1650/) sits in the same village in the year of the Peace of Westphalia. The Rielingshausen parish ledgers are documented [from 1521](https://www.kultur-und-heimatverein-rielingshausen.de/start/kelter/), so further generations beyond the existing tree are recoverable from the *Kirchenbücher* in the Landeskirchliches Archiv Stuttgart.
 
-> *Sources: [The Wildermuth/Fleming Heritage by Robert Earl Wildermuth, 1990](/docs/wildermuth-fleming-heritage-1990/); FamilySearch family tree (Chuck Eesley, 2026).*
+> *Sources: [The Wildermuth/Fleming Heritage by Robert Earl Wildermuth, 1990](/docs/wildermuth-fleming-heritage-1990/); the [original 'Little Histories' pages](/archive/little-histories-original-pages/), where he gives the trade as **Weingartner**; FamilySearch family tree (Chuck Eesley, 2026).*
