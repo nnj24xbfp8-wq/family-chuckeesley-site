@@ -60,24 +60,30 @@ The same note also states that **John's father died in 1842, five years before h
 
 *Schedule 1 — Inhabitants in the 2nd Ward, Marietta. Location: **Sixth Street**.*
 
-| Name | Age | Occupation | Place of origin |
-|---|---|---|---|
-| Wildermuth, J. M. | 49 | Works in shoe shop | Wuerttemberg, Germany |
-| Catherine | 39 | Keeping House | **Bavaria, Germany** |
-| Charles Jr. | 16 | **Works in chair factory** | Ohio |
-| **William C.** | 14 | **Works in chair factory** | Ohio |
-| Edward | 7 | In School | Ohio |
+| Name | | | Age | Status | Occupation | Origin |
+|---|---|---|---|---|---|---|
+| Wildermuth, J. M. | W | M | 49 | Married | Works in shoe shop | Wuertemberg, Germany |
+| Catherine | W | F | 39 | Married | Keeping House | **Bavaria, Germany** |
+| Chas. Jr.* | W | M | 16 | Single | **Works in Chair Fact.** | Ohio |
+| **William C.** | W | M | 14 | Single | **Works in Chair Fact.** | Ohio |
+| Edward | W | M | 7 | Single | *(blank)* | Ohio |
 
-**The two older boys are in a factory at sixteen and fourteen.** Only Edward, the youngest, is in school. That is the household's economics in one column — a shoemaker who worked for someone else's shop, and two sons put to work on chair frames before either finished growing.
+**The two older boys are in a factory at sixteen and fourteen.** Only Edward, at seven, has nothing in the occupation column. That is the household's economics in one column — a shoemaker who worked in someone else's shop, and two sons put onto chair frames before either finished growing.
+
+*(Robert Earl transcribed this census twice. The cleaner sheet, reproduced here, leaves Edward's occupation blank; an earlier draft wrote "In School," presumably from the census's separate school-attendance column. Neither is the original schedule.)*
 
 The one in the middle, **William C., fourteen years old at a chair factory**, is [William Clifford Wildermuth](/family/william-wildermuth/) — and Robert Earl's note under the table settles a question the archive had wobbled on:
 
-> *"Charles Jr.'s full name is John Charles Wildermuth but throughout his life, he went by the name of Charles. **William C. Wildermuth is my grandfather.**"*
+> *"Given name is John Charles Wildermuth but throughout life went by name **Charlie**."*
+
+and on his other draft of the same page:
+
+> *"John's wife is Catherine Boeshar. … **William C. Wildermuth is my grandfather.**"*
 
 Stated plainly, in his own research file. The [1990 Heritage](/docs/wildermuth-fleming-heritage-1990/) later referred to "John Wildermuth" as his grandfather, which is where the confusion came from; here, working from the census, he has it right.
 
 ## A note on these images
 
-The 1860 sheet is now here at full resolution, and it **corrected four readings** taken from the first low-resolution photograph: John M.'s age (29, not 26), the Rossar property value ($300, not $500), the family visitation number (680, not 980) and the note's date (December 1988, not 1980). The 1880 sheet is still only a **360 × 480** phone image; its figures are legible but a better scan would be worth having.
+**Both sheets are now here at full resolution**, and between them they corrected six readings taken from the first low-resolution photographs: John M.'s age in 1860 (**29**, not 26), the Rossar property value (**$300**, not $500), the family visitation number (**680**, not 980), the note's date (**December 1988**, not 1980), the nickname (**Charlie**, not Charles), and Edward's occupation in 1880 (**blank**, not "In School"). The full sheet also adds the race, sex and marital-status columns.
 
 > *Sources: 1860 and 1880 federal censuses for Washington County, Ohio, transcribed by [Robert Earl Wildermuth](/family/robert-earl-wildermuth/) with research notes dated December 1988; filed WILD-8. Companion: the [Marietta city directories](/archive/marietta-city-directories-wildermuth/).*

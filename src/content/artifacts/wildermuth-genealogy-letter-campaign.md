@@ -36,6 +36,20 @@ And it shows what he did not yet have. He asks for a death record for **[Catheri
 
 *(In this letter he calls John his great-**great** grandfather while calling William his grandfather — which cannot both be true. Johann Michael was his great-grandfather; he has it right in the 1991 letter below.)*
 
+### And she wrote back
+
+![A Speed Letter carbon form dated 18 January 1978, from Elizabeth Venham, Deputy Clerk at the Court House Annex, Marietta, Ohio, reporting that on re-checking, John Wildermuth's age was 40 years and 5 months, that a search for Catherine Wildermuth from 1867 to 1908 found nothing, and suggesting he write to Miss Bernice Graham of 415 Third Street, Marietta.](../../assets/family/originals/venham-speed-letter-reply-1978.jpeg)
+
+**Elizabeth Venham**, Deputy Clerk, answered on a *Speed Letter* carbon form on **18 January 1978** — fifteen days later:
+
+> *"I re-checked for the age of John Wildermuth and his age was **40 years and 5 months**. I searched for Catherine Wildermuth from **1867 to 1908** and found nothing. Perhaps if you write to Miss **Bernice Graham, 415 Third Street, Marietta, Ohio** she may be able to help you with some research."*
+
+She went back to the ledger and the ledger held its ground. **"40 years and 5 months"** — so the figure is not a transcription slip but what the record actually says, stated to the month. Set against the [obituary](/archive/john-michael-wildermuth-obituary-1903/)'s *"resident of Marietta for forty years,"* the likeliest reading is a **residence** entered in the age field. Forty years and five months before 7 February 1903 lands in **September 1862** — the month he married [Catharina Boeshar](/family/catharina-boeshar-wildermuth/), which is the kind of date a widow would give a clerk if asked how long her husband had been in town.
+
+Her search for Catherine failed for a reason neither of them could see: she looked **1867 to 1908**, and Catherine did not die until **1933**.
+
+And she did what the best of these correspondents did — handed him a name and a street address in his own ancestral town.
+
 ## 1980 — Backnang
 
 ![A typed letter dated 11 November 1980 to the Verbandsgemeinde Backnang, Neckarkreis, Grossaspach, Wuerttemberg, in German above and English below, asking the town to search its birth records for August 1830 for John Michael Wildermuth, and enclosing three international mailing coupons.](../../assets/family/originals/wildermuth-letter-verbandsgemeinde-backnang-1980.jpeg)
@@ -59,7 +73,9 @@ He had written the same request to Marbach in English a fortnight earlier, on **
 
 ![A typed letter dated 30 October 1986 to the Verbandsgemeinde Marbach, Wuerrtemberg, in English, asking the town to examine its birth records for August 1830 for John Michael Wildermuth and enclosing three international mailing coupons.](../../assets/family/originals/wildermuth-letter-marbach-1986-english.jpeg)
 
-The names of his parents. In 1986 he still did not have them. He would get them — [Johann Christian and Maria Margaretha](/archive/wildermuth-familienregister-grossaspach/) — from a parish register, years later.
+The names of his parents. In 1986 he still did not have them.
+
+**Marbach answered on 19 December 1986**, and it is the best reply in the whole file: no record of the birth, but a list of the **twenty-five villages of the former Oberamt Marbach** — Rielingshausen, Erdmannhausen, Pleidelsheim and Kirchberg an der Murr among them — and the shelf reference for the district's **emigration files** at the Staatsarchiv Ludwigsburg. [The letter has its own page.](/archive/stadt-marbach-reply-1986/) He would get them — [Johann Christian and Maria Margaretha](/archive/wildermuth-familienregister-grossaspach/) — from a parish register, years later.
 
 ## 1991 — the stranger in Phoenix
 

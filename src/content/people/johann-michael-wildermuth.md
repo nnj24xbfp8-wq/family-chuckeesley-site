@@ -31,7 +31,7 @@ He was an orphan. The [Großaspach Familienregister](/archive/wildermuth-familie
 
 The same page lists his **six siblings**, and shows how thin the household was by then: **Catharina Dorothea** (1819) died at thirteen days, the first **Carolina** (1822) at five, the second **Carolina** (1834) at four weeks. Of the four who lived, **Johann Jacob** (1820) married at Erbstetten in 1846, **Johann Christian** (1825) became a schoolteacher in Switzerland — and **Anna Maria** (b. 8 June 1828), two years Johann Michael's elder, is marked ***nach Amerika***.
 
-That last entry bears on a long-standing question. Robert Earl wondered whether **Frederika Roessar** — wife of the Baden shoemaker in whose Marietta household Johann Michael appears in 1860 — was his sister. His reasoning, written in December 1980, was good: *"Frederika gives her place of origin as the Duchy of Wuerttemberg while her husband is from the Duchy of Baden … I feel that he and Frederika are related, but [not] proven at this date."*
+That last entry bears on a long-standing question. Robert Earl wondered whether **Frederika Roessar** — wife of the Baden shoemaker in whose Marietta household Johann Michael appears in 1860 — was his sister. His reasoning, written in December 1988, was good: *"Frederika gives her place of origin as the Duchy of Wuerttemberg while her husband is from the Duchy of Baden … I feel that he and Frederika are related. Not proven at this date."*
 
 The register confirms **a Wildermuth sister did emigrate**. But the arithmetic now argues against her being Frederika: the [1860 census](/archive/wildermuth-marietta-censuses-1860-1880/) gives Frederika as **36** in June 1860, so born about **1823–24**, while Anna Maria would have been exactly **32** that month. Four years is a wide miss even for a census age, and the given names differ. **Probably not the same woman** — though a cousin or more distant kinswoman from the same corner of Württemberg would fit everything on the page.
 
@@ -116,6 +116,8 @@ Johann Michael landed at **New York in 1847** — the first year of the gap. Eve
 
 The manifests themselves survive and are now name-indexed online, so the crossing is findable today in a way it was not then.
 
+There is also a lead he was handed and never used. In December 1986 the town hall at Marbach am Neckar pointed him to the **emigration files of the former Oberamt Marbach**, held at the **Staatsarchiv Ludwigsburg** under reference **E 143 Oberamt Marbach Auswanderungen** — Württemberg required official permission to leave, and the district kept the application. [The letter is here.](/archive/stadt-marbach-reply-1986/) Nothing in his papers suggests he ever wrote to Ludwigsburg. Since Großaspach sat in **Oberamt Backnang**, the Backnang emigration series is the one to ask for alongside it.
+
 ## Naturalized in two appearances, a year apart
 
 Resolved. It took two documents to see it, and for a long time they looked like one.
@@ -128,6 +130,8 @@ Resolved. It took two documents to see it, and for a long time they looked like 
 The 1853 petition recites that he *"declared on oath before the Clerk of this Court, on the first day of November"* — and the printed form leaves the **year blank**. That blank is why the two appearances collapsed into one, and why a completed naturalization could look like an unfinished intention.
 
 Robert Earl reached the same reading in his [finished account](/docs/john-michael-wildermuth-sketch/), describing both appearances and ending: *"He took the oath of allegiance that same day and thus became **JOHN Michael Wildermuth, AMERICAN**."*
+
+**And the parallel case proves the structure.** In 1983 he also ordered the Philadelphia papers of **William Röeser**, the man he crossed with — and the City sent *"the declaration of intention **and** petition of naturalization,"* two physically different forms. [Set side by side](/archive/william-roeser-naturalization-papers-1847/), the declaration is headed *Be it Remembered*, sworn before the **Clerk** and signed by the Clerk; the petition is addressed to the **Justices**, headed *The Petition of*, and prays for admission. Johann Michael's 1853 sheet is unmistakably the second kind. The question is closed.
 
 ## The Philadelphia arrival that never happened
 
