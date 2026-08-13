@@ -23,6 +23,8 @@ He was born **23 August 1830** in **[Großaspach (Grossaspach)](/places/grossasp
 
 His parents were **[Johann Christian Wildermuth](/family/johann-christian-wildermuth/)** (b. 1794, Großaspach) and **[Maria Margaretha (Schmidgall) Wildermuth](/family/maria-margaretha-schmidgall/)** (b. 1789) — and through his mother the line also reaches back into the **Schmidgall and Landai** families of the Aspach villages. The documented descent to him runs, unbroken, from **[Johannes Wildermuth (1682)](/family/johannes-wildermuth-1682/)** → [Johann Adam (1720)](/family/johann-adam-wildermuth-1720/) → [Andreas Adam (1745)](/family/andreus-wildermuth/) → [Adam (1768)](/family/adam-wildermuth/) → [Johann Christian (1794)](/family/johann-christian-wildermuth/) → Johann Michael — the six generations this page's "at least six documented generations" refers to.
 
+**The register recorded him the day after he was born.** Entry no. 45 in the [Großaspach Taufregister](/archive/johann-michael-wildermuth-baptismal-register-1830/): born **23 August** in the evening, baptised at Großaspach on **24 August**, baptismal name **Johan Michael**, son of *"Johan Christian Wildermuth, Bürger u. Schuhmacher allhier"* and *"Maria Margaretha geb. Schmidgall von Röhrach,"* both **evangelisch**. It is the only original German parish register page in this archive.
+
 He sailed in **1847**, age **sixteen** — per his own sworn statement six years later in Philadelphia.
 
 ## Why a sixteen-year-old was free to go

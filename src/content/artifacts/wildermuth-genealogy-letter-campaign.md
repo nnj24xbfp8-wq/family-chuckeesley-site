@@ -1,10 +1,10 @@
 ---
 title: "The letter campaign — Robert Earl Wildermuth's genealogy correspondence, 1977–1991"
 type: "Correspondence"
-image: ../../assets/family/originals/wildermuth-letter-marietta-probate-court-1978.jpeg
+image: ../../assets/family/originals/wildermuth-letter-washington-county-clerk-1977.jpeg
 medium: "Carbon and photocopy file of outgoing typed letters, with incoming replies"
 dateCreated: "1977–1991"
-sortDate: "1978-01-03"
+sortDate: "1977-11-23"
 placeCreated: "410 Eagle Circle, Casselberry, Florida"
 idNumber: "WILD-CORRESPONDENCE"
 provenance: "Robert Earl Wildermuth's genealogical research papers; in Chuck's keeping. Photographed 2026."
@@ -16,9 +16,37 @@ people:
   - william-wildermuth
 ---
 
-Before there were databases there were **stamps**. This is the working file of [Robert Earl Wildermuth](/family/robert-earl-wildermuth/)'s genealogical correspondence — fourteen years of typed letters from a house in Casselberry, Florida to an Ohio courthouse, two German town halls, a village parish, and a stranger in Phoenix. Nearly everything the archive holds on the German side of the maternal line entered it through one of these envelopes.
+Before there were databases there were **stamps**. This is the working file of [Robert Earl Wildermuth](/family/robert-earl-wildermuth/)'s genealogical correspondence — fifteen years of typed letters from a house in Casselberry, Florida to an Ohio courthouse, two German town halls, a village parish, and a stranger in Phoenix. Nearly everything the archive holds on the German side of the maternal line entered it through one of these envelopes.
 
 Every letter has the same closing move: a **self-addressed stamped envelope**, or **international reply coupons**, or an offer to send money *"post haste."* He was paying strangers' postage for fifteen years to get his family back.
+
+## 1977 — the first letter
+
+It starts here, six weeks earlier than the archive previously had it.
+
+![A typed letter dated 23 November 1977 to the Clerk of Courts, Washington County Court House, Marietta, Ohio, requesting a birth and death certificate for William Clifton Wildermuth and a death certificate for John Wildermuth, middle name unknown, with the clerk's typed reply beneath and pencil annotations recording a follow-up to the health department in January 1978 that drew no response and was resent in August 1983.](../../assets/family/originals/wildermuth-letter-washington-county-clerk-1977.jpeg)
+
+**23 November 1977**, to the **Clerk of Courts, Washington County Court House, Marietta** — and the opening line is the whole project in nine words:
+
+> *"I am working on a family geneology and have come to **a void in my lineage**."*
+
+What he was asking for shows how little he had:
+
+> *"(1) Birth and death certificate for **William Clifton Wildermuth**; born between 1870 and 1875, died in Marietta around 1944 or 1945.*
+> *(2) Death certificate for **John Wildermuth, middle name unknown**; died around 1900 to 1905."*
+
+His own grandfather — **Clifton**, not Clifford; a five-year window for the birth; the death year off by two. And his great-grandfather with **no middle name at all**. Eleven years later a register in Württemberg would give him *Johan Michael*, [baptised the day after his birth](/archive/johann-michael-wildermuth-baptismal-register-1830/).
+
+The clerk answered on the same sheet:
+
+> *"We have the death record of John Wildermuth who died February 7, 1903. The court fee for this copy is $2.00 … **I find no birth for william.** I suggest you write to the Marietta City Health Department, 304 Putnam Street and also to the Washington County Home, Route 6, Marietta, Ohio. They have information of the Wildermuths."*
+
+And then, pencilled at the foot in his own hand, the two lines that characterise the next twenty-two years:
+
+> ***"SENT TO HEALTH DEPT. FOR BIRTH CERTIFICATES 31 JAN 1978, NO RESPONSE"***
+> ***"RESENT 24 AUG 83"***
+
+No response — and he wrote again **five and a half years later**.
 
 ## 1978 — Marietta, and an impossible age
 
