@@ -91,12 +91,12 @@ The [Marietta city directories](/archive/marietta-city-directories-wildermuth/) 
 
 | | Shop | Home |
 |---|---|---|
-| **1873–74** | **50 Front Street** | Sixth Street, between Warren and Montgomery |
+| **1873–74** | **30 Front Street** | Sixth Street, between Warren and Montgomery |
 | **1880** *(census)* | works in a shoe shop | Sixth Street |
 | **1897–98** | **134 Front Street** | 708 Sixth Street |
 | **1899–1903** | shoemaker | **611 Washington Street** |
 
-Two different shops on Front Street, twenty-four years apart — and **611 Washington Street** is the house the obituary means when it says he *"died at his home on Washington Street."*
+Two different shops on Front Street — **30** and later **134** — twenty-four years apart — and **611 Washington Street** is the house the obituary means when it says he *"died at his home on Washington Street."*
 
 The [1860 census](/archive/wildermuth-marietta-censuses-1860-1880/) catches him earlier than any of that: **twenty-six years old, a shoemaker, still lodging in the William Roessar household** in the Third Ward, thirteen years after the crossing and still unmarried. By [1880](/archive/wildermuth-marietta-censuses-1860-1880/) he had his own house on Sixth Street, a wife from Bavaria, and two sons of sixteen and fourteen **already working in a chair factory**.
 

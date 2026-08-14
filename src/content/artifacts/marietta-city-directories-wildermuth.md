@@ -27,14 +27,16 @@ City directories are the closest thing genealogy has to a moving camera. [Robert
 
 | Directory | Shop | Residence |
 |---|---|---|
-| **1873–74** | **50 Front Street** | Sixth Street, between Warren and Montgomery |
+| **1873–74** | **30 Front Street** | Sixth Street, between Warren and Montgomery |
 | **1897–98** | **134 Front Street** | **708 Sixth Street** |
 | **1899–1900** | *(shoemaker, no shop given)* | **611 Washington Street** |
 | **1902–03** | *(shoemaker)* | **611 Washington Street** |
 
-![A typed extract from the Marietta City Directory 1873-1874 recording WILDERMUTH, JOHN, Shoemaker, shop located at 50 Front Street, residing on Sixth Street between Warren Street and Montgomery Street.](../../assets/family/originals/marietta-city-directory-1873-1874-wildermuth.jpeg)
+![A typed sheet headed EXTRACTS FROM THE MARIETTA, OHIO CITY DIRECTORIES, consolidating four directory years: 1873-1874 with the shop at 30 Front Street and residence on Sixth Street between Warren and Montgomery; 1897-1898 at 134 Front Street residing 708 Sixth Street; 1899-1900 residing 611 Washington Street; and 1902-1903 residing 611 Washington Street.](../../assets/family/originals/marietta-city-directories-1873-1903-consolidated.jpeg)
 
-**The shop moved.** His [finished narrative](/docs/john-michael-wildermuth-sketch/) says he *"had his own shop at 134 Front Street"* for thirty years — but in 1873–74 the directory puts him at **50 Front Street**. Two premises on the same street, a quarter-century apart. The 1978 letter's vaguer *"a shop on lower Front Street"* covers both.
+**The shop moved.** His [finished narrative](/docs/john-michael-wildermuth-sketch/) says he *"had his own shop at 134 Front Street"* for thirty years — but in 1873–74 the directory puts him at **30 Front Street**. Two premises on the same street, a quarter-century apart. The 1978 letter's vaguer *"a shop on lower Front Street"* covers both.
+
+*(This consolidated sheet, at full resolution, **corrects the 1873–74 number from 50 to 30** — a misreading taken from an earlier 360 × 480 photograph.)*
 
 ![A typed extract from the Marietta City Directory 1897-1898 recording John M. Wildermuth, shoemaker at 134 Front Street, residing at 708 Sixth Street; Edward, mechanic, son; and William Wildermuth, turner, residing at 627 Seventh Street.](../../assets/family/originals/marietta-city-directory-1897-1898-wildermuth.jpeg)
 
@@ -88,7 +90,7 @@ Edward Frederick, the youngest son, is worth following on his own: **mechanic** 
 
 The **1897–98 sheet and the 1914–29 extracts are here at full resolution**, and the latter corrected four readings taken from a first low-resolution photograph: **717 East** Greene (not West), **739** Greene (not 719), **710** Second Street (not 719), and the span **1928–29** (not 1925–29). It also added William Clifford's 1914 occupation — **machinist** — and Emma's employer, **L. Gruber and Sons Co.**
 
-The **1902–03 sheet** has since been re-photographed at full resolution and its **611 Washington Street** confirmed. The **1873–74 and 1899–1900** sheets are still only **360 × 480** phone images; their house numbers read cleanly, but given how many corrections the better scans produced elsewhere, they are worth re-shooting before anyone goes looking for the houses.
+All four directory years are now here at full resolution on a single consolidated sheet, plus separate sheets for 1897–98 and 1902–03. Between them the better scans have **corrected the 1873–74 shop number from 50 to 30 Front Street** and confirmed 134 Front, 708 Sixth, 627 Seventh and 611 Washington.
 
 *(Robert Earl kept more than one typescript of several of these extracts. The full-resolution 1902–03 sheet carries only the single directory line; a variant of the same page adds his note about the Marietta College Library holdings and John M.'s death in 1903.)*
 

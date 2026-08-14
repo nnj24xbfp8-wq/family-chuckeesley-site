@@ -21,6 +21,8 @@ people:
 
 The likely basis for her guess is visible in his reply: **Johann David Wildermuth's** clan — a different Wildermuth line from Robert Earl's — had settled for a time in **Berks County, Pennsylvania**, which is exactly where these Erlings were. A Wildermuth/Ebling overlap in Berks County would not touch the Württemberg Wildermuths of Rielingshausen and Großaspach at all.
 
+That Berks County line is now documented in the archive: [Johann David Wildermuth and His Descendants, 1752–1964](/archive/johann-david-wildermuth-descendants-book-1965/), the 1965 volume Robert Earl was quoting from. Johann David landed at Philadelphia on the ship *Halifax* in 1752 and warranted a hundred acres in **Bern Township, Berks County** in 1755 — the same county, the same decades, as these Erlings. Mrs Allen's instinct was sound; she had simply found the wrong Wildermuths.
+
 ## What the record contains
 
 **Family Group Record 203** — **Johannes Erling** (b. 20 August 1725, Alsace Township, Berks County, Pennsylvania) and **Maria Philippina Yager** (b. 23 February 1735, Schuylkill Township, Pennsylvania), submitted by **Kenneth G. and Ellen B. Allen**, 5723 W. Catalina Drive, Phoenix.

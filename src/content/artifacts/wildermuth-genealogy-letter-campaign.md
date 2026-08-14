@@ -121,7 +121,7 @@ He replied **five days later**.
 
 He then gives her his sources, generously and in full:
 
-- **Dr. Hans Wildermuth**, *"Notes on the Ancestry of Johann David Wildermuth,"* Appendix A to **"Johann David Wildermuth and His Descendents — 1752–1964,"** held at the **Ohio State Library, 65 South Front Street, Columbus** — quoting it directly: *"The Wuerttemburg Wildermuths have their origin in the village of **Pleidelsheim** and **Rielingshausen** near the small town Marbach (where the poet Schiller was born) in the Northeast of Stuttgart."*
+- **[Johann David Wildermuth and His Descendants, 1752–1964](/archive/johann-david-wildermuth-descendants-book-1965/)** — compiled by **Ruth Kline Lee**, 1965, held at the **Ohio State Library, 65 South Front Street, Columbus**, whose **Appendix A** prints Dr Hans Wildermuth's letter — quoting it directly: *"The Wuerttemburg Wildermuths have their origin in the village of **Pleidelsheim** and **Rielingshausen** near the small town Marbach (where the poet Schiller was born) in the Northeast of Stuttgart."*
 - A **Wildermuthstrasse in Tübingen**, named for **Ottilie Wildermuth, the poetess**.
 - That **Johann David Wildermuth's** clan settled for a while in **Berks County, Pennsylvania** — which is where Mrs. Allen's Eblings were, and almost certainly the "connection" she had spotted.
 
