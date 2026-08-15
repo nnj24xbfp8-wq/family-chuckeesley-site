@@ -1,8 +1,8 @@
 ---
-title: "\"John Fleming Family Legacy\" — the seven-page typescript that answers the question"
+title: "\"John Fleming Family Legacy\" — the typescript that answers the question"
 type: "Document"
 image: ../../assets/family/originals/fleming-family-legacy-p5.jpeg
-medium: "Typed narrative, seven numbered pages, hand-numbered in pencil"
+medium: "Typed narrative, thirteen pages, hand-numbered in pencil"
 dateCreated: "c. 1998"
 sortDate: "1998-03-23"
 placeCreated: "Casselberry, Florida"
@@ -23,9 +23,23 @@ people:
   - sarah-bartlett-wife
 ---
 
-Not a chart. **Seven pages of continuous prose**, generation by generation, each headed with the man's name and his exact relationship — *5th Great-grandfather*, *4th Great-grandfather* — and running from an emigrant weaver in the 1710s down to Chuck's great-great-grandfather. It reads like the [1988 Little Histories](/docs/robert-earl-wildermuth-little-histories/) grown up: sourced, argued, occasionally funny, and willing to say *"I have some reservations"* and *"more research needs to be done here."*
+Not a chart. **Thirteen pages of continuous prose**, generation by generation, each headed with the person's name and their exact relationship to him — *5th Great-grandfather*, *2nd Great-grandmother*, and finally just *Mother* and *Father*. It runs from an emigrant weaver in 1712 down to his own parents, and closes with four pages of **"Fleming Fables"** — the stories, not the dates.
 
-It is the companion text to the [1998 pedigree charts](/archive/pedigree-charts-1998/), and it is where he put the reasoning the charts only assert.
+It reads like the [1988 Little Histories](/docs/robert-earl-wildermuth-little-histories/) grown up: sourced, argued, occasionally funny, and willing to say *"I have some reservations"* and *"more research needs to be done here."* It is the companion text to the [1998 pedigree charts](/archive/pedigree-charts-1998/), and it is where he put the reasoning the charts only assert.
+
+**→ [The complete transcription is here](/docs/john-fleming-family-legacy/)** — all thirteen pages, verbatim.
+
+## Why he did it
+
+Page 11 gives the reason, and it is the closest thing in the papers to a statement of purpose for the entire twenty-year search:
+
+> *"James Wesley Fleming died in the Washington County Home for Men just outside Marietta, Ohio on 2 October 1940 at the grand old age of 83. **At the time of his death, noone knew who his father and mother were, when or where he was born nor his age.** I've always felt that this was wrong for everybody should have a heritage and people should know the contributions each of us make while on earth. This factor has been one of my driving forces to pursue this 20 year search for my ancestors. No man who walked this earth and helped build this great country should leave this world without his descendents knowing where he came from and when and what his contributions were."*
+
+His own grandfather — [James Wesley Fleming](/family/wesley-fleming/), the man in the [vest and watch-chain portrait](/family/wesley-fleming/) — **died in the county home for men**, and no one at the graveside could say who his parents were. Robert Earl was sixteen. Everything in this archive descends from that.
+
+The paragraph goes straight on to the second motive: *"to find out where my Great-grandfather Johann Christian Wildermuth came from. All that was known was that he came to Philadelphia **(WRONG)** from Germany."* The parenthesis is his — by 1998 he knew the [Philadelphia arrival was a false trail](/archive/wildermuth-philadelphia-index-records/), and he flagged his own earlier error in capitals as he typed.
+
+*The county home is new to this archive*, which had recorded only that he died at Marietta. And note the age: he writes **83**, consistent with his own 1857 birth year rather than the archive's 1855.
 
 ## It settles the parentage of Lewis Fleming
 
@@ -96,6 +110,36 @@ He noticed the break himself, and worked out why:
 - A chancery file at the **Taylor County Court House in Grafton, box 2** — a lawsuit ***"Bailey vs. Bailey."***
 - A book, ***"Bailey Genealogy,"*** in the **History and Genealogical Library, Clarksburg, West Virginia**.
 
+## The Kelley pages, and Verona's mother
+
+Pages 8–10 do the Kelley side, and they matter for one reason: **they name Martha Kelley as Verona Belle's mother, in prose, unambiguously** — *"Verona Belle was born out of wedlock to Martha Kelly … The father was Seth Dunbar."*
+
+That is the same man who, on [Chart No. 1 of his own 1998 pedigree set](/archive/pedigree-charts-1998/), printed **Sarah J. Henry** in the mother's box. **The prose and the form contradict each other in the same month.** The prose is detailed, census-backed and repeated across three pages; the form is two lines. [Verona's page](/family/verona-sheppard-fleming/) keeps Martha Kelley, and this settles the question of which of his sources to prefer.
+
+He also tracks Martha herself, and loses her:
+
+> *"Martha vanished after the 1870 census. … Martha may have married and thus her last name would have changed making it more difficult to find her."*
+
+New here: the **1860 census shows Martha as a domestic in the Patrick Fleming household** — and Patrick Fleming was [Lewis Fleming](/family/lewis-fleming/)'s brother. **The Kelleys and the Flemings were already in the same house nine years before Verona was born**, and twenty-five years before Verona married a Fleming. Nobody in this archive knew that.
+
+**[Johnson Kelley](/family/johnson-kelley/)** gains a trade — *"he later became a skilled shoe maker and elevated to a boot maker"* — and a widowerhood: the 1850 Barbour County census lists him with **ten children and no wife**. His last two daughters were twins, **California and Rebecca**, born 1847. *(The archive holds the daughter's name as "Alta California.")*
+
+**[Ebenezer Kelley](/family/ebenezer-kelley/)** and **Rachel Johnson** get their ten children with exact dates, including twins Isaac and John L. — and a lead: *"a couple of sons distinguished themselves in the War of 1812. More research in 1812 war records would bring these two sons' exploits to light."*
+
+## "Fleming Fables" — pages 12 and 13
+
+Four pages of family stories, and the most human thing in the papers. Among them:
+
+- **A snake in a cap.** Laverna's mother sent her brother Walter to fetch the midwife and told him to bundle up; he picked up the cap from the woodpile by the fireplace and a snake came out of it.
+- **Baby Grace.** Verona Belle, pregnant, fell down the spring-house steps at Churchtown; Grace was born premature and could keep down only boiled water and whey. Scarlet fever went through the house and she died.
+- **The typhoid.** Verona and her small daughter **May** were watering tomatoes in the heat from a stream can; May drank from the can, took typhoid and died within days. The fever went through the whole family, and it left **Laverna with a husky, raspy voice for the rest of her life.**
+- **[Cynthia Fleming](/family/thomas-bailey-fleming/) in St. Louis** — the archive already had the tradition that she "became very wealthy." Here is the substance: she made her money in **boarding houses**, was said to own **a whole city block**, and **left everything to the Catholic Church**.
+- **Ulysses Grant Fleming**, *"indeed a rogue"* — he refused to go to his mother's burial, and while the funeral was underway he loaded the household furniture into a wagon and left for good. In 1987 his great-niece Susan Raison, cleaning up old cemeteries on a field trip to Atlanta, found a stone reading *Ulyses Fleming*. Robert Earl's whole comment is a question mark in brackets.
+- **The message in the bottle.** The Fleming girls — *"including my mother"* — put their names in bottles and threw them in the Ohio. A young man came up from Parkersburg, twenty-five miles downriver, courted **Aunt Lenora**, and married her.
+- **How he found Josephine.** No marked stones at the Burnt Hill graveyard, so he went into the little church and copied names out of the **visitors' book**. He wrote to a San Jose address; the reply came from Merritt Island, fifty miles from his house. She was 83, a lifelong schoolteacher, and he taped three hours with her. That interview is where the [log-cabin recollections](/family/verona-sheppard-fleming/) in this archive come from.
+
+He ends on a genealogy seminar where a speaker who was both a genealogist and a physician was asked the leading cause of death among the pioneers. The answer was one word: **"FILTH."**
+
 ## Where it differs from the archive
 
 | | Typescript | Archive |
@@ -107,8 +151,25 @@ He noticed the break himself, and worked out why:
 | Mary A. Fleming born | 1842 | c. 1844 |
 | Lewis Simpson Fleming born | 1845 | 5 May 1844 |
 | Mary Lake's three children | named: **Granville, Martha, William** | unnamed |
+| [James Wesley Fleming](/family/wesley-fleming/) died | in the **Washington County Home for Men**, aged **83** | "at Marietta," aged 84 |
+| [Verona Belle](/family/verona-sheppard-fleming/) born | **14 June 1869** | 11 June 1869 |
+| Verona's mother | **Martha Kelley** — contradicting his own chart's Sarah J. Henry | Martha Kelley ✓ |
+| [Martha Kelley](/family/martha-kelley/) born | **Harrison County** | Barbour County |
+| [Sadye](/family/sadye-fleming-wildermuth/) married Earl Adam | **31 December 1922** | 31 December 1920 |
 
 *The Martha Turner year is a straight conflict — 1903 here, 1904 on his own chart. Neither is sourced. Unresolved.*
+
+### Sadye's wedding date, settled from his own page
+
+Robert Earl gives **three different years** across his own documents for the same wedding: **1920** (the archive's figure), **1921** (two boxed charts and the 1998 Chart No. 1), and **1922** (here, on page 11).
+
+His own child list on that same page decides it. He records **Ruth Irene Wildermuth born 29 April 1922**:
+
+- Married **31 Dec 1920** → first child sixteen months later. Ordinary.
+- Married **31 Dec 1921** → first child four months later.
+- Married **31 Dec 1922** → **first child eight months before the wedding.** Impossible as a reading of his own text.
+
+**1920 stands**, and 1922 is a typing slip. The 1921 on three charts remains the real alternative and would make Ruth a very early arrival — which is possible, and which no one in the family ever wrote down either way.
 
 *Two internal slips worth knowing about:* the Thomas Bailey section opens *"Thomas Bailey born 1830"* (impossible — he married in 1803) and says he married *"Sarah Bartlett"* before naming his wife as **Nancy Bartlett** four lines later. The child lists elsewhere make it plain: **Nancy** married Thomas Bailey; **Sarah** married George Brown. Typing errors, not new facts.
 

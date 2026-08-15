@@ -40,6 +40,24 @@ A single photograph of Wesley Fleming survives in the family papers, surfaced Ju
 
 Dating reads **c. 1910s-1920s** by the photographic paper, his apparent age (mid-to-late 50s through mid-60s), and the bow-tie-and-vest dress that fits the working-class West Virginia rural style of that decade. The pocket watch and watch chain suggest a Sunday-best or church-bound moment, not field clothing &mdash; this is the dressed Wesley, not the working farmer.
 
+## Where he died — and what it set in motion
+
+The archive long recorded only that he died "at Marietta." His grandson's [Fleming typescript](/docs/john-fleming-family-legacy/) says where:
+
+> *"James Wesley Fleming died in the **Washington County Home for Men** just outside Marietta, Ohio on 2 October 1940 … At the time of his death, **noone knew who his father and mother were, when or where he was born nor his age.**"*
+
+The county home. A sharecropper who had spent his working life on other men's land ended in the public institution for indigent men, and the people at his funeral could not name his parents.
+
+**[Robert Earl](/family/robert-earl-wildermuth/) was sixteen**, and he took it as an injustice that lasted him the rest of his life:
+
+> *"I've always felt that this was wrong for everybody should have a heritage … No man who walked this earth and helped build this great country should leave this world without his descendents knowing where he came from and when and what his contributions were. This factor has been one of my driving forces to pursue this 20 year search for my ancestors."*
+
+**Every document in this archive traces back to that sentence.** The letters to German town halls, the courthouse trips, the fourteen charts, the will hunted down through a Chester County archivist — all of it began because his grandfather died unaccounted for in the Washington County Home for Men.
+
+The irony is complete: the man nobody could place is now one of the better-documented people here, and his own line runs back through [Thomas Bailey Fleming](/family/thomas-bailey-fleming/) and [Lewis](/family/lewis-fleming/) to a Maryland tobacco plantation and a weaver who crossed in 1712.
+
+*(He also gives the age as **83**, matching his own 1857 birth year rather than the 1855 this archive prefers. See above.)*
+
 ## The 1922 widower
 
 When Verona Belle Dunbar Fleming died on **27 October 1922 at Marietta, Washington County, Ohio**, age 53, Wesley was 66 and had been with her for at least two decades. He outlived her by **eighteen years**, dying on **2 October 1940 at Marietta, age 84**, and was buried two days later, on 4 October 1940. He lived to see his daughter Sadye marry [Earl Adam Wildermuth](/family/earl-a-wildermuth/), and to see his grandson [Robert Earl Wildermuth](/family/robert-earl-wildermuth/) born (6 October 1924) and grow into a young man &mdash; Robert Earl was 16 when his maternal grandfather died.
