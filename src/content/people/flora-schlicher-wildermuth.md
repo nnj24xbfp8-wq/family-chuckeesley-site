@@ -26,7 +26,11 @@ In 1989, Chuck's grandfather [Robert Earl Wildermuth](/family/robert-earl-wilder
 
 > *"I hope to return to the home towns of grandma Catherina Boeshar and hopefully that of Johann Peter Schlicher at some later date."*
 
-The **Schlicher** of that sentence is Flora's family line. Robert Earl was still trying to find **Johann Peter Schlicher's German hometown** when the memoir was written. The Schlicher emigration from Germany is part of the same mid-19th-century wave that brought Johann Michael Wildermuth to Marietta — both families settled in Washington County, Ohio, and merged through Flora and William Clifford's marriage.
+The **Schlicher** of that sentence is Flora's family line. Robert Earl was still trying to find **Johann Peter Schlicher's German hometown** when the memoir was written — and **Johann Peter was Flora's grandfather**, her father Theobald's father.
+
+**His own papers name the village.** [His printed ancestor charts](/archive/wildermuth-fleming-ancestor-chart-set/) give Johann Peter's birthplace as **[Adenbach](/family/johann-peter-schlicher/)**, in the Kusel district of the Rhineland-Palatinate — on the charts' authority alone, with no register or document yet seen to confirm it. The Schlicher emigration from Germany is part of the same mid-19th-century wave that brought Johann Michael Wildermuth to Marietta — both families settled in Washington County, Ohio, and merged through Flora and William Clifford's marriage.
+
+If that holds, there is a symmetry in it Robert Earl seems not to have remarked on. The two home towns he named together in that sentence — his great-grandmother [Catharina Boeshar](/family/catharina-boeshar-wildermuth/)'s **Breitenbach** and his great-great-grandfather Johann Peter Schlicher's **Adenbach** — are **in the same Landkreis Kusel**. Flora's line and her husband's grandmother's line would both run back to the same small stretch of the Palatinate.
 
 ## The 1896 family portrait
 
@@ -40,7 +44,7 @@ Flora **stands at the left** in the family's **[c. 1915 studio portrait](/archiv
 
 ## The 1919 death
 
-She died **18 November 1919** in Marietta at age **49** — a death well before her time by modern standards, twenty-four years before her husband would die in 1943. Cause of death is open in the GEDCOM; the late-1919 timing is consistent with the **1918–1919 influenza pandemic**'s final wave, which continued to claim American victims into late 1919 and early 1920, but other causes are equally possible. By 1919 her three children were all adults: Charles 30, Margaret 28, Emma 26.
+She died **18 November 1919** in Marietta at age **49** — a death well before her time by modern standards, twenty-four years before her husband would die in 1943. Cause of death is open in the GEDCOM; the late-1919 timing is consistent with the **1918–1919 influenza pandemic**'s final wave, which continued to claim American victims into late 1919 and early 1920, but other causes are equally possible. By 1919 the **three eldest** — the children of the [c. 1896 group portrait](/archive/william-wildermuth-family-group-portrait/) — were well into adulthood: Charles 30, Margaret 28, Emma 26. Her sixth child **Earl Adam** was twenty. *(This sentence formerly read "her three children," a holdover from when the archive knew only the three in that portrait; she had nine.)*
 
 She was buried in **Section C, Lot 30** at Oak Grove Cemetery, in a two-grave lot her husband [William Clifford](/family/william-wildermuth/) would join in 1943. The **[cemetery register](/archive/oak-grove-cemetery-burials-1985/)** records no marker on it: *"No stones on lot."* The register also gives her burial as **23 November 1919** and her age as **50**, against the archive's 21 November and 49 — small clerical differences, neither better sourced than the other.
 

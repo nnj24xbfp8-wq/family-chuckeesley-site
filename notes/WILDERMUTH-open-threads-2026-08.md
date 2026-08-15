@@ -32,21 +32,27 @@ The triple surname on Verona Belle wants explaining: born Kelley, raised Dunbar,
 
 ---
 
-## 4. The fourteen ancestor charts — roughly twenty new ancestors, not yet entered
+## 4. The fourteen ancestor charts — worked through 15 August 2026
 
-A complete printed chart set turned up in the papers ([artifact](/archive/wildermuth-fleming-ancestor-chart-set/)). It adds four whole branches the archive has never held. **None of these people have pages yet.**
+**This entry previously claimed the charts added four whole branches with "none of these people have pages yet." That was wrong.** Checking each name against `src/content/people/` showed the archive already held pages for almost all of them, usually with better dates from better sources. Corrected below; the [artifact](/archive/wildermuth-fleming-ancestor-chart-set/) has been rewritten to match.
 
-**Boeshar / Jung** (Rhineland-Pfalz) — Christian Boeshar (1810–1846) · Maria Margaretha Jung (b. 1814) · Abraham Boeshar · Maria Lehman · Johann Jung · Katharina Hofman
+**Schlicher / Weyrich (Adenbach) — the one genuinely new branch. DONE.**
+Created `johann-peter-schlicher.md` (b. 1797 Adenbach, d. 1861 Marietta) and `maria-magdalina-weyrich.md` (b. 1807). Added parents + Adenbach birthplace to `theobald-david-schlicher.md`; updated `flora-schlicher-wildermuth.md`.
+**This closes Robert Earl's own 1989 memoir question** — Johann Peter Schlicher was Theobald's father, and Adenbach is the hometown. Adenbach is in **Landkreis Kusel**, the same district as Catharina Boeshar's Breitenbach; the two towns he named in one memoir sentence are in the same district.
+*Still open:* "Marth," Maria Magdalina's chart birthplace, resolves to no known village — needs a flatbed scan. Johann Friedrich Schlicher, Maria Elizabeth Burgarth, Theobald Weyrich, Magdalina Burgey are name-only, deliberately left as prose rather than empty pages.
 
-**Schlicher / Weyrich** (Adenbach, Marth) — Johann Peter Schlicher (1797–1861) · Maria Magdalina Weyrich (1807–1879) · Johann Friedrich Schlicher · Maria Elizabeth Burgarth · Theobald Weyrich · Magdalina Burgey
+**Boeshar / Jung — no action needed; archive was ahead.**
+All six already had pages, sourced to FamilySearch and the translated German birth certificate. The chart is weaker: "Brontenbach" is a misreading of **Breitenbach**, and its "d. 8 Dec 1846" for Christian looks like the **8 Dec 1836 marriage date** landing in the wrong field. Chart's "Johann Jung / Katharina Hofman" = existing `johannes-jung` / `maria-catharina-hoffmann`.
 
-**Schmidt / Bourtine** (Bavaria) — Johann Jacob Schmidt (1818–1899) · Eva Bourtine (1815–1888)
+**Schmidt / Bourtine — corroboration + two variants recorded.**
+Charts confirm Eva Barbara Schmidt's dates exactly. Variants logged on the pages: John Jacob b. 1818 (archive 1817); Eva Bourtine d. 1888 (archive c. 1898, per the obituary's "preceded him by one year" — archive stands).
 
-**Dunbar / Kelley** (Maine, New Jersey, West Virginia) — Seth Dunbar (b. 1837 Readyville, Kennebec, Maine) · John V. Dunbar (b. 1804 Maine) · Ann Dunbar · Martha Kelley (b. 1844 Barbour Co.) · Johnson Kelley (1810–1886) · Ebenezer Kelley (b. 1763 Somerset Co.) · Rachel Johnson (b. 1769 New Jersey) · Robert Johnson · Mary · Sarah Yoke
+**Dunbar / Kelley — no action needed; archive was ahead.**
+All already had pages from the Wildermuth & Bain book with census transcriptions. Chart errors recorded: **Readfield** not "Readyville"; Seth b. 7 Oct 1836 not 1837; **Allegany County, Maryland** not "Allegheny"; **Sarah Yoak** not "Yoke"; Rachel Johnson's mother is **Mary Vannoy**.
 
-**Roe / Meeks** (Essex and Morris Counties, New Jersey) — Clarissa Roe (b. 1762) · John Roe (b. c. 1758) · Susannah Meeks (b. c. 1759)
+**Roe / Meeks + John Fleming — deliberately NOT entered.** Blocked on §5 below.
 
-**Fleming** — John Fleming (1781 Hampshire Co. – 1853 Arnold's Creek)
+> **Working rule that came out of this:** the charts are Robert Earl's *database output*, not his sources. Where a chart meets a document, the document wins. Check every chart name against existing pages before creating anything.
 
 ## 5. Who was Lewis Fleming's father?
 

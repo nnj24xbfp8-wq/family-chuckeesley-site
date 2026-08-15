@@ -38,4 +38,17 @@ His eight children:
 
 His wife **Eva Barbara preceded him in death by one year**; after she died, John moved in with his son-in-law and daughter, **Theobald and Eva (Schmidt) Schlicher**, on **Greene Street in Marietta**. He died there on **25 January 1899**, age 81, of *"diseases incident to that advanced period of his life"* &mdash; asthma and old age. His obituary ran in the **26 January 1899 *Daily Register*** of Marietta (on microfilm in the Marietta College Library genealogy section), naming him *"a well known and highly respected German resident"* and a prominent farmer in the German community; it recorded that he left two sons and two daughters &mdash; the daughters being **Mrs. Schlicher** and **Mrs. Lena Schaefer** of Marietta &mdash; and that **his sons then resided in the West**.
 
-> *Source: family-history sheet and transcribed obituary in Chuck's keeping ("John Jacob Schmidt" and "Obituary &mdash; Johann Jacob Schmidt," citing the *Daily Register*, Marietta, 26 January 1899, Marietta College Library genealogy section). Corroborated by the [Eesley/Wildermuth GEDCOM tree](/docs/dale-eesley-familysearch-tree/).*
+## What the ancestor charts add, and where they differ
+
+[Robert Earl Wildermuth's printed ancestor charts](/archive/wildermuth-fleming-ancestor-chart-set/) carry a sheet for his granddaughter-line ancestor **Eva Barbara Schmidt**, and it corroborates most of what the family-history sheet says: **Eva b. 29 December 1837 in Bavaria, d. 24 October 1915**, daughter of Johann Jacob Schmidt and Eva Bourtine of Bavaria, with **Eva Bourtine b. June 1815**. Agreement on all three — though not *independent* agreement: the charts and the family-history sheet both come out of the same Wildermuth research corpus and may descend from a single common source.
+
+Two small differences, recorded rather than adopted:
+
+| | Charts | This archive |
+|---|---|---|
+| John Jacob born | June **1818** | June **1817** |
+| [Eva Barbara Bourtine](/family/eva-barbara-bourtine/) died | **1888** Marietta | **c. 1898** |
+
+The 1817 birth follows the family-history sheet and squares with his obituary's *"age 81"* at a January 1899 death. The 1898 death for his wife follows the obituary's statement that she preceded him **by one year**; see [her page](/family/eva-barbara-bourtine/) for the reasoning.
+
+> *Sources: family-history sheet and transcribed obituary in Chuck's keeping ("John Jacob Schmidt" and "Obituary &mdash; Johann Jacob Schmidt," citing the *Daily Register*, Marietta, 26 January 1899, Marietta College Library genealogy section). Corroborated by the [Eesley/Wildermuth GEDCOM tree](/docs/dale-eesley-familysearch-tree/) and the [fourteen printed ancestor charts](/archive/wildermuth-fleming-ancestor-chart-set/).*
