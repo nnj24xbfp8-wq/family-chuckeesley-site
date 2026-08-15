@@ -118,7 +118,7 @@ Johann Michael landed at **New York in 1847** — the first year of the gap. Eve
 
 The manifests themselves survive and are now name-indexed online, so the crossing is findable today in a way it was not then.
 
-There is also a lead he was handed and never used. In December 1986 the town hall at Marbach am Neckar pointed him to the **emigration files of the former Oberamt Marbach**, held at the **Staatsarchiv Ludwigsburg** under reference **E 143 Oberamt Marbach Auswanderungen** — Württemberg required official permission to leave, and the district kept the application. [The letter is here.](/archive/stadt-marbach-reply-1986/) Nothing in his papers suggests he ever wrote to Ludwigsburg. Since Großaspach sat in **Oberamt Backnang**, the Backnang emigration series is the one to ask for alongside it.
+There is also a lead he was handed and never used. In December 1986 the town hall at Marbach am Neckar pointed him to the **emigration files of the former Oberamt Marbach**, held at the **Staatsarchiv Ludwigsburg** under reference **E 143 Oberamt Marbach Auswanderungen** — Württemberg required official permission to leave, and the district kept the application. [The letter is here.](/archive/stadt-marbach-reply-1986/) He acted on it: in February 1989 he engaged the accredited genealogist **Friedrich R. Wollmershäuser**, who [undertook to look for the emigration file at Ludwigsburg](/archive/wollmershauser-ludwigsburg-emigration-file-1989/). Whether it was ever found is not recorded in the surviving papers. Since Großaspach sat in **Oberamt Backnang**, the Backnang emigration series is the one to ask for alongside Marbach's.
 
 ## Naturalized in two appearances, a year apart
 
