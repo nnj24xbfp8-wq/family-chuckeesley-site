@@ -54,7 +54,36 @@ All already had pages from the Wildermuth & Bain book with census transcriptions
 
 > **Working rule that came out of this:** the charts are Robert Earl's *database output*, not his sources. Where a chart meets a document, the document wins. Check every chart name against existing pages before creating anything.
 
-## 5. Who was Lewis Fleming's father? — reframed 15 Aug 2026 by the 1998 charts
+## 5. RESOLVED 15 Aug 2026 — Lewis Fleming's father was JOHN FLEMING
+
+**The 1827 consent note turned up, quoted verbatim**, in the seven-page ["John Fleming Family Legacy" typescript](/archive/john-fleming-family-legacy/), p. 5:
+
+> *"This is to certify that I, **John Fleming** have nothing against my son giting married, going from under my house this 14 day 1827 in the year of our Lord. **Mr. John Fleming**."*
+
+Signed twice. **Not Edward.** `lewis-fleming.md` corrected; `john-fleming-iv.md` and `clarissa-roe.md` created.
+
+**Where the Edward came from:** John Fleming IV's 13 children include **Edward Fleming, b. 2 Jul 1817, m. Mary Turner** — Lewis's *younger brother*. Gilchrist's *Squires Family* appears to have shifted him up a generation.
+
+**The Revolutionary-soldier claim also moves:** John IV (b. 1781) can't have served. The service belongs to **John Fleming III** (5th Battalion, Washington County Militia) and to **John Roe** (Dayton's 3rd New Jersey, 1779–Yorktown under Lafayette).
+
+*Caveat:* this is Robert Earl's **transcription**, not the original. The Harrison County 1827 marriage bonds/consents still worth pulling.
+
+### Still to enter as pages (no longer gated)
+John Fleming Sr. & Jean · John Fleming Jr. & Anne White · John Fleming III & Nancy Ann Hopkins · Robert White & Anne Burgess · John Hopkins & Eleanor Wallace · John Roe & Susannah Meeks. All richly documented in the typescript.
+
+### New research leads from the typescript
+- **"Bailey vs. Bailey"** chancery file, **Taylor County Court House, Grafton WV, box 2**
+- **"Bailey Genealogy"**, History and Genealogical Library, **Clarksburg WV**
+- John Fleming Sr.'s **will, probated 17 May 1777** (Robert Earl obtained a copy via a Chester County PA archivist)
+- John Fleming Jr.'s **will, probated 16 Jan 1797**; John Fleming III's, **10 Aug 1829**; Robert White's, **11 Apr 1769**
+
+### New conflicts logged
+- **Martha Turner d. 11 June 1903** (typescript, "of old age") vs **1904** (his own chart). Unresolved.
+- Thomas Bailey Fleming's birthplace: typescript says Eastern Sector Harrison Co. → **now Taylor County**; archive/sketch says now **Doddridge**.
+- Robert White d. **1768** (chart) vs will probated **11 Apr 1769** (typescript).
+- John Fleming IV m. Susannah Prunty in **1858**, five years after his stated 1853 death. Typescript internal error.
+
+## 5-OLD. Prior framing, kept for the record — reframed 15 Aug 2026 by the 1998 charts
 
 **Edward Fleming** (Simpson Creek, Revolutionary soldier — Gilchrist's *Squires Family*, via Wildermuth & Bain, plus the 1827 "go out from under my house" consent note)
 vs
