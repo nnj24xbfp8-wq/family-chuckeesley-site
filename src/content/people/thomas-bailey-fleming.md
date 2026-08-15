@@ -8,6 +8,8 @@ birth:
 parents:
   - lewis-fleming
   - synthia-bailey
+spouses:
+  - martha-turner
 status: full
 summary: "Chuck's maternal 3×-great-grandfather on the Fleming line. Eldest son of Lewis B Fleming and Synthia (Bailey) Fleming, born February 1830 in what became Doddridge County; married Martha Turner in Parkersburg on 28 August 1851 and bought fifty acres of his father's farm at Burnt Cabin Slope in 1854 for a hundred dollars — then mortgaged it eight months later. Raised ten children there, among them James Wesley Fleming, Sadye Fleming's father. Still renting a 128-acre farm at seventy in 1900. No death record has ever been found for him."
 ---
@@ -28,7 +30,7 @@ The answer is a small window into how people held their own geography. Thomas ha
 
 ## Martha Turner, 1851
 
-On **28 August 1851** he married **Martha Turner** at Parkersburg, in Wood County. The [county register](/archive/fleming-marriage-record-and-deed/) records the officiating minister as **Francis Guthrie** — Book 1, page 66. Martha was born about March 1832 in Virginia. They were married at least forty-nine years.
+On **28 August 1851** he married **[Martha Turner](/family/martha-turner/)** at Parkersburg, in Wood County. The [county register](/archive/fleming-marriage-record-and-deed/) records the officiating minister as **Francis Guthrie** — Book 1, page 66. Martha was born in **March 1832** in Wood County, daughter of a **[John Turner](/family/john-turner/)** about whom nothing else is recorded. They were married at least forty-nine years; she outlived him, dying **11 June 1904**.
 
 ## Fifty acres on Burnt Cabin
 

@@ -11,6 +11,7 @@ death:
   place: "Marietta, Washington County, Ohio"
 parents:
   - thomas-bailey-fleming
+  - martha-turner
 spouses:
   - verona-sheppard-fleming
 portrait: ../../assets/family/originals/james-wesley-fleming-portrait.jpeg
