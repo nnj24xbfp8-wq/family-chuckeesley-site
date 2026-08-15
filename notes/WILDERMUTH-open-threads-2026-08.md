@@ -68,6 +68,17 @@ Points now established:
 
 **DECIDER: the 1827 Harrison County marriage consent.** Whoever signed it is the father. Not yet read.
 
+### The line behind John Fleming IV — charts 4 and 5, added 15 Aug 2026
+
+**BALLYCLARE, COUNTY ANTRIM, IRELAND.** Chart 4 gives John Fleming Jr. (b. 1714 Cecil Co., MD) as the son of **John Fleming Sr.-0238, of Ballyclare, Antrim County, Ireland**, d. **May 1777, Derry Township, Pennsylvania**; wife **Jean (Unknown)-0475**. Ulster Scots. "Jean" supports it.
+*Caution:* the main Ulster wave dates from 1718; a Cecil County birth in 1714 is four years early. Check before repeating.
+
+Chart 5: Anne White-0233's parents = **Robert White-0564** (m. 22 Sep 1709 Anne Arundel Cty MD, d. Apr 1768 Prince Georges MD) and **Anne Burges-0565** (d. Prince Georges). Old English-colonial Maryland, not Ulster. Precise 1709 marriage date = someone read a parish register.
+
+**To prove any of it:** Cecil Co. MD land/probate c.1714–40; the **1796 Montgomery Co. will of John Fleming Jr.** (d. 25 Dec 1796, wife d. 3 Jul 1796 — estate file likely); Derry Twp. PA records for a John Fleming d. May 1777.
+
+**Still no pages created** for John Fleming Sr./Jr./III/IV, Jean, Anne White, Robert White, Anne Burges, John Hopkins, Eleanor Wallace, Clarissa Roe, John Roe, Susannah Meeks. All gated on the consent note.
+
 **Roe arithmetic RESOLVED.** The 1998 chart gives **Clarissa Roe b. 18 June 1782** (not 1762) and **John Roe b. 1760** — consistent with their 27 Mar 1779 marriage. The earlier chart's 1762 was wrong.
 *New minor problem:* Susannah Meeks given b. **1770**, which makes her 9 at marriage. Probably 1760.
 
