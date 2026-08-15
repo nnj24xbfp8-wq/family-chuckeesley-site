@@ -29,3 +29,31 @@ A printed pedigree chart in the papers, not yet filed as an artifact. Against wh
 New from the chart: **Martha Turner died 11 June 1904**, Wood County. And a ghosted box on the reverse reads **"John Fleming, b. 11 October 1721, Monmouth Co."** — a generation above Lewis the archive does not have, though it is bleed-through and not reliably legible.
 
 The triple surname on Verona Belle wants explaining: born Kelley, raised Dunbar, or a first marriage to a Sheppard.
+
+---
+
+## 4. The fourteen ancestor charts — roughly twenty new ancestors, not yet entered
+
+A complete printed chart set turned up in the papers ([artifact](/archive/wildermuth-fleming-ancestor-chart-set/)). It adds four whole branches the archive has never held. **None of these people have pages yet.**
+
+**Boeshar / Jung** (Rhineland-Pfalz) — Christian Boeshar (1810–1846) · Maria Margaretha Jung (b. 1814) · Abraham Boeshar · Maria Lehman · Johann Jung · Katharina Hofman
+
+**Schlicher / Weyrich** (Adenbach, Marth) — Johann Peter Schlicher (1797–1861) · Maria Magdalina Weyrich (1807–1879) · Johann Friedrich Schlicher · Maria Elizabeth Burgarth · Theobald Weyrich · Magdalina Burgey
+
+**Schmidt / Bourtine** (Bavaria) — Johann Jacob Schmidt (1818–1899) · Eva Bourtine (1815–1888)
+
+**Dunbar / Kelley** (Maine, New Jersey, West Virginia) — Seth Dunbar (b. 1837 Readyville, Kennebec, Maine) · John V. Dunbar (b. 1804 Maine) · Ann Dunbar · Martha Kelley (b. 1844 Barbour Co.) · Johnson Kelley (1810–1886) · Ebenezer Kelley (b. 1763 Somerset Co.) · Rachel Johnson (b. 1769 New Jersey) · Robert Johnson · Mary · Sarah Yoke
+
+**Roe / Meeks** (Essex and Morris Counties, New Jersey) — Clarissa Roe (b. 1762) · John Roe (b. c. 1758) · Susannah Meeks (b. c. 1759)
+
+**Fleming** — John Fleming (1781 Hampshire Co. – 1853 Arnold's Creek)
+
+## 5. Who was Lewis Fleming's father?
+
+The charts say **John Fleming**, b. 11 October 1781 Hampshire County, d. 3 November 1853 at Arnold's Creek. [Lewis's page](/family/lewis-fleming/) says **Edward Fleming** of the Simpson Creek farm, a Revolutionary soldier, on Joy Gilchrist's authority in *The Squires Family*. Two different men. Needs resolving before any Roe/Meeks branch is attached, since the whole New Jersey line hangs off it.
+
+Also: the charts make **Clarissa Roe** (b. 1762) the daughter of **John Roe** (b. c. 1758). Impossible as printed; one date is wrong.
+
+## 6. Resolved
+
+**Lewis Fleming died about 1862**, in Taylor County — as the archive has it. The "d. 1849" on the Sadye chart is Synthia's death year misplaced, and the 1854 deed settles it independently.
