@@ -34,6 +34,10 @@ The **1900 census** is the last clear sight of her: Thomas at about seventy, Mar
 
 She **died 11 June 1904** in Wood County. Her husband's death was never recorded anywhere Robert Earl could find, so she is the one of the pair with a date.
 
-*One small conflict: the marriage register gives **28 August 1851**, while Robert Earl's [printed ancestor chart](/archive/wildermuth-fleming-ancestor-chart-set/) gives 18 August. The register is the primary record and the archive follows it.*
+## Two conflicts on the charts
+
+*The marriage date is now settled.* The register gives **28 August 1851**; one [printed ancestor chart](/archive/wildermuth-fleming-ancestor-chart-set/) gives 18 August, but the [1998 pedigree chart](/archive/pedigree-charts-1998/) gives **28 AUG 1851**, agreeing with the register. The 18th was a slip.
+
+*Her birth county is not settled.* This page says **Wood County**, following the earlier chart. The **1998 chart says Harrison County**. Robert Earl's own two sheets disagree, and no birth record has been found either way. Wood County is kept here — it is where she married in 1851 and where she died in 1904 — but it is a preference, not a proof, and the 1840/1850 censuses for both counties would settle it.
 
 > *Sources: the [1851 marriage record](/archive/fleming-marriage-record-and-deed/), Wood County Record of Marriages Book 1 p. 66; the [Thomas Bailey Fleming biographical sketch](/archive/thomas-bailey-fleming-biographical-sketch/) with its readings of the 1880 and 1900 censuses; and the [printed ancestor charts](/archive/wildermuth-fleming-ancestor-chart-set/), which supply her birth month, her death date, and her father's name.*

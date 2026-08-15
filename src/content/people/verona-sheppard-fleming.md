@@ -73,7 +73,17 @@ The home Josephine remembered was **"a big old log cabin just up the road and ov
 
 ## Her birth parents, newly named
 
-The archive has long known she married under **Mary V. Sheppard**, her adoptive family's surname. [Robert Earl's printed ancestor charts](/archive/wildermuth-fleming-ancestor-chart-set/) now supply the other two names in the sequence: her birth parents were **Seth Dunbar**, born 1837 at **Readyville, Kennebec, Maine**, and **Martha Kelley**, born 1844 in **Barbour County**. That accounts for the triple surname *Kelley / Dunbar / Sheppard* that heads her box on the charts — born Kelley, Dunbar by her father, Sheppard by adoption.
+The archive has long known she married under **Mary V. Sheppard**, her adoptive family's surname. [Robert Earl's printed ancestor charts](/archive/wildermuth-fleming-ancestor-chart-set/) now supply the other two names in the sequence: her birth parents were **[Seth Dunbar](/family/seth-grosvenor-dunbar/)**, born 1837 in **Kennebec County, Maine** (the charts spell the town "Readyville" and "Readville"; the 1850 census town is **Readfield**), and **[Martha Kelley](/family/martha-kelley/)**, born 1844 in **Barbour County**. That accounts for the triple surname *Kelley / Dunbar / Sheppard* that heads her box on the charts — born Kelley, Dunbar by her father, Sheppard by adoption.
+
+## A later chart names a different mother
+
+[Robert Earl's 1998 pedigree chart](/archive/pedigree-charts-1998/) puts **Sarah J. Henry** (b. 1841, Jefferson County, Ohio) in the mother's box, and gives Seth as **married 29 December 1860 in Wood County**. Martha Kelley is not on the sheet.
+
+**Verona's parentage is not being changed**, and the reason is that Robert Earl contradicts himself. In [his own genealogy of the family](/docs/wildermuth-family-of-marietta-book/) he wrote plainly that Verona was *"born out of wedlock to Martha Kelley. The father was Seth Dunbar"* — and backed it with the 1870 and 1880 censuses showing her in the Sheppard household, and with Deborah (Kelley) Sheppard's relationship to Martha. That is prose with evidence behind it. The chart is a form with two boxes.
+
+The reconciliation that costs nothing: **pedigree software prints a man's wife in the mother's slot**, and where the two are different women, this is exactly what you see. On that reading Sarah J. Henry was **Seth's wife**, married in 1860 — a person this archive knew nothing about — while Verona was still Martha Kelley's daughter, born outside that marriage in 1869. Everything in the book survives, and Seth gains a wife.
+
+[Seth's page](/family/seth-grosvenor-dunbar/) carries the full question. The 1860 Wood County marriage record would answer it.
 
 Behind them the charts run further: **John V. Dunbar** (b. 1804 in Maine, died in Wood County) and **Ann**; and on the Kelley side **Johnson Kelley** (1810–1886), **Ebenezer Kelley** (b. 1763, Somerset County), **Rachel Johnson** (b. 1769, New Jersey), **Robert Johnson**, **Mary**, and **Sarah Yoke**. None of them have pages here yet.
 

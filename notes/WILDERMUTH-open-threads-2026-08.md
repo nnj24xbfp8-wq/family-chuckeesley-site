@@ -54,11 +54,33 @@ All already had pages from the Wildermuth & Bain book with census transcriptions
 
 > **Working rule that came out of this:** the charts are Robert Earl's *database output*, not his sources. Where a chart meets a document, the document wins. Check every chart name against existing pages before creating anything.
 
-## 5. Who was Lewis Fleming's father?
+## 5. Who was Lewis Fleming's father? — reframed 15 Aug 2026 by the 1998 charts
 
-The charts say **John Fleming**, b. 11 October 1781 Hampshire County, d. 3 November 1853 at Arnold's Creek. [Lewis's page](/family/lewis-fleming/) says **Edward Fleming** of the Simpson Creek farm, a Revolutionary soldier, on Joy Gilchrist's authority in *The Squires Family*. Two different men. Needs resolving before any Roe/Meeks branch is attached, since the whole New Jersey line hangs off it.
+**Edward Fleming** (Simpson Creek, Revolutionary soldier — Gilchrist's *Squires Family*, via Wildermuth & Bain, plus the 1827 "go out from under my house" consent note)
+vs
+**John Fleming IV** (b. 11 Oct 1781 **Montgomery Co., MARYLAND** — not Hampshire Co., VA as the earlier chart said; m. 20 Jan 1803 Harrison Co.; d. 3 Nov 1853 **Arnold's Creek**), per the [1998 pedigree charts](/archive/pedigree-charts-1998/).
 
-Also: the charts make **Clarissa Roe** (b. 1762) the daughter of **John Roe** (b. c. 1758). Impossible as printed; one date is wrong.
+Points now established:
+- The Flemings on the 1998 chart are a **Maryland** family — Cecil Co. → Montgomery Co. → Harrison Co. VA. Three generations behind John IV: John Fleming III (b. 1744, d. 1829 Pike Run Twp PA), John Fleming Jr. (b. 1714 Cecil Co.), Anne White, plus **John Hopkins b. 1726 in SCOTLAND**.
+- **John IV died at Arnold's Creek** — Lewis's own settlement. Real circumstantial support.
+- **A man born 1781 cannot be a Revolutionary soldier**, so Gilchrist's Edward ≠ this John. Edward could only be a grandfather, and the chart puts John III there.
+- Robert Earl had Gilchrist and **still printed John in 1998**. He decided; he didn't say why.
+
+**DECIDER: the 1827 Harrison County marriage consent.** Whoever signed it is the father. Not yet read.
+
+**Roe arithmetic RESOLVED.** The 1998 chart gives **Clarissa Roe b. 18 June 1782** (not 1762) and **John Roe b. 1760** — consistent with their 27 Mar 1779 marriage. The earlier chart's 1762 was wrong.
+*New minor problem:* Susannah Meeks given b. **1770**, which makes her 9 at marriage. Probably 1760.
+
+Still not entered as pages: John Fleming IV, Clarissa Roe, and the Maryland/Scotland generations. Gated on the consent note.
+
+## 5b. Did Seth Dunbar have a wife? — NEW, opened 15 Aug 2026
+
+The 1998 chart gives Seth G. Dunbar **m. 29 Dec 1860, Wood County**, and puts **SARAH J. HENRY (b. 1841, Jefferson Co., Ohio)** in Verona Belle's mother slot. **Martha Kelley is absent.**
+
+Archive keeps Martha Kelley — the Wildermuth & Bain book has Robert Earl's own words (*"born out of wedlock to Martha Kelley. The father was Seth Dunbar"*) plus the 1870/1880 censuses and the Deborah (Kelley) Sheppard adoption. He contradicts himself, and the prose is the better-evidenced side.
+
+**Most likely reconciliation:** pedigree software prints the *wife* in the mother's box. Sarah J. Henry was probably Seth's actual wife (unknown to this archive until now); Verona was still Martha Kelley's daughter, born outside that marriage.
+**DECIDER: Wood County marriage record, 29 December 1860.** Sarah J. Henry deliberately given no page yet.
 
 ## 6. Resolved
 

@@ -18,7 +18,24 @@ Lewis Fleming is the deepest Fleming ancestor Robert Earl Wildermuth pursued in 
 
 He was born about **1807** — no birth record survives; the 1850 Doddridge County census fixes the year — on his father **Edward Fleming**'s **Simpson Creek farm** in eastern Harrison County, then part of Virginia. (Joy Lea Gilchrist's *The Squires Family* names Edward as a **Revolutionary soldier**.)
 
-> **His father's name is disputed.** Robert Earl's own [printed ancestor charts](/archive/wildermuth-fleming-ancestor-chart-set/) give Lewis's father as **John Fleming**, born **11 October 1781 in Hampshire County, Virginia** and died **3 November 1853 at Arnold's Creek** — with **Clarissa Roe** as his mother, and a Roe and Meeks line reaching back into Essex and Morris Counties, New Jersey. That is a different man from the Edward Fleming of Gilchrist's account, and the archive cannot hold both. Unresolved, and worth settling before the New Jersey branch is attached to anything, since the whole of it hangs on this one link.
+> **His father's name is disputed, and the dispute is now sharper.** Robert Earl's own charts give Lewis's father as **John Fleming**, died **3 November 1853 at Arnold's Creek** — not Edward. His [1998 pedigree chart](/archive/pedigree-charts-1998/), the latest genealogical work in his papers, makes this **John Fleming IV**, b. **11 October 1781 in Montgomery County, Maryland**, m. 20 January 1803 in Harrison County — and builds **three further Maryland generations** behind him, back to a John Fleming born 1714 in **Cecil County**. Edward appears nowhere on it. See below.
+
+## Edward, or John? — the state of the question
+
+Two accounts, neither yet resting on a document this archive has seen.
+
+**Edward Fleming**, of the Simpson Creek farm in eastern Harrison County, a **Revolutionary soldier** — from Joy Lea Gilchrist's *The Squires Family*, p. 357, by way of the [Wildermuth &amp; Bain book](/docs/wildermuth-family-of-marietta-book/). The same source supplies the 1827 note to the Harrison County *"Clearke"* letting Lewis *"go out from under my house."*
+
+**John Fleming IV**, b. 11 October 1781, Montgomery County, Maryland; married 20 January 1803 in Harrison County; died **3 November 1853 at Arnold's Creek** — from [Robert Earl's 1998 pedigree chart](/archive/pedigree-charts-1998/), with a full Maryland pedigree behind him.
+
+What can be said:
+
+- **John Fleming IV died at Arnold's Creek**, the settlement Lewis himself had moved to. A father dying in his son's community is meaningful circumstantial support.
+- **A man born in 1781 cannot have fought in the Revolution.** If Gilchrist's Revolutionary Edward is real, he is not this John — he would have to be a *grandfather*, and the chart puts John Fleming III (b. 1744) in that slot instead.
+- Robert Earl had the Gilchrist material and **still printed John in 1998**. He appears to have decided against Edward, without leaving a note saying why.
+- The 1803 Harrison County marriage and the 1807 Harrison County birth fit each other without strain.
+
+**The 1827 marriage consent is the document that decides it.** Whoever signed that note is Lewis's father. It is in the Harrison County records, and until someone reads it this page keeps Edward in the narrative below — as the account the archive inherited, not as a finding.
 
 ## The 1827 marriage and the move to Arnold's Creek
 
