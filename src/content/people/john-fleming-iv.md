@@ -75,21 +75,27 @@ By Clarissa, thirteen — including twins, and two children sharing a birthday e
 
 *Two of the thirteen are marked with an asterisk on the typescript, and one entry — John, b. 1813, "married Mary A. Fleming" — has him marrying a woman of his own surname. Both unexplained.*
 
-### Not all thirteen were Clarissa's — and there is a record
+### Were all thirteen Clarissa's? He argued it out with a cousin and concluded yes
 
-His cousin **[Charlotte Fleming](/archive/charlotte-fleming-correspondence-1995/)** put the case to him in April 1995, and it rests on a primary document: **Eli B. Fleming's own marriage certificate**, dated **17 March 1903**, when he married his second wife Hannah Swiger at seventy-two. It names his parents as **John F. Fleming and *Susan* Fleming**, and his birthplace as Doddridge County.
+His cousin **[Charlotte Fleming](/archive/charlotte-fleming-correspondence-1995/)** proposed in April 1995 that Clarissa was not the mother of the youngest two, **Eli B.** (1831) and **Sarah** (1834). Her evidence was good: **Eli B. Fleming's marriage certificate of 17 March 1903**, when he remarried at seventy-two, names his parents as **John F. Fleming and *Susan* Fleming** — and the middle name *Bee* looks like a mother's maiden name, the custom that produced [Thomas **Bailey** Fleming](/family/thomas-bailey-fleming/).
 
-**Eli named his mother as Susan.** Charlotte added the arithmetic — Clarissa's first child was born in 1804, which puts her in her late forties and early fifties at Eli's 1831 and Sarah's 1834 births, *"possible but not likely"* — and the observation that had always nagged at them:
+**Robert Earl agreed at first** — *"Old John (1781) must have married three times and perhaps wife number two was indeed a Susannah Bee"* — **and then went and checked, and reversed himself.**
 
-> *"We have always wondered where the middle name '**Bee**' came from for Eli … it makes more sense that he was named for his mother's maiden name."*
+> *"I've searched and searched for proof of a John Fleming (1781) Susanna Bee marriage. I even found a 'crusty' old marriage book in the Doddridge County, W.Va. Courthouse. **I cannot support a John Fleming/Susanna Bee marriage.**"*
 
-A **Susan Bee**, in other words, with her surname carried as her son's middle name — the same custom that produced [Thomas **Bailey** Fleming](/family/thomas-bailey-fleming/) two generations later.
+His grounds, and they are documentary:
 
-Robert Earl agreed at once: *"Old John (1781) **must have married three times** and perhaps wife number two was indeed a Susannah Bee."*
+- **The ages don't work.** He married Susanna Prunty in 1847, aged about 66. *"According to the 1850 census **Susanna Bee was about 22**."*
+- **Marriage Book I disposes of her.** It shows *"John Fleming married Susanna Prunty in 1847 **and Susanna Bee married David Jacobs that same year**"* — and he **followed Bee and Jacobs through about three censuses**, still husband and wife.
+- **Eli was not born in Doddridge County.** John held the farm in the Eastern Sector of Harrison County until 1838 — *"I have the land sales record"* — so an 1831 birth belongs there, not in Doddridge.
 
-**So the household most likely runs Clarissa Roe → a Susan Bee → Susannah Prunty**, with **Eli B.** (1831) and **Sarah** (1834) belonging to the middle wife. Charlotte also found the **Prunty marriage recorded in 1847** — not 1858 as the typescript says, which would have placed it five years after his death.
+And then his own reconstruction, which is the most human sentence in the correspondence:
 
-*Unproven where it matters — no one has produced a marriage record for a Susan Bee — but the 1903 certificate is a real document and it does not say Clarissa.*
+> *"**I think Clary Roe was Eli Sr's mother and she probably died in childbirth when her last daughter, Sarah, was born in 1835** thus prompting John to sell his farm and move to Doddridge County where he had a son, Lewis, my second great grandfather."*
+
+**This archive follows him.** All thirteen were Clarissa's; she likely **died in childbirth with Sarah in 1835**; and the 1838 land sale to Patrick and John was a widower breaking up the home place. **Two wives, not three** — Clarissa, then Susannah Prunty in **1847** (not the typescript's 1858, which falls after his own death).
+
+*He left the door open, as he always did:* **"Please let me know the source of your John/Susanna Bee info. I could be wrong."** The 1903 certificate's *"Susan"* is still unexplained — Eli was seventy-two, naming a mother who had died before he was four.
 
 **What he was certain of was his own descent**, and it is worth having in his words:
 

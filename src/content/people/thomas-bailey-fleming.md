@@ -61,7 +61,7 @@ Robert Earl's [sketch](/archive/thomas-bailey-fleming-biographical-sketch/) list
 
 The [family GEDCOM](/docs/dale-eesley-familysearch-tree/) gives thirteen — all ten of these, plus **Henrietta** (Jun 1853), **"B. Fleming"** (1859), and **George McClellan Fleming** (5 Jul 1864). Henrietta's June 1853 birth is only eight months before Margaret's, which full siblings cannot manage, and "B." is an initial rather than a name; both look like bad attachments. George McClellan is more interesting — an 1864 brother to **Ulysses Grant Fleming**, the two of them named for the Union general and the man who ran against Lincoln that November. Twins, or a duplicate. Unresolved.
 
-*On James's birth year:* the sketch says 20 December **1857**, the GEDCOM 20 December **1855**. The GEDCOM is very likely right — he died 2 October 1940 recorded as **age 84**, which needs a late-1855 birth.
+*On James's birth year — settled, and the sketch was right.* The sketch says 20 December **1857**, the GEDCOM **1855**, and this archive followed the GEDCOM on the strength of an "age 84" at death. His **[certified birth register entry](/archive/wesley-fleming-birth-certificate/)** — Doddridge County Book 1, page 9 — gives **20 December 1857**, names **Thomas** and **Martha**, and records the father's occupation as **Farmer**. The 1855 is withdrawn.
 
 ## Cynthia went to St. Louis
 

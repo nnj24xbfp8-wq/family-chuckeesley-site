@@ -48,11 +48,35 @@ She also found a date the typescript gets wrong:
 
 **1847, not 1858.** The typescript's 1858 would place the marriage five years after John's own death.
 
-Robert Earl accepted the argument. Writing back on 22 April:
+Robert Earl accepted the argument at first. Writing back on 22 April:
 
 > *"I certainly agree with your rationale that Clary (Roe) Fleming was most likely not the mother of Eli B. and/or Sarah. **Old John (1781) must have married three times** and perhaps wife number two was indeed a Susannah Bee."*
 
-**This archive follows them.** [John Fleming IV's page](/family/john-fleming-iv/) now carries the three-wife reading, with Eli B. (1831) and Sarah (1834) most likely belonging to a middle wife rather than to Clarissa.
+## And then he checked, and disagreed
+
+![A typed letter page in which Robert Earl Wildermuth sets out a constructive disagreement about the Bee/Fleming relationship, reporting that he found a crusty old marriage book in the Doddridge County courthouse, that Marriage Book I shows John Fleming married Susanna Prunty in 1847 while Susanna Bee married David Jacobs the same year, and concluding that Clary Roe was Eli's mother and probably died in childbirth when Sarah was born in 1835.](../../assets/family/originals/wildermuth-letter-bee-disagreement.jpeg)
+
+A later letter in the same exchange reverses it — and this is the sequence worth having, because it is a researcher taking a plausible theory to the courthouse and coming back with records against it. He opens by managing the disagreement carefully:
+
+> *"I hope we can have a mutual and perhaps **constructive disagreement** on the Bee/Fleming relationship. Maybe we can both benefit from it. **I've made some enemies in Fleming research.** Perhaps I didn't word my differences the proper way so if I should seem harsh it's only my 'dumb' way of presenting an argument."*
+
+Then the evidence:
+
+> *"I've searched and searched for proof of a John Fleming (1781) Susanna Bee marriage. I even found a **'crusty' old marriage book in the Doddridge County, W.Va. Courthouse. I cannot support a John Fleming/Susanna Bee marriage.**"*
+
+Three grounds:
+
+1. **Age.** John married Susanna Prunty in 1847 at about sixty-six; *"according to the 1850 census Susanna Bee was about 22."*
+2. **Marriage Book I accounts for her.** *"John Fleming married Susanna Prunty in 1847 and **Susanna Bee married David Jacobs that same year**"* — and he tracked Bee and Jacobs *"through about three censuses and they were still shown as husband and wife."*
+3. **Eli was not born in Doddridge County.** John held the Eastern Sector farm until 1838 — *"I have the land sales record"* — so Eli's 1831 birth belongs in Harrison County.
+
+His replacement account:
+
+> *"I think **Clary Roe was Eli Sr's mother and she probably died in childbirth when her last daughter, Sarah, was born in 1835** thus prompting John to sell his farm and move to Doddridge County where he had a son, Lewis, my second great grandfather."*
+
+**This archive follows the reversal.** Two wives, not three; all thirteen children Clarissa's; her death placed at **Sarah's birth in 1835**, which explains the 1838 land sale as a widower breaking up the home place. He also puts his own death of John at *"1852 or 53"* — the [death register says 3 November 1853](/archive/john-fleming-death-record-1853/).
+
+And he leaves it open, as always: ***"Please let me know the source of your John/Susanna Bee info. I could be wrong."*** The *"Susan"* on Eli's 1903 certificate is still unexplained — though Eli was then seventy-two, naming a mother who would have died before he was four.
 
 ## The deed
 

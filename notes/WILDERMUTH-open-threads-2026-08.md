@@ -90,7 +90,23 @@ So **withdrawn**: John Fleming Sr. (Ballyclare), Jean, John Fleming Jr. (Cabin J
 
 Cousin **Charlotte Fleming**, 8521 E. Shiloh St, Tucson AZ (husband Dick; both raised in Clarksburg). Four letters Mar–Apr 1995. [Artifact](/archive/charlotte-fleming-correspondence-1995/).
 
-**ELI B.'s MOTHER WAS PROBABLY NOT CLARISSA.** Primary evidence: **Eli B. Fleming's marriage certificate to 2nd wife Hannah Swiger, 17 March 1903** — parents given as **John F. Fleming and SUSAN Fleming**, b. Doddridge Co., his age 72, hers 43. Plus the middle name "Bee" = probably mother's maiden name (**Susan Bee**; info via Sherrie Kumke ← Joy Gilchrist). Robert Earl agreed: *"Old John (1781) must have married three times."*
+### ⚠ TWO CORRECTIONS, later on 15 Aug 2026
+
+**1. JAMES WESLEY FLEMING WAS BORN 1857, NOT 1855.** His **certified Doddridge County birth register entry** (Book 1 p. 9, certified 23 May 1984) gives **20 December 1857**, father **Thomas**, mother **Martha**, place **Arnolds Creek**, *"Occupation of Father: Farmer."* [Artifact](/archive/wesley-fleming-birth-certificate/).
+The archive's 1855 came from an "age 84" on the death record — but Robert Earl's own typescript says that at his death *"noone knew … when or where he was born nor his age."* The 84 was a guess by people who admitted they didn't know. **He was 82.** `wesley-fleming.md` and `thomas-bailey-fleming.md` corrected. Robert Earl was right all along and this archive argued against him.
+*Open:* the register names him **"Jno. Wesley Fleming"** — *Jno.* = **John**, not James. Every other source says James, and a later brother was John E. (b. 1866). Recorded as written, unresolved.
+
+**2. SUSANNA BEE IS OUT — he retracted it himself.** I published the three-wives reading from his 22 April 1995 letter. **A later letter in the same exchange reverses it**, on records:
+- Doddridge County **Marriage Book I**: John Fleming m. **Susanna Prunty 1847**; **Susanna Bee m. David Jacobs the same year** — Bee & Jacobs tracked through ~3 censuses as husband and wife.
+- Age: John ~66 in 1847; Susanna Bee ~22 per the 1850 census.
+- He holds the **1838 land sales record** (John → sons Patrick and John), so Eli's 1831 birth was in Harrison Co., not Doddridge.
+- His conclusion: ***"Clary Roe was Eli Sr's mother and she probably died in childbirth when her last daughter, Sarah, was born in 1835"*** — which is what prompted the 1838 sale and the move to Doddridge.
+→ **Two wives, not three.** All 13 children Clarissa's. **Clarissa d. 1835, probably in childbirth.** John d. *"1852 or 53"* per this letter; death register says 3 Nov 1853.
+→ Still unexplained: the *"Susan"* on Eli's 1903 marriage certificate. He left it open — *"I could be wrong."*
+
+---
+
+**ELI B.'s MOTHER — the original 1995 proposal, since superseded (see above).** Primary evidence: **Eli B. Fleming's marriage certificate to 2nd wife Hannah Swiger, 17 March 1903** — parents given as **John F. Fleming and SUSAN Fleming**, b. Doddridge Co., his age 72, hers 43. Plus the middle name "Bee" = probably mother's maiden name (**Susan Bee**; info via Sherrie Kumke ← Joy Gilchrist). Robert Earl agreed: *"Old John (1781) must have married three times."*
 → Reading now on the pages: **Clarissa Roe → Susan Bee → Susannah Prunty**, with Eli B. (1831) and Sarah (1834) to the middle wife.
 → **Prunty marriage was 1847**, per Charlotte's record search — NOT 1858 as the typescript says (which post-dates John's death).
 → **Still needed:** a marriage record for John Fleming & Susan Bee.

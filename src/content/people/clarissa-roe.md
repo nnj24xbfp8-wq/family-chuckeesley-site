@@ -44,11 +44,17 @@ The deed also puts **Susannah alive in May 1821**, when the justices examined he
 
 ## Her death, and how many children were hers
 
-She **died about 1838**, after which her husband sold the eastern farm and moved west to Arnold's Creek. No death date, no burial place, and no birth record beyond the chart's precise 18 June 1782. Robert Earl narrowed it a little in 1998: *"I believe Clarissa died in the Eastern District of Harrison Co. sometime in the 1830s just before John sold his farm in 1838."*
+She is usually given as dying **about 1838**, on the reasoning that her husband sold the eastern Harrison County farm that year and moved west. No death date and no burial place survive, and no birth record beyond the chart's precise 18 June 1782.
 
-**She was probably not the mother of all thirteen.** The [1998 typescript](/docs/john-fleming-family-legacy/) assigns her every one of John's children, but **Eli B. Fleming's 1903 marriage certificate names his mother as *Susan***, and Robert Earl came to accept that John *"must have married three times."* On that reading the last two — **Eli B.** (1831) and **Sarah** (1834) — belong to a later wife, and Clarissa's family ends around 1823. [The reasoning is here.](/archive/charlotte-fleming-correspondence-1995/)
+**Robert Earl came to a harder and more specific conclusion**, after searching the Doddridge County marriage books to test a cousin's rival theory:
 
-That does not touch her own line to Chuck, which runs through **Lewis**, born within a few years of the 1803 marriage — as Robert Earl put it, *"Lewis B. who was the son of John and Clary. Born a couple of years after their marriage."*
+> *"I think Clary Roe was Eli Sr's mother and **she probably died in childbirth when her last daughter, Sarah, was born in 1835** thus prompting John to sell his farm and move to Doddridge County where he had a son, Lewis, my second great grandfather."*
+
+On that reading she bore **thirteen children over thirty-one years** — Elizabeth in 1804, Sarah in 1835 — and the last of them killed her, at about **fifty-three**. Everything that follows in her husband's life reads as consequence: the farm sold to two sons in 1838, the move west to where Lewis already was, and a second marriage nine years later.
+
+**A cousin's alternative, and why it was set aside.** [Charlotte Fleming](/archive/charlotte-fleming-correspondence-1995/) argued in 1995 that the youngest two were not Clarissa's, since **Eli B. Fleming's 1903 marriage certificate names his mother as *Susan***. Robert Earl agreed at first, then found in Marriage Book I that the candidate **Susanna Bee married David Jacobs in 1847** and stayed married to him through three censuses — *"I cannot support a John Fleming/Susanna Bee marriage."* He kept Clarissa. He also kept the doubt: *"I could be wrong."*
+
+Her line to Chuck runs through **Lewis** regardless — as he put it, *"Lewis B. who was the son of John and Clary. Born a couple of years after their marriage."*
 
 She is **Chuck's maternal 5×-great-grandmother**: Clarissa → [Lewis](/family/lewis-fleming/) → [Thomas Bailey Fleming](/family/thomas-bailey-fleming/) → [James Wesley](/family/wesley-fleming/) → [Sadye](/family/sadye-fleming-wildermuth/) → [Robert Earl](/family/robert-earl-wildermuth/) → Terrie → Chuck.
 
