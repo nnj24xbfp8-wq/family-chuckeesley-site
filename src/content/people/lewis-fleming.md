@@ -55,6 +55,16 @@ In **1827** Lewis gained his father's written permission to marry — [John Flem
 
 Soon after, Lewis and Cynthia **moved west to the Arnold's Creek area** in the Western District of Harrison County — the district that in 1863 became **Doddridge County**. The 1830 census places him there. In **1852 he bought 222 acres** from Joseph and Jacob Gratz. Two years later, on **15 September 1854**, he and his second wife sold **fifty of those acres to their son Thomas** for **one hundred dollars** — the [deed survives](/archive/fleming-marriage-record-and-deed/), and its boundary call opens at a chestnut oak *"corner to Lewis Fleming's farm."* The parcel lay on **Burnt Cabin**, a drain of Arnold's Creek. The instrument names the grantors as *"Lewis Fleming and **Mary his wife**"* — a dower release, and the only legal document in the archive that names his second wife. **Arnold's Creek is the settlement where [James Wesley Fleming](/family/wesley-fleming/) — Sadye's father — would be born in 1855.** The GEDCOM confirms the descent Robert Earl could not trace: Lewis's eldest son **[Thomas Bailey Fleming](/family/thomas-bailey-fleming/)** (b. 1830) was Wesley's father — so Lewis is Wesley's grandfather and a documented direct forebear of this line.
 
+## Not yet checked: the slave schedules
+
+By 1852 he had **222 acres** on Arnold's Creek, and by 1860 he had sold up, moved back to Taylor County and was listed as a *"gentleman"* — a man of some property.
+
+**Whether he held anyone in slavery is unknown, and this archive has never looked.** The **federal slave schedules of 1850 and 1860** — taken alongside the population census, naming slaveholders and listing the age and sex of each person held — would answer it directly, for Doddridge County in 1850 and Taylor County in 1860.
+
+Nothing here predicts the answer. The western Virginia hill counties had **very low slaveholding**, and this household sent [one son into the Union Army and one into the Confederate](/family/lewis-fleming/) — which was the ordinary shape of the region and not evidence either way.
+
+*Recorded as an open item so that silence is not mistaken for an answer.* The [1795 Maryland will](/archive/john-fleming-will-1795/) in this archive, which disposes of two enslaved people, sits on the **far side of the break** in this line — above [John Fleming IV](/family/john-fleming-iv/), in the generations [Robert Earl withdrew](/archive/fleming-retraction-1998/) — and says nothing about Lewis.
+
 ## Two wives, and a family split by the war
 
 Cynthia died about **1849**; Lewis then married **Mary Lake**, a widow with three children. His documented children were:

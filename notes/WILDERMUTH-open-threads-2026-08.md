@@ -125,6 +125,21 @@ The archive's 1855 came from an "age 84" on the death record — but Robert Earl
 
 **Why the PA research stalled:** the Pennsylvania Archives at Harrisburg *"wouldn'y even tell me if they had a will for John … not a genealogic gathering entity."* He never got to Lancaster or Washington County in person.
 
+### ⚠ OPEN RESEARCH ITEM — the slave schedules, logged 15 Aug 2026
+
+**Neither John Fleming IV nor Lewis Fleming has ever been checked against the federal slave schedules.** Logged on both pages so silence isn't read as an answer.
+
+| Person | Schedule to pull | County |
+|---|---|---|
+| **John Fleming IV** (d. Nov 1853, "land baron") | **1850** | Harrison / Doddridge |
+| **Lewis Fleming** (222 acres 1852; "gentleman" 1860) | **1850** and **1860** | Doddridge (1850), Taylor (1860) |
+
+Slave schedules are the separate enumeration taken alongside the population census — slaveholders named, each person held listed by age and sex.
+
+*Context, not prediction:* western Virginia hill counties had very low slaveholding; Lewis's sons split Union/Confederate. But John IV accumulated acreage through surveying, which is the profile worth checking.
+
+**Do not read the [1795 Maryland will](/archive/john-fleming-will-1795/) as evidence about these two.** It disposes of two enslaved people — a woman **Nancy**, bequeathed with the furniture, and a man **Frank**, left to be manumitted — but it belongs to the household on the **far side of the break**, above John IV, in the generations Robert Earl withdrew in Nov 1998. It says nothing about the documented line.
+
 ### Other new material, 15 Aug 2026
 - **John Fleming IV's death record** ([artifact](/archive/john-fleming-death-record-1853/)): informant **Eli B. Fleming, son**. Explains where "Hampshire County" came from — the register says it, Robert Earl starred it as wrong. Also *"Consort of Ann Fleming"* — an unidentified wife.
 - **John IV may have had three wives.** April 1995 letter: *"Old John (1781) must have married three times and perhaps wife number two was indeed a Susannah Bee"* — with **Eli B. (1831) and Sarah (1834) probably NOT Clarissa's.**

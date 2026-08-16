@@ -113,9 +113,19 @@ He **died 3 November 1853 at his farm on Arnold's Creek, about six miles west of
 
 He is **Chuck's maternal 5×-great-grandfather**: John IV → [Lewis](/family/lewis-fleming/) → [Thomas Bailey Fleming](/family/thomas-bailey-fleming/) → [James Wesley](/family/wesley-fleming/) → [Sadye](/family/sadye-fleming-wildermuth/) → [Robert Earl](/family/robert-earl-wildermuth/) → Terrie → Chuck.
 
-## What is not proved
+## Not yet checked: the slave schedules
 
-Everything on this page comes from **one researcher's unsourced narrative** and his matching chart. The 1827 note is a transcription, not the document. No deed, will, survey or census has been examined here.
+He was a landholder in western Virginia through the 1830s, 40s and early 50s, described by his own descendant as **"known as a land baron"** — a man who used surveying work to accumulate acreage in Harrison and Doddridge Counties.
+
+**Whether he held anyone in slavery is unknown, and this archive has never looked.** The record that would answer it is the **federal slave schedule** — the separate enumeration taken alongside the 1850 and 1860 censuses, listing slaveholders by name with the age and sex of each person held. He died in November 1853, so the **1850 schedule for Harrison or Doddridge County** is the one that covers him.
+
+Two things pull in opposite directions and neither settles it. The western Virginia hill counties had **very low rates of slaveholding** — mostly subsistence farms worked by the family — and his grandsons split Union and Confederate in the war. But "land baron" is exactly the profile where the question is worth asking rather than assuming.
+
+*Recorded here as an open item so that silence is not mistaken for an answer.* The [1795 Maryland will](/archive/john-fleming-will-1795/) in this archive, which disposes of two enslaved people, belongs to a household on the **far side of the break** in this line and says nothing about him.
+
+## What else is not proved
+
+Everything else on this page comes from **one researcher's unsourced narrative** and his matching chart. The 1827 note is a transcription, not the document. No deed, will, survey or census has been examined here.
 
 **What would settle it:** Harrison County marriage records for **20 January 1803**; the county's 1827 marriage bonds and consents, where the original note should sit; Harrison County deeds for the sale to John V. and Patrick around 1838; and any Doddridge County estate record after November 1853.
 
