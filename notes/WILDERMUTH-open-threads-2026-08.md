@@ -186,3 +186,25 @@ Archive keeps Martha Kelley — the Wildermuth & Bain book has Robert Earl's own
 ## 6. Resolved
 
 **Lewis Fleming died about 1862**, in Taylor County — as the archive has it. The "d. 1849" on the Sadye chart is Synthia's death year misplaced, and the 1854 deed settles it independently.
+
+---
+
+## ZHOU SIDE — new 15 Aug 2026
+
+**Zhou Ling's handwritten recollection** (2 pages, Chinese, from Lijie's dad). [Document](/docs/zhou-ling-uncle-recollection/).
+Subject: **Zhou Zhaozheng 周兆帧** (Lijie's great-uncle) and **Pang Huancai 庞焕彩** (great-grandmother). Both pages were near-empty stubs; now substantive.
+
+- 1966 graduate, **Qingdao Medical College** — the year the Cultural Revolution began. State-assigned to **Qinghai**; appealed on family hardship; reassigned to **Yangxin County TCM Hospital, Huimin prefecture** — "the poorest area in Shandong." Career there; rose to **副主任医师 deputy chief physician**, the ceiling for a district hospital ("a matter of quota limits").
+- Widowed mother raised 3 children with no work; **gleaned discarded vegetable leaves at the market**; the two eldest went out as **apprentice workers**; only the youngest reached university.
+- She **went blind from weeping** for him; her one wish was his transfer back to Qingdao. **Years of attempts, gifts to officials, never succeeded.**
+
+### ⚠ DATE CONFLICT the document exposes — needs family input
+Archive holds **Maoli Zhou d. 1935** and **Zhaozheng b. 1938**. **A man cannot father a son 3 years after his death.** Pre-existing error, surfaced by this document.
+- Doc says grandmother was **40** at husband's death, youngest **"just over one."** Huancai b. 1908 → age 40 = death c. 1948, but Zhaozheng would then be 10.
+- Taking b. 1938 + "just over one" → Maoli d. c. **1939–40**, Huancai ~31 (not 40) — and fits a 1966 graduation at 28, normal for a medical degree.
+- **Likeliest error: Maoli's 1935 death year.** ASK THE FAMILY.
+
+### Also to ask
+- Number of years at Yangxin — **left blank** in the manuscript.
+- Two illegible characters in parentheses, **top right of page 1**.
+- Whether Zhaozheng is living; no death date recorded.
