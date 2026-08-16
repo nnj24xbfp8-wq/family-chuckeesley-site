@@ -62,6 +62,12 @@ On that reading she bore **thirteen children over thirty-one years** — Elizabe
 
 Her line to Chuck runs through **Lewis** regardless — as he put it, *"Lewis B. who was the son of John and Clary. Born a couple of years after their marriage."*
 
+## A courthouse names her
+
+Beyond the marriage return, one civil record names her as a mother. The **Taylor County Death Book** entry for her son **Patrick Fleming** — who died of scarlet fever on 31 March 1865 — records him as ***"son of John and Clara Fleming."*** [Robert Earl copied it onto his census abstract.](/archive/fleming-taylor-county-census-abstracts/)
+
+*Clara* again, not Clarissa — the same familiar form the 1803 minister used. Patrick named a daughter **Clarissa**, born about 1844, for a grandmother who had died before she arrived.
+
 She is **Chuck's maternal 5×-great-grandmother**: Clarissa → [Lewis](/family/lewis-fleming/) → [Thomas Bailey Fleming](/family/thomas-bailey-fleming/) → [James Wesley](/family/wesley-fleming/) → [Sadye](/family/sadye-fleming-wildermuth/) → [Robert Earl](/family/robert-earl-wildermuth/) → Terrie → Chuck.
 
 ## A date that was wrong, and one that still is

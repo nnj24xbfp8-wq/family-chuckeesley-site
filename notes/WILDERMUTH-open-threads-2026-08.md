@@ -125,6 +125,22 @@ The archive's 1855 came from an "age 84" on the death record — but Robert Earl
 
 **Why the PA research stalled:** the Pennsylvania Archives at Harrisburg *"wouldn'y even tell me if they had a will for John … not a genealogic gathering entity."* He never got to Lancaster or Washington County in person.
 
+### The 1827 consent + Taylor County census abstracts — added 15 Aug 2026 (later)
+
+**THE CONSENT NOTE ITSELF IS NOW PHOTOGRAPHED** ([artifact](/archive/john-fleming-consent-note-1827/)). Transcription caveat withdrawn from `lewis-fleming.md` and `john-fleming-iv.md`.
+- Signed **John Fleming**, **with a seal**
+- Dated **14 March 1827** — the wedding day itself
+- **Witnesses: Dempsey Welch and JAMES FLEMING**; a "Mr. John Willson" also named
+
+**⭐ THE JAMES FLEMING WITNESS.** The Nov 1998 retraction makes *a James Fleming* the true progenitor. Here is a James Fleming close enough to the household to witness John's consent for his son, in 1827, in Harrison County. **Not proof** — the name is everywhere in these families and Robert Earl warned about it — but this is the kind of place the connection would surface. Worth pursuing alongside the missing 10-generation chart and the contested pension file.
+
+**THREE MORE STATEMENTS OF THE PARENTAGE**, all in his own working papers ([census abstracts artifact](/archive/fleming-taylor-county-census-abstracts/)):
+1. 1860 census sheet, beside Lewis: *"Married Synthia Bailey 14 March 1827. **Son of John Fleming**"* — and Lewis starred, key at foot: **"✱ GREAT-GREAT GRANDFATHER"**
+2. 1850 sheet, beside Patrick Fleming (b.1814): *"**Son of John and Clara Fleming** (Taylor County Death Book)"* — a **civil record** naming both parents
+3. Patrick's age at death **51-4-8** on 31 Mar 1865 → b. ~**23 Nov 1813**, matching the typescript's date exactly; wife **Harriett Lake** matches too
+
+**Other surnames recurring in the Taylor abstracts:** Bartlett (Minor S. Fleming m. Matilda Bartlett 1836; Nathan S. Bartlett living in), **Prunty** (Emory Fleming m. Margarett Prunty; John Prunty in household 1860 — cf. John IV's 2nd wife Susannah Prunty), Lake (Patrick m. Harriett Lake; Lewis's 2nd wife Mary Lake), McDonnell, Whitehair, Romine, Sinsel.
+
 ### ⚠ OPEN RESEARCH ITEM — the slave schedules, logged 15 Aug 2026
 
 **Neither John Fleming IV nor Lewis Fleming has ever been checked against the federal slave schedules.** Logged on both pages so silence isn't read as an answer.
@@ -132,7 +148,9 @@ The archive's 1855 came from an "age 84" on the death record — but Robert Earl
 | Person | Schedule to pull | County |
 |---|---|---|
 | **John Fleming IV** (d. Nov 1853, "land baron") | **1850** | Harrison / Doddridge |
-| **Lewis Fleming** (222 acres 1852; "gentleman" 1860) | **1850** and **1860** | Doddridge (1850), Taylor (1860) |
+| **Lewis Fleming** (222 acres 1852; "gentleman" 1860) | **1850** *(the live one)* | Doddridge |
+
+**PARTLY ANSWERED FOR LEWIS IN 1860.** The Taylor County census abstract returns him at **$100** — the smallest of any Fleming household on the page (others: $7,000, $5,000, $4,280, $1,650, $590). He had sold up and retired. **A man of that return is not a slaveholding planter in 1860**, so the 1860 schedule is unlikely to show him. **1850 remains open**, when he still held the Arnold's Creek land.
 
 Slave schedules are the separate enumeration taken alongside the population census — slaveholders named, each person held listed by age and sex.
 

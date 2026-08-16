@@ -22,7 +22,9 @@ The correction comes from his own signature. In 1827 his son Lewis needed writte
 
 *(The Edward the archive had inherited was real, but a generation out of place: **Edward Fleming, b. 2 July 1817**, was Lewis's younger brother. See below.)*
 
-**And he found the original.** Writing to cousins, he described where it came from:
+**The document is in the archive** — [a photograph of the manuscript](/archive/john-fleming-consent-note-1827/), signed **with a seal**, dated **14 March 1827**, the day of the wedding itself, and witnessed by **Dempsey Welch** and a **James Fleming**. *(That witness is worth noting: the [November 1998 retraction](/archive/fleming-retraction-1998/) makes a James Fleming the family's true progenitor, and here is one close enough to the household to witness a son's marriage consent.)*
+
+**And he found it himself.** Writing to cousins, he described where it came from:
 
 > *"I've enclosed a sort of cute note that **our John (b. 1781)** scrawled to the 'County Clarke' giving permission … to 'go out from under my house' (I think he meant from under his roof) to get married. **Found this note filed with my grandfather Lewis' marriage banns in the Harrison County Court House.**"*
 
@@ -112,6 +114,14 @@ He **died 3 November 1853 at his farm on Arnold's Creek, about six miles west of
 **The ground is still there.** Robert Earl [drove into Arnold's Creek in June 1986](/archive/arnolds-creek-visit-1986/) and photographed it — a level pasture under wooded hills, with the old United Brethren church across the dirt road and the **Fleming-Gain Cemetery** on the rise beside it. The church's own history records that in 1900 the land was sold to the community for twenty-five dollars by ***"Eli B. Fleming, son of John Fleming"*** — a local record, independent of any chart, putting Eli in this family.
 
 He is **Chuck's maternal 5×-great-grandfather**: John IV → [Lewis](/family/lewis-fleming/) → [Thomas Bailey Fleming](/family/thomas-bailey-fleming/) → [James Wesley](/family/wesley-fleming/) → [Sadye](/family/sadye-fleming-wildermuth/) → [Robert Earl](/family/robert-earl-wildermuth/) → Terrie → Chuck.
+
+## A second civil record names him and Clarissa
+
+The **Taylor County Death Book** records **Patrick Fleming** (d. 31 March 1865, scarlet fever) as ***"son of John and Clara Fleming."*** [Robert Earl copied it onto his census abstract.](/archive/fleming-taylor-county-census-abstracts/)
+
+Patrick is on this page's child list — *"born 23 Nov 1813, married Harriet Lake"* — and the death book gives his wife as **Harriett Lake** and his age at death as **51 years, 4 months, 8 days**, which works back to a birth on about **23 November 1813**. The typescript's date and a county register agree to the day.
+
+So beyond the consent note, there is an **independent civil record naming John and Clara Fleming as parents** of one of the thirteen. Two documents from two courthouses, and they hold.
 
 ## Not yet checked: the slave schedules
 

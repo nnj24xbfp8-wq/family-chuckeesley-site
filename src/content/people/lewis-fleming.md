@@ -45,7 +45,9 @@ Twice in four lines. Lewis's father was **John Fleming IV** — born 11 October 
 
 — and attributes it to *"our John (b. 1781)."* So the note was not a family keepsake or a secondhand report: it was in the county's own 1827 marriage file, alongside Lewis's banns, and Robert Earl had it copied.
 
-*One caution remains:* what this archive holds is his **transcription**, not the document. The original should still be in the Harrison County marriage bonds and consents for 1827.
+**And the document itself is now in the archive.** A photograph of the manuscript — headed by him *"John Fleming's Consent For His Son Lewis To Get Married"* — [is here](/archive/john-fleming-consent-note-1827/). It is **signed with a seal**, dated **14 March 1827** (the day of the wedding itself), and witnessed by **Dempsey Welch** and **James Fleming**. The transcription caveat this page carried is withdrawn.
+
+**A second statement, in his own hand.** On his working [1860 Taylor County census sheet](/archive/fleming-taylor-county-census-abstracts/) he wrote beside this household: *"Married Synthia Bailey 14 March 1827. **Son of John Fleming.**"* — and starred it, with a key at the foot of the page reading **"✱ great-great grandfather."**
 
 ## The 1827 marriage and the move to Arnold's Creek
 
@@ -61,7 +63,7 @@ By 1852 he had **222 acres** on Arnold's Creek, and by 1860 he had sold up, move
 
 **Whether he held anyone in slavery is unknown, and this archive has never looked.** The **federal slave schedules of 1850 and 1860** — taken alongside the population census, naming slaveholders and listing the age and sex of each person held — would answer it directly, for Doddridge County in 1850 and Taylor County in 1860.
 
-Nothing here predicts the answer. The western Virginia hill counties had **very low slaveholding**, and this household sent [one son into the Union Army and one into the Confederate](/family/lewis-fleming/) — which was the ordinary shape of the region and not evidence either way.
+Nothing here settles it, but one figure points. The western Virginia hill counties had **very low slaveholding**, this household sent one son into the Union Army and one into the Confederate — and the **1860 census returns him at one hundred dollars**, the smallest of any Fleming household in Taylor County. A man of that return is not a slaveholding planter in 1860. **That leaves 1850 open**, when he still held the Arnold's Creek land.
 
 *Recorded as an open item so that silence is not mistaken for an answer.* The [1795 Maryland will](/archive/john-fleming-will-1795/) in this archive, which disposes of two enslaved people, sits on the **far side of the break** in this line — above [John Fleming IV](/family/john-fleming-iv/), in the generations [Robert Earl withdrew](/archive/fleming-retraction-1998/) — and says nothing about Lewis.
 
@@ -74,7 +76,7 @@ Cynthia died about **1849**; Lewis then married **Mary Lake**, a widow with thre
 
 That one son wore Union blue and another Confederate gray is the sharp local truth of the West Virginia hill country in 1861–65, where the new state itself was born of the split.
 
-Late in life Lewis and Mary moved back east to **Taylor County**, leaving son Lewis Jr. with Lewis's brother James; the 1860 Taylor County census lists him at 53, occupation *"gentleman."* No death record has been found; unverified family sources place his death about **1862**, in the war years.
+Late in life Lewis and Mary moved back east to **Taylor County**, leaving son Lewis Jr. with Lewis's brother James; the [1860 Taylor County census](/archive/fleming-taylor-county-census-abstracts/) lists him at 53, occupation *"gentleman"* — the period term for retired — with **Mary (Lake), 56**, and two daughters at home. His return that year is **one hundred dollars**. Set beside the other Fleming households on the same page — $7,000, $5,000, $4,280 — **he is the poorest Fleming in the county**, a man who had sold his land and was living on what was left of it. No death record has been found; unverified family sources place his death about **1862**, in the war years.
 
 He is **Chuck's maternal 4×-great-grandfather** on the Fleming line: Lewis → **[Thomas Bailey Fleming](/family/thomas-bailey-fleming/)** → [James Wesley Fleming](/family/wesley-fleming/) → [Sadye](/family/sadye-fleming-wildermuth/) → [Robert Earl](/family/robert-earl-wildermuth/) → Terrie → Chuck. The enigma Robert Earl left open — his own descent from this "difficult trail" — the GEDCOM has since closed.
 
