@@ -78,7 +78,11 @@ Within two months this man became the direct ancestor. What he had already gathe
 - *"He led quite a life for a pioneer in those times. It is said that he was also well acquainted with James and Dolly Madison and the father of Stonewall Jackson all of the Clarksburg area."* **Said** — he marks it as tradition.
 - **His will:** *"James Fleming who died in 1833 at the age of 88 left a Will. I've sent for it."*
 
-He is careful to warn that the name is a trap: several James Flemings existed, including *"a notorious Tory"* in Frederick County who fled to New York, then Canada, then England.
+- **A contested pension.** The cousins had raised a *"Mr. Redder who tried to stifle James pension,"* and Robert Earl allows that Redder had a point — *"there was a James Fleming who was a notorious Tory in and around Frederick Co."*, desperately sought by the colonists, who *"evaded his would be captors; made it to New York and eventually to Canada and back to England."*
+
+  **This is the most substantial untried lead in the papers.** A disputed Revolutionary War pension claim generates a file — affidavits, service statements, the objector's grounds, and often a rebuttal naming relatives. If James Fleming applied for a pension and someone contested it on the strength of a Tory namesake, that file should survive in the federal pension applications. Nobody in this archive has looked.
+
+He is careful throughout that the name is a trap: *"Some of our John Flemings had sons named James; Samuel Fleming of Frederick Co., Md. had a son named James and my Grandfather was named James"* — [James Wesley Fleming](/family/wesley-fleming/) — and *"I've also come across some notorious John Flemings but of no kin to us."*
 
 ## He corrects himself three times in one letter
 
