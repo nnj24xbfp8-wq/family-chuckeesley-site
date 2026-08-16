@@ -11,7 +11,7 @@ parents:
 spouses:
   - martha-turner
 status: full
-summary: "Chuck's maternal 3×-great-grandfather on the Fleming line. Eldest son of Lewis B Fleming and Synthia (Bailey) Fleming, born February 1830 in what became Doddridge County; married Martha Turner in Parkersburg on 28 August 1851 and bought fifty acres of his father's farm at Burnt Cabin Slope in 1854 for a hundred dollars — then mortgaged it eight months later. Raised ten children there, among them James Wesley Fleming, Sadye Fleming's father. Still renting a 128-acre farm at seventy in 1900. No death record has ever been found for him."
+summary: "Chuck's maternal 3×-great-grandfather on the Fleming line. Eldest son of Lewis B Fleming and Synthia (Bailey) Fleming, born February 1830 in what became Doddridge County; married Martha Turner in Parkersburg on 28 August 1851 and bought fifty acres of his father's farm at Burnt Cabin Slope in 1854 for a hundred dollars — then mortgaged it eight months later. Raised ten children there, among them James Wesley Fleming, Sadye Fleming's father. Still renting a 118-acre farm at seventy in 1900. No death record has ever been found for him."
 ---
 
 **Thomas Bailey Fleming** carries his mother's family name in his own. He is the son of the Arnold's Creek settler **[Lewis Fleming](/family/lewis-fleming/)** and **[Synthia Bailey](/family/synthia-bailey/)**, and the **B** in the county records — *Thomas B. Fleming* — is Bailey. Without it, the Bailey and Bartlett lines behind him would be much harder to see.
@@ -42,14 +42,18 @@ The deed sat unrecorded for nearly eight months. On **7 May 1855** it was entere
 
 He was twenty-five, three years married, with children coming, and he had mortgaged three-quarters of the farm's purchase price back out of it the day the purchase was recorded. It is the plainest surviving statement of what this family's economics actually were.
 
-## Ten children
+## Twelve children — Martha's own count
 
-Robert Earl's [sketch](/archive/thomas-bailey-fleming-biographical-sketch/) lists ten, and his own reading of the 1880 census agrees with the count:
+**The 1900 census asked Martha, and she said twelve born, nine living.** [The abstract is here.](/archive/thomas-martha-fleming-wood-county-records/) That is the best figure available, because it is the mother's own answer to an enumerator rather than a descendant's reconstruction a century later.
+
+Robert Earl's [sketch](/archive/thomas-bailey-fleming-biographical-sketch/) lists **ten**, and his reading of the 1880 census agrees with that count — but a family group sheet records the children who survived to be remembered. The two missing from his ten are most likely infants who died young, which is precisely what the census's *"children born / children living"* pair exists to capture.
+
+The ten he names:
 
 | Child | Born | Married |
 |---|---|---|
 | Margaret V. | 15 Feb 1854 | John Glover |
-| **[James W.](/family/wesley-fleming/)** | 20 Dec 1855 | [Verona Belle Dunbar](/family/verona-sheppard-fleming/) |
+| **[James W.](/family/wesley-fleming/)** | 20 Dec 1857 | [Verona Belle Dunbar](/family/verona-sheppard-fleming/) |
 | Cynthia E. | 1858 | — |
 | Lewis M. | 1863 | — |
 | Ulysses Grant | 1864 | — |
@@ -59,7 +63,7 @@ Robert Earl's [sketch](/archive/thomas-bailey-fleming-biographical-sketch/) list
 | Charles M. | 5 Nov 1872 | — |
 | Elizabeth | 1876 | — |
 
-The [family GEDCOM](/docs/dale-eesley-familysearch-tree/) gives thirteen — all ten of these, plus **Henrietta** (Jun 1853), **"B. Fleming"** (1859), and **George McClellan Fleming** (5 Jul 1864). Henrietta's June 1853 birth is only eight months before Margaret's, which full siblings cannot manage, and "B." is an initial rather than a name; both look like bad attachments. George McClellan is more interesting — an 1864 brother to **Ulysses Grant Fleming**, the two of them named for the Union general and the man who ran against Lincoln that November. Twins, or a duplicate. Unresolved.
+The [family GEDCOM](/docs/dale-eesley-familysearch-tree/) gives thirteen — all ten of these, plus **Henrietta** (Jun 1853), **"B. Fleming"** (1859), and **George McClellan Fleming** (5 Jul 1864). **With Martha's own answer of twelve, these deserve a second look rather than dismissal.** Henrietta's June 1853 birth is still eight months before Margaret's, which full siblings cannot manage, and "B." is an initial rather than a name — but a household with twelve births and nine survivors has room for children the sketch never knew about. George McClellan is more interesting — an 1864 brother to **Ulysses Grant Fleming**, the two of them named for the Union general and the man who ran against Lincoln that November. Twins, or a duplicate. Unresolved.
 
 *On James's birth year — settled, and the sketch was right.* The sketch says 20 December **1857**, the GEDCOM **1855**, and this archive followed the GEDCOM on the strength of an "age 84" at death. His **[certified birth register entry](/archive/wesley-fleming-birth-certificate/)** — Doddridge County Book 1, page 9 — gives **20 December 1857**, names **Thomas** and **Martha**, and records the father's occupation as **Farmer**. The 1855 is withdrawn.
 
@@ -75,7 +79,7 @@ An unmarried woman leaving the Doddridge County hills alone for a Mississippi ri
 
 By **1880** the household had moved off the Doddridge hill farm to the **Parkersburg District of Wood County**, just outside the city limits: Thomas, Martha, and eight of the ten children, with Margaret married away and Cynthia gone to St. Louis.
 
-The **1900 census** finds him at about seventy, still working — he, Martha, and their youngest son **Floyd** renting a farm of **128 acres**. After that he disappears. Robert Earl searched and reported the result without dressing it up:
+The **1900 census** finds him at about seventy, still working — he, Martha, and their youngest son **Floyd** renting a farm of **118 acres**. After that he disappears. Robert Earl searched and reported the result without dressing it up:
 
 > *"No death record could be found for Thomas."*
 

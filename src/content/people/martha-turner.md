@@ -13,7 +13,7 @@ parents:
 spouses:
   - thomas-bailey-fleming
 status: sketch
-summary: "Chuck's maternal 3×-great-grandmother on the Fleming line. Born March 1832 in Wood County; married Thomas Bailey Fleming at Parkersburg on 28 August 1851 and raised ten children on the fifty-acre farm at Burnt Cabin Slope in Doddridge County. Still keeping house at sixty-eight in the 1900 census, on a rented 128-acre farm with her husband and their youngest son. Died 11 June 1904 in Wood County, outliving a husband whose death was never recorded."
+summary: "Chuck's maternal 3×-great-grandmother on the Fleming line. Born March 1832 in Wood County; married Thomas Bailey Fleming at Parkersburg on 28 August 1851 and raised ten children on the fifty-acre farm at Burnt Cabin Slope in Doddridge County. Still keeping house at sixty-eight in the 1900 census, on a rented 118-acre farm with her husband and their youngest son. Died 11 June 1904 in Wood County, outliving a husband whose death was never recorded."
 ---
 
 **Martha Turner** was born in **March 1832** in **Wood County**, then Virginia, the daughter of a **[John Turner](/family/john-turner/)** about whom the record says nothing else.
@@ -24,15 +24,19 @@ On **28 August 1851** she married **[Thomas Bailey Fleming](/family/thomas-baile
 
 Three years into the marriage her husband bought **fifty acres of his father's farm** on Burnt Cabin Slope, about ten miles west of West Union, and [mortgaged three-quarters of the price straight back out of it](/archive/fleming-marriage-record-and-deed/). That hill farm is where the family was raised.
 
-She bore **ten children** across roughly twenty-two years — [Robert Earl Wildermuth](/family/robert-earl-wildermuth/)'s [sketch](/archive/thomas-bailey-fleming-biographical-sketch/) names them, from Margaret in 1854 to Elizabeth in the 1870s — including **[James Wesley Fleming](/family/wesley-fleming/)**, Sadye's father and Chuck's maternal great-great-grandfather. Two of the ten were gone from the house by the 1880 census: Margaret married, and Cynthia away in St. Louis.
+She bore **twelve children, of whom nine were living in 1900** — [her own answer to the census enumerator](/archive/thomas-martha-fleming-wood-county-records/), and a better figure than any later reconstruction. Ten of the twelve are named across roughly twenty-two years — [Robert Earl Wildermuth](/family/robert-earl-wildermuth/)'s [sketch](/archive/thomas-bailey-fleming-biographical-sketch/) names them, from Margaret in 1854 to Elizabeth in the 1870s — including **[James Wesley Fleming](/family/wesley-fleming/)**, Sadye's father and Chuck's maternal great-great-grandfather. Two of the ten were gone from the house by the 1880 census: Margaret married, and Cynthia away in St. Louis.
 
 ## Still working at sixty-eight
 
 By 1880 the household had moved off the Doddridge hill farm into the **Parkersburg District of Wood County**, with eight of the ten children at home.
 
-The **1900 census** is the last clear sight of her: Thomas at about seventy, Martha at sixty-eight, and their youngest son **Floyd**, renting a farm of **128 acres**. Not owning it — renting, at that age.
+The **1900 census** is the last clear sight of her: Thomas at about seventy, Martha at sixty-eight, and their youngest son **Floyd**, renting a farm of **118 acres**. Not owning it — renting, at that age.
 
-She **died 11 June 1904** in Wood County. Her husband's death was never recorded anywhere Robert Earl could find, so she is the one of the pair with a date.
+She **died 11 June 1904** in Wood County. [The Wood County death register](/archive/thomas-martha-fleming-wood-county-records/) — Book #4, at the courthouse in Parkersburg — gives the cause as **old age** and the informant as **F. T. Fleming, her son**, almost certainly the Floyd who had been living with them. She was seventy-two.
+
+*(Robert Earl's [typescript](/docs/john-fleming-family-legacy/) says 11 June **1903**. The register says **1904**, and the register settles it.)*
+
+Her husband's death was never recorded anywhere he could find, so she is the one of the pair with a date.
 
 ## Two conflicts on the charts
 
