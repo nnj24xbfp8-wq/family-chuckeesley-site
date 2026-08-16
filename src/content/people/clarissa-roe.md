@@ -26,7 +26,13 @@ She was the eldest of six. The family left Westfield for **New York City in the 
 
 ## The woman who broke the chain of Johns
 
-On **20 January 1803** she married **[John Fleming IV](/family/john-fleming-iv/)** in the Eastern District of Harrison County. They had **thirteen children** — and it is here that she leaves her mark on the record.
+On **20 January 1803** she married **[John Fleming IV](/family/john-fleming-iv/)** in the Eastern District of Harrison County — and **the minister's own return survives**, in his hand, in [a photograph among the papers](/archive/fleming-roe-marriage-banns-1803/):
+
+> *"A list of marriages celebrated by the Reverend Benjamin Webb in the Year 1803 — **January 20 John Fleming & Clary Roe**"*
+
+She is **Clary** in the record itself. The familiar form on the charts was not a modern gloss; it is what she was called. This is the only contemporary document in the archive that names her.
+
+They had **thirteen children** — and it is here that she leaves her mark on the record.
 
 The Flemings had named their eldest son **John** for five straight generations. Clarissa's eldest son was called **Lewis**. Robert Earl puzzled over the break for years before he found her family:
 

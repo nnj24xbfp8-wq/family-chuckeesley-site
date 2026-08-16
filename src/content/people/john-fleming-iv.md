@@ -42,7 +42,7 @@ So this is not a family tradition or a chart entry. He handled the document, **f
 
 He was born **11 October 1781 in Montgomery County, Maryland**. He was **raised to adulthood in Washington County, Pennsylvania** — the family moved to the western frontier in the year of his birth, which drew Robert Earl's dry aside: *"Quite a move for a one year old son."*
 
-Then south again: on **20 January 1803** he married **[Clarissa Roe](/family/clarissa-roe/)** in the **Eastern District of Harrison County, Virginia** — now Taylor County, West Virginia. Robert Earl had **copies of the wedding banns**, and noted that they name both fathers-in-law: *"wedding bans between John Fleming and John Roe where John and Clarissa were planning a wedding."*
+Then south again: on **20 January 1803** he married **[Clarissa Roe](/family/clarissa-roe/)** in the **Eastern District of Harrison County, Virginia** — now Taylor County, West Virginia. **The minister's own return survives**, photographed among the papers: *"A list of marriages celebrated by the Reverend Benjamin Webb in the Year 1803 — January 20 John Fleming & Clary Roe."* [The document is here.](/archive/fleming-roe-marriage-banns-1803/) It is contemporary, and it is the firmest date on this page.
 
 *(The 1781 birth and the Washington County upbringing come from the same retracted charts, but they describe John IV himself rather than his ancestry, and the death record's independent "age 73" is close enough to corroborate the birth year. Held, with that caveat.)*
 
@@ -107,7 +107,9 @@ About **1838 Clarissa died**. He sold the eastern Harrison County farm **to his 
 
 In **1858** — *five years after the date given for his death, an unexplained inconsistency in the typescript* — he is said to have taken a second wife, **Susannah Prunty**, kin to the founders of Pruntytown in Taylor County.
 
-He **died 3 November 1853 at his farm on Arnold's Creek, about six miles west of West Union.**
+He **died 3 November 1853 at his farm on Arnold's Creek, about six miles west of West Union.** [His death was registered](/archive/john-fleming-death-record-1853/) by his son **Eli B. Fleming**, then twenty-two.
+
+**The ground is still there.** Robert Earl [drove into Arnold's Creek in June 1986](/archive/arnolds-creek-visit-1986/) and photographed it — a level pasture under wooded hills, with the old United Brethren church across the dirt road and the **Fleming-Gain Cemetery** on the rise beside it. The church's own history records that in 1900 the land was sold to the community for twenty-five dollars by ***"Eli B. Fleming, son of John Fleming"*** — a local record, independent of any chart, putting Eli in this family.
 
 He is **Chuck's maternal 5×-great-grandfather**: John IV → [Lewis](/family/lewis-fleming/) → [Thomas Bailey Fleming](/family/thomas-bailey-fleming/) → [James Wesley](/family/wesley-fleming/) → [Sadye](/family/sadye-fleming-wildermuth/) → [Robert Earl](/family/robert-earl-wildermuth/) → Terrie → Chuck.
 

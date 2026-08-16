@@ -7,7 +7,7 @@ dateCreated: "January 1795; proved 16 January 1797"
 sortDate: "1795-01-15"
 placeCreated: "Montgomery County, Maryland"
 idNumber: "Doc #145 · Filed FLEM 192"
-provenance: "Obtained by Robert Earl Wildermuth from the Montgomery County, Maryland probate records; in his research papers, in Chuck's keeping. Photographed 2026."
+provenance: "Original on file at the Hall of Records (Maryland State Archives), Annapolis; transcript obtained by Robert Earl Wildermuth, in his research papers, in Chuck's keeping. Photographed 2026."
 rights: "Family use; permission required for republication."
 people:
   - robert-earl-wildermuth
@@ -59,4 +59,14 @@ So the household held people in slavery, and the will freed one man and passed o
 
 Signed and sealed by **John Fleming Senr** in the presence of **James Anderson** and **Ozias Offutt**, who appeared at Montgomery County on **16 January 1797** and swore to the signature. Certified by **Saml Turner, Register**.
 
-> *Source: typed transcript of the last will and testament of John Fleming Senior, Montgomery County, Maryland, January 1795, proved 16 January 1797; marked Doc #145 / FLEM 192 in Robert Earl Wildermuth's research papers, in Chuck's keeping. Photographed 2026.*
+## Where the original is
+
+His own sources note, [on the back of the marriage-banns sheet](/archive/fleming-roe-marriage-banns-1803/), gives the repository:
+
+> *"John Fleming's Will, probated on 17 January 1797. **Will on file in the Hall Of Records, Annapolis, Maryland.**"*
+
+That is the **Maryland State Archives** — so the original is in a public repository and can be consulted today. He also credits the **Sons of the American Revolution genealogy collection at the Orlando public library**, which is where a good deal of his Maryland and Pennsylvania work was actually done, half an hour from his house.
+
+*(He writes the probate as the **17th** there; the transcript above has the witnesses appearing on the **16th**. A one-day inconsistency in his own papers, unresolved.)*
+
+> *Source: typed transcript of the last will and testament of John Fleming Senior, Montgomery County, Maryland, January 1795, proved January 1797; marked Doc #145 / FLEM 192 in Robert Earl Wildermuth's research papers, in Chuck's keeping. Photographed 2026.*
