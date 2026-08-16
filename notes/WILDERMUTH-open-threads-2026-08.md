@@ -132,7 +132,32 @@ The archive's 1855 came from an "age 84" on the death record — but Robert Earl
 - Dated **14 March 1827** — the wedding day itself
 - **Witnesses: Dempsey Welch and JAMES FLEMING**; a "Mr. John Willson" also named
 
-### ⭐⭐ THE JAMES FLEMING TRAIL — three independent sightings, added 15 Aug 2026
+### MARIETTA / GERMAN SIDE — 1900 census + Ohio death records, added 15 Aug 2026
+[Artifact](/archive/marietta-1900-census-and-death-records/)
+- **Theobald Schlicher immigrated 1852**, naturalised, occupation **fireman**, 739 Green St. Archive previously could only say "before 1861."
+- **Eva (Schmidt) Schlicher immigrated 1848** — four years ahead of him. And **"6/6"**: six children born, six living, confirming the archive's six exactly.
+- **Maggie Wildermuth, b. Nov 1891, living with the Schlicher grandparents in 1900.** 739 Green St is the Schlicher house in 1900 and William Clifford Wildermuth's address by 1914–15 — the Wildermuths moved into Flora's parents' house.
+- **NEW CHILD: a three-week-old Wildermuth baby died 2 July 1901**, cholera infantum, East Greene St (Marietta *Daily Register*). Flora's "nine children" is therefore **at least ten births**. Added to `flora-schlicher-wildermuth.md`.
+- **William Röeser & Frederica immigrated 1847** — same year as Johann Michael Wildermuth, in whose household JMW was boarding in 1860. **9 children born, 4 living.**
+- JMW's probate entry adds cause of death: **asthma**, trade **shoemaker**.
+- **Other Marietta Schlichers with no place in the archive:** Peter Sr. (merchant, d. 1903 aged 76-11-16), Peter Jr. (cigar manufacturer), Jacob (d. 1903), Fred (woodworker, d. 1905), Walter (day labourer, daughters dressmakers).
+
+### DODDRIDGE COURTHOUSE NOTES — added 15 Aug 2026
+[Artifact](/archive/doddridge-registers-deeds-and-eli-fleming-service/)
+- **Possible Mary Lake death record:** MARY FLEMING, widow, d. 25 Mar 1895, **72-6-25** (→ b. ~30 Aug 1822), b. **Preston County**, cancer of the mouth, buried **Ruley**. *Conflicts with the 1860 census age 56 (→ b. 1804) by eighteen years.* Not adopted. Ruley graveyard is where to look.
+- **ELI B. FLEMING'S CIVIL WAR SERVICE** (Harrison Co. Veteran's Historical Project form, 23 Apr 1955): enlisted **Clarksburg, Dec 1864**, **Co. G, 6th W.Va. Infantry**, rank **Sergeant**, discharged **Wheeling, 10 Jun 1865**. Lewis's half-brother, and he went Union.
+- **DEED INDEX — the fifty acres left the family.** Lewis→Thos B. (2-484), then Thos B.→Cumberledge (2-484), →Charton (3-370), →Charton (4-218), and Cassandra & Thomas J.→**Adam J. Gain** (6-91, 4 Jun 1866). Explains why Thomas Bailey Fleming was renting by 1880 and still renting in 1900. **Worth reading in full at the courthouse.**
+
+### ⭐⭐ THE JAMES FLEMING TRAIL — now FIVE sightings, added 15 Aug 2026
+
+**Two more land records** (Doddridge/Harrison abstracts):
+4. **Ann Fleming → James Fleming Jr.**, 3-329, **17 Apr 1798**, **215 acres**
+5. **Ann & Fleming → James Fleming**, 23-93, **8 Oct 1833**, **127 acres on SIMPSON CREEK** — the very place Lewis Fleming was born "on his father's farm"
+
+Also: *"William Flemming & wife to James Fleming — Deed, 29th day of December…"*
+Note the recurring **Ann Fleming** — the name given as John Fleming IV's consort on his 1853 death record, and a grantor here in 1798 and 1833.
+
+
 
 The Nov 1998 retraction asserts James Fleming as progenitor and never demonstrates it. **The papers contain three separate James Fleming contacts with the documented family, and Robert Earl never connected them in writing:**
 

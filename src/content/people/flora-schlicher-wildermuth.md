@@ -44,6 +44,18 @@ Flora **stands at the left** in the family's **[c. 1915 studio portrait](/archiv
 
 ## The 1919 death
 
+## The child of July 1901
+
+The Marietta *Daily Register* of **2 July 1901** carried four lines the archive had never seen — reported in [Robert Earl's abstracts](/archive/marietta-1900-census-and-death-records/):
+
+> *"**WILDERMUTH CHILD.** The three week old child of Mr. and Mrs. William Wildermuth, on East Greene, died this morning of **cholera infantum**. The parents have the sympathy of all in their sad affliction."*
+
+**A baby born to Flora about 11 June 1901, dead on 2 July.** No name is given — three weeks was not always long enough for one. *Cholera infantum* was the summer diarrhoeal disease that killed infants in American river towns by the thousand before clean milk and refrigeration; July was its season, and East Greene Street was where the family lived.
+
+The archive counts Flora's children as **nine**. This one is not among them, so the true figure is **at least ten births**. Her daughter [Margaret](/archive/marietta-1900-census-and-death-records/), nine years old that summer, had been living with her Schlicher grandparents at 739 Green Street the year before.
+
+## The 1919 death
+
 She died **18 November 1919** in Marietta at age **49** — a death well before her time by modern standards, twenty-four years before her husband would die in 1943. Cause of death is open in the GEDCOM; the late-1919 timing is consistent with the **1918–1919 influenza pandemic**'s final wave, which continued to claim American victims into late 1919 and early 1920, but other causes are equally possible. By 1919 the **three eldest** — the children of the [c. 1896 group portrait](/archive/william-wildermuth-family-group-portrait/) — were well into adulthood: Charles 30, Margaret 28, Emma 26. Her sixth child **Earl Adam** was twenty. *(This sentence formerly read "her three children," a holdover from when the archive knew only the three in that portrait; she had nine.)*
 
 She was buried in **Section C, Lot 30** at Oak Grove Cemetery, in a two-grave lot her husband [William Clifford](/family/william-wildermuth/) would join in 1943. The **[cemetery register](/archive/oak-grove-cemetery-burials-1985/)** records no marker on it: *"No stones on lot."* The register also gives her burial as **23 November 1919** and her age as **50**, against the archive's 21 November and 49 — small clerical differences, neither better sourced than the other.
