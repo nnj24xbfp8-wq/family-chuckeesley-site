@@ -123,6 +123,16 @@ Patrick is on this page's child list — *"born 23 Nov 1813, married Harriet Lak
 
 So beyond the consent note, there is an **independent civil record naming John and Clara Fleming as parents** of one of the thirteen. Two documents from two courthouses, and they hold.
 
+## A farm bought for one dollar
+
+Writing to a Bartlett researcher in [May 1998](/archive/wildermuth-email-bartlett-researcher-1998/), Robert Earl described how John came by his land:
+
+> *"…married Clarissa Roe, who **bought a 168½ acre farm from James Fleming for a dollar**. An old custom … where to make the deal legal something of value had to change hands. In 1838, he sold this farm for $2,000 to his two sons, John and Patrick."*
+
+**One dollar for 168½ acres is not a sale, it is a gift** — a transfer between people who owed each other something, made in the form of a deed so it would hold. And the man making it is a **James Fleming**, around the time of the 1803 marriage.
+
+That is the second of three places a James Fleming touches this household: he also [witnessed the 1827 consent](/archive/john-fleming-consent-note-1827/), and a note on the 1850 Harrison abstract records a James Fleming's daughter marrying a Bartlett in 1824. Given that the [1998 retraction](/archive/fleming-retraction-1998/) names a James Fleming as the family's true progenitor and never shows the connection, **the c. 1803 Harrison County deed for those 168½ acres is the most promising unexamined record in this line.** A one-dollar conveyance usually names the relationship.
+
 ## Not yet checked: the slave schedules
 
 He was a landholder in western Virginia through the 1830s, 40s and early 50s, described by his own descendant as **"known as a land baron"** — a man who used surveying work to accumulate acreage in Harrison and Doddridge Counties.

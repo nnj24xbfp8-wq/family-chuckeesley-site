@@ -1,5 +1,5 @@
 ---
-title: "The Taylor County census abstracts, 1850 and 1860 — \"Son of John Fleming\" in his own hand"
+title: "The census abstracts — every Fleming household in Taylor and Harrison Counties, 1850–1880"
 type: "Document"
 image: ../../assets/family/originals/fleming-1860-taylor-census-abstract.jpeg
 medium: "Handwritten research notes in red ink on legal pad, with annotations"
@@ -17,7 +17,9 @@ people:
   - clarissa-roe
 ---
 
-Four sheets of yellow legal pad in red ink: **every Fleming household in Taylor County in 1850 and 1860**, copied out by hand, with property values, marriage dates and his own notes squeezed into the margins. This is the raw research behind the finished charts, and it is more useful than they are.
+Sheet after sheet of yellow legal pad in red ink: **every Fleming household in Taylor and Harrison Counties across four censuses — 1850, 1860, 1880** — copied out by hand, with property values, occupations, marriage dates and his own notes squeezed into the margins. This is the raw research behind the finished charts, and it is more useful than they are.
+
+He was not tracing his own line through these. He was **copying down every Fleming in two counties** and then working out which ones were his — which is why the sheets carry stars, question marks, crossings-out and the occasional **"ENTER"** ringed in red.
 
 ## The line that matters
 
@@ -64,4 +66,29 @@ The 1850 and 1860 abstracts together are a census of the whole Fleming settlemen
 
 The working marks are all over the pages — **"ENTER"** circled in red where something needed keying into the database, dates crossed out and rewritten, question marks against names he could not read twice the same way. One household appears twice under different readings, as *"Minor S. Fleming / Matilda"* and *"Alan S. Fleming / Amalia"*, with the same six children — the same family, transcribed on two different days.
 
-> *Source: four sheets of handwritten census abstracts for Taylor County, Virginia (West Virginia), 1850 and 1860, from Robert Earl Wildermuth's research papers; in Chuck's keeping. Photographed 2026.*
+## The Kelley sheets — his own stars again
+
+The 1860 Taylor sheets carry the **Kelley** side as well, and he marked those the same way:
+
+> **JOHNSON KELLEY** — 50, born 1810 — with **Nancy**, 35, noted as *"second wife"*, and children **California**, 13, and one more
+>
+> *✱ **Martha Kelley** — GREAT GRANDMOTHER*
+> *✱✱ **Johnson Kelley** — GREAT-GREAT GRANDFATHER*
+
+[Johnson Kelley](/family/johnson-kelley/)'s page already records him as widowed with ten children at the 1850 Barbour County census; here he is ten years on with a **second wife, Nancy**, and the daughter named **California** still at home. A struck-through line beside the Kelleys touches [Verona Belle's parentage](/family/verona-sheppard-fleming/) — he was working that question on the same page.
+
+## Harrison County, and another James Fleming
+
+The Harrison County sheets run 1850, 1860 and 1880 and are dominated by Flemings this archive has no place for yet — **Marshall T.**, **Solomon**, **William H.**, **Zachariah**, **Henry T.** the railroad engineer, **Benjamin** the conductor at West Grafton. The 1850 sheet is headed, in the corner, **"ABSOLUTE."**
+
+Two entries reach the documented line:
+
+**John Fleming, 37, born 1813, "married Mary A. Fleming 12 Apr 1838."** That is [John Fleming IV's son John](/family/john-fleming-iv/) — the twin of Patrick — and the typescript's puzzling entry *"John Fleming born 23 Nov 1813; married **Mary A. Fleming**"* turns out to be exactly what the census says. A Fleming married a Fleming. Their children in 1850: Lewis G., Martin V., Susannah, Virginia, Robert.
+
+**And in blue ink at the foot of the 1850 Harrison sheet, a note in a different session:**
+
+> ***"James Fleming had daughter named Mary who married Samuel Bartlett 16 Apr 1824"***
+
+A third James Fleming datum, and it runs into the Bartletts — the family that also gave [Nancy Bartlett](/family/nancy-bartlett/) to Thomas Bailey and Matilda Bartlett to Minor S. Fleming. Between this, [the 168½-acre farm sold for a dollar](/archive/wildermuth-email-bartlett-researcher-1998/) and [the 1827 consent witness](/archive/john-fleming-consent-note-1827/), **a James Fleming keeps appearing at the edge of this family's business** — which is the claim the [1998 retraction](/archive/fleming-retraction-1998/) makes and never proves.
+
+> *Source: handwritten census abstracts for Taylor and Harrison Counties, Virginia (West Virginia), 1850, 1860 and 1880, from Robert Earl Wildermuth's research papers; in Chuck's keeping. Photographed 2026.*

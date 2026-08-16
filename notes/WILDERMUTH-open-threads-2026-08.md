@@ -132,6 +132,16 @@ The archive's 1855 came from an "age 84" on the death record — but Robert Earl
 - Dated **14 March 1827** — the wedding day itself
 - **Witnesses: Dempsey Welch and JAMES FLEMING**; a "Mr. John Willson" also named
 
+### ⭐⭐ THE JAMES FLEMING TRAIL — three independent sightings, added 15 Aug 2026
+
+The Nov 1998 retraction asserts James Fleming as progenitor and never demonstrates it. **The papers contain three separate James Fleming contacts with the documented family, and Robert Earl never connected them in writing:**
+
+1. **A 168½-acre farm conveyed from JAMES FLEMING to John Fleming for ONE DOLLAR**, c. 1803 (from the [6 May 1998 email](/archive/wildermuth-email-bartlett-researcher-1998/)). Nominal consideration = a family transfer dressed as a sale. John later sold this same farm for $2,000 to sons John and Patrick in 1838.
+2. **A JAMES FLEMING witnessed the 1827 consent** ([artifact](/archive/john-fleming-consent-note-1827/)) alongside Dempsey Welch.
+3. **"James Fleming had daughter named Mary who married Samuel Bartlett 16 Apr 1824"** — blue-ink note on the 1850 Harrison County abstract, tying a James Fleming to the Bartletts.
+
+**Next step:** the c.1803 deed for the 168½ acres, Harrison County. A one-dollar conveyance names both parties and often states the relationship. That deed may be the whole answer.
+
 **⭐ THE JAMES FLEMING WITNESS.** The Nov 1998 retraction makes *a James Fleming* the true progenitor. Here is a James Fleming close enough to the household to witness John's consent for his son, in 1827, in Harrison County. **Not proof** — the name is everywhere in these families and Robert Earl warned about it — but this is the kind of place the connection would surface. Worth pursuing alongside the missing 10-generation chart and the contested pension file.
 
 **THREE MORE STATEMENTS OF THE PARENTAGE**, all in his own working papers ([census abstracts artifact](/archive/fleming-taylor-county-census-abstracts/)):
