@@ -68,8 +68,30 @@ Signed twice. **Not Edward.** `lewis-fleming.md` corrected; `john-fleming-iv.md`
 
 *Caveat:* this is Robert Earl's **transcription**, not the original. The Harrison County 1827 marriage bonds/consents still worth pulling.
 
-### Still to enter as pages (no longer gated)
-John Fleming Sr. & Jean · John Fleming Jr. & Anne White · John Fleming III & Nancy Ann Hopkins · Robert White & Anne Burgess · John Hopkins & Eleanor Wallace · John Roe & Susannah Meeks. All richly documented in the typescript.
+### ⚠ DO NOT ENTER THE MARYLAND/IRELAND GENERATIONS — retracted by Robert Earl himself
+
+**27 November 1998 letter, "STOP THE PRESSES!"** ([artifact](/archive/fleming-retraction-1998/)): *"our oldest of Fleming ancestors were not 4 guys named John."* A well-sourced 1941 genealogy — **"A Fleming Family with Colonial Ancestors in Virginia, Maryland and Pennsylvania," William Allen & William Alpheous Fleming** — convinced him **"our John IV was not the son of John III of Pennsylvania."** Instruction: remove John Jr. and John III, **insert James Fleming**.
+
+So **withdrawn**: John Fleming Sr. (Ballyclare), Jean, John Fleming Jr. (Cabin John), Anne White, John Fleming III, Nancy Ann Hopkins, Robert White, Anne Burgess, John Hopkins, Eleanor Wallace. **No pages. Artifacts flagged.**
+
+**Still fine to enter:** John Roe & Susannah Meeks (Clarissa's parents — unaffected by the retraction).
+
+**THE MISSING ENCLOSURE.** He wrote that he enclosed *"a 10 generation Pedigree Chart and a rundown on James Fleming."* **Not photographed.** That is the single most valuable item still in the folder — it contains his final answer. Worth hunting.
+
+**What's known of James Fleming** (from the 29 Sept 1998 letter, written while he still held the four-Johns view, so treat with care):
+- land dealer in Frederick Co. MD, Hampshire and Harrison Co. VA; 1st wife **Ann Johnson**
+- sold land to the captain of his own Revolutionary company
+- gave/sold land cheaply to several Fleming families in Eastern District Harrison Co.
+- **died 1833 aged 88** (→ b. ~1745), left a will — *"I've sent for it"*
+- reputedly acquainted with the Madisons and Stonewall Jackson's father, Clarksburg area
+- CAUTION: several James Flemings, incl. a notorious Tory of Frederick Co.
+
+### Other new material, 15 Aug 2026
+- **John Fleming IV's death record** ([artifact](/archive/john-fleming-death-record-1853/)): informant **Eli B. Fleming, son**. Explains where "Hampshire County" came from — the register says it, Robert Earl starred it as wrong. Also *"Consort of Ann Fleming"* — an unidentified wife.
+- **John IV may have had three wives.** April 1995 letter: *"Old John (1781) must have married three times and perhaps wife number two was indeed a Susannah Bee"* — with **Eli B. (1831) and Sarah (1834) probably NOT Clarissa's.**
+- **The 1803 marriage banns survive in copy** (John Fleming / John Roe). Worth obtaining.
+- **Verona's 1922 obituary** reconciles the courthouse-steps story: apoplexy = stroke, twelve weeks' illness, died at home. Collapse was the onset, ~early August 1922. Confirms b. 11 June 1869, age 53.
+- **Stuttgart State Archives** visit confirmed (1995 letter) — records in old German script, archivist advised writing ahead.
 
 ### New research leads from the typescript
 - **"Bailey vs. Bailey"** chancery file, **Taylor County Court House, Grafton WV, box 2**

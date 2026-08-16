@@ -29,6 +29,12 @@ It reads like the [1988 Little Histories](/docs/robert-earl-wildermuth-little-hi
 
 **→ [The complete transcription is here](/docs/john-fleming-family-legacy/)** — all thirteen pages, verbatim.
 
+> ## ⚠ He retracted the oldest generations later the same year
+>
+> On **27 November 1998** he withdrew the four-Johns lineage that opens this typescript — *"our oldest of Fleming ancestors were not 4 guys named John"* — instructing that **John Fleming Jr. and John Fleming III be removed** and James Fleming inserted. **[The retraction is here.](/archive/fleming-retraction-1998/)**
+>
+> Pages 1–3 should therefore be read as his March-1998 position. **Everything from [John Fleming IV](/family/john-fleming-iv/) forward — the 1827 consent, the Roes, the Baileys, the Bartletts, the Kelleys, the Fleming Fables — is unaffected.**
+
 ## Why he did it
 
 Page 11 gives the reason, and it is the closest thing in the papers to a statement of purpose for the entire twenty-year search:

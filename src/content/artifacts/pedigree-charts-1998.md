@@ -39,6 +39,12 @@ Five sheets in a different format from everything else in the papers: **LDS-stan
 
 They answer the question this archive had explicitly put on hold — and they carry the Fleming line **out of America altogether**, to a town in County Antrim.
 
+> ## ⚠ He retracted the top of this eight months later
+>
+> On **27 November 1998** Robert Earl wrote *"STOP THE PRESSES!"* and withdrew the generations above John Fleming IV: **"our John IV (my designation) was not the son of John III of Pennsylvania."** John Fleming Jr. and John Fleming III were to be **removed** and **James Fleming** put in their place — which takes **Ballyclare, Jean, the Cabin John plantation, the Whites and the Hopkinses** with them.
+>
+> **[The retraction is here.](/archive/fleming-retraction-1998/)** Read Charts 2, 4 and 5 below as **what he believed in March 1998**, not as his conclusion. Chart 1 (Sadye), Chart 3 (Bailey/Bartlett) and John Fleming IV himself are untouched by it.
+
 **The chain of sheets:** Chart 1 (Sadye) → Chart 2 (Lewis Fleming) → Chart 3 (Synthia Bailey) → Chart 4 (John Fleming Jr.) → Chart 5 (Anne White). Each header states which numbered person on which earlier chart it continues from. *Whether the series stops at five is unknown; only these five have been photographed.*
 
 ## Chart No. 2 — Lewis Fleming's ancestry

@@ -46,6 +46,18 @@ Verona bore **fourteen children** across roughly a quarter-century (ten still li
 
 She died **27 October 1922 in Marietta, Ohio** at age 53 (the family had moved across the Ohio River to Marietta about eleven years earlier). Her death certificate gives the cause as **apoplexy** — after a roughly two-month illness that the record also ties to **typhoid fever** — and Robert Earl's account adds the stark image that she collapsed **as she climbed the steps of the Washington County Courthouse in Marietta**. Burial was on 30 October back across the river at **Mount Pleasant, West Virginia**, the informant her husband Wesley. The West-Virginia burial is one of the small signals that the Fleming side kept identifying with West Virginia even after relocating to Ohio for work.
 
+### The obituary reconciles the courthouse story
+
+The **contemporary notice in the *Marietta Times* of 28 October 1922**, headed *"Mrs. Fleming Taken,"* had looked at first as though it contradicted the family account. It reports that she died **at her home** on Putnam Avenue in **Harmar**, at **6 a.m. Friday**, *"following a twelve weeks' illness of apoplexy,"* born **11 June 1869** in Wood County, and that the family had lived in Marietta for **the last eleven years**.
+
+**Both are true, and together they make sense of each other.** *Apoplexy* is a stroke. Twelve weeks before 27 October 1922 is **early August** — so the collapse on the courthouse steps was the **onset**, not the death: she had the stroke there, was ill for three months, and died at home in the early hours of a Friday. *(27 October 1922 was indeed a Friday.)*
+
+The notice also settles her age. It gives **11 June 1869**, matching this archive, against the **14 June** in [Robert Earl's own typescript](/docs/john-fleming-family-legacy/) — and **53**, where his typescript says 52.
+
+**Seven surviving children** are named, and the list is a small map of where the family had scattered by 1922: **Walter** at Columbus, **Howard** at Newark, **Ditha and Laverna** still at home, **Mrs. E. A. Wildermuth** — [Sadye](/family/sadye-fleming-wildermuth/), married ten months — and **Mrs. George Becker** at Marietta, and **Mrs. W. L. Eagle** at Parkersburg. *"Funeral plans are not announced."*
+
+Seven of fourteen surviving, and she was fifty-three.
+
 Robert Earl Wildermuth was born 6 October 1924 &mdash; *two years* after Verona's death. He never met her.
 
 ## The lament &mdash; the only memoir trace of Verona

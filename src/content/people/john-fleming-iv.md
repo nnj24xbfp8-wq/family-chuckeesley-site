@@ -24,11 +24,21 @@ The correction comes from his own signature. In 1827 his son Lewis needed writte
 
 **The numeral is not his.** Robert Earl added it himself — *"the junior part is of my choosing for the sake of keeping all of the Johns straight"* — because this family produced five consecutive Johns and no contemporary distinguished them.
 
-## Maryland boy, Pennsylvania frontier, Virginia farm
+## His own ancestry is unresolved — and his researcher said so
 
-He was born **11 October 1781 in Montgomery County, Maryland**, into the tobacco country his grandfather had prospered in. He did not stay: **in the year he was born**, his father [John Fleming III](/archive/john-fleming-family-legacy/) moved the household — along with his father-in-law John Hopkins and *"several of the Wallaces and Whites"* — to **Fallowfield Township, Washington County, Pennsylvania**, on the western frontier. Robert Earl's dry aside: *"Quite a move for a one year old son."*
+> **Retracted.** This page originally traced him back through **John Fleming III**, **John Fleming Jr.** of Cabin John, and **John Fleming Sr.** of **Ballyclare, County Antrim**, on the authority of the [March 1998 pedigree charts](/archive/pedigree-charts-1998/) and the [Family Legacy typescript](/docs/john-fleming-family-legacy/).
+>
+> **Robert Earl Wildermuth withdrew that line on 27 November 1998**, eight months after printing it — *"Gross error in our Fleming family lineage but recoverable. I just learned that our oldest of Fleming ancestors were not 4 guys named John."* A well-sourced 1941 genealogy convinced him that **"our John IV (my designation) was not the son of John III of Pennsylvania,"** and he instructed that John Jr. and John III be **removed** and **James Fleming** inserted instead. [The letter is here.](/archive/fleming-retraction-1998/)
+>
+> **So his parents are not known in this archive.** The 1853 death register records the family's own answer — *"John & A. Fleming"* — which is the same four-Johns tradition he tested and rejected. He believed the answer was a James Fleming and enclosed a ten-generation chart to prove it; **that enclosure has not been found.**
 
-So he was **raised in western Pennsylvania** during the years his father and grandfather-in-law were serving in the county militia against raids along the Ohio. Then south again: on **20 January 1803** he married **[Clarissa Roe](/family/clarissa-roe/)** in the **Eastern District of Harrison County, Virginia** — now Taylor County, West Virginia.
+## Pennsylvania frontier, Virginia farm
+
+He was born **11 October 1781 in Montgomery County, Maryland**. He was **raised to adulthood in Washington County, Pennsylvania** — the family moved to the western frontier in the year of his birth, which drew Robert Earl's dry aside: *"Quite a move for a one year old son."*
+
+Then south again: on **20 January 1803** he married **[Clarissa Roe](/family/clarissa-roe/)** in the **Eastern District of Harrison County, Virginia** — now Taylor County, West Virginia. Robert Earl had **copies of the wedding banns**, and noted that they name both fathers-in-law: *"wedding bans between John Fleming and John Roe where John and Clarissa were planning a wedding."*
+
+*(The 1781 birth and the Washington County upbringing come from the same retracted charts, but they describe John IV himself rather than his ancestry, and the death record's independent "age 73" is close enough to corroborate the birth year. Held, with that caveat.)*
 
 ## The surveyor who became a land baron
 
@@ -58,6 +68,18 @@ By Clarissa, thirteen — including twins, and two children sharing a birthday e
 **There is the Edward.** Lewis's brother, ten years younger, on the same farm in the same county — and he married a **Turner**, as Lewis's own son [Thomas Bailey Fleming](/family/thomas-bailey-fleming/) later would. An Edward Fleming of Simpson Creek existed; he was simply not anybody's father here.
 
 *Two of the thirteen are marked with an asterisk on the typescript, and one entry — John, b. 1813, "married Mary A. Fleming" — has him marrying a woman of his own surname. Both unexplained.*
+
+### Not all thirteen were Clarissa's
+
+Robert Earl came to doubt the last two himself. Writing to cousins in **April 1995** he agreed with their reasoning:
+
+> *"I certainly agree with your rationale that Clary (Roe) Fleming was most likely not the mother of Eli B. and/or Sarah. **Old John (1781) must have married three times** and perhaps wife number two was indeed a Susannah Bee."*
+
+So the household may run **Clarissa Roe → a possible Susannah Bee → Susannah Prunty (1858)**, with **Eli B.** (1831) and **Sarah** (1834) belonging to the second wife rather than the first. Unproven, and his own phrasing is careful — *"must have," "perhaps."*
+
+**What he was certain of was his own descent**, and it is worth having in his words:
+
+> *"Glad I don't have to ponder over that one for my line parted with the birth of my great, great grandfather, **Lewis B. who was the son of John and Clary.** Born a couple of years after their marriage."*
 
 ## Arnold's Creek
 
