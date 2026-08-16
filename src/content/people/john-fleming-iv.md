@@ -22,6 +22,12 @@ The correction comes from his own signature. In 1827 his son Lewis needed writte
 
 *(The Edward the archive had inherited was real, but a generation out of place: **Edward Fleming, b. 2 July 1817**, was Lewis's younger brother. See below.)*
 
+**And he found the original.** Writing to cousins, he described where it came from:
+
+> *"I've enclosed a sort of cute note that **our John (b. 1781)** scrawled to the 'County Clarke' giving permission … to 'go out from under my house' (I think he meant from under his roof) to get married. **Found this note filed with my grandfather Lewis' marriage banns in the Harrison County Court House.**"*
+
+So this is not a family tradition or a chart entry. He handled the document, **filed where it should be** — with the 1827 marriage banns in the Harrison County courthouse — and he attributes it explicitly to *"our John (b. 1781)."* That is the strongest single piece of evidence on this page.
+
 **The numeral is not his.** Robert Earl added it himself — *"the junior part is of my choosing for the sake of keeping all of the Johns straight"* — because this family produced five consecutive Johns and no contemporary distinguished them.
 
 ## His own ancestry is unresolved — and his researcher said so
@@ -69,13 +75,21 @@ By Clarissa, thirteen — including twins, and two children sharing a birthday e
 
 *Two of the thirteen are marked with an asterisk on the typescript, and one entry — John, b. 1813, "married Mary A. Fleming" — has him marrying a woman of his own surname. Both unexplained.*
 
-### Not all thirteen were Clarissa's
+### Not all thirteen were Clarissa's — and there is a record
 
-Robert Earl came to doubt the last two himself. Writing to cousins in **April 1995** he agreed with their reasoning:
+His cousin **[Charlotte Fleming](/archive/charlotte-fleming-correspondence-1995/)** put the case to him in April 1995, and it rests on a primary document: **Eli B. Fleming's own marriage certificate**, dated **17 March 1903**, when he married his second wife Hannah Swiger at seventy-two. It names his parents as **John F. Fleming and *Susan* Fleming**, and his birthplace as Doddridge County.
 
-> *"I certainly agree with your rationale that Clary (Roe) Fleming was most likely not the mother of Eli B. and/or Sarah. **Old John (1781) must have married three times** and perhaps wife number two was indeed a Susannah Bee."*
+**Eli named his mother as Susan.** Charlotte added the arithmetic — Clarissa's first child was born in 1804, which puts her in her late forties and early fifties at Eli's 1831 and Sarah's 1834 births, *"possible but not likely"* — and the observation that had always nagged at them:
 
-So the household may run **Clarissa Roe → a possible Susannah Bee → Susannah Prunty (1858)**, with **Eli B.** (1831) and **Sarah** (1834) belonging to the second wife rather than the first. Unproven, and his own phrasing is careful — *"must have," "perhaps."*
+> *"We have always wondered where the middle name '**Bee**' came from for Eli … it makes more sense that he was named for his mother's maiden name."*
+
+A **Susan Bee**, in other words, with her surname carried as her son's middle name — the same custom that produced [Thomas **Bailey** Fleming](/family/thomas-bailey-fleming/) two generations later.
+
+Robert Earl agreed at once: *"Old John (1781) **must have married three times** and perhaps wife number two was indeed a Susannah Bee."*
+
+**So the household most likely runs Clarissa Roe → a Susan Bee → Susannah Prunty**, with **Eli B.** (1831) and **Sarah** (1834) belonging to the middle wife. Charlotte also found the **Prunty marriage recorded in 1847** — not 1858 as the typescript says, which would have placed it five years after his death.
+
+*Unproven where it matters — no one has produced a marriage record for a Susan Bee — but the 1903 certificate is a real document and it does not say Clarissa.*
 
 **What he was certain of was his own descent**, and it is worth having in his words:
 

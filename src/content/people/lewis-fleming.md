@@ -39,7 +39,13 @@ Twice in four lines. Lewis's father was **John Fleming IV** — born 11 October 
 
 **What does not survive:** the Revolutionary soldier. A man born in 1781 cannot have fought in that war. The Revolutionary service in this line belongs to Lewis's **great-grandfather John Fleming III**, who served in the 5th Battalion, Washington County Militia, and to his **maternal grandfather John Roe**, who enlisted in 1779 and was at Yorktown under Lafayette.
 
-*One caution:* what this archive has is Robert Earl's **transcription** of the note, not the note. He was a careful and self-correcting researcher, and he was reading a document he had gone to some trouble to obtain — but the original is in the Harrison County records and has not been seen here.
+**He found it in the courthouse, filed where it belonged.** In a letter to Fleming cousins he says so directly:
+
+> *"Found this note filed with **my grandfather Lewis' marriage banns in the Harrison County Court House**."*
+
+— and attributes it to *"our John (b. 1781)."* So the note was not a family keepsake or a secondhand report: it was in the county's own 1827 marriage file, alongside Lewis's banns, and Robert Earl had it copied.
+
+*One caution remains:* what this archive holds is his **transcription**, not the document. The original should still be in the Harrison County marriage bonds and consents for 1827.
 
 ## The 1827 marriage and the move to Arnold's Creek
 

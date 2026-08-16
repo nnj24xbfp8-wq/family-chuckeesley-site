@@ -86,6 +86,28 @@ So **withdrawn**: John Fleming Sr. (Ballyclare), Jean, John Fleming Jr. (Cabin J
 - reputedly acquainted with the Madisons and Stonewall Jackson's father, Clarksburg area
 - CAUTION: several James Flemings, incl. a notorious Tory of Frederick Co.
 
+### The 1995 Charlotte Fleming correspondence — added 15 Aug 2026
+
+Cousin **Charlotte Fleming**, 8521 E. Shiloh St, Tucson AZ (husband Dick; both raised in Clarksburg). Four letters Mar–Apr 1995. [Artifact](/archive/charlotte-fleming-correspondence-1995/).
+
+**ELI B.'s MOTHER WAS PROBABLY NOT CLARISSA.** Primary evidence: **Eli B. Fleming's marriage certificate to 2nd wife Hannah Swiger, 17 March 1903** — parents given as **John F. Fleming and SUSAN Fleming**, b. Doddridge Co., his age 72, hers 43. Plus the middle name "Bee" = probably mother's maiden name (**Susan Bee**; info via Sherrie Kumke ← Joy Gilchrist). Robert Earl agreed: *"Old John (1781) must have married three times."*
+→ Reading now on the pages: **Clarissa Roe → Susan Bee → Susannah Prunty**, with Eli B. (1831) and Sarah (1834) to the middle wife.
+→ **Prunty marriage was 1847**, per Charlotte's record search — NOT 1858 as the typescript says (which post-dates John's death).
+→ **Still needed:** a marriage record for John Fleming & Susan Bee.
+
+**THE 1827 CONSENT — he handled the original.** *"Found this note filed with my grandfather Lewis' marriage banns in the Harrison County Court House,"* attributed to *"our John (b. 1781)."* So it sat in the county's own 1827 marriage file. Original still to be pulled.
+
+**THE 1820 ROE DEED** ([artifact](/archive/roe-rosier-deed-1820/)) — oldest original on the Fleming side. A. Rosier & John Roe → J. Lang, 100 acres, Harrison Co., 7 Oct 1820; privy examination of Susannah 26 May 1821; recorded 18 Jun 1821. **John AND Susannah Roe both signed; Rosier made a mark.** Came via the Harrison County Genealogical Society newsletter. *Identification of "the" John Roe rests on no other Roe family being in the county — likely, not proven.*
+
+**Leads not yet chased:**
+- **A telegram to Eli B. Fleming about the capture of his brother Thomas during the Civil War** — held by **Erma Brackin**, Eagle Lake FL, daughter of Arch Fleming. Not in this archive.
+- **Arch Fleming** — State Representative, lost both legs in a train accident, retired to Tampa, 30+ years of research. Robert Earl: *"most of it that I've come across has checked out to a T."* Much of the four-Johns material descends from him via Mike Roberts.
+- **Jennie Brown**, descendant of Sarah Fleming & Oliver Dotson; wrote a book on her grandfather **Clinton Dotson, executed for allegedly arranging his father's murder in South Dakota.**
+
+**CAUTION — a separate Fleming line.** **Boaz Fleming**, credited as founder of **Fairmont WV**, son of a William Fleming who reached the Delaware Colony c.1740 and settled Kent County. Robert Earl: *"no close family ties even though both are Scotchmen named Fleming."* Do not merge.
+
+**Why the PA research stalled:** the Pennsylvania Archives at Harrisburg *"wouldn'y even tell me if they had a will for John … not a genealogic gathering entity."* He never got to Lancaster or Washington County in person.
+
 ### Other new material, 15 Aug 2026
 - **John Fleming IV's death record** ([artifact](/archive/john-fleming-death-record-1853/)): informant **Eli B. Fleming, son**. Explains where "Hampshire County" came from — the register says it, Robert Earl starred it as wrong. Also *"Consort of Ann Fleming"* — an unidentified wife.
 - **John IV may have had three wives.** April 1995 letter: *"Old John (1781) must have married three times and perhaps wife number two was indeed a Susannah Bee"* — with **Eli B. (1831) and Sarah (1834) probably NOT Clarissa's.**

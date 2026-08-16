@@ -34,7 +34,21 @@ The Flemings had named their eldest son **John** for five straight generations. 
 
 Her brother **Lewis Roe** was born 23 August 1784. Her sister **Elizabeth** in 1788, her brother **Edward** in 1791, her brother **James** in 1797 — and John and Clarissa's own children include an Elizabeth, an Edward and a James. A century-old Scottish naming custom gave way to a New Jersey woman's family, and **[Lewis Fleming](/family/lewis-fleming/)** carried a Roe name into West Virginia because of it.
 
-She **died about 1838**, after which her husband sold the eastern farm and moved west to Arnold's Creek. No death date, no burial place, and no birth record beyond the chart's precise 18 June 1782.
+## Her parents' own handwriting
+
+The one document in this archive that touches her family directly is **[a deed of 7 October 1820](/archive/roe-rosier-deed-1820/)** — a hundred acres in Harrison County conveyed by Andrew Rosier and **John Roe** to a J. Lang. At the foot of it, **both her father and her mother signed their own names**, each with a seal, where their co-grantor Rosier could manage only a mark.
+
+Robert Earl Wildermuth thought that the most telling thing he had found about them: *"A personal seal was a sign of a refined, cultured person … [the Scotch-Irish] first built a church (Presbyterian) and then a school."*
+
+The deed also puts **Susannah alive in May 1821**, when the justices examined her *"privily and apart from her husband"* to confirm she had signed the dower release willingly — the only glimpse of Clarissa's mother as a person acting in the record.
+
+## Her death, and how many children were hers
+
+She **died about 1838**, after which her husband sold the eastern farm and moved west to Arnold's Creek. No death date, no burial place, and no birth record beyond the chart's precise 18 June 1782. Robert Earl narrowed it a little in 1998: *"I believe Clarissa died in the Eastern District of Harrison Co. sometime in the 1830s just before John sold his farm in 1838."*
+
+**She was probably not the mother of all thirteen.** The [1998 typescript](/docs/john-fleming-family-legacy/) assigns her every one of John's children, but **Eli B. Fleming's 1903 marriage certificate names his mother as *Susan***, and Robert Earl came to accept that John *"must have married three times."* On that reading the last two — **Eli B.** (1831) and **Sarah** (1834) — belong to a later wife, and Clarissa's family ends around 1823. [The reasoning is here.](/archive/charlotte-fleming-correspondence-1995/)
+
+That does not touch her own line to Chuck, which runs through **Lewis**, born within a few years of the 1803 marriage — as Robert Earl put it, *"Lewis B. who was the son of John and Clary. Born a couple of years after their marriage."*
 
 She is **Chuck's maternal 5×-great-grandmother**: Clarissa → [Lewis](/family/lewis-fleming/) → [Thomas Bailey Fleming](/family/thomas-bailey-fleming/) → [James Wesley](/family/wesley-fleming/) → [Sadye](/family/sadye-fleming-wildermuth/) → [Robert Earl](/family/robert-earl-wildermuth/) → Terrie → Chuck.
 
