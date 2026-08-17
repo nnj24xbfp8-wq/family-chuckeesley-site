@@ -56,6 +56,10 @@ The register names him **"Jno. Wesley Fleming."** *Jno.* is the standard ninetee
 
 Every other source in this archive, including Robert Earl's own typescripts, calls him **James** Wesley Fleming. He was known in the family simply as **Wesley**, which may be why the first name drifted. Complicating it: a later brother is recorded as **John E. Fleming**, born 26 October 1866, so the household would have held two Johns.
 
-Possibilities, none settled: the register recorded John and the family used James; the 1984 clerk expanded an ambiguous abbreviation; or the child was registered under one name and grew up with another. **Recorded as written.** Robert Earl held this certificate for the last twenty years of his life and went on calling him James, which suggests he had reason to.
+> **Resolved.** The **[Doddridge County birth register itself](/archive/doddridge-births-harrison-marriages-hampshire-research/)** — transcribed elsewhere in the same papers — lists the child born **20 December 1857** to **Thomas & Martha Fleming** as **"John W."**
+>
+> So the 1984 clerk read the book correctly, and *Jno.* is not an artefact of the certificate. **He was registered John W. Fleming.** *James* is a later family usage that stuck, and Robert Earl went on using it because that is what the family had always called his grandfather.
+>
+> It also explains a duplication: **Thomas and Martha registered two sons as John** — John W. in 1857 and John in 1866. In the house the first was **Wesley** and the second was **John**, a distinction the register does not record.
 
 > *Source: certified copy of the Doddridge County, West Virginia birth register, Book 1 p. 9, issued 23 May 1984 by Clerk Dessie P. Daugherty; in Robert Earl Wildermuth's research papers, in Chuck's keeping. Photographed 2026.*

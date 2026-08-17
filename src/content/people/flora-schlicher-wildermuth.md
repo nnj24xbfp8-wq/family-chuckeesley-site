@@ -56,7 +56,11 @@ The archive counts Flora's children as **nine**. This one is not among them, so 
 
 ## The 1919 death
 
-She died **18 November 1919** in Marietta at age **49** — a death well before her time by modern standards, twenty-four years before her husband would die in 1943. Cause of death is open in the GEDCOM; the late-1919 timing is consistent with the **1918–1919 influenza pandemic**'s final wave, which continued to claim American victims into late 1919 and early 1920, but other causes are equally possible. By 1919 the **three eldest** — the children of the [c. 1896 group portrait](/archive/william-wildermuth-family-group-portrait/) — were well into adulthood: Charles 30, Margaret 28, Emma 26. Her sixth child **Earl Adam** was twenty. *(This sentence formerly read "her three children," a holdover from when the archive knew only the three in that portrait; she had nine.)*
+She died **18 November 1919** in Marietta at age **49** — twenty-four years before her husband would die in 1943.
+
+**The cause is now known: diabetes mellitus.** [Robert Earl's table of causes of death](/archive/wildermuth-fleming-causes-of-death/), copied from the certificates, gives it plainly. This page previously recorded the cause as open and speculated about the final wave of the 1918–19 influenza pandemic; **that speculation is withdrawn.**
+
+The date is difficult to read without wincing. **Insulin was first given to a patient in January 1922** — a little over two years after she died. Before it existed, diabetes in an adult was managed with starvation diets and was effectively always fatal. There was nothing available in Marietta in 1919, or anywhere else, that would have saved her. By 1919 the **three eldest** — the children of the [c. 1896 group portrait](/archive/william-wildermuth-family-group-portrait/) — were well into adulthood: Charles 30, Margaret 28, Emma 26. Her sixth child **Earl Adam** was twenty. *(This sentence formerly read "her three children," a holdover from when the archive knew only the three in that portrait; she had nine.)*
 
 She was buried in **Section C, Lot 30** at Oak Grove Cemetery, in a two-grave lot her husband [William Clifford](/family/william-wildermuth/) would join in 1943. The **[cemetery register](/archive/oak-grove-cemetery-burials-1985/)** records no marker on it: *"No stones on lot."* The register also gives her burial as **23 November 1919** and her age as **50**, against the archive's 21 November and 49 — small clerical differences, neither better sourced than the other.
 

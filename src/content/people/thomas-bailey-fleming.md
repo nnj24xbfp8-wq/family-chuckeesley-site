@@ -83,6 +83,23 @@ The **1900 census** finds him at about seventy, still working — he, Martha, an
 
 > *"No death record could be found for Thomas."*
 
-He remains one of the few direct ancestors in this archive with a documented life and no documented end.
+## A candidate, in his own papers
+
+Elsewhere in the same research file, under **"Death in Wood County"**, [he wrote down](/archive/doddridge-births-harrison-marriages-hampshire-research/):
+
+> **FLEMING, THOMAS J — 5 May 1910 — 75 yrs — Farmer**
+
+**Wood County, a farmer, 1910** — where Thomas was last seen in 1900, renting a farm at seventy. It may well be him, and he seems not to have connected it.
+
+Two things do not match, and neither is being smoothed over:
+
+- **The age.** 75 in May 1910 means a birth about 1835; his was February 1830, which would make him **80**.
+- **The initial.** *Thomas **J.***, where the county records call him *Thomas **B.*** — though a **Thomas J. Fleming** also gave the land for the [Fleming-Gain Cemetery](/archive/arnolds-creek-visit-1986/), so the name belonged to someone else too.
+
+Against that: **stated ages in this family's death records are badly unreliable.** The same archive holds an *"age 84"* for a man who was 82 and an *"age 40"* for a man of 72, and the informant on [Martha's own death record](/archive/thomas-martha-fleming-wood-county-records/) is entered as *F. T.* Fleming where the typescript calls him Floyd **B.** Five years and a middle initial are well within this family's margin of error.
+
+**Ordering the full Wood County entry for 5 May 1910 is the obvious next step.** If it names a wife or a father, it closes the one gap Robert Earl left open on his own great-great-grandfather.
+
+Until then he remains one of the few direct ancestors here with a documented life and no documented end.
 
 > *Sources: the [Thomas Bailey Fleming biographical sketch](/archive/thomas-bailey-fleming-biographical-sketch/) and the [1851 marriage record and 1854 deed](/archive/fleming-marriage-record-and-deed/), both from [Robert Earl Wildermuth](/family/robert-earl-wildermuth/)'s research papers; [Dale Eesley / FamilySearch GEDCOM](/docs/dale-eesley-familysearch-tree/) (Thomas Bailey Fleming, 9ZHX-K9J); [Wildermuth/Bain family book — Fleming section](/docs/wildermuth-family-of-marietta-book/).*

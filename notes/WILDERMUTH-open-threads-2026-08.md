@@ -168,6 +168,30 @@ Separately: **Edward J. Flemming / Nancy Prunty, 12 Nov 1810** — a second Prun
 - **ELI B. FLEMING'S CIVIL WAR SERVICE** (Harrison Co. Veteran's Historical Project form, 23 Apr 1955): enlisted **Clarksburg, Dec 1864**, **Co. G, 6th W.Va. Infantry**, rank **Sergeant**, discharged **Wheeling, 10 Jun 1865**. Lewis's half-brother, and he went Union.
 - **DEED INDEX — the fifty acres left the family.** Lewis→Thos B. (2-484), then Thos B.→Cumberledge (2-484), →Charton (3-370), →Charton (4-218), and Cassandra & Thomas J.→**Adam J. Gain** (6-91, 4 Jun 1866). Explains why Thomas Bailey Fleming was renting by 1880 and still renting in 1900. **Worth reading in full at the courthouse.**
 
+### ✅ RESOLVED — "Jno. Wesley Fleming", 15 Aug 2026
+The **Doddridge County birth register** ([artifact](/archive/doddridge-births-harrison-marriages-hampshire-research/)) lists the child born **20 Dec 1857** to **Thomas & Martha Fleming** as **"John W."** So the 1984 certificate's *"Jno."* was faithful to the book. **He was registered John W. Fleming**; *James* is later family usage. Thomas & Martha registered **two sons as John** — John W. (1857) and John (1866); at home, Wesley and John. Flagged resolved on `wesley-fleming.md` and the birth-certificate artifact.
+*Also from that register:* Margaret 15 Feb 1854 ✓ · Levennia 20 Oct 1868 to "Thomas & **Mollie**" · Eli & Elmira Fleming with 5 children 1853–66 · a Lewis & Susan Fleming.
+
+### ✅ CAUSES OF DEATH — ten direct ancestors, 15 Aug 2026
+[Artifact](/archive/wildermuth-fleming-causes-of-death/). Column alignment validated by two independent checks (Verona's apoplexy from her certificate; JMW's asthma from the probate abstract).
+JMW **asthma** · Catherina Boeshar **acute myocarditis** · Theobald Schlicher **apoplexy** · Eva Schmidt **abscess of lung** · William Clifford **coronary thrombosis** · **FLORA — DIABETES MELLITUS** · James Wesley **chronic myocarditis** · Verona **apoplexy** ✓ · Earl Adam **cerebral haemorrhage** · Sadye **multiple myeloma**.
+**FLORA'S CAUSE WAS UNKNOWN UNTIL NOW.** Died 18 Nov 1919 aged 49 of diabetes — **insulin first given to a patient January 1922**. The influenza-pandemic speculation on her page is withdrawn.
+⚠ **DO NOT USE THIS TABLE'S BIRTH DATES.** Early compilation; James Wesley given as 24 Dec 1863 (vs the register's 20 Dec 1857), Sadye 15 June (vs 15 July) 1901, JMW 1831 (vs 1830).
+
+### ⭐ CANDIDATE: Thomas Bailey Fleming's missing death record
+**"Death in Wood County — FLEMING, THOMAS J — 5 May 1910 — 75 yrs — Farmer."** In his own papers, apparently unconnected. Thomas B. was last seen Wood County 1900, aged 70, renting a farm.
+*Mismatches:* age 75 → b.1835 (his birth Feb 1830 → would be 80); initial **J** not **B** (and a Thomas J. Fleming gave the Fleming-Gain Cemetery land).
+*But* this family's death-record ages are badly unreliable — "age 84" for 82, "age 40" for 72, "F.T." for Floyd B.
+**→ ORDER THE FULL WOOD COUNTY ENTRY FOR 5 MAY 1910.** If it names a wife or father, it closes the gap.
+
+### The Hampshire County thread — supports the 1795 deed
+From Maxwell & Swisher, *History of Hampshire County* (1897), read at the Orlando library, plus a **1820 Virginia census list of Flemings by county** — which includes **John — HMP** and **Patrick — HMP**. **Flemings were in Hampshire County across the relevant years**, consistent with a James Fleming coming from there to Harrison Co. in 1795 and a son born there in 1781.
+*Not his line, and he didn't claim it:* Samuel Fleming of the Hampshire Guards (Co. K); Col. R. E. Fleming ordered against McNeill's Rangers Nov 1864; Col. William Fleming at Point Pleasant 1774, later Governor of Virginia; a James W. Fleming of Mill Creek b.1854 described as "of German ancestry."
+
+### Early Harrison County marriages 1784–1850
+**Samuel Bartlett & Mary Fleming, Oct 1824** — with his own circled note ***"father was James Fleming"*** · James Fleming & Mary Whitehair **8 Feb 1821** · Samuel Fleming & Mary Fleming 25 Jan 1820 · Andrew Flemming & Mary Flemming 18 Sep 1828 · John Fleming & Mary A. Fleming 12 Apr 1838 ✓ · **John H. Bartlett & Sarah Fleming 19 Nov 1827** · Thomas Fleming & Ann Wood 29 Oct 1804 · Thomas Bailey & Lucinda Reynolds 2 Jun 1835.
+Two more **Bartlett–Fleming** marriages. Taylor Co. deaths starred: **Thomas Bailey b.1809 d. 26 May 1888** (paralysis, Fairview, farmer) and **Nancy Bailey b.1826 d. 19 Dec 1883** — a generation below the 1803 couple.
+
 ### ⭐⭐⭐ THE 1795 DEED — probably the answer, added 15 Aug 2026
 [Artifact](/archive/berry-to-james-fleming-deed-1795/) · **Harrison County Deed Book 2, pp. 202–203**
 
