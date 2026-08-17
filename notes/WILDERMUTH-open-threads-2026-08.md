@@ -142,6 +142,26 @@ The archive's 1855 came from an "age 84" on the death record — but Robert Earl
 - JMW's probate entry adds cause of death: **asthma**, trade **shoemaker**.
 - **Other Marietta Schlichers with no place in the archive:** Peter Sr. (merchant, d. 1903 aged 76-11-16), Peter Jr. (cigar manufacturer), Jacob (d. 1903), Fred (woodworker, d. 1905), Walter (day labourer, daughters dressmakers).
 
+### ⚠ REOPENED — Eli B. Fleming's mother, 15 Aug 2026 (later)
+[Artifact](/archive/harrison-marriage-index-and-eli-fleming-form/)
+
+Earlier today I recorded Robert Earl's reversal and put Clarissa Roe back as Eli's mother. **I closed that too firmly.** The name *Susan* appears in **two** records:
+1. Eli's **1903 marriage certificate** (Charlotte's find) — parents *John F. Fleming and **Susan** Fleming*
+2. The **1955 Harrison Co. Veteran's Historical Project form** — mother's maiden name **"Susan?"**, question mark in the original
+
+**What he actually disproved was a Susanna BEE**, who married David Jacobs in 1847 and stayed married through three censuses. **He did not disprove a Susan.** A middle wife of that name, surname unknown, remains possible. Pages amended: `john-fleming-iv.md`, `clarissa-roe.md`.
+*Caution:* the two Susan records are probably not independent — the 1955 compiler may have worked from the 1903 certificate.
+*His surviving objection is geographic:* the form says Eli was born "Doddridge County 1831," but Doddridge didn't exist until 1845, and he held the 1838 land record putting John in **eastern** Harrison until then.
+
+**Also from that form:** Eli b. 1831 Doddridge (i.e. western Harrison), **father JOHN FLEMING** (third independent statement), wife **Hannah Swiger m. 17 March 1903**, children "no record."
+
+### Harrison County marriage index — added 15 Aug 2026
+James Fleming/Polly Whitehair 2-91 **1820** · **Lewis Fleming/Sintha Bailey 3-36 1827** ✓ · John Jr Fleming/Mary Ann Fleming 3-120 1838 · Patrick Fleming/Harriet Lake 3-120 1838 ✓ · Edward Fleming/Mary Turner 3-123 1838 ✓ · Daniel Fleming/Amelia Wood 3-130 1839 · William Fleming/Mary Morris 5-61 1869
+Separately: **Edward J. Flemming / Nancy Prunty, 12 Nov 1810** — a second Prunty marriage and a second Edward.
+**→ JAMES FLEMING SIGHTING #6, and this one has a book and page:** his 1820 marriage to Polly Whitehair, Harrison Co. Book 2 p. 91.
+
+**Research contacts noted on the sheet:** **Joy Gilchrist, 22406 SR 751, West Lafayette, Ohio 43845** (the *Squires Family* author — source of the wrong "Edward" attribution); **Hackett's Creek Pioneers Descendants**, Jane Lew, WV 26378.
+
 ### DODDRIDGE COURTHOUSE NOTES — added 15 Aug 2026
 [Artifact](/archive/doddridge-registers-deeds-and-eli-fleming-service/)
 - **Possible Mary Lake death record:** MARY FLEMING, widow, d. 25 Mar 1895, **72-6-25** (→ b. ~30 Aug 1822), b. **Preston County**, cancer of the mouth, buried **Ruley**. *Conflicts with the 1860 census age 56 (→ b. 1804) by eighteen years.* Not adopted. Ruley graveyard is where to look.

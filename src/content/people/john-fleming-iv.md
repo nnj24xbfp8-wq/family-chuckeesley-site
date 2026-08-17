@@ -97,7 +97,13 @@ And then his own reconstruction, which is the most human sentence in the corresp
 
 **This archive follows him.** All thirteen were Clarissa's; she likely **died in childbirth with Sarah in 1835**; and the 1838 land sale to Patrick and John was a widower breaking up the home place. **Two wives, not three** — Clarissa, then Susannah Prunty in **1847** (not the typescript's 1858, which falls after his own death).
 
-*He left the door open, as he always did:* **"Please let me know the source of your John/Susanna Bee info. I could be wrong."** The 1903 certificate's *"Susan"* is still unexplained — Eli was seventy-two, naming a mother who had died before he was four.
+*He left the door open, as he always did:* **"Please let me know the source of your John/Susanna Bee info. I could be wrong."**
+
+**And the door should stay open wider than this page first allowed.** The name *Susan* appears in **two** records, not one: Eli's [1903 marriage certificate](/archive/charlotte-fleming-correspondence-1995/), and the [1955 veteran's questionnaire](/archive/harrison-marriage-index-and-eli-fleming-form/), which gives his mother's maiden name as **"Susan?"** — question mark included.
+
+The distinction that matters: **Robert Earl disproved a Susanna *Bee*.** He showed that particular woman married David Jacobs in 1847 and stayed married to him. **He did not disprove a Susan.** A middle wife of that name, surname unknown, remains possible, and Clarissa should not be treated as settled for the youngest two children.
+
+*(The two "Susan" records are probably not independent — a 1955 compiler could have worked from the 1903 certificate — so this is one claim attested twice, not two witnesses.)*
 
 **What he was certain of was his own descent**, and it is worth having in his words:
 

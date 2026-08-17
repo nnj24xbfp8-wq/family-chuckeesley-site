@@ -58,7 +58,9 @@ She is usually given as dying **about 1838**, on the reasoning that her husband 
 
 On that reading she bore **thirteen children over thirty-one years** — Elizabeth in 1804, Sarah in 1835 — and the last of them killed her, at about **fifty-three**. Everything that follows in her husband's life reads as consequence: the farm sold to two sons in 1838, the move west to where Lewis already was, and a second marriage nine years later.
 
-**A cousin's alternative, and why it was set aside.** [Charlotte Fleming](/archive/charlotte-fleming-correspondence-1995/) argued in 1995 that the youngest two were not Clarissa's, since **Eli B. Fleming's 1903 marriage certificate names his mother as *Susan***. Robert Earl agreed at first, then found in Marriage Book I that the candidate **Susanna Bee married David Jacobs in 1847** and stayed married to him through three censuses — *"I cannot support a John Fleming/Susanna Bee marriage."* He kept Clarissa. He also kept the doubt: *"I could be wrong."*
+**A cousin's alternative, and why it is still open.** [Charlotte Fleming](/archive/charlotte-fleming-correspondence-1995/) argued in 1995 that the youngest two were not Clarissa's, since **Eli B. Fleming's 1903 marriage certificate names his mother as *Susan***. Robert Earl agreed at first, then found in Marriage Book I that the candidate **Susanna Bee married David Jacobs in 1847** and stayed married to him through three censuses — *"I cannot support a John Fleming/Susanna Bee marriage."* He kept Clarissa, and kept the doubt: *"I could be wrong."*
+
+**He was right about Bee and possibly wrong about Susan.** A [1955 veteran's questionnaire](/archive/harrison-marriage-index-and-eli-fleming-form/) also gives Eli's mother's maiden name as **"Susan?"** So what he disproved was one specific candidate, not the name. **Whether Eli (1831) and Sarah (1834) were Clarissa's is unresolved**, and this page does not claim them with confidence.
 
 Her line to Chuck runs through **Lewis** regardless — as he put it, *"Lewis B. who was the son of John and Clary. Born a couple of years after their marriage."*
 
