@@ -42,7 +42,11 @@ So this is not a family tradition or a chart entry. He handled the document, **f
 
 ## Pennsylvania frontier, Virginia farm
 
-He was born **11 October 1781 in Montgomery County, Maryland**. He was **raised to adulthood in Washington County, Pennsylvania** — the family moved to the western frontier in the year of his birth, which drew Robert Earl's dry aside: *"Quite a move for a one year old son."*
+> **His birthplace should probably read Hampshire County, Virginia.** The 1853 death register says **Hampshire County** — and Robert Earl **starred it as erroneous**, substituting Montgomery County, Maryland from the pedigree he [withdrew five years later](/archive/fleming-retraction-1998/). So the archive is carrying a civil record's answer as a mistake, on the authority of a lineage its own author repudiated.
+>
+> And [a 1795 deed in his papers](/archive/berry-to-james-fleming-deed-1795/) puts a **James Fleming "of the County of Hampshire"** buying **334 acres on Simpson's Creek** — the creek where John's son Lewis was born on his father's farm. **Hampshire County → Simpson's Creek is a coherent single-family move; Montgomery County, Maryland is not.** The Montgomery County birth is kept in the frontmatter for now only because nothing yet replaces it with a citation, but it should be treated as the weaker reading.
+
+He was born **11 October 1781**, per every chart, in **Montgomery County, Maryland** — or, more likely, **Hampshire County, Virginia** (see above). He was **raised to adulthood in Washington County, Pennsylvania** — the family moved to the western frontier in the year of his birth, which drew Robert Earl's dry aside: *"Quite a move for a one year old son."*
 
 Then south again: on **20 January 1803** he married **[Clarissa Roe](/family/clarissa-roe/)** in the **Eastern District of Harrison County, Virginia** — now Taylor County, West Virginia. **The minister's own return survives**, photographed among the papers: *"A list of marriages celebrated by the Reverend Benjamin Webb in the Year 1803 — January 20 John Fleming & Clary Roe."* [The document is here.](/archive/fleming-roe-marriage-banns-1803/) It is contemporary, and it is the firmest date on this page.
 
@@ -135,9 +139,13 @@ Writing to a Bartlett researcher in [May 1998](/archive/wildermuth-email-bartlet
 
 > *"…married Clarissa Roe, who **bought a 168½ acre farm from James Fleming for a dollar**. An old custom … where to make the deal legal something of value had to change hands. In 1838, he sold this farm for $2,000 to his two sons, John and Patrick."*
 
-**One dollar for 168½ acres is not a sale, it is a gift** — a transfer between people who owed each other something, made in the form of a deed so it would hold. And the man making it is a **James Fleming**, around the time of the 1803 marriage.
+**One dollar for 168½ acres is not a sale, it is a gift** — made in the form of a deed so it would hold. And the man making it is a **James Fleming**, around the time of the 1803 marriage.
 
-That is the second of three places a James Fleming touches this household: he also [witnessed the 1827 consent](/archive/john-fleming-consent-note-1827/), and a note on the 1850 Harrison abstract records a James Fleming's daughter marrying a Bartlett in 1824. Given that the [1998 retraction](/archive/fleming-retraction-1998/) names a James Fleming as the family's true progenitor and never shows the connection, **the c. 1803 Harrison County deed for those 168½ acres is the most promising unexamined record in this line.** A one-dollar conveyance usually names the relationship.
+**Where those acres came from is now documented.** In **1795 a James Fleming "of the County of Hampshire" bought 334 acres on Simpson's Creek** for five hundred dollars — [the deed is transcribed in Robert Earl's own hand](/archive/berry-to-james-fleming-deed-1795/). A 168½-acre farm handed to John for a dollar a few years later is **half of that tract**, and it sits on the creek where John's son Lewis was then born.
+
+That is one of **seven** places a James Fleming touches this household — the 1795 purchase, the 1798 and 1833 Simpson's Creek deeds, the dollar farm, [the 1827 consent he witnessed](/archive/john-fleming-consent-note-1827/), his 1820 marriage to Polly Whitehair, and his daughter's 1824 marriage to a Samuel Bartlett. The [1998 retraction](/archive/fleming-retraction-1998/) names a James Fleming as the family's progenitor and never shows why; **this is almost certainly the why.**
+
+**The record that would prove it: the c. 1803 Harrison County deed for the 168½ acres.** A one-dollar conveyance normally states the relationship between the parties outright.
 
 ## Not yet checked: the slave schedules
 

@@ -168,7 +168,23 @@ Separately: **Edward J. Flemming / Nancy Prunty, 12 Nov 1810** — a second Prun
 - **ELI B. FLEMING'S CIVIL WAR SERVICE** (Harrison Co. Veteran's Historical Project form, 23 Apr 1955): enlisted **Clarksburg, Dec 1864**, **Co. G, 6th W.Va. Infantry**, rank **Sergeant**, discharged **Wheeling, 10 Jun 1865**. Lewis's half-brother, and he went Union.
 - **DEED INDEX — the fifty acres left the family.** Lewis→Thos B. (2-484), then Thos B.→Cumberledge (2-484), →Charton (3-370), →Charton (4-218), and Cassandra & Thomas J.→**Adam J. Gain** (6-91, 4 Jun 1866). Explains why Thomas Bailey Fleming was renting by 1880 and still renting in 1900. **Worth reading in full at the courthouse.**
 
-### ⭐⭐ THE JAMES FLEMING TRAIL — now FIVE sightings, added 15 Aug 2026
+### ⭐⭐⭐ THE 1795 DEED — probably the answer, added 15 Aug 2026
+[Artifact](/archive/berry-to-james-fleming-deed-1795/) · **Harrison County Deed Book 2, pp. 202–203**
+
+**6 October 1795. Thomas Berry & Barbara his wife → JAMES FLEMING "OF THE COUNTY OF HAMPSHIRE". $500. 334 ACRES ON SIMPSON'S CREEK.** Patent dated 21 Dec 1786. Transcribed in full in Robert Earl's own hand.
+
+**Two things converge here:**
+1. **HAMPSHIRE COUNTY.** John Fleming IV's 1853 death register gives his birthplace as Hampshire Co. — which Robert Earl **starred as erroneous** and replaced with Montgomery Co., Maryland, from the pedigree he **retracted in Nov 1998**. The archive has therefore been carrying a civil record as a mistake on the authority of a withdrawn lineage. **Hampshire County is probably right.** `john-fleming-iv.md` now says so.
+2. **SIMPSON'S CREEK** is where Lewis Fleming was born "on his father's farm."
+
+**The land sequence (inference, not proof):**
+1795 James Fleming of Hampshire buys 334 a. on Simpson's Ck → 1798 Ann Fleming→James Fleming Jr. 215 a. → **c.1803 John Fleming gets a 168½-a. farm from James Fleming for ONE DOLLAR** (≈ half the tract) → c.1807 Lewis born on his father's farm there → 1827 a James Fleming witnesses John's consent → 1833 127 a. on Simpson's Ck.
+
+**→ DECIDER: the c.1803 Harrison County deed for the 168½ acres.** A one-dollar conveyance normally states the relationship. **This is the single most valuable unexamined record in the Fleming line.**
+
+**A complication on the same sheet batch:** *Western Maryland Genealogy* vol. 4 (1988) notes show **John Fleming as a land commissioner in FREDERICK COUNTY, MARYLAND in Aug 1804 and Aug 1811** (also Arthur Fleming 1806/07, Joseph Fleming 1806), and Robert Earl identifies that John as **"John #3 born ca 1744 died 1829"** — which does *not* fit the typescript's account of John III moving to Washington Co., PA in 1781 and dying at Pike Run. **The papers hold two incompatible Fleming families: Frederick Co. MD, and Hampshire Co. VA → Simpson's Creek. Only the second has a deed behind it.**
+
+### ⭐⭐ THE JAMES FLEMING TRAIL — now SEVEN sightings, added 15 Aug 2026
 
 **Two more land records** (Doddridge/Harrison abstracts):
 4. **Ann Fleming → James Fleming Jr.**, 3-329, **17 Apr 1798**, **215 acres**
