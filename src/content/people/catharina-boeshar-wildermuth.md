@@ -30,11 +30,17 @@ Johann Michael's [1853 Philadelphia naturalization petition](/docs/johann-michae
 
 ### She was coming to Boeshars, not to strangers
 
-The **[1860 census for Washington County](/archive/boeshar-1860-washington-county-census/)**, abstracted in Robert Earl's papers, finds **at least three Boeshar households** in Salem and Aurelius Townships two years before her marriage — including a **Theobald Boesher** of about 27 born in Bavaria, a **widow of about 50 with two Bavarian-born sons**, and a farming household under a **Jost Boesher** with the elder children born in Germany and the younger in Ohio.
+The **[1860 census for Washington County](/archive/boeshar-1860-washington-county-census/)**, abstracted in Robert Earl's papers, finds **three Boeshar households** in Salem and Aurelius Townships two years before her marriage:
 
-**That changes the shape of the question.** A girl orphaned of her father before she was three, leaving a widowed household in the Pfalz, did not step off a boat into an Ohio river county at random. **There was a Boeshar settlement here already.**
+- **Thobald Boeshar**, 27, a **farmer** at Lower Salem with $1,200 in land, born in **Bavaria**, with an Ohio-born wife and three small children
+- **Louisa Boeshar**, **50, a widow**, born in Bavaria, with sons **Christian** (22, a carpenter, born 1838) and **Jacob** (16, apprenticed, born 1844) — both **born in Bavaria**
+- **Jacob Boeshar**, 42, a farmer in Aurelius Township with $2,000 in land, from the **Rhine** country
 
-*None of these people is yet demonstrated to be her kin* — the sheet was photographed at a resolution that will not support fine detail, and the townships want re-reading at full size. But the useful question is no longer *how did she get to Marietta alone?* It is **which Boeshar household was she coming to** — and a passenger list carrying a family group is far easier to find than one carrying a lone young woman.
+**And Jacob's children map the route.** Their birthplaces run **Rhineland → Pennsylvania → Ohio**: the eldest two born in Germany, one son born in **Pennsylvania** about 1850, and everyone from the eight-year-old down born in **Ohio**. That family crossed around 1849, paused in Pennsylvania, and reached Washington County about 1852 — **the same path Johann Michael took.**
+
+**This changes the shape of the question.** A girl orphaned of her father before she was three, leaving a widowed household in the Pfalz, did not step off a boat into an Ohio river county at random. **There were Boeshars here already.**
+
+*None of them is yet demonstrated to be her kin.* The widow **Louisa** is the household to check first — born about 1810, she is [her mother's generation](/family/maria-margaretha-jung/) exactly, and her son Christian (1838) is close to Catharina's own brother Jacob (1837). But Louisa is not Margaretha, and the names are common ones. **Which Boeshar household she was coming to is now the live question** — and a passenger list carrying a family group is far easier to find than one carrying a lone young woman.
 
 ## The long Marietta life
 

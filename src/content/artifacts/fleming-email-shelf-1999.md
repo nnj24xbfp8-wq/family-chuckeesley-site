@@ -64,7 +64,7 @@ And he was still hunting Lewis's death: *"all I know is that he died in Taylor C
 Three of the four pages are a forwarded reply from a **Norman Collier**, and they are pure practical intelligence — the kind of thing that is normally lost when a researcher dies:
 
 - **Marguerite Baugh**, at the **Taylor County Library**, resident custodian of the **Taylor County Genealogy Society** — thirty years in the post, would do specific look-ups for the cost of copies. *(A 1999 phone number is on the page; not reproduced here.)*
-- **Melba Zinn** of Grafton — compiler of ***Taylor County, WV Deed Abstracts, Books One and Two, 1844–1862***, and available for paid research.
+- **Melba Zinn** of Route 3, Box 169, Grafton — compiler of ***Taylor County, WV Deed Abstracts, Books One and Two, 1844–1852***, and available for paid research, *"but more expensive."*
 - ***Taylor County, WV Marriages 1853–1905***, compiled by **Wes Cochran** of Parkersburg, 1987 — from which Collier sent a page-indexed list of **Fleming marriages** running to some fifty entries, from Abbie to Zachariah.
 - ***A Taylor County History of West Virginia***, Taylor County Genealogy Society, 1986 — **three Fleming write-ups at pages 218–220**, both of which, Collier notes, *"indicate that the Flemmings came to Taylor County about the time of the Civil War."*
 - **Nation Cemetery, Grafton** — a **Flemming, John P.**, died **19 April 1864**.
@@ -74,4 +74,4 @@ Three of the four pages are a forwarded reply from a **Norman Collier**, and the
 
 Collier's verdict on the main question was blunt and correct: ***"Nothing on John."***
 
-> *Source: four printouts of America Online email, 23–27 April 1999, between Robert Earl Wildermuth (FLEMCLANN), Charlotte Fleming and Norman Collier; from his research papers, in Chuck's keeping. Photographed 2026 (at low resolution; the 1999 header blocks are legible only in part).*
+> *Source: four printouts of America Online email, 23–27 April 1999, between **Robert Earl Wildermuth (FLEMCLAN9@aol.com)**, **Charlotte Fleming (flemingc@ix.netcom.com)** and **Norman Collier (nrmcolli@slip.net)**, with **Ethel E. Nielsen** copied; forwarded from the **HCPD-L** mailing list under the subject "Grafton, W Va. ABT 1830–1850." From his research papers, in Chuck's keeping. Photographed 2026; re-read at full resolution.*

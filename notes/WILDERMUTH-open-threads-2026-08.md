@@ -221,10 +221,23 @@ Two more **Bartlett–Fleming** marriages. Taylor Co. deaths starred: **Thomas B
 - Collier's verdict: *"Nothing on John."*
 
 ### BOESHAR HOUSEHOLDS IN WASHINGTON COUNTY, 1860 — Catharina had kin there
-[Artifact](/archive/boeshar-1860-washington-county-census/) · ⚠ read from a 360×480 thumbnail; households reliable, details provisional
-At least three Boeshar/Boesher households in Salem & Aurelius Townships two years before Catharina's 1862 marriage: **Theobald Boesher ~27, b. Bavaria**; **a widow ~50 with two Bavarian-born sons** (~1833, ~1844); **Jost Boesher ~42, farmer**, elder children German-born, younger Ohio-born.
-**Reframes her undocumented crossing:** not "how did she reach Marietta alone?" but **"which Boeshar household was she coming to?"** A family-group passenger list is far easier to find than a lone young woman.
-**→ NEEDS: the township originals at full resolution; whether any came from Breitenbach / the Kusel district; 1850s passenger lists with multiple Boeshars.**
+[Artifact](/archive/boeshar-1860-washington-county-census/) · **re-read at full resolution 15 Aug 2026** — the first pass used a thumbnail and got three things wrong (post office is **Lower Salem** not "Sand's Salem"; the Aurelius householder is **Jacob** not "Jost"; Theobald's daughter is **Maria C.** not "Verona").
+
+**8th Census, 1860, Washington County, Ohio:**
+- **Salem Twp (Lower Salem), dw. 174 — Thobald Boeshar, 27, FARMER, $1,200/$240, b. Bavaria**; Elizabeth 22 Ohio, Maria C. 3, Elizabeth 2, Salm(?) 3/12
+- **Salem Twp, dw. 175 — Louisa Boeshar, 50, WIDOW, b. Bavaria**; **Christian 22, carpenter, b. Bavaria 1838**; **Jacob 16, apprentice, b. Bavaria 1844**
+- **Aurelius Twp — Jacob Boeshar, 42, FARMER, $2,000/$600, from the Rhine, ann. "b. 1818"**; Phillipine 42, Charley 16 farm hand, **Jacob 10 b. PENNSYLVANIA**, **Theobald 8 b. OHIO**, Mary 6, Fritz(?) 3, Christian 1
+- (also a non-Boeshar **Ullman** household, wife Catherine b. **Hessen**)
+
+**⭐ JACOB'S CHILDREN GIVE THE ROUTE: Rhineland → Pennsylvania (c.1850) → Ohio (by c.1852).** Same path as Johann Michael Wildermuth (NY 1847 → PA by 1852 → Ohio).
+
+**Reframes Catharina's undocumented crossing:** not "how did she reach Marietta alone?" but **"which Boeshar household was she coming to?"**
+**Check LOUISA first** — b. ~1810, i.e. Maria Margaretha Jung's generation; her son Christian (1838) is close to Catharina's brother Jacob (1837). *But Louisa ≠ Margaretha and the names are common. Not an identification.*
+**→ NEEDS:** whether any came from Breitenbach / Kusel; **passenger lists c.1849–52 with multiple Boeshars**; Pennsylvania c.1850. Given names to trace: **Theobald, Christian, Jacob** — *Christian was Catharina's father's name.*
+
+### Corrections from the full-res re-read (15 Aug 2026)
+Melba Zinn: **Box 169**, deed abstracts **1844–1852** (not 1862). Email accounts: **FLEMCLAN9@aol.com** (Bob), **flemingc@ix.netcom.com** (Charlotte), **nrmcolli@slip.net** (Norman Collier), Ethel E. **Nielsen**. List was **HCPD-L**. Fleming marriage index: Emery **9**, Florence **39**, **Hayward** 123.
+**Also: all five asset filenames from the thumbnail batch were misassigned and have been re-cut from the full-resolution originals.**
 
 ### ⭐⭐⭐ THE 1795 DEED — the best thread, NOT the answer (see correction above)
 [Artifact](/archive/berry-to-james-fleming-deed-1795/) · **Harrison County Deed Book 2, pp. 202–203**

@@ -15,9 +15,9 @@ people:
   - robert-earl-wildermuth
 ---
 
-> ⚠ **Read at low resolution.** This sheet was photographed as a small thumbnail, and it is dense handwriting with German names and abbreviations. **The households below are reliable; individual ages, spellings and the Bavarian place names are provisional and want a better scan.** This archive has already been burned once this session by transcribing from thumbnails.
+A handwritten abstract of the **8th Census, 1860, Washington County, Ohio** — **Salem Township, post office Lower Salem**, and **Aurelius Township** — recording three **Boeshar** households.
 
-A handwritten abstract of the **1860 census for Washington County, Ohio** — Salem Township, post office Sand's Salem, and Aurelius Township — recording **Boeshar households**, spelled *Boesher* here.
+*Re-read at full resolution, August 2026. An earlier pass at this page worked from a thumbnail and got several details wrong: the post office is **Lower Salem** (not "Sand's Salem"), the Aurelius householder is **Jacob** (not "Jost"), and Theobald's eldest daughter is **Maria C.** (not "Verona"). Corrected below.*
 
 ## Why it matters
 
@@ -27,28 +27,47 @@ A handwritten abstract of the **1860 census for Washington County, Ohio** — Sa
 
 **This sheet answers the last part of that. She came to a place where Boeshars already were.**
 
-Two years before her marriage the census finds, in the same county:
+Two years before her marriage, the census finds three Boeshar households in the county.
 
-- **Theobald Boesher**, about 27, born in **Bavaria** — with a wife and three small children, all born in **Ohio**
-- **A widow, Louisa Boesher**, about 50, with two sons recorded as born in **Bavaria** — one about 1833, one about 1844
-- **Jost Boesher**, about 42, a **farmer** in Aurelius Township with real and personal property recorded, a wife and six children, the elder ones born in **Prussia** or Germany and the younger in **Ohio**
+### Salem Township, Lower Salem — dwelling 174
 
-*(A fourth household on the sheet, and the Bavarian place-names attached to several of these people, are not legible enough at this resolution to set down.)*
+> **Thobald Boeshar** — 27 — **Farmer** — real estate **$1,200**, personal **$240** — born **Bavaria**
+> Elizabeth 22, **Ohio** · **Maria C.** 3, Ohio · Elizabeth 2 · Salm(?) 3/12
 
-**So there was a Boeshar settlement in Washington County by 1860** — at least three households, some arrived recently enough to have Bavarian-born teenagers, others long enough to have Ohio-born children. A **widow with Bavarian-born sons** is exactly the profile of a family that emigrated together in the 1840s or 50s.
+### Salem Township — dwelling 175
 
-**Catharina, orphaned of her father at not-yet-three and leaving a widowed household in the Pfalz, almost certainly came to kin.** That is an inference, not a finding — none of these people is yet demonstrated to be her relative — but it reframes the question. **The useful question is no longer "how did a young Pfälzerin get to Marietta alone?" but "which of these Boeshar households was she coming to?"**
+> **Louisa Boeshar** — **50, widow** — born **Bavaria**
+> **Christian** 22, **Carpenter**, born Bavaria **1838**
+> **Jacob** 16, **Apprentice**, born Bavaria **1844**
+
+### Aurelius Township
+
+> **Jacob Boeshar** — 42 — **Farmer** — **$2,000 / $600** — from the **Rhine** country, annotated *"b. 1818"*
+> Phillipine 42 · **Charley** 16, **farm hand** · **Jacob 10, born Pennsylvania** · **Theobald 8, Ohio** · Mary 6 · Fritz(?) 3 · Christian 1
+
+*(A fourth, non-Boeshar household follows — an **Ullman** family, the wife Catherine born in **Hessen**.)*
+
+## Jacob Boeshar's children give the route
+
+This is the most useful line on the sheet. In Jacob's household the birthplaces run **Rhineland → Pennsylvania → Ohio**: the two eldest born in Germany, **Jacob at ten born in Pennsylvania**, and **Theobald at eight and everyone younger born in Ohio**.
+
+**So this family crossed about 1849–50, spent a couple of years in Pennsylvania, and reached Washington County around 1852.** That is precisely the path [Johann Michael Wildermuth](/family/johann-michael-wildermuth/) took — New York in 1847, Pennsylvania by 1852, Ohio after — and it is the ordinary Palatine route to the Ohio Valley.
+
+**And a widow with two Bavarian-born sons**, one already a carpenter and one apprenticed, is exactly the profile of a family that emigrated together and buried its father either at home or on the way.
+
+**Catharina, orphaned of her father before she was three and leaving a widowed household in the Pfalz, almost certainly came to kin.** That is an inference, not a finding — none of these people is yet demonstrated to be her relative — but it reframes the question. **The useful question is no longer "how did a young Pfälzerin get to Marietta alone?" but "which of these Boeshar households was she coming to?"**
+
+Two details make the widow's household the one to look at first. **Louisa Boeshar was born in Bavaria about 1810** — Catharina's mother [Maria Margaretha Jung](/family/maria-margaretha-jung/) was born in 1814, so Louisa is of that generation exactly. And her son **Jacob was born in 1844**, four years after Catharina.
+
+*Against it:* Catharina's only recorded sibling was a brother **Jacob, born 1837** at Breitenbach — close to Louisa's Christian (1838) but not a match, and Louisa is not Margaretha. So this is a household worth checking, not an identification.
 
 ## Where to look next
 
-- **The Salem and Aurelius Township originals**, at full resolution, for the exact ages, birthplaces and property values.
-- **Whether any of them came from Breitenbach or the Kusel district** — [the same corner of the Palatinate](/family/johann-peter-schlicher/) the Jungs and Schlichers came from.
-- **A passenger list carrying more than one Boeshar**, 1850s. Family groups are far easier to find than lone young women.
+- **Whether any of these Boeshars came from Breitenbach or the Kusel district** — [the same corner of the Palatinate](/family/johann-peter-schlicher/) the Jungs and Schlichers came from. The sheet says "Bavaria" and "Rhein," which is consistent but not specific.
+- **A passenger list carrying more than one Boeshar**, c. 1849–52. Family groups are far easier to find than lone young women, and Jacob's family gives a date range to search.
+- **Pennsylvania**, briefly, around 1850 — where Jacob's son was born, and where Johann Michael Wildermuth also was.
+- The recurring given names to trace: **Theobald, Christian, Jacob** — and note that *Christian* was [Catharina's own father's name](/family/christian-boeshar/).
 
-## And a note on names
+*Also on the sheet:* Robert Earl copied out a surname etymology for **Rode** from a name dictionary — an officer of the court or town crier, from a pet form of names in *Rod-*, "renown." He did this when a name puzzled him, on the theory that a meaning sometimes points to an origin. Not evidence about anyone, but characteristic.
 
-At the foot of the sheet Robert Earl copied out two surname etymologies from a name dictionary — one for **Rode**, glossed as Dutch or German for a court officer or town crier and derived from a pet form of names beginning *Rod*, "renown"; the other for a name beginning **Fletch** or similar, not legible here.
-
-He did this fairly often: when a surname puzzled him he went to the etymology, on the reasonable theory that a name's meaning sometimes tells you where its bearers came from. It is not evidence about anybody, but it is characteristic of how he worked.
-
-> *Source: handwritten abstract of the 1860 U.S. census for Salem and Aurelius Townships, Washington County, Ohio, from Robert Earl Wildermuth's research papers; in Chuck's keeping. Photographed 2026 at low resolution.*
+> *Source: handwritten abstract of the 8th Census (1860), Salem and Aurelius Townships, Washington County, Ohio, from Robert Earl Wildermuth's research papers; in Chuck's keeping. Photographed 2026 and re-read at full resolution.*
