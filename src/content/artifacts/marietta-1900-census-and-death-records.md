@@ -70,7 +70,12 @@ It also means Flora's nine children are **at least ten births**, and that the ni
 
 Entry 5467 is **[Johann Michael Wildermuth](/family/johann-michael-wildermuth/)** — the record whose famously wrong age of forty [he caught and challenged in 1977](/family/johann-michael-wildermuth/). What the abstract adds is the cause: **asthma**, with his trade given as **shoemaker** to the end.
 
-The three Schlicher deaths are men this archive has no place for — a **Peter Schlicher**, merchant, born in Germany about November 1826, and a **Jacob** and a **Fred**. The 1900 census sheet also carries a **Peter Schlicher Jr.**, born March 1861, a **manufacturer of cigars** on Second Street, and a **Walter Schlicher**, day labourer on Seventh Street with two daughters working as dressmakers. **Marietta held several Schlicher households and the archive is connected to only one of them.**
+The three Schlicher deaths are men this archive has no place for — a **Peter Schlicher**, merchant, born in Germany about November 1826, and a **Jacob** and a **Fred**. The 1900 census sheet also carries two more Schlicher households:
+
+- **108 Second Street** — **Peter Schlicher Jr.**, born 29 March 1861 in **Ohio** to German parents, a **manufacturer of cigars**; wife **Julia** (Dec 1863, 3 children/3 living); sons **Karl** (1886), **Walter** (1892) and **Roy** (1893); a niece **Edna Kunz** (Dec 1894); and **Jacobine**, aged 69, born August 1830, entered as **father-in-law** — a female name against a male relationship, so one or the other is a slip of the enumerator's pen.
+- **500 Seventh Street** — **Walter Schlicher**, day labourer, with **Kate** (4 children born, 2 living) and daughters **Nora** and **Nellie**, both **dressmakers** at seventeen and fourteen.
+
+**Marietta held several Schlicher households and the archive is connected to only one of them.** Peter Jr., born in Ohio in 1861, is of Flora's generation exactly — a cousin, most likely, and the cigar trade would be worth following.
 
 ## And the Röesers
 
