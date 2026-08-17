@@ -58,7 +58,9 @@ Set beside the other land records in the papers, a coherent story appears — **
 
 A man buys a large tract, and over the next forty years pieces of it pass to Flemings — including **168½ acres to John for a nominal dollar**, which is what a father does for a son on his marriage. **That is now seven separate contacts** between a James Fleming and this household.
 
-**It is still not proof.** The deed does not say James was John's father, or John's anything. But Robert Earl concluded in [November 1998](/archive/fleming-retraction-1998/) that *"James Fleming was indeed the progenitor of our line of Flemings"* and never showed his reasoning. **This transcription, in his own hand, is very likely the reasoning.**
+**It is still not proof.** The deed does not say James was John's father, or John's anything. Robert Earl concluded in [November 1998](/archive/fleming-retraction-1998/) that *"James Fleming was indeed the progenitor of our line of Flemings"* without showing his reasoning, and **this transcription is very likely the reasoning.**
+
+> **But James was not his final answer.** By **April 1999** he had [shelved the question entirely](/archive/fleming-email-shelf-1999/) — *"I've decided to turn my back on our John Fleming b. 1781… **Still leaning towards Samuel or Patrick.**"* Four positions in thirteen months, and the last names neither John nor James. **This deed is the best thread available; it is not a conclusion, and this archive should not present it as one.**
 
 **What would settle it:** the **c. 1803 Harrison County deed** for the 168½ acres — a one-dollar conveyance normally states the relationship between the parties — and any Hampshire County record for a James Fleming before 1795.
 

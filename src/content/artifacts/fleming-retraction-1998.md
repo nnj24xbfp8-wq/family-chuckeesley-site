@@ -47,6 +47,8 @@ The instruction at the end is explicit:
 
 **What survives:** John Fleming IV himself, as **Lewis Fleming's father**. Nothing in this letter touches that, and it is independently supported by [his 1853 death record](/archive/john-fleming-death-record-1853/), whose informant was his son **Eli B. Fleming**, and by the [1827 consent note](/docs/john-fleming-family-legacy/) signed *John Fleming*.
 
+> **And this was not his last word either.** Five months later, in [April 1999](/archive/fleming-email-shelf-1999/), he abandoned the search — *"I've decided to turn my back on our John Fleming b. 1781… **Still leaning towards Samuel or Patrick**"* — and turned to the Baileys and Bartletts instead. **The James Fleming of this letter was a way-station, not a destination.**
+
 **What replaces it is not yet known here.** He says James Fleming was the progenitor and that he enclosed *"a 10 generation Pedigree Chart and a rundown on James Fleming."* **Neither enclosure has been photographed.** From [his September 1998 letter](/archive/fleming-dear-cousins-1998/) we know he then thought **James Fleming Jr.** was the son of a James born 1716 — but that was written while he still held the four-Johns view, so it cannot simply be carried across.
 
 > **This is the correct outcome, not a setback.** He tested a lineage he had published, found a better-sourced authority, and reversed himself in writing at seventy-four — having already circulated the wrong version to his cousins. The archive's job is to follow him, including when he corrects himself.

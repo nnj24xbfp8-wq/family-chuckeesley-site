@@ -26,7 +26,15 @@ The German village she was born in — **Breitenbach** — sits about **250 mile
 
 Her parents were **[Christian Boeshar](/family/christian-boeshar/)** (1810–1843), a Breitenbach miner, and **[Maria Margaretha Jung](/family/maria-margaretha-jung/)** (b. 1814) of nearby Frohnhofen, who married in Breitenbach in 1836; Catharina had an older brother, **Jacob** (b. 1837). Her father **died in May 1843, when she was not yet three**, so she grew up in a widowed household — context that sits behind a young Pfälzerin leaving for Ohio.
 
-Johann Michael's [1853 Philadelphia naturalization petition](/docs/johann-michael-wildermuth-naturalization-1853/) documents him arriving at the **Port of New York in 1847** as a boy under eighteen, and being in Pennsylvania by 1852. Catharina's own emigration is less documented in this archive — her Atlantic crossing date, her port of arrival, and how she came to Washington County are open research, but she had to be there by 1862. The Pfalz-to-Ohio path in those years typically went through **New York or Baltimore** by sail to Philadelphia and then overland to the Ohio Valley.
+Johann Michael's [1853 Philadelphia naturalization petition](/docs/johann-michael-wildermuth-naturalization-1853/) documents him arriving at the **Port of New York in 1847** as a boy under eighteen, and being in Pennsylvania by 1852. Catharina's own crossing is still undocumented — the date, the port and the route are open research — but she had to be in Washington County by 1862. The Pfalz-to-Ohio path in those years typically went through **New York or Baltimore** and then overland to the Ohio Valley.
+
+### She was coming to Boeshars, not to strangers
+
+The **[1860 census for Washington County](/archive/boeshar-1860-washington-county-census/)**, abstracted in Robert Earl's papers, finds **at least three Boeshar households** in Salem and Aurelius Townships two years before her marriage — including a **Theobald Boesher** of about 27 born in Bavaria, a **widow of about 50 with two Bavarian-born sons**, and a farming household under a **Jost Boesher** with the elder children born in Germany and the younger in Ohio.
+
+**That changes the shape of the question.** A girl orphaned of her father before she was three, leaving a widowed household in the Pfalz, did not step off a boat into an Ohio river county at random. **There was a Boeshar settlement here already.**
+
+*None of these people is yet demonstrated to be her kin* — the sheet was photographed at a resolution that will not support fine detail, and the townships want re-reading at full size. But the useful question is no longer *how did she get to Marietta alone?* It is **which Boeshar household was she coming to** — and a passenger list carrying a family group is far easier to find than one carrying a lone young woman.
 
 ## The long Marietta life
 

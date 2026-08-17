@@ -192,7 +192,41 @@ From Maxwell & Swisher, *History of Hampshire County* (1897), read at the Orland
 **Samuel Bartlett & Mary Fleming, Oct 1824** — with his own circled note ***"father was James Fleming"*** · James Fleming & Mary Whitehair **8 Feb 1821** · Samuel Fleming & Mary Fleming 25 Jan 1820 · Andrew Flemming & Mary Flemming 18 Sep 1828 · John Fleming & Mary A. Fleming 12 Apr 1838 ✓ · **John H. Bartlett & Sarah Fleming 19 Nov 1827** · Thomas Fleming & Ann Wood 29 Oct 1804 · Thomas Bailey & Lucinda Reynolds 2 Jun 1835.
 Two more **Bartlett–Fleming** marriages. Taylor Co. deaths starred: **Thomas Bailey b.1809 d. 26 May 1888** (paralysis, Fairview, farmer) and **Nancy Bailey b.1826 d. 19 Dec 1883** — a generation below the 1803 couple.
 
-### ⭐⭐⭐ THE 1795 DEED — probably the answer, added 15 Aug 2026
+### ⚠⚠ CORRECTION — JAMES FLEMING WAS NOT HIS FINAL ANSWER (15 Aug 2026, later)
+[Artifact](/archive/fleming-email-shelf-1999/) — April 1999 emails, subject **"HE'S ON THE SHELF"**
+
+> *"I've decided to turn my back on our John Fleming b. 1781. Maybe something will turn up unexpectedly. **Still leaning towards Samuel or Patrick.**"*
+
+**Four positions in thirteen months:**
+| Mar 1998 | John Fleming III, four-John Maryland line (the charts) |
+| May 1998 | "a stumbling block… so many Johns, James, Patricks and Samuels" |
+| Nov 1998 | **James Fleming** (the retraction) |
+| **Apr 1999** | **"Samuel or Patrick"** — and shelved |
+
+**I over-claimed.** `john-fleming-iv.md`, the 1795-deed artifact and the retraction artifact all framed James as his conclusion. Corrected: the James land trail is the **best documentary thread**, not a conclusion, and **he never settled it**.
+
+**New candidates to work:**
+- **Samuel Fleming** — "one of the original sons", J.P. in Frederick Co., MD, "really cut a swath" (Sept 1998 letter)
+- **Patrick Fleming** — and note **"Patrick — HMP"** in the 1820 Virginia census list, i.e. **Hampshire County**, the county John IV's death register gives as his birthplace
+
+**He also never found Lewis's death record** — April 1999: *"all I know is that he died in Taylor County c. 1862."* Still unverified.
+
+### Taylor County research leads from Norman Collier (1999) — mostly unchased
+- **Marguerite Baugh**, Taylor County Library / Taylor Co. Genealogy Society — 30 yrs in post, would do look-ups for cost of copies
+- **Melba Zinn**, Grafton — compiler of *Taylor County, WV Deed Abstracts, Books One & Two, 1844–1862*
+- **Wes Cochran**, *Taylor County, WV Marriages 1853–1905* (1987) — ~50 indexed Fleming marriages
+- ***A Taylor County History of West Virginia***, Taylor Co. Genealogy Society 1986 — **three Fleming write-ups, pp. 218–220**; both say the Flemings came to Taylor Co. about the Civil War
+- **Nation Cemetery, Grafton** — *Flemming, John P., d. 19 April 1864*
+- **A Feb 1845 deed**: part of a 300-acre grant to William McClurg *"and by him conveyed to **John Fleming heirs** and Henry Little"* — an heirs conveyance normally names them. **CHASE THIS.**
+- Collier's verdict: *"Nothing on John."*
+
+### BOESHAR HOUSEHOLDS IN WASHINGTON COUNTY, 1860 — Catharina had kin there
+[Artifact](/archive/boeshar-1860-washington-county-census/) · ⚠ read from a 360×480 thumbnail; households reliable, details provisional
+At least three Boeshar/Boesher households in Salem & Aurelius Townships two years before Catharina's 1862 marriage: **Theobald Boesher ~27, b. Bavaria**; **a widow ~50 with two Bavarian-born sons** (~1833, ~1844); **Jost Boesher ~42, farmer**, elder children German-born, younger Ohio-born.
+**Reframes her undocumented crossing:** not "how did she reach Marietta alone?" but **"which Boeshar household was she coming to?"** A family-group passenger list is far easier to find than a lone young woman.
+**→ NEEDS: the township originals at full resolution; whether any came from Breitenbach / the Kusel district; 1850s passenger lists with multiple Boeshars.**
+
+### ⭐⭐⭐ THE 1795 DEED — the best thread, NOT the answer (see correction above)
 [Artifact](/archive/berry-to-james-fleming-deed-1795/) · **Harrison County Deed Book 2, pp. 202–203**
 
 **6 October 1795. Thomas Berry & Barbara his wife → JAMES FLEMING "OF THE COUNTY OF HAMPSHIRE". $500. 334 ACRES ON SIMPSON'S CREEK.** Patent dated 21 Dec 1786. Transcribed in full in Robert Earl's own hand.

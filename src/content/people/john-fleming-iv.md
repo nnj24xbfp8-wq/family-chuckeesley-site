@@ -38,7 +38,11 @@ So this is not a family tradition or a chart entry. He handled the document, **f
 >
 > **Robert Earl Wildermuth withdrew that line on 27 November 1998**, eight months after printing it — *"Gross error in our Fleming family lineage but recoverable. I just learned that our oldest of Fleming ancestors were not 4 guys named John."* A well-sourced 1941 genealogy convinced him that **"our John IV (my designation) was not the son of John III of Pennsylvania,"** and he instructed that John Jr. and John III be **removed** and **James Fleming** inserted instead. [The letter is here.](/archive/fleming-retraction-1998/)
 >
-> **So his parents are not known in this archive.** The 1853 death register records the family's own answer — *"John & A. Fleming"* — which is the same four-Johns tradition he tested and rejected. He believed the answer was a James Fleming and enclosed a ten-generation chart to prove it; **that enclosure has not been found.**
+> **So his parents are not known in this archive — and he never settled them either.** The 1853 death register records the family's own answer, *"John & A. Fleming"*, which is the four-Johns tradition he tested and rejected. In November 1998 he named **James Fleming** instead. And by **April 1999** he had moved again, [shelving the whole question](/archive/fleming-email-shelf-1999/):
+>
+> *"I've decided to turn my back on our John Fleming b. 1781… **Still leaning towards Samuel or Patrick.**"*
+>
+> **Four positions in thirteen months.** The James Fleming land trail below is the strongest documentary thread anyone has, but it was not his conclusion — his last recorded view names **Samuel or Patrick**. A **Patrick Fleming** appears in the 1820 Virginia census in **Hampshire County**, which is the county this man's death register gives as his birthplace.
 
 ## Pennsylvania frontier, Virginia farm
 
@@ -143,7 +147,9 @@ Writing to a Bartlett researcher in [May 1998](/archive/wildermuth-email-bartlet
 
 **Where those acres came from is now documented.** In **1795 a James Fleming "of the County of Hampshire" bought 334 acres on Simpson's Creek** for five hundred dollars — [the deed is transcribed in Robert Earl's own hand](/archive/berry-to-james-fleming-deed-1795/). A 168½-acre farm handed to John for a dollar a few years later is **half of that tract**, and it sits on the creek where John's son Lewis was then born.
 
-That is one of **seven** places a James Fleming touches this household — the 1795 purchase, the 1798 and 1833 Simpson's Creek deeds, the dollar farm, [the 1827 consent he witnessed](/archive/john-fleming-consent-note-1827/), his 1820 marriage to Polly Whitehair, and his daughter's 1824 marriage to a Samuel Bartlett. The [1998 retraction](/archive/fleming-retraction-1998/) names a James Fleming as the family's progenitor and never shows why; **this is almost certainly the why.**
+That is one of **seven** places a James Fleming touches this household — the 1795 purchase, the 1798 and 1833 Simpson's Creek deeds, the dollar farm, [the 1827 consent he witnessed](/archive/john-fleming-consent-note-1827/), his 1820 marriage to Polly Whitehair, and his daughter's 1824 marriage to a Samuel Bartlett.
+
+**What that does and does not show.** It is the densest documentary connection between a named Fleming and this household, and it is very likely what lay behind the [November 1998 retraction](/archive/fleming-retraction-1998/). It is **not** a demonstrated parentage, and **it was not his final view** — five months later he was [leaning towards Samuel or Patrick](/archive/fleming-email-shelf-1999/) and had put the question aside.
 
 **The record that would prove it: the c. 1803 Harrison County deed for the 168½ acres.** A one-dollar conveyance normally states the relationship between the parties outright.
 
