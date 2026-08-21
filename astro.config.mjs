@@ -1,12 +1,15 @@
 import { defineConfig } from 'astro/config';
 import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
-import tailwind from '@astrojs/tailwind';
+import tailwindcss from '@tailwindcss/vite';
 
 // https://astro.build/config
 export default defineConfig({
   site: 'https://family.chuckeesley.com',
-  integrations: [mdx(), sitemap(), tailwind()],
+  integrations: [mdx(), sitemap()],
+  vite: {
+    plugins: [tailwindcss()],
+  },
   // Redirects for URLs that previously existed and have been moved.
   // Keep these around so external links / search-engine indexes don't 404.
   redirects: {

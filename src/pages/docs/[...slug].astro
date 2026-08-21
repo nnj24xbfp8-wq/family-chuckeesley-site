@@ -56,7 +56,10 @@ const dateLabel = (d) => d.data.postmarkDate ?? d.data.dateRange?.start ?? '';
 const seq = doc.data.partOf
   ? allDocs
       .filter((d) => d.data.partOf?.id === doc.data.partOf.id)
-      .sort((a, b) => navKey(a).localeCompare(navKey(b)))
+      // Tie-break on id: several letters share a date (e.g. two on 1970-10-14),
+      // and without a total order their sequence falls through to content-loader
+      // order, which is not stable across Astro versions.
+      .sort((a, b) => navKey(a).localeCompare(navKey(b)) || a.id.localeCompare(b.id))
   : [];
 const seqIndex = seq.findIndex((d) => d.id === doc.id);
 const prevDoc = seqIndex > 0 ? seq[seqIndex - 1] : undefined;
