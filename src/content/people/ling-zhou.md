@@ -50,7 +50,7 @@ summary: "Lijie's father. Son of Zhaoxiang Zhou (1930–2022) and Yunzhe Sun (d.
 
 Details withheld &mdash; living. Father of [Lijie 周丽婕](/family/lijie-zhou/).
 
-The portrait at the head of this page shows Ling Zhou in a **People's Police-style service uniform** with red epaulets, standing beside a young Lijie (~10) in a red pinafore over a white turtleneck &mdash; an indoor flash photograph from the early 1990s, the years he was a working public-safety officer in Qingdao and his daughter was in primary school. It is, as of this writing, the only photograph in the archive of the two of them together. Full artifact entry with provenance and bilingual context: [Ling Zhou with teenage Lijie, c. 1990s](/archive/ling-zhou-with-teen-lijie-1990s/).
+The portrait at the head of this page shows Ling Zhou in a service uniform of the period &mdash; pale blue shirt, dark tie, shoulder boards, a red-bordered badge at the collar &mdash; standing beside a young Lijie in a red pinafore over a white turtleneck. He worked as a **driver** in Qingdao in these years, while his daughter was in primary school. It is, as of this writing, the only photograph in the archive of the two of them together. Full artifact entry with provenance and bilingual context: [Ling Zhou with teenage Lijie, c. 1990s](/archive/ling-zhou-with-teen-lijie-1990s/).
 
 A later photograph of Ling Zhou is in the archive too: [a family visit with his father Zhaoxiang and his wife Xun Li](/archive/visit-with-zhaoxiang-zhou-and-family/), Ling seated in a dark leather jacket to the right of Zhaoxiang.
 
@@ -65,16 +65,16 @@ A separate **young-man studio portrait** of Ling, from earlier in his life, has 
 
 He and Lijie's mother [Xun Li](/family/xun-li/) made the **honeymoon trip to Hangzhou** documented at [Lingyin Temple](/places/lingyin-temple-hangzhou/) in 1982, just after their wedding &mdash; the [then-and-now pair](/places/lingyin-temple-hangzhou/) on that page is theirs.
 
-## The Cultural Revolution train
+### The Cultural Revolution train
 
 One story Lijie's father has given permission for this archive to carry: during the **Cultural Revolution** (1966&ndash;1976) &mdash; the years when families across China were dispersed by political dislocations, sent-down youth programs, and the wider scattering of urban populations into the countryside &mdash; **Lijie's father took a train out to the western provinces to bring family members back to Qingdao.** Among those he rode back with were several young female cousins whose lives, but for that train, would have run a different course. Two of those cousins, now grown women, had lunch with Chuck and Lijie on a recent Qingdao visit &mdash; the connection still living, two generations on.
 
-[Lijie's mother](/family/xun-li/) framed what her husband did in the simplest terms: *"that changed the family's trajectory."* The remark holds the weight a sentence like it can. The Zhou family of the present generation &mdash; the cousins, their children, the holiday meals, the calls across cities &mdash; sits where it sits in part because of one young man's train trip west.
+[Lijie's mother](/family/xun-li/) framed what her husband did in the simplest terms: *"that changed the family's trajectory."* She meant it literally. The Zhou family of the present generation &mdash; the cousins, their children, the holiday meals, the calls across cities &mdash; sits where it sits in part because of one young man's train trip west.
 
 The story is among the most consequential single-action narratives this archive holds on the Zhou side, and is shared here with Lijie's father's express permission.
 
 > *Structured record: [Dale Eesley & Chuck Eesley / FamilySearch &mdash; Ling Zhou (GMLK-9RP)](https://www.familysearch.org/tree/person/details/GMLK-9RP).*
 
-## See also — family threads
+### See also &mdash; family threads
 
-Ling Zhou is an anchor for **Thread #4 (Returning to the places that matter — pilgrimage as family form)** in the [**Family threads**](/docs/family-threads/) synthesis essay. The **1982 honeymoon photograph at the [Lingyin Temple gate](/places/lingyin-temple-hangzhou/)** of Ling and [Xun Li](/family/xun-li/), just after their wedding in [Qingdao](/places/qingdao/), is the Zhou-side founding pilgrimage image — and the 2019 return frame at the same gate, plus the matching Chuck-and-Lijie frame from the same visit, complete the three-frame echo.
+Ling Zhou is an anchor for **Thread #4 (Returning to the places that matter &mdash; pilgrimage as family form)** in the [**Family threads**](/docs/family-threads/) synthesis essay. The **1982 honeymoon photograph at the [Lingyin Temple gate](/places/lingyin-temple-hangzhou/)** of Ling and [Xun Li](/family/xun-li/), just after their wedding in [Qingdao](/places/qingdao/), is the Zhou-side founding pilgrimage image &mdash; and the 2019 return frame at the same gate, plus the matching Chuck-and-Lijie frame from the same visit, complete the three-frame echo.
