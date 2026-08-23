@@ -50,7 +50,7 @@ summary: "Lijie's father. Son of Zhaoxiang Zhou (1930–2022) and Yunzhe Sun (d.
 
 Details withheld &mdash; living. Father of [Lijie 周丽婕](/family/lijie-zhou/).
 
-The portrait at the head of this page shows Ling Zhou in a service uniform of the period &mdash; pale blue shirt, dark tie, shoulder boards, a red-bordered badge at the collar &mdash; standing beside a young Lijie in a red pinafore over a white turtleneck. He worked as a **driver** in Qingdao in these years, while his daughter was in primary school. It is, as of this writing, the only photograph in the archive of the two of them together. Full artifact entry with provenance and bilingual context: [Ling Zhou with teenage Lijie, c. 1990s](/archive/ling-zhou-with-teen-lijie-1990s/).
+The portrait at the head of this page shows Ling Zhou in a service uniform of the period &mdash; pale blue shirt, dark tie, shoulder boards, a red-bordered badge at the collar &mdash; standing beside a young Lijie in a red pinafore over a white turtleneck. He was a **driver for government officials** in Qingdao in these years, which accounts for the official service dress, while his daughter was in primary school. It is, as of this writing, the only photograph in the archive of the two of them together. Full artifact entry with provenance and bilingual context: [Ling Zhou with teenage Lijie, c. 1990s](/archive/ling-zhou-with-teen-lijie-1990s/).
 
 A later photograph of Ling Zhou is in the archive too: [a family visit with his father Zhaoxiang and his wife Xun Li](/archive/visit-with-zhaoxiang-zhou-and-family/), Ling seated in a dark leather jacket to the right of Zhaoxiang.
 
