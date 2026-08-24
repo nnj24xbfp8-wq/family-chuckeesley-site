@@ -18,7 +18,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22 # matches the "node": "22.x" engines pin in package.json
       # The checker is pure Node with no dependencies, so no install step is needed.
       - name: Check internal links
         run: node scripts/check-links.mjs
