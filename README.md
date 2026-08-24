@@ -4,9 +4,11 @@ A narrative, archive-quality family-history site for the Eesley and Wildermuth f
 
 See `family-history-brief.md` in the chuckeesley-site repo for the full project brief, source inventory, family map, and architecture rationale.
 
+See [MAINTENANCE.md](MAINTENANCE.md) for CI, dependency updates, and security-advisory history.
+
 ## Stack
 
-- Astro 5 (content collections)
+- Astro 7 (content collections)
 - Tailwind CSS + Typography plugin
 - MDX
 - Sitemap
