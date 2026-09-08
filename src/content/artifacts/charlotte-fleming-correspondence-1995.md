@@ -20,6 +20,12 @@ Four letters exchanged in a month between **Robert Earl Wildermuth** in Casselbe
 
 It is the best surviving example of how this research actually moved: two people in different states, neither near the records, trading photocopies and cheques for postage, each holding a piece the other needed.
 
+His opening letter of **25 March 1995** — *"Dear Cousins"* — sets out the two separate Fleming families, explains that his ancestor-tracing has been *"on the shelf for the past couple of years"* while he hosts the bomb-group reunion, and asks her a direct question he had been stuck on for years:
+
+> *"For years, I have been trying to find out what happened to our John Fleming who died in 1829. Went down several dead ends and found quite a bit of info on a John Fleming who happened to be the son of Samuel Fleming the third son of the original John. That John died in 1826 &mdash; **close but no cigar** … Could I ask you what your source of information is on John who died in 1829?"*
+
+![A typed letter dated 25 March 1995 from 410 Eagle Circle, Casselberry, Florida to Mrs. Charlotte Fleming of 8521 East Shiloh Street, Tucson, Arizona, opening Dear Cousins, thanking her for her letter and pedigree charts, distinguishing the John and Boaz Fleming lines, explaining that he is hosting the national reunion of the 90th Bomb Group Association, asking her source for the John Fleming who died in 1829, and remarking that his wife is not a genealogy person and Clarksburg is not the shopping mecca of the hills of West Virginia.](../../assets/family/originals/wildermuth-letter-charlotte-1995-03-25.jpeg)
+
 ## The question they were both working on
 
 **Who was the mother of Eli B. Fleming?**
@@ -82,6 +88,16 @@ And he leaves it open, as always: ***"Please let me know the source of your John
 
 On **16 April** Charlotte sent the find that produced [the 1820 Rosier & Roe deed](/archive/roe-rosier-deed-1820/), spotted in the **Harrison County Genealogical Society** newsletter — with the observation that both John Roe and his wife **could write**, *"unusual at that time."*
 
+Her reasoning for the identification is worth having in her own words, because it rests on absence:
+
+> *"I feel sure it is signed by **Clary's father, John Roe**, since I have found no other family by that name in the area. It lists his wife as **Susannah**. I thought it interesting that both John and his wife could write. This was unusual at that time."*
+
+**She was right, and the archive has the proof she did not.** The wife is [Susannah Meeks](/family/clarissa-roe/), and the [1820 deed](/archive/roe-rosier-deed-1820/) shows **both Roes signing their own names with seals** where their co-grantor Andrew Rosier could manage only a mark. Charlotte inferred the literacy from a newsletter item in Tucson; the deed in these same papers demonstrates it.
+
+The same letter reports the dead end with **Jennie Brown** on Eli's mother, and closes with the postscript that fixes the economics of the whole exchange: *"Hope the enclosed check covers your expenses for Xeroxing and postage."*
+
+![A typed letter on Charlotte Fleming's personal letterhead, dated April 16 1995, to Mr. Bob Wildermuth of Casselberry, Florida, thanking him for the packet of information, enclosing a copy of an item from the Harrison County Genealogical Society newsletter she believes was signed by Clary's father John Roe and lists his wife as Susannah, noting that both could write, reporting that Jennie Brown could not help identify Eli B. and Sarah Fleming Dotson's mother, signed Charlotte, with a postscript hoping the enclosed check covers Xeroxing and postage.](../../assets/family/originals/charlotte-fleming-letter-1995-04-16.jpeg)
+
 ## The other researchers in the network
 
 The letters name the whole informal circle these two were working inside, which is worth recording because most of it is now unreachable:
@@ -104,7 +120,7 @@ The letters name the whole informal circle these two were working inside, which 
 
 ## And the human parts
 
-Charlotte, closing on 5 April 1995: *"Your willingness to share information is greatly appreciated. **Maybe together we can get Eli's parents sorted out.**"* And a postscript hoping the enclosed cheque covered his photocopying.
+Charlotte, closing on 5 April 1995: *"Your willingness to share information is greatly appreciated. **Maybe together we can get Eli's parents sorted out.**"* And, eleven days later, a postscript hoping the enclosed cheque covered his photocopying.
 
 Robert Earl, on the difficulty of doing genealogy with a spouse in tow: *"My wife is not a genealogy person and she gets impatient. Clarksburg is not the 'shopping mecca' of the hills of W.Va."* Charlotte, who grew up there, agreed: *"there really isn't a lot to do or see there … it still is a pretty boring place after a couple of days."*
 

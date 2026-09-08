@@ -29,11 +29,24 @@ people:
 dateRange:
   start: "1998"
 sortDate: "1998-03-23"
-source: "\"John Fleming Family Legacy,\" typed narrative in thirteen hand-numbered pages, from Robert Earl Wildermuth's research papers; in Chuck's keeping. Photographed August 2026."
+source: "\"John Fleming Family Legacy,\" typed narrative in thirteen hand-numbered pages, from Robert Earl Wildermuth's research papers; in Chuck's keeping. Photographed August 2026. Pages 2&ndash;13 are attached below; the photograph of page 1 is not in the scan set, so that page survives here only in transcription."
+scans:
+  - ../../assets/family/originals/fleming-family-legacy-p2.jpeg
+  - ../../assets/family/originals/fleming-family-legacy-p3.jpeg
+  - ../../assets/family/originals/fleming-family-legacy-p4.jpeg
+  - ../../assets/family/originals/fleming-family-legacy-p5.jpeg
+  - ../../assets/family/originals/fleming-family-legacy-p6.jpeg
+  - ../../assets/family/originals/fleming-family-legacy-p7.jpeg
+  - ../../assets/family/originals/fleming-family-legacy-p8.jpeg
+  - ../../assets/family/originals/fleming-family-legacy-p9.jpeg
+  - ../../assets/family/originals/fleming-family-legacy-p10.jpeg
+  - ../../assets/family/originals/fleming-family-legacy-p11.jpeg
+  - ../../assets/family/originals/fleming-family-legacy-p12.jpeg
+  - ../../assets/family/originals/fleming-family-legacy-p13.jpeg
 summary: "Robert Earl Wildermuth's fullest piece of Fleming research — thirteen typed pages, one ancestor at a time, each headed with his exact relationship to the writer. It carries the line from John Fleming Sr., a weaver who came to Cecil County, Maryland in 1712, down through Maryland tobacco planters, Revolutionary soldiers and West Virginia hill farmers to his own mother, Sadye. Page 5 quotes the 1827 marriage consent that proves Lewis Fleming's father was John, not Edward — resolving a question this archive carried for years. Page 11 gives his reason for the whole twenty-year search: his grandfather James Wesley Fleming died in the county home for men, and nobody knew who his parents were. Transcribed here in full, with his spelling and typing errors preserved."
 ---
 
-*Transcribed verbatim from the thirteen-page typescript. Robert Earl's spelling, punctuation and typing errors are preserved as he left them; obvious slips are flagged in square brackets only where they would otherwise mislead. Page numbers follow his own pencil numbering. The document's findings — and where they correct or conflict with this archive — are discussed on the [artifact page](/archive/john-fleming-family-legacy/).*
+*Transcribed verbatim from the thirteen-page typescript. Robert Earl's spelling, punctuation and typing errors are preserved as he left them; obvious slips are flagged in square brackets only where they would otherwise mislead. Page numbers follow his own pencil numbering, which the attached photographs carry at the foot of each sheet. The document's findings — and where they correct or conflict with this archive — are discussed on the [artifact page](/archive/john-fleming-family-legacy/).*
 
 ---
 

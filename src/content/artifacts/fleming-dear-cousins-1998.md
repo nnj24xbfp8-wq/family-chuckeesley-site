@@ -66,6 +66,10 @@ Around the same time, **Pennsylvania tax lists for 1754–1758** turned up a Joh
 
 > *"Only one thing bothers me a little and that is that Samuel was not mentioned in John's Will nor was James … I still have reservations about Samuel being a son but I'll talk about that at a later time."*
 
+Page 2 is where that whole sequence sits, with **TOWNSHIP** underlined in the middle of it:
+
+![Page two of the typed letter, describing the four-Johns tradition received from Arch Fleming, the search for John Fleming Senior's will through Chester County and the Chester County Historical Society, the archivist's unprompted letter about a John Fleming who died in Derry TOWNSHIP — the word underlined — in Lancaster County in 1777, the Pennsylvania tax lists showing a John Fleming who was a weaver, and the corrections about Baker Johnson and Lord Fairfax.](../../assets/family/originals/fleming-dear-cousins-1998-p2.jpeg)
+
 ## James Fleming — the man who would soon replace the Johns
 
 He devotes much of page 3 to a **James Fleming**, then believed to be a collateral relative: *"I believe he is the son of James b. 1716. That would make our John Jr. his uncle and our John III his cousin and our John IV his second cousin."*
@@ -98,6 +102,14 @@ Small, and the reason the papers are trustworthy:
 
 So the **1803 marriage banns survive in copy**, naming both fathers — and [Clarissa](/family/clarissa-roe/)'s death is placed in the Eastern District shortly before the 1838 move, rather than left as a bare "about 1838."
 
+## Two smaller things on the last page
+
+**A geography note that matters for reading the rest of the papers.** He locates James Fleming's cheap land sales to Fleming families in *"the Eastern District of Harrison Co., Va. **(now Taylor Co. W.Va.)**"* — which is why [his census abstracts](/archive/fleming-taylor-county-census-abstracts/) treat Harrison and Taylor as one field of search. They are the same ground at two dates.
+
+**An unpursued surname.** *"I have scads of land records for James Fleming and they disclose that the **Welch family** did also journey along the same route as James but I didn't come across any records where James married a Welch but he may have."* A guess he declined to promote to a finding — and, if the [retraction](/archive/fleming-retraction-1998/) is right about James, the sort of guess worth testing.
+
 He closes asking for anything the cousins can find on **Robert White and John Hopkins** — two of the lines he would abandon eight weeks later.
+
+![Page three of the typed letter, covering the land records for James Fleming and the Welch family travelling the same route, the sale of land to his Revolutionary company captain, the cheap land given to Fleming families in the Eastern District of Harrison County now Taylor County, the several James Flemings including the notorious Tory who fled to Canada and England, the correction that Clarissa never lived in Barbour County and the surviving copies of the 1803 wedding banns, the note that James Fleming died in 1833 aged 88 leaving a will, and the closing request about Robert White and John Hopkins, signed BOB.](../../assets/family/originals/fleming-dear-cousins-1998-p3.jpeg)
 
 > *Source: typed letter, three pages, 29 September 1998, signed "BOB"; from Robert Earl Wildermuth's research papers, in Chuck's keeping. Photographed 2026.*
