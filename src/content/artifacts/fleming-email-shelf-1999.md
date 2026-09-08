@@ -61,16 +61,32 @@ And he was still hunting Lewis's death: *"all I know is that he died in Taylor C
 
 ## Taylor County research leads, from Norman Collier
 
-Three of the four pages are a forwarded reply from a **Norman Collier**, and they are pure practical intelligence — the kind of thing that is normally lost when a researcher dies:
+Three of the four pages are a forwarded reply from a **Norman Collier**, and they are pure practical intelligence — the kind of thing that is normally lost when a researcher dies.
+
+The route is worth noting. Collier answered a query on the **HCPD-L** list on **Friday 23 April 1999** under the subject *"Grafton, W Va. ABT 1830–1850"*; **[Charlotte Fleming](/archive/charlotte-fleming-correspondence-1995/)** — the Tucson cousin of the 1995 letters, four years on and now on email — forwarded it the next morning to Robert Earl at **FLEMCLAN9** and to a third researcher, **Ethel E. Nielsen**. So the 1995 network was still running in 1999, and it was still Charlotte who relayed things to him.
+
+![Page one of a printout of an America Online email, showing the forwarding header from Charlotte Fleming to Bob Wildermuth at FLEMCLAN9 and Ethel E Nielsen dated 24 April 1999, the full internet headers of the forwarded message from Norman Collier of 23 April 1999 on the subject Grafton, W Va. ABT 1830-1850, and the start of Collier's reply recommending Marguarite Baugh at the Taylor County Library, citing three write-ups in A Taylor County History of West Virginia of 1986, stating Nothing on John, and recording a Flemming, John Pvt., 4-19-1864 in the National Cemetery at Grafton. Footed Saturday April 24, 1999, America Online: FLEMCLAN9, Page 1.](../../assets/family/originals/fleming-collier-taylor-county-leads-1999-p1.jpeg)
+
+What Collier sent:
 
 - **Marguerite Baugh**, at the **Taylor County Library**, resident custodian of the **Taylor County Genealogy Society** — thirty years in the post, would do specific look-ups for the cost of copies. *(A 1999 phone number is on the page; not reproduced here.)*
 - **Melba Zinn** of Route 3, Box 169, Grafton — compiler of ***Taylor County, WV Deed Abstracts, Books One and Two, 1844–1852***, and available for paid research, *"but more expensive."*
 - ***Taylor County, WV Marriages 1853–1905***, compiled by **Wes Cochran** of Parkersburg, 1987 — from which Collier sent a page-indexed list of **Fleming marriages** running to some fifty entries, from Abbie to Zachariah.
 - ***A Taylor County History of West Virginia***, Taylor County Genealogy Society, 1986 — **three Fleming write-ups at pages 218–220**, both of which, Collier notes, *"indicate that the Flemmings came to Taylor County about the time of the Civil War."*
-- **Nation Cemetery, Grafton** — a **Flemming, John P.**, died **19 April 1864**.
-- And a deed abstract of February 1845 referring to part of a 300-acre grant to a **William McClurg** *"and by him conveyed to **John Fleming heirs** and Henry Little."*
+- **National Cemetery, Grafton** — a ***"Flemming, John Pvt., 4-19-1864"***, a Union burial of April 1864.
+- And a deed abstract of February 1845 referring to part of a 300-acre grant to a **William McClung** *"and by him conveyed to **John Fleming heirs** and Henry Little"* — the underlying conveyance dated **28 October 1844**, adjoining E. Thomas, on **Booths Creek**. *(The surname breaks across a line on the page; **McClung** is the better reading, though this archive earlier had it as McClurg.)*
 
 **"John Fleming heirs"** in a Taylor County deed of the 1840s is worth chasing — an heirs conveyance normally has to name them.
+
+![Page two of the printout, headed with Collier's note that both write-ups indicate the Flemmings came to Taylor County about the time of the Civil War and that they were not in the Confederate unit recruited there, the 25th Virginia Infantry and 9th Battalion Virginia Infantry; then Fleming Marriages: A BUNCH!, a long alphabetical list of Fleming given names each with page numbers, from Abbie 40 to Zachariah 67 and 112, referenced to Taylor County, WV Marriages 1853-1905 by Wes Cochran of Parkersburg, February 1987; and below it a deed abstract recorded February 1845 conveying 97 acres on Booths Creek, part of a 300-acre grant to William McClung and by him conveyed to John Fleming heirs and Henry Little.](../../assets/family/originals/fleming-collier-taylor-county-leads-1999-p2.jpeg)
+
+**And a flat contradiction, which is why the write-ups matter less than the indexes.** Collier reports that the county history has the *"Flemmings"* arriving in Taylor County **about the time of the Civil War**. [Robert Earl's own census abstracts](/archive/fleming-taylor-county-census-abstracts/) have a dozen Fleming households in Taylor County at the **1850** census, and this very page carries a Fleming heirs conveyance of **1844**. Either the write-ups describe a different family — note that they spell it **Flemming**, with the doubled m, as does the Grafton burial — or they are simply wrong. The published county history loses to his legal pad.
+
+**One entry in the Cochran index is worth a look on its own.** The list includes a **Henrietta** at page 67. The [1870 census sheet](/archive/fleming-taylor-county-census-abstracts/) records **Henrietta Fleming, 13**, annotated *"Patrick Jr.'s daughter"* — orphaned by her father's death in 1865 and of exactly marriageable age in the years Cochran's index covers. Page 67 of *Taylor County, WV Marriages 1853–1905* is where her married name would be.
+
+![Page three of the printout, completing the deed abstract with the words Little and by them conveyed to said Johnson adj. E. Thomas, 28 Oct. 1844, noting it is one of several citings of Flemings in the reference, giving the full citation for Taylor County, WV Deed Abstracts Book one and two 1844-1852 by Melba Zinn of Grafton with her phone number, remarking that she also does genealogy research but more expensive, closing Hope this helps! Norman Collier, and followed by the full internet headers of Charlotte Fleming's forwarding message of 24 April 1999.](../../assets/family/originals/fleming-collier-taylor-county-leads-1999-p3.jpeg)
+
+**Collier's own verdict on the question they had asked him sits in two words on page one: *"Nothing on John."*** These pages are dated 23 and 24 April 1999. Robert Earl [died on 25 June](/family/robert-earl-wildermuth/), two months later. The leads arrived in the same week he put the man on the shelf, and nothing in the photographed papers shows him acting on any of them.
 
 Collier's verdict on the main question was blunt and correct: ***"Nothing on John."***
 

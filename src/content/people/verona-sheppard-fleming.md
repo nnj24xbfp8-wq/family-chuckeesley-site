@@ -58,6 +58,10 @@ The notice also settles her age. It gives **11 June 1869**, matching this archiv
 
 Seven of fourteen surviving, and she was fifty-three.
 
+![A typed sheet headed OBITUARY, VERONA BELLE DUNBAR (FLEMING), transcribing the notice in full and citing its source as the Marietta Times of 28 October 1922, with the original newspaper clipping pasted below it, headed Mrs. Fleming Taken, its column creased and darkened but legible.](../../assets/family/originals/verona-fleming-obituary-1922.jpeg)
+
+*The sheet in Robert Earl's papers carries both: his own clean transcription at the top, and **the clipping itself pasted below it** — cut narrow, creased down the middle, and darkened with age. He typed it out because he could see the paper would not last.*
+
 Robert Earl Wildermuth was born 6 October 1924 &mdash; *two years* after Verona's death. He never met her.
 
 ## The lament &mdash; the only memoir trace of Verona

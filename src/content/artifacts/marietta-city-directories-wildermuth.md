@@ -38,6 +38,10 @@ City directories are the closest thing genealogy has to a moving camera. [Robert
 
 *(This consolidated sheet, at full resolution, **corrects the 1873–74 number from 50 to 30** — a misreading taken from an earlier 360 × 480 photograph.)*
 
+Here is that earlier photograph, kept because the correction is worth being able to check. It is a separate typed sheet carrying the 1873–74 entry alone, shot small and washed out, with a shadow across the page; the shop number in it can be read either way, which is how **30** became **50** in this archive for a while:
+
+![A small, low-resolution photograph of a typed sheet headed MARIETTA CITY DIRECTORY 1873 - 1874, carrying a single entry for Wildermuth, John, shoemaker, whose shop number on Front Street is too indistinct at this resolution to read with confidence, residing on Sixth Street between Warren Street and Montgomery Street, with a large shadow falling across the lower two-thirds of the page.](../../assets/family/originals/marietta-city-directory-1873-1874-wildermuth.jpeg)
+
 ![A typed extract from the Marietta City Directory 1897-1898 recording John M. Wildermuth, shoemaker at 134 Front Street, residing at 708 Sixth Street; Edward, mechanic, son; and William Wildermuth, turner, residing at 627 Seventh Street.](../../assets/family/originals/marietta-city-directory-1897-1898-wildermuth.jpeg)
 
 **And the house on Washington Street now has a number.** The [1903 obituary](/archive/john-michael-wildermuth-obituary-1903/) says only that he *"died at his home on Washington Street."* The 1899–1900 and 1902–03 directories both give it: **611 Washington Street**. He moved there from Sixth Street some time in the late 1890s, and that is the house he died in on 7 February 1903.

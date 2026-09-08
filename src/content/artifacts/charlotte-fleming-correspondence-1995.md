@@ -58,6 +58,52 @@ Robert Earl accepted the argument at first. Writing back on 22 April:
 
 > *"I certainly agree with your rationale that Clary (Roe) Fleming was most likely not the mother of Eli B. and/or Sarah. **Old John (1781) must have married three times** and perhaps wife number two was indeed a Susannah Bee."*
 
+### The 22 April letter, in three pages
+
+His reply is the longest item in the exchange, and it opens somewhere other than genealogy. He was seventy:
+
+> *"Well your letters caught me very much under the weather. This past month has sure been a bummer for me. Started out in March with an urinary tract infection that led up to the full nine yards of prostate searching and six biopsies (all benign); then of all things, I got the hiccups &mdash; **fourteen days and nights** before they got those under control, and then pleurisy. … Somewhere along the line these **'Golden Years' have gotten tarnished.**"*
+
+Then: *"Sure glad to receive your two letters. **Anything having to do with genealogy always gives me a lift.**"*
+
+![Page one of a typed letter dated 22 April 1995 from 410 Eagle Circle, Casselberry, Florida, addressed to Mr. and Mrs. Richard Fleming of East Shiloh Street, Tucson, opening Dear Cousins, describing a month of illness including six benign prostate biopsies, fourteen days of hiccups and pleurisy, agreeing that Clary Roe was probably not Eli's mother, noting that his own line parted with the birth of Lewis, remarking that his great-great-grandfather Johann Schmidt named all four sons Johann, and then describing a genealogical trip to Germany and a research visit to the State Archives in Stuttgart.](../../assets/family/originals/wildermuth-to-fleming-cousins-1995-04-22-p1.jpeg)
+
+**Why the Eli question did not threaten his own line.** *"Glad I don't have to ponder over that one for my line parted with the birth of my great,great grandfather, Lewis B. who was the son of John and Clary. **Born a couple of years after their marriage.**"* Lewis is early in the marriage; Eli is late in it. That is the whole shape of Charlotte's objection, and the reason it left him unbothered.
+
+*(He calls Lewis his **great-great-grandfather** here and, on page 3, his **3rd great** grandfather. The starred key on his own [1860 census sheet](/archive/fleming-taylor-county-census-abstracts/) says great-great. A slip of the typewriter, two pages apart.)*
+
+**And a German parallel to the four Johns**, which is the sort of thing only he would have reached for: *"consider my great,great grandfather **Johann Schmidt who named his four sons Johann**. That seemed to be a custom of the Germans because I've come across it many times."* — [John Jacob Schmidt](/family/john-jacob-schmidt/), on the other side of his own tree, running the same trap as the Flemings.
+
+### Germany, 1992 — the trip and the archive
+
+The middle of the letter is the fullest account in the papers of his **genealogical trip to Germany**, and it is candid about what it cost and what it produced:
+
+> *"I had studied German for six years in college and thought I could at least be able to ask directions. **Contrare !!** The natives speak so rapidly and they have distinct accents (especially Bavaria) that I couldn't keep up with them."*
+
+He went to the **State Archives in Stuttgart** — *"beautiful, well equipped, modern facility"* — and hit the wall every foreign researcher hits: the filing system was unfamiliar and the records were in **old German script** *"that is even difficult for most modern day Germans to translate."* **The archivist's advice was to take the address and write.** He had gone for photographs of the village square, church and cemetery, and got those; the records he wanted needed a letter he would have to send from home.
+
+His verdict on the whole excursion: ***"genealocically it was an expensive bust."*** *(This is the trip the [1992 Schlossplatz photograph](/places/stuttgart-schlossplatz/) comes from — and the reason the closing line about Stuttgart and Clarksburg below is a comparison he had actually earned.)*
+
+**Two Wildermuths he found there instead of ancestors.** A street in a walled town — *"the main street was **Wildermuth Strasse**… named after Germany's most famous (compared to Shakespeare) female poetess"* — and, in a cemetery, *"one Nazi who was the commandant of LaHavre, France but he refused Hitler's orders to burn the city as he and his troops retreated. He turned out to be a good guy for after the war he was selected to be **Conrad Adenaur's chief of our equivalent of H.U.D.** and completed a massive re-building program of homes for the German civilians."*
+
+Both are real people, and not relatives so far as anything here shows: the writer **Ottilie Wildermuth** (1817–1877), whose name is on streets across Württemberg, and **Eberhard Wildermuth** (1890–1952), the colonel who commanded the Le Havre garrison in 1944 and served as **Federal Minister for Housing** in Adenauer's first cabinet. *A retired American bomber navigator, in Germany looking for his own name, found it on a street sign and on the grave of the officer who had held Le Havre.*
+
+![Page two of the letter, describing the Wildermuth street named after the poetess and the Wildermuth who commanded at Le Havre and later served under Adenauer, advising that a tour group with side trips is the way to research in Germany, recounting the Pennsylvania Archives' refusal to say whether they held John Fleming's will, giving the background of Arch Fleming the state representative who lost both legs in a train accident, recounting how he inadvertently offended Mike Roberts over a remark about the Bees, and expressing his amazement that Susannah Roe could write and had her own personal seal.](../../assets/family/originals/wildermuth-to-fleming-cousins-1995-04-22-p2.jpeg)
+
+**His answer to Charlotte on the literacy.** She had noticed that both Roes could write; he took it further:
+
+> *"I share your amazement that our ancestors could write and apparently read. Especially surprising that **Susannah … Roe could write and that she had her own seal. A personal seal was a sign of a refined, cultured person.** In all my readings of the Scotch-Irish, I've always been impressed by their strong belief in education. **When they built a settlement, they first built a church (Presbyterian) and then a school.**"*
+
+### And the provenance of the consent note
+
+The last page settles something the archive has never had in his own words — **where the 1827 note came from**:
+
+> *"I've enclosed a sort of cute note that our John (b. 1781) scrawled to the 'County Clarke' giving permission for my 3rd great grandfather to 'go out from under my house' (I think he meant from under his roof) to get married. **Found this note filed with my grandfather Lewis' marriage banns in the Harrison County Court House.**"*
+
+So [the consent note](/archive/john-fleming-consent-note-1827/) was **filed with the marriage banns**, in the courthouse, and he found the two together — which is why the archive holds both. He adds that he has *"several signatures of our ancestors, especially **Samuel** one of the original sons. He really cut a swath through Frederick County, Maryland where he was a **J.P.** for many years"* — the same Samuel he would still be *"leaning towards"* [four years later](/archive/fleming-email-shelf-1999/), at the end.
+
+![Page three of the letter, completing the account of the consent note found filed with Lewis's marriage banns in the Harrison County Court House, noting several ancestor signatures and especially Samuel, a justice of the peace in Frederick County, Maryland, then signing off with best wishes for the visit to Clarksburg and the remark that Stuttgart is a dead ringer for Clarksburg as one approaches from the airport, signed Cousin BOB.](../../assets/family/originals/wildermuth-to-fleming-cousins-1995-04-22-p3.jpeg)
+
 ## And then he checked, and disagreed
 
 ![A typed letter page in which Robert Earl Wildermuth sets out a constructive disagreement about the Bee/Fleming relationship, reporting that he found a crusty old marriage book in the Doddridge County courthouse, that Marriage Book I shows John Fleming married Susanna Prunty in 1847 while Susanna Bee married David Jacobs the same year, and concluding that Clary Roe was Eli's mother and probably died in childbirth when Sarah was born in 1835.](../../assets/family/originals/wildermuth-letter-bee-disagreement.jpeg)
@@ -104,7 +150,7 @@ The letters name the whole informal circle these two were working inside, which 
 
 - **Mike Roberts**, Akron, Ohio — the source for the four-Johns lineage, *"most cooperative."* Robert Earl [later reported](/archive/fleming-dear-cousins-1998/) that others called his work *"grossly flawed,"* and separately that he had accidentally offended him and never heard from him again.
 - **Arch Fleming** — the origin of much of it. A **State Representative** who lost both legs in a train accident and retired to Tampa, with *"the time and where with all to do a lot of research."* Robert Earl's verdict: *"most of it that I've come across has checked out to a T."* *(He gives the span as "over 30 years" here and "about 25 years" in his [September 1998 letter](/archive/fleming-dear-cousins-1998/) — and notes that Arch's being a state representative meant "he must have had some education.")*
-- **Erma Brackin** of Eagle Lake, Florida — Arch Fleming's daughter. She held **a telegram sent to Eli B. Fleming about the capture of his brother Thomas during the Civil War**. *That telegram is not in this archive and is worth chasing.*
+- **Erma Brackin** of Eagle Lake, Florida — Arch Fleming's daughter. *(He types her as **Emma** in the 22 April letter and Erma elsewhere; one of the two is a slip.)* She held **a telegram sent to Eli B. Fleming about the capture of his brother Thomas during the Civil War**. *That telegram is not in this archive and is worth chasing.*
 - **Jennie Brown** — descendant of **Sarah Fleming and Oliver Dotson**, and author of a book about her grandfather **Clinton Dotson, executed for allegedly arranging the murder of his own father Oliver in South Dakota**. Charlotte telephoned her about Eli's mother; she could not help.
 - **Joy Gilchrist** and **Sherrie Kumke** — the route by which the Susan Bee information reached them.
 

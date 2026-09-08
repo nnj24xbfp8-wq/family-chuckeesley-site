@@ -4,17 +4,17 @@ aka: "probably the Johann Peter Schlicher named in Robert Earl Wildermuth's 1989
 line: maternal
 generation: 1
 birth:
-  date: "1797"
+  date: "1797-11-29"
   place: "Adenbach, Landkreis Kusel, Rhineland-Palatinate (Bavarian Rheinkreis), Germany"
 death:
-  date: "1861"
+  date: "1861-03-11"
   place: "Marietta, Washington County, Ohio"
 spouses:
   - maria-magdalina-weyrich
 children:
   - theobald-david-schlicher
 status: sketch
-summary: "Chuck's maternal four-times-great-grandfather on the Schlicher line — and very likely the answer to the question Robert Earl Wildermuth left open in his 1989 memoir. Born 1797 at Adenbach in the Kusel district of the Rhineland-Palatinate; married Maria Magdalina Weyrich; father of Theobald 'David' Schlicher, the Schlicher patriarch of Marietta. Died at Marietta, Ohio in 1861 — the same year his son married Eva Barbara Schmidt — so he had crossed the Atlantic at some point before that. Everything known about him comes from a single source: Robert Earl's printed ancestor charts. No document has yet been seen."
+summary: "Chuck's maternal four-times-great-grandfather on the Schlicher line — and very likely the answer to the question Robert Earl Wildermuth left open in his 1989 memoir. Born 29 November 1797 at Adenbach in the Kusel district of the Rhineland-Palatinate; married Maria Magdalina Weyrich on 28 February 1827 at 'Marth' in the Palatinate; father of Theobald 'David' Schlicher, the Schlicher patriarch of Marietta. Died at Marietta, Ohio on 11 March 1861 — seven weeks after his son's wedding there, so he had crossed the Atlantic before it. Everything known about him comes from a single source: Robert Earl's printed ancestor charts. No document has yet been seen."
 ---
 
 For thirty-odd years this archive carried a sentence it could not explain. [Robert Earl Wildermuth](/family/robert-earl-wildermuth/) closed the German travelogue in his [1989 memoir](/docs/robert-earl-wildermuth-memoir/) with the research he still meant to finish:
@@ -49,9 +49,11 @@ Two entirely separate immigrant lines, married into each other in Marietta, Ohio
 
 ## Marietta, and 1861
 
-He married **[Maria Magdalina Weyrich](/family/maria-magdalina-weyrich/)** (b. 1807), and their son **[Theobald "David" Schlicher](/family/theobald-david-schlicher/)** was born **21 February 1835** — in Germany, which fixes the family as still at home that year. By **20 January 1861** Theobald was in Washington County, Ohio, marrying [Eva Barbara Schmidt](/family/eva-schmidt-schlicher/). So **the Schlicher emigration falls between 1835 and 1861**, in the same mid-century German wave that carried the [Boeshars](/family/catharina-boeshar-wildermuth/) — also Palatines — and the Bavarian [Schmidts](/family/john-jacob-schmidt/) to the Ohio Valley.
+He married **[Maria Magdalina Weyrich](/family/maria-magdalina-weyrich/)** (b. 27 December 1807) on **28 February 1827**, at the place the chart calls **"Marth," in the Rhineland-Pfalz** — and their son **[Theobald "David" Schlicher](/family/theobald-david-schlicher/)** was born **21 February 1835**, in Germany, which fixes the family as still at home that year. By **20 January 1861** Theobald was in Washington County, Ohio, marrying [Eva Barbara Schmidt](/family/eva-schmidt-schlicher/). So **the Schlicher emigration falls between 1835 and 1861**, in the same mid-century German wave that carried the [Boeshars](/family/catharina-boeshar-wildermuth/) — also Palatines — and the Bavarian [Schmidts](/family/john-jacob-schmidt/) to the Ohio Valley.
 
-Johann Peter **died at Marietta in 1861** — the same year his son married. The charts give no month, so whether he lived to see the January wedding is unknown. He was about sixty-four, and he had crossed an ocean to die in an Ohio river town. Whether he travelled with the family or followed them is not recorded; nothing in this archive places his wife [Maria Magdalina](/family/maria-magdalina-weyrich/) in America at all.
+Johann Peter **died at Marietta on 11 March 1861** — **seven weeks after that wedding**, at sixty-three. He had crossed an ocean to die in an Ohio river town, and he lived just long enough to see his son married there.
+
+*This page previously said the charts gave no month, so whether he saw the January wedding was unknown. That was a limit of the photograph, not of the chart: read at full resolution the sheet gives **29 November 1797** and **11 March 1861** — and it also gives his wife's death, **28 November 1879 at Marietta**, so [Maria Magdalina](/family/maria-magdalina-weyrich/) crossed as well and outlived him there by eighteen years. Whether the two travelled together or he went ahead is still not recorded.*
 
 His own parents, per the same chart, were **Johann Friedrich Schlicher** and **Maria Elizabeth Burgarth** — recorded by name only, with no dates, and not given pages here until something more than a name turns up.
 
@@ -63,6 +65,7 @@ The charts name the village but prove nothing about it. What would:
 
 - **The Adenbach parish registers.** Adenbach was overwhelmingly **Evangelical** (145 of 191 inhabitants as late as 1994), so the Protestant church books for Adenbach or the mother parish at **Odenbach** are where an 1797 baptism would sit.
 - **A Bavarian emigration file.** Leaving the Rheinkreis required permission, exactly as it did in Württemberg — the same kind of record the [Ludwigsburg lead](/archive/stadt-marbach-reply-1986/) opened on the Wildermuth side. For the Palatinate the equivalent holdings are at the **Landesarchiv Speyer**.
-- **A Marietta burial.** He died there in 1861; a stone or a sexton's record would give the month and confirm the year.
+- **A Marietta burial.** He died there on 11 March 1861 and his wife on 28 November 1879; a stone, a sexton's record, or the Washington County probate death register would confirm both — and **Oak Grove**, where the Wildermuths lie, is the obvious place to look first.
+- **"Marth."** The chart names it twice — her birthplace and their 1827 marriage place — and now with a region, **Rhineland-Pfalz**. It resolves to no village this archive can match; a flatbed scan of the sheet, or the Adenbach marriage register for February 1827, would settle what he actually typed.
 
-> *Sources: the [fourteen printed ancestor charts](/archive/wildermuth-fleming-ancestor-chart-set/) from Robert Earl Wildermuth's research papers, c. early 1990s — the "Ancestors of Theobald David Schlicher" sheet, which gives Johann Peter's 1797 Adenbach birth, his 1861 Marietta death, his wife, and his parents; [Robert Earl Wildermuth's 1989 memoir](/docs/robert-earl-wildermuth-memoir/) for the open question this page closes. Adenbach's location, size, confessional makeup and 1816 transfer to Bavaria from [Adenbach, Wikipedia](https://en.wikipedia.org/wiki/Adenbach); the Breitenbach–Frohnhofen distance from [Frohnhofen, Wikipedia](https://en.wikipedia.org/wiki/Frohnhofen).*
+> *Sources: the [fourteen printed ancestor charts](/archive/wildermuth-fleming-ancestor-chart-set/) from Robert Earl Wildermuth's research papers, c. early 1990s — the "Ancestors of Theobald David Schlicher" sheet, which gives Johann Peter's birth at Adenbach on 29 November 1797, his marriage on 28 February 1827, his death at Marietta on 11 March 1861, his wife (with her own dates), and his parents — the exact dates read from a full-resolution photograph of the sheet in September 2026, the earlier reading having been taken from a small one; [Robert Earl Wildermuth's 1989 memoir](/docs/robert-earl-wildermuth-memoir/) for the open question this page closes. Adenbach's location, size, confessional makeup and 1816 transfer to Bavaria from [Adenbach, Wikipedia](https://en.wikipedia.org/wiki/Adenbach); the Breitenbach–Frohnhofen distance from [Frohnhofen, Wikipedia](https://en.wikipedia.org/wiki/Frohnhofen).*

@@ -69,4 +69,6 @@ That is the **Maryland State Archives** — so the original is in a public repos
 
 *(He writes the probate as the **17th** there; the transcript above has the witnesses appearing on the **16th**. A one-day inconsistency in his own papers, unresolved.)*
 
+![A typed sheet, mostly blank, with the reverse of the marriage-banns document showing faintly through the paper, headed SOURCES and reading: John Fleming's Will, probated on 17 January 1797, will on file in the Hall Of Records, Annapolis, Maryland; and below it, Pennsylvania Society, Sons of the American Revolution, Genealogy Department, Orlando Library, Orlando, Florida.](../../assets/family/originals/fleming-will-sources-page.jpeg)
+
 > *Source: typed transcript of the last will and testament of John Fleming Senior, Montgomery County, Maryland, January 1795, proved January 1797; marked Doc #145 / FLEM 192 in Robert Earl Wildermuth's research papers, in Chuck's keeping. Photographed 2026.*

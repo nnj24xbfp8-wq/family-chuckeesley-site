@@ -60,6 +60,8 @@ It also means Flora's nine children are **at least ten births**, and that the ni
 
 *Record of Deaths, Probate Court, Marietta, Washington County, Ohio — Volume II, page 144:*
 
+![A sheet of legal pad in blue ink, headed The Daily Register, Marietta, Tuesday July 2 1901, copying the notice of the death of the three-week-old Wildermuth child of East Greene from cholera infantum, and below it a heading Record of Deaths, Probate Court, Marietta, Washington County, Ohio, Volume II page 144, with five numbered entries: 5467 Wildermuth John, 7 February 1903, Marietta, shoemaker, asthma; 5917 Schmidt Margaret, 26 September 1903, struck through; 5935 Schlicher Peter, 16 October 1903, aged 76-11-16, Germany, merchant, dropsy of chest; 5936 Schlicher Jacob, 21 December 1903, 45-13, cancer of the bowels; and 6795 Schlicher Fred, 31 July 1905, 46-4-9, wood worker, throat and lungs.](../../assets/family/originals/marietta-death-records-wildermuth-schlicher.jpeg)
+
 | No. | Entry |
 |---|---|
 | 5467 | **Wildermuth, John** — 7 Feb 1903 — Marietta — **Shoemaker** — **Asthma** |
