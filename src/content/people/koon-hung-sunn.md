@@ -1,5 +1,6 @@
 ---
 name: "Koon Hung Sunn"
+portrait: ../../assets/family/originals/koon-hung-sunn-crop-1945-wedding.jpeg
 aka: "Kon Hung Sun, as recorded on the 1911 Mongolia manifest"
 line: other
 birth:
@@ -39,3 +40,5 @@ The earlier estimate was about right: Koon Hung Sunn was 27 when his daughter [S
 He married [Mabel Lee Sunn](/family/mabel-lee-sunn/), Hawaii-born and similarly American. Both of Stella's parents were therefore second-generation-or-later Chinese-Hawaiian — which (alongside the new clarity that Stella herself was *not* Japanese by descent) is part of why Aunt Jeanne's wartime account, while accurate on the act, mis-remembers the mechanism.
 
 His parents and his earlier life are not yet recorded here.
+
+> *Portrait: cropped from [Stella's wedding-day photograph with her parents](/archive/stella-ted-chong-wedding-with-family-1945/), c. April 1945 &mdash; the man in the white suit seated at the right of the frame.*

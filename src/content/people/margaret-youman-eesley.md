@@ -1,5 +1,6 @@
 ---
 name: "Margaret Adeline 'Peggy' (Youman) Eesley"
+portrait: ../../assets/family/originals/margaret-youman-eesley-crop-highland-ridge-c1971.jpeg
 aka: "'Peggy Yeoman Eesley' (the c. 1970s reunion caption spelling); 'Aunt Peggy Yeoman' in family-memory; Margaret Adeline Youman, maiden — GEDCOM form 'Youman' with U; family-caption form 'Yeoman' with E"
 line: paternal
 birth:
@@ -34,3 +35,5 @@ She appears second from the right in the **[c. 1971–1972 Eesley extended famil
 She is **Chuck's great-aunt by marriage** on the paternal Eesley side.
 
 > *Source: [Dale Eesley / FamilySearch — Margaret Adeline Youman (LBZX-4TP)](https://www.familysearch.org/tree/person/details/LBZX-4TP); [c. 1971–1972 Eesley extended family reunion portrait](/archive/highland-ridge-family-group-portrait-c-1980/) typed caption; Mary Eesley Bean, [Eesley Family History](/docs/eesley-family-history-1985/) (1985), p. 8.*
+
+> *Portrait: cropped from the [Highland Ridge reunion portrait](/archive/highland-ridge-family-group-portrait-c-1980/), c. 1971&ndash;1972 &mdash; figure 11 in the print's left-to-right caption, where she is written as "Peggy Yeoman Eesley." She also appears, twenty-odd years younger, in the [late-1940s group portrait](/archive/eesley-family-group-portrait-late-1940s/).*
