@@ -334,7 +334,7 @@ The earlier telling came from the family too. It is not invented &mdash; it is w
 
 > *Source: audio recording made at dinner at No. 109 Yan'an 3rd Road, Qingdao, the weekend of 12&ndash;13 September 2026. Zhou Ling told the story in Chinese; Lijie translated aloud. Master file (7 min 19 sec, m4a) held in the family archive; the two excerpts published here are trimmed from it, with the surrounding table conversation left out. Transcript prepared from the recording's automatic transcription and lightly cleaned; it has not yet been checked line by line against the audio by a Chinese-speaking ear, and the Chinese rendering above is a back-translation of Lijie's English.*
 >
-> *Corrections and added detail: [Zhou Shan 周善](/family/shan-zhou/) by WeChat to Lijie, 20 and 21 September 2026 (screenshots supplied to this archive by Chuck), and Lijie's own follow-up correcting "thirty days" to a year.*
+> *Corrections and added detail: [Zhou Shan 周善](/family/shan-zhou/) by WeChat to Lijie, 20 and 21 September 2026 (screenshots supplied to this archive by Lijie), and Lijie's own follow-up correcting "thirty days" to a year.*
 
 ### See also
 

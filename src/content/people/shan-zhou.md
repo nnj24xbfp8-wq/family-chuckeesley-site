@@ -64,4 +64,4 @@ Four short messages, and a quarter-century of one man's life goes from a summary
 
 > *Details withheld — living.*
 >
-> *Source: WeChat messages to [Lijie](/family/lijie-zhou/), 20 and 21 September 2026, screenshots supplied to this archive by [Chuck Eesley](/family/charles-eric-eesley/).*
+> *Source: WeChat messages to [Lijie](/family/lijie-zhou/), 20 and 21 September 2026, screenshots supplied to this archive by [Lijie](/family/lijie-zhou/).*
