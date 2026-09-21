@@ -11,6 +11,7 @@ people:
   - su-ying-xian
   - lijie-zhou
   - charles-eric-eesley
+  - briana-massaro-lockett
   - xun-li
   - jie-zhou
   - yi-zhou
@@ -28,7 +29,7 @@ summary: "Eight weeks after Lijie's father wrote out by hand the story of his un
 
 ## 这是一段什么样的录音
 
-2026年9月12&ndash;13日那个周末，Chuck与丽婕在青岛。一家人在**延安三路109号**吃饭时，[周玲](/family/ling-zhou/)口述了当年他如何把叔叔[周兆帧](/family/zhaozheng-zhou/)一家从阳信调回青岛的经过；丽婕在席间为大家逐句译成英文。录音全长7分19秒，其中讲述这段往事的部分约两段，节录于下。
+2026年9月12&ndash;13日那个周末，Chuck与丽婕在青岛。一家人在**延安三路109号**吃饭时，[周玲](/family/ling-zhou/)口述了当年他如何把叔叔[周兆帧](/family/zhaozheng-zhou/)一家从阳信调回青岛的经过；席间由[Briana Lockett](/family/briana-massaro-lockett/)等人发问，丽婕逐句译成英文。录音全长7分19秒，其中讲述这段往事的部分约两段，节录于下。
 
 八周前，周玲曾把叔叔的身世[手书两页](/docs/zhou-ling-uncle-recollection/)。那两页止于失败 &mdash; "办了好多年也一直没有办成"。**本录音补上了结局。**
 
@@ -50,7 +51,7 @@ summary: "Eight weeks after Lijie's father wrote out by hand the story of his un
 
 **丽婕：** 他大学毕业以后被下放到农村。〔我父亲〕要去接的，是他父亲的弟弟。
 
-**Chuck：** 下放到农村。
+**Briana：** 下放到农村。
 
 **丽婕：** 是。他上过大学 &mdash; 从这点说他是幸运的 &mdash; 文化大革命之前就毕业了。可是后来还是被下放到农村。他是医生。他本以为很快就能调回青岛，结果在那边待了将近四十年。他去的时候二十几岁，等回来的时候已经成家，有了三个女儿。
 
@@ -58,15 +59,15 @@ summary: "Eight weeks after Lijie's father wrote out by hand the story of his un
 
 等到全家都接回来以后，我爷爷的母亲就去世了。也就是三十天左右的样子。所以她觉得她 &mdash; 她是高兴的。
 
-**Chuck：** 那几个堂姊妹自己也愿意回来吗？
+**Briana：** 那几个堂姊妹自己也愿意回来吗？
 
 **丽婕：** 愿意啊，那边是农村。她们回来很高兴，日子也好了，教育也好了。
 
-**Chuck：** 真好。
+**Briana：** 真好。
 
 *（其后席间转为闲谈。下段为约四分钟后重拾此话题。）*
 
-**Chuck：** 为什么这件事就成了你父亲的责任？
+**Briana：** 为什么这件事就成了你父亲的责任？
 
 **丽婕：** 〔一句未能辨清〕……因为他对这件事看得很重。……我觉得我父亲平时就是多担一些。我想一个原因是他是男的。我还有两个姑姑。
 
@@ -164,7 +165,7 @@ summary: "Eight weeks after Lijie's father wrote out by hand the story of his un
 |---|---|---|
 | 讲述者 | [周玲](/family/ling-zhou/) | 父亲 |
 | 口译者 | [周丽婕](/family/lijie-zhou/) | 本人 |
-| 提问者 | [Chuck Eesley](/family/charles-eric-eesley/) | 女婿 |
+| 提问者 | [Briana Lockett](/family/briana-massaro-lockett/) 及席间众人 | Chuck 的表姊妹 |
 | "他父亲的弟弟"、"叔叔" | [周兆帧](/family/zhaozheng-zhou/) | 叔祖父 |
 | 叔叔之妻 | [Su Ying Xian](/family/su-ying-xian/) | 叔祖母 |
 | "三个女儿" | [周洁](/family/jie-zhou/)、[周义](/family/yi-zhou/)、[周善](/family/shan-zhou/) | 父亲的堂妹 |
@@ -180,7 +181,7 @@ summary: "Eight weeks after Lijie's father wrote out by hand the story of his un
 
 ### What this recording is
 
-On the weekend of **12&ndash;13 September 2026**, Chuck and Lijie were in Qingdao. Over dinner at **No. 109 Yan'an 3rd Road** (延安三路109号), Lijie's father **[Zhou Ling](/family/ling-zhou/)** told the story of how he got his uncle **[Zhou Zhaozheng](/family/zhaozheng-zhou/)** and his uncle's family transferred back to Qingdao. He told it in Chinese; **Lijie translated aloud for the table as he went.** The recording runs 7 minutes 19 seconds; the story occupies two stretches of it, excerpted below.
+On the weekend of **12&ndash;13 September 2026**, Chuck and Lijie were in Qingdao. Over dinner at **No. 109 Yan'an 3rd Road** (延安三路109号), Lijie's father **[Zhou Ling](/family/ling-zhou/)** told the story of how he got his uncle **[Zhou Zhaozheng](/family/zhaozheng-zhou/)** and his uncle's family transferred back to Qingdao. He told it in Chinese, drawn out by questions from **[Briana Lockett](/family/briana-massaro-lockett/)** and others at the table; **Lijie translated aloud as he went.** The recording runs 7 minutes 19 seconds; the story occupies two stretches of it, excerpted below.
 
 Eight weeks earlier, Zhou Ling had written [two pages by hand](/docs/zhou-ling-uncle-recollection/) about the same uncle. Those pages end in failure &mdash; *"He worked at it for years and it never came through."* **This recording supplies the ending.**
 
@@ -202,7 +203,7 @@ Eight weeks earlier, Zhou Ling had written [two pages by hand](/docs/zhou-ling-u
 
 > **Lijie:** He was sent to the rural area after graduating from college. And so [my dad] was going to get his father's younger brother.
 >
-> **Chuck:** Sent to the rural area.
+> **Briana:** Sent to the rural area.
 >
 > **Lijie:** Yeah. He actually went to college &mdash; he was lucky in the sense that he graduated from college before the Cultural Revolution. But then he was still sent to the rural area. So he was a doctor. He thought he would be sent back to Qingdao soon after, but he actually spent almost forty years in the [new] area. He got there when he was in his twenties, but when he got back he was already married, had three daughters.
 >
@@ -210,15 +211,15 @@ Eight weeks earlier, Zhou Ling had written [two pages by hand](/docs/zhou-ling-u
 >
 > And so after he got his whole family back, my grandfather's mother passed away. It's like just thirty days or something like that after. So she felt she &mdash; she does happy.
 >
-> **Chuck:** Did the cousins want to come back too?
+> **Briana:** Did the cousins want to come back too?
 >
 > **Lijie:** Yeah, because that's the rural area. And they are very happy to get back, and get better &mdash; both life quality and better education.
 >
-> **Chuck:** Beautiful.
+> **Briana:** Beautiful.
 
 *The table turns to other things. About four minutes later the thread is picked back up.*
 
-> **Chuck:** Why was it your dad's responsibility to get the cousin back?
+> **Briana:** Why was it your dad's responsibility to get the cousin back?
 >
 > **Lijie:** [one phrase unintelligible] &hellip; Because he feels strongly about this. &hellip; I think my dad usually takes more responsibility. I guess one thing is that he is the male. So I have two aunts as well.
 
@@ -323,7 +324,7 @@ The earlier telling came from the family too. It is not invented &mdash; it is w
 |---|---|---|
 | the teller | **[Zhou Ling 周玲](/family/ling-zhou/)** | her father |
 | the translator | **[Lijie Zhou 周丽婕](/family/lijie-zhou/)** | herself |
-| the questioner | **[Chuck Eesley](/family/charles-eric-eesley/)** | her husband |
+| the questioner | **[Briana Lockett](/family/briana-massaro-lockett/)** and others at the table | Chuck's cousin |
 | "his father's younger brother," "he" | **[Zhou Zhaozheng 周兆帧](/family/zhaozheng-zhou/)** | great-uncle |
 | the uncle's wife | **[Su Ying Xian](/family/su-ying-xian/)** | great-aunt by marriage |
 | "three daughters," "the cousins" | **[Zhou Jie](/family/jie-zhou/)**, **[Zhou Yi](/family/yi-zhou/)**, **[Zhou Shan](/family/shan-zhou/)** | her father's first cousins |
