@@ -12,7 +12,7 @@ death:
 spouses:
   - maoli-zhou
 status: sketch
-summary: "Lijie's paternal great-grandmother. Wife of Maoli Zhou; mother of Zhaoxiang Zhou (Lijie's grandfather), Zhaozheng Zhou, and Xiuzhen Zhou. Widowed young and left to raise three children with no work of her own, she gleaned discarded vegetable leaves at the market to feed them, sent her two eldest out as apprentice workers, and got her youngest through medical school — after which the state posted him away and would not let him come back. She wept for him until she lost her sight, saying her one remaining wish was to have him home in Qingdao. Born 1908; died 6 April 1992, outliving her husband by decades."
+summary: "Lijie's paternal great-grandmother. Wife of Maoli Zhou; mother of Zhaoxiang Zhou (Lijie's grandfather), Zhaozheng Zhou, and Xiuzhen Zhou. Widowed young and left to raise three children with no work of her own, she gleaned discarded vegetable leaves at the market to feed them, sent her two eldest out as apprentice workers, and got her youngest through medical school — after which the state posted him away and would not let him come back. She wept for him until she lost her sight, saying her one remaining wish was to have him home in Qingdao. Her grandson Zhou Ling finally got the transfer through; she died about thirty days after the family arrived. Born 1908; died 6 April 1992, outliving her husband by decades."
 ---
 
 <p class="not-prose my-4 p-3 border-l-4 border-rule bg-ink/5 text-sm"><strong>📖 English version below — <a href="#en">Jump to English ↓</a></strong> &nbsp;·&nbsp; <em>本页中文在上，英文见下方。</em></p>
@@ -31,11 +31,21 @@ summary: "Lijie's paternal great-grandmother. Wife of Maoli Zhou; mother of Zhao
 
 **三个孩子中，唯有幼子读到大学毕业。** 1966年他毕业于青岛医学院，却被国家分配到外地 &mdash; 先是青海省，后因家庭困难改派山东最贫困的惠民地区阳信县中医院，一去不返。
 
-**她终身未能等到他调回。** 晚年全家皆在青岛，独他一人在外。整天叨念，常年流泪，**眼睛也看不见了**。
+**她等了几十年。** 晚年全家皆在青岛，独他一人在外。整天叨念，常年流泪，**眼睛也看不见了**。
 
 > *"她说她惟一的心事就是想让叔叔回到青岛来。"*
 
-托人办理调动多年，始终未成。她1992年去世。
+叔叔自己托人办理调动多年，始终未成。
+
+## 三十天 — 据2026年9月席间录音
+
+2026年9月，[周玲](/family/ling-zhou/)在青岛延安三路109号的饭桌上[口述了后续](/docs/zhou-ling-bringing-his-uncle-home/)：**最后是他这个孙子办成的。** 他动用自己的关系，把叔叔、婶婶与三个女儿一并迁回青岛。
+
+**全家迁回后约三十天，她去世了。** 丽婕转述她父亲的话：她是高兴的。
+
+档案记其卒于**1992年4月6日** &mdash; 若"三十天"无误，则这一家人迁回青岛当在**1992年3月前后**。录音中另有"将近四十年""六十多岁"等说法与此推算不合，详见[录音页](/docs/zhou-ling-bringing-his-uncle-home/)的年份辨析。
+
+她用别人丢下的菜叶养大三个孩子，供出一个大学生；国家把他调走，她半生看不见他，**临了到底把他等回来了**。
 
 > *注：除姓氏外人名汉字为推测，待家族确认。*
 >
@@ -65,9 +75,17 @@ Everyone else was in Qingdao. She grew old talking about it every day.
 
 > *"Missing her youngest son, she cried often, and her **eyes failed until she could no longer see**. She said the one thing still on her mind was to have my uncle come back to Qingdao."*
 
-Her son spent years asking people to arrange the transfer, and it never came through — her grandson went with him to deliver gifts to the officials handling it. She died in 1992.
+Her son spent years asking people to arrange the transfer, and it never came through — her grandson went with him to deliver gifts to the officials handling it.
 
-The woman who fed three children on other people's discarded vegetables got one of them through medical school, and then could not get him back into the same city.
+## Thirty days
+
+In September 2026, at a dinner table in Qingdao, [Zhou Ling](/family/ling-zhou/) told [the rest of it](/docs/zhou-ling-bringing-his-uncle-home/): **the grandson got it done.** He worked his own connections until the transfer went through, and his uncle, his uncle's wife and their three daughters moved back to Qingdao.
+
+**She died about thirty days after they arrived.** As Lijie translated her father: *"So she felt she — she does happy."*
+
+The archive dates her death to **6 April 1992**, which would put the family's arrival around **March 1992**. Other figures in the spoken account do not sit flush with that; the arithmetic is laid out on [the recording page](/docs/zhou-ling-bringing-his-uncle-home/).
+
+The woman who fed three children on other people's discarded vegetables got one of them through medical school, then spent most of the rest of her life unable to get him back into the same city — and got him back at the end of it.
 
 > *Note: Chinese characters for given names other than the surname are provisional, pending family confirmation.*
 >

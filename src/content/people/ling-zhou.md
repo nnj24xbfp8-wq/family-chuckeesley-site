@@ -23,13 +23,23 @@ summary: "Lijie's father. Son of Zhaoxiang Zhou (1930–2022) and Yunzhe Sun (d.
 
 兄弟姊妹：[周泉](/family/quan-zhou/)、[周爱琴](/family/ai-qin-zhou/)、[周爱华](/family/ai-hua-zhou/)。
 
-### 文革年间，那趟西去的火车
+### 接叔叔一家回青岛
 
-经丽婕父亲本人许可，本档案得以收录下面这段往事。**文化大革命（1966&ndash;1976）** 期间 &mdash; 当时全国上下因政治运动、上山下乡、城镇人口下放等原因，家庭被打散、亲眷四散 &mdash; 丽婕的父亲曾**乘火车远赴西部诸省，将家中亲眷接回青岛**。同车归来的，有几位当时尚年幼的堂表姊妹；若没有那趟火车，她们的人生轨迹本应是另一个样子。她们中的两位，如今已是中年女性，在Chuck与丽婕近年的一次青岛之行中，曾共同进餐 &mdash; 这条情谊，跨越两代，至今犹在。
+经丽婕父亲本人许可，本档案得以收录下面这段往事。
 
-[丽婕的母亲](/family/xun-li/) 用最朴素的一句话给这段故事下了定语：*"这件事改变了家族的走向。"* 这一句的分量便是它本身所承载的全部。今日周氏一支 &mdash; 那些堂表姊妹、她们的子女、节庆的饭桌、城与城之间的电话 &mdash; 之所以能落脚于今天的位置，部分缘由便是当年一位青年的那趟西行。
+他的叔叔[周兆帧](/family/zhaozheng-zhou/)是1966年青岛医学院毕业生 &mdash; 正值**文化大革命（1966&ndash;1976）** 开始之年 &mdash; 被国家分配到外地，此后一生困于山东**阳信县**一所贫困县医院。奶奶[庞焕彩](/family/huancai-pang/)晚年思念幼子，哭至双目失明，说她惟一的心事就是想让他回青岛。叔叔自己托人办调动，**办了多年始终未成**。
 
-这段故事是本档案在周氏一脉所收录的最具历史分量的单一行动叙事之一，经丽婕父亲本人明确同意，方得在此呈现。
+**最后是周玲办成的。** 他动用自己的关系，一家一家地谈，把叔叔、婶婶和三个女儿一并迁回青岛。奶奶在全家迁回后**约三十天**去世。
+
+那三个女儿 &mdash; 周玲的堂妹 &mdash; 若无此事，人生轨迹本应是另一个样子。她们中的两位，在Chuck与丽婕近年的一次青岛之行中，曾与二人同席而食 &mdash; 这条情谊，跨越两代，至今犹在。
+
+[丽婕的母亲](/family/xun-li/) 用最朴素的一句话给这段故事下了定语：*"这件事改变了家族的走向。"* 这一句的分量便是它本身所承载的全部。
+
+这段故事是本档案在周氏一脉所收录的最具历史分量的单一行动叙事之一，经丽婕父亲本人明确同意，方得在此呈现。两处原始记录：
+[周玲手记两页](/docs/zhou-ling-uncle-recollection/)（2026年8月）与
+[延安三路109号的席间录音](/docs/zhou-ling-bringing-his-uncle-home/)（2026年9月，丽婕口译）。
+
+> *更正：本页此前记作"文革年间那趟西去的火车" &mdash; 谓其乘火车赴西部诸省接亲眷。据周玲本人2026年9月的口述，接的是叔叔一家，来处是山东阳信，所办者为多年的调动审批，非一趟火车。"西部"之说很可能源于叔叔1966年最初被分配到青海、后经申诉改派山东一事。详见[录音页](/docs/zhou-ling-bringing-his-uncle-home/)。*
 
 ### 照片动画
 
@@ -65,13 +75,23 @@ A separate **young-man studio portrait** of Ling, from earlier in his life, has 
 
 He and Lijie's mother [Xun Li](/family/xun-li/) made the **honeymoon trip to Hangzhou** documented at [Lingyin Temple](/places/lingyin-temple-hangzhou/) in 1982, just after their wedding &mdash; the [then-and-now pair](/places/lingyin-temple-hangzhou/) on that page is theirs.
 
-### The Cultural Revolution train
+### Getting his uncle's family back to Qingdao
 
-One story Lijie's father has given permission for this archive to carry: during the **Cultural Revolution** (1966&ndash;1976) &mdash; the years when families across China were dispersed by political dislocations, sent-down youth programs, and the wider scattering of urban populations into the countryside &mdash; **Lijie's father took a train out to the western provinces to bring family members back to Qingdao.** Among those he rode back with were several young female cousins whose lives, but for that train, would have run a different course. Two of those cousins, now grown women, had lunch with Chuck and Lijie on a recent Qingdao visit &mdash; the connection still living, two generations on.
+One story Lijie's father has given permission for this archive to carry.
 
-[Lijie's mother](/family/xun-li/) framed what her husband did in the simplest terms: *"that changed the family's trajectory."* She meant it literally. The Zhou family of the present generation &mdash; the cousins, their children, the holiday meals, the calls across cities &mdash; sits where it sits in part because of one young man's train trip west.
+His uncle **[Zhou Zhaozheng](/family/zhaozheng-zhou/)** graduated from Qingdao Medical College in **1966**, the year the **Cultural Revolution** began, and the state posted him away &mdash; ultimately to a poor county hospital in **Yangxin, Shandong**, where he spent his entire career. Their mother, **[Pang Huancai](/family/huancai-pang/)**, grew old in Qingdao with every one of her children near her except her youngest; she wept over it until she lost her sight, and said the one thing left on her mind was to have him home. The uncle petitioned for a transfer **for years and never got one**.
 
-The story is among the most consequential single-action narratives this archive holds on the Zhou side, and is shared here with Lijie's father's express permission.
+**Zhou Ling is the one who got it done.** He worked his own connections, talked to person after person, and moved his uncle, his uncle's wife and their **three daughters** back to Qingdao. His grandmother died about **thirty days** after they arrived.
+
+Those three daughters &mdash; his cousins &mdash; had lives that would have run a different course without it. Two of them had lunch with Chuck and Lijie on a recent Qingdao visit &mdash; the connection still living, two generations on.
+
+[Lijie's mother](/family/xun-li/) framed what her husband did in the simplest terms: *"that changed the family's trajectory."* She meant it literally. The Zhou family of the present generation &mdash; the cousins, their children, the holiday meals, the calls across cities &mdash; sits where it sits in part because one nephew spent years pushing paper through a system built to say no.
+
+The story is among the most consequential single-action narratives this archive holds on the Zhou side, and is shared here with Lijie's father's express permission. Two primary records of it:
+**[his own two handwritten pages](/docs/zhou-ling-uncle-recollection/)** (August 2026), and
+**[the dinner-table recording at No. 109 Yan'an 3rd Road](/docs/zhou-ling-bringing-his-uncle-home/)** (September 2026, Lijie translating), which is where the ending comes from.
+
+> *Correction: this page previously carried the story as **"the Cultural Revolution train"** &mdash; a train ride out to the western provinces to fetch family. Zhou Ling's own spoken account of September 2026 corrects it: the people were his uncle's household, they were in Yangxin County in Shandong, and the mechanism was years of transfer petitioning rather than a journey. The "west" in the earlier telling almost certainly comes from the uncle's original 1966 assignment to **Qinghai**, which he appealed and had changed before serving. See [the recording page](/docs/zhou-ling-bringing-his-uncle-home/).*
 
 > *Structured record: [Dale Eesley & Chuck Eesley / FamilySearch &mdash; Ling Zhou (GMLK-9RP)](https://www.familysearch.org/tree/person/details/GMLK-9RP).*
 
