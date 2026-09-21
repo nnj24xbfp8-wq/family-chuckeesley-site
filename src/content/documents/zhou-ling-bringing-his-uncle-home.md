@@ -87,17 +87,48 @@ summary: "Eight weeks after Lijie's father wrote out by hand the story of his un
 3. **她赶上了。** 奶奶[庞焕彩](/family/huancai-pang/)于1992年4月6日去世，在全家迁回**约一年**之后。她盼了几十年的那件事，她赶上了。*（录音中丽婕说"三十天左右"，其后更正为一年，详见下节。）*
 4. **"他是男的。"** 问到为什么是他去办，丽婕给的理由朴素得很：他一向多担一些，而且他是男的。
 
-## 一处需要复核的年份
+## 家族其后的更正
 
-录音给出的时间线与档案已记之日期不能自洽，谨记于此：
+本页初上线时，录音中几处数字与档案不能自洽。不到一日，两个人把它们定了下来：叔叔的幼女**[周善](/family/shan-zhou/)**（家中称亮亮，事在其身，亲历者）于**2026年9月20日**在微信上作答；**[丽婕](/family/lijie-zhou/)**则更正了自己当日的口译。
 
-- 档案记**庞焕彩卒于1992年4月6日**。若叔叔一家迁回是在其去世前约三十天，则**迁回当在1992年3月前后**。
-- 如此则：1966年毕业下放，1992年调回 &mdash; 在阳信**二十六年**，归来时**五十四岁**（1938年生）。
-- 而录音说"将近四十年"、"已经六十多了，大概" &mdash; 后一句丽婕自己加了"大概"。两处都与1992年的算法差了约十二年。
-- **可能之一：** 1992年3月这个推算是对的，"将近四十年"与"六十多"是口述中的约略之辞（英译录音中"四十"亦有听作"三十"之可能，二十六年正近于"将近三十年"）。**"三十天"这一细节与1992年4月6日的卒日恰好吻合，此为旁证。**
-- **可能之二：** 迁回实在2000年代中期，则庞焕彩1992年的卒年有误。
+| 录音原话 | 更正为 | 出处 |
+|---|---|---|
+| "将近四十年" | **二十五年**（1966&ndash;1991） | 周善 |
+| "已经六十多了，大概" | 归来时**五十三岁** | 由1991年与1938年生推 |
+| 奶奶在"三十天左右"后去世 | **约一年** | 丽婕 |
+| "文化大革命之前就毕业了" | **1966届** &mdash; 文革正爆发于其毕业之际 | 周善 |
 
-**倾向于可能之一，但请家族核实庞焕彩的卒年与叔叔调回青岛的年份。** 另：叔叔的调入单位与迁回的确切年月，若有档案可查，当补入。
+**另有三事，此前全无记载：**
+
+- **迁回是1991年。** *"从阳信回青岛是1991"*。
+- **调入单位是青岛市南区浮山所医院**，且**父母二人皆在此工作** &mdash; 那一纸调令带回青岛的是两份医务工作，不是一份。
+- **三个女儿有名有生日：[周洁](/family/jie-zhou/)** 与 **[周义](/family/yi-zhou/)**，1970年10月18日生的双胞胎；**[周善](/family/shan-zhou/)**，1976年4月3日生 &mdash; 迁回那年，她们分别是二十、二十、十五岁。
+
+有了1991这个年份，各处便都合上了：在阳信二十五年，归时五十三岁，母亲庞焕彩卒于**1992年4月6日**，在全家迁回约一年之后。她等到了，还等到了一年。
+
+## 他本来已经留校
+
+最大的一处更正不是数字。周善写道：
+
+> *"我爸爸不是文革前毕业的，他是1966年毕业生，他学习成绩优秀本来已经确定了在青岛医学院留校工作，突然爆发文革，所有毕业分配暂停了，留校毕业名单也作废了。"*
+
+在此之前，本档案所记的故事都从"被分配到外地"讲起。而这一句说：**他本来根本不必走。** 留校是给一届里最拔尖的人的，名单已定 &mdash; 工作在青岛，在教学医院，与母亲同城。**名单上有他的名字**，文革一起，名单作废。
+
+此后四十年的种种 &mdash; 青海、阳信、哭瞎了眼的母亲、侄子多年的奔走、五个人被改道的一生 &mdash; 皆自1966年夏天一纸名单的作废而来。
+
+<aside class="not-prose my-8 border-l-4 border-amber-700 bg-amber-50/60 dark:bg-amber-950/20 px-6 py-5 rounded-r">
+
+**老五届**
+
+周兆帧属于中国现代史上有专名的一批人：**老五届** &mdash; 1966至1970年这五届大学毕业生，毕业分配为文革所中断。正常分配停止，他们多被留在学校参加运动，其后下放农村、农场、工厂或军队劳动锻炼，少则一年，多则数年，才轮到专业岗位。
+
+这也正是本档案至今说不清他1966年毕业到抵达阳信之间那几年的缘故 &mdash; 对这一届人而言，拖上一年以上是常态。两个女儿1970年生于阳信，可知他至迟1970年已在彼处。
+
+留校名单作废一事的分量也在此：那些年里，稀缺而受过高等训练并不构成任何保护；就他而言，恰恰是这身训练使他成为"可以被分配到一个需要医生却留不住医生的地方"的人。
+
+</aside>
+
+*以上两节系2026年9月20日本页上线后补入。上方录音译录一仍其旧 &mdash; 口述本身即是史料，就地改写便抹去了一个家族故事在转述中如何走样的证据。*
 
 ## 与周玲页上旧述的出入
 
@@ -118,6 +149,7 @@ summary: "Eight weeks after Lijie's father wrote out by hand the story of his un
 | 提问者 | [Chuck Eesley](/family/charles-eric-eesley/) | 女婿 |
 | "他父亲的弟弟"、"叔叔" | [周兆帧](/family/zhaozheng-zhou/) | 叔祖父 |
 | 叔叔之妻 | [Su Ying Xian](/family/su-ying-xian/) | 叔祖母 |
+| "三个女儿" | [周洁](/family/jie-zhou/)、[周义](/family/yi-zhou/)、[周善](/family/shan-zhou/) | 父亲的堂妹 |
 | "我爷爷" | [周兆祥](/family/zhaoxiang-zhou/) | 祖父 |
 | "我爷爷的母亲" | [庞焕彩](/family/huancai-pang/) | 曾祖母 |
 | "我两个姑姑" | [周爱琴](/family/ai-qin-zhou/)、[周爱华](/family/ai-hua-zhou/) | 姑母 |
@@ -257,14 +289,19 @@ The earlier telling came from the family too. It is not invented &mdash; it is w
 | the questioner | **[Chuck Eesley](/family/charles-eric-eesley/)** | her husband |
 | "his father's younger brother," "he" | **[Zhou Zhaozheng 周兆帧](/family/zhaozheng-zhou/)** | great-uncle |
 | the uncle's wife | **[Su Ying Xian](/family/su-ying-xian/)** | great-aunt by marriage |
+| "three daughters," "the cousins" | **[Zhou Jie](/family/jie-zhou/)**, **[Zhou Yi](/family/yi-zhou/)**, **[Zhou Shan](/family/shan-zhou/)** | her father's first cousins |
 | "my grandfather" | **[Zhou Zhaoxiang 周兆祥](/family/zhaoxiang-zhou/)** | grandfather |
 | "my grandfather's mother" | **[Pang Huancai 庞焕彩](/family/huancai-pang/)** | great-grandmother |
 | "my two aunts" | **[Zhou Ai Qin](/family/ai-qin-zhou/)**, **[Zhou Ai Hua](/family/ai-hua-zhou/)** | aunts |
 
 > *Source: audio recording made at dinner at No. 109 Yan'an 3rd Road, Qingdao, the weekend of 12&ndash;13 September 2026. Zhou Ling told the story in Chinese; Lijie translated aloud. Master file (7 min 19 sec, m4a) held in the family archive; the two excerpts published here are trimmed from it, with the surrounding table conversation left out. Transcript prepared from the recording's automatic transcription and lightly cleaned; it has not yet been checked line by line against the audio by a Chinese-speaking ear, and the Chinese rendering above is a back-translation of Lijie's English.*
+>
+> *Corrections and added detail: [Zhou Shan 周善](/family/shan-zhou/) by WeChat to Lijie, 20 September 2026 (screenshot supplied to this archive by Chuck), and Lijie's own follow-up correcting "thirty days" to a year.*
 
 ### See also
 
 - [Zhou Ling's handwritten recollection of his uncle and grandmother](/docs/zhou-ling-uncle-recollection/) &mdash; the written account this recording completes
+- [Zhou Zhaozheng](/family/zhaozheng-zhou/) &mdash; the uncle, and the voided 留校 post
+- [Zhou Jie](/family/jie-zhou/), [Zhou Yi](/family/yi-zhou/), [Zhou Shan](/family/shan-zhou/) &mdash; the three daughters, added to the archive because of this recording
 - [The Zhou, Li and Shang families of Qingdao](/docs/qingdao-families-zhou-li-shang/)
 - [Qingdao](/places/qingdao/)
