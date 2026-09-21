@@ -39,8 +39,6 @@ summary: "Lijie's father. Son of Zhaoxiang Zhou (1930–2022) and Yunzhe Sun (d.
 [周玲手记两页](/docs/zhou-ling-uncle-recollection/)（2026年8月）与
 [延安三路109号的席间录音](/docs/zhou-ling-bringing-his-uncle-home/)（2026年9月，丽婕口译）。
 
-> *更正：本页此前记作"文革年间那趟西去的火车" &mdash; 谓其乘火车赴西部诸省接亲眷。据周玲本人2026年9月的口述，接的是叔叔一家，来处是山东阳信，所办者为多年的调动审批，非一趟火车。"西部"之说很可能源于叔叔最初被分配到大西北一事 &mdash; 周玲手记作**青海**，叔叔的女儿[周善](/family/shan-zhou/)则记作**宁夏放羊的荒滩**，且谓其**与同学对换**才改去山东，非经申诉。详见[录音页](/docs/zhou-ling-bringing-his-uncle-home/)。*
-
 ### 照片动画
 
 <figure class="my-6 max-w-md mx-auto not-prose">
@@ -90,8 +88,6 @@ Those three daughters &mdash; his cousins **[Zhou Jie](/family/jie-zhou/)**, **[
 The story is among the most consequential single-action narratives this archive holds on the Zhou side, and is shared here with Lijie's father's express permission. Two primary records of it:
 **[his own two handwritten pages](/docs/zhou-ling-uncle-recollection/)** (August 2026), and
 **[the dinner-table recording at No. 109 Yan'an 3rd Road](/docs/zhou-ling-bringing-his-uncle-home/)** (September 2026, Lijie translating), which is where the ending comes from.
-
-> *Correction: this page previously carried the story as **"the Cultural Revolution train"** &mdash; a train ride out to the western provinces to fetch family. Zhou Ling's own spoken account of September 2026 corrects it: the people were his uncle's household, they were in Yangxin County in Shandong, and the mechanism was years of transfer petitioning rather than a journey. The "west" in the earlier telling almost certainly comes from the uncle's original posting to the far northwest &mdash; which Zhou Ling's handwritten pages give as **Qinghai** and the uncle's daughter [Zhou Shan](/family/shan-zhou/) gives as **waste ground in Ningxia, herding sheep**, got out of by **swapping with a classmate** rather than by appeal. See [the recording page](/docs/zhou-ling-bringing-his-uncle-home/).*
 
 > *Structured record: [Dale Eesley & Chuck Eesley / FamilySearch &mdash; Ling Zhou (GMLK-9RP)](https://www.familysearch.org/tree/person/details/GMLK-9RP).*
 
