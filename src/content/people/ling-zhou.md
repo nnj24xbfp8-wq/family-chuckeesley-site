@@ -23,17 +23,23 @@ summary: "Lijie's father. Son of Zhaoxiang Zhou (1930–2022) and Yunzhe Sun (d.
 
 兄弟姊妹：[周泉](/family/quan-zhou/)、[周爱琴](/family/ai-qin-zhou/)、[周爱华](/family/ai-hua-zhou/)。
 
-### 文革年间，那趟西去的火车
+### 接叔叔一家回青岛
 
-经丽婕父亲本人许可，本档案得以收录下面这段往事。**文化大革命（1966&ndash;1976）** 期间 &mdash; 当时全国上下因政治运动、上山下乡、城镇人口下放等原因，家庭被打散、亲眷四散 &mdash; 丽婕的父亲曾**乘火车远赴西部诸省，将家中亲眷接回青岛**。同车归来的，有几位当时尚年幼的堂表姊妹；若没有那趟火车，她们的人生轨迹本应是另一个样子。她们中的两位，如今已是中年女性，在Chuck与丽婕近年的一次青岛之行中，曾共同进餐 &mdash; 这条情谊，跨越两代，至今犹在。
+经丽婕父亲本人许可，本档案得以收录下面这段往事。
 
-2026年9月的一次家宴上，这段往事被讲得更为完整。丽婕父亲当年接回的那位亲人，是一位**医生** &mdash; 丽婕**曾祖母（[周兆祥](/family/zhaoxiang-zhou/)之母）最小的儿子**。他有幸在文革之前便已大学毕业，却仍在二十多岁时被下放乡村；本以为不久即可调回青岛，谁知一去竟近**四十年**，在当地成家，育有**三个女儿**，远离故城 &mdash; 她们正是上文所说的那几位堂表姊妹。
+他的叔叔[周兆帧](/family/zhaozheng-zhou/)是1966年青岛医学院毕业生 &mdash; 正值**文化大革命（1966&ndash;1976）** 开始之年 &mdash; 被国家分配到外地，此后一生困于山东**阳信县**一所贫困县医院。奶奶[庞焕彩](/family/huancai-pang/)晚年思念幼子，哭至双目失明，说她惟一的心事就是想让他回青岛。叔叔自己托人办调动，**办了多年始终未成**。
 
-将他接回的，是母亲临终的心愿。老人弥留之际，唯一的牵挂，便是盼最小的儿子归来。丽婕的父亲把这桩事担在了自己肩上 &mdash; 用丽婕母亲的话说，他向来是那个肯扛责任、也最有门路的人 &mdash; 前后奔走数年，动用一切可用的关系，终于将这一家人，连同医生的妻子与三个女儿，一并迁回青岛。老人在他们归来约**一个月后**辞世 &mdash; 儿子已在膝前，她走得安心。
+**最后是周玲办成的。** 他动用自己的关系，一家一家地谈，**1991年**把叔叔、婶婶和三个女儿一并迁回青岛；夫妇二人其后皆在青岛市南区浮山所医院工作。奶奶于1992年4月6日去世，在全家迁回**约一年**之后。
 
-[丽婕的母亲](/family/xun-li/) 用最朴素的一句话给这段故事下了定语：*"这件事改变了家族的走向。"* 这一句的分量便是它本身所承载的全部。今日周氏一支 &mdash; 那些堂表姊妹、她们的子女、节庆的饭桌、城与城之间的电话 &mdash; 之所以能落脚于今天的位置，部分缘由便是当年一位青年的那趟西行。
+那三个女儿 &mdash; 周玲的堂妹[周洁](/family/jie-zhou/)、[周义](/family/yi-zhou/)、[周善](/family/shan-zhou/) &mdash; 若无此事，人生轨迹本应是另一个样子。她们中的两位，在Chuck与丽婕近年的一次青岛之行中，曾与二人同席而食 &mdash; 这条情谊，跨越两代，至今犹在。
 
-这段故事是本档案在周氏一脉所收录的最具历史分量的单一行动叙事之一，经丽婕父亲本人明确同意，方得在此呈现。
+[丽婕的母亲](/family/xun-li/) 用最朴素的一句话给这段故事下了定语：*"这件事改变了家族的走向。"* 这一句的分量便是它本身所承载的全部。
+
+这段故事是本档案在周氏一脉所收录的最具历史分量的单一行动叙事之一，经丽婕父亲本人明确同意，方得在此呈现。两处原始记录：
+[周玲手记两页](/docs/zhou-ling-uncle-recollection/)（2026年8月）与
+[延安三路109号的席间录音](/docs/zhou-ling-bringing-his-uncle-home/)（2026年9月，丽婕口译）。
+
+> *更正：本页此前记作"文革年间那趟西去的火车" &mdash; 谓其乘火车赴西部诸省接亲眷。据周玲本人2026年9月的口述，接的是叔叔一家，来处是山东阳信，所办者为多年的调动审批，非一趟火车。"西部"之说很可能源于叔叔最初被分配到大西北一事 &mdash; 周玲手记作**青海**，叔叔的女儿[周善](/family/shan-zhou/)则记作**宁夏放羊的荒滩**，且谓其**与同学对换**才改去山东，非经申诉。详见[录音页](/docs/zhou-ling-bringing-his-uncle-home/)。*
 
 ### 照片动画
 
@@ -54,7 +60,7 @@ summary: "Lijie's father. Son of Zhaoxiang Zhou (1930–2022) and Yunzhe Sun (d.
 
 Details withheld &mdash; living. Father of [Lijie 周丽婕](/family/lijie-zhou/).
 
-The portrait at the head of this page shows Ling Zhou in a **People's Police-style service uniform** with red epaulets, standing beside a young Lijie (~10) in a red pinafore over a white turtleneck &mdash; an indoor flash photograph from the early 1990s, the years he was a working public-safety officer in Qingdao and his daughter was in primary school. It is, as of this writing, the only photograph in the archive of the two of them together. Full artifact entry with provenance and bilingual context: [Ling Zhou with teenage Lijie, c. 1990s](/archive/ling-zhou-with-teen-lijie-1990s/).
+The portrait at the head of this page shows Ling Zhou in a service uniform of the period &mdash; pale blue shirt, dark tie, shoulder boards, a red-bordered badge at the collar &mdash; standing beside a young Lijie in a red pinafore over a white turtleneck. He was a **driver for government officials** in Qingdao in these years, which accounts for the official service dress, while his daughter was in primary school. It is, as of this writing, the only photograph in the archive of the two of them together. Full artifact entry with provenance and bilingual context: [Ling Zhou with teenage Lijie, c. 1990s](/archive/ling-zhou-with-teen-lijie-1990s/).
 
 A later photograph of Ling Zhou is in the archive too: [a family visit with his father Zhaoxiang and his wife Xun Li](/archive/visit-with-zhaoxiang-zhou-and-family/), Ling seated in a dark leather jacket to the right of Zhaoxiang.
 
@@ -69,20 +75,26 @@ A separate **young-man studio portrait** of Ling, from earlier in his life, has 
 
 He and Lijie's mother [Xun Li](/family/xun-li/) made the **honeymoon trip to Hangzhou** documented at [Lingyin Temple](/places/lingyin-temple-hangzhou/) in 1982, just after their wedding &mdash; the [then-and-now pair](/places/lingyin-temple-hangzhou/) on that page is theirs.
 
-## The Cultural Revolution train
+### Getting his uncle's family back to Qingdao
 
-One story Lijie's father has given permission for this archive to carry: during the **Cultural Revolution** (1966&ndash;1976) &mdash; the years when families across China were dispersed by political dislocations, sent-down youth programs, and the wider scattering of urban populations into the countryside &mdash; **Lijie's father took a train out to the western provinces to bring family members back to Qingdao.** Among those he rode back with were several young female cousins whose lives, but for that train, would have run a different course. Two of those cousins, now grown women, had lunch with Chuck and Lijie on a recent Qingdao visit &mdash; the connection still living, two generations on.
+One story Lijie's father has given permission for this archive to carry.
 
-A fuller account, told over a family dinner in September 2026, fills in what that train meant. The relative Lijie's father brought home was **a doctor** &mdash; the **youngest son of Lijie's great-grandmother**, [Zhaoxiang Zhou](/family/zhaoxiang-zhou/)'s mother. He had been lucky enough to finish college just before the Cultural Revolution, but was sent down to the countryside in his twenties all the same, a young physician who expected to be recalled to Qingdao before long. Instead he stayed **nearly forty years**, marrying there and raising **three daughters** far from the city &mdash; the cousins of the telling above.
+His uncle **[Zhou Zhaozheng](/family/zhaozheng-zhou/)** graduated from Qingdao Medical College in **1966**, the year the **Cultural Revolution** began, and the state posted him away &mdash; ultimately to a poor county hospital in **Yangxin, Shandong**, where he spent his entire career. Their mother, **[Pang Huancai](/family/huancai-pang/)**, grew old in Qingdao with every one of her children near her except her youngest; she wept over it until she lost her sight, and said the one thing left on her mind was to have him home. The uncle petitioned for a transfer **for years and never got one**.
 
-It was his mother's dying wish that brought him back. As she neared the end, the one thing she asked was that her youngest son come home. Lijie's father took it on &mdash; by Lijie's mother's account, simply the one who took responsibility, and the one with the connections &mdash; and spent **years** working every relationship he had until he could relocate the whole family, the doctor and his wife and their three daughters, back to Qingdao. His grandmother died about **a month after** they arrived. She had her son home; she went in peace.
+**Zhou Ling is the one who got it done.** He worked his own connections, talked to person after person, and in **1991** moved his uncle, his uncle's wife and their **three daughters** back to Qingdao, where both his uncle and his uncle's wife took posts at the Fushansuo Hospital in Shinan District. His grandmother died on 6 April 1992, about **a year** after they came home.
 
-[Lijie's mother](/family/xun-li/) framed what her husband did in the simplest terms: *"that changed the family's trajectory."* The remark holds the weight a sentence like it can. The Zhou family of the present generation &mdash; the cousins, their children, the holiday meals, the calls across cities &mdash; sits where it sits in part because of one young man's train trip west.
+Those three daughters &mdash; his cousins **[Zhou Jie](/family/jie-zhou/)**, **[Zhou Yi](/family/yi-zhou/)** and **[Zhou Shan](/family/shan-zhou/)** &mdash; had lives that would have run a different course without it. Two of them had lunch with Chuck and Lijie on a recent Qingdao visit &mdash; the connection still living, two generations on.
 
-The story is among the most consequential single-action narratives this archive holds on the Zhou side, and is shared here with Lijie's father's express permission.
+[Lijie's mother](/family/xun-li/) framed what her husband did in the simplest terms: *"that changed the family's trajectory."* She meant it literally. The Zhou family of the present generation &mdash; the cousins, their children, the holiday meals, the calls across cities &mdash; sits where it sits in part because one nephew spent years pushing paper through a system built to say no.
+
+The story is among the most consequential single-action narratives this archive holds on the Zhou side, and is shared here with Lijie's father's express permission. Two primary records of it:
+**[his own two handwritten pages](/docs/zhou-ling-uncle-recollection/)** (August 2026), and
+**[the dinner-table recording at No. 109 Yan'an 3rd Road](/docs/zhou-ling-bringing-his-uncle-home/)** (September 2026, Lijie translating), which is where the ending comes from.
+
+> *Correction: this page previously carried the story as **"the Cultural Revolution train"** &mdash; a train ride out to the western provinces to fetch family. Zhou Ling's own spoken account of September 2026 corrects it: the people were his uncle's household, they were in Yangxin County in Shandong, and the mechanism was years of transfer petitioning rather than a journey. The "west" in the earlier telling almost certainly comes from the uncle's original posting to the far northwest &mdash; which Zhou Ling's handwritten pages give as **Qinghai** and the uncle's daughter [Zhou Shan](/family/shan-zhou/) gives as **waste ground in Ningxia, herding sheep**, got out of by **swapping with a classmate** rather than by appeal. See [the recording page](/docs/zhou-ling-bringing-his-uncle-home/).*
 
 > *Structured record: [Dale Eesley & Chuck Eesley / FamilySearch &mdash; Ling Zhou (GMLK-9RP)](https://www.familysearch.org/tree/person/details/GMLK-9RP).*
 
-## See also — family threads
+### See also &mdash; family threads
 
-Ling Zhou is an anchor for **Thread #4 (Returning to the places that matter — pilgrimage as family form)** in the [**Family threads**](/docs/family-threads/) synthesis essay. The **1982 honeymoon photograph at the [Lingyin Temple gate](/places/lingyin-temple-hangzhou/)** of Ling and [Xun Li](/family/xun-li/), just after their wedding in [Qingdao](/places/qingdao/), is the Zhou-side founding pilgrimage image — and the 2019 return frame at the same gate, plus the matching Chuck-and-Lijie frame from the same visit, complete the three-frame echo.
+Ling Zhou is an anchor for **Thread #4 (Returning to the places that matter &mdash; pilgrimage as family form)** in the [**Family threads**](/docs/family-threads/) synthesis essay. The **1982 honeymoon photograph at the [Lingyin Temple gate](/places/lingyin-temple-hangzhou/)** of Ling and [Xun Li](/family/xun-li/), just after their wedding in [Qingdao](/places/qingdao/), is the Zhou-side founding pilgrimage image &mdash; and the 2019 return frame at the same gate, plus the matching Chuck-and-Lijie frame from the same visit, complete the three-frame echo.
