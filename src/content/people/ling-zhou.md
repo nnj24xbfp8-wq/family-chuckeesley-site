@@ -27,6 +27,10 @@ summary: "Lijie's father. Son of Zhaoxiang Zhou (1930–2022) and Yunzhe Sun (d.
 
 经丽婕父亲本人许可，本档案得以收录下面这段往事。**文化大革命（1966&ndash;1976）** 期间 &mdash; 当时全国上下因政治运动、上山下乡、城镇人口下放等原因，家庭被打散、亲眷四散 &mdash; 丽婕的父亲曾**乘火车远赴西部诸省，将家中亲眷接回青岛**。同车归来的，有几位当时尚年幼的堂表姊妹；若没有那趟火车，她们的人生轨迹本应是另一个样子。她们中的两位，如今已是中年女性，在Chuck与丽婕近年的一次青岛之行中，曾共同进餐 &mdash; 这条情谊，跨越两代，至今犹在。
 
+2026年9月的一次家宴上，这段往事被讲得更为完整。丽婕父亲当年接回的那位亲人，是一位**医生** &mdash; 丽婕**曾祖母（[周兆祥](/family/zhaoxiang-zhou/)之母）最小的儿子**。他有幸在文革之前便已大学毕业，却仍在二十多岁时被下放乡村；本以为不久即可调回青岛，谁知一去竟近**四十年**，在当地成家，育有**三个女儿**，远离故城 &mdash; 她们正是上文所说的那几位堂表姊妹。
+
+将他接回的，是母亲临终的心愿。老人弥留之际，唯一的牵挂，便是盼最小的儿子归来。丽婕的父亲把这桩事担在了自己肩上 &mdash; 用丽婕母亲的话说，他向来是那个肯扛责任、也最有门路的人 &mdash; 前后奔走数年，动用一切可用的关系，终于将这一家人，连同医生的妻子与三个女儿，一并迁回青岛。老人在他们归来约**一个月后**辞世 &mdash; 儿子已在膝前，她走得安心。
+
 [丽婕的母亲](/family/xun-li/) 用最朴素的一句话给这段故事下了定语：*"这件事改变了家族的走向。"* 这一句的分量便是它本身所承载的全部。今日周氏一支 &mdash; 那些堂表姊妹、她们的子女、节庆的饭桌、城与城之间的电话 &mdash; 之所以能落脚于今天的位置，部分缘由便是当年一位青年的那趟西行。
 
 这段故事是本档案在周氏一脉所收录的最具历史分量的单一行动叙事之一，经丽婕父亲本人明确同意，方得在此呈现。
@@ -68,6 +72,10 @@ He and Lijie's mother [Xun Li](/family/xun-li/) made the **honeymoon trip to Han
 ## The Cultural Revolution train
 
 One story Lijie's father has given permission for this archive to carry: during the **Cultural Revolution** (1966&ndash;1976) &mdash; the years when families across China were dispersed by political dislocations, sent-down youth programs, and the wider scattering of urban populations into the countryside &mdash; **Lijie's father took a train out to the western provinces to bring family members back to Qingdao.** Among those he rode back with were several young female cousins whose lives, but for that train, would have run a different course. Two of those cousins, now grown women, had lunch with Chuck and Lijie on a recent Qingdao visit &mdash; the connection still living, two generations on.
+
+A fuller account, told over a family dinner in September 2026, fills in what that train meant. The relative Lijie's father brought home was **a doctor** &mdash; the **youngest son of Lijie's great-grandmother**, [Zhaoxiang Zhou](/family/zhaoxiang-zhou/)'s mother. He had been lucky enough to finish college just before the Cultural Revolution, but was sent down to the countryside in his twenties all the same, a young physician who expected to be recalled to Qingdao before long. Instead he stayed **nearly forty years**, marrying there and raising **three daughters** far from the city &mdash; the cousins of the telling above.
+
+It was his mother's dying wish that brought him back. As she neared the end, the one thing she asked was that her youngest son come home. Lijie's father took it on &mdash; by Lijie's mother's account, simply the one who took responsibility, and the one with the connections &mdash; and spent **years** working every relationship he had until he could relocate the whole family, the doctor and his wife and their three daughters, back to Qingdao. His grandmother died about **a month after** they arrived. She had her son home; she went in peace.
 
 [Lijie's mother](/family/xun-li/) framed what her husband did in the simplest terms: *"that changed the family's trajectory."* The remark holds the weight a sentence like it can. The Zhou family of the present generation &mdash; the cousins, their children, the holiday meals, the calls across cities &mdash; sits where it sits in part because of one young man's train trip west.
 
