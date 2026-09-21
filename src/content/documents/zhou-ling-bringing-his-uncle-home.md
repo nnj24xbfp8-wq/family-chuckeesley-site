@@ -1,6 +1,6 @@
 ---
 title: "延安三路109号：周玲讲述接叔叔回青岛 — \"He finds someone to get this person back\": Zhou Ling tells how he brought his uncle home"
-teaser: "Recorded over dinner in Qingdao, September 2026: the transfer his uncle spent twenty-five years failing to obtain, his nephew finally got in 1991."
+teaser: "Recorded over dinner in Qingdao, September 2026: the transfer his uncle spent twenty-four years failing to obtain, his nephew finally got in 1991."
 type: ancestor-sketch
 author: ling-zhou
 people:
@@ -93,7 +93,7 @@ summary: "Eight weeks after Lijie's father wrote out by hand the story of his un
 
 | 录音原话 | 更正为 | 出处 |
 |---|---|---|
-| "将近四十年" | **二十五年**（1966&ndash;1991） | 周善 |
+| "将近四十年" | 在阳信**二十四年**（1967年秋&ndash;1991）；自毕业算起二十五年 | 周善 |
 | "已经六十多了，大概" | 归来时**五十三岁** | 由1991年与1938年生推 |
 | 奶奶在"三十天左右"后去世 | **约一年** | 丽婕 |
 | "文化大革命之前就毕业了" | **1966届** &mdash; 文革正爆发于其毕业之际 | 周善 |
@@ -104,7 +104,7 @@ summary: "Eight weeks after Lijie's father wrote out by hand the story of his un
 - **调入单位是青岛市南区浮山所医院**，且**父母二人皆在此工作** &mdash; 那一纸调令带回青岛的是两份医务工作，不是一份。
 - **三个女儿有名有生日：[周洁](/family/jie-zhou/)** 与 **[周义](/family/yi-zhou/)**，1970年10月18日生的双胞胎；**[周善](/family/shan-zhou/)**，1976年4月3日生 &mdash; 迁回那年，她们分别是二十、二十、十五岁。
 
-有了1991这个年份，各处便都合上了：在阳信二十五年，归时五十三岁，母亲庞焕彩卒于**1992年4月6日**，在全家迁回约一年之后。她等到了，还等到了一年。
+有了1991这个年份，各处便都合上了：归时五十三岁，母亲庞焕彩卒于**1992年4月6日**，在全家迁回约一年之后。她等到了，还等到了一年。
 
 ## 他本来已经留校
 
@@ -114,7 +114,25 @@ summary: "Eight weeks after Lijie's father wrote out by hand the story of his un
 
 在此之前，本档案所记的故事都从"被分配到外地"讲起。而这一句说：**他本来根本不必走。** 留校是给一届里最拔尖的人的，名单已定 &mdash; 工作在青岛，在教学医院，与母亲同城。**名单上有他的名字**，文革一起，名单作废。
 
-此后四十年的种种 &mdash; 青海、阳信、哭瞎了眼的母亲、侄子多年的奔走、五个人被改道的一生 &mdash; 皆自1966年夏天一纸名单的作废而来。
+此后二十余年的种种 &mdash; 大西北的荒滩、阳信、哭瞎了眼的母亲、侄子多年的奔走、五个人被改道的一生 &mdash; 皆自1966年夏天一纸名单的换人而来。
+
+## 延宕一年，与一次对换 — 1967年秋
+
+次日她又补来三条，把1966年毕业到抵达阳信之间那段空白填上了：
+
+> *"我爸爸是1967年秋天分配到阳信的，文革原因延迟分配一年，当时学校给补发了大概八个月的工资。"*
+>
+> *"那时比较混乱，原来的留校名单都换成造反派了。"*
+>
+> *"我爸爸本来分配到大西北宁夏放羊的荒滩，和同学换了，到了山东最北边也就是黄河以北的阳信县翟王乡镇医院，1974年又调动到我妈妈所在的阳信县中医院。"*
+
+- **留校名额没有取消，是换了人。** 按成绩排的名单作废，位置给了造反派。
+- **分配延迟整整一年**，1967年秋才到阳信；学校**补发约八个月工资** &mdash; 这一年的空悬，校方是认账的。
+- **原分配地不是医院，是宁夏放羊的荒滩。** 一个刚毕业的医科生，分去大西北牧羊。
+- **他是和同学私下对换才去的阳信。** 不是申诉换来的照顾。
+- **阳信是两段，不是一段：** 先在**翟王乡镇医院**（乡镇一级，比县级更低），**1974年**才调入[妻子](/family/su-ying-xian/)所在的**阳信县中医院**。前七年，夫妇二人不在同一所医院。
+
+由此，在阳信是**二十四年**（1967年秋&ndash;1991），去时二十九岁，归时五十三岁。
 
 <aside class="not-prose my-8 border-l-4 border-amber-700 bg-amber-50/60 dark:bg-amber-950/20 px-6 py-5 rounded-r">
 
@@ -122,9 +140,9 @@ summary: "Eight weeks after Lijie's father wrote out by hand the story of his un
 
 周兆帧属于中国现代史上有专名的一批人：**老五届** &mdash; 1966至1970年这五届大学毕业生，毕业分配为文革所中断。正常分配停止，他们多被留在学校参加运动，其后下放农村、农场、工厂或军队劳动锻炼，少则一年，多则数年，才轮到专业岗位。
 
-这也正是本档案至今说不清他1966年毕业到抵达阳信之间那几年的缘故 &mdash; 对这一届人而言，拖上一年以上是常态。两个女儿1970年生于阳信，可知他至迟1970年已在彼处。
+他本人的经历正与此相合，且其女记下了确切时间：**悬置一年，1967年秋到任**。家中所述之所以格外具体，在于那**约八个月的补发工资** &mdash; 学校为这一年结的账：人在册上，资格在手，却无处可去。
 
-留校名单作废一事的分量也在此：那些年里，稀缺而受过高等训练并不构成任何保护；就他而言，恰恰是这身训练使他成为"可以被分配到一个需要医生却留不住医生的地方"的人。
+留校名单被换一事的分量也在此：那些年里，稀缺而受过高等训练并不构成任何保护，成绩恰恰是最先不作数的那种资格。而就他而言，也正是这身训练使他成为可被分配之人 &mdash; 先是分去一个要人放羊的地方，再是一个需要医生却留不住医生的地方。
 
 </aside>
 
@@ -134,7 +152,7 @@ summary: "Eight weeks after Lijie's father wrote out by hand the story of his un
 
 本档案[周玲页](/family/ling-zhou/)此前记有"文革年间那趟西去的火车" &mdash; 谓其乘火车赴西部诸省接亲眷回青岛。以本录音校之，当作修正：
 
-- 接的是**叔叔一家**，来处是**山东阳信**，非西部诸省。旧述所谓"西部"，很可能源于叔叔1966年最初被分配到**青海**一事 &mdash; 那次分配后来经他向校方申诉而改派山东，他并未在青海久留。
+- 接的是**叔叔一家**，来处是**山东阳信**，非西部诸省。旧述所谓"西部"，很可能源于叔叔最初被分配到**大西北**一事 &mdash; 手记作青海，其女作宁夏；无论何处，他都未曾去成，而是与同学对换去了山东。
 - 所办之事**不是一趟火车**，而是多年的调动审批。
 - 同车而归的"年幼的堂表姊妹"，实为叔叔已成年或将成年的**三个女儿**。其中两位后来与Chuck、丽婕在青岛同席而食 &mdash; 这一节不误。
 
@@ -231,7 +249,7 @@ This page went up with several numbers in the spoken account that would not reco
 
 | In the recording | Corrected to | Source |
 |---|---|---|
-| *"almost forty years"* in the rural area | **twenty-five years** (1966–1991) | Zhou Shan |
+| *"almost forty years"* in the rural area | **twenty-four years** in Yangxin (autumn 1967–1991); twenty-five from graduation | Zhou Shan |
 | *"he's already in his sixties, maybe"* | **fifty-three** on his return | from 1991 and his 1938 birth |
 | *"just thirty days or something"* before his mother died | **about a year** | Lijie |
 | *"he graduated from college before the Cultural Revolution"* | **the class of 1966** — it broke out on top of his graduation | Zhou Shan |
@@ -242,7 +260,7 @@ This page went up with several numbers in the spoken account that would not reco
 - **The receiving hospital was the Fushansuo Hospital in Shinan District** (青岛市南区浮山所医院), and **both parents worked there.** The transfer carried two medical careers home, not one.
 - **The three daughters have names and dates:** **[Zhou Jie 周洁](/family/jie-zhou/)** and **[Zhou Yi 周义](/family/yi-zhou/)**, twins born **18 October 1970**, and **[Zhou Shan 周善](/family/shan-zhou/)**, born **3 April 1976** — so at the move they were twenty, twenty, and fifteen.
 
-With 1991 in hand, everything closes: twenty-five years in Yangxin, home at fifty-three, and his mother's recorded death of **6 April 1992** about a year after the family arrived. Pang Huancai got the year.
+With 1991 in hand, everything closes: home at fifty-three, and his mother's recorded death of **6 April 1992** about a year after the family arrived. Pang Huancai got the year.
 
 ### The job he already had
 
@@ -254,7 +272,26 @@ The largest correction is not a number. Asked about her father, Zhou Shan wrote:
 
 Everything the archive held until now began with the uncle being **sent away**. This says he was never going to be. A **留校** post — kept on by your own institution after graduating — went to the top of the class, and his was confirmed. It was a job in Qingdao, in a teaching hospital, in the same city as his mother. **The list existed and his name was on it**, and then the Cultural Revolution cancelled the list.
 
-So the forty years of consequence in this story — Qinghai, Yangxin, the blind mother, the nephew's years of petitioning, five people's lives rerouted — all run from a piece of paper being voided in the summer of 1966.
+So everything that follows — the waste ground in the northwest, Yangxin, the blind mother, the nephew's years of petitioning, five people's lives rerouted — runs from a list being **rewritten** in the summer of 1966. The posts were not abolished. They went to the rebel factions instead.
+
+### A year in limbo, and a swap — autumn 1967
+
+The next day she sent three more messages, which close the gap between his 1966 graduation and his arrival in Yangxin:
+
+> *"My dad was assigned to Yangxin in the autumn of 1967. The assignment was delayed a year because of the Cultural Revolution, and the college back-paid him about eight months' wages."*
+>
+> *"It was chaotic then. The original retained-post list was all swapped out for 造反派 — rebel-faction members."*
+>
+> *"My dad was originally assigned to the barren land of Ningxia in the far northwest, herding sheep. He swapped with a classmate, and went to the northernmost part of Shandong, north of the Yellow River — the Zhaiwang Township Hospital in Yangxin County. In 1974 he transferred again, to the Yangxin County Traditional Chinese Medicine Hospital where my mother worked."*
+
+- **The delay was a full year**, and the college **back-paid about eight months' wages** for it. The institution acknowledged in money that it had left him suspended.
+- **The first posting was not medicine at all.** Waste ground in **Ningxia**, herding sheep — a newly qualified doctor sent to mind livestock.
+- **He got out of it by trading with a classmate**, privately. Not by appeal, not by anyone's mercy.
+- **Yangxin was two postings.** The **Zhaiwang township hospital** first — a rung below county level — and only in **1974** the county traditional-medicine hospital, where his wife [Su Ying Xian](/family/su-ying-xian/) already worked. For the first seven years they were at different hospitals.
+
+Which makes it **twenty-four years** in Yangxin, autumn 1967 to 1991: out at twenty-nine, home at fifty-three.
+
+> *This conflicts with the handwritten pages in two places, recorded rather than resolved. His nephew wrote **Qinghai**; his daughter says **Ningxia**. His nephew wrote that he **appealed to the college on grounds of family hardship** and was reassigned; his daughter says he **swapped with a classmate**. Both could be true in sequence — a failed appeal, then a private trade — but the archive should not assume it. The daughter was in the household; the nephew was writing decades later about his uncle.*
 
 <aside class="not-prose my-8 border-l-4 border-amber-700 bg-amber-50/60 dark:bg-amber-950/20 px-6 py-5 rounded-r">
 
@@ -262,9 +299,9 @@ So the forty years of consequence in this story — Qinghai, Yangxin, the blind 
 
 Zhaozheng belongs to a cohort with its own name in China: the **老五届**, the five graduating classes of **1966 through 1970**, whose placements were overtaken by the Cultural Revolution. Normal graduate assignment stopped. Instead of going to the posts they had been allocated, they were generally held at their universities through the campaigns and then sent to labour in the countryside, on farms, in factories or with army units, sometimes for years, before any professional posting came through.
 
-This is why the archive cannot yet account for the gap between his 1966 graduation and his arrival in Yangxin. A delay of a year or more was the norm for this cohort. His daughters were born in Yangxin in 1970 and 1976, so he was certainly there by 1970.
+His own case fits the pattern exactly, and his daughter dates it: **a year of suspension, and a posting in autumn 1967.** What makes the family's account unusually concrete is the **eight months of back pay** — the college settling up for a year in which he was on its books, qualified, and going nowhere.
 
-It is also why the voided 留校 list matters beyond one family. Being a scarce, highly trained graduate offered no protection in those years, and in his case the training is exactly what made him assignable to a place that needed a doctor and could not attract one.
+It is also why the rewritten 留校 list matters beyond one family. Being a scarce, highly trained graduate offered no protection in those years; academic standing was precisely the currency that stopped counting. In his case the training is also what made him assignable — first to a place that wanted a shepherd, then to a place that needed a doctor and could not attract one.
 
 </aside>
 
@@ -274,7 +311,7 @@ It is also why the voided 留校 list matters beyond one family. Being a scarce,
 
 Zhou Ling's [person page](/family/ling-zhou/) has carried a section called *"The Cultural Revolution train"* &mdash; a compressed telling in which he **rode a train out to the western provinces** to bring family members back to Qingdao. Against this recording, that needs amending:
 
-- The people he brought back were **his uncle's household**, and they were in **Yangxin County, Shandong** &mdash; not the western provinces. The "west" almost certainly comes from the uncle's **original 1966 posting to Qinghai**, which he appealed and had changed to Shandong before serving there.
+- The people he brought back were **his uncle's household**, and they were in **Yangxin County, Shandong** &mdash; not the western provinces. The "west" almost certainly comes from the uncle's **original posting to the far northwest** (Qinghai in the handwritten pages, Ningxia in his daughter's account), which he never took up: he swapped it with a classmate for Shandong.
 - It was **not a train trip**. It was years of transfer petitioning.
 - The *"young female cousins"* on that train were the uncle's **three daughters**, grown or nearly grown by the time they moved. Two of them did later have lunch with Chuck and Lijie in Qingdao; that part stands.
 
@@ -296,7 +333,7 @@ The earlier telling came from the family too. It is not invented &mdash; it is w
 
 > *Source: audio recording made at dinner at No. 109 Yan'an 3rd Road, Qingdao, the weekend of 12&ndash;13 September 2026. Zhou Ling told the story in Chinese; Lijie translated aloud. Master file (7 min 19 sec, m4a) held in the family archive; the two excerpts published here are trimmed from it, with the surrounding table conversation left out. Transcript prepared from the recording's automatic transcription and lightly cleaned; it has not yet been checked line by line against the audio by a Chinese-speaking ear, and the Chinese rendering above is a back-translation of Lijie's English.*
 >
-> *Corrections and added detail: [Zhou Shan 周善](/family/shan-zhou/) by WeChat to Lijie, 20 September 2026 (screenshot supplied to this archive by Chuck), and Lijie's own follow-up correcting "thirty days" to a year.*
+> *Corrections and added detail: [Zhou Shan 周善](/family/shan-zhou/) by WeChat to Lijie, 20 and 21 September 2026 (screenshots supplied to this archive by Chuck), and Lijie's own follow-up correcting "thirty days" to a year.*
 
 ### See also
 

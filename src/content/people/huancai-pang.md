@@ -29,7 +29,7 @@ summary: "Lijie's paternal great-grandmother. Wife of Maoli Zhou; mother of Zhao
 
 > *"我听爸爸说奶奶经常去菜市场捡菜叶或捡人不要的蔬菜来家吃维持生活。"*
 
-**三个孩子中，唯有幼子读到大学毕业。** 1966年他毕业于青岛医学院，却被国家分配到外地 &mdash; 先是青海省，后因家庭困难改派山东最贫困的惠民地区阳信县中医院，一去不返。
+**三个孩子中，唯有幼子读到大学毕业。** 1966年他毕业于青岛医学院，本已定下留校，文革一起名单作废；延宕一年后，**1967年秋**被分配到山东最北、黄河以北的阳信县，一去二十四年。（最初的分配地在大西北 &mdash; 手记作青海，其女作宁夏；[详见其页](/family/zhaozheng-zhou/)。）
 
 **她等了几十年。** 晚年全家皆在青岛，独他一人在外。整天叨念，常年流泪，**眼睛也看不见了**。
 
@@ -67,7 +67,7 @@ When her husband died she was left with **three children and no work of her own*
 
 > *"My father told me that my grandmother would often go to the **vegetable market to pick up cabbage leaves, or vegetables other people had thrown away**, and bring them home to eat so the family could get by."*
 
-**One of the three got an education, and it was the baby.** Zhaozheng graduated from Qingdao Medical College in 1966 — and the state then assigned him away: first Qinghai, then, after he appealed on grounds of his family's hardship, the poorest prefecture in Shandong. He never came back.
+**One of the three got an education, and it was the baby.** Zhaozheng graduated from Qingdao Medical College in 1966 with a retained post at the college already confirmed — a job in her city — and the Cultural Revolution scrapped the list. After a year in limbo he was sent, in **autumn 1967**, to Yangxin County in the far north of Shandong, beyond the Yellow River. He was there twenty-four years. *(The original posting was to the northwest; his nephew's pages say Qinghai, his daughter says Ningxia. See [his page](/family/zhaozheng-zhou/).)*
 
 ## Her one remaining wish
 

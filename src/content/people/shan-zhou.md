@@ -10,7 +10,7 @@ parents:
   - su-ying-xian
 living: true
 status: sketch
-summary: "Youngest daughter of Zhaozheng Zhou and Su Ying Xian, born 3 April 1976 in her father's exile posting; known in the family as Liang Liang 亮亮. She was fifteen when the transfer back to Qingdao came through in 1991, so she is the one of the three sisters whose schooling the move most changed. In September 2026 she supplied by WeChat the details that fixed this part of the archive's chronology — the 1991 return date, her parents' hospital in Qingdao, her sisters' birth dates, and the fact that her father had already secured a post at Qingdao Medical College before the Cultural Revolution voided it."
+summary: "Youngest daughter of Zhaozheng Zhou and Su Ying Xian, born 3 April 1976 in her father's exile posting; known in the family as Liang Liang 亮亮. She was fifteen when the transfer back to Qingdao came through in 1991, so she is the one of the three sisters whose schooling the move most changed. In September 2026 she supplied, by WeChat, most of what this archive knows about her father's working life — the 1991 return, her parents' hospital in Qingdao, her sisters' birth dates, the retained post at Qingdao Medical College that the Cultural Revolution handed to the rebel factions, the year his assignment sat in limbo, the sheep-herding posting in Ningxia he escaped by trading with a classmate, and the two Yangxin hospitals he worked in."
 ---
 
 <p class="not-prose my-4 p-3 border-l-4 border-rule bg-ink/5 text-sm"><strong>📖 English version below &mdash; <a href="#en">Jump to English ↓</a></strong> &nbsp;·&nbsp; <em>本页中文在上，英文见下方。</em></p>
@@ -27,7 +27,11 @@ summary: "Youngest daughter of Zhaozheng Zhou and Su Ying Xian, born 3 April 197
 
 > *"我爸爸不是文革前毕业的，他是1966年毕业生，他学习成绩优秀本来已经确定了在青岛医学院留校工作，突然爆发文革，所有毕业分配暂停了，留校毕业名单也作废了。"*
 
-这一句改写了此前的记述：她父亲原本**不必离开青岛**。详见[录音页](/docs/zhou-ling-bringing-his-uncle-home/)。
+这一句改写了此前的记述：她父亲原本**不必离开青岛**。
+
+次日她又补来三条，把1966年毕业到抵达阳信之间的空白填上了 &mdash; **留校名单"都换成造反派了"**；**分配延迟一年，学校补发约八个月工资**，1967年秋才到阳信；**原分配地是宁夏放羊的荒滩**，他**和同学对换**才去了山东，先在**翟王乡镇医院**，1974年才调入母亲所在的**阳信县中医院**。
+
+详见[录音页](/docs/zhou-ling-bringing-his-uncle-home/)与[父亲页](/family/zhaozheng-zhou/)。
 
 > *详细生平从略 &mdash; 在世。*
 
@@ -47,8 +51,17 @@ In September 2026 she answered, by WeChat, several questions this archive had be
 
 > *"My dad did not graduate before the Cultural Revolution. He was in the class of 1966. His grades were excellent and he had already been confirmed for a retained post at Qingdao Medical College, then the Cultural Revolution suddenly broke out, all graduate assignments were suspended, and the retained-post list was voided."*
 
-That single sentence changes the shape of her father's story: **he was not supposed to leave Qingdao at all.** He had the job. The Cultural Revolution took it back before he could start it. See [the recording page](/docs/zhou-ling-bringing-his-uncle-home/) for what it revises.
+That single sentence changes the shape of her father's story: **he was not supposed to leave Qingdao at all.** He had the job. The Cultural Revolution took it back before he could start it.
+
+The following day she filled in the years between his 1966 graduation and his arrival in Yangxin, which no one in the family had recorded:
+
+- the retained-post list *"was all swapped out for 造反派"* — the places went to the rebel factions
+- his assignment was **held up a full year**, and the college **back-paid about eight months' wages**; he reached Yangxin in **autumn 1967**
+- his original posting was **waste ground in Ningxia, herding sheep**, and he **swapped with a classmate** to get to Shandong instead
+- he began at the **Zhaiwang township hospital**, moving to the county traditional-medicine hospital where her mother worked only in **1974**
+
+Four short messages, and a quarter-century of one man's life goes from a summary to a sequence. See [the recording page](/docs/zhou-ling-bringing-his-uncle-home/) and [her father's page](/family/zhaozheng-zhou/).
 
 > *Details withheld — living.*
 >
-> *Source: WeChat messages to [Lijie](/family/lijie-zhou/), 20 September 2026, screenshot supplied to this archive by [Chuck Eesley](/family/charles-eric-eesley/).*
+> *Source: WeChat messages to [Lijie](/family/lijie-zhou/), 20 and 21 September 2026, screenshots supplied to this archive by [Chuck Eesley](/family/charles-eric-eesley/).*
