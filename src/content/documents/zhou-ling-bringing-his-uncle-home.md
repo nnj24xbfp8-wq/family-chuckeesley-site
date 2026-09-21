@@ -12,7 +12,6 @@ people:
   - lijie-zhou
   - charles-eric-eesley
   - xun-li
-  - quan-zhou
 dateRange:
   start: "2026"
 sortDate: "2026-09-13"
@@ -120,8 +119,6 @@ summary: "Eight weeks after Lijie's father wrote out by hand the story of his un
 | "我爷爷的母亲" | [庞焕彩](/family/huancai-pang/) | 曾祖母 |
 | "我两个姑姑" | [周爱琴](/family/ai-qin-zhou/)、[周爱华](/family/ai-hua-zhou/) | 姑母 |
 
-> *另存一疑：丽婕说"他是男的"，而档案另记周玲有一兄弟[周全](/family/quan-zhou/)。故此语当解作"长子／担事的那一个"，抑或周全彼时不在青岛、不与其事，尚待家族说明。*
-
 <hr class="my-8 border-rule" />
 
 <a id="en"></a>
@@ -225,8 +222,6 @@ The earlier telling came from the family too. It is not invented &mdash; it is w
 | "my grandfather" | **[Zhou Zhaoxiang 周兆祥](/family/zhaoxiang-zhou/)** | grandfather |
 | "my grandfather's mother" | **[Pang Huancai 庞焕彩](/family/huancai-pang/)** | great-grandmother |
 | "my two aunts" | **[Zhou Ai Qin](/family/ai-qin-zhou/)**, **[Zhou Ai Hua](/family/ai-hua-zhou/)** | aunts |
-
-> *One loose end: Lijie says her father acted because "he is the male," but the archive also records a brother, [Zhou Quan](/family/quan-zhou/). The remark most likely means the eldest son, or the one who takes things on &mdash; or Zhou Quan was not in a position to act. Noted, not resolved.*
 
 > *Source: audio recording made at dinner at No. 109 Yan'an 3rd Road, Qingdao, the weekend of 12&ndash;13 September 2026. Zhou Ling told the story in Chinese; Lijie translated aloud. Master file (7 min 19 sec, m4a) held in the family archive; the two excerpts published here are trimmed from it, with the surrounding table conversation left out. Transcript prepared from the recording's automatic transcription and lightly cleaned; it has not yet been checked line by line against the audio by a Chinese-speaking ear, and the Chinese rendering above is a back-translation of Lijie's English.*
 
