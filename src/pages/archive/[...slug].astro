@@ -17,6 +17,13 @@ const people = await resolvePeople(artifact.data.people);
 const { Content } = await render(artifact);
 const d = artifact.data;
 
+// Resolve the optional `relatedDocument` reference so the catalogued link is
+// actually reachable from the artifact page. Mirrors the places template.
+const allDocs = await getCollection('documents');
+const relatedDoc = d.relatedDocument
+  ? allDocs.find((doc) => doc.id === d.relatedDocument!.id)
+  : undefined;
+
 // Pairs in catalogue order — only render rows with values
 const catalogue: [string, string | undefined][] = [
   ['Type', d.type],
@@ -61,6 +68,15 @@ const catalogue: [string, string | undefined][] = [
         <h2 class="font-serif text-lg mb-2">Pictured</h2>
         <ul class="text-sm space-y-1">
           {people.map((p) => <li><a href={`/family/${p.id}/`}>{p.data.name}</a></li>)}
+        </ul>
+      </section>
+    )}
+
+    {relatedDoc && (
+      <section class="mt-10 pt-6 border-t border-rule">
+        <h2 class="font-serif text-lg mb-2">Related document</h2>
+        <ul class="text-sm space-y-1">
+          <li><a href={`/docs/${relatedDoc.id}/`}>{relatedDoc.data.title}</a></li>
         </ul>
       </section>
     )}
