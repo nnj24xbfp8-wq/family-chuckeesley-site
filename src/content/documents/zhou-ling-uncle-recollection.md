@@ -44,7 +44,7 @@ summary: "Lijie's father Zhou Ling wrote out, by hand, the story of his uncle Zh
 
 *（第一页右上角有括号内二字，字迹不清，未能辨认。）*
 
-<p class="not-prose my-6 p-4 border-l-4 border-amber-700 bg-amber-50/60 dark:bg-amber-950/20 text-sm"><strong>手记至此而止 &mdash; 但事情还有下文。</strong> 2026年9月，周玲在青岛延安三路109号的席间<a href="/docs/zhou-ling-bringing-his-uncle-home/">口述了结局</a>：叔叔自己没办成的调动，最后由他这个侄子办成了；叔叔一家五口迁回青岛，奶奶在此后约三十天去世。</p>
+<p class="not-prose my-6 p-4 border-l-4 border-amber-700 bg-amber-50/60 dark:bg-amber-950/20 text-sm"><strong>手记至此而止 &mdash; 但事情还有下文。</strong> 2026年9月，周玲在青岛延安三路109号的席间<a href="/docs/zhou-ling-bringing-his-uncle-home/">口述了结局</a>：叔叔自己没办成的调动，最后由他这个侄子办成了；<strong>1991年</strong>叔叔一家五口迁回青岛，奶奶于1992年4月6日去世，在此约一年之后。</p>
 
 ---
 
@@ -101,7 +101,7 @@ As time passed my grandmother grew old, and muttered about it all day long. **Ou
 
 He asked a great many people to arrange a transfer. **He worked at it for years and it never came through.** I even went with my uncle to the homes of the officials handling the transfer, to bring them gifts.
 
-<p class="not-prose my-6 p-4 border-l-4 border-amber-700 bg-amber-50/60 dark:bg-amber-950/20 text-sm"><strong>The handwritten pages stop here &mdash; but the story does not.</strong> In September 2026, over dinner at No. 109 Yan'an 3rd Road in Qingdao, Zhou Ling <a href="/docs/zhou-ling-bringing-his-uncle-home/">told the ending out loud</a>: the transfer his uncle could not obtain, the nephew did. Five people moved back to Qingdao, and his grandmother died about thirty days later.</p>
+<p class="not-prose my-6 p-4 border-l-4 border-amber-700 bg-amber-50/60 dark:bg-amber-950/20 text-sm"><strong>The handwritten pages stop here &mdash; but the story does not.</strong> In September 2026, over dinner at No. 109 Yan'an 3rd Road in Qingdao, Zhou Ling <a href="/docs/zhou-ling-bringing-his-uncle-home/">told the ending out loud</a>: the transfer his uncle could not obtain, the nephew did. Five people moved back to Qingdao in <strong>1991</strong>, and his grandmother died on 6 April 1992, about a year later.</p>
 
 ### Who is who
 

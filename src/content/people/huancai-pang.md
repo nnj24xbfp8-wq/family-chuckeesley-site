@@ -12,7 +12,7 @@ death:
 spouses:
   - maoli-zhou
 status: sketch
-summary: "Lijie's paternal great-grandmother. Wife of Maoli Zhou; mother of Zhaoxiang Zhou (Lijie's grandfather), Zhaozheng Zhou, and Xiuzhen Zhou. Widowed young and left to raise three children with no work of her own, she gleaned discarded vegetable leaves at the market to feed them, sent her two eldest out as apprentice workers, and got her youngest through medical school — after which the state posted him away and would not let him come back. She wept for him until she lost her sight, saying her one remaining wish was to have him home in Qingdao. Her grandson Zhou Ling finally got the transfer through; she died about thirty days after the family arrived. Born 1908; died 6 April 1992, outliving her husband by decades."
+summary: "Lijie's paternal great-grandmother. Wife of Maoli Zhou; mother of Zhaoxiang Zhou (Lijie's grandfather), Zhaozheng Zhou, and Xiuzhen Zhou. Widowed young and left to raise three children with no work of her own, she gleaned discarded vegetable leaves at the market to feed them, sent her two eldest out as apprentice workers, and got her youngest through medical school — after which the state posted him away and would not let him come back. She wept for him until she lost her sight, saying her one remaining wish was to have him home in Qingdao. Her grandson Zhou Ling finally got the transfer through in 1991, and she died about a year after the family came home. Born 1908; died 6 April 1992, outliving her husband by decades."
 ---
 
 <p class="not-prose my-4 p-3 border-l-4 border-rule bg-ink/5 text-sm"><strong>📖 English version below — <a href="#en">Jump to English ↓</a></strong> &nbsp;·&nbsp; <em>本页中文在上，英文见下方。</em></p>
@@ -37,15 +37,15 @@ summary: "Lijie's paternal great-grandmother. Wife of Maoli Zhou; mother of Zhao
 
 叔叔自己托人办理调动多年，始终未成。
 
-## 三十天 — 据2026年9月席间录音
+## 她等到了 — 1991年
 
 2026年9月，[周玲](/family/ling-zhou/)在青岛延安三路109号的饭桌上[口述了后续](/docs/zhou-ling-bringing-his-uncle-home/)：**最后是他这个孙子办成的。** 他动用自己的关系，把叔叔、婶婶与三个女儿一并迁回青岛。
 
-**全家迁回后约三十天，她去世了。** 丽婕转述她父亲的话：她是高兴的。
+**1991年，全家自阳信迁回。** 她于**1992年4月6日**去世，在此约一年之后。丽婕转述她父亲的话：她是高兴的。
 
-档案记其卒于**1992年4月6日** &mdash; 若"三十天"无误，则这一家人迁回青岛当在**1992年3月前后**。录音中另有"将近四十年""六十多岁"等说法与此推算不合，详见[录音页](/docs/zhou-ling-bringing-his-uncle-home/)的年份辨析。
+她用别人丢下的菜叶养大三个孩子，供出一个大学生；国家把他调走，她哭到看不见，**临了到底把他等回来了，还等到了一年**。
 
-她用别人丢下的菜叶养大三个孩子，供出一个大学生；国家把他调走，她半生看不见他，**临了到底把他等回来了**。
+> *录音中说她在全家迁回后"三十天左右"去世，丽婕其后更正为一年。1991年这个年份由叔叔的幼女[周善](/family/shan-zhou/)于2026年9月提供。*
 
 > *注：除姓氏外人名汉字为推测，待家族确认。*
 >
@@ -77,15 +77,15 @@ Everyone else was in Qingdao. She grew old talking about it every day.
 
 Her son spent years asking people to arrange the transfer, and it never came through — her grandson went with him to deliver gifts to the officials handling it.
 
-## Thirty days
+## She got him back — 1991
 
 In September 2026, at a dinner table in Qingdao, [Zhou Ling](/family/ling-zhou/) told [the rest of it](/docs/zhou-ling-bringing-his-uncle-home/): **the grandson got it done.** He worked his own connections until the transfer went through, and his uncle, his uncle's wife and their three daughters moved back to Qingdao.
 
-**She died about thirty days after they arrived.** As Lijie translated her father: *"So she felt she — she does happy."*
+**The family came home in 1991.** She died on **6 April 1992**, about a year later. As Lijie translated her father: *"So she felt she — she does happy."*
 
-The archive dates her death to **6 April 1992**, which would put the family's arrival around **March 1992**. Other figures in the spoken account do not sit flush with that; the arithmetic is laid out on [the recording page](/docs/zhou-ling-bringing-his-uncle-home/).
+The woman who fed three children on other people's discarded vegetables got one of them through medical school, then spent most of the rest of her life unable to get him back into the same city. She got him back, and she got a year of it.
 
-The woman who fed three children on other people's discarded vegetables got one of them through medical school, then spent most of the rest of her life unable to get him back into the same city — and got him back at the end of it.
+> *The recording puts her death about thirty days after the family's return; Lijie corrected this afterwards to a year, which fits the 1991 arrival her granddaughter [Zhou Shan](/family/shan-zhou/) confirmed against the recorded death date of 6 April 1992.*
 
 > *Note: Chinese characters for given names other than the surname are provisional, pending family confirmation.*
 >

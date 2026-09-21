@@ -1,6 +1,6 @@
 ---
-title: "延安三路109号：周玲讲述接叔叔回青岛 — \"Thirty days after\": Zhou Ling tells how he brought his uncle home"
-teaser: "Recorded over dinner in Qingdao, September 2026: the transfer his uncle spent years failing to obtain, his nephew finally got — and his mother died about thirty days later."
+title: "延安三路109号：周玲讲述接叔叔回青岛 — \"He finds someone to get this person back\": Zhou Ling tells how he brought his uncle home"
+teaser: "Recorded over dinner in Qingdao, September 2026: the transfer his uncle spent twenty-five years failing to obtain, his nephew finally got in 1991."
 type: ancestor-sketch
 author: ling-zhou
 people:
@@ -12,11 +12,14 @@ people:
   - lijie-zhou
   - charles-eric-eesley
   - xun-li
+  - jie-zhou
+  - yi-zhou
+  - shan-zhou
 dateRange:
   start: "2026"
 sortDate: "2026-09-13"
 source: "Audio recording made at dinner at No. 109 Yan'an 3rd Road (延安三路109号), Qingdao, the weekend of 12–13 September 2026. Zhou Ling 周玲 told the story in Chinese; his daughter Lijie translated aloud for the table. 7 min 19 sec; the master file is held in the family archive and two trimmed excerpts are published here."
-summary: "Eight weeks after Lijie's father wrote out by hand the story of his uncle Zhou Zhaozheng — the 1966 medical graduate the state posted to the poorest prefecture in Shandong and would not let come home — he told the rest of it out loud at a dinner table in Qingdao, with Lijie translating. The handwritten pages end in failure: years of petitioning, gifts carried to officials' houses, no transfer. The recording supplies the ending. Zhou Ling worked his own connections and got his uncle, his uncle's wife and their three daughters moved back to Qingdao — and his grandmother, who had wept herself blind waiting for her youngest son, died about thirty days later. The recording also carries the moment Chuck asks why it fell to him, and it sharpens, without settling, the chronology the archive has been unable to reconcile."
+summary: "Eight weeks after Lijie's father wrote out by hand the story of his uncle Zhou Zhaozheng — the 1966 medical graduate the state posted to the poorest prefecture in Shandong and would not let come home — he told the rest of it out loud at a dinner table in Qingdao, with Lijie translating. The handwritten pages end in failure: years of petitioning, gifts carried to officials' houses, no transfer. The recording supplies the ending. Zhou Ling worked his own connections until the transfer went through, and in 1991 his uncle, his uncle's wife and their three daughters moved back to Qingdao; his grandmother, who had wept herself blind waiting for her youngest son, died about a year later. Publishing the recording brought the rest out of the family within a day: the uncle's youngest daughter supplied the 1991 date, the receiving hospital, her sisters' birth dates, and the fact — recorded nowhere until now — that her father had already been confirmed for a retained post at Qingdao Medical College before the Cultural Revolution voided the list. He was never supposed to leave the city at all."
 ---
 
 <p class="not-prose my-4 p-3 border-l-4 border-rule bg-ink/5 text-sm"><strong>📖 English version below &mdash; <a href="#en">Jump to English ↓</a></strong> &nbsp;·&nbsp; <em>本页中文在上，英文见下方。</em></p>
@@ -81,7 +84,7 @@ summary: "Eight weeks after Lijie's father wrote out by hand the story of his un
 
 1. **结局。** 手记止于"一直没有办成"。录音说明：后来由周玲办成了 &mdash; 叔叔、婶婶和三个女儿一并迁回青岛。
 2. **回来的是一家五口。** 不是一个人，是叔叔[周兆帧](/family/zhaozheng-zhou/)、其妻[Su Ying Xian](/family/su-ying-xian/)与三个女儿。丽婕说她们回来"很高兴 &mdash; 日子也好了，教育也好了"。
-3. **三十天。** 奶奶[庞焕彩](/family/huancai-pang/)在全家迁回后约三十天去世。她盼了几十年的那件事，她赶上了。
+3. **她赶上了。** 奶奶[庞焕彩](/family/huancai-pang/)于1992年4月6日去世，在全家迁回**约一年**之后。她盼了几十年的那件事，她赶上了。*（录音中丽婕说"三十天左右"，其后更正为一年，详见下节。）*
 4. **"他是男的。"** 问到为什么是他去办，丽婕给的理由朴素得很：他一向多担一些，而且他是男的。
 
 ## 一处需要复核的年份
@@ -185,20 +188,55 @@ The uncle petitioned for years and failed. His nephew succeeded. The difference 
 
 1. **The ending.** The handwritten account stops at *"it never came through."* The recording says what happened next: Zhou Ling worked his own contacts and **got it through**.
 2. **Five people came back, not one.** The uncle [Zhaozheng](/family/zhaozheng-zhou/), his wife [Su Ying Xian](/family/su-ying-xian/), and their **three daughters**. Lijie: *"they are very happy to get back, and get better &mdash; both life quality and better education."*
-3. **Thirty days.** [Pang Huancai](/family/huancai-pang/) &mdash; the grandmother who had cried herself blind over the son the state kept away from her &mdash; died about **thirty days** after the family arrived. She had waited decades for it and she got it.
+3. **She lived to see it.** [Pang Huancai](/family/huancai-pang/) &mdash; the grandmother who had cried herself blind over the son the state kept away from her &mdash; died on 6 April 1992, about **a year** after the family arrived. *(In the recording Lijie says thirty days; she corrected this afterwards. See the corrections below.)*
 4. **Why him.** Asked why it fell to him, the answer Lijie gives is plain: he takes more responsibility than the others, and he is the male.
 
-### A date that needs checking
+### What the family corrected afterwards
 
-The recording's timeline will not sit flush with what the archive already holds. Recorded here, not resolved:
+This page went up with several numbers in the spoken account that would not reconcile. Within a day, two people settled them. **[Zhou Shan 周善](/family/shan-zhou/)** — the uncle's youngest daughter, known in the family as 亮亮, and therefore someone who was actually in the household — answered by WeChat on **20 September 2026**, and **[Lijie](/family/lijie-zhou/)** corrected her own translation.
 
-- The archive gives **Pang Huancai's death as 6 April 1992**. If the family arrived about thirty days before she died, **the return was around March 1992**.
-- On that reading: assigned in **1966**, transferred back in **1992** &mdash; **twenty-six years** in Yangxin, and **age fifty-four** on his return (born 1938).
-- But the recording says **"almost forty years"** and **"he's already in his sixties, maybe"** &mdash; Lijie hedges the second herself. Both run about twelve years ahead of the 1992 arithmetic.
-- **Reading one:** March 1992 is right, and *"almost forty"* and *"in his sixties"* are the ordinary approximations of a spoken, translated recollection &mdash; twenty-six years is close to *"almost thirty."* **The "thirty days" detail is independent support: it lands squarely on a 6 April 1992 death.**
-- **Reading two:** the return really was in the mid-2000s, in which case **Pang Huancai's 1992 death year is wrong.**
+**The corrections, against what the recording says:**
 
-**Reading one looks likelier, but this is a question for the family:** what year did the uncle transfer back, and is 6 April 1992 right for his mother? The receiving work unit in Qingdao and the month of the move would settle it, if anyone has the paperwork.
+| In the recording | Corrected to | Source |
+|---|---|---|
+| *"almost forty years"* in the rural area | **twenty-five years** (1966–1991) | Zhou Shan |
+| *"he's already in his sixties, maybe"* | **fifty-three** on his return | from 1991 and his 1938 birth |
+| *"just thirty days or something"* before his mother died | **about a year** | Lijie |
+| *"he graduated from college before the Cultural Revolution"* | **the class of 1966** — it broke out on top of his graduation | Zhou Shan |
+
+**And three things nobody had recorded at all:**
+
+- **The return was 1991.** *"从阳信回青岛是1991"* — the move from Yangxin back to Qingdao.
+- **The receiving hospital was the Fushansuo Hospital in Shinan District** (青岛市南区浮山所医院), and **both parents worked there.** The transfer carried two medical careers home, not one.
+- **The three daughters have names and dates:** **[Zhou Jie 周洁](/family/jie-zhou/)** and **[Zhou Yi 周义](/family/yi-zhou/)**, twins born **18 October 1970**, and **[Zhou Shan 周善](/family/shan-zhou/)**, born **3 April 1976** — so at the move they were twenty, twenty, and fifteen.
+
+With 1991 in hand, everything closes: twenty-five years in Yangxin, home at fifty-three, and his mother's recorded death of **6 April 1992** about a year after the family arrived. Pang Huancai got the year.
+
+### The job he already had
+
+The largest correction is not a number. Asked about her father, Zhou Shan wrote:
+
+> *"我爸爸不是文革前毕业的，他是1966年毕业生，他学习成绩优秀本来已经确定了在青岛医学院留校工作，突然爆发文革，所有毕业分配暂停了，留校毕业名单也作废了。"*
+>
+> "My dad did not graduate before the Cultural Revolution. He was in the class of 1966. His grades were excellent and he had already been confirmed for a **retained post at Qingdao Medical College**, then the Cultural Revolution suddenly broke out, all graduate assignments were suspended, and the retained-post list was voided."
+
+Everything the archive held until now began with the uncle being **sent away**. This says he was never going to be. A **留校** post — kept on by your own institution after graduating — went to the top of the class, and his was confirmed. It was a job in Qingdao, in a teaching hospital, in the same city as his mother. **The list existed and his name was on it**, and then the Cultural Revolution cancelled the list.
+
+So the forty years of consequence in this story — Qinghai, Yangxin, the blind mother, the nephew's years of petitioning, five people's lives rerouted — all run from a piece of paper being voided in the summer of 1966.
+
+<aside class="not-prose my-8 border-l-4 border-amber-700 bg-amber-50/60 dark:bg-amber-950/20 px-6 py-5 rounded-r">
+
+**The 老五届**
+
+Zhaozheng belongs to a cohort with its own name in China: the **老五届**, the five graduating classes of **1966 through 1970**, whose placements were overtaken by the Cultural Revolution. Normal graduate assignment stopped. Instead of going to the posts they had been allocated, they were generally held at their universities through the campaigns and then sent to labour in the countryside, on farms, in factories or with army units, sometimes for years, before any professional posting came through.
+
+This is why the archive cannot yet account for the gap between his 1966 graduation and his arrival in Yangxin. A delay of a year or more was the norm for this cohort. His daughters were born in Yangxin in 1970 and 1976, so he was certainly there by 1970.
+
+It is also why the voided 留校 list matters beyond one family. Being a scarce, highly trained graduate offered no protection in those years, and in his case the training is exactly what made him assignable to a place that needed a doctor and could not attract one.
+
+</aside>
+
+*The two headings above were added on 20 September 2026, after this page first went up. The transcript itself is left exactly as recorded — the spoken account is the artifact, and correcting it in place would destroy the evidence of how a family story drifts in the retelling.*
 
 ### Where this corrects the archive
 

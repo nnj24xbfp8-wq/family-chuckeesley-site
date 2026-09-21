@@ -12,7 +12,7 @@ parents:
 spouses:
   - su-ying-xian
 status: sketch
-summary: "Lijie's paternal great-uncle — brother of her grandfather Zhaoxiang Zhou. Born 1938 in Jiaozhou Shi; married Su Ying Xian. A 1966 graduate of Qingdao Medical College, in the year the Cultural Revolution began, and the only one of his mother's three children to reach university. Assigned first to Qinghai, then — after appealing on grounds of family hardship — to the Yangxin County Traditional Chinese Medicine Hospital in Huimin, the poorest prefecture in Shandong, where he spent his career and rose to deputy chief physician, the ceiling for a district hospital. His own years of attempts to transfer back to Qingdao never succeeded — his mother went blind waiting for him — but his nephew Zhou Ling eventually got the transfer through, and Zhaozheng returned to Qingdao with his wife and three daughters about thirty days before his mother died."
+summary: "Lijie's paternal great-uncle — brother of her grandfather Zhaoxiang Zhou. Born 1938 in Jiaozhou Shi; married Su Ying Xian. The only one of his mother's three children to reach university, he graduated top of the 1966 class at Qingdao Medical College and had already been confirmed for a retained post at the college — a job in Qingdao — when the Cultural Revolution broke out, froze all graduate assignments and voided the retained-post list. He was assigned instead to Qinghai, then, after appealing on grounds of family hardship, to the Yangxin County Traditional Chinese Medicine Hospital in Huimin, the poorest prefecture in Shandong, where he spent twenty-five years and rose to deputy chief physician, the ceiling for a district hospital. His own attempts to transfer home never succeeded — his mother went blind waiting for him — but his nephew Zhou Ling eventually got it through, and in 1991 he returned to Qingdao with his wife and three daughters, both he and his wife taking posts at the Fushansuo Hospital in Shinan District. His mother died about a year later."
 ---
 
 <p class="not-prose my-4 p-3 border-l-4 border-rule bg-ink/5 text-sm"><strong>📖 English version below — <a href="#en">Jump to English ↓</a></strong> &nbsp;·&nbsp; <em>本页中文在上，英文见下方。</em></p>
@@ -35,17 +35,27 @@ summary: "Lijie's paternal great-uncle — brother of her grandfather Zhaoxiang 
 
 **他自己办调动，终未办成。** 母亲晚年整天叨念，思念幼子，常年流泪以致**双目失明**，说她惟一的心事就是想让他回青岛。他托了不少人办理调动，办了多年始终未成 &mdash; 侄儿周玲还曾陪他到经办人家中送礼。
 
-## 终于回来 — 据2026年9月席间录音
+## 本该留在青岛 — 据幼女周善2026年9月微信
 
-手记止于此。2026年9月，[周玲](/family/ling-zhou/)在青岛[口述了结局](/docs/zhou-ling-bringing-his-uncle-home/)：**后来是侄子办成的。** 周玲动用自己的关系，逐人去谈，最终把他、妻子[Su Ying Xian](/family/su-ying-xian/)与**三个女儿**一并迁回青岛。
+手记与录音都从"被分配到外地"讲起。其幼女[周善](/family/shan-zhou/)补出了前面的一节：
 
-他二十几岁去阳信，回来时已成家，有三个女儿。丽婕说，女儿们回青岛"很高兴 &mdash; 日子也好了，教育也好了"。
+> *"我爸爸不是文革前毕业的，他是1966年毕业生，他学习成绩优秀本来已经确定了在青岛医学院留校工作，突然爆发文革，所有毕业分配暂停了，留校毕业名单也作废了。"*
 
-**母亲[庞焕彩](/family/huancai-pang/)在全家迁回后约三十天去世。**
+**他原本已经留校。** 成绩优异，名单已定，工作就在青岛。文革一起，全国毕业分配冻结，留校名单作废 &mdash; 此后才有青海、才有阳信。他失去的不是一个机会，是一份**已经到手的工作**。
+
+## 终于回来 — 1991年
+
+手记止于失败。2026年9月，[周玲](/family/ling-zhou/)在青岛[口述了结局](/docs/zhou-ling-bringing-his-uncle-home/)：**后来是侄子办成的。** 周玲动用自己的关系，逐人去谈，最终把他、妻子[Su Ying Xian](/family/su-ying-xian/)与三个女儿一并迁回青岛。
+
+**1991年**，全家自阳信迁回。他二十几岁去，回来时五十三岁，已成家，三个女儿 &mdash; [周洁](/family/jie-zhou/)与[周义](/family/yi-zhou/)（1970年10月18日生的双胞胎）、[周善](/family/shan-zhou/)（1976年4月3日生）。丽婕说，女儿们回青岛"很高兴 &mdash; 日子也好了，教育也好了"。
+
+夫妇二人其后皆在**青岛市南区浮山所医院**工作。
+
+**母亲[庞焕彩](/family/huancai-pang/)于1992年4月6日去世，在全家迁回约一年之后。**
 
 > *注：除姓氏外人名汉字为推测，已由Lijie之母于2026年6月确认。*
 >
-> *调回年份待考：庞焕彩卒于1992年4月6日，按"三十天"推算，迁回当在1992年3月前后（在阳信二十六年，归时五十四岁）；而录音作"将近四十年""六十多岁"。两说详见[录音页](/docs/zhou-ling-bringing-his-uncle-home/)。*
+> *1966至1991，在阳信二十五年。录音中"将近四十年""六十多岁"二语，系口述约略之辞，今据周善所记年份更正。*
 >
 > *日期存疑：档案记周茂礼卒于1935年，而本人生于1938年 &mdash; 父卒后三年不可能出生。详见[手记页](/docs/zhou-ling-uncle-recollection/)。*
 
@@ -69,9 +79,23 @@ His father [Zhou Maoli](/family/maoli-zhou/) died when Zhaozheng was **just over
 
 ### 1966
 
-He graduated from **Qingdao Medical College** in **1966** — the year the Cultural Revolution began. Graduates were scarce and were **assigned by the state** wherever they were needed. He drew **Qinghai Province**, roughly two thousand kilometres inland from his mother and siblings.
+He graduated from **Qingdao Medical College** in **1966** — the year the Cultural Revolution began.
+
+### He had the job already
+
+His youngest daughter **[Zhou Shan](/family/shan-zhou/)** supplied, in September 2026, the piece of this that nobody had written down:
+
+> *"My dad did not graduate before the Cultural Revolution. He was in the class of 1966. His grades were excellent and he had already been confirmed for a **retained post at Qingdao Medical College**, then the Cultural Revolution suddenly broke out, all graduate assignments were suspended, and the retained-post list was voided."*
+
+A 留校 post — being kept on by your own institution — went to the top of a graduating class, and it would have kept him in Qingdao, in a teaching hospital, near his mother. **The list existed and his name was on it.** Then the Cultural Revolution broke out, graduate placement stopped nationwide, and the list was cancelled. Everything that follows happened because of that cancellation.
+
+### Sent away instead
+
+When assignment resumed he drew **Qinghai Province**, roughly two thousand kilometres inland from his mother and siblings.
 
 He appealed to the college on grounds of family hardship, and the assignment was changed. Not to Qingdao: to the **Yangxin County Traditional Chinese Medicine Hospital** in **Huimin**, described by his nephew as **the poorest prefecture in Shandong**. Closer to home than Qinghai, and still far from it.
+
+*The archive does not yet know how the years between the 1966 graduation and his arrival in Yangxin were spent. The 1966–70 graduating cohort — the 老五届 — were commonly held at their universities for political campaigns and sent to labour in the countryside before any professional posting came through, so a gap of a year or more would be ordinary. His daughters were born in Yangxin in 1970 and 1976, so he was certainly there by 1970.*
 
 ### The ceiling
 
@@ -89,15 +113,17 @@ His mother grew old in Qingdao with all her family around her except him.
 
 He asked many people to arrange a transfer and **worked at it for years without success**. His nephew Zhou Ling went with him to the homes of the officials handling it, carrying gifts.
 
-### The transfer that did come
+### The transfer that did come — 1991
 
-The handwritten pages stop there. In September 2026, over dinner in Qingdao, **[Zhou Ling](/family/ling-zhou/)** told [the ending](/docs/zhou-ling-bringing-his-uncle-home/): **the nephew got it through.** He worked his own connections, person by person, until the transfer was approved, and Zhaozheng moved back to Qingdao with his wife **[Su Ying Xian](/family/su-ying-xian/)** and their **three daughters**.
+The handwritten pages stop there. In September 2026, over dinner in Qingdao, **[Zhou Ling](/family/ling-zhou/)** told [the ending](/docs/zhou-ling-bringing-his-uncle-home/): **the nephew got it through.** He worked his own connections, person by person, until the transfer was approved, and Zhaozheng moved back to Qingdao with his wife **[Su Ying Xian](/family/su-ying-xian/)** and their three daughters.
 
-He had gone out to Yangxin in his twenties. He came back married, with three grown or nearly grown children. Lijie, translating her father, said the daughters were *"very happy to get back, and get better — both life quality and better education."*
+The year is **1991**, confirmed by his youngest daughter. He had gone out to Yangxin in his twenties and came home at **fifty-three**, after **twenty-five years**, married, with three grown or nearly grown children: **[Zhou Jie](/family/jie-zhou/)** and **[Zhou Yi](/family/yi-zhou/)**, twins born 18 October 1970, and **[Zhou Shan](/family/shan-zhou/)**, born 3 April 1976. Lijie, translating her father, said the daughters were *"very happy to get back, and get better — both life quality and better education."*
 
-**His mother [Pang Huancai](/family/huancai-pang/) died about thirty days after they arrived.**
+He and his wife both took posts at the **Fushansuo Hospital in Shinan District** (青岛市南区浮山所医院) — so the transfer carried two medical careers home, not one.
 
-> *The year of his return is not settled.* Pang Huancai's recorded death is 6 April 1992, which — taking the thirty days at face value — puts the move around **March 1992**: twenty-six years in Yangxin, age fifty-four. The spoken account instead says *"almost forty years"* and *"already in his sixties, maybe."* Both readings are set out on [the recording page](/docs/zhou-ling-bringing-his-uncle-home/).
+**His mother [Pang Huancai](/family/huancai-pang/) died on 6 April 1992, about a year after they came back.** She got the year.
+
+> *The spoken account said "almost forty years" and "already in his sixties, maybe," and put his mother's death thirty days after the return. All three were approximations, corrected here against the dates his daughter supplied and Lijie's own follow-up. See [the recording page](/docs/zhou-ling-bringing-his-uncle-home/).*
 
 > *A date problem, not yet resolved:* this archive records his father as dying in **1935** and Zhaozheng as born in **1938** — impossible together. See [the recollection page](/docs/zhou-ling-uncle-recollection/) for the three readings and why Maoli's 1935 death year is the likeliest error.
 >
