@@ -35,6 +35,16 @@ Three records from Washington County that turn [Johann Michael Wildermuth](/fami
 
 Four days between application and wedding. Note which name he gave the court: the application is signed **John M.**, but the marriage entry records him as **John Michael Wildermuth** — the German form surfacing for the one occasion that warranted it.
 
+### A second photograph of both documents — and a question about the dates
+
+The papers hold one more frame, catching **#58 and #59 together** on the same sheet under different light. It reached this archive misfiled under the 1853 naturalization petition, which is a different document entirely; it is catalogued here with the marriage records where it belongs.
+
+It is worth more than a duplicate, because the two dates this entry depends on are the two hardest things on the page to read. In this frame the sworn date of the application can be read as **9 September**, and the recording of the certificate as **11 December** — against the **3 September** and **1 December** taken from the primary frames above. The looped numeral is the culprit both times.
+
+**Recorded, not adopted.** The 7 September wedding is clear on both frames and is not in question; what is uncertain is whether the application preceded it by four days or followed it by two — and the second reading would make the sworn application *later than the marriage it was sworn for*, which is reason enough to prefer 3 September until the originals are consulted. The Washington County Probate Court holds them.
+
+![A photograph of two Washington County marriage documents laid one above the other, browned and stained, the upper a printed marriage application form marked DOCUMENT #58 WILD-8 completed in ink for John M. Wildermuth of Marietta City and Catharina Boeshar, sworn before C. F. Buell, Probate Judge, and signed by the groom; the lower a handwritten marriage record certificate marked DOCUMENT #59 WILD-8, headed Marriage Record Certificates Volume 3 page 505, certifying the matrimony of John Michael Wildermuth and Catharine Boeshar on the 7th day of September 1862 by a minister, received and recorded in December 1862, attested by the Probate Judge.](../../assets/family/originals/john-michael-wildermuth-marriage-documents-58-59-second-frame.jpeg)
+
 ## The 1870 census — Third Ward, Marietta
 
 ![A typed transcription of page 5 of the 1870 federal census schedule for the Third Ward of Marietta, Washington County, Ohio, enumerated 6 July 1870, listing John Wildermuth aged 39, work in shoe shop, born Wurtemburg; Catherine 30, keeping house, born Bavaria; John C. 7, at school, born Ohio; and William C. 4, at home, born Ohio.](../../assets/family/originals/john-michael-wildermuth-1870-census-marietta.jpeg)

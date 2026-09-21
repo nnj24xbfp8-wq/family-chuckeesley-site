@@ -59,9 +59,9 @@ Then the sentence that matters most:
 
 **Württemberg required official permission to emigrate.** A subject leaving had to apply, and the district office kept the file: the application, the decision, often the applicant's age and destination and the disposal of any property. Those files for the Marbach district survive, catalogued, in a castle in Ludwigsburg — and the town hall handed Robert Earl the shelf reference in 1986.
 
-Nothing in his papers suggests he ever wrote to Ludwigsburg.
+**He acted on it.** Two years later, in February 1989, he engaged **Friedrich R. Wollmershäuser**, an accredited genealogist in Oberdischingen, who wrote back on 27 February promising to *"look for the emigration file of Johann Michael Wildermuth"* at the Ludwigsburg state archives on his next visit. [That correspondence is here.](/archive/wollmershauser-ludwigsburg-emigration-file-1989/) Whether the file was ever found is still unknown.
 
-This is the **best unexploited lead in the archive**, and it bears directly on the one thing he never found: [the ship](/archive/search-for-the-crossing-1983/). An emigration file would not name the vessel, but it would give the permission's date and stated destination — which, set against the 1847 New York arrival manifests, could finally identify the crossing. One caution: if Großaspach lay in **Oberamt Backnang**, the relevant series may be Backnang's rather than Marbach's, so the equivalent Backnang *Auswanderungen* holding at Ludwigsburg is worth asking about in the same letter.
+This bears directly on the one thing he never found: [the ship](/archive/search-for-the-crossing-1983/). An emigration file would not name the vessel, but it would give the permission's date and stated destination — which, set against the 1847 New York arrival manifests, could finally identify the crossing. One caution: if Großaspach lay in **Oberamt Backnang**, the relevant series may be Backnang's rather than Marbach's, so the equivalent Backnang *Auswanderungen* holding at Ludwigsburg is worth asking about in the same letter.
 
 ## And a small courtesy
 

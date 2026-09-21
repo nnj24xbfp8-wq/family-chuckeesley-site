@@ -1,5 +1,6 @@
 ---
 name: "Elijah Chenoweth, Jr."
+portrait: ../../assets/family/originals/elijah-chenoweth-jr-crop-four-generations.jpeg
 aka: "Elijah Chenoweth (the Junior of the two — his father Elijah Sr. is one generation deeper)"
 line: paternal
 generation: 3
@@ -52,3 +53,5 @@ The fuller version of this chain, including the Leonard-branch second cousins th
 A formal portrait of Elijah Jr. exists in [Roberta Burnes](/family/roberta-burnes/)'s Chenoweth family album. The image has not yet been digitized into this archive. When it lands, Elijah Jr. will become the **earliest direct-ancestor portrait on the paternal Chenoweth-Eesley side** &mdash; one generation further back than the Joseph Hill Chenoweth and Mary Timmons portraits already on the site. Given Elijah Jr. lived from 1806 to 1898, a portrait of him in advanced age (1880s or 1890s) would be technically straightforward; an earlier-life image is less likely, since portrait photography did not become widespread in rural Ohio until mid-century.
 
 > *Sources: Jon D. Egge, [**The Chenoweth Site**](https://www.chenowethsite.com/), [Elijah Jr. and Nancy descendants page](https://www.chenowethsite.com/ch6t6ee.htm) (the structured record with full dates and family detail); [Roberta Burnes](/family/roberta-burnes/), June 2026, on the contents of the Chenoweth family album.*
+
+> *Portrait: cropped from the [four-generation Chenoweth studio portrait](/archive/chenoweth-four-generations-portrait/), c. late 1880s &mdash; the bearded elder at the right of the frame, identified by [Roberta Burnes](/family/roberta-burnes/) in June 2026. It is the only known likeness of him in this archive.*

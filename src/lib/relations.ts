@@ -66,19 +66,39 @@ export async function resolvePeople(
 }
 
 /** Documents that mention this person (as author or in `people`). */
+/** Stable chronological key for documents/artifacts. Undated entries sort last.
+ *  Collection order from the content loader is not guaranteed stable across Astro
+ *  versions, so lists rendered to the page are sorted explicitly. */
+function byDateThenTitle(a: any, b: any) {
+  const key = (e: any) =>
+    e.data.sortDate ?? e.data.dateRange?.start ?? e.data.dateCreated ?? '';
+  const ka = String(key(a)); const kb = String(key(b));
+  if (ka !== kb) {
+    if (!ka) return 1;
+    if (!kb) return -1;
+    return ka < kb ? -1 : 1;
+  }
+  const ta = String(a.data.title ?? a.id); const tb = String(b.data.title ?? b.id);
+  return ta.localeCompare(tb);
+}
+
 export async function documentsAbout(personId: string) {
   const docs = await getCollection('documents');
-  return docs.filter(
-    (d) =>
-      d.data.author?.id === personId ||
-      d.data.people.some((ref) => ref.id === personId)
-  );
+  return docs
+    .filter(
+      (d) =>
+        d.data.author?.id === personId ||
+        d.data.people.some((ref) => ref.id === personId)
+    )
+    .sort(byDateThenTitle);
 }
 
 /** Artifacts that picture this person. */
 export async function artifactsOf(personId: string) {
   const arts = await getCollection('artifacts');
-  return arts.filter((a) => a.data.people.some((ref) => ref.id === personId));
+  return arts
+    .filter((a) => a.data.people.some((ref) => ref.id === personId))
+    .sort(byDateThenTitle);
 }
 
 /** Privacy: hide identifying detail for living people unless explicit override. */

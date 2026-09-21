@@ -48,9 +48,9 @@ Anne (1946&ndash;2019) was a schoolteacher; the letter's Madison and Wisconsin r
 >
 > Teaching is going along just as usual. Yesterday was St. Patrick's Day and we had several parties. Everyone was pretty good about bringing stuff. First we went through the lesson, then we had the parties. They seem to understand my tests a little better now. There aren't so many low grades, which makes me feel a whole lot better.
 >
-> About the only exciting thing that's happening to me right now is that I'm dating. His name is Chris Cortez and he's very good-looking. He's a senior at Marietta College and is doing his student teaching at a nearby school in Spanish. He has the same critic teacher I had when I did my student teaching. We both have the same opinion of her--not good.
+> About the only exciting thing that's happening to me right now is that I'm dating. His name is Chris Cortez and he's very good-looking. He's a senior at Marietta College and is doing his student teaching at a nearby school in Spanish. He has the same critic teacher I had when I did my student teaching. We both have the same opinion of her&mdash;not good.
 >
-> The weather here has been just great. Except for the fact that it has been a little cool these past few days, it's been sunny and delightful. We were able to wash Charlie's car out in the driveway last week-end. It's really a good car--I don't know what I'd do without it. I drive 60 miles a day (counting
+> The weather here has been just great. Except for the fact that it has been a little cool these past few days, it's been sunny and delightful. We were able to wash Charlie's car out in the driveway last week-end. It's really a good car&mdash;I don't know what I'd do without it. I drive 60 miles a day (counting
 >
 > [page 2:] both ways), which is quite a haul.
 >

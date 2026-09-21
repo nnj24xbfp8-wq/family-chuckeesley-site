@@ -26,6 +26,8 @@ Two independent bodies of evidence describe him. They agree on the shape of his 
 
 His [Family Group Record (form 0094)](/archive/bartlett-family-group-record-0094/) leaves his birth blank, gives no parents at all, and enters **died and buried, June 1836, Preston County**.
 
+His [1998 pedigree chart](/archive/pedigree-charts-1998/) — eight years later, the last of his sheets — still says **died June 1836, Preston County, Virginia**, and still leaves the birth blank. He never adopted FamilySearch's 1832, and he never found a birth date. It also confirms **[William Bartlett](/family/william-bartlett/)** as the father, carrying record number **0325**, and gives William's wife as simply **"Unknown-0339."**
+
 ## What the FamilySearch tree adds
 
 The [family GEDCOM](/docs/dale-eesley-familysearch-tree/), synced from FamilySearch in June 2026, carries the same household under the name **Thomas L. Bartlett Jr.** and fills in what the family sheet left empty:

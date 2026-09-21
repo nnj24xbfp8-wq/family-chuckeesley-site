@@ -11,7 +11,7 @@ provenance: "Eesley family archive — transmitted by Chuck Eesley, 2026."
 rights: "Family use; permission required for republication."
 people:
   - terrie-lee-eesley
-relatedDocument: charlie-to-terrie-1971-03-29-second-rr-booking
+relatedDocument: letters/charlie-to-terrie-1971-03-29-second-rr-booking
 ---
 
 Terrie on the balcony of the Waikiki hotel during the **April 1971 Hawaii R&R**, smiling for the camera in a floral shirt-dress, the high-rises and lagoons of Waikiki spread out behind her under a hazy Pacific sky. She flew from Maryland &mdash; where she was finishing at the University of Maryland &mdash; to meet Charlie on his one week of R&R from Vietnam, on the reduced *"Mrs. Eesley"* fare the [letters had arranged](/docs/letters/charlie-to-terrie-1971-03-29-second-rr-booking/).

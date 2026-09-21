@@ -3,20 +3,29 @@ name: "Balthus Wolf"
 line: maternal
 birth:
   date: "1710"
-  place: "Großaspach, Backnang, Württemberg, Germany"
+  place: "Reichenberg, Duchy of Württemberg (a village absorbed into Oppenweiler in 1938; Rems-Murr-Kreis)"
 death:
   date: "1787-12-06"
+  place: "Großaspach, Duchy of Württemberg"
 spouses:
   - magdalena-ubele
 status: sketch
-summary: "Chuck's maternal 7×-great-grandfather on the Wildermuth line — the deepest Wolf the archive reaches. Born 1710 at Großaspach; married Magdalena Ubele, a girl from the same village, on 27 July 1733; died 6 December 1787 at seventy-seven. Father of Johann Georg Wolf the shoemaker, and so the Wolf line's root beneath the trade that eventually crossed the Atlantic."
+summary: "Chuck's maternal 7×-great-grandfather on the Wildermuth line — the deepest Wolf the archive reaches. Born 1710 at Reichenberg, a neighbouring village, and married into Großaspach: he wed Magdalena Übele there on 27 January 1733 and died there 6 December 1787 at seventy-seven. Father of Johann Georg Wolf the shoemaker, and so the Wolf line's root beneath the trade that eventually crossed the Atlantic."
 ---
 
-**Balthus Wolf** was born in **1710 at [Großaspach](/places/grossaspach/)** and died there in the same village seventy-seven years later. [Robert Earl Wildermuth](/family/robert-earl-wildermuth/) counted the generations out on the page rather than trusting the arithmetic:
+**Balthus Wolf** was born in **1710 at Reichenberg** and died at **[Großaspach](/places/grossaspach/)** seventy-seven years later.
+
+## Not a Großaspach man by birth
+
+This archive long recorded him as born at Großaspach. **He was not.** [Robert Earl Wildermuth's "Ancestors of Johann Georg Wolf" chart](/archive/wolf-werner-ancestor-charts/) gives his birthplace as **Reichenberg, Duchy of Württemberg** — a separate village, which kept its independence until it was **absorbed into Oppenweiler in 1938** and now sits in the Rems-Murr-Kreis. It is close by: Aspach and Oppenweiler are neighbouring municipalities, and Aspach-Rietenau still has a *Reichenberger Weg* running toward it.
+
+The [1988 Ahnentafel](/archive/ahnentafel-wildermuth-grossaspach-1988/) is not contradicted by this. Its entry reads *"Balthus Wolf, Großaspach"* — but that form records **where a man lived**, not where he was born, and the trades beside the other names show the same convention (*"Weber in Großaspach," "Bauer in Röhrach"*). Großaspach was his home; Reichenberg was his birthplace. [Robert Earl Wildermuth](/family/robert-earl-wildermuth/) counted the generations out on the page rather than trusting the arithmetic:
 
 > *"Balthus Wolf, our great, great, great, great, great-grandfather (that's our fifth great-grandfather), was the father of Johann Georg Wolf."*
 
-He married **[Magdalena Ubele](/family/magdalena-ubele/)** on **27 July 1733** — *"a home town girl,"* as Robert Earl put it, meaning she too was of Großaspach. She died in 1769, eighteen years before him.
+He married **[Magdalena Ubele](/family/magdalena-ubele/)** on **27 January 1733** at Großaspach. Robert Earl called her *"a home town girl"* — and now that Balthus turns out to have come from Reichenberg, the phrase reads differently: she was the local one, and he was the man who married in. She died in 1769, eighteen years before him.
+
+> **Correction, August 2026.** This page previously gave the marriage as **27 July 1733**. It was **27 January**. The [Ahnentafel](/archive/ahnentafel-wildermuth-grossaspach-1988/) writes it in the German day-first form — **∞ 27.1.1733** — which this archive read as July. Robert Earl's chart spells it out in English, *"January 27, 1732/33,"* and settles it. (The double year is the old-style/new-style convention for a January date, not a second opinion about the year.)
 
 He **died 6 December 1787, aged seventy-seven** — remarkable longevity for a Württemberg villager born under Queen Anne, and a striking contrast with the generation four steps below him, where [Andreas](/family/andreus-wildermuth/) died at twenty-five, [Margaretha](/family/margaretha-laemmle/) at thirty-two and [Adam](/family/adam-wildermuth/) at thirty-one.
 

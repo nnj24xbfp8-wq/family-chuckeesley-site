@@ -23,6 +23,8 @@ He was born **23 August 1830** in **[Großaspach (Grossaspach)](/places/grossasp
 
 His parents were **[Johann Christian Wildermuth](/family/johann-christian-wildermuth/)** (b. 1794, Großaspach) and **[Maria Margaretha (Schmidgall) Wildermuth](/family/maria-margaretha-schmidgall/)** (b. 1789) — and through his mother the line also reaches back into the **Schmidgall and Landai** families of the Aspach villages. The documented descent to him runs, unbroken, from **[Johannes Wildermuth (1682)](/family/johannes-wildermuth-1682/)** → [Johann Adam (1720)](/family/johann-adam-wildermuth-1720/) → [Andreas Adam (1745)](/family/andreus-wildermuth/) → [Adam (1768)](/family/adam-wildermuth/) → [Johann Christian (1794)](/family/johann-christian-wildermuth/) → Johann Michael — the six generations this page's "at least six documented generations" refers to.
 
+**The register recorded him the day after he was born.** Entry no. 45 in the [Großaspach Taufregister](/archive/johann-michael-wildermuth-baptismal-register-1830/): born **23 August** in the evening, baptised at Großaspach on **24 August**, baptismal name **Johan Michael**, son of *"Johan Christian Wildermuth, Bürger u. Schuhmacher allhier"* and *"Maria Margaretha geb. Schmidgall von Röhrach,"* both **evangelisch**. It is the only original German parish register page in this archive.
+
 He sailed in **1847**, age **sixteen** — per his own sworn statement six years later in Philadelphia.
 
 ## Why a sixteen-year-old was free to go
@@ -89,12 +91,12 @@ The [Marietta city directories](/archive/marietta-city-directories-wildermuth/) 
 
 | | Shop | Home |
 |---|---|---|
-| **1873–74** | **50 Front Street** | Sixth Street, between Warren and Montgomery |
+| **1873–74** | **30 Front Street** | Sixth Street, between Warren and Montgomery |
 | **1880** *(census)* | works in a shoe shop | Sixth Street |
 | **1897–98** | **134 Front Street** | 708 Sixth Street |
 | **1899–1903** | shoemaker | **611 Washington Street** |
 
-Two different shops on Front Street, twenty-four years apart — and **611 Washington Street** is the house the obituary means when it says he *"died at his home on Washington Street."*
+Two different shops on Front Street — **30** and later **134** — twenty-four years apart — and **611 Washington Street** is the house the obituary means when it says he *"died at his home on Washington Street."*
 
 The [1860 census](/archive/wildermuth-marietta-censuses-1860-1880/) catches him earlier than any of that: **twenty-six years old, a shoemaker, still lodging in the William Roessar household** in the Third Ward, thirteen years after the crossing and still unmarried. By [1880](/archive/wildermuth-marietta-censuses-1860-1880/) he had his own house on Sixth Street, a wife from Bavaria, and two sons of sixteen and fourteen **already working in a chair factory**.
 
@@ -116,7 +118,7 @@ Johann Michael landed at **New York in 1847** — the first year of the gap. Eve
 
 The manifests themselves survive and are now name-indexed online, so the crossing is findable today in a way it was not then.
 
-There is also a lead he was handed and never used. In December 1986 the town hall at Marbach am Neckar pointed him to the **emigration files of the former Oberamt Marbach**, held at the **Staatsarchiv Ludwigsburg** under reference **E 143 Oberamt Marbach Auswanderungen** — Württemberg required official permission to leave, and the district kept the application. [The letter is here.](/archive/stadt-marbach-reply-1986/) Nothing in his papers suggests he ever wrote to Ludwigsburg. Since Großaspach sat in **Oberamt Backnang**, the Backnang emigration series is the one to ask for alongside it.
+There is also a lead he was handed and never used. In December 1986 the town hall at Marbach am Neckar pointed him to the **emigration files of the former Oberamt Marbach**, held at the **Staatsarchiv Ludwigsburg** under reference **E 143 Oberamt Marbach Auswanderungen** — Württemberg required official permission to leave, and the district kept the application. [The letter is here.](/archive/stadt-marbach-reply-1986/) He acted on it: in February 1989 he engaged the accredited genealogist **Friedrich R. Wollmershäuser**, who [undertook to look for the emigration file at Ludwigsburg](/archive/wollmershauser-ludwigsburg-emigration-file-1989/). Whether it was ever found is not recorded in the surviving papers. Since Großaspach sat in **Oberamt Backnang**, the Backnang emigration series is the one to ask for alongside Marbach's.
 
 ## Naturalized in two appearances, a year apart
 

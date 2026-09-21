@@ -4,6 +4,9 @@
   "version": "0.1.0",
   "private": true,
   "description": "Eesley / Wildermuth family history archive — narrative companion to the structured trees on Ancestry/FamilySearch.",
+  "engines": {
+    "node": "22.x"
+  },
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
@@ -15,16 +18,15 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/mdx": "^4.0.0",
-    "@astrojs/sitemap": "^3.2.0",
-    "@astrojs/tailwind": "^5.1.0",
-    "@tailwindcss/typography": "^0.5.15",
-    "astro": "^5.1.0",
-    "sharp": "^0.33.5",
-    "tailwindcss": "^3.4.0"
+    "@astrojs/mdx": "^7.0.7",
+    "@astrojs/sitemap": "^3.7.3",
+    "@tailwindcss/typography": "^0.5.20",
+    "@tailwindcss/vite": "^4.3.3",
+    "astro": "^7.2.4",
+    "sharp": "^0.35.3",
+    "tailwindcss": "^4.3.3"
   },
   "devDependencies": {
-    "astro-pagefind": "^2.0.0",
     "pagefind": "^1.5.2"
   }
 }

@@ -46,6 +46,22 @@ Verona bore **fourteen children** across roughly a quarter-century (ten still li
 
 She died **27 October 1922 in Marietta, Ohio** at age 53 (the family had moved across the Ohio River to Marietta about eleven years earlier). Her death certificate gives the cause as **apoplexy** — after a roughly two-month illness that the record also ties to **typhoid fever** — and Robert Earl's account adds the stark image that she collapsed **as she climbed the steps of the Washington County Courthouse in Marietta**. Burial was on 30 October back across the river at **Mount Pleasant, West Virginia**, the informant her husband Wesley. The West-Virginia burial is one of the small signals that the Fleming side kept identifying with West Virginia even after relocating to Ohio for work.
 
+### The obituary reconciles the courthouse story
+
+The **contemporary notice in the *Marietta Times* of 28 October 1922**, headed *"Mrs. Fleming Taken,"* had looked at first as though it contradicted the family account. It reports that she died **at her home** on Putnam Avenue in **Harmar**, at **6 a.m. Friday**, *"following a twelve weeks' illness of apoplexy,"* born **11 June 1869** in Wood County, and that the family had lived in Marietta for **the last eleven years**.
+
+**Both are true, and together they make sense of each other.** *Apoplexy* is a stroke. Twelve weeks before 27 October 1922 is **early August** — so the collapse on the courthouse steps was the **onset**, not the death: she had the stroke there, was ill for three months, and died at home in the early hours of a Friday. *(27 October 1922 was indeed a Friday.)*
+
+The notice also settles her age. It gives **11 June 1869**, matching this archive, against the **14 June** in [Robert Earl's own typescript](/docs/john-fleming-family-legacy/) — and **53**, where his typescript says 52.
+
+**Seven surviving children** are named, and the list is a small map of where the family had scattered by 1922: **Walter** at Columbus, **Howard** at Newark, **Ditha and Laverna** still at home, **Mrs. E. A. Wildermuth** — [Sadye](/family/sadye-fleming-wildermuth/), married ten months — and **Mrs. George Becker** at Marietta, and **Mrs. W. L. Eagle** at Parkersburg. *"Funeral plans are not announced."*
+
+Seven of fourteen surviving, and she was fifty-three.
+
+![A typed sheet headed OBITUARY, VERONA BELLE DUNBAR (FLEMING), transcribing the notice in full and citing its source as the Marietta Times of 28 October 1922, with the original newspaper clipping pasted below it, headed Mrs. Fleming Taken, its column creased and darkened but legible.](../../assets/family/originals/verona-fleming-obituary-1922.jpeg)
+
+*The sheet in Robert Earl's papers carries both: his own clean transcription at the top, and **the clipping itself pasted below it** — cut narrow, creased down the middle, and darkened with age. He typed it out because he could see the paper would not last.*
+
 Robert Earl Wildermuth was born 6 October 1924 &mdash; *two years* after Verona's death. He never met her.
 
 ## The lament &mdash; the only memoir trace of Verona
@@ -70,5 +86,21 @@ The home Josephine remembered was **"a big old log cabin just up the road and ov
 
 - *The Fleming-and-Dunbar oral history* &mdash; if Sadye told Robert Earl stories of her own mother beyond the genealogical record, they may sit in her own letters and any photograph captions she annotated.
 - *Seth Grosvenor Dunbar's migration* &mdash; **resolved (July 2026)** from the [Wildermuth &amp; Bain book](/docs/wildermuth-family-of-marietta-book/): Seth did not migrate alone or for the Civil War. His father, [John V. Dunbar](/family/john-v-dunbar/), a steam-mill owner, moved the whole family from **Readfield, Kennebec County, Maine to Bull Run in Wood County** between the 1850 and 1860 censuses &mdash; which is exactly how the New England Dunbars came to be the "established Wood County family" of Robert Earl's memory. Seth's mother was [Ann Dunbar](/family/ann-dunbar/) (b. 1812, Maine); **her maiden name is the one remaining gap** in this corner of the parentage.
+
+## Her birth parents, newly named
+
+The archive has long known she married under **Mary V. Sheppard**, her adoptive family's surname. [Robert Earl's printed ancestor charts](/archive/wildermuth-fleming-ancestor-chart-set/) now supply the other two names in the sequence: her birth parents were **[Seth Dunbar](/family/seth-grosvenor-dunbar/)**, born 1837 in **Kennebec County, Maine** (the charts spell the town "Readyville" and "Readville"; the 1850 census town is **Readfield**), and **[Martha Kelley](/family/martha-kelley/)**, born 1844 in **Barbour County**. That accounts for the triple surname *Kelley / Dunbar / Sheppard* that heads her box on the charts — born Kelley, Dunbar by her father, Sheppard by adoption.
+
+## A later chart names a different mother
+
+[Robert Earl's 1998 pedigree chart](/archive/pedigree-charts-1998/) puts **Sarah J. Henry** (b. 1841, Jefferson County, Ohio) in the mother's box, and gives Seth as **married 29 December 1860 in Wood County**. Martha Kelley is not on the sheet.
+
+**Verona's parentage is not being changed**, and the reason is that Robert Earl contradicts himself. In [his own genealogy of the family](/docs/wildermuth-family-of-marietta-book/) he wrote plainly that Verona was *"born out of wedlock to Martha Kelley. The father was Seth Dunbar"* — and backed it with the 1870 and 1880 censuses showing her in the Sheppard household, and with Deborah (Kelley) Sheppard's relationship to Martha. That is prose with evidence behind it. The chart is a form with two boxes.
+
+The reconciliation that costs nothing: **pedigree software prints a man's wife in the mother's slot**, and where the two are different women, this is exactly what you see. On that reading Sarah J. Henry was **Seth's wife**, married in 1860 — a person this archive knew nothing about — while Verona was still Martha Kelley's daughter, born outside that marriage in 1869. Everything in the book survives, and Seth gains a wife.
+
+[Seth's page](/family/seth-grosvenor-dunbar/) carries the full question. The 1860 Wood County marriage record would answer it.
+
+Behind them the charts run further: **John V. Dunbar** (b. 1804 in Maine, died in Wood County) and **Ann**; and on the Kelley side **Johnson Kelley** (1810–1886), **Ebenezer Kelley** (b. 1763, Somerset County), **Rachel Johnson** (b. 1769, New Jersey), **Robert Johnson**, **Mary**, and **Sarah Yoke**. None of them have pages here yet.
 
 > *Sources: [Wildermuth Family of Marietta, Ohio](/docs/wildermuth-family-of-marietta-book/) (Wildermuth & Bain), the "Fleming, Verona Belle (Kelley)" section — Robert Earl's own research, quoting the 1870/1880/1900/1910 censuses, the 1922 Marietta Times obituary, and Verona's death certificate; GEDCOM &mdash; Dale Eesley / FamilySearch ([downloadable](/docs/eesley-wildermuth-tree.ged)); the earlier reading (Sheppard as maiden name) came from Sadye's c. 1976 Marietta Times obituary and has been corrected here. The "she loved kids" recollection is from the **1985 letter of Josephine (Fleming) Cox to Robert Earl Wildermuth** and his **20 November 2003 comment** on it, both in the Bain book's Fleming section (pp. 98&ndash;99).*

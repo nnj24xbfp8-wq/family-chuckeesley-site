@@ -26,7 +26,21 @@ The German village she was born in — **Breitenbach** — sits about **250 mile
 
 Her parents were **[Christian Boeshar](/family/christian-boeshar/)** (1810–1843), a Breitenbach miner, and **[Maria Margaretha Jung](/family/maria-margaretha-jung/)** (b. 1814) of nearby Frohnhofen, who married in Breitenbach in 1836; Catharina had an older brother, **Jacob** (b. 1837). Her father **died in May 1843, when she was not yet three**, so she grew up in a widowed household — context that sits behind a young Pfälzerin leaving for Ohio.
 
-Johann Michael's [1853 Philadelphia naturalization petition](/docs/johann-michael-wildermuth-naturalization-1853/) documents him arriving at the **Port of New York in 1847** as a boy under eighteen, and being in Pennsylvania by 1852. Catharina's own emigration is less documented in this archive — her Atlantic crossing date, her port of arrival, and how she came to Washington County are open research, but she had to be there by 1862. The Pfalz-to-Ohio path in those years typically went through **New York or Baltimore** by sail to Philadelphia and then overland to the Ohio Valley.
+Johann Michael's [1853 Philadelphia naturalization petition](/docs/johann-michael-wildermuth-naturalization-1853/) documents him arriving at the **Port of New York in 1847** as a boy under eighteen, and being in Pennsylvania by 1852. Catharina's own crossing is still undocumented — the date, the port and the route are open research — but she had to be in Washington County by 1862. The Pfalz-to-Ohio path in those years typically went through **New York or Baltimore** and then overland to the Ohio Valley.
+
+### She was coming to Boeshars, not to strangers
+
+The **[1860 census for Washington County](/archive/boeshar-1860-washington-county-census/)**, abstracted in Robert Earl's papers, finds **three Boeshar households** in Salem and Aurelius Townships two years before her marriage:
+
+- **Thobald Boeshar**, 27, a **farmer** at Lower Salem with $1,200 in land, born in **Bavaria**, with an Ohio-born wife and three small children
+- **Louisa Boeshar**, **50, a widow**, born in Bavaria, with sons **Christian** (22, a carpenter, born 1838) and **Jacob** (16, apprenticed, born 1844) — both **born in Bavaria**
+- **Jacob Boeshar**, 42, a farmer in Aurelius Township with $2,000 in land, from the **Rhine** country
+
+**And Jacob's children map the route.** Their birthplaces run **Rhineland → Pennsylvania → Ohio**: the eldest two born in Germany, one son born in **Pennsylvania** about 1850, and everyone from the eight-year-old down born in **Ohio**. That family crossed around 1849, paused in Pennsylvania, and reached Washington County about 1852 — **the same path Johann Michael took.**
+
+**This changes the shape of the question.** A girl orphaned of her father before she was three, leaving a widowed household in the Pfalz, did not step off a boat into an Ohio river county at random. **There were Boeshars here already.**
+
+*None of them is yet demonstrated to be her kin.* The widow **Louisa** is the household to check first — born about 1810, she is [her mother's generation](/family/maria-margaretha-jung/) exactly, and her son Christian (1838) is close to Catharina's own brother Jacob (1837). But Louisa is not Margaretha, and the names are common ones. **Which Boeshar household she was coming to is now the live question** — and a passenger list carrying a family group is far easier to find than one carrying a lone young woman.
 
 ## The long Marietta life
 

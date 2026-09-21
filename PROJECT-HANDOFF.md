@@ -36,15 +36,18 @@ References (`reference()`) and `image()` are **build-validated** — a bad ref o
 ```bash
 cd <repo> && rm -rf .astro node_modules/.astro   # clear cache to avoid spurious "Duplicate id" warnings
 # also: find . -name '.fuse_hidden*' -delete   (git cruft that causes dup-id warnings)
-cat > astro.check.mjs <<'EOF'
-import { defineConfig } from 'astro/config';
-import mdx from '@astrojs/mdx'; import sitemap from '@astrojs/sitemap'; import tailwind from '@astrojs/tailwind';
-export default defineConfig({ site:'https://family.chuckeesley.com', integrations:[mdx(),sitemap(),tailwind()], image:{service:{entrypoint:'astro/assets/services/noop'}}, outDir:'/tmp/fam-check' });
+# Copy the real config and add only the noop image service + a scratch outDir.
+# (Do NOT hand-write the config — the project uses @tailwindcss/vite, not @astrojs/tailwind.)
+python3 - <<'EOF'
+s = open('astro.config.mjs').read()
+s = s.replace("integrations: [mdx(), sitemap()],",
+  "integrations: [mdx(), sitemap()],\n  image: { service: { entrypoint: 'astro/assets/services/noop' } },\n  outDir: '/tmp/fam-check',")
+open('astro.check.mjs','w').write(s)
 EOF
 npx astro build --config astro.check.mjs 2>&1 | tail -5   # expect "N page(s) built ... Complete!" no errors
 rm -f astro.check.mjs; rm -rf /tmp/fam-check
 ```
-Current page count: **530**. (The noop image service skips real optimization so the check is fast.)
+Current page count: **741**. (The noop image service skips real optimization so the check is fast.)
 
 **jp2 handling:** sharp/Vercel may not read `.jp2`. Convert before referencing: `convert dadNNN.jp2 -quality 90 dadNNN.jpg` in the assets folder, then reference the `.jpg`.
 

@@ -1,5 +1,6 @@
 ---
 name: "Thomas Leonard 'Tommy' Eesley"
+portrait: ../../assets/family/originals/thomas-leonard-tommy-eesley-crop-c1937-1939.jpeg
 aka: "Tommy Eesley"
 line: paternal
 birth:
@@ -33,3 +34,5 @@ Per Bean's 1985 register, Tommy married twice. His first wife was **Alymer E. Cr
 He later married a second time, to **Dorothy**, who brought two stepchildren (Stacie and Stephen) into the family. His younger brother was [James Michael "Mike" Eesley](/family/james-michael-eesley/) (b. 1938).
 
 > *Sources: Mary Eesley Bean, *[Eesley Family History](/docs/eesley-family-history-1985/)*, 1985 (descendant register, generations IV&ndash;VI); Maggie Eesley, *Four Generations of the Eesley Family*.*
+
+> *Portrait: cropped from [Charles Leonard Eesley with five of his sons](/archive/charles-leonard-and-sons-late-1930s/), c. 1937&ndash;1939 &mdash; the boy in the striped shirt beside his grandfather, the only child in the frame.*

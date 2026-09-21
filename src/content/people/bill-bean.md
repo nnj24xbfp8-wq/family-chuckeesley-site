@@ -1,5 +1,6 @@
 ---
 name: "William Thomas Bean"
+portrait: ../../assets/family/originals/william-thomas-bean-crop-late-1940s.jpeg
 aka: "Bill Bean"
 line: other
 generation: 5
@@ -23,3 +24,5 @@ Per Mary's own register, the Beans' daughter was:
 - **Margaret Louise Bean**, b. 11 December 1941; married **Jay Albert Kirkpatrick**, with three children &mdash; William Jay Kirkpatrick (1969), Mary Margaret Kirkpatrick (1974), and Laura Lynn Kirkpatrick (1978).
 
 > *Source: Mary Eesley Bean, *[Eesley Family History](/docs/eesley-family-history-1985/)*, 1985 (descendant register and address appendix).*
+
+> *Portrait: cropped from the [Eesley family group portrait](/archive/eesley-family-group-portrait-late-1940s/), c. 1948&ndash;1949 &mdash; the laughing man at the top of the frame, behind his mother-in-law Lily Dale.*

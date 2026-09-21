@@ -1,5 +1,6 @@
 ---
 name: "Mabel Lee Sunn"
+portrait: ../../assets/family/originals/mabel-lee-sunn-crop-1945-wedding.jpeg
 aka: "Mabel Lee, maiden"
 line: other
 birth:
@@ -32,3 +33,5 @@ summary: "Mother of Stella Elaine Sunn. American-born — birthplace given simpl
 Mabel Lee Sunn was born around 1900 in the United States and married Koon Hung Sunn; their daughter Stella was born in Honolulu in October 1925. In 1940, age forty, she arrived in Honolulu aboard the **SS *Monterey***, recorded on the Hawaii passenger lists (Affiliate Publication A3422, Film 221, *Passenger Lists of Vessels Arriving at Honolulu, Hawaii, 1900–1953*). The record's "Immigration" event-type is the standard label for any inbound passenger arrival, residents and immigrants alike; given her birth in the United States, this is almost certainly a return after travel rather than a first arrival.
 
 Mother of [Stella Elaine Sunn Chong](/family/stella/), Chuck's family's wartime addition; grandmother — through Stella — of Sue Lin and Glenn Chong. Her parents and earlier life are not yet recorded in this archive.
+
+> *Portrait: cropped from [Stella's wedding-day photograph with her parents](/archive/stella-ted-chong-wedding-with-family-1945/), c. April 1945 &mdash; the woman in the lace hat seated behind the bride.*

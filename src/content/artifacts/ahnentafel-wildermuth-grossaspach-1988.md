@@ -7,7 +7,7 @@ dateCreated: "2 December 1988"
 sortDate: "1988-12-02"
 placeCreated: "Großaspach, Baden-Württemberg"
 idNumber: "Tafel/Chart No. A"
-provenance: "Compiled in Germany and sent to Robert Earl Wildermuth; in his research papers, in Chuck's keeping. Photographed 2026."
+provenance: "Compiled by Karl Lachenmaier of Großaspach and sent to Robert Earl Wildermuth, December 1988; in his research papers, in Chuck's keeping. Photographed 2026."
 rights: "Family use; permission required for republication."
 people:
   - robert-earl-wildermuth
@@ -32,13 +32,41 @@ people:
 
 This is the document all the others were copied from — and the archive has been working from its descendants for years without having seen it.
 
-A printed bilingual **Ahnentafel** form, headed **"Ahnentafel Wildermuth Großaspach"**, filled out by hand in a German script and dated **2 December 1988**. Its source line is the important part:
+A printed bilingual **Ahnentafel** form, headed **"Ahnentafel Wildermuth Großaspach"**, filled out by hand and signed by **Karl Lachenmaier** of Großaspach, dated **2 December 1988**. Its source line is the important part:
 
 > **Bemerkungen u. Quellen / REMARKS AND SOURCES:**
 > *Evangelische Kirchenbücher von Großaspach, Rietenau*
 > *(the Protestant parish registers of Großaspach and Rietenau)*
 
 Somebody in Germany went to the church books and wrote the family out. This is the *"positive answer"* [Robert Earl](/family/robert-earl-wildermuth/) [mentioned getting from Großaspach](/archive/little-histories-original-pages/), and it is the origin of the [Little Histories](/docs/robert-earl-wildermuth-little-histories/) he began writing that same month — his census notes are dated **December 1988** too.
+
+## The man who compiled it: Karl Lachenmaier
+
+The signature at the top of the form is his, and a covering note in the same file gives the name and the whole exchange.
+
+![A typed letter in German dated 24 November 1988 from Robert E. Wildermuth of Casselberry, Florida to the Standesamt at Grossaspach, stating that his ancestors are said to come from Grossaspach, enclosing an Ahnentafel so the office can see exactly who is meant, requesting photocopies from the relevant birth, marriage and death registers, and enclosing two international reply coupons.](../../assets/family/originals/wildermuth-letter-standesamt-grossaspach-1988.jpeg)
+
+**24 November 1988** — Robert Earl writes, in German, to the **Standesamt** (civil registry) at Großaspach:
+
+> *"Laut der von mir gesammelten Ahnenforschungsquellen sollen meine Vorfahren aus Grossaspach stammen … Deshalb bitte ich Sie hoeflichst um **Ablichtungen aus den betreffenden Geburts-, Heirats- und Sterberegistern** fuer meine Vorfahren aus Ihrem Ort sowie Eltern, falls moeglich."*
+>
+> *("According to the genealogical sources I have collected, my ancestors are said to come from Grossaspach … I therefore most politely request **photocopies from the relevant birth, marriage and death registers** for my ancestors from your town, and their parents if possible.")*
+>
+> **Beilagen: Ahnentafel · 2 Internationale Antwortscheine** — enclosures: an ancestor chart, and two international reply coupons.
+
+The town hall passed it to **Karl Lachenmaier**, who did the work: dated this chart **2 December**, wrote a covering letter on **3 December**, and enclosed a photocopy of [the baptismal register page](/archive/johann-michael-wildermuth-baptismal-register-1830/).
+
+![A handwritten letter in German from Karl Lachenmaier, Grossaspach, dated 15 December 1988, saying that the mayor's office passed him Mr Wildermuth's letter of 24 November but that he considers it already answered by his own letter of 3 December, and telling him he may write in English in future provided it is typed, since he himself does not speak English but his son and grandson do.](../../assets/family/originals/karl-lachenmaier-letter-1988.jpeg)
+
+Then, on **15 December 1988**, a second note in his own hand — because the town hall had forwarded a duplicate:
+
+> *"Vom Bürgermeisteramt Großaspach erhielt ich auch Ihr Schreiben vom 24. November zur Bearbeitung. Ich bin jedoch der Ansicht, daß dieses Schreiben durch meinen Brief vom 3. Dezember beantwortet ist.*
+>
+> *Sie können in Zukunft ruhig englisch schreiben. **Aber bitte mit Maschine.** Ich selbst spreche leider nicht englisch, dafür aber mein Sohn und Enkel."*
+>
+> *("From the mayor's office at Großaspach I also received your letter of 24 November for handling. I am however of the view that this letter is answered by my letter of 3 December. You may quite happily write in English in future. **But typed, please.** I myself unfortunately do not speak English — but my son and grandson do.")*
+
+Two strangers, one of whom *"understands only a little German"* and the other no English, arranging to correspond through the second man's grandson. **That is how the German half of this archive was recovered** — and it dates the breakthrough to a fortnight in December 1988.
 
 ![A printed bilingual Ahnentafel pedigree chart headed Wildermuth Großaspach, dated 2 December 1988, completed by hand in ink with four generations of the Wildermuth, Wolf, Schmidgall and Landai families, giving each man's trade and citing the Protestant parish registers of Großaspach and Rietenau as the source.](../../assets/family/originals/ahnentafel-wildermuth-grossaspach-1988.jpeg)
 
@@ -98,4 +126,4 @@ The handwriting is confident but the photograph is a photograph, and a few digit
 
 None of these touch the direct line's structure. They are noted so that whoever holds the sheet next can settle them from the paper rather than from a photograph.
 
-> *Source: Ahnentafel "Wildermuth Großaspach," Chart No. A, compiled 2 December 1988 from the Evangelische Kirchenbücher of Großaspach and Rietenau; in Robert Earl Wildermuth's research papers. Photographed 2026.*
+> *Source: Ahnentafel "Wildermuth Großaspach," Chart No. A, compiled by Karl Lachenmaier, 2 December 1988 from the Evangelische Kirchenbücher of Großaspach and Rietenau; in Robert Earl Wildermuth's research papers. Photographed 2026.*

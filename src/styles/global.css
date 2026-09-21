@@ -1,6 +1,24 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
+
+@plugin "@tailwindcss/typography";
+
+/* Tailwind 4 moves theme configuration out of tailwind.config.cjs and into CSS.
+   These map 1:1 onto the previous `theme.extend` block:
+     fontFamily.serif  -> --font-serif
+     fontFamily.sans   -> --font-sans
+     colors.*          -> --color-*
+     maxWidth.prose    -> --container-prose  (the namespace behind max-w-*) */
+@theme {
+  --font-serif: 'Cormorant Garamond', Georgia, serif;
+  --font-sans: 'Inter', system-ui, sans-serif;
+
+  --color-ink: #1a1814;
+  --color-cream: #faf6ef;
+  --color-sepia: #8c6a3b;
+  --color-rule: #d8cfbf;
+
+  --container-prose: 38rem;
+}
 
 @layer base {
   html {

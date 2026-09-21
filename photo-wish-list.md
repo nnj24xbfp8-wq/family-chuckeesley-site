@@ -4,7 +4,26 @@ A working list of people who have **no photograph** (or only a weak/placeholder 
 archive, prioritized so a search of the family collection targets the highest-value gaps
 first. Not part of the site build.
 
-_Last refreshed July 2026 (~66 of 296 people pages carry a thumbnail portrait)._
+_Last refreshed **September 2026** (**110 of 327** people pages carry a thumbnail portrait, up from ~66 of 296 in July)._
+
+## Pass of 8 September 2026 — six new crops, and what the method has left
+
+Section A below was exhausted by the July passes, so this pass re-derived the candidate list from
+the site itself: every people page with no `portrait`, cross-referenced against every artifact of
+type "Photograph" that names them. **Six new portraits, all from photographs already on the site:**
+
+- ✅ **[Elijah Chenoweth, Jr.](/family/elijah-chenoweth/)** (1806–1898) — from the [four-generation Chenoweth studio portrait](/archive/chenoweth-four-generations-portrait/), the bearded elder at the right. **The oldest face in the archive to be recovered this way** — a man born under Jefferson, now with a likeness.
+- ✅ **[Thomas Leonard "Tommy" Eesley](/family/tommy-eesley/)** (b. 1930) — from [Charles Leonard with five of his sons](/archive/charles-leonard-and-sons-late-1930s/), c. 1937–39, the only child in the frame. *(A living relative if he is still with us at 95 — his page is not privacy-gated; gate it if that's wrong.)*
+- ✅ **[Margaret "Peggy" (Youman) Eesley](/family/margaret-youman-eesley/)** (b. 1913) — figure 11 in the [Highland Ridge reunion](/archive/highland-ridge-family-group-portrait-c-1980/) caption.
+- ✅ **[William Thomas "Bill" Bean](/family/bill-bean/)** (b. 1909) — the laughing man at the top of the [late-1940s Eesley group](/archive/eesley-family-group-portrait-late-1940s/).
+- ✅ **[Mabel Lee Sunn](/family/mabel-lee-sunn/)** and ✅ **[Koon Hung Sunn](/family/koon-hung-sunn/)** — Stella's parents, from [her wedding-day photograph with them](/archive/stella-ted-chong-wedding-with-family-1945/). The Sunn side of the family now has two faces.
+
+**What the method has left, and its limit.** The remaining group photos naming faceless people fail
+on one of two grounds:
+
+- **Resolution.** A crop needs a head of roughly 150 px or more. The [Mt. Perry porch](/archive/hill-davis-family-mt-perry-porch-c1940s/) is a 3,502 px frame with ten people across it — heads of about 50 px — so **[Theodore Roosevelt Hill](/family/theodore-roosevelt-hill/)** and **[Janetta (Smith) Hill](/family/janetta-smith/)** cannot be cropped from it, and Janetta (b. 1864) is the only image of her the archive holds. Same for the [1896 William Clifford family group](/archive/william-wildermuth-family-group-portrait/) and the [three-generation Fleming photo](/archive/james-wesley-fleming-three-generations-c-late-1930s/), both held only as 640 px files. **If the originals are still in the box, a 600-dpi scan of those three would yield six or seven portraits.** That is the single highest-yield thing left on this list.
+- **Living people, or an identification that needs you.** [Katie Burnes](/family/katie-burnes/) is figure 2 in the Highland Ridge print and a crop is easy — but she is living, so it is your call rather than mine. *(While cropping it: the girl in that position reads as ten or twelve, not the six she would have been in c. 1971–72 on a February 1965 birth. Since the print's date rests on her age, either the date or the identification is worth another look.)*
+- The three [Wolfe daughters](/archive/family-at-fireplace-1960s/) at the Hillcrest fireplace are croppable and are probably all living: your call.
 
 ---
 
