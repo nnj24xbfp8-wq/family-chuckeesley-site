@@ -9,8 +9,8 @@ status: described-only
 relatedPeople:
   - charles-eesley
 relatedDocuments:
-  - charlie-to-terrie-1970-09-28-cam-ranh-bay-convalescence
-  - charlie-to-terrie-1970-09-21-malaria-hospital
+  - letters/charlie-to-terrie-1970-09-28-cam-ranh-bay-convalescence
+  - letters/charlie-to-terrie-1970-09-21-malaria-hospital
 ---
 
 **Cam Ranh Bay** is the deep natural harbor on the south-central coast of Vietnam, in present-day Khánh Hòa Province, about 180 miles northeast of Ho Chi Minh City (Saigon). During the Vietnam War it served as the **principal U.S. logistics base in the country** — the main port of entry for personnel and matériel, with a major airbase, a deep-water harbor, supply depots, and the medical infrastructure to support the entire American presence in Vietnam.

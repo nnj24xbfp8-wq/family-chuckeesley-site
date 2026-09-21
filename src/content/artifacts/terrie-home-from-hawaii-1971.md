@@ -10,7 +10,7 @@ provenance: "Eesley family archive — transmitted by Chuck Eesley, 2026."
 rights: "Family use; permission required for republication."
 people:
   - terrie-lee-eesley
-relatedDocument: charlie-to-terrie-1971-03-29-second-rr-booking
+relatedDocument: letters/charlie-to-terrie-1971-03-29-second-rr-booking
 ---
 
 Terrie back home at the end of the **April 1971 Hawaii R&R**, standing in a driveway beside a Volkswagen Beetle with the bare trees of early spring behind her. She is in the **same floral dress** she wears on the [Waikiki balcony](/archive/terrie-waikiki-hawaii-1971/), and she is carrying her luggage and a *"Tropical Gold"* **Hawaiian pineapple** souvenir bag &mdash; the return leg of the trip the [Vietnam letters](/docs/letters-from-vietnam/) had planned all spring.

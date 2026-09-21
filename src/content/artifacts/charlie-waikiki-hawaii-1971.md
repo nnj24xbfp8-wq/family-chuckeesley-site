@@ -11,7 +11,7 @@ provenance: "Eesley family archive — transmitted by Chuck Eesley, 2026."
 rights: "Family use; permission required for republication."
 people:
   - charles-eesley
-relatedDocument: charlie-to-terrie-1971-03-29-second-rr-booking
+relatedDocument: letters/charlie-to-terrie-1971-03-29-second-rr-booking
 ---
 
 Charlie Eesley on the balcony of a Waikiki high-rise hotel in Honolulu during the **Hawaii R&R of April 1971** &mdash; the meeting he and Terrie had spent the entire spring of [Vietnam letters](/docs/letters-from-vietnam/) planning. He stands at the railing in a short-sleeved shirt, the Waikiki skyline and the green of the Ala Moana behind him, flown in from Vietnam for the one week the Army's R&R calendar allowed.
