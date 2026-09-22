@@ -8,9 +8,9 @@ people:
   - ling-zhou
   - huancai-pang
   - su-ying-xian
-  - jie-zhou
-  - yi-zhou
-  - shan-zhou
+  - yan-zhou
+  - wei-zhou
+  - liang-zhou
   - zhaoxiang-zhou
   - xiuzhen-zhou
   - maoli-zhou
@@ -40,7 +40,7 @@ summary: "The narrative version of the Zhou family's central story, told straigh
 
 他在那里待了二十四年。
 
-他在阳信成了家。双胞胎女儿[周洁](/family/jie-zhou/)、[周义](/family/yi-zhou/)生于1970年10月。1974年，他从乡镇医院调进阳信县中医院 &mdash; [妻子](/family/su-ying-xian/)早已在那里工作 &mdash; 第三个女儿[周善](/family/shan-zhou/)1976年出生。他一级一级往上走，走到副主任医师就停住了，因为一所贫困县医院能给人的位置，到此为止。多年后侄子[周玲](/family/ling-zhou/)说得很直白：换在青岛这样的城市，他早该是主任医师了，卡的是名额。他的职业生涯有个顶，而这个顶是一个地方，不是他这个人。
+他在阳信成了家。双胞胎女儿[周燕](/family/yan-zhou/)、[周伟](/family/wei-zhou/)生于1970年10月。1974年，他从乡镇医院调进阳信县中医院 &mdash; [妻子](/family/su-ying-xian/)早已在那里工作 &mdash; 第三个女儿[周亮](/family/liang-zhou/)1976年出生。他一级一级往上走，走到副主任医师就停住了，因为一所贫困县医院能给人的位置，到此为止。多年后侄子[周玲](/family/ling-zhou/)说得很直白：换在青岛这样的城市，他早该是主任医师了，卡的是名额。他的职业生涯有个顶，而这个顶是一个地方，不是他这个人。
 
 青岛那边，母亲一天天老下去，儿女都在身边，只少了最小的那个。她整天念叨。她哭到眼睛看不见了。她说她惟一的心事，就是想让他回青岛。
 
@@ -78,7 +78,7 @@ He got out of it the only way available: he found a classmate and they traded. T
 
 He stayed for twenty-four years.
 
-He married there. Twin daughters, **[Zhou Jie](/family/jie-zhou/)** and **[Zhou Yi](/family/yi-zhou/)**, were born in October 1970. In 1974 he moved from the township hospital up to the county traditional-medicine hospital, where his wife, **[Su Ying Xian](/family/su-ying-xian/)**, was already working, and their third daughter, **[Zhou Shan](/family/shan-zhou/)**, was born in 1976. He rose steadily and then stopped, at deputy chief physician, which is as high as a poor county hospital is permitted to promote anyone. His nephew **[Zhou Ling](/family/ling-zhou/)** put it plainly years later: in a city like Qingdao he would have made full chief physician long before. It was a matter of quotas. His career had a ceiling, and the ceiling was a place, not a limitation of his.
+He married there. Twin daughters, **[Zhou Yan](/family/yan-zhou/)** and **[Zhou Wei](/family/wei-zhou/)**, were born in October 1970. In 1974 he moved from the township hospital up to the county traditional-medicine hospital, where his wife, **[Su Ying Xian](/family/su-ying-xian/)**, was already working, and their third daughter, **[Zhou Liang](/family/liang-zhou/)**, was born in 1976. He rose steadily and then stopped, at deputy chief physician, which is as high as a poor county hospital is permitted to promote anyone. His nephew **[Zhou Ling](/family/ling-zhou/)** put it plainly years later: in a city like Qingdao he would have made full chief physician long before. It was a matter of quotas. His career had a ceiling, and the ceiling was a place, not a limitation of his.
 
 Back in Qingdao his mother was growing old with every one of her children near her except the youngest. She talked about it constantly. She cried about it until her eyes failed and she could no longer see. She said the only thing still on her mind was to have him home.
 

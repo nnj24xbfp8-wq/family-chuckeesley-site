@@ -13,9 +13,9 @@ people:
   - charles-eric-eesley
   - briana-massaro-lockett
   - xun-li
-  - jie-zhou
-  - yi-zhou
-  - shan-zhou
+  - yan-zhou
+  - wei-zhou
+  - liang-zhou
 dateRange:
   start: "2026"
 sortDate: "2026-09-13"
@@ -90,26 +90,26 @@ summary: "Eight weeks after Lijie's father wrote out by hand the story of his un
 
 ## 家族其后的更正
 
-本页初上线时，录音中几处数字与档案不能自洽。不到一日，两个人把它们定了下来：叔叔的幼女**[周善](/family/shan-zhou/)**（家中称亮亮，事在其身，亲历者）于**2026年9月20日**在微信上作答；**[丽婕](/family/lijie-zhou/)**则更正了自己当日的口译。
+本页初上线时，录音中几处数字与档案不能自洽。不到一日，两个人把它们定了下来：叔叔的幼女**[周亮](/family/liang-zhou/)**（家中称亮亮，事在其身，亲历者）于**2026年9月20日**在微信上作答；**[丽婕](/family/lijie-zhou/)**则更正了自己当日的口译。
 
 | 录音原话 | 更正为 | 出处 |
 |---|---|---|
-| "将近四十年" | 在阳信**二十四年**（1967年秋&ndash;1991）；自毕业算起二十五年 | 周善 |
+| "将近四十年" | 在阳信**二十四年**（1967年秋&ndash;1991）；自毕业算起二十五年 | 周亮 |
 | "已经六十多了，大概" | 归来时**五十三岁** | 由1991年与1938年生推 |
 | 奶奶在"三十天左右"后去世 | **约一年** | 丽婕 |
-| "文化大革命之前就毕业了" | **1966届** &mdash; 文革正爆发于其毕业之际 | 周善 |
+| "文化大革命之前就毕业了" | **1966届** &mdash; 文革正爆发于其毕业之际 | 周亮 |
 
 **另有三事，此前全无记载：**
 
 - **迁回是1991年。** *"从阳信回青岛是1991"*。
 - **调入单位是青岛市南区浮山所医院**，且**父母二人皆在此工作** &mdash; 那一纸调令带回青岛的是两份医务工作，不是一份。
-- **三个女儿有名有生日：[周洁](/family/jie-zhou/)** 与 **[周义](/family/yi-zhou/)**，1970年10月18日生的双胞胎；**[周善](/family/shan-zhou/)**，1976年4月3日生 &mdash; 迁回那年，她们分别是二十、二十、十五岁。
+- **三个女儿有名有生日：[周燕](/family/yan-zhou/)** 与 **[周伟](/family/wei-zhou/)**，1970年生的双胞胎；**[周亮](/family/liang-zhou/)**，1976年生 &mdash; 迁回那年，她们分别是二十、二十、十五岁。
 
 有了1991这个年份，各处便都合上了：归时五十三岁，母亲庞焕彩卒于**1992年4月6日**，在全家迁回约一年之后。她等到了，还等到了一年。
 
 ## 他本来已经留校
 
-最大的一处更正不是数字。周善写道：
+最大的一处更正不是数字。周亮写道：
 
 > *"我爸爸不是文革前毕业的，他是1966年毕业生，他学习成绩优秀本来已经确定了在青岛医学院留校工作，突然爆发文革，所有毕业分配暂停了，留校毕业名单也作废了。"*
 
@@ -168,7 +168,7 @@ summary: "Eight weeks after Lijie's father wrote out by hand the story of his un
 | 提问者 | [Briana Lockett](/family/briana-massaro-lockett/) 及席间众人 | Chuck 的表姊妹 |
 | "他父亲的弟弟"、"叔叔" | [周兆帧](/family/zhaozheng-zhou/) | 叔祖父 |
 | 叔叔之妻 | [Su Ying Xian](/family/su-ying-xian/) | 叔祖母 |
-| "三个女儿" | [周洁](/family/jie-zhou/)、[周义](/family/yi-zhou/)、[周善](/family/shan-zhou/) | 父亲的堂妹 |
+| "三个女儿" | [周燕](/family/yan-zhou/)、[周伟](/family/wei-zhou/)、[周亮](/family/liang-zhou/) | 父亲的堂妹 |
 | "我爷爷" | [周兆祥](/family/zhaoxiang-zhou/) | 祖父 |
 | "我爷爷的母亲" | [庞焕彩](/family/huancai-pang/) | 曾祖母 |
 | "我两个姑姑" | [周爱琴](/family/ai-qin-zhou/)、[周爱华](/family/ai-hua-zhou/) | 姑母 |
@@ -244,28 +244,28 @@ The uncle petitioned for years and failed. His nephew succeeded. The difference 
 
 ### What the family corrected afterwards
 
-This page went up with several numbers in the spoken account that would not reconcile. Within a day, two people settled them. **[Zhou Shan 周善](/family/shan-zhou/)** — the uncle's youngest daughter, known in the family as 亮亮, and therefore someone who was actually in the household — answered by WeChat on **20 September 2026**, and **[Lijie](/family/lijie-zhou/)** corrected her own translation.
+This page went up with several numbers in the spoken account that would not reconcile. Within a day, two people settled them. **[Zhou Liang 周亮](/family/liang-zhou/)** — the uncle's youngest daughter, known in the family as 亮亮, and therefore someone who was actually in the household — answered by WeChat on **20 September 2026**, and **[Lijie](/family/lijie-zhou/)** corrected her own translation.
 
 **The corrections, against what the recording says:**
 
 | In the recording | Corrected to | Source |
 |---|---|---|
-| *"almost forty years"* in the rural area | **twenty-four years** in Yangxin (autumn 1967–1991); twenty-five from graduation | Zhou Shan |
+| *"almost forty years"* in the rural area | **twenty-four years** in Yangxin (autumn 1967–1991); twenty-five from graduation | Zhou Liang |
 | *"he's already in his sixties, maybe"* | **fifty-three** on his return | from 1991 and his 1938 birth |
 | *"just thirty days or something"* before his mother died | **about a year** | Lijie |
-| *"he graduated from college before the Cultural Revolution"* | **the class of 1966** — it broke out on top of his graduation | Zhou Shan |
+| *"he graduated from college before the Cultural Revolution"* | **the class of 1966** — it broke out on top of his graduation | Zhou Liang |
 
 **And three things nobody had recorded at all:**
 
 - **The return was 1991.** *"从阳信回青岛是1991"* — the move from Yangxin back to Qingdao.
 - **The receiving hospital was the Fushansuo Hospital in Shinan District** (青岛市南区浮山所医院), and **both parents worked there.** The transfer carried two medical careers home, not one.
-- **The three daughters have names and dates:** **[Zhou Jie 周洁](/family/jie-zhou/)** and **[Zhou Yi 周义](/family/yi-zhou/)**, twins born **18 October 1970**, and **[Zhou Shan 周善](/family/shan-zhou/)**, born **3 April 1976** — so at the move they were twenty, twenty, and fifteen.
+- **The three daughters have names and dates:** **[Zhou Yan 周燕](/family/yan-zhou/)** and **[Zhou Wei 周伟](/family/wei-zhou/)**, twins born **1970**, and **[Zhou Liang 周亮](/family/liang-zhou/)**, born **1976** — so at the move they were twenty, twenty, and fifteen.
 
 With 1991 in hand, everything closes: home at fifty-three, and his mother's recorded death of **6 April 1992** about a year after the family arrived. Pang Huancai got the year.
 
 ### The job he already had
 
-The largest correction is not a number. Asked about her father, Zhou Shan wrote:
+The largest correction is not a number. Asked about her father, Zhou Liang wrote:
 
 > *"我爸爸不是文革前毕业的，他是1966年毕业生，他学习成绩优秀本来已经确定了在青岛医学院留校工作，突然爆发文革，所有毕业分配暂停了，留校毕业名单也作废了。"*
 >
@@ -327,20 +327,20 @@ The earlier telling came from the family too. It is not invented &mdash; it is w
 | the questioner | **[Briana Lockett](/family/briana-massaro-lockett/)** and others at the table | Chuck's cousin |
 | "his father's younger brother," "he" | **[Zhou Zhaozheng 周兆帧](/family/zhaozheng-zhou/)** | great-uncle |
 | the uncle's wife | **[Su Ying Xian](/family/su-ying-xian/)** | great-aunt by marriage |
-| "three daughters," "the cousins" | **[Zhou Jie](/family/jie-zhou/)**, **[Zhou Yi](/family/yi-zhou/)**, **[Zhou Shan](/family/shan-zhou/)** | her father's first cousins |
+| "three daughters," "the cousins" | **[Zhou Yan](/family/yan-zhou/)**, **[Zhou Wei](/family/wei-zhou/)**, **[Zhou Liang](/family/liang-zhou/)** | her father's first cousins |
 | "my grandfather" | **[Zhou Zhaoxiang 周兆祥](/family/zhaoxiang-zhou/)** | grandfather |
 | "my grandfather's mother" | **[Pang Huancai 庞焕彩](/family/huancai-pang/)** | great-grandmother |
 | "my two aunts" | **[Zhou Ai Qin](/family/ai-qin-zhou/)**, **[Zhou Ai Hua](/family/ai-hua-zhou/)** | aunts |
 
 > *Source: audio recording made at dinner at No. 109 Yan'an 3rd Road, Qingdao, the weekend of 12&ndash;13 September 2026. Zhou Ling told the story in Chinese; Lijie translated aloud. Master file (7 min 19 sec, m4a) held in the family archive; the two excerpts published here are trimmed from it, with the surrounding table conversation left out. Transcript prepared from the recording's automatic transcription and lightly cleaned; it has not yet been checked line by line against the audio by a Chinese-speaking ear, and the Chinese rendering above is a back-translation of Lijie's English.*
 >
-> *Corrections and added detail: [Zhou Shan 周善](/family/shan-zhou/) by WeChat to Lijie, 20 and 21 September 2026 (screenshots supplied to this archive by Lijie), and Lijie's own follow-up correcting "thirty days" to a year.*
+> *Corrections and added detail: [Zhou Liang 周亮](/family/liang-zhou/) by WeChat to Lijie, 20 and 21 September 2026 (screenshots supplied to this archive by Lijie), and Lijie's own follow-up correcting "thirty days" to a year.*
 
 ### See also
 
 - **[Twenty-four years](/docs/twenty-four-years/)** &mdash; the whole story told straight through, without the apparatus. Start here if you just want to read it.
 - [Zhou Ling's handwritten recollection of his uncle and grandmother](/docs/zhou-ling-uncle-recollection/) &mdash; the written account this recording completes
 - [Zhou Zhaozheng](/family/zhaozheng-zhou/) &mdash; the uncle, and the voided 留校 post
-- [Zhou Jie](/family/jie-zhou/), [Zhou Yi](/family/yi-zhou/), [Zhou Shan](/family/shan-zhou/) &mdash; the three daughters, added to the archive because of this recording
+- [Zhou Yan](/family/yan-zhou/), [Zhou Wei](/family/wei-zhou/), [Zhou Liang](/family/liang-zhou/) &mdash; the three daughters, added to the archive because of this recording
 - [The Zhou, Li and Shang families of Qingdao](/docs/qingdao-families-zhou-li-shang/)
 - [Qingdao](/places/qingdao/)

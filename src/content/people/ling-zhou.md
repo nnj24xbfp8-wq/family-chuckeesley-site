@@ -31,7 +31,7 @@ summary: "Lijie's father. Son of Zhaoxiang Zhou (1930–2022) and Yunzhe Sun (d.
 
 **最后是周玲办成的。** 他动用自己的关系，一家一家地谈，**1991年**把叔叔、婶婶和三个女儿一并迁回青岛；夫妇二人其后皆在青岛市南区浮山所医院工作。奶奶于1992年4月6日去世，在全家迁回**约一年**之后。
 
-那三个女儿 &mdash; 周玲的堂妹[周洁](/family/jie-zhou/)、[周义](/family/yi-zhou/)、[周善](/family/shan-zhou/) &mdash; 若无此事，人生轨迹本应是另一个样子。她们中的两位，在Chuck与丽婕近年的一次青岛之行中，曾与二人同席而食 &mdash; 这条情谊，跨越两代，至今犹在。
+那三个女儿 &mdash; 周玲的堂妹[周燕](/family/yan-zhou/)、[周伟](/family/wei-zhou/)、[周亮](/family/liang-zhou/) &mdash; 若无此事，人生轨迹本应是另一个样子。她们中的两位，在Chuck与丽婕近年的一次青岛之行中，曾与二人同席而食 &mdash; 这条情谊，跨越两代，至今犹在。
 
 [丽婕的母亲](/family/xun-li/) 用最朴素的一句话给这段故事下了定语：*"这件事改变了家族的走向。"* 这一句的分量便是它本身所承载的全部。
 
@@ -81,7 +81,7 @@ His uncle **[Zhou Zhaozheng](/family/zhaozheng-zhou/)** graduated from Qingdao M
 
 **Zhou Ling is the one who got it done.** He worked his own connections, talked to person after person, and in **1991** moved his uncle, his uncle's wife and their **three daughters** back to Qingdao, where both his uncle and his uncle's wife took posts at the Fushansuo Hospital in Shinan District. His grandmother died on 6 April 1992, about **a year** after they came home.
 
-Those three daughters &mdash; his cousins **[Zhou Jie](/family/jie-zhou/)**, **[Zhou Yi](/family/yi-zhou/)** and **[Zhou Shan](/family/shan-zhou/)** &mdash; had lives that would have run a different course without it. Two of them had lunch with Chuck and Lijie on a recent Qingdao visit &mdash; the connection still living, two generations on.
+Those three daughters &mdash; his cousins **[Zhou Yan](/family/yan-zhou/)**, **[Zhou Wei](/family/wei-zhou/)** and **[Zhou Liang](/family/liang-zhou/)** &mdash; had lives that would have run a different course without it. Two of them had lunch with Chuck and Lijie on a recent Qingdao visit &mdash; the connection still living, two generations on.
 
 [Lijie's mother](/family/xun-li/) framed what her husband did in the simplest terms: *"that changed the family's trajectory."* She meant it literally. The Zhou family of the present generation &mdash; the cousins, their children, the holiday meals, the calls across cities &mdash; sits where it sits in part because one nephew spent years pushing paper through a system built to say no.
 

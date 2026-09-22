@@ -45,7 +45,7 @@ summary: "Lijie's paternal great-grandmother. Wife of Maoli Zhou; mother of Zhao
 
 她用别人丢下的菜叶养大三个孩子，供出一个大学生；国家把他调走，她哭到看不见，**临了到底把他等回来了，还等到了一年**。
 
-> *录音中说她在全家迁回后"三十天左右"去世，丽婕其后更正为一年。1991年这个年份由叔叔的幼女[周善](/family/shan-zhou/)于2026年9月提供。*
+> *录音中说她在全家迁回后"三十天左右"去世，丽婕其后更正为一年。1991年这个年份由叔叔的幼女[周亮](/family/liang-zhou/)于2026年9月提供。*
 
 > *注：除姓氏外人名汉字为推测，待家族确认。*
 >
@@ -85,7 +85,7 @@ In September 2026, at a dinner table in Qingdao, [Zhou Ling](/family/ling-zhou/)
 
 The woman who fed three children on other people's discarded vegetables got one of them through medical school, then spent most of the rest of her life unable to get him back into the same city. She got him back, and she got a year of it.
 
-> *The recording puts her death about thirty days after the family's return; Lijie corrected this afterwards to a year, which fits the 1991 arrival her granddaughter [Zhou Shan](/family/shan-zhou/) confirmed against the recorded death date of 6 April 1992.*
+> *The recording puts her death about thirty days after the family's return; Lijie corrected this afterwards to a year, which fits the 1991 arrival her granddaughter [Zhou Liang](/family/liang-zhou/) confirmed against the recorded death date of 6 April 1992.*
 
 > *Note: Chinese characters for given names other than the surname are provisional, pending family confirmation.*
 >
