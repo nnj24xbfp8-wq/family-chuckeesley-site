@@ -62,6 +62,8 @@ Outside the studio he kept a daily tai chi (太极拳) practice &mdash; the slow
 
 A late-life photograph of Lijie's paternal grandfather is in the archive: [a visit with Lijie's parents](/archive/visit-with-zhaoxiang-zhou-and-family/) &mdash; the elder Zhou seated between his son and daughter-in-law, Lijie and Chuck standing behind, taken in a community gathering room with a colorful folk-art mural behind them. A companion frame from the same visit, with one of his daughters and her husband, is in the family's keeping and will be placed when re-uploaded.
 
+More Zhou–Li photographs in the archive: [**Zhaoxiang and his wife [Sun Yunzhe](/family/yunzhe-sun/) as a couple in Qingdao**](/archive/zhou-zhaoxiang-and-sun-yunzhe-couple-qingdao/); the [**1995 family-reunion banquet**](/archive/zhou-li-family-reunion-banquet-1995/) (26 August 1995); [**two early black-and-white Zhou–Li family frames, c. 1960s–70s**](/archive/zhou-li-family-bw-c1960s/); and [**portraits of a young woman with a braid**](/archive/zhou-li-young-woman-braid-c1960s70s/) from the same era, identity still to be confirmed.
+
 The Zhou family of Jiaozhou Shi extends further back than Lijie's paternal grandfather in this archive: his father [Zhou Maoli](/family/maoli-zhou/) (who died in Jiaozhou Shi in 1935, when Zhaoxiang was five), and before him his grandparents [Zhou Huiting](/family/huiting-zhou/) and [Leng](/family/leng-zhou/), are documented as far back as Lijie's family's oral record currently reaches. Zhaoxiang's brother [Zhaozheng](/family/zhaozheng-zhou/) (b. 1938) and sister [Xiuzhen](/family/xiuzhen-zhou/) complete his own sibling set. Further generations may follow as Lijie's family is able to add them.
 
 ## See also — family threads

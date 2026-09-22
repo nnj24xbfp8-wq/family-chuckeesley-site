@@ -73,4 +73,6 @@ In July 2026, her daughter [Li Xun](/family/xun-li/) &mdash; Lijie's mother &mda
 >
 > *&mdash; July 2026*
 
+A [later-life photograph of her in Qingdao](/archive/shang-yaozhen-later-life-qingdao/) is also held in the archive.
+
 > *Structured record: [FamilySearch &mdash; Yaozhen Shang (GMGD-CVV)](https://www.familysearch.org/tree/person/details/GMGD-CVV).*

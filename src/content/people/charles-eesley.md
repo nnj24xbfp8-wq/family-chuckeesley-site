@@ -107,6 +107,17 @@ Condolences signed on the funeral-home guestbook in the weeks after his death:
 
 > *Source: [Charles McMaster Eesley obituary and guestbook](https://www.cawleyandpeoples.com/obituaries/charles-eesley), Cawley &amp; Peoples Funeral Homes, November&ndash;December 2015.*
 
+## Photographs and documents in the archive
+
+Beyond the portraits and wedding frames above, the archive holds:
+
+- [**Formal studio portrait**](/archive/charlie-eesley-formal-studio-portrait/) &mdash; the studio likeness at the head of this page.
+- [**PFC portrait**](/archive/charlie-eesley-pfc-portrait/) and [**in Vietnam, July 1970**](/archive/charlie-eesley-july-1970-vietnam/) &mdash; two Army-years frames, the enlistment portrait and one from in-country.
+- [**On Waikiki, Hawaii, 1971**](/archive/charlie-waikiki-hawaii-1971/) &mdash; from the April 1971 R&R that the [Letters from Vietnam](/docs/letters-from-vietnam/) spent months planning.
+- [**The wedding ceremony**](/archive/eesley-wedding-1971-ceremony/) and [**the wedding party**](/archive/eesley-wedding-1971-party/) &mdash; two more frames from the 1971 wedding day.
+- [**Envelopes from the Vietnam letters**](/archive/charlie-to-terrie-envelopes/) &mdash; the mailed covers of the correspondence to Terrie.
+- [**Birthday note to Chuck, 1990s**](/archive/charlie-to-chuck-birthday-note-1990s/) &mdash; a note in Charlie's hand to his son.
+
 ## See also
 
 He is the middle of [the three Charleses](/docs/the-three-charleses/) — named in 1947 for his grandfather Charles Leonard (skipping his own father Will's first name), with McMaster for his mother Peggy's family. He in turn named his son Charles Eric in 1979. A short essay reads the grandfather-and-grandson naming chain across the three generations.

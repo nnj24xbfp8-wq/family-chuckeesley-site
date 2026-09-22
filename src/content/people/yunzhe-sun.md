@@ -34,4 +34,6 @@ Sun Yunzhe survived her husband [Zhaoxiang Zhou](/family/zhaoxiang-zhou/) by les
 
 She is the mother of [Lijie's father Ling Zhou](/family/ling-zhou/) and his three siblings. Birth date and earlier life are not yet recorded in this archive.
 
+A photograph of her with her husband [Zhaoxiang Zhou](/family/zhaoxiang-zhou/) as a couple in Qingdao is in the archive: [Zhou Zhaoxiang and Sun Yunzhe](/archive/zhou-zhaoxiang-and-sun-yunzhe-couple-qingdao/).
+
 > *Structured record: [FamilySearch &mdash; Yunzhe Sun (GM5W-ZJR)](https://www.familysearch.org/tree/person/details/GM5W-ZJR).*

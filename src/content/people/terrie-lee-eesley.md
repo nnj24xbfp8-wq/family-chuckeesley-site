@@ -134,6 +134,10 @@ Friends, neighbors, colleagues, and family added their own remembrances:
 
 > *Source: [Terrie Lee Bain obituary and tribute wall](https://www.hadleyfh.com/obituaries/Terrie-Lee-Bain?obId=1871041), Hadley Funeral Home, May&ndash;July 2017.*
 
+## Hawaii, 1971
+
+The [April 1971 Hawaii R&R](/docs/letters-from-vietnam/) that Charlie's letters spent months planning left two frames of Terrie: [**on Waikiki**](/archive/terrie-waikiki-hawaii-1971/) during the trip, and [**home from Hawaii**](/archive/terrie-home-from-hawaii-1971/) afterward. They pair with Charlie's own [Waikiki frame](/archive/charlie-waikiki-hawaii-1971/) and the [wedding photographs](/archive/charlie-and-terrie-wedding-portrait-c1972/) that followed.
+
 ## See also — family threads
 
 Terrie is an anchor for four of the ten threads in the [**Family threads**](/docs/family-threads/) synthesis essay:

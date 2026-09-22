@@ -166,6 +166,10 @@ Two newly placed photographs show Robert Earl in the middle of the career rather
 
 - [**The Wildermuth family portrait, mid-1960s**](/archive/wildermuth-family-portrait-1960s/) &mdash; Robert Earl and Dottie with all four children (Terrie and Sandy as teenagers, Debbie school-age, Rob a toddler). The fullest single frame of the household at the height of the Air-Force years.
 - [**Terrie's high school graduation in Japan, c. 1967**](/archive/terrie-high-school-graduation-japan/) &mdash; Robert Earl in **U.S. Air Force dress blues** with command-pilot wings and ribbons, standing beside his eldest daughter at the end of her school-on-the-postings era. This is the closest the archive holds to a clear "career portrait" of him in uniform.
+- [**Air Force officer portrait**](/archive/robert-earl-air-force-officer-portrait/) and [**Lieutenant Colonel portrait**](/archive/robert-earl-wildermuth-lt-colonel-portrait/) &mdash; two formal service portraits spanning his rise through the officer ranks.
+- [**Robert Earl and Dorothy's wedding, 1946**](/archive/robert-earl-dorothy-wedding-1946/) &mdash; the couple on their wedding day, the year after the war.
+- [**First grade, 1930**](/archive/robert-earl-wildermuth-first-grade-1930/) &mdash; the earliest likeness of him in the archive, the Harmar-Street boy before any of the rest of it.
+- [**Medical-records credentials**](/archive/robert-earl-wildermuth-medical-records-credentials/) &mdash; documentation from the post-Air-Force second career as a medical-records administrator in Florida.
 
 
 That his grandson Chuck would join the [Stanford](/places/stanford-university/) faculty seventy-some years later is the generational rhyme this archive was built to record. Robert Earl closed his last manuscript by addressing "future genealogists." This site is one of them answering.
