@@ -25,7 +25,7 @@ summary: "Lijie's paternal great-uncle — brother of her grandfather Zhaoxiang 
 
 2026年8月，Lijie之父[周玲](/family/ling-zhou/)手书[两页回忆](/docs/zhou-ling-uncle-recollection/)，本节即据此而来。
 
-**1966年毕业于青岛医学院本科** &mdash; 正值文化大革命开始之年。彼时大学毕业生稀少，须由国家按需分配。手记称他先被**分配至青海省**（其女周善则记作**宁夏**，见下）。
+**1966年毕业于青岛医学院本科** &mdash; 正值文化大革命开始之年。彼时大学毕业生稀少，须由国家按需分配。手记称他先被**分配至青海省**（其女周亮则记作**宁夏**，见下）。
 
 **家中三个孩子，唯他一人读到大学毕业。** 父亲[周茂礼](/family/maoli-zhou/)早逝时他才一岁多，母亲[庞焕彩](/family/huancai-pang/)独自抚养三子女而无工作，兄[周兆祥](/family/zhaoxiang-zhou/)与姐[周秀珍](/family/xiuzhen-zhou/)只得去当学徒工挣钱养家。
 
@@ -35,15 +35,17 @@ summary: "Lijie's paternal great-uncle — brother of her grandfather Zhaoxiang 
 
 **他自己办调动，终未办成。** 母亲晚年整天叨念，思念幼子，常年流泪以致**双目失明**，说她惟一的心事就是想让他回青岛。他托了不少人办理调动，办了多年始终未成 &mdash; 侄儿周玲还曾陪他到经办人家中送礼。
 
-## 本该留在青岛 — 据幼女周善2026年9月微信
+<p class="not-prose my-4 p-3 border-l-4 border-rule bg-ink/5 text-sm">本页按来源分条记述。若只想读故事本身，见<a href="/docs/twenty-four-years/"><strong>《二十四年》</strong></a>。</p>
 
-手记与录音都从"被分配到外地"讲起。其幼女[周善](/family/shan-zhou/)补出了前面的一节：
+## 本该留在青岛 — 据幼女周亮2026年9月微信
+
+手记与录音都从"被分配到外地"讲起。其幼女[周亮](/family/liang-zhou/)补出了前面的一节：
 
 > *"我爸爸不是文革前毕业的，他是1966年毕业生，他学习成绩优秀本来已经确定了在青岛医学院留校工作，突然爆发文革，所有毕业分配暂停了，留校毕业名单也作废了。"*
 
 **他原本已经留校。** 成绩优异，名单已定，工作就在青岛。文革一起，全国毕业分配冻结，留校名单作废。他失去的不是一个机会，是一份**已经到手的工作**。
 
-那份工作去了哪里，周善说得很直白：
+那份工作去了哪里，周亮说得很直白：
 
 > *"那时比较混乱，原来的留校名单都换成造反派了。"*
 
@@ -66,7 +68,7 @@ summary: "Lijie's paternal great-uncle — brother of her grandfather Zhaoxiang 
 
 手记止于失败。2026年9月，[周玲](/family/ling-zhou/)在青岛[口述了结局](/docs/zhou-ling-bringing-his-uncle-home/)：**后来是侄子办成的。** 周玲动用自己的关系，逐人去谈，最终把他、妻子[Su Ying Xian](/family/su-ying-xian/)与三个女儿一并迁回青岛。
 
-**1991年**，全家自阳信迁回。1967年秋去时二十九岁，回来时五十三岁 &mdash; **在阳信二十四年**。已成家，三个女儿 &mdash; [周洁](/family/jie-zhou/)与[周义](/family/yi-zhou/)（1970年10月18日生的双胞胎）、[周善](/family/shan-zhou/)（1976年4月3日生）。丽婕说，女儿们回青岛"很高兴 &mdash; 日子也好了，教育也好了"。
+**1991年**，全家自阳信迁回。1967年秋去时二十九岁，回来时五十三岁 &mdash; **在阳信二十四年**。已成家，三个女儿 &mdash; [周燕](/family/yan-zhou/)与[周伟](/family/wei-zhou/)（1970年生的双胞胎）、[周亮](/family/liang-zhou/)（1976年生）。丽婕说，女儿们回青岛"很高兴 &mdash; 日子也好了，教育也好了"。
 
 夫妇二人其后皆在**青岛市南区浮山所医院**工作。
 
@@ -74,7 +76,7 @@ summary: "Lijie's paternal great-uncle — brother of her grandfather Zhaoxiang 
 
 > *注：除姓氏外人名汉字为推测，已由Lijie之母于2026年6月确认。*
 >
-> *1967年秋至1991年，在阳信二十四年；自1966年毕业算起二十五年。录音中"将近四十年""六十多岁"二语，系口述约略之辞，今据周善所记年份更正。*
+> *1967年秋至1991年，在阳信二十四年；自1966年毕业算起二十五年。录音中"将近四十年""六十多岁"二语，系口述约略之辞，今据周亮所记年份更正。*
 >
 > *日期存疑：档案记周茂礼卒于1935年，而本人生于1938年 &mdash; 父卒后三年不可能出生。详见[手记页](/docs/zhou-ling-uncle-recollection/)。*
 
@@ -102,7 +104,7 @@ He graduated from **Qingdao Medical College** in **1966** — the year the Cultu
 
 ### He had the job already
 
-His youngest daughter **[Zhou Shan](/family/shan-zhou/)** supplied, in September 2026, the piece of this that nobody had written down:
+His youngest daughter **[Zhou Liang](/family/liang-zhou/)** supplied, in September 2026, the piece of this that nobody had written down:
 
 > *"My dad did not graduate before the Cultural Revolution. He was in the class of 1966. His grades were excellent and he had already been confirmed for a **retained post at Qingdao Medical College**, then the Cultural Revolution suddenly broke out, all graduate assignments were suspended, and the retained-post list was voided."*
 
@@ -151,7 +153,7 @@ He asked many people to arrange a transfer and **worked at it for years without 
 
 The handwritten pages stop there. In September 2026, over dinner in Qingdao, **[Zhou Ling](/family/ling-zhou/)** told [the ending](/docs/zhou-ling-bringing-his-uncle-home/): **the nephew got it through.** He worked his own connections, person by person, until the transfer was approved, and Zhaozheng moved back to Qingdao with his wife **[Su Ying Xian](/family/su-ying-xian/)** and their three daughters.
 
-The year is **1991**, confirmed by his youngest daughter. He had gone out to Yangxin at **twenty-nine** in the autumn of 1967 and came home at **fifty-three** — **twenty-four years** in Yangxin, twenty-five from his graduation — married, with three grown or nearly grown children: **[Zhou Jie](/family/jie-zhou/)** and **[Zhou Yi](/family/yi-zhou/)**, twins born 18 October 1970, and **[Zhou Shan](/family/shan-zhou/)**, born 3 April 1976. Lijie, translating her father, said the daughters were *"very happy to get back, and get better — both life quality and better education."*
+The year is **1991**, confirmed by his youngest daughter. He had gone out to Yangxin at **twenty-nine** in the autumn of 1967 and came home at **fifty-three** — **twenty-four years** in Yangxin, twenty-five from his graduation — married, with three grown or nearly grown children: **[Zhou Yan](/family/yan-zhou/)** and **[Zhou Wei](/family/wei-zhou/)**, twins born in 1970, and **[Zhou Liang](/family/liang-zhou/)**, born in 1976. Lijie, translating her father, said the daughters were *"very happy to get back, and get better — both life quality and better education."*
 
 He and his wife both took posts at the **Fushansuo Hospital in Shinan District** (青岛市南区浮山所医院) — so the transfer carried two medical careers home, not one.
 
