@@ -38,7 +38,7 @@ visits:
     narrator: charles-eric-eesley
     photographer: charles-eric-eesley
     images:
-      - ../../assets/family/originals/Image 9.jpeg
+      - ../../assets/family/originals/chuck-teaching-entrepreneurship-vietnam-ueh-isb.jpeg
     caption: "Chuck has returned to Ho Chi Minh City multiple times in the years since the June 2011 first visit, including teaching trips at local universities with the family foundation. The photograph shows Chuck giving a December 2024 presentation in a lecture hall at the **UEH-International School of Business (UEH-ISB), University of Economics Ho Chi Minh City** — the lectern in front of a projection screen reading 'Ignite Your Business Potential with Intrapreneurship,' the audience of Vietnamese students around three long conference tables. The two-generation geography of Charlie's 1969–71 tour and Chuck's 2024 teaching career in the same city produces an unusual parental-paternal symmetry: the city the father refused to revisit became one the son returned to repeatedly, in 2024 to teach entrepreneurship to its university students fifty-four years after his father had been an infantryman in the country."
     alignmentNote: "The December 2024 lecture-hall photograph and the June 2011 Cu Chi tunnel photographs together make this place's visit history the most layered in the archive — the same geographic point sitting under a soldier's tour (1969–71), a son's tourist visit (2011), a documentary letter sequence (the 1970–71 Vietnam letters), and a returning academic's classroom (2024)."
 ---
