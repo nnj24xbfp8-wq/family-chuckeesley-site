@@ -94,3 +94,7 @@ Will is an anchor for two of the ten threads in the [**Family threads**](/docs/f
 A sepia outdoor portrait from [Roberta Burnes](/family/roberta-burnes/)'s keeping, surfaced June 2026: the [three Eesley brothers — Don (left, ~4), Will (middle, ~2), and Len (right, ~8) — standing on a patch of grass c. 1912](/archive/eesley-three-brothers-c1912/). One of the earliest frames of any of the three in the archive.
 
 ![Three Eesley brothers c. 1912 — Don (left), Will (middle), Len (right). From Roberta Burnes's keeping.](../../assets/family/originals/eesley-three-brothers-c1912.jpeg)
+
+## Eesley family gatherings in the archive
+
+Several group frames: the [family reunion at Highland Ridge, c. 1973](/archive/eesley-family-reunion-highland-ridge-c1973/); the [Eesley siblings with the two Helens, c. 1973 (color)](/archive/eesley-siblings-and-helens-color-c1973/); the [Black Lake cottage group, c. 1928 (second frame)](/archive/black-lake-cottage-group-c1928-second-frame/); and an [Eesley–Wildermuth family group at a restaurant, 1980s](/archive/eesley-wildermuth-family-group-1980s-restaurant/).

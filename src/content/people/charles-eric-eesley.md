@@ -52,6 +52,9 @@ His father [Charlie](/family/charles-eesley/) shipped to [Saigon](/places/saigon
 - The [MIT PhD graduation, 5 June 2009](/archive/mit-phd-graduation-chuck-terrie-2009/) &mdash; with Terrie at the M.I.T. dome.
 - The [Tsinghua University gate (清華園), Beijing](/archive/chuck-at-tsinghua/) &mdash; Chuck at the famous Republican-era main gate of Tsinghua, the closest Chinese counterpart to his Stanford appointment.
 - [**Teaching entrepreneurship in Ho Chi Minh City**](/archive/chuck-teaching-vietnam-ueh-isb/) &mdash; Chuck before a UEH–ISB seminar room in the city his father knew as wartime Saigon; the generational bookend described above.
+- [**Faye Angel with young Chuck and Charlie**](/archive/faye-angel-with-young-chuck-and-charlie/) &mdash; his godmother and sick-day caregiver, with Chuck and his father.
+- [**Stephanie Kamiab feeding baby Chuck at Highland Ridge, c. 1980**](/archive/stephanie-kamiab-feeding-baby-chuck-highland-ridge-c1980/).
+- [**Tenure celebration, Hana House, 2021**](/archive/eesley-tenure-celebration-hana-house-2021/) and [**full-professor celebration, Hana House, 2026**](/archive/eesley-full-professor-celebration-hana-house-2026/) &mdash; with [Lijie](/family/lijie-zhou/).
 - The various [Stanford](/places/stanford-university/), [Old Stratford Rother Street](/places/old-stratford-rother-street/), [Banbury](/places/banbury/), [Rielingshausen church](/places/rielingshausen-church/), and [Lingyin Temple](/places/lingyin-temple-hangzhou/) place pages carry the rest of his pilgrimage photography.
 
 ## Annual practices with Lijie

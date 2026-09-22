@@ -39,3 +39,7 @@ She died **July 1986** in **Hennepin County, Minnesota** (the Minneapolis area),
 She is **Chuck's great-aunt by marriage** on the paternal Eesley side.
 
 > *Source: [Dale Eesley / FamilySearch — Helen Bernadine Alspach (LY62-XPG)](https://www.familysearch.org/tree/person/details/LY62-XPG); [c. 1971–1972 Eesley extended family reunion portrait](/archive/highland-ridge-family-group-portrait-c-1980/) typed caption.*
+
+## More photographs in the archive
+
+[Big Helen with her son Tommy, 1938](/archive/big-helen-with-son-tommy-1938/), and [Leonard and Big Helen in Miami, April 1930](/archive/leonard-and-big-helen-miami-april-1930/).

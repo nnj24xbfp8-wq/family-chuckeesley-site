@@ -73,6 +73,7 @@ Ling and Xun married in **1982 in [Qingdao](/places/qingdao/)**. Lijie was born 
 - A portrait from the early 1990s shows **young Lijie standing next to her father [Ling Zhou](/family/ling-zhou/) in a service uniform of the period**, indoors. He drove for government officials in these years. Set as Ling Zhou's portrait on his page.
 - A second 2010s frame from the heart of Qingdao &mdash; Lijie in a dark coat and red gloves, waving at the gate of [**Dexian Road Elementary School (德县路小学)**](/archive/lijie-at-dexian-road-elementary/) in the **Shinan district** old town, with the twin red-roofed towers of [St Michael's Cathedral](/places/qingdao/) visible just beyond the schoolyard. Her primary school in front, the cathedral behind &mdash; the entire walking-radius geography of her Qingdao childhood in one image.
 - The **maternal-side early-childhood set (c. 1984–88)** on the [maternal early-childhood page](/archive/lijie-grandparents-early-childhood-qingdao-c1980s/) &mdash; infant Lijie with her mother [Xun Li](/family/xun-li/) and grandmother [Yaozhen](/family/yaozhen-shang/) (c. 1984), and, a few years on (c. 1988), a young Lijie seated beside her great-aunt [Yaoxiang](/family/yaoxiang-shang/), who holds baby cousin [Junjun](/family/ding-lijun/).
+- [**Three generations in Qingdao, 2009**](/archive/zhou-li-three-generations-qingdao-2009/) &mdash; Lijie with her paternal grandparents [Zhaoxiang](/family/zhaoxiang-zhou/) and [Yunzhe Sun](/family/yunzhe-sun/).
 
 ## What's still to add
 

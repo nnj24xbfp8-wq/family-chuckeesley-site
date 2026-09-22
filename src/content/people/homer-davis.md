@@ -96,3 +96,7 @@ The Waterford family home where Dorothy was born is one of the photographs repro
 His [1982 obituary](/docs/homer-davis-obituary-1982/) fills in the shape of a full life: he **graduated from Waterford High School with the class of 1919**, worked for the **Standard Oil Company of Ohio**, and was a **Mason (Mt. Moriah Lodge 37 F&AM at Beverly)** and a member of the **Lower Muskingum Historical Society** at Beverly. In later life he and his second wife moved to **Matlacha / Pine Island, Florida**, where he belonged to the Pine Island United Methodist Church. He died at Cape Coral on 13 January 1982, age 81, leaving eleven grandchildren and four great-grandchildren; Masonic services were held at the McCurdy Funeral Home in Beverly.
 
 > *Sources: [Homer Davis obituary, January 1982](/docs/homer-davis-obituary-1982/); [Dorothy Marie Davis's birth certificate, 24 February 1925](/docs/wildermuth-fleming-heritage-1990/); [Dorothy Marie Wildermuth funeral program, 13 August 2010](/family/dorothy-davis-wildermuth/); [Eesley/Wildermuth GEDCOM tree](/docs/dale-eesley-familysearch-tree/).*
+
+## More photographs in the archive
+
+[Homer Davis with Betty and Norm Wolfe, c. 1968](/archive/homer-davis-with-betty-and-norm-wolfe-c1968/), and [Homer with his son William Harvey, c. 1943](/archive/homer-davis-with-son-william-harvey-c1943/).

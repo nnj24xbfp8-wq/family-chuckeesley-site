@@ -33,3 +33,7 @@ The Ullmann surname signals a likely German-immigrant line in southeastern Ohio 
 Page is a stub. Clara's parents, the Ullmann immigrant generation, and her three other children with Harvey are open research items.
 
 > *Sources: [Eesley/Wildermuth GEDCOM tree](/docs/dale-eesley-familysearch-tree/) (June 2026 trace) &mdash; FamilySearch tree ID MFBT-917 for Clara Victoria Ullmann confirms birth 8 Jul 1885 Washington Monroe County Ohio, marriage 15 Jun 1904 to Harvey Hendershot Hill, death 15 Oct 1941.*
+
+## Photograph in the archive
+
+[Clara (Ullmann) Hill with her daughters Emma and Louella, c. 1935](/archive/clara-ullmann-hill-with-daughters-emma-louella-c1935/).

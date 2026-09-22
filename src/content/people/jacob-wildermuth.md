@@ -63,3 +63,7 @@ The clothing style — the women's high-collared dark dresses with fitted bodice
 - **Does the Württemberg side of Dale's tree, deepening backward, eventually connect Jacob to Robert Earl through a common 18th-century ancestor?** Possible — the Rielingshausen and Großaspach Wildermuths intermarried over generations, and a Jacob Wildermuth surname-bearer of the right age would likely fall within the broader Württemberg family network.
 
 > *Source: Family-archived photograph transmitted by Chuck Eesley 2026. Cast identification by Chuck Eesley: "Wildermuth Family. Back Men — LtoR — Charles E, John 'Leb', Harry J, Jesse W. Women Middle LtoR — Maude B, Lucy, Zella M, 'Lanessa' Louise. Jacob and Elizabeth sitting. Troy B middle."*
+
+## Photograph in the archive
+
+[Jacob and Elizabeth Wildermuth family group portrait](/archive/jacob-elizabeth-wildermuth-family-group-portrait/).

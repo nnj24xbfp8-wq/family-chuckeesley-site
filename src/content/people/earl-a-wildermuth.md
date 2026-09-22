@@ -67,3 +67,7 @@ The [Marietta city directories](/archive/marietta-city-directories-wildermuth/) 
 [Robert Earl](/family/robert-earl-wildermuth/) was born at home on **123 Franklin Street** in May 1924, between those two directories. Either the family moved along the same street in the year or two after, or one of the two numbers is misread. Both are Franklin Street, which is where this generation of the family lived.
 
 > *Sources: [The Wildermuth/Fleming Heritage by Robert Earl Wildermuth, 1990](/docs/wildermuth-fleming-heritage-1990/); [Robert Earl Wildermuth's 1989 memoir](/docs/robert-earl-wildermuth-memoir/); [Marietta city directory extracts](/archive/marietta-city-directories-wildermuth/); Sadye I. (Mrs. Earl) Wildermuth obituary, Marietta Times, c. 1976; family collection.*
+
+## In the archive
+
+Two items: [Earl Adam Wildermuth's funeral card, 1977](/archive/earl-adam-wildermuth-funeral-card-1977/), and the [Industrial Commission of Ohio award ceremony](/archive/industrial-commission-of-ohio-award-ceremony/) photograph.

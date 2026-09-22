@@ -197,3 +197,7 @@ For historical context on the world Robert Earl was navigating through:
 - [The 90th Bomb Group "Jolly Rogers"](https://en.wikipedia.org/wiki/90th_Operations_Group) on Wikipedia &mdash; the unit, the B-24s, the Pacific airfields he flew out of.
 - [*Wings of Morning: The Story of the Last American Bomber Shot Down over Germany in World War II*](https://www.goodreads.com/book/show/326862.Wings_Of_Morning) by Thomas Childers &mdash; on what a B-24 crew was, and was to each other.
 - [The GI Bill](https://en.wikipedia.org/wiki/G.I._Bill) on Wikipedia &mdash; the program that took Robert Earl from a Pacific airfield to Stanford in two years.
+
+## Documents and research records
+
+Alongside the photographs, the archive holds several Wildermuth-and-Fleming records: [the Doddridge County register of deeds and Eli Fleming's service](/archive/doddridge-registers-deeds-and-eli-fleming-service/); the [Erling family group record (no. 203)](/archive/erling-family-group-record-203/); the ["Dear Cousins" Fleming letter, 1998](/archive/fleming-dear-cousins-1998/); the [Johann David Wildermuth descendants book, 1965](/archive/johann-david-wildermuth-descendants-book-1965/); and the [German-research maps](/archive/wildermuth-german-research-maps/) behind the family's Württemberg tracing.
