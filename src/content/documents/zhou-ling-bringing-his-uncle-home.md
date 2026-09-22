@@ -338,6 +338,7 @@ The earlier telling came from the family too. It is not invented &mdash; it is w
 
 ### See also
 
+- **[Twenty-four years](/docs/twenty-four-years/)** &mdash; the whole story told straight through, without the apparatus. Start here if you just want to read it.
 - [Zhou Ling's handwritten recollection of his uncle and grandmother](/docs/zhou-ling-uncle-recollection/) &mdash; the written account this recording completes
 - [Zhou Zhaozheng](/family/zhaozheng-zhou/) &mdash; the uncle, and the voided 留校 post
 - [Zhou Jie](/family/jie-zhou/), [Zhou Yi](/family/yi-zhou/), [Zhou Shan](/family/shan-zhou/) &mdash; the three daughters, added to the archive because of this recording

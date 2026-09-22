@@ -35,6 +35,8 @@ summary: "Lijie's paternal great-uncle — brother of her grandfather Zhaoxiang 
 
 **他自己办调动，终未办成。** 母亲晚年整天叨念，思念幼子，常年流泪以致**双目失明**，说她惟一的心事就是想让他回青岛。他托了不少人办理调动，办了多年始终未成 &mdash; 侄儿周玲还曾陪他到经办人家中送礼。
 
+<p class="not-prose my-4 p-3 border-l-4 border-rule bg-ink/5 text-sm">本页按来源分条记述。若只想读故事本身，见<a href="/docs/twenty-four-years/"><strong>《二十四年》</strong></a>。</p>
+
 ## 本该留在青岛 — 据幼女周善2026年9月微信
 
 手记与录音都从"被分配到外地"讲起。其幼女[周善](/family/shan-zhou/)补出了前面的一节：

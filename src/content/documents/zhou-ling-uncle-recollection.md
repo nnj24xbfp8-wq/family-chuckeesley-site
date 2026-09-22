@@ -105,7 +105,7 @@ As time passed my grandmother grew old, and muttered about it all day long. **Ou
 
 He asked a great many people to arrange a transfer. **He worked at it for years and it never came through.** I even went with my uncle to the homes of the officials handling the transfer, to bring them gifts.
 
-<p class="not-prose my-6 p-4 border-l-4 border-amber-700 bg-amber-50/60 dark:bg-amber-950/20 text-sm"><strong>The handwritten pages stop here &mdash; but the story does not.</strong> In September 2026, over dinner at No. 109 Yan'an 3rd Road in Qingdao, Zhou Ling <a href="/docs/zhou-ling-bringing-his-uncle-home/">told the ending out loud</a>: the transfer his uncle could not obtain, the nephew did. Five people moved back to Qingdao in <strong>1991</strong>, and his grandmother died on 6 April 1992, about a year later.</p>
+<p class="not-prose my-6 p-4 border-l-4 border-amber-700 bg-amber-50/60 dark:bg-amber-950/20 text-sm"><strong>The handwritten pages stop here &mdash; but the story does not.</strong> In September 2026, over dinner at No. 109 Yan'an 3rd Road in Qingdao, Zhou Ling <a href="/docs/zhou-ling-bringing-his-uncle-home/">told the ending out loud</a>: the transfer his uncle could not obtain, the nephew did. Five people moved back to Qingdao in <strong>1991</strong>, and his grandmother died on 6 April 1992, about a year later. The whole story, told straight through: <a href="/docs/twenty-four-years/"><strong>Twenty-four years</strong></a>.</p>
 
 ### Who is who
 
