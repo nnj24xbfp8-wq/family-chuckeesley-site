@@ -30,7 +30,7 @@ summary: "Lijie's father Zhou Ling wrote out, by hand, the story of his uncle Zh
 
 我的叔叔是 1966 年青岛医学院本科毕业生，也就是中国文化大革命开始的那一年。在当时中国大学毕业生是很稀缺的，他们毕业后国家要按需要分配到祖国各地去工作的。当时他被分配到青海省工作。
 
-<p class="not-prose my-4 p-3 border-l-4 border-amber-700 bg-amber-50/60 dark:bg-amber-950/20 text-sm"><strong>此处与叔叔之女所记不同：</strong><a href="/family/liang-zhou/">周亮</a>（周兆帧幼女）2026年9月记作<strong>宁夏</strong>，非青海，且谓那是&ldquo;放羊的荒滩&rdquo;而非医院；改派山东亦非向校方申诉而成，而是<strong>与同学对换</strong>。两说并存，未作取舍 &mdash; 详见<a href="/family/zhaozheng-zhou/">其页</a>。</p>
+<p class="not-prose my-4 p-3 border-l-4 border-amber-700 bg-amber-50/60 dark:bg-amber-950/20 text-sm"><strong>此处与叔叔之女所记不同：</strong><a href="/family/liang-zhou/">周亮</a>（周兆帧幼女）2026年9月记作<strong>宁夏</strong>，非青海，且谓分配的是<strong>宁夏的乡镇医院</strong>（仍是国家干部编制的医生）；改去山东亦非向校方申诉而成，而是<strong>与同学对换</strong> &mdash; 那年学校管理混乱，去艰苦地区的乡镇医院，双方同学同意即可。两说并存，未作取舍 &mdash; 详见<a href="/family/zhaozheng-zhou/">其页</a>。</p>
 
 我奶奶在四十岁时我的爷爷就去世了，奶奶一个人抚养 3 个孩子，又没有工作。当时我叔叔一岁多，只有我爸爸和姑姑去当学徒工，来挣钱养家。我听爸爸说奶奶经常去菜市场捡菜叶或捡人不要的蔬菜来家吃维持生活。
 
@@ -83,7 +83,7 @@ summary: "Lijie's father Zhou Ling wrote out, by hand, the story of his uncle Zh
 
 My uncle graduated from **Qingdao Medical College** in **1966** — the year the Cultural Revolution began in China. University graduates in China were very scarce then, and after graduating the state assigned them, according to need, to work anywhere in the country. He was assigned to **Qinghai Province**.
 
-<p class="not-prose my-4 p-3 border-l-4 border-amber-700 bg-amber-50/60 dark:bg-amber-950/20 text-sm"><strong>His daughter remembers this differently.</strong> <a href="/family/liang-zhou/">Zhou Liang</a>, Zhaozheng's youngest, said in September 2026 that the posting was to <strong>Ningxia</strong>, not Qinghai, and that it was not a hospital at all but <em>"the barren land&hellip; herding sheep."</em> She also says he reached Shandong by <strong>swapping with a classmate</strong> rather than by appealing to the college. Both accounts are kept; neither has been adopted. See <a href="/family/zhaozheng-zhou/">his page</a>.</p>
+<p class="not-prose my-4 p-3 border-l-4 border-amber-700 bg-amber-50/60 dark:bg-amber-950/20 text-sm"><strong>His daughter remembers this differently.</strong> <a href="/family/liang-zhou/">Zhou Liang</a>, Zhaozheng's youngest, said in September 2026 that the posting was to a <strong>township hospital in Ningxia</strong>, not Qinghai &mdash; still practising medicine, still on the state cadre establishment. She also says he reached Shandong by <strong>swapping with a classmate</strong> rather than by appealing to the college: with the college's administration in disarray, a trade of hardship postings needed only the two students' agreement. Both accounts are kept; neither has been adopted. See <a href="/family/zhaozheng-zhou/">his page</a>.</p>
 
 ### The household he came from
 

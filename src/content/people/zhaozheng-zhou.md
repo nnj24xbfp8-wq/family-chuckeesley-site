@@ -11,8 +11,9 @@ parents:
   - huancai-pang
 spouses:
   - su-ying-xian
+portrait: ../../assets/family/originals/zhou-zhaozheng-portrait.jpeg
 status: sketch
-summary: "Lijie's paternal great-uncle — brother of her grandfather Zhaoxiang Zhou. Born 1938 in Jiaozhou Shi; married Su Ying Xian. The only one of his mother's three children to reach university, he graduated top of the 1966 class at Qingdao Medical College and had already been confirmed for a retained post at the college — a job in Qingdao — when the Cultural Revolution broke out and the retained-post list was scrapped, the places going to the rebel factions. His own assignment was held up a year and then sent him to herd sheep on waste ground in the northwest; he swapped postings with a classmate instead and reached Yangxin County, in the far north of Shandong beyond the Yellow River, in autumn 1967. Twenty-four years there — first the Zhaiwang township hospital, then from 1974 the county traditional-medicine hospital where his wife worked — rising to deputy chief physician, the ceiling for a district hospital. His own attempts to transfer home never succeeded, and his mother went blind waiting for him, but his nephew Zhou Ling eventually got it through: in 1991 he returned to Qingdao with his wife and three daughters, both he and his wife taking posts at the Fushansuo Hospital in Shinan District. His mother died about a year later."
+summary: "Lijie's paternal great-uncle — brother of her grandfather Zhaoxiang Zhou. Born 1938 in Jiaozhou Shi; married Su Ying Xian. The only one of his mother's three children to reach university, he graduated top of the 1966 class at Qingdao Medical College and had already been confirmed for a retained post at the college — a job in Qingdao — when the Cultural Revolution broke out and the retained-post list was scrapped. His own assignment was then held up a year before sending him to a township hospital in Ningxia, two thousand kilometres away; he traded postings with a classmate instead and reached Yangxin County, in the far north of Shandong beyond the Yellow River, in autumn 1967. Twenty-four years there — first the Zhaiwang township hospital, then from 1974 the county traditional-medicine hospital where his wife worked — rising to deputy chief physician, the ceiling for a district hospital. His own attempts to transfer home never succeeded, and his mother went blind waiting for him, but his nephew Zhou Ling eventually got it through: in 1991 he returned to Qingdao with his wife and three daughters, both he and his wife taking posts at the Fushansuo Hospital in Shinan District. His mother died about a year later; he retired in 2001."
 ---
 
 <p class="not-prose my-4 p-3 border-l-4 border-rule bg-ink/5 text-sm"><strong>📖 English version below — <a href="#en">Jump to English ↓</a></strong> &nbsp;·&nbsp; <em>本页中文在上，英文见下方。</em></p>
@@ -43,25 +44,23 @@ summary: "Lijie's paternal great-uncle — brother of her grandfather Zhaoxiang 
 
 > *"我爸爸不是文革前毕业的，他是1966年毕业生，他学习成绩优秀本来已经确定了在青岛医学院留校工作，突然爆发文革，所有毕业分配暂停了，留校毕业名单也作废了。"*
 
-**他原本已经留校。** 成绩优异，名单已定，工作就在青岛。文革一起，全国毕业分配冻结，留校名单作废。他失去的不是一个机会，是一份**已经到手的工作**。
+**他原本已经留校。** 成绩优异，名单已定，工作就在青岛。文革一起，全国毕业分配冻结，**留校名单作废**。他失去的不是一个机会，是一份**已经到手的工作**。
 
-那份工作去了哪里，周亮说得很直白：
-
-> *"那时比较混乱，原来的留校名单都换成造反派了。"*
-
-**留校的名额并未取消，只是换了人。** 按成绩定的名单作废，位置给了造反派。
+> *名单作废之后，那些位置给了谁，家中并不知道。周亮说：只知道原留校名单作废了，"具体换成谁了只有查阅青岛医学院档案才有答案"。本档案不作推测。*
 
 ## 一年的延宕，与一次对换 — 1967年秋
 
 > *"我爸爸是1967年秋天分配到阳信的，文革原因延迟分配一年，当时学校给补发了大概八个月的工资。"*
 >
-> *"我爸爸本来分配到大西北宁夏放羊的荒滩，和同学换了，到了山东最北边也就是黄河以北的阳信县翟王乡镇医院，1974年又调动到我妈妈所在的阳信县中医院。"*
+> *"我爸爸原本分配到大西北宁夏的乡镇医院，他自己和同学换了，当时学校管理混乱，去艰苦的乡镇医院双方同学互相同意就可以。"*
+>
+> *"他们这一届虽然延迟一年分配到边远地区的乡镇医院，但都属于国家干部编制的医生。"*
 
 四点：
 
 1. **分配延迟整整一年**，1966年毕业，**1967年秋**才到阳信。学校事后**补发约八个月工资** &mdash; 这一年的空悬，校方是认账的。
-2. **原分配地是宁夏**（手记作青海），且**不是医院，是放羊的荒滩**。一个刚毕业的医科生，分去大西北牧羊。
-3. **他是和同学对换才去的阳信** &mdash; 不是申诉换来的照顾，是两个年轻人私下把各自的去处换了。
+2. **原分配地是宁夏的乡镇医院**（手记作青海）。仍是医生，仍属**国家干部编制** &mdash; 这一届人虽被发落到边远乡镇，身份未降。降的是距离：青岛到宁夏两千公里。
+3. **他是和同学对换才去的阳信。** 那年学校管理混乱，去艰苦地区的乡镇医院，**双方同学彼此同意即可** &mdash; 不必申请，不必批准。两个年轻人各自接过对方的去处。
 4. 阳信在**山东最北、黄河以北**。他先在**翟王乡镇医院**（乡镇一级，比县级更低），**1974年**才调入[妻子](/family/su-ying-xian/)所在的**阳信县中医院**。
 
 ## 终于回来 — 1991年
@@ -73,6 +72,8 @@ summary: "Lijie's paternal great-uncle — brother of her grandfather Zhaoxiang 
 夫妇二人其后皆在**青岛市南区浮山所医院**工作。
 
 **母亲[庞焕彩](/family/huancai-pang/)于1992年4月6日去世，在全家迁回约一年之后。**
+
+**2001年退休。** 自1967年秋到任，行医三十四年，其中二十四年在阳信。
 
 > *注：除姓氏外人名汉字为推测，已由Lijie之母于2026年6月确认。*
 >
@@ -108,27 +109,23 @@ His youngest daughter **[Zhou Liang](/family/liang-zhou/)** supplied, in Septemb
 
 > *"My dad did not graduate before the Cultural Revolution. He was in the class of 1966. His grades were excellent and he had already been confirmed for a **retained post at Qingdao Medical College**, then the Cultural Revolution suddenly broke out, all graduate assignments were suspended, and the retained-post list was voided."*
 
-A 留校 post — being kept on by your own institution — went to the top of a graduating class, and it would have kept him in Qingdao, in a teaching hospital, near his mother. **The list existed and his name was on it.** Then the Cultural Revolution broke out, graduate placement stopped nationwide, and the list was cancelled.
+A 留校 post — being kept on by your own institution — went to the top of a graduating class, and it would have kept him in Qingdao, in a teaching hospital, near his mother. **The list existed and his name was on it.** Then the Cultural Revolution broke out, graduate placement stopped nationwide, and **the list was scrapped**. He did not lose a chance. He lost a job he already had.
 
-His daughter is specific about where those posts went:
-
-> *"那时比较混乱，原来的留校名单都换成造反派了。"*
->
-> "It was chaotic then. The original retained-post list was all swapped out for 造反派."
-
-**The posts were not abolished. They were reassigned.** The list drawn up on academic merit was scrapped and the places went to members of the rebel factions. Everything that follows in his life happens because of that substitution.
+> *Who received those posts afterwards is not known to the family, and this archive does not guess. As his daughter puts it: she knows only that the original list was voided, and "who it was changed to would only be answered by consulting the Qingdao Medical College archives."*
 
 ### A year in limbo, and a swap — autumn 1967
 
 > *"My dad was assigned to Yangxin in the autumn of 1967. The assignment was delayed a year because of the Cultural Revolution, and the college back-paid him about eight months' wages."*
 >
-> *"My dad was originally assigned to the barren land of Ningxia in the far northwest, herding sheep. He swapped with a classmate, and went to the northernmost part of Shandong, north of the Yellow River — the Zhaiwang Township Hospital in Yangxin County. In 1974 he transferred again, to the Yangxin County Traditional Chinese Medicine Hospital where my mother worked."*
+> *"My dad was originally assigned to a township hospital in Ningxia, in the far northwest. He swapped with a classmate himself. Administration at the college was chaotic then — for going to a hard-posting rural township hospital, it was enough for the two classmates to agree with each other."*
+>
+> *"Although their cohort was delayed a year and assigned to township hospitals in remote areas, they were all doctors on the state cadre establishment."*
 
 Four things here that the archive did not have:
 
 1. **The delay was a full year.** He graduated in 1966 and did not reach Yangxin until **autumn 1967**, and the college **back-paid roughly eight months of wages** for the interval. The institution acknowledged, in money, that it had left him in limbo.
-2. **The first assignment was Ningxia, and it was not medicine.** Not a hospital: **barren land, herding sheep**. A newly qualified doctor sent to mind livestock in the northwest. *(His nephew's handwritten pages say Qinghai rather than Ningxia — see the note below.)*
-3. **He got out of it by swapping with a classmate.** Not by appeal, not by anyone's mercy. Two young men traded their postings between themselves.
+2. **The first assignment was a township hospital in Ningxia.** *(His nephew's handwritten pages say Qinghai — see the note below.)* He would still have been practising medicine, still on the **state cadre establishment** (国家干部编制); the whole delayed cohort went to remote township hospitals without losing that standing. What the posting cost him was distance: two thousand kilometres from his mother.
+3. **He got out of it by swapping with a classmate, himself.** Not by appeal and not by anyone's mercy. With the college's administration in disarray, a trade of hardship postings between two students needed nothing but their mutual agreement — no application, no approval.
 4. **Yangxin was two postings, not one.** He began at the **Zhaiwang Township Hospital** (翟王乡镇医院) — township level, a rung below county — in the far north of Shandong beyond the Yellow River, and only in **1974** moved to the **Yangxin County Traditional Chinese Medicine Hospital**, where his wife [Su Ying Xian](/family/su-ying-xian/) already worked.
 
 > *Two conflicts with [the handwritten pages](/docs/zhou-ling-uncle-recollection/), recorded rather than resolved: his nephew wrote **Qinghai**, his daughter says **Ningxia**; and his nephew wrote that he **appealed to the college on grounds of family hardship**, where his daughter says he **swapped with a classmate**. Both could be true in sequence — an appeal that failed, then a private trade — but the archive should not assume so. The daughter was in the household; the nephew was writing sixty years on about his uncle.*
@@ -158,6 +155,14 @@ The year is **1991**, confirmed by his youngest daughter. He had gone out to Yan
 He and his wife both took posts at the **Fushansuo Hospital in Shinan District** (青岛市南区浮山所医院) — so the transfer carried two medical careers home, not one.
 
 **His mother [Pang Huancai](/family/huancai-pang/) died on 6 April 1992, about a year after they came back.** She got the year.
+
+### Retirement
+
+He **retired in 2001**, thirty-four years after taking up the posting in the autumn of 1967 — twenty-four of them in Yangxin, ten back in his own city.
+
+### The portrait
+
+The photograph at the head of this page is **the first image of him the archive holds**. It is a formal portrait against the blue studio ground used for Chinese identity and work photographs — dark jacket, white shirt and tie, wire-rimmed glasses — and what reached the archive is a phone photograph of the original print, creased across one corner and sitting on a wooden table. His daughter [Zhou Liang](/family/liang-zhou/) sent it in September 2026.
 
 > *The spoken account said "almost forty years" and "already in his sixties, maybe," and put his mother's death thirty days after the return. All three were approximations, corrected here against the dates his daughter supplied and Lijie's own follow-up. See [the recording page](/docs/zhou-ling-bringing-his-uncle-home/).*
 

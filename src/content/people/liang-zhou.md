@@ -10,7 +10,7 @@ parents:
   - su-ying-xian
 living: true
 status: sketch
-summary: "Youngest daughter of Zhaozheng Zhou and Su Ying Xian, born 1976 in her father's posting in Yangxin County; known in the family as Liang Liang 亮亮. She was fifteen when the transfer back to Qingdao came through in 1991, so she is the one of the three sisters whose schooling the move most changed. In September 2026 she supplied, by WeChat, most of what this archive knows about her father's working life — the 1991 return, her parents' hospital in Qingdao, the retained post at Qingdao Medical College that the Cultural Revolution handed to the rebel factions, the year his assignment sat in limbo, the sheep-herding posting in the northwest he escaped by trading with a classmate, and the two Yangxin hospitals he worked in. Recorded here under the name the family uses, and with the birth year only, at the sisters' request."
+summary: "Youngest daughter of Zhaozheng Zhou and Su Ying Xian, born 1976 in her father's posting in Yangxin County; known in the family as Liang Liang 亮亮. She was fifteen when the transfer back to Qingdao came through in 1991, so she is the one of the three sisters whose schooling the move most changed. In September 2026 she supplied, by WeChat, most of what this archive knows about her father's working life — the 1991 return, her parents' hospital in Qingdao, the retained post at Qingdao Medical College that the Cultural Revolution scrapped, the year his assignment sat in limbo, the Ningxia township hospital he was posted to and escaped by trading with a classmate, the two Yangxin hospitals he worked in, and his 2001 retirement. She also sent the first photograph of him this archive holds. Recorded here under the name the family uses, and with the birth year only, at the sisters' request."
 ---
 
 <p class="not-prose my-4 p-3 border-l-4 border-rule bg-ink/5 text-sm"><strong>📖 English version below &mdash; <a href="#en">Jump to English ↓</a></strong> &nbsp;·&nbsp; <em>本页中文在上，英文见下方。</em></p>
@@ -29,7 +29,9 @@ summary: "Youngest daughter of Zhaozheng Zhou and Su Ying Xian, born 1976 in her
 
 这一句改写了此前的记述：她父亲原本**不必离开青岛**。
 
-次日她又补来三条，把1966年毕业到抵达阳信之间的空白填上了 &mdash; **留校名单"都换成造反派了"**；**分配延迟一年，学校补发约八个月工资**，1967年秋才到阳信；**原分配地是大西北放羊的荒滩**，他**和同学对换**才去了山东，先在**翟王乡镇医院**，1974年才调入母亲所在的**阳信县中医院**。
+其后她又陆续补上：**分配延迟一年，学校补发约八个月工资**，1967年秋才到阳信；**原分配地是宁夏的乡镇医院**，仍是国家干部编制的医生，他**自己和同学对换**才去了山东 &mdash; 那年学校管理混乱，去艰苦地区的乡镇医院，双方同学同意即可。他先在**翟王乡镇医院**，1974年才调入母亲所在的**阳信县中医院**；**2001年退休**。
+
+她其后又主动修正了自己先前两处措辞，本档案均已依其意改定：留校名单作废之后位置给了谁，家中并不知道，非查阅青岛医学院档案不能答；宁夏那一处是乡镇医院。
 
 全部经过见[《二十四年》](/docs/twenty-four-years/)；来源与考辨见[录音页](/docs/zhou-ling-bringing-his-uncle-home/)与[父亲页](/family/zhaozheng-zhou/)。
 
@@ -55,12 +57,14 @@ That single sentence changes the shape of her father's story: **he was not suppo
 
 The following day she filled in the years between his 1966 graduation and his arrival in Yangxin, which no one in the family had recorded:
 
-- the retained-post list *"was all swapped out for 造反派"* — the places went to the rebel factions
 - his assignment was **held up a full year**, and the college **back-paid about eight months' wages**; he reached Yangxin in **autumn 1967**
-- his original posting was **waste ground in the far northwest, herding sheep**, and he **swapped with a classmate** to get to Shandong instead
-- he began at the **Zhaiwang township hospital**, moving to the county traditional-medicine hospital where her mother worked only in **1974**
+- his original posting was **a township hospital in Ningxia** — still a doctor, still on the state cadre establishment — and he **swapped with a classmate** to get to Shandong instead, which in that chaotic year needed nothing but the two students' agreement
+- he began at the **Zhaiwang township hospital**, moving to the county traditional-medicine hospital where her mother worked only in **1974**, and **retired in 2001**
+- her mother was **assigned to the Yangxin county hospital on her own graduation**, and that is where her parents met
 
-Four short messages, and a quarter-century of one man's life goes from a summary to a sequence. The story is at **[Twenty-four years](/docs/twenty-four-years/)**; the sources and the working-out are on [the recording page](/docs/zhou-ling-bringing-his-uncle-home/) and [her father's page](/family/zhaozheng-zhou/).
+She has since refined two of her own earlier phrasings, unprompted, and the archive has followed her: the family does not know who received the retained posts once the list was voided — only the Qingdao Medical College archives could answer that — and the Ningxia assignment was a township hospital.
+
+A handful of messages, and a quarter-century of one man's life goes from a summary to a sequence. The story is at **[Twenty-four years](/docs/twenty-four-years/)**; the sources and the working-out are on [the recording page](/docs/zhou-ling-bringing-his-uncle-home/) and [her father's page](/family/zhaozheng-zhou/).
 
 > *Details withheld — living. She is recorded here under the name the family uses, and with the birth year only, at the sisters' request.*
 >

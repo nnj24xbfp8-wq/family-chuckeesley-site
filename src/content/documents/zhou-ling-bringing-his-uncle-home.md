@@ -115,22 +115,23 @@ summary: "Eight weeks after Lijie's father wrote out by hand the story of his un
 
 在此之前，本档案所记的故事都从"被分配到外地"讲起。而这一句说：**他本来根本不必走。** 留校是给一届里最拔尖的人的，名单已定 &mdash; 工作在青岛，在教学医院，与母亲同城。**名单上有他的名字**，文革一起，名单作废。
 
-此后二十余年的种种 &mdash; 大西北的荒滩、阳信、哭瞎了眼的母亲、侄子多年的奔走、五个人被改道的一生 &mdash; 皆自1966年夏天一纸名单的换人而来。
+此后二十余年的种种 &mdash; 宁夏、阳信、哭瞎了眼的母亲、侄子多年的奔走、五个人被改道的一生 &mdash; 皆自1966年夏天一纸名单的作废而来。
+
+> *名单作废之后那些位置给了谁，家中并不知道，本档案不作推测。周亮只知原名单作废，"具体换成谁了只有查阅青岛医学院档案才有答案"。*
 
 ## 延宕一年，与一次对换 — 1967年秋
 
-次日她又补来三条，把1966年毕业到抵达阳信之间那段空白填上了：
+次日与其后，她又把1966年毕业到抵达阳信之间那段空白填上了：
 
 > *"我爸爸是1967年秋天分配到阳信的，文革原因延迟分配一年，当时学校给补发了大概八个月的工资。"*
 >
-> *"那时比较混乱，原来的留校名单都换成造反派了。"*
+> *"我爸爸原本分配到大西北宁夏的乡镇医院，他自己和同学换了，当时学校管理混乱，去艰苦的乡镇医院双方同学互相同意就可以。"*
 >
-> *"我爸爸本来分配到大西北宁夏放羊的荒滩，和同学换了，到了山东最北边也就是黄河以北的阳信县翟王乡镇医院，1974年又调动到我妈妈所在的阳信县中医院。"*
+> *"他们这一届虽然延迟一年分配到边远地区的乡镇医院，但都属于国家干部编制的医生。"*
 
-- **留校名额没有取消，是换了人。** 按成绩排的名单作废，位置给了造反派。
 - **分配延迟整整一年**，1967年秋才到阳信；学校**补发约八个月工资** &mdash; 这一年的空悬，校方是认账的。
-- **原分配地不是医院，是宁夏放羊的荒滩。** 一个刚毕业的医科生，分去大西北牧羊。
-- **他是和同学私下对换才去的阳信。** 不是申诉换来的照顾。
+- **原分配地是宁夏的乡镇医院。** 仍是医生，仍属**国家干部编制**；这一届人虽被发落到边远乡镇，身份未降。降的是距离 &mdash; 青岛到宁夏两千公里。
+- **他是自己和同学对换才去的阳信。** 那年学校管理混乱，去艰苦地区的乡镇医院，双方同学**彼此同意即可** &mdash; 不必申请，不必批准。
 - **阳信是两段，不是一段：** 先在**翟王乡镇医院**（乡镇一级，比县级更低），**1974年**才调入[妻子](/family/su-ying-xian/)所在的**阳信县中医院**。前七年，夫妇二人不在同一所医院。
 
 由此，在阳信是**二十四年**（1967年秋&ndash;1991），去时二十九岁，归时五十三岁。
@@ -143,7 +144,7 @@ summary: "Eight weeks after Lijie's father wrote out by hand the story of his un
 
 他本人的经历正与此相合，且其女记下了确切时间：**悬置一年，1967年秋到任**。家中所述之所以格外具体，在于那**约八个月的补发工资** &mdash; 学校为这一年结的账：人在册上，资格在手，却无处可去。
 
-留校名单被换一事的分量也在此：那些年里，稀缺而受过高等训练并不构成任何保护，成绩恰恰是最先不作数的那种资格。而就他而言，也正是这身训练使他成为可被分配之人 &mdash; 先是分去一个要人放羊的地方，再是一个需要医生却留不住医生的地方。
+留校名单作废一事的分量也在此：那些年里，稀缺而受过高等训练并不构成任何保护，成绩恰恰是最先不作数的那种资格。这一届人的医生身份都还在，国家干部编制也都还在 &mdash; 被取走的是选择去处的可能。而正是这身训练使他成为可被分配之人：分去那些需要医生、却留不住医生的地方。
 
 </aside>
 
@@ -273,7 +274,9 @@ The largest correction is not a number. Asked about her father, Zhou Liang wrote
 
 Everything the archive held until now began with the uncle being **sent away**. This says he was never going to be. A **留校** post — kept on by your own institution after graduating — went to the top of the class, and his was confirmed. It was a job in Qingdao, in a teaching hospital, in the same city as his mother. **The list existed and his name was on it**, and then the Cultural Revolution cancelled the list.
 
-So everything that follows — the waste ground in the northwest, Yangxin, the blind mother, the nephew's years of petitioning, five people's lives rerouted — runs from a list being **rewritten** in the summer of 1966. The posts were not abolished. They went to the rebel factions instead.
+So everything that follows — Ningxia, Yangxin, the blind mother, the nephew's years of petitioning, five people's lives rerouted — runs from a list being **scrapped** in the summer of 1966.
+
+> *Who received those posts afterwards is not known to the family, and this archive does not guess. Zhou Liang knows only that the original list was voided; "who it was changed to would only be answered by consulting the Qingdao Medical College archives."*
 
 ### A year in limbo, and a swap — autumn 1967
 
@@ -281,13 +284,15 @@ The next day she sent three more messages, which close the gap between his 1966 
 
 > *"My dad was assigned to Yangxin in the autumn of 1967. The assignment was delayed a year because of the Cultural Revolution, and the college back-paid him about eight months' wages."*
 >
-> *"It was chaotic then. The original retained-post list was all swapped out for 造反派 — rebel-faction members."*
+> *"My dad was originally assigned to a township hospital in Ningxia, in the far northwest. He swapped with a classmate himself. Administration at the college was chaotic then — for going to a hard-posting rural township hospital, it was enough for the two classmates to agree with each other."*
 >
-> *"My dad was originally assigned to the barren land of Ningxia in the far northwest, herding sheep. He swapped with a classmate, and went to the northernmost part of Shandong, north of the Yellow River — the Zhaiwang Township Hospital in Yangxin County. In 1974 he transferred again, to the Yangxin County Traditional Chinese Medicine Hospital where my mother worked."*
+> *"Although their cohort was delayed a year and assigned to township hospitals in remote areas, they were all doctors on the state cadre establishment."*
+>
+> *"In 1974 he transferred again, to the Yangxin County Traditional Chinese Medicine Hospital where my mother worked."*
 
 - **The delay was a full year**, and the college **back-paid about eight months' wages** for it. The institution acknowledged in money that it had left him suspended.
-- **The first posting was not medicine at all.** Waste ground in **Ningxia**, herding sheep — a newly qualified doctor sent to mind livestock.
-- **He got out of it by trading with a classmate**, privately. Not by appeal, not by anyone's mercy.
+- **The first posting was a township hospital in Ningxia.** Still medicine, still the **state cadre establishment** — the whole delayed cohort went to remote township hospitals without losing that standing. What it cost him was two thousand kilometres.
+- **He got out of it by trading with a classmate**, himself. With the college's administration in disarray, a swap of hardship postings between two students needed only their mutual agreement — no application, no approval.
 - **Yangxin was two postings.** The **Zhaiwang township hospital** first — a rung below county level — and only in **1974** the county traditional-medicine hospital, where his wife [Su Ying Xian](/family/su-ying-xian/) already worked. For the first seven years they were at different hospitals.
 
 Which makes it **twenty-four years** in Yangxin, autumn 1967 to 1991: out at twenty-nine, home at fifty-three.
