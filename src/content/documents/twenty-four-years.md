@@ -19,7 +19,7 @@ dateRange:
   start: "1966"
   end: "1992"
 sortDate: "1991-01-01"
-summary: "The narrative version of the Zhou family's central story, told straight through. Zhou Zhaozheng graduated near the top of the 1966 class at Qingdao Medical College with a retained post at the college already confirmed; the Cultural Revolution scrapped the list, and he spent twenty-four years at township and county hospitals in the far north of Shandong. His mother went blind crying over it. His nephew Zhou Ling spent years working people, one at a time, until the transfer came through in 1991 and five members of the family came home to Qingdao. She died about a year later. For the sources, the conflicting accounts and the working-out of the dates, see the recording and the handwritten pages."
+summary: "The narrative version of the Zhou family's central story, told straight through. Zhou Zhaozheng graduated near the top of the 1966 class at Qingdao Medical College with a retained post at the college already confirmed; the Cultural Revolution scrapped the list, and he spent twenty-four years at township and county hospitals in the far north of Shandong. His mother went blind crying over it. His nephew Zhou Ling spent years working people, one at a time, until the transfer came through in 1991 and five members of the family came home to Qingdao. She died about a year later. For the sources and the working-out of the dates, see the recording and the handwritten pages."
 ---
 
 <p class="not-prose my-4 p-3 border-l-4 border-rule bg-ink/5 text-sm"><strong>📖 English version below &mdash; <a href="#en">Jump to English ↓</a></strong> &nbsp;·&nbsp; <em>本页中文在上，英文见下方。</em></p>
@@ -102,8 +102,8 @@ Twenty-four.
 
 ### The sources behind this
 
-This page tells the story straight through. The documents it was built from carry the evidence, the conflicting accounts and the working-out of the dates:
+This page tells the story straight through. The documents it was built from carry the evidence and the working-out of the dates:
 
 - **[Zhou Ling's handwritten recollection](/docs/zhou-ling-uncle-recollection/)** &mdash; two pages in his own hand, August 2026, ending before the transfer came through
-- **[The dinner-table recording at No. 109 Yan'an 3rd Road](/docs/zhou-ling-bringing-his-uncle-home/)** &mdash; September 2026, with audio, the full transcript, and everything the family corrected afterwards
-- **[Zhou Zhaozheng](/family/zhaozheng-zhou/)** &mdash; the life in detail, including the two places where his nephew's account and his daughter's do not agree
+- **[The dinner-table recording at No. 109 Yan'an 3rd Road](/docs/zhou-ling-bringing-his-uncle-home/)** &mdash; September 2026, with audio and the full transcript
+- **[Zhou Zhaozheng](/family/zhaozheng-zhou/)** &mdash; the life in detail, told by his daughter [Zhou Liang](/family/liang-zhou/)

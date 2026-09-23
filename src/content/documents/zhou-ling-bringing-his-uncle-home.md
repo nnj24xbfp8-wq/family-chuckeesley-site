@@ -154,7 +154,7 @@ summary: "Eight weeks after Lijie's father wrote out by hand the story of his un
 
 本档案[周玲页](/family/ling-zhou/)此前记有"文革年间那趟西去的火车" &mdash; 谓其乘火车赴西部诸省接亲眷回青岛。以本录音校之，当作修正：
 
-- 接的是**叔叔一家**，来处是**山东阳信**，非西部诸省。旧述所谓"西部"，很可能源于叔叔最初被分配到**大西北**一事 &mdash; 手记作青海，其女作宁夏；无论何处，他都未曾去成，而是与同学对换去了山东。
+- 接的是**叔叔一家**，来处是**山东阳信**，非西部诸省。旧述所谓"西部"，很可能源于叔叔最初被分配到**宁夏**一事 &mdash; 那一处他并未去成，而是与同学对换去了山东。
 - 所办之事**不是一趟火车**，而是多年的调动审批。
 - 同车而归的"年幼的堂表姊妹"，实为叔叔已成年或将成年的**三个女儿**。其中两位后来与Chuck、丽婕在青岛同席而食 &mdash; 这一节不误。
 
@@ -297,8 +297,6 @@ The next day she sent three more messages, which close the gap between his 1966 
 
 Which makes it **twenty-four years** in Yangxin, autumn 1967 to 1991: out at twenty-nine, home at fifty-three.
 
-> *This conflicts with the handwritten pages in two places, recorded rather than resolved. His nephew wrote **Qinghai**; his daughter says **Ningxia**. His nephew wrote that he **appealed to the college on grounds of family hardship** and was reassigned; his daughter says he **swapped with a classmate**. Both could be true in sequence — a failed appeal, then a private trade — but the archive should not assume it. The daughter was in the household; the nephew was writing decades later about his uncle.*
-
 <aside class="not-prose my-8 border-l-4 border-amber-700 bg-amber-50/60 dark:bg-amber-950/20 px-6 py-5 rounded-r">
 
 **The 老五届**
@@ -317,7 +315,7 @@ It is also why the rewritten 留校 list matters beyond one family. Being a scar
 
 Zhou Ling's [person page](/family/ling-zhou/) has carried a section called *"The Cultural Revolution train"* &mdash; a compressed telling in which he **rode a train out to the western provinces** to bring family members back to Qingdao. Against this recording, that needs amending:
 
-- The people he brought back were **his uncle's household**, and they were in **Yangxin County, Shandong** &mdash; not the western provinces. The "west" almost certainly comes from the uncle's **original posting to the far northwest** (Qinghai in the handwritten pages, Ningxia in his daughter's account), which he never took up: he swapped it with a classmate for Shandong.
+- The people he brought back were **his uncle's household**, and they were in **Yangxin County, Shandong** &mdash; not the western provinces. The "west" almost certainly comes from the uncle's **original posting to Ningxia**, which he never took up: he swapped it with a classmate for Shandong.
 - It was **not a train trip**. It was years of transfer petitioning.
 - The *"young female cousins"* on that train were the uncle's **three daughters**, grown or nearly grown by the time they moved. Two of them did later have lunch with Chuck and Lijie in Qingdao; that part stands.
 

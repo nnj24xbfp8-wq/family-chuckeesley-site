@@ -26,11 +26,11 @@ summary: "Lijie's paternal great-uncle — brother of her grandfather Zhaoxiang 
 
 2026年8月，Lijie之父[周玲](/family/ling-zhou/)手书[两页回忆](/docs/zhou-ling-uncle-recollection/)，本节即据此而来。
 
-**1966年毕业于青岛医学院本科** &mdash; 正值文化大革命开始之年。彼时大学毕业生稀少，须由国家按需分配。手记称他先被**分配至青海省**（其女周亮则记作**宁夏**，见下）。
+**1966年毕业于青岛医学院本科** &mdash; 正值文化大革命开始之年。彼时大学毕业生稀少，须由国家按需分配。
 
 **家中三个孩子，唯他一人读到大学毕业。** 父亲[周茂礼](/family/maoli-zhou/)早逝时他才一岁多，母亲[庞焕彩](/family/huancai-pang/)独自抚养三子女而无工作，兄[周兆祥](/family/zhaoxiang-zhou/)与姐[周秀珍](/family/xiuzhen-zhou/)只得去当学徒工挣钱养家。
 
-手记称因家庭困难他向校方申诉，最终改分配到**山东省最贫困的惠民地区**、**阳信县中医院**，此后一生皆在该院，由医师做到**副主任医师**。（其女所记路径较此为细：先在翟王乡镇医院，1974年方调入县中医院；改派亦非申诉而成，而是**与同学对换**。见下节。）
+他最终落在**山东省最贫困的惠民地区**、**阳信县**，由医师做到**副主任医师**。
 
 > *"因为是在贫困落后的地区医院，付主任医师就算进升到顶了。如果是在青岛等大城市早就进升到主任医师了（名额的限制）。"*
 
@@ -59,7 +59,7 @@ summary: "Lijie's paternal great-uncle — brother of her grandfather Zhaoxiang 
 四点：
 
 1. **分配延迟整整一年**，1966年毕业，**1967年秋**才到阳信。学校事后**补发约八个月工资** &mdash; 这一年的空悬，校方是认账的。
-2. **原分配地是宁夏的乡镇医院**（手记作青海）。仍是医生，仍属**国家干部编制** &mdash; 这一届人虽被发落到边远乡镇，身份未降。降的是距离：青岛到宁夏两千公里。
+2. **原分配地是宁夏的乡镇医院。** 仍是医生，仍属**国家干部编制** &mdash; 这一届人虽被发落到边远乡镇，身份未降。降的是距离：青岛到宁夏两千公里。
 3. **他是和同学对换才去的阳信。** 那年学校管理混乱，去艰苦地区的乡镇医院，**双方同学彼此同意即可** &mdash; 不必申请，不必批准。两个年轻人各自接过对方的去处。
 4. 阳信在**山东最北、黄河以北**。他先在**翟王乡镇医院**（乡镇一级，比县级更低），**1974年**才调入[妻子](/family/su-ying-xian/)所在的**阳信县中医院**。
 
@@ -124,11 +124,9 @@ A 留校 post — being kept on by your own institution — went to the top of a
 Four things here that the archive did not have:
 
 1. **The delay was a full year.** He graduated in 1966 and did not reach Yangxin until **autumn 1967**, and the college **back-paid roughly eight months of wages** for the interval. The institution acknowledged, in money, that it had left him in limbo.
-2. **The first assignment was a township hospital in Ningxia.** *(His nephew's handwritten pages say Qinghai — see the note below.)* He would still have been practising medicine, still on the **state cadre establishment** (国家干部编制); the whole delayed cohort went to remote township hospitals without losing that standing. What the posting cost him was distance: two thousand kilometres from his mother.
+2. **The first assignment was a township hospital in Ningxia.** He would still have been practising medicine, still on the **state cadre establishment** (国家干部编制); the whole delayed cohort went to remote township hospitals without losing that standing. What the posting cost him was distance: two thousand kilometres from his mother.
 3. **He got out of it by swapping with a classmate, himself.** Not by appeal and not by anyone's mercy. With the college's administration in disarray, a trade of hardship postings between two students needed nothing but their mutual agreement — no application, no approval.
 4. **Yangxin was two postings, not one.** He began at the **Zhaiwang Township Hospital** (翟王乡镇医院) — township level, a rung below county — in the far north of Shandong beyond the Yellow River, and only in **1974** moved to the **Yangxin County Traditional Chinese Medicine Hospital**, where his wife [Su Ying Xian](/family/su-ying-xian/) already worked.
-
-> *Two conflicts with [the handwritten pages](/docs/zhou-ling-uncle-recollection/), recorded rather than resolved: his nephew wrote **Qinghai**, his daughter says **Ningxia**; and his nephew wrote that he **appealed to the college on grounds of family hardship**, where his daughter says he **swapped with a classmate**. Both could be true in sequence — an appeal that failed, then a private trade — but the archive should not assume so. The daughter was in the household; the nephew was writing sixty years on about his uncle.*
 
 ### The ceiling
 
