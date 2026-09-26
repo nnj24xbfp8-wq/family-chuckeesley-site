@@ -9,7 +9,7 @@ people:
 dateRange:
   start: "2014"
 summary: "Since around 2016, the year after Chuck's father Charlie died of diabetes complications, Chuck and Lijie have ridden annually in the American Diabetes Association's Tour de Cure and the National MS Society's Waves to Wine — raising money for the two diseases the family has lost loved ones to and built a venture investment around. Each year's ride is recorded as a five-minute video and posted to YouTube. The cycling life itself runs older than the charity rides — the 2014 Sequoia Half Century pre-dates Charlie's November 2015 death — and a growing number of destination rides (Sequoia, Asti, Mo'omomi on Molokai) sit alongside the two anchor causes. This page collects the year-over-year video record."
-teaser: "Annual ADA Tour de Cure and MS Society Waves to Wine rides, anchored in Chuck's father's death from diabetes and Paul Twohey's friendship. Thirteen years of five-minute videos collected here, through Team Stanford's 2026 Waves to Wine."
+teaser: "Annual ADA Tour de Cure and MS Society Waves to Wine rides, anchored in Chuck's father's death from diabetes and Paul Twohey's friendship. A decade-plus of five-minute videos collected here, through Team Stanford's 2026 Waves to Wine."
 ---
 
 ## Why these two rides
@@ -18,7 +18,7 @@ teaser: "Annual ADA Tour de Cure and MS Society Waves to Wine rides, anchored in
 
 Beginning in **2016** &mdash; the year after Charlie's death &mdash; Chuck and Lijie have ridden **every year in the [American Diabetes Association's Tour de Cure](https://diabetes.org/tour)**, the ADA's nationwide cycling fundraiser, which raises tens of millions of dollars each year for diabetes research, awareness, and patient care. The continuous record runs 2016 through the present.
 
-The **[National MS Society's Waves to Wine](https://www.nationalmssociety.org/get-involved/events-and-fundraisers)** &mdash; the two-day Bay Area MS Society route running from San Francisco through the Sonoma wine country &mdash; runs a year longer and is anchored differently. Chuck and Lijie's friend **Paul Twohey** got Chuck onto the ride in **2014**, before Charlie's death, and they have ridden it **every year since &mdash; 2014 through the present**. No immediate family member has MS, but the years of riding have put Chuck and Lijie in contact with many people living with the disease and reinforced the commitment.
+The **[National MS Society's Waves to Wine](https://www.nationalmssociety.org/get-involved/events-and-fundraisers)** &mdash; the two-day Bay Area MS Society route running from San Francisco through the Sonoma wine country &mdash; runs a year longer and is anchored differently. Chuck and Lijie's friend **Paul Twohey** got Chuck onto the ride in **2014**, before Charlie's death, and it has been a fixture ever since, **from 2014 to the present**, apart from the years the event did not run during the COVID-19 pandemic. No immediate family member has MS, but the years of riding have put Chuck and Lijie in contact with many people living with the disease and reinforced the commitment.
 
 **Not every year has a five-minute video posted to YouTube; the years collected below are the years a video survives.** The years not listed are years the rides happened anyway.
 
@@ -75,7 +75,7 @@ Each ride below is a roughly five-minute YouTube recap.
   <p class="text-sm text-ink/60 italic text-center mt-1"><a href="https://youtu.be/yQkbItBM_Uw">youtu.be/yQkbItBM_Uw</a></p>
 </div>
 
-**MS Society Waves to Wine.** Paul Twohey's introduction year &mdash; the MS-rides practice begins here. Continued every year since.
+**MS Society Waves to Wine.** Paul Twohey's introduction year &mdash; the MS-rides practice begins here.
 
 <div class="not-prose my-6 max-w-2xl mx-auto">
   <div class="relative" style="padding-top: 56.25%">
@@ -238,7 +238,7 @@ Each ride below is a roughly five-minute YouTube recap.
   <p class="text-sm text-ink/60 italic text-center mt-1"><a href="https://youtu.be/aCUbGR6s27E">youtu.be/aCUbGR6s27E</a></p>
 </div>
 
-**Bike MS: Waves to Wine &mdash; Team Stanford University.** Through Sonoma County for the National MS Society. **The thirteenth consecutive Waves to Wine**, unbroken since Paul Twohey first got Chuck onto the ride in 2014.
+**Bike MS: Waves to Wine &mdash; Team Stanford University.** Through Sonoma County for the National MS Society, riding as Team Stanford University.
 
 <div class="not-prose my-6 max-w-2xl mx-auto">
   <div class="relative" style="padding-top: 56.25%">
@@ -280,7 +280,7 @@ The annual charity rides anchor the current generation's instance of **[Thread #
 
 The annual charity rides are the **2010s-and-2020s version** of the same pattern: not heroics, just sustained showing-up against the specific diseases the family has lost loved ones to.
 
-It is the smallest possible practice and the most compounding. **Thirteen years of annual five-minute videos** is a documentary record of who the rider was each year, and a financial record of the money raised, and a kinship record of who the ride was for.
+It is the smallest possible practice and the most compounding. **A decade and more of annual five-minute videos** is a documentary record of who the rider was each year, and a financial record of the money raised, and a kinship record of who the ride was for.
 
 ## See also
 
