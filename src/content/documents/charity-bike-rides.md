@@ -238,7 +238,7 @@ Each ride below is a roughly five-minute YouTube recap.
   <p class="text-sm text-ink/60 italic text-center mt-1"><a href="https://youtu.be/aCUbGR6s27E">youtu.be/aCUbGR6s27E</a></p>
 </div>
 
-**Bike MS: Waves to Wine &mdash; Team Stanford University.** Through Sonoma County for the National MS Society. **The thirteenth consecutive Waves to Wine**, unbroken since Paul Twohey first got Chuck onto the ride in 2014, and the first ridden under a Stanford team banner.
+**Bike MS: Waves to Wine &mdash; Team Stanford University.** Through Sonoma County for the National MS Society. **The thirteenth consecutive Waves to Wine**, unbroken since Paul Twohey first got Chuck onto the ride in 2014.
 
 <div class="not-prose my-6 max-w-2xl mx-auto">
   <div class="relative" style="padding-top: 56.25%">
