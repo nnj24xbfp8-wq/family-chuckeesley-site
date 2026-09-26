@@ -9,7 +9,7 @@ people:
 dateRange:
   start: "2014"
 summary: "Since around 2016, the year after Chuck's father Charlie died of diabetes complications, Chuck and Lijie have ridden annually in the American Diabetes Association's Tour de Cure and the National MS Society's Waves to Wine — raising money for the two diseases the family has lost loved ones to and built a venture investment around. Each year's ride is recorded as a five-minute video and posted to YouTube. The cycling life itself runs older than the charity rides — the 2014 Sequoia Half Century pre-dates Charlie's November 2015 death — and a growing number of destination rides (Sequoia, Asti, Mo'omomi on Molokai) sit alongside the two anchor causes. This page collects the year-over-year video record."
-teaser: "Annual ADA Tour de Cure and MS Society Waves to Wine rides, anchored in Chuck's father's death from diabetes and Paul Twohey's friendship. Twelve years of five-minute videos collected here."
+teaser: "Annual ADA Tour de Cure and MS Society Waves to Wine rides, anchored in Chuck's father's death from diabetes and Paul Twohey's friendship. Thirteen years of five-minute videos collected here, through Team Stanford's 2026 Waves to Wine."
 ---
 
 ## Why these two rides
@@ -238,6 +238,33 @@ Each ride below is a roughly five-minute YouTube recap.
   <p class="text-sm text-ink/60 italic text-center mt-1"><a href="https://youtu.be/aCUbGR6s27E">youtu.be/aCUbGR6s27E</a></p>
 </div>
 
+**Bike MS: Waves to Wine &mdash; Team Stanford University.** Through Sonoma County for the National MS Society. **The thirteenth consecutive Waves to Wine**, unbroken since Paul Twohey first got Chuck onto the ride in 2014, and the first ridden under a Stanford team banner.
+
+<div class="not-prose my-6 max-w-2xl mx-auto">
+  <div class="relative" style="padding-top: 56.25%">
+    <iframe class="absolute inset-0 w-full h-full" src="https://www.youtube.com/embed/gloXf8psZko" title="2026 Bike MS Waves to Wine — Team Stanford University" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </div>
+  <p class="text-sm text-ink/60 italic text-center mt-1"><a href="https://youtu.be/gloXf8psZko">youtu.be/gloXf8psZko</a></p>
+</div>
+
+<aside class="not-prose my-8 border-l-4 border-amber-700 bg-amber-50/60 dark:bg-amber-950/20 px-6 py-5 rounded-r">
+
+**Team Stanford University &mdash; Bike MS: Waves to Wine 2026**
+
+Team Stanford University rode Bike MS: Waves to Wine 2026 through Sonoma County to raise funds for the National MS Society. Thank you to every donor who made this ride possible.
+
+**[Donate or share the team page →](https://events.nationalmssociety.org/teams/99765)**
+
+As of **26 September 2026** the team has raised **$1,860** toward a **$2,500** goal, part of more than **$926,000** raised by all Waves to Wine riders this year.
+
+Nearly **one million people in the United States live with multiple sclerosis**, an unpredictable disease of the central nervous system. Funds raised support MS research and direct services for people living with the disease.
+
+**Donations remain open for several weeks after the ride.** Every gift, at any size, moves us closer to a world free of MS.
+
+*More about [Bike MS](https://events.nationalmssociety.org/2722).*
+
+</aside>
+
 ---
 
 ## Where this fits in the family threads
@@ -253,7 +280,7 @@ The annual charity rides anchor the current generation's instance of **[Thread #
 
 The annual charity rides are the **2010s-and-2020s version** of the same pattern: not heroics, just sustained showing-up against the specific diseases the family has lost loved ones to.
 
-It is the smallest possible practice and the most compounding. **Twelve years of annual five-minute videos** is a documentary record of who the rider was each year, and a financial record of the money raised, and a kinship record of who the ride was for.
+It is the smallest possible practice and the most compounding. **Thirteen years of annual five-minute videos** is a documentary record of who the rider was each year, and a financial record of the money raised, and a kinship record of who the ride was for.
 
 ## See also
 
