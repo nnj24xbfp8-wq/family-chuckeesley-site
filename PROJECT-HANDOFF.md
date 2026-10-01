@@ -47,7 +47,7 @@ EOF
 npx astro build --config astro.check.mjs 2>&1 | tail -5   # expect "N page(s) built ... Complete!" no errors
 rm -f astro.check.mjs; rm -rf /tmp/fam-check
 ```
-Current page count: **741**. (The noop image service skips real optimization so the check is fast.)
+Current page count: see the latest CI run. (The noop image service skips real optimization so the check is fast.)
 
 **jp2 handling:** sharp/Vercel may not read `.jp2`. Convert before referencing: `convert dadNNN.jp2 -quality 90 dadNNN.jpg` in the assets folder, then reference the `.jpg`.
 
@@ -57,24 +57,20 @@ Current page count: **741**. (The noop image service skips real optimization so 
 
 **Extracting photos from the "Four Generations" PowerPoint deck:** the deck at `src/assets/family/Four Generations of the Eesley Family navigation revised 1 copy copy.pptx` holds many family photos. To extract: `unzip` the pptx, images are in `ppt/media/`, map slide→image via `ppt/slides/_rels/slideN.xml.rels`, and read slide text via `sed 's/<[^>]*>/ /g' ppt/slides/slideN.xml`. Full-size photos go in `src/assets/family/originals/` with descriptive names; embed in pages with markdown `![alt](../../assets/family/originals/NAME.jpeg)`.
 
-## Working file: `vietnam-scan-catalog.md` (repo root)
+## Status: Vietnam-letter mining is COMPLETE (Oct 2026)
 
-This is the live worktable tracking every scan: duplicate clusters, published/held/orphan status, the dating workflow note, non-Charlie/sensitive finds, and orphan fragments. **Read it first** and keep it updated as you publish. Delete it when mining is complete.
+All 261 `dad###` scans have been read. See **`notes/VIETNAM-LETTERS-closeout-2026-10.md`** for the remaining duplicates, orphan pages, the drunk-December letter (dad250–252, kept private by Chuck's decision), and the envelope-dating tasks only Chuck can do. The old working table `vietnam-scan-catalog.md` has been deleted; everything still useful is in the close-out note.
 
-## Recently completed (most recent first)
-
-- **Alice Anderson McMaster page** — added 4 photos extracted from the deck (young-woman Eyer cabinet card, porch with son Don ~1911, Clifton School 1928 class photo, schoolroom portrait) at `family/alice-anderson-mcmaster/`.
-- **October 1970 letter run** (5 new letters, a clean contiguous sequence): Oct 3 (malaria recovery at Cam Ranh Bay, dad263/265/266/267/268 — trimmed a teasing passage Charlie himself flagged), Oct 6 (back to field, booby traps, "raise hell," anti-war voting, dad269/270/271/272), Oct 8 (leaving for field, dad273/274), Oct 10 (still-alive note, dad275/276), Oct 14 (**origin of the Hawaii R&R plan**, dad277/278).
-- **Woodstock entry fix** — `charlie-to-terrie-1970-spring-woodstock.md` had cited dad270, but dad270 is actually page 2 of the Oct 6 letter (scans were renumbered after that entry was written). Removed the false ref (`scans: []`), rewrote its source note, entry preserved as a text-only record.
-- Earlier this session: December 1970 letters, the full training-arc letters, Highland Ridge architecture document + Will Eesley building research, obituary/tribute-wall additions to charles-eesley and terrie-lee-eesley pages.
+**Last additions (1 Oct 2026):** `charlie-to-terrie-1970-12-04-security-platoon-da-nang` (dad210/211); dad208 attached as page 2 of `charlie-to-terrie-training-physical-and-mental-tests`.
 
 ## Open items / next steps
 
-1. **Keep mining forward** — the productive strategy is to *sample ahead* for clean, complete, datable letters rather than grinding faint fragments. Next block to read: **dad279+** (dad279–288, 291–336), plus low stragglers (dad6/11/12/18/26/101/103/119/125/137/147/148/152–157/166/181). Verify author on each.
-2. **dad264** = a **March 22, 1971** R&R-orders letter ("You are listed as Mrs. Eesley... reduced fare") — orphan page, belongs to the 1971 Hawaii-trip thread; needs its other page(s).
-3. **Faint orphan middle pages** (dad246/250/251) — relationship/marriage discussion, low-res, page 1s not matched. Complete if their other pages surface.
-4. **Orphan closings/middles to reunite:** dad220 (Thanksgiving-eve p1 continuation), Letter B middle, dad239, dad241.
-5. **Chuck's task:** add real dates to undated letters from the envelopes; match the Woodstock line to its physical letter so its scan can be repointed.
+1. **Chuck's envelope pass** — the four dating items at the bottom of the close-out note.
+2. **FamilySearch round 3** — the W1–W3 problems and the three bad standardized places in `notes/FAMILYSEARCH-FIXES-round2-verified-2026-08.md`.
+3. **Li Xun / Jinan follow-ups** — `notes/OPEN-QUESTIONS-for-Li-Xun-2026-07.md` (Shang Yaoli birth year, Li Yunhua birth date).
+4. Next content phase is open — candidates: `notes/photo-wish-list.md`, Wildermuth threads (`notes/WILDERMUTH-open-threads-2026-08.md`).
+
+Working notes (email drafts, photo lists, scan inventories, FamilySearch fix lists) live in `notes/`, not the repo root.
 
 ## Environment notes
 
