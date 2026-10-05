@@ -265,6 +265,15 @@ Nearly **one million people in the United States live with multiple sclerosis**,
 
 </aside>
 
+**ADA Tour de Cure &mdash; Team Stanford.** The American Diabetes Association ride, the one that began in Charlie's memory, ridden this year as Team Stanford, with thanks to the donors who backed it.
+
+<div class="not-prose my-6 max-w-2xl mx-auto">
+  <div class="relative" style="padding-top: 56.25%">
+    <iframe class="absolute inset-0 w-full h-full" src="https://www.youtube.com/embed/6MCJpU4yTpM" title="Team Stanford at the ADA Tour de Cure 2026: Thank You to Our Donors!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </div>
+  <p class="text-sm text-ink/60 italic text-center mt-1"><a href="https://youtu.be/6MCJpU4yTpM">youtu.be/6MCJpU4yTpM</a></p>
+</div>
+
 ---
 
 ## Where this fits in the family threads
