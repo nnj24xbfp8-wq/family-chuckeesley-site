@@ -274,6 +274,20 @@ Nearly **one million people in the United States live with multiple sclerosis**,
   <p class="text-sm text-ink/60 italic text-center mt-1"><a href="https://youtu.be/6MCJpU4yTpM">youtu.be/6MCJpU4yTpM</a></p>
 </div>
 
+<aside class="not-prose my-8 border-l-4 border-amber-700 bg-amber-50/60 dark:bg-amber-950/20 px-6 py-5 rounded-r">
+
+**Team Stanford University &mdash; Tour de Cure 2026: Northern California**
+
+Team Stanford University rode the 2026 Tour de Cure, the American Diabetes Association's flagship cycling fundraiser, to raise funds for diabetes research, prevention programs and community outreach. Thank you to every donor who made this ride possible.
+
+**[Donate or share the team page →](https://tour.diabetes.org/teams/Stanford?language=en)**
+
+As of **4 October 2026** the team has raised **$2,230** toward a **$2,500** goal.
+
+Every gift, at any size, helps the ADA fight back against a disease that hurts too many people and too many families.
+
+</aside>
+
 ---
 
 ## Where this fits in the family threads
